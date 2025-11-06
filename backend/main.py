@@ -1,9 +1,10 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Query, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import create_engine, text
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, Session
+from typing import List
 
-from models import Base
+from models import Base, Monument
 from env import DATABASE_URL
 
 app = FastAPI(title="Patrimoniu API")
@@ -26,6 +27,15 @@ SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base.metadata.create_all(bind=engine)
 
 
+def get_db():
+    """Dependency to get database session."""
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+
 @app.get("/health")
 async def health():
     try:
@@ -36,6 +46,41 @@ async def health():
         return {"status": "healthy", "database": "connected"}
     except Exception as e:
         return {"status": "unhealthy", "error": str(e)}
+
+
+@app.get("/monuments")
+async def get_monuments(
+    county: str = Query(..., description="County name"),
+    page: int = Query(1, ge=1, description="Page number"),
+    page_size: int = Query(20, ge=1, le=100, description="Items per page"),
+    db: Session = Depends(get_db)
+):
+    """Get monuments by county with pagination."""
+    skip = (page - 1) * page_size
+    
+    # Query monuments filtered by county, ordered by id (Nr. crt.)
+    query = db.query(Monument).filter(Monument.county == county).order_by(Monument.id)
+    total = query.count()
+    monuments = query.offset(skip).limit(page_size).all()
+    
+    return {
+        "count": total,
+        "page": page,
+        "page_size": page_size,
+        "total_pages": (total + page_size - 1) // page_size,
+        "results": [
+            {
+                "id": m.id,
+                "lmi_code": m.lmi_code,
+                "name": m.name,
+                "city": m.city,
+                "address": m.address,
+                "dating": m.dating,
+                "county": m.county,
+            }
+            for m in monuments
+        ]
+    }
 
 
 if __name__ == "__main__":
