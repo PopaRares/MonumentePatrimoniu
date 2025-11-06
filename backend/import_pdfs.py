@@ -6,11 +6,11 @@ from pathlib import Path
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import IntegrityError
-import os
 
 from models import Monument, Base
 from read_pdf import extract_table
 from pdf_config import COLUMN_COORDS, TABLE_BBOX_PERCENT, OTHER_PAGES_TOP
+from env import DATABASE_URL_LOCAL
 
 
 def get_county_from_filename(filename: str) -> str:
@@ -105,7 +105,7 @@ def main():
         sys.exit(1)
     
     # Database setup
-    database_url = os.getenv("DATABASE_URL", "postgresql://admin:password@localhost:5432/patrimoniu")
+    database_url = DATABASE_URL_LOCAL
     engine = create_engine(database_url)
     SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
     

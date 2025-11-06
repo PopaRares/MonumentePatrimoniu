@@ -1,9 +1,27 @@
+# Environment variables
 .env
-.env.local
-*.pyc
-__pycache__/
-node_modules/
-.svelte-kit/
-build/
-dist/
 
+# Database backups
+db_backups/*.sql
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

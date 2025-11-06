@@ -2,9 +2,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
-import os
 
 from models import Base
+from env import DATABASE_URL
 
 app = FastAPI(title="Patrimoniu API")
 
@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # Database setup
-database_url = os.getenv("DATABASE_URL", "postgresql://admin:password@postgres:5432/patrimoniu")
+database_url = DATABASE_URL
 engine = create_engine(database_url)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
