@@ -12,6 +12,8 @@ services:
       POSTGRES_DB: patrimoniu
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./db_backups:/backups:ro
+      - ./scripts/init-db.sh:/docker-entrypoint-initdb.d/init-db.sh:ro
     networks:
       - patrimoniu-network
     healthcheck:

@@ -1,4 +1,4 @@
-.PHONY: up down restart logs build clean
+.PHONY: up down restart logs build clean backup restore
 
 up:
 	docker compose up -d
@@ -30,6 +30,16 @@ rebuild:
 clean:
 	docker compose down -v
 	docker system prune -f
+
+backup:
+	./scripts/db_backup.sh
+
+restore:
+	@if [ -z "$(FILE)" ]; then \
+		echo "Usage: make restore FILE=db_backups/backup_YYYYMMDD_HHMMSS.sql"; \
+		exit 1; \
+	fi
+	./scripts/db_restore.sh $(FILE)
 
 start: up
 
