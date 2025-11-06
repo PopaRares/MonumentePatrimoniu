@@ -2,9 +2,8 @@ from fastapi import FastAPI, Query, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker, Session
-from typing import List
 
-from models import Base, Monument
+from models import Base, Monument, MonumentResponse, PaginatedMonumentsResponse
 from env import DATABASE_URL
 
 app = FastAPI(title="Patrimoniu API")
@@ -48,7 +47,7 @@ async def health():
         return {"status": "unhealthy", "error": str(e)}
 
 
-@app.get("/monuments")
+@app.get("/monuments", response_model=PaginatedMonumentsResponse)
 async def get_monuments(
     county: str = Query(..., description="County name"),
     page: int = Query(1, ge=1, description="Page number"),
@@ -63,24 +62,13 @@ async def get_monuments(
     total = query.count()
     monuments = query.offset(skip).limit(page_size).all()
     
-    return {
-        "count": total,
-        "page": page,
-        "page_size": page_size,
-        "total_pages": (total + page_size - 1) // page_size,
-        "results": [
-            {
-                "id": m.id,
-                "lmi_code": m.lmi_code,
-                "name": m.name,
-                "city": m.city,
-                "address": m.address,
-                "dating": m.dating,
-                "county": m.county,
-            }
-            for m in monuments
-        ]
-    }
+    return PaginatedMonumentsResponse(
+        count=total,
+        page=page,
+        page_size=page_size,
+        total_pages=(total + page_size - 1) // page_size,
+        results=[MonumentResponse.model_validate(m) for m in monuments]
+    )
 
 
 if __name__ == "__main__":
