@@ -1,11 +1,12 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,VS-I-s-B-06656,"Cetatea de pământ de la Vaslui, punct ""Dealul Paiului""",municipiul VASLUI,"Dealul Paiului, pct. “Cetăţuia”, la 2.5 km SV de mun.Vaslui; tarla 109, parcela cadastrală 1643","sec. XV, Epoca medievală"
 2,VS-I-s-A-06657,Zona curţilor domneşti din Vaslui,municipiul VASLUI,"Str. Ghica Vodă, la S de biserica ""Sf. Ioan""","sec. XV - XVI, Epoca medievală"
 3,VS-I-s-B-06658,Situl arheologic de la Armăşeni,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara Negruţi; tarla 71, parcela cadastrală 1427",
 4,VS-I-m-B-06658.01,Aşezare,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara Negruţi; tarla 71, parcela cadastrală 1427","sec. X - XI, Epoca medieval timpurie"
 5,VS-I-m-B-06658.02,Aşezare,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara Negruți; tarla 71, parcela cadastrală 1427","sec. VIII - IX, Epoca medieval timpurie"
 6,VS-I-m-B-06658.03,Aşezare,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara Negruţi; tarla 71, parcela cadastrală 1427","sec. VI - VII, Epoca migraţiilor"
 7,VS-I-m-B-06658.04,Aşezare,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara Negruţi; tarla 71, parcela cadastrală 1427",sec. III - IV p.Chr.
-8,VS-I-m-B-06658.05,Aşezare,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara","Epoca bronzului târziu, cultura Noua"
+8,VS-I-m-B-06658.05,Aşezare,sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"Pe malul stâng al pârâului Crasna, la cca 2 km S de sat şi la 200 m N de moara Negruţi; tarla 71, parcela cadastrală 1427","Epoca bronzului târziu, cultura Noua"
 9,VS-I-s-A-06659,"Cetăţuia de la Arsura, punct ""Mogoşeşti""",sat ARSURA; comuna ARSURA,"""Cetăţuia Mogoşeşti”, 1 km N de sat ; tarla 10","sec. IV - III a. Chr., Latène, cultura geto - dacică"
 10,VS-I-s-B-06660,"Situl arheologic de la Arsura, punct ""Cetăţuia Mogoşeşti""",sat ARSURA; comuna ARSURA,"La marginea de NE a satului şi la E de pct.""Cetăţuia Mogoşeşti""; tarla 9",
 11,VS-I-m-B-06660.01,Aşezare,sat ARSURA; comuna ARSURA,"La marginea de NE a satului şi la E de pct.""Cetăţuia Mogoşeşti""; tarla 9","sec. X - XI, Epoca medieval timpurie"
@@ -17,7 +18,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 17,VS-I-m-B-06661.01,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Stanţia” (""La Arie”), tarla 43, parcela cadastrală 999","sec. X - XI, Epoca medieval timpurie"
 18,VS-I-m-B-06661.02,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Stanţia” (""La Arie”), tarla 43, parcela cadastrală 999","sec. VII - IX, Epoca migraţiilor"
 19,VS-I-m-B-06661.03,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Stanţia” (""La Arie”), tarla 43, parcela cadastrală 999","sec. V - VI, Epoca migraţiilor"
-20,VS-I-m-B-06661.04,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI comuna EPURENI,"""Stanţia” (""La Arie”), tarla 43, parcela cadastrală 999 cadastrală 999","sec. IV p.Chr., Epoca romană târzie Stoicani-Aldeni"
+20,VS-I-m-B-06661.04,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Stanţia” (""La Arie”), tarla 43, parcela cadastrală 999","sec. IV p.Chr., Epoca romană târzie"
+21,VS-I-m-B-06661.05,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Stanţia” (""La Arie”), tarla 43, parcela cadastrală 999","Eneolitic târziu, cultura Stoicani-Aldeni"
 22,VS-I-s-B-06662,"Situl arheologic de la Bârlăleşti, punct ""Sturza""",sat BÂRLĂLEŞTI; comuna EPURENI,"""Sturza”, pe platoul şi panta de NV a dealului Ciomaga, la cca. 1 km S de sat tarlaua 38, parcela cadastrala 1137", ;
 23,VS-I-m-B-06662.01,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Sturza”, pe platoul şi panta de NV a dealului Ciomaga, la cca. 1 km S de sat tarlaua 38, parcela cadastrală 1137","sec. XII - XIII, Epoca ; medievală"
 24,VS-I-m-B-06662.02,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Sturza”, pe platoul şi panta de NV a dealului Ciomaga, la cca. 1 km S de sat tarlaua 38, parcela cadastrală 1137","sec. X - XI, Epoca medievală ; timpurie"
@@ -26,14 +28,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 27,VS-I-m-B-06662.05,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Sturza”, pe platoul şi panta de NV a dealului Ciomaga, la cca. 1 km S de sat tarlaua 38, parcela cadastrală 1137",Hallstatt ;
 28,VS-I-m-B-06662.06,Aşezare,sat BÂRLĂLEŞTI; comuna EPURENI,"""Sturza”, pe platoul şi panta de NV a dealului Ciomaga, la cca. 1 km S de sat tarlaua 38, parcela cadastrală 1137","Epoca bronzului, cultura ; Noua"
 29,VS-I-m-B-06662.07,Aşezare fortificată,sat BÂRLĂLEŞTI; comuna EPURENI,"""Sturza”, pe platoul şi panta de NV a dealului Ciomaga, la cca. 1 km S de sat tarlaua 38, parcela cadastrală 1137","Eneolitic, Cultura Cucuteni ; AII, AIII, B"
-30,VS-I-s-A-06663,Cetate,sat BUNEŞTI; comuna BUNEŞTI-AVEREŞTI comuna ALBEŞTI,"""Dealul Bobului (Bob)”, la 1 km E de sat, tarla 15, parcela cadastrală 452 locul fostului schit Vladnic (în pădure);","sec. IV - III a. Chr., Latène, cultura geto - dacică"
+30,VS-I-s-A-06663,Cetate,sat BUNEŞTI; comuna BUNEŞTI-AVEREŞTI,"""Dealul Bobului (Bob)”, la 1 km E de sat, tarla 15, parcela cadastrală 452","sec. IV - III a. Chr., Latène, cultura geto - dacică"
+31,VS-I-s-B-06664,Cetate,sat CORNI - ALBEŞTI; comuna ALBEŞTI,"La cca. 6 km E de sat şi la 300 m S-SV locul fostului schit Vladnic (în pădure); tarla 13, parcela cadastrală 249","de sec. IV - III a. Chr., Latène"
 32,VS-I-s-B-06665,Cetate,sat CREŢEŞTI; comuna CREŢEŞTI,"""Dealul Cetăţii”, 2 km NE de sat şi 500 S de drumul forestier (pădure); tarla 55, parcela cadastrală 1150","m sec. IV - III a. Chr., Latène, cultura geto - dacică"
 33,VS-I-s-B-06666,Aşezare,sat DĂNEŞTI; comuna DĂNEŞTI,"""La Islaz” la 500 m S de sat (păşune); tarla 42, parcela cadastrală 621","sec. IX - XV, Epoca medievală"
 34,VS-I-s-B-06667,"Situl arheologic de la Dodeşti, punct ""La Şipot""",sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55", –
 35,VS-I-m-B-06667.01,Necropolă,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","sec. XVII - XVIII, Epoca medievală –"
 36,VS-I-m-B-06667.02,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","sec. VIII - XI, Epoca medieval timpurie –"
 37,VS-I-m-B-06667.03,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","sec. V - VII, Epoca migraţiilor –"
-38,VS-I-m-B-06667.04,Aşezare,sat DODEŞTI; comuna DODEŞTI DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55 satului Dodeşti şi vatra cartierului","sec. IV p.Chr., Epoca romană târzie – romană"
+38,VS-I-m-B-06667.04,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","sec. IV p.Chr., Epoca romană târzie –"
+39,VS-I-m-B-06667.05,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","sec. II - III p.Chr., Epoca romană –"
 40,VS-I-m-B-06667.06,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55",Hallstatt –
 41,VS-I-m-B-06667.07,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","Epoca bronzului, cultura Noua –"
 42,VS-I-m-B-06667.08,Aşezare,sat DODEŞTI; comuna DODEŞTI,"""La Şipot” şi ""Călugăreasca”, între vatra satului Dodeşti şi vatra cartierului Tămăşeni (în mijlocul actualei localităţi teren sport); tarla 55","Eneolitic, cultura Stoicani- Aldeni –"
@@ -41,7 +45,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 44,VS-I-m-B-06668.01,Aşezare,sat DRĂGEŞTI; comuna TODIREŞTI,"""Sub Silişte”, la 500 m SSV de sat; tarla 27","sec. X - XVII, Epoca medievală"
 45,VS-I-m-B-06668.02,Aşezare,sat DRĂGEŞTI; comuna TODIREŞTI,"""Sub Silişte”, la 500 m SSV de sat; tarla 27","sec. V - IX, Epoca migraţiilor"
 46,VS-I-m-B-06668.03,Aşezare,sat DRĂGEŞTI; comuna TODIREŞTI,"""Sub Silişte”, la 500 m SSV de sat; tarla 27","sec. II - IV p.Chr., Epoca romană"
-47,VS-I-m-B-06668.04,Aşezare,sat DRĂGEŞTI; comuna TODIREŞTI TODIREŞTI,"""Sub Silişte”, la 500 m SSV de sat; tarla 27 27","Latène, cultura geto - dacică cultura Noua"
+47,VS-I-m-B-06668.04,Aşezare,sat DRĂGEŞTI; comuna TODIREŞTI,"""Sub Silişte”, la 500 m SSV de sat; tarla 27","Latène, cultura geto - dacică"
+48,VS-I-m-B-06668.05,Aşezare,sat DRĂGEŞTI; comuna TODIREŞTI,"""Sub Silişte”, la 500 m SSV de sat; tarla 27","Epoca bronzului târziu, cultura Noua"
 49,VS-I-s-B-06669,Aşezare,sat DUMEŞTI; comuna DUMEŞTI,"""Între pâraie”, la 1 km NE de sat; tarla","31 Eneolitic, cultura Cucuteni"
 50,VS-I-s-B-06670,Aşezare întărită,sat DUMEŞTI; comuna DUMEŞTI,"""La Şanţuri”, în padure la aproximativ km SE de sat; tarla 85","5 sec. IV - III a. Chr., Latène, cultura geto - dacică"
 51,VS-I-s-A-06671,Cetate,sat FEDEŞTI; comuna ŞULETEA,"""Cetăţuia”, la 1,5 km SV de sat; tarla 37, parcela cadastrală 511","sec. IV - III a. Chr., Latène, cultura geto - dacică"
@@ -51,14 +56,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 55,VS-I-m-B-06672.02,Aşezare,sat GARA BANCA; comuna BANCA,"""Şapte Case”, la 800 m V de sat, pe malul stâng al râului Bârlad; tarla 69, parcela cadastrală 1714,1715","sec. IV p.Chr., Epoca migraţiilor"
 56,VS-I-s-B-06673,"Situl arheologic de la Gârceni, punct ""Coada Plopilor""",sat GÂRCENI; comuna GÂRCENI,"""Coada Plopilor”, la marginea de SE a satului; tarla 39, parcela cadastrală 862",
 57,VS-I-m-B-06673.01,Aşezare,sat GÂRCENI; comuna GÂRCENI,"""Coada Plopilor”, la marginea de SE a satului; tarla 39, parcela cadastrală 862","sec. III - IV p.Chr., Epoca romană"
-58,VS-I-m-B-06673.02,Aşezare,sat GÂRCENI; comuna GÂRCENI GÂRCENI,"""Coada Plopilor”, la marginea de SE a satului; tarla 39, parcela cadastrală 862 satului; tarla 39, parcela cadastrală 862",Hallstatt Monteoru
+58,VS-I-m-B-06673.02,Aşezare,sat GÂRCENI; comuna GÂRCENI,"""Coada Plopilor”, la marginea de SE a satului; tarla 39, parcela cadastrală 862",Hallstatt
+59,VS-I-m-B-06673.03,Aşezare,sat GÂRCENI; comuna GÂRCENI,"""Coada Plopilor”, la marginea de SE a satului; tarla 39, parcela cadastrală 862","Epoca bronzului, cultura Monteoru"
 60,VS-I-m-B-06673.04,Aşezare,sat GÂRCENI; comuna GÂRCENI,"""Coada Plopilor”, la marginea de SE a satului; tarla 39, parcela cadastrală 862","Eneolitic, cultura Cucuteni şi A-B"
 61,VS-I-s-B-06674,Situl arheologic de la Giurcani,sat GIURCANI; comuna GĂGEŞTI,"La 2 km S de sat, pe o distanţă de cca km, între râul Elan şi șosea, spre oraşul Murgeni (teren arabil) ; tarla 54, parcela cadastrală 1128 (comuna Găgești) ; tarla 6, parcela cadastrală 36 (oraşul Murgeni)",9
 62,VS-I-m-B-06674.01,Necropolă,sat GIURCANI; comuna GĂGEŞTI,"La 2 km S de sat, pe o distanță de cca km, între râul Elan şi șosea, spre oraşul Murgeni (teren arabil) ; tarla 54, parcela cadastrlă 1128 (comuna Găgești) ; tarla 6, parcela cadastrală 36 (oraşul Murgeni)","9 sec. II - IV p.Chr., Epoca romană"
 63,VS-I-m-B-06674.02,Necropolă,sat GIURCANI; comuna GĂGEŞTI,"La 2 km S de sat, pe o distanţă de cca km, între râul Elan şi șosea, spre oraşul Murgeni (teren arabil) ; tarla 54, parcela cadastrală 1128 (comuna Găgești) ; tarla 6, parcela cadastrală 36 (oraşul Murgeni)",9 Epoca bronzului
 64,VS-I-s-B-06675,"Situl arheologic de la Gura Idrici, punct ""La Coşere""",sat GURA IDRICI; comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87",
 65,VS-I-m-B-06675.01,Aşezare,sat GURA IDRICI; comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87","sec. II - III p.Chr., Epoca romană"
-66,VS-I-m-B-06675.02,Aşezare,sat GURA IDRICI; comuna ROŞIEŞTI comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87 (teren arabil), pe ambele maluri ale",Latène
+66,VS-I-m-B-06675.02,Aşezare,sat GURA IDRICI; comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87",Latène
+67,VS-I-m-B-06675.03,Aşezare,sat GURA IDRICI; comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87",Hallstatt
 68,VS-I-m-B-06675.04,Aşezare,sat GURA IDRICI; comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87","Eneolitic, aspect cultural Stoicani-Aldeni"
 69,VS-I-m-B-06675.05,Aşezare,sat GURA IDRICI; comuna ROŞIEŞTI,"""La Coşere”, la marginea de NE a satului (teren arabil), pe ambele maluri ale pârâului Idrici; tarla 88, 87","Eneolitic, cultura Cucuteni"
 70,VS-I-s-B-06676,Situl arheologic de la Horga,sat HORGA; comuna EPURENI,"La marginea de S a satului, în dreapta podului CFR, pe terasa interfluvială; tarlaua 12, parcela cadastrală 376",
@@ -67,7 +74,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 73,VS-I-m-B-06676.03,Aşezare,sat HORGA; comuna EPURENI,"La marginea de S a satului, în dreapta podului CFR, pe terasa interfluvială; tarlaua 12, parcela cadastrală 376","Latène, cultura geto - dacică"
 74,VS-I-m-B-06676.04,Aşezare,sat HORGA; comuna EPURENI,"La marginea de S a satului, în dreapta podului CFR, pe terasa interfluvială; tarlaua 12, parcela cadastrală 376","Epoca bronzului târziu, cultura Noua"
 75,VS-I-s-B-06677,Aşezare,municipiul HUŞI,"""Corni”, ""Turbata”, la marginea de N municipiului (teren arabil); tarla 8","a sec. IV - III a. Chr., Latène"
-76,VS-I-s-B-06678,Situl arheologic de la Ibăneşti,sat IBĂNEŞTI; comuna IBĂNEŞTI IBĂNEŞTI,"La 2 km V de sat (teren arabil); tarla 102, parcela cadastrală 2647 parcela cadastrală 2647", medievală
+76,VS-I-s-B-06678,Situl arheologic de la Ibăneşti,sat IBĂNEŞTI; comuna IBĂNEŞTI,"La 2 km V de sat (teren arabil); tarla 102, parcela cadastrală 2647",
+77,VS-I-m-B-06678.01,Aşezare,sat IBĂNEŞTI; comuna IBĂNEŞTI,"La 2 km V de sat (teren arabil); tarla 102, parcela cadastrală 2647","sec. XVI - XVIII, Epoca medievală"
 78,VS-I-m-B-06678.02,Aşezare,sat IBĂNEŞTI; comuna IBĂNEŞTI,"La 2 km V de sat (teren arabil); tarla 102, parcela cadastrală 2647","sec. XII - XIII, Epoca medieval timpurie"
 79,VS-I-m-B-06678.03,Aşezare,sat IBĂNEŞTI; comuna IBĂNEŞTI,"La 2 km V de sat (teren arabil); tarla 102, parcela cadastrală 2647","sec. VIII - XI, Epoca medieval timpurie"
 80,VS-I-m-B-06678.04,Aşezare,sat IBĂNEŞTI; comuna IBĂNEŞTI,"La 2 km V de sat (teren arabil); tarla 102, parcela cadastrală 2647","sec. V - VII, Epoca migraţiilor"
@@ -79,7 +87,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 86,VS-I-m-B-06679.03,Aşezare,sat IVĂNEŞTI; comuna IVĂNEŞTI,"La 1 km N de sat, tarla 25","sec. II - III p.Chr., Epoca romană"
 87,VS-I-m-B-06679.04,Aşezare,sat IVĂNEŞTI; comuna IVĂNEŞTI,La 1 km N de sat; tarla 25,"Latène, cultura geto - dacică"
 88,VS-I-m-B-06679.05,Aşezare,sat IVĂNEŞTI; comuna IVĂNEŞTI,"La 1 km N de sat, tarla 25",Hallstatt
-89,VS-I-s-B-06680,"Situl arheologic de la Măluşteni, punct ""Cetăţuia""",sat MĂLUŞTENI; comuna MĂLUŞTENI comuna MĂLUŞTENI,"""Cetăţuia”, la marginea de NV a satului, pe o poziţie dominantă (păşune); tarla 19, parcela cadastrală 978-979 pe o poziţie dominantă (păşune); tarla",
+89,VS-I-s-B-06680,"Situl arheologic de la Măluşteni, punct ""Cetăţuia""",sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Cetăţuia”, la marginea de NV a satului, pe o poziţie dominantă (păşune); tarla 19, parcela cadastrală 978-979",
+90,VS-I-m-B-06680.01,Aşezare,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Cetăţuia”, la marginea de NV a satului, pe o poziţie dominantă (păşune); tarla 19, parcela cadastrală 978-979","Latène, cultura geto - dacică"
 91,VS-I-m-B-06680.02,Aşezare,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Cetăţuia”, la marginea de NV a satului, pe o poziţie dominantă (păşune); tarla 19, parcela cadastrală 978-979",Epoca bronzului
 92,VS-I-s-B-06681,"Situl arheologic de la Măluşteni, punct ""Leaua""",sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Leaua”, la 700 m E de sat; tarla 22, parcela cadastrală 1224",
 93,VS-I-m-B-06681.01,Aşezare,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Leaua”, la 700 m E de sat, tarla 22, parcela cadastrală 1224","sec. XI - XII, Epoca medieval timpurie"
@@ -90,7 +99,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 98, VS-I-m-B-06681.06, Aşezare, sat MĂLUŞTENI; comuna MĂLUŞTENI," ""Leaua”, la 700 m E de sat, tarla 22, parcela cadastrală 1224", Epoca bronzului
 99,VS-I-m-B-06681.07,Aşezare,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Leaua”, la 700 m E de sat, tarla 22, parcela cadastrală 1224","Eneolitic, cultura Cucuteni"
 100,VS-I-m-B-06681.08,Aşezare,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Leaua”, la 700 m E de sat, tarla 22, parcela cadastrală 1224","Neolitic, cultura Starčevo- Criş"
-101,VS-I-m-B-06681.09,Aşezare Murgeni,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Leaua”, la 700 m E de sat, tarla 22, parcela cadastrală 1224 cadastrală 622",Paleolitic
+101,VS-I-m-B-06681.09,Aşezare,sat MĂLUŞTENI; comuna MĂLUŞTENI,"""Leaua”, la 700 m E de sat, tarla 22, parcela cadastrală 1224",Paleolitic
+102,VS-I-s-B-06682,Situl arheologic de la Murgeni,oraş MURGENI,"La 700 m E de sat; tarla 39, parcela cadastrală 622",
 103,VS-I-m-B-06682.01,Aşezare,oraş MURGENI,"La 700 m E de sat; tarla 39, parcela cadastrală 622","sec. XVII - XVIII, Epoca medievală"
 104,VS-I-m-B-06682.02,Aşezare,oraş MURGENI,"La 700 m E de sat; tarla 39, parcela cadastrală 622","sec. XV - XVI, Epoca medievală"
 105,VS-I-m-B-06682.03,Aşezare,oraş MURGENI,"La 700 m E de sat; tarla 39, parcela cadastrală 622","sec. XII - XIV, Epoca medievală"
@@ -101,7 +111,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 110,VS-I-m-B-06682.08,Aşezare,oraş MURGENI,"La 700 m E de sat, tarla 39, parcela cadastrală 622","Latène, cultura geto - dacică"
 111,VS-I-m-B-06682.09,Aşezare,oraş MURGENI,"La 700 m E de sat; tarla 39, parcela cadastrală 622",Paleolitic
 112,VS-I-s-B-06683,"Situl arheologic de la Perieni, punct ""Râpa Râşcanilor""",sat PERIENI; comuna PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului, tarla 22, parcela cadastrală 430",
-113,VS-I-m-B-06683.01,Aşezare,sat PERIENI; comuna PERIENI PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului; tarla 22, parcela cadastrală cadastrală 430 marginea de NV a satului; tarla 22,","sec. III - IV p.Chr., Epoca romană"
+113,VS-I-m-B-06683.01,Aşezare,sat PERIENI; comuna PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului; tarla 22, parcela cadastrală cadastrală 430","sec. III - IV p.Chr., Epoca romană"
+114,VS-I-m-B-06683.02,Aşezare,sat PERIENI; comuna PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului; tarla 22, parcela cadastrală 430","Latène, cultura geto - dacică"
 115,VS-I-m-B-06683.03,Aşezare,sat PERIENI; comuna PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului; tarla 22, parcela cadastrală 430",Hallstatt
 116,VS-I-m-B-06683.04,Aşezare,sat PERIENI; comuna PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului; tarla 22, parcela cadastrală 430","Neolitic târziu, cultura ceramicii liniare"
 117,VS-I-m-B-06683.05,Aşezare,sat PERIENI; comuna PERIENI,"""Râpa Râşcanilor (Roşcanilor)”, la marginea de NV a satului, tarla 22, parcela cadastrală 430","Neolitic timpuriu, cultura Starčevo - Criş"
@@ -110,7 +121,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 120,VS-I-m-B-06684.02,Aşezare,sat PODU PETRIŞ; comuna CIOCANI,"""Dealul Balaurului”, la 300m E de sat; tarla 106, parcela cadastrală 1865",Epoca bronzului
 121,VS-I-s-A-06685,"Situl arheologic de la Poieneşti, punct ""Dealul Teiului""",sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359",
 122,VS-I-m-A-06685.01,Necropolă,sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359","sec. XIV - XVI, Epoca medievală"
-123,VS-I-m-A-06685.02,Aşezare,sat POIENEŞTI; comuna POIENEŞTI POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359 satului, pct. ""Magura""; tarla 16, parcela","mijl. sec. III p. Chr., Epoca daco-romană romană, cultura Poieneşti-"
+123,VS-I-m-A-06685.02,Aşezare,sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359","mijl. sec. III p. Chr., Epoca daco-romană"
+124,VS-I-m-A-06685.03,Aşezare,sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359","sec. III p.Chr., Epoca daco- romană, cultura Poieneşti- Vârteşcoi"
 125,VS-I-m-A-06685.04,Necropolă,sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359","sec. II - I a. Chr., Latène târziu, cultura Poieneşti- Lukasevka"
 126,VS-I-m-A-06685.05,Aşezare,sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359","sec. IV - III a. Chr., Latène, cultura geto - dacică"
 127,VS-I-m-A-06685.06,Aşezare,sat POIENEŞTI; comuna POIENEŞTI,"""Dealul Teiului”, la marginea de V a satului, pct. ""Magura""; tarla 16, parcela cadastrală 359","Epoca bronzului, cultura Noua"
@@ -118,7 +130,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 129,VS-I-s-B-06686,"Situl arheologic de la Rateşu Cuzei, punct ""La Chiuă""",sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal, tarla 69, parcela cadastrală 785",
 130,VS-I-m-B-06686.01,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69","sec. VIII - XI, Epoca medieval timpurie"
 131,VS-I-m-B-06686.02,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69","sec. VI - VIII, Epoca medieval timpurie"
-132,VS-I-m-B-06686.03,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69 pantele de E şi S ale botului de deal, tarla","sec. V - VI, Epoca migraţiilor romană târzie"
+132,VS-I-m-B-06686.03,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69","sec. V - VI, Epoca migraţiilor"
+133,VS-I-m-B-06686.04,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal, tarla 69","sec. IV p.Chr., Epoca romană târzie"
 134,VS-I-m-B-06686.05,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69",Latène
 135,VS-I-m-B-06686.06,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69",Hallstatt
 136,VS-I-m-B-06686.07,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69","Epoca bronzului târziu, cultura Noua"
@@ -127,7 +140,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 139,VS-I-m-B-06686.10,Aşezare,sat RATEŞU CUZEI; comuna REBRICEA,"""La Chiuă” la cca. 800m E de sat, pe pantele de E şi S ale botului de deal; tarla 69","Neolitic timpuriu, cultura Starčevo-Criş"
 140,VS-I-s-B-06687,Tumul,sat RÂŞEŞTI; comuna DRÂNCENI,"""Movila Râbâia” la 40 m N de sat ; tarla 69, parcela cadastrală 1145, 1146, 1147","sec. IV a. Chr., Latène"
 141,VS-I-s-B-06688,"Ruinele bisericii ""Sf. Nicolae”",sat SCHITU; comuna BOGDĂNIŢA,"În centrul satului, în cimitir",1845 - 1847
-142,VS-I-s-A-06689,"Situl arheologic de la Simila, punct ""Baraj""",sat SIMILA; comuna ZORLENI,"La cca. 3 km SV de sat, pe Valea Seacă, pe ambele maluri, pct. ""La Baraj"" (la 2,5 km NNV de municipiul Bârlad); tarla 27, cadastrală 401",
+142,VS-I-s-A-06689,"Situl arheologic de la Simila, punct ""Baraj""",sat SIMILA; comuna ZORLENI,"La cca. 3 km SV de sat, pe Valea Seacă, pe ambele maluri, pct. ""La Baraj"" (la 2,5 km NNV de municipiul Bârlad); tarla 27, parcela cadastrală 402 ; tarla 21, parcela",
 143,VS-I-m-A-06689.01,Aşezare,sat SIMILA; comuna ZORLENI,"La cca. 3 km SV de sat, pe Valea Seacă, pe ambele maluri, pct. ""La Baraj"" (la 2,5 km NNV de municipiul Bârlad); tarla 27, parcela cadastrală 402 ; tarla 21, parcela cadastrală 401","sec. X - XI, Epoca medieval timpurie"
 144,VS-I-m-A-06689.02,Aşezare,sat SIMILA; comuna ZORLENI,"La cca. 3 km SV de sat, pe Valea Seacă, pe ambele maluri, pct. ""La Baraj"" (la 2,5 km NNV de municipiul Bârlad); tarla 27, parcela cadastrală 402 ; tarla 21, parcela cadastrală 401","sec. IV - V, Epoca migraţiilor, cultura Sântana de Mureş"
 145,VS-I-m-A-06689.03,Necropolă,sat SIMILA; comuna ZORLENI,"La cca. 3 km SV de sat, pe Valea Seacă, pe ambele maluri, pct. ""La Baraj"" (la 2,5 km NNV de municipiul Bârlad) ; tarla 27, parcela cadastrală 402 ; tarla 21, parcela cadastrală 401","sec. IV - V, Epoca migraţiilor, cultura Sântana de Mureş"
@@ -135,6 +148,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 147,VS-I-s-B-06690,Cetatea,sat TÂRZII; comuna OLTENEŞTI,"""La Cetate” (""Stana”), la marginea de a satului (pădure); tarla 76","SSE sec. V - IV a. Chr., Latène"
 148,VS-I-s-A-06691,Situl arheologic de la Trestiana,sat TRESTIANA; comuna GRIVIŢA,"Pct. “Trestiana”, la 500 m NV de sat (teren arabil); tarla 55, parcela cadastrală 931","Neolitic timpuriu, cultura Starčevo-Criş"
 149,VS-II-m-B-06692,"Palatul Justiţiei, azi Judecătoria Vaslui",municipiul VASLUI,"Str. Badea Romeo, ing. 13",1891
+150,VS-II-m-B-06693,"Casa Sima, azi Casa Comis",municipiul VASLUI,Str. Donici Alecu 4,1922
 151,VS-II-m-B-06695,"Gimnaziul ""Mihail Kogălniceanu"", azi Școala cu clasele I-VIII Nr. 3 ”Constantin Parfene”",municipiul VASLUI,Str. Kogălniceanu Mihail 20,1890 - 1893
 152,VS-II-a-B-06696,"Ansamblu de arhitectură ""Str. Mihail Kogălniceanu""",municipiul VASLUI,Str. Kogălniceanu Mihail 20-24,1889 - 1911
 153,VS-II-m-B-06697,"Casa Arbore, azi C.A.R. Pensionari ”Solidaritatea”Vaslui",municipiul VASLUI,Str. Kogălniceanu Mihail 22,1890
@@ -144,7 +158,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 157,VS-II-m-B-06702,"Casa Mâdârjac, azi restaurant (S.C. DOREVECO S.R.L.)",municipiul VASLUI,Str. Ştefan cel Mare 43,1928
 158,VS-II-a-B-06703,"Ansamblu de arhitectură ""Str. Ştefan cel Mare""",municipiul VASLUI,"Str. Ştefan cel Mare 43-45, 49-59, 58-62",mijl. sec. XIX - prima jum. sec. XX
 159,VS-II-m-B-06705,"Casa Ornescu, azi Grădinița Nr. 9",municipiul VASLUI,Str. Ştefan cel Mare 49,1910 - 1912
-160,VS-II-m-B-06706,"Casa Peride, azi sediul PSD Militar Județean Vaslui",municipiul VASLUI,Str. Ştefan cel Mare 55,sf. sec. XIX - înc. sec. XX
+160,VS-II-m-B-06706,"Casa Peride, azi sediul PSD",municipiul VASLUI,Str. Ştefan cel Mare 55,sf. sec. XIX - înc. sec. XX
+161,VS-II-m-B-06707,"Casa Popescu, azi Centrul Militar Județean Vaslui",municipiul VASLUI,Str. Ştefan cel Mare 57,1891
 162,VS-II-m-A-06708,"Biserica ""Tăierea Capului Sf. Ioan Botezătorul”, Biserica Domnească",municipiul VASLUI,Str. Ştefan cel Mare 58,1820
 163,VS-II-m-B-06709,Casa Luchian,municipiul VASLUI,Str. Ştefan cel Mare 59,1901
 164,VS-II-m-B-06710,"Casa Ghica, azi Grădinița Nr. 1",municipiul VASLUI,Str. Ştefan cel Mare 60,sec. XIX
@@ -155,7 +170,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 169,VS-II-m-B-06713,"Casa Irimia, azi Casa Topală și Constantinescu",municipiul VASLUI,Str. Tipografiei 2,1920
 170,VS-II-m-B-06714,"Biserica ""Sf. Voievozi”",sat ALBEŞTI; comuna ALBEŞTI,"97, în centrul satului, în cimitir",1873 - 1875
 171,VS-II-m-B-06715,"Biserica de lemn ""Sf. Voievozi”",sat ARMĂŞENI; comuna BUNEŞTI-AVEREŞTI,"53, în partea de V a satului, în cimitir","1868, refaceri sec. XX"
-172,VS-II-m-B-06716,"Biserica de lemn ""Tăierea Capului Sf. Ioan Botezătorul” a fostului schit Armăşoaia Nicolae”",sat ARMĂŞOAIA; comuna PUNGEŞTI BĂCEŞTI,"226, în partea de V a satului, în cimitir",1869
+172,VS-II-m-B-06716,"Biserica de lemn ""Tăierea Capului Sf. Ioan Botezătorul” a fostului schit Armăşoaia",sat ARMĂŞOAIA; comuna PUNGEŞTI,"226, în partea de V a satului, în cimitir",1869
+173,VS-II-m-B-06717,"Biserica de lemn ""Sf. Nicolae”",sat BĂBUŞA; comuna BĂCEŞTI,"210, în partea de NV a satului, în cimitir",1836 - 1837
 174,VS-II-m-B-06718,"Biserica de lemn ""Adormirea Maicii Domnului”",sat BĂLEŞTI; comuna COZMEŞTI,"277, în centrul satului, în cimitir",1806
 175,VS-II-m-B-06719,"Liceul de Fete ""Iorgu Radu"", azi Școala cu Clasele I-VIII, Nr. 1 ”Iorgu Radu""",municipiul BÂRLAD,Str. Bălcescu Nicolae 6,1925 - 1936
 176,VS-II-m-B-06720,"Casa Greceanu, azi Protoieria Bârlad",municipiul BÂRLAD,Str. Bălcescu Nicolae 10,cca.1840
@@ -165,6 +181,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 180,VS-II-m-B-06724,Casa Cuza,municipiul BÂRLAD,Str. Cuza Alexandru Ioan 95A,sec. XIX
 181,VS-II-m-B-06725,"Liceul Teoretic ""Mihai Eminescu” (pavilioanele A-G)",municipiul BÂRLAD,Str. Eminescu Mihai 1,1957 - 1959
 182,VS-II-m-B-06726,"Casa Tuduri, azi Casa Monu și Darabană",municipiul BÂRLAD,Bd. Epureanu 3,1840
+183,VS-II-m-B-06727,"Casa Borş, azi Casa Crăciun",municipiul BÂRLAD,Bd. Epureanu 5,înc. sec. XX
 184,VS-II-a-B-06728,"Școala Profesională de Fete ”N. Roșca Codreanu”, azi Complexul de Servicii Comunitare Nr.1",municipiul BÂRLAD,Bd. Epureanu 19,sec. XIX - sec. XX
 185,VS-II-m-B-06728.01,"Casa Oprişan, azi Corp A (Central)",municipiul BÂRLAD,Bd. Epureanu 19,1825 - 1827
 186,VS-II-m-B-06728.02,Aripa de nord,municipiul BÂRLAD,Bd. Epureanu 19,1945 - 1962
@@ -176,7 +193,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 192,VS-II-m-B-06731,"Casa Silvian, azi creșă",municipiul BÂRLAD,Bd. Epureanu 26,cca. 1924
 193,VS-II-m-B-06732,"Casa Şuţu, azi Casa Chiriac",municipiul BÂRLAD,Bd. Epureanu 30,1840
 194,VS-II-m-B-06733,"Casa Atanasiu, azi S.C. CONSINT S.A.",municipiul BÂRLAD,Str. Hamangiu Constantin 1,1902 - 1904
-195,VS-II-m-B-06737,"Banca Populară ""Deşteptarea"", azi S.C.",municipiul BÂRLAD,"Str. Hamangiu Constantin 2, colţ cu Str. Republicii 221",sf. sec. XIX - înc. sec XX
+195,VS-II-m-B-06737,"Banca Populară ""Deşteptarea"", azi S.C. Crizantema SRL",municipiul BÂRLAD,"Str. Hamangiu Constantin 2, colţ cu Str. Republicii 221",sf. sec. XIX - înc. sec XX
 196,VS-II-m-B-06734,"Casa Guriță, azi cabinete medicale (primărie)",municipiul BÂRLAD,Str. Hamangiu Constantin 4,1927 - 1928
 197,VS-II-m-B-06736,"Şcoală primară de Fete şi Băieţi, azi Şcoala nr. 4 ""Tudor Pamfile""",municipiul BÂRLAD,Str. Hamangiu Constantin 16,1925
 198,VS-II-m-B-06735,Podul Verde,municipiul BÂRLAD,Str. Hamangiu Constantin 26,"ante 1850, intervenții sec. XX"
@@ -188,7 +205,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 204,VS-II-a-B-06743,"Casele Deciu, azi ansamblu de învăţământ",municipiul BÂRLAD,Str. Kogălniceanu Mihail 4-6,1896 - 1901
 205,VS-II-m-B-06743.02,"Casă, azi Clubul Copiilor ”Spiru Haret”",municipiul BÂRLAD,Str. Kogălniceanu Mihail 4,1896 - 1901
 206,VS-II-m-B-06743.01,"Casă, azi Şcoala de Muzică şi Arte Plastice ""N. Tonitza""",municipiul BÂRLAD,Str. Kogălniceanu Mihail 6,1896 - 1901
-207,VS-II-m-B-06744,"Biserica ""Sf. Ilie” a breslei blănarilor Justiţie al fostului judeţ",municipiul BÂRLAD,Str. Paloda 14,1859 - 1869
+207,VS-II-m-B-06744,"Biserica ""Sf. Ilie” a breslei blănarilor",municipiul BÂRLAD,Str. Paloda 14,1859 - 1869
+208,VS-II-m-A-06745,"Palatul Administrativ şi de Justiţie al fostului judeţ Tutova, azi Muzeul ”Vasile Pârvan”",municipiul BÂRLAD,Str. Pârvan Vasile 1,1890
 209,VS-II-m-A-06746,"Casa Sturdza, azi Muzeul ""Vasile Pârvan""",municipiul BÂRLAD,Str. Pârvan Vasile 4,a. 1812
 210,VS-II-m-B-06747,"Biserica ""Sf. Spiridon"" şi ""Buna Vestire”",municipiul BÂRLAD,Str. Pârvan Vasile 6,1822 - 1825
 211,VS-II-m-B-06748,Casa Mihai Marius Subţirelu,municipiul BÂRLAD,Str. Pârvan Vasile 39,1908
@@ -198,7 +216,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 215,VS-II-m-B-06750.02,Turn de poartă și clopotniță,municipiul BÂRLAD,Str. Popa Şapcă 11,1856 - 1859
 216,VS-II-m-B-06751,"Școala ”V. Pârvan”, azi imobil proprietate publică",municipiul BÂRLAD,Str. Republicii 85,1914
 217,VS-II-m-B-06752,"Casa Națională ”Stroe Belloescu”, azi Biblioteca municipală",municipiul BÂRLAD,Str. Republicii 149,1906 - 1908
-218,VS-II-m-B-06753,"BNR – Sucursală, azi Hotel ”Premier” – S.C. CONDA- TEX S.R.L Sindicatului Liber al",municipiul BÂRLAD,Str. Republicii 219,1910
+218,VS-II-m-B-06753,"BNR – Sucursală, azi Hotel ”Premier” – S.C. CONDA- TEX S.R.L",municipiul BÂRLAD,Str. Republicii 219,1910
+219,VS-II-m-B-06754,"Casă, azi Sediul PRM și al Sindicatului Liber al Pensionarilor",municipiul BÂRLAD,Str. Republicii 223,sf. sec. XIX - înc. sec. XX
 220,VS-II-m-B-06755,"Sala Curții cu Juri, azi Teatrul ”V.I. Popa”",municipiul BÂRLAD,Str. Republicii 268,1890
 221,VS-II-m-B-06756,"Spitalul Municipal de Urgenţă, Secţia ""Boli infecţioase"" (Pavilion I-II)",municipiul BÂRLAD,Str. Republicii 271-273,sf. sec. XIX
 222,VS-II-m-B-06757,"Locuința directorului Școlii Normale de Băieți (Casa Roşie), azi Centrul ”Mihai Eminescu”",municipiul BÂRLAD,Str. Republicii 277,1888
@@ -208,7 +227,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 226,VS-II-m-B-06759,"Biserica ""Sf. Voievozi”",municipiul BÂRLAD,Str. Sfinţii Voievozi 2,1827 - 1840
 227,VS-II-m-B-06760,"Biserica ""Vovidenia"" şi ""Cuvioasa Paraschiva”",municipiul BÂRLAD,Str. Ştefan cel Mare 1,"1826, intervenţii 1849;"
 228,VS-II-m-B-06761,"Biserica ""Sf. Dumitru”",municipiul BÂRLAD,Str. Vasile Lupu 1,1830 - 1833
-229,VS-II-m-A-06762,Biserica ”Adormirea Maicii Domnului” (Biserică Domnească) Domnului”,municipiul BÂRLAD ŞTEFAN CEL MARE,Piaţa Victoriei 1,1840 - 1842
+229,VS-II-m-A-06762,Biserica ”Adormirea Maicii Domnului” (Biserică Domnească),municipiul BÂRLAD,Piaţa Victoriei 1,1840 - 1842
+230,VS-II-m-B-06763,"Biserica ""Naşterea Maicii Domnului”",sat BÂRZEŞTI; comuna ŞTEFAN CEL MARE,"242, în centrul satului",1845 - 1847
 231,VS-II-m-B-06764,"Biserica de lemn şi vălătuci ""Sf. Nicolae” a fostului schit Bogdăneşti",sat BOGDĂNEŞTI; comuna BOGDĂNEŞTI,"393, în partea de NV a satului, în cimitir","1851, transformări sec. XX"
 232,VS-II-m-B-06765,"Biserica de lemn ""Adormirea Maicii Domnului”",sat BOGEŞTI; comuna POGANA,"4, în partea de SE a satului, în cimitir","1807, intervenţii 1924"
 233,VS-II-m-B-06766,"Biserica de lemn şi vălătuci ""Sf. Nicolae”",sat BOŢOAIA; comuna DĂNEŞTI,"21, în centrul satului","1757, refăcută 1857"
@@ -218,7 +238,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 237,VS-II-m-B-06771,Conacul Lambrino,sat BUTUCĂRIA; comuna ZĂPODENI,"2, în partea de NE a satului",sec XIX
 238,VS-II-m-B-06770,Biserica de lemn şi vălătuci „Sf. Împăraţi Constantin şi Elena”,sat BUTUCĂRIA; comuna ZĂPODENI,"30, în centrul satului, în cimitir",1834
 239,VS-II-m-A-06772,Pod de piatră,sat CĂNŢĂLĂREŞTI; comuna ŞTEFAN CEL MARE,"47, pe DN 15 D (km 115 + 036) ; la cca. 15 km N de Vaslui",1636
-240,VS-II-m-A-06773,"Biserica de lemn ""Sf. Nicolae” a fostului schit",sat CĂPUŞNENI; comuna LIPOVĂŢ,"19, în partea de SV a satului, în cimitir",1792
+240,VS-II-m-A-06773,"Biserica de lemn ""Sf. Nicolae” a fostului schit Orgoeştii Noi",sat CĂPUŞNENI; comuna LIPOVĂŢ,"19, în partea de SV a satului, în cimitir",1792
 241,VS-II-m-B-06774,"Biserica de lemn ""Sf. Nicolae”",sat aparţinător CĂZĂNEŞTI; oraş NEGREŞTI,"39, cartier Căzăneşti, în cimitir","1818, refaceri 1835"
 242,VS-II-m-B-06775,"Biserica de lemn şi vălătuci ""Naşterea Maicii Domnului”",sat CÂRJA; oraş MURGENI,"200, cartier Cârja de Sus, în partea de a satului",NE 1831 - 1833
 243,VS-II-m-A-06776,"Biserica de lemn ""Adormirea Maicii Domnului”",sat CÂRJOANI; comuna POGANA,"6, în partea de SV a satului, în cimitir, punctul ""Mastacani""","1777, transformări 1930"
@@ -228,7 +248,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 247,VS-II-m-B-06780,"Biserica ""Adormirea Maicii Domnului”",sat CHIŢCANI; comuna COSTEŞTI,"150, în partea de E a satului",cca. 1817
 248,VS-II-m-A-06781,Podul Doamnei (Podul de la Docolina),sat CHIŢCANI; comuna COSTEŞTI,"264, pe DN 24, la km 97, la cca. 70 m de şosea",E 1841
 249,VS-II-m-B-06782,"Biserica ""Naşterea Maicii Domnului”",sat CHIŢOC; comuna LIPOVĂŢ,"1, în partea de N a satului, în cimitir",1852 - 1855
-250,VS-II-m-B-06783,"Biserica de lemn ""Sf. Nicolae” Nicolae""",sat CIOFENI; comuna ZĂPODENI comuna GHERGHEŞTI,"31, în partea de SV a satului, aprox.1km, în cimitir",1819
+250,VS-II-m-B-06783,"Biserica de lemn ""Sf. Nicolae”",sat CIOFENI; comuna ZĂPODENI,"31, în partea de SV a satului, aprox.1km, în cimitir",1819
+251,VS-II-m-B-06784,"Biserica de lemn ""Sf. Nicolae""",sat CORODEŞTI; comuna GHERGHEŞTI,"142, în partea de SV a satului, în cimitir",1743
 252,VS-II-m-B-06785,"Biserica de lemn ""Cuvioasa Paraschiva”",sat COŞEŞTI; comuna IVĂNEŞTI,"În partea de SV a satului, în cimitir","1795, refăcută 1882"
 253,VS-II-m-B-06786,"Biserica de lemn ""Sf. Voievozi”",sat COTIC; comuna TODIREŞTI,"148, în partea de SV a satului, în cimitir",a.1850
 254,VS-II-m-B-06787,"Biserica de lemn ""Sf. Nicolae”",sat COZMEŞTI; comuna COZMEŞTI,"71, în centrul satului",sec. XIX
@@ -239,7 +260,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 259,VS-II-m-B-06792,"Biserica de lemn ""Sf. Gheorghe”",sat DRĂGEŞTI; comuna TODIREŞTI,"150, în partea de N a satului","1783, refaceri 1878"
 260,VS-II-a-A-06793,"Ansamblul bisericii de lemn ""Naşterea Sf. Ioan Botezătorul""",sat DUMBRĂVENI; comuna GÂRCENI,"4, în partea de NV a satului, în cimitir",sec. XVIII-XIX
 261,VS-II-m-A-06793.01,"Biserica de lemn ""Naşterea Sf. Ioan Botezătorul”",sat DUMBRĂVENI; comuna GÂRCENI,"4, în partea de NV a satului, în cimitir","1784 - 1787, refaceri 1814"
-262,VS-II-m-A-06793.02,Turn clopotniţă Împăraţi Constantin şi,sat DUMBRĂVENI; comuna GÂRCENI DUMEŞTI,"4, în partea de NV a satului, în cimitir",1814
+262,VS-II-m-A-06793.02,Turn clopotniţă,sat DUMBRĂVENI; comuna GÂRCENI,"4, în partea de NV a satului, în cimitir",1814
+263,VS-II-m-B-06794,"Biserica de lemn ""Sf. Împăraţi Constantin şi Elena”",sat DUMEŞTI; comuna DUMEŞTI,"343, în partea de NE a satului, în cimitir",1820
 264,VS-II-a-B-06795,"Conacul Emil Racoviță, azi Casă memorială",sat EMIL RACOVIŢĂ; comuna DĂNEŞTI,"1, în partea de E a satului",sec. XIX - XX
 265,VS-II-m-B-06795.01,Corp vechi - Gh. Racoviță,sat EMIL RACOVIŢĂ; comuna DĂNEŞTI,"1, în partea de E a satului",sec. XIX
 266,VS-II-m-B-06795.02,Corp nou – Emil Racoviță,sat EMIL RACOVIŢĂ; comuna DĂNEŞTI,"1, în partea de E a satului",înc. sec. XX
@@ -251,7 +273,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 272,VS-II-m-A-06797.02,Turn de poartă şi clopotniţă,sat FÂSTÂCI; comuna COZMEŞTI,"108, în partea de N a satului",1808
 273,VS-II-m-A-06797.03,Casă egumenească,sat FÂSTÂCI; comuna COZMEŞTI,"108, în partea de N a satului",1808
 274,VS-II-m-A-06797.04,Zid de incintă,sat FÂSTÂCI; comuna COZMEŞTI,"108, în partea de N a satului",1834 - 1851
-275,VS-II-a-A-06798,Mănăstirea Floreşti,sat FLOREŞTI; comuna POIENEŞTI POIENEŞTI,În partea de N a satului,sec. XVI-XIX
+275,VS-II-a-A-06798,Mănăstirea Floreşti,sat FLOREŞTI; comuna POIENEŞTI,În partea de N a satului,sec. XVI-XIX
+276,VS-II-m-A-06798.01,"Biserica ""Sf. Ilie”",sat FLOREŞTI; comuna POIENEŞTI,În partea de N a satului,1852 - 1859
 277,VS-II-m-A-06798.02,Palat egumenesc,sat FLOREŞTI; comuna POIENEŞTI,În partea de N a satului,1858 - 1880
 278,VS-II-m-A-06798.03,Turn de poartă şi clopotniţă,sat FLOREŞTI; comuna POIENEŞTI,În partea de N a satului,1852 - 1859
 279,VS-II-m-A-06798.04,Zid de incintă,sat FLOREŞTI; comuna POIENEŞTI,În partea de N a satului,1800 - 1821
@@ -261,7 +284,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 283,VS-II-m-B-06799,"Biserica de lemn ""Sf. Voievozi” a Mănăstirii Mălineşti",sat GÂRCENI; comuna GÂRCENI,"26, la cca. 2 km NV de sat, punctul ""La Mălineşti""",1826
 284, VS-II-m-B-06801," Biserica ""Sf. Gheorghe” a fostului schit Ghireasca", sat GHIREASCA; comuna MĂLUŞTENI," În partea de NE a satului, în cimitir"," sec. XVIII, transformări 1808; adăugiri 1945"
 285,VS-II-m-B-06803,"Biserica de lemn ""Sf. Gheorghe”",sat GRĂJDENI; comuna FRUNTIŞENI,"95, în centrul satului, în cimitir",înc. sec. XIX
-286,VS-II-m-B-06802,"Biserica ""Sf. Nicolae"" şi ""Sf. Treime” a Mănăstirii Grăjdeni ""Vovidenia” a Mănăstirii",sat GRĂJDENI; comuna FRUNTIŞENI comuna DIMITRIE,"259, la 1.5 km S de sat",1853 - 1860
+286,VS-II-m-B-06802,"Biserica ""Sf. Nicolae"" şi ""Sf. Treime” a Mănăstirii Grăjdeni",sat GRĂJDENI; comuna FRUNTIŞENI,"259, la 1.5 km S de sat",1853 - 1860
+287,VS-II-m-B-06804,"Biserica de lemn ""Vovidenia” a Mănăstirii ""Dimitrie Cantemir""",sat GRUMEZOAIA; comuna DIMITRIE CANTEMIR,"1, în partea de NE a satului, la cca. 3 km",sec. XIX
 288,VS-II-a-B-06805,Ansamblul conacului Dimachi-Arghiropol,sat GUGEŞTI; comuna BOŢEŞTI,"525-526, în partea de E a satului",sec. XVIII - XIX
 289,VS-II-m-B-06805.02,"Biserica ""Sf. Nicolae”",sat GUGEŞTI; comuna BOŢEŞTI,"525, în incinta conacului",1819
 290,VS-II-m-B-06805.01,Conacul Dimachi- Arghiropol,sat GUGEŞTI; comuna BOŢEŞTI,"526, în incinta conacului",sec. XVIII - sec. XIX
@@ -272,7 +296,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 295,VS-II-m-B-06811,"Casa Andrian și Linde, azi Cabinet av. Veselu Tudora",municipiul HUŞI,Str. 1 Decembrie 2,1910
 296,VS-II-m-B-06812,"Casa Jenică Mitache, azi Grădiniţa nr. 4",municipiul HUŞI,Str. 1 Decembrie 4,1910
 297,VS-II-m-B-06813,"Casa Sotir Zaharia, azi casa parohială a Bisericii ""Sf. Nicolae""",municipiul HUŞI,Str. 1 Decembrie 6,1916
-298,VS-II-m-B-06814,"Casa Teodoru, azi Casa Opriș Clubul Elevilor și Copiilor",municipiul HUŞI,Str. 1 Decembrie 8,1932
+298,VS-II-m-B-06814,"Casa Teodoru, azi Casa Opriș",municipiul HUŞI,Str. 1 Decembrie 8,1932
+299,VS-II-m-B-06816,"Camera Agricolă, azi Clubul Elevilor și Copiilor",municipiul HUŞI,Str. 1 Decembrie 11,1911
 300,VS-II-m-B-06815,"Casa Iancu Berea, azi Muzeul eparhial al Episcopiei Huşilor",municipiul HUŞI,Str. 1 Decembrie 10,1889
 301,VS-II-m-B-06817,"Casa av. D .Gociu, azi spital municipal",municipiul HUŞI,Str. 1 Decembrie 14A,1899
 302,VS-II-m-B-06818,"Casa Chiriţoiu, azi spital municipal",municipiul HUŞI,Str. 1 Decembrie 14B,1909
@@ -283,7 +308,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 307,VS-II-m-B-06820,"Seminarul Episcopiei Huşilor, azi U. M. 01776",municipiul HUŞI,Str. 1 Decembrie 48A,1926 - 1929
 308,VS-II-m-B-06809,"Casă, azi Protoieria Huşi",municipiul HUŞI,Str. 1 Decembrie 1,1860
 309,VS-II-m-B-06821,"Școala Normală de Băieți, azi Școala cu cls. I-VIII, nr. 3 "" Anastasie Panu""",municipiul HUŞI,Str. Caragiale Ion Luca 4,1893
-310,VS-II-m-B-06822,"Casa Poroşnicu, azi S.C.VIOANCA S.R.L. - Școala Nr.1",municipiul HUŞI,Str. Cuza Alexandru Ioan 5,1934
+310,VS-II-m-B-06822,"Casa Poroşnicu, azi S.C.VIOANCA S.R.L.",municipiul HUŞI,Str. Cuza Alexandru Ioan 5,1934
+311,VS-II-m-B-06823,"Banca ”Albina”, azi atelier - Școala Nr.1",municipiul HUŞI,Str. Cuza Alexandru Ioan 13,1914
 312,VS-II-m-B-06824,Casa Murgulescu,municipiul HUŞI,Str. Cuza Alexandru Ioan 27,sf. sec. XVIII - înc.sec. XX
 313,VS-II-m-B-06825,"Casa Buceag, azi Casa Darie și Țocu",municipiul HUŞI,Str. Cuza Alexandru Ioan 29,sf. sec. XIX - înc. sec. XX
 314,VS-II-m-B-06826,"Casa Popov - Frunzeti, azi locuința Țilea și a Primăriei",municipiul HUŞI,Str. Cuza Alexandru Ioan 35,1894
@@ -295,7 +321,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 320,VS-II-m-B-06832.01,"Biserica ""Sf.Voievozi”",municipiul HUŞI,Str. Eroilor 10,1849 - 1855
 321,VS-II-m-B-06832.02,Turn clopotniţă,municipiul HUŞI,Str. Eroilor 10,1850 - 1857
 322,VS-II-m-B-06833,"Casa Lorenzo Collavini, azi Casa Buzdugan",municipiul HUŞI,Str. Florilor 2,1924
-323,VS-II-m-B-06834,"Casa Singer, azi Casa Târziu Casa stăreției - Mănăstirea",municipiul HUŞI,Str. Florilor 4,1930 sec. XX
+323,VS-II-m-B-06834,"Casa Singer, azi Casa Târziu",municipiul HUŞI,Str. Florilor 4,1930
+324,VS-II-m-B-06831,"Conacul Mihail Ralea, azi Casa stăreției - Mănăstirea „Schimbarea la Faţă”",municipiul HUŞI,Str. Gavril Vicol 4,"înc. sec. XX, transformări sec. XX"
 325,VS-II-m-B-06835,"Tribunalul fostului județ Fălciu, azi Judecătorie şi Parchet",municipiul HUŞI,Str. Giugaru Alexandru 1,1892
 326,VS-II-m-B-06836,"Judecătoria Huși, azi Casa de Cultură ”Al. Giugaru”",municipiul HUŞI,Str. Giugaru Alexandru 2,1892
 327,VS-II-m-B-06837,Casele Ralea,municipiul HUŞI,Str. Kisacoff Toma 1-1A,1864 - 1867
@@ -306,6 +333,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 332,VS-II-m-A-06839.03,Pivniţele casei domneşti,municipiul HUŞI,Str. Kogălniceanu Mihail 15,sec. XV - XVII
 333,VS-II-m-A-06839.04,Turn de poartă şi clopotniţă,municipiul HUŞI,Str. Kogălniceanu Mihail 15,1938
 334,VS-II-m-A-06839.05,Zid de incintă,municipiul HUŞI,Str. Kogălniceanu Mihail 15,1826 - 1849
+335,VS-II-m-B-06808,"Biserica ""Vovidenia”",municipiul HUŞI,"Str. Schit 109, (Pe Dealul Coţoiul)","1850, reclădită 1938"
 336,VS-II-m-B-06840,"Biserica ""Sf. Gheorghe” a breslei blănarilor",municipiul HUŞI,Str. Sfântul Gheorghe 1,1856 - 1869
 337,VS-II-m-B-06841,"Școala de Cântăreți a Episcopiei Hușilor, azi Administrația Centrului Eparhial",municipiul HUŞI,Str. Ştefan cel Mare 1,1939
 338,VS-II-a-B-06842,"Ansamblu de arhitectură ""Str. General Teleman""",municipiul HUŞI,"Str. Teleman General 1-15, 2-8",mijl. sec. XIX - prima jum. sec. XX
@@ -315,7 +343,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 342,VS-II-m-A-06845,"Casa Adam Mitache, azi Muzeul municipal Huşi",municipiul HUŞI,Str. Teleman General 8,cca.1880
 343, VS-II-m-B-06846," Casa Enache, azi S.C. FARMNOVA S.R.L.", municipiul HUŞI, Str. Teleman General 11, sf. sec. XIX
 344,VS-II-m-B-06847,"Casa Faierştein, azi Casa Palcu",municipiul HUŞI,Str. Teleman General 13,1902
-345,VS-II-m-B-06848,"Casa Monasterianu, azi Restaurantul ”Podgoriile Hușilor” (S.C. BICOMPLEX S.R.L.) . Nicolae” a fostului schit",municipiul HUŞI IVĂNEŞTI,"Str. Teleman General 13A fostului sat, în cimitir",sf. sec. XIX
+345,VS-II-m-B-06848,"Casa Monasterianu, azi Restaurantul ”Podgoriile Hușilor” (S.C. BICOMPLEX S.R.L.) .",municipiul HUŞI,Str. Teleman General 13A,sf. sec. XIX
+346,VS-II-m-A-06850,Biserica de lemn „Sf. Nicolae” a fostului schit Gologofta -Hușenii-Balica,sat IVĂNEŞTI; comuna IVĂNEŞTI,"Cartier Gologofta, Balica, în centrul fostului sat, în cimitir","1774, refaceri 1820"
 347,VS-II-m-B-06851,"Conacul Jean Atanasiu, azi Mircescu",sat IVĂNEŞTI; comuna PĂDURENI,"59, în partea de V a satului",1912
 348,VS-II-m-A-06852,"Biserica de lemn ""Sf. Gheorghe” a fostului schit Lipovăţ (Zografu)",sat LIPOVĂŢ; comuna LIPOVĂŢ,"18, în partea de NV a satului, în cimitir","cca. 1626, refăcută 1717"
 349,VS-II-a-A-06853,Ansamblul conacului Constantin Corbu,sat MĂLĂIEŞTI; comuna VUTCANI,În centrul satului,Sec. XIX
@@ -324,7 +353,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 352,VS-II-m-B-06854,"Biserica de lemn ""Sf. Nicolae"" şi ""Sf. Dumitru”",sat MĂLUŞTENI; comuna MĂLUŞTENI,În centrul satului,"1814, refaceri 1895"
 353,VS-II-m-A-06855,"Biserica de lemn ""Adormirea Maicii Domnului” a fostului schit Hârsova ""Sf. Nicolae”",sat MĂNĂSTIREA; comuna DELEŞTI,"În partea de N a satului, în cimitir",1756
 354,VS-II-m-A-06856,"Ruinele bisericii ""Tăierea Capului Sf. Ioan Botezătorul”",sat MÂNZAŢI; comuna IBĂNEŞTI,"304, cartier Mânzaţi Boiereşti, în partea de SV a satului",1761
-355,VS-II-m-B-06857,"Biserica ""Sf. Nicolae”",sat MICLEŞTI; comuna MICLEŞTI KOGĂLNICEANU;,"349, în centrul satului, în cimitir",1830 - 1832
+355,VS-II-m-B-06857,"Biserica ""Sf. Nicolae”",sat MICLEŞTI; comuna MICLEŞTI,"349, în centrul satului, în cimitir",1830 - 1832
+356,VS-II-m-B-06858,"Biserica ""Sf. Spiridon”",sat MIHAIL KOGĂLNICEANU; comuna ARSURA,"26, în partea de NE a satului",1886
 357,VS-II-m-B-06859,"Biserica de lemn ""Sf. Voievozi”",sat MIRCEŞTI; comuna TĂCUTA,"8A, în partea de V a satului, cca.2 km, cimitir","în 1532, refăcută sec. XIX"
 358,VS-II-m-B-06860,"Biserica de lemn ""Sf. Voievozi”",sat MUNTENEŞTI; comuna ŞTEFAN CEL MARE,"31, în partea de NV a satului, în cimitir","1785, refaceri 1906"
 359,VS-II-m-A-06862,"Biserica de lemn ""Adormirea Maicii Domnului”",sat OBÂRŞENI; comuna VOINEŞTI,"21, în partea de NE a satului, în cimitir",1818
@@ -334,7 +364,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 363,VS-II-a-A-06865,Mănăstirea Pârveşti,sat PÂRVEŞTI; comuna COSTEŞTI,"23, în centrul satului,în cimitir",sec.XIX
 364,VS-II-m-A-06865.01,"Biserica de lemn ""Sf. Nicolae”",sat PÂRVEŞTI; comuna COSTEŞTI,"23, în centrul satului, în cimitir",1816 - 1820
 365,VS-II-m-A-06865.02,Turn clopotniţă,sat PÂRVEŞTI; comuna COSTEŞTI,"23, în centrul satului, în cimitir",1816 - 1820
-366,VS-II-m-B-06866,"Biserica de lemn ""Sf. Voievozi”",sat POGANA; comuna POGANA ZORLENI,"1, în centrul satului, în cimitir",1811 - 1812
+366,VS-II-m-B-06866,"Biserica de lemn ""Sf. Voievozi”",sat POGANA; comuna POGANA,"1, în centrul satului, în cimitir",1811 - 1812
+367,VS-II-m-B-06867,"Biserica ""Sf. Gheorghe”",sat POPENI; comuna ZORLENI,"384, în partea de SE a satului, în cimitir",cca.1811
 368,VS-II-m-B-06868,"Biserica de lemn ""Tăierea Capului Sf. Ioan Botezătorul”",sat POPEŞTI; comuna MICLEŞTI,"125, în partea de NE a satului, cca.500 în cimitir","m, sec.XIX"
 369,VS-II-a-A-06870,Ansamblul conacului Roset - Balş,sat PRIBEŞTI; comuna CODĂEŞTI,În partea de SE a satului,sec. XVII - XIX
 370,VS-II-m-A-06870.02,Conacul Roset - Balş,sat PRIBEŞTI; comuna CODĂEŞTI,"176, în partea de SE a satului",a. 1691
@@ -345,7 +376,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 375,VS-II-m-B-06874,"Biserica de lemn ""Sf. Voievozi”",sat RAFAILA; comuna RAFAILA,"645, în centrul satului, în cimitir",1838
 376,VS-II-m-B-06875,"Biserica de lemn ""Sf. Gheorghe”",sat RĂDUEŞTI; comuna DELEŞTI,"În partea de E a satului, în cimitir",1818
 377,VS-II-m-B-06876,"Biserica de lemn şi vălătuci ""Sf. Nicolae”",sat SCHINENI; oraş MURGENI,"56, în centrul satului, în cimitir","1805, transformări sec. XIX- XX"
-378,VS-II-a-B-06877,Ansamblul conacului mareşalului Constantin,sat SCHINETEA; comuna DUMEŞTI,"46, în partea de NV a satului",sec. XIX - XX
+378,VS-II-a-B-06877,Ansamblul conacului mareşalului Constantin Prezan,sat SCHINETEA; comuna DUMEŞTI,"46, în partea de NV a satului",sec. XIX - XX
 379,VS-II-m-B-06877.01,"Corp vechi, Av. Livaditi",sat SCHINETEA; comuna DUMEŞTI,"46, în partea de NV a satului",a.1897
 380,VS-II-m-B-06877.02,Casa administratorului,sat SCHINETEA; comuna DUMEŞTI,"46, în partea de NV a satului",a.1897
 381,VS-II-m-B-06877.03,"Corp nou, mareșal Constantin Prezan",sat SCHINETEA; comuna DUMEŞTI,"46, în partea de NV a satului",1939
@@ -357,7 +388,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 387,VS-II-m-B-06880,"Biserica de lemn ""Cuvioasa Paraschiva”",sat SOFRONEŞTI; comuna TODIREŞTI,"85, în partea de SE a satului, în cimitir","1783, refaceri 1957"
 388,VS-II-a-A-06881,Ansamblul conacului Rosetti - Solescu,sat SOLEŞTI; comuna SOLEŞTI,În partea de SE a satului,sec. XIX
 389,VS-II-m-A-06881.01,Conac,sat SOLEŞTI; comuna SOLEŞTI,În incinta ansamblului,cca. 1827
-390,VS-II-m-A-06881.02,Parc cu arbori seculari,sat SOLEŞTI; comuna SOLEŞTI SOLEŞTI,În incinta ansamblului,sec. XIX
+390,VS-II-m-A-06881.02,Parc cu arbori seculari,sat SOLEŞTI; comuna SOLEŞTI,În incinta ansamblului,sec. XIX
+391,VS-II-m-A-06881.03,Zid de incintă,sat SOLEŞTI; comuna SOLEŞTI,În incinta ansamblului,sec. XIX
 392,VS-II-m-A-06881.04,"Biserica ""Adormirea Maicii Domnului”",sat SOLEŞTI; comuna SOLEŞTI,La est de conac,1859 - 1860
 393,VS-II-m-B-06882,"Biserica de lemn ""Sf. Nicolae""",sat STÂNCĂŞENI; comuna VOINEŞTI,"42, în partea de V a satului, în cimitir","1795, refăcută cca. 1829"
 394,VS-II-m-B-06883,"Biserica de lemn ""Cuvioasa Paraschiva”",sat ŞIŞCANI; comuna HOCENI,"În partea de N a satului, în cimitir","cca. 1760, refaceri sec. XIX XX"
@@ -369,7 +401,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 400,VS-II-m-B-06888.02,Parc cu arbori seculari,sat TĂCUTA; comuna TĂCUTA,În partea de SE a satului,Sec. XIX
 401,VS-II-m-B-06888.01,"Biserica ""Sf. Gheorghe”",sat TĂCUTA; comuna TĂCUTA,"74, la S de conac",1839
 402,VS-II-m-B-06888.03,Conacul Sturdza,sat TĂCUTA; comuna TĂCUTA,"75, în partea de SE a satului",Sec. XIX
-403,VS-II-m-B-06889,"Biserica de lemn şi vălătuci ""Sf. Voievozi” ""Adormirea Maicii",sat TELEJNA; comuna ZĂPODENI GÂRCENI,"21, cartier Telejna Deal, la V de sat, cca km, în cimitir",2 1816
+403,VS-II-m-B-06889,"Biserica de lemn şi vălătuci ""Sf. Voievozi”",sat TELEJNA; comuna ZĂPODENI,"21, cartier Telejna Deal, la V de sat, cca km, în cimitir",2 1816
+404,VS-II-m-B-06890,"Biserica de lemn ""Adormirea Maicii Domnului”",sat TROHAN; comuna GÂRCENI,"123, în partea de V a satului, în cimitir","1824, refaceri 1940"
 405,VS-II-m-B-06891,"Biserica de lemn ""Sf. Nicolae”",sat ŢIBĂNEŞTII BUHLII; comuna BĂCEŞTI,"131, în partea de SE a satului, în cimitir",1837
 406,VS-II-m-B-06892,"Biserica de lemn ""Sf. Apostoli Petru şi Pavel”",sat VALEA LUI BOSIE; comuna TĂTĂRĂNI,"25, în partea de E a satului, în cimitir",1806 - 1807
 407,VS-II-m-B-06894,"Biserica de lemn ""Adormirea Maicii Domnului”",sat VĂLENI; comuna VĂLENI,"În centrul satului, în cimitir",1811 - 1815
@@ -380,7 +413,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 412, VS-II-a-A-06898, Ansamblul bisericii de lemn „Sf. Nicolae”, sat ZĂPODENI; comuna ZĂPODENI," Cartier Zăpodenii de Sus, în partea de NE, în cimitir", Sec. XVIII-XIX
 413,VS-II-m-A-06898.02,Turn clopotniţă,sat ZĂPODENI; comuna ZĂPODENI,La V de biserică,"Sec. XIX , transformări sec. XX"
 414,VS-II-m-A-06898.01,"Biserica de lemn ""Sf. Nicolae”",sat ZĂPODENI; comuna ZĂPODENI,"18, cartier Zăpodenii de Sus, în partea NE, în cimitir",de 1770 - 1775
-415,VS-IV-m-B-06899,Cimitir evreiesc din Războiul de,municipiul VASLUI,Str. Călugăreni 102,Sec. XVIII - XlX
+415,VS-IV-m-B-06899,Cimitir evreiesc,municipiul VASLUI,Str. Călugăreni 102,Sec. XVIII - XlX
+416,VS-IV-a-B-06900,Cimitirul Eroilor vasluieni din Războiul de Independenţă şi Primul Război Mondial,municipiul VASLUI,Str. Eternităţii 42,Sec. XX
 417,VS-IV-m-B- 06900.01,Mausoleul lui Peneş Curcanul,municipiul VASLUI,Str. Eternităţii 42,1934
 418,VS-IV-m-B-06901,Cimitirul familiei Ghica - Şubin,municipiul VASLUI,"Str. Ştefan cel Mare 58, în curtea bisericii domneşti “Sf. Ioan Botezatorul”",Sec. XIX-XX
 419,VS-IV-m-B-06902,Statuia Eroului Necunoscut din Primul Război Mondial,municipiul VASLUI,"Str. Ştefan cel Mare 64, în faţa Casei Armatei",1925
@@ -391,6 +425,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 424,VS-IV-m-B-06907,Bustul scriitorului Alexandru Vlahuţă,municipiul BÂRLAD,"Str. Republicii 281, în Grădina Publică",1921
 425,VS-IV-m-A-06908,Statuia doctorului Constantin Codrescu,municipiul BÂRLAD,"Str. Republicii 300, în incinta Spitalului Adulți",de 1903
 426,VS-IV-m-B-06909,Statuia eroului caporal Constantin Muşat,municipiul BÂRLAD,"Str. Tecuciului 2, în curtea UM 1458",1927
+427,VS-IV-m-A-06910,Cimitir evreiesc,municipiul BÂRLAD,Str. Tutovei 2,sec. XVIII - XIX
 428,VS-IV-m-B-06911,Capela memorială pentru Eroii din Primul Război Mondial,sat BUDA; comuna OŞEŞTI,"450, cartier Basarabia, în cimitirul Bisericii ""Cuvioasa Paraschiva""",1917
 429,VS-IV-m-B-06912,Bustul Domnitorului Alexandru Ioan Cuza,sat GRIVIŢA; comuna GRIVIŢA,"632, în faţa şcolii şi bisericii, în centrul satului",1904
 430,VS-IV-m-B-06913,Monumentul funerar al profesorului filantrop Stroe Belloescu,sat GRIVIŢA; comuna GRIVIŢA,"633, în centrul satului; în incinta ansamblului filantropic (şcoala, biserica şi statuia domnitorului Al. Ioan Cuza)",1912
@@ -399,5 +434,6 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 433,VS-IV-m-B-06916,Bustul pictorului Ştefan Dimitrescu,municipiul HUŞI,"Str. Teleman General 8, în incinta Muzeului municipal",sec. XX
 434,VS-IV-s-A-06917,Sit istoric „Movila lui Burcel”,sat MICLEŞTI; comuna MICLEŞTI,"Pe DN 24, la 20 km N de Vaslui și la 300 m V de Mănăstirea „Ştefan cel Mare şi Sfânt”",1498
 435,VS-IV-m-A-06918,Monumentul funerar al mareşalului Constantin Prezan şi al soţiei sale Olga Prezan,sat SCHINETEA; comuna DUMEŞTI,"În parcul conacului, pe latura de V","1943, refăcut 1993"
-436,VS-IV-m-A- 06919.01 06919.02,Mormântul comun al Elenei Cuza şi al mamei sale Ecaterina Rosetti Solescu,sat SOLEŞTI; comuna SOLEŞTI SOLEŞTI,"În curtea bisericii ""Adormirea Maicii Domnului"" Domnului""",1869 - 1909
+436,VS-IV-m-A- 06919.01,Mormântul comun al Elenei Cuza şi al mamei sale Ecaterina Rosetti,sat SOLEŞTI; comuna SOLEŞTI,"În curtea bisericii ""Adormirea Maicii Domnului""",1869 - 1909
+437,VS-IV-m-A- 06919.02,Mormântul Olgăi Rosetti- Solescu,sat SOLEŞTI; comuna SOLEŞTI,"În curtea bisericii ""Adormirea Maicii Domnului""",1924
 438,VS-IV-m-A- 06919.03,Mormântul lui Gheorghe Rosetti,sat SOLEŞTI; comuna SOLEŞTI,"În curtea bisericii ""Adormirea Maicii Domnului""",1916

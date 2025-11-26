@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,TM-I-s-B-06049,Situl arheologic de la Timişoara,municipiul TIMIŞOARA,"""Cioreni” (Gara Ronaţ)",
 2,TM-I-m-B-06049.01,Aşezare medieval timpurie,municipiul TIMIŞOARA,"""Cioreni” (Gara Ronaţ)",Epoca medievală timpurie
 3,TM-I-m-B-06049.02,Aşezare daco-romană,municipiul TIMIŞOARA,"""Cioreni” (Gara Ronaţ)","sec. III - IV p. Chr., Epoca daco -romană"
 4,TM-I-s-A-06050,Fortificaţiile cetăţii Timişoara,municipiul TIMIŞOARA,"Str. Cuza Alexandru Ioan 1, Parcul Botanic",sec. XVIII
@@ -6,7 +7,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,TM-I-s-B-06052,"Situl arheologic ""Dealul Crucii""",sat BECICHERECU MIC; comuna BECICHERECU MIC,"""Satul vechi"", la 2 km NV de sat",sec. XIV - XV
 7,TM-I-s-B-06053,"Cetatea ""Dosul""",sat BENCECU DE JOS; comuna PIŞCHIA,"""Dosul”, la 1,2 km NV de sat",sec. XII - XIV
 8,TM-I-s-B-06054,Tell-ul de la Bucovăţ,sat BUCOVĂŢ; comuna BUCOVĂŢ,"""Gruniul cu cremene"", la 150-200 m de sat","N mil. IV a. Chr., Neolitic"
-9,TM-I-s-A-06055,Cetatea Morisena,sat CENAD; comuna CENAD comuna CHECEA,Centrul satului,sec. X - XVII bronzului
+9,TM-I-s-A-06055,Cetatea Morisena,sat CENAD; comuna CENAD,Centrul satului,sec. X - XVII
+10,TM-I-s-B-06056,Câmp de tumuli,sat CHECEA; comuna CHECEA,În hotarul satului,"mil. II a. Chr., Epoca bronzului"
 11,TM-I-s-B-06057,Tell-ul de la Chişoda,sat CHIŞODA; comuna GIROC,"""Livezile”, la 1 km NE de sat","mil. IV a. Chr., Neolitic"
 12,TM-I-s-B-06058,Val roman,sat CHIŞODA; comuna GIROC,"Extravilan, între CET şi Şag","mil. I p. Chr., Epoca romană"
 13,TM-I-s-A-06059,Cetatea medievală de Făget,la oraş FĂGET,"""Cetate”, la 500 m NE de sat",sec. XV - XVII
@@ -16,7 +18,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 17,TM-I-s-B-06063,Situl arheologic de la Hodoni,sat HODONI; comuna SATCHINEZ,"""La Picioroane”, la 500 m SE de sat",
 18,TM-I-m-B-06063.01,Necropolă,sat HODONI; comuna SATCHINEZ,"""La Picioroane”, la 500 m SE de sat","sec. XI - XII, Epoca medievală timpurie"
 19,TM-I-m-B-06063.02,Aşezare,sat HODONI; comuna SATCHINEZ,"""La Picioroane”, la 500 m SE de sat","mil. III a. Chr., Neolitic"
-20,TM-I-s-B-06064,Aşezare,sat HODONI; comuna,"Spre SE, în hotarul satului","sec. III - IV, Epoca daco - romană"
+20,TM-I-s-B-06064,Aşezare,sat HODONI; comuna SATCHINEZ,"Spre SE, în hotarul satului","sec. III - IV, Epoca daco - romană"
 21,TM-I-s-B-06065,Cetate turcească,sat IANOVA; comuna REMETEA MARE,"""Cetatea Turcească”, la 2 km S de sat",sec. XIV - XVI
 22,TM-I-s-B-06066,Aşezare,sat aparţinător IZVIN; oraş RECAŞ,"""După vii”, la 4 km N de sat","mil. VI a. Chr., Paleolitic"
 23,TM-I-s-A-06067,Cetatea Jdioarei,sat JDIOARA; comuna CRICIOVA,La 1 km NE de sat,sec. XIII - XVI
@@ -26,7 +28,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 27,TM-I-m-B-06070.01,Ruine biserică,sat MĂNĂŞTUR; comuna MĂNĂŞTUR,La 100 m E de sat,sec. XIV
 28,TM-I-m-B-06070.02,Aşezare,sat MĂNĂŞTUR; comuna MĂNĂŞTUR,La 100 m E de sat,sec. XIV - XVII
 29,TM-I-s-B-06071,Aşezare,sat MORAVIŢA; comuna MORAVIŢA,"""Islaz”, ""La Cărămidari”, la 2 km N sat","de mil. III a. Chr., Neolitic"
-30,TM-I-s-B-06072,Tumuli,sat MOŞNIŢA VECHE; comuna,"""Satul bătrân”, sub pădurea Bistra, 3 km N de sat","la mil. II a. Chr., Epoca bronzului"
+30,TM-I-s-B-06072,Tumuli,sat MOŞNIŢA VECHE; comuna MOŞNIŢA NOUĂ,"""Satul bătrân”, sub pădurea Bistra, 3 km N de sat","la mil. II a. Chr., Epoca bronzului"
 31,TM-I-s-B-06073,Câmp de tumuli,sat NERĂU; comuna TEREMIA MARE,,"mil. II a. Chr., Epoca bronzului"
 32,TM-I-s-B-06074,Tumuli,sat OFSENIŢA; comuna BANLOC,"""Gomila”, la 2 km NE de sat","mil. II a. Chr., Epoca bronzului"
 33,TM-I-s-B-06075,Fortificaţie medievală,sat aparţinător OPATIŢA; oraş DETA,La 500 m NE de sat,sec. XII - XVI
@@ -35,7 +37,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 36,TM-I-s-B-06078,"Situl arheologic de la Remetea Mare, punct ""Gomila lui Gabor”",sat REMETEA MARE; comuna REMETEA MARE,"""Gomila lui Gabor”, la 1 km SE de sat",
 37,TM-I-m-B-06078.01,Aşezare,sat REMETEA MARE; comuna REMETEA MARE,"""Gomila lui Gabor”, la 1 km SE de sat",Epoca medievală timpurie
 38,TM-I-m-B-06078.02,Aşezare,sat REMETEA MARE; comuna REMETEA MARE,"""Gomila lui Gabor”, la 1 km SE de sat","mil. I a. Chr., Hallstatt, Latène"
-39,TM-I-s-B-06079,Mănăstire (ruine),sat REMETEA MARE; comuna REMETEA MARE comuna TOMEŞTI,"""Cetate”, la 500 m SV de sat",sec. XII - XVI
+39,TM-I-s-B-06079,Mănăstire (ruine),sat REMETEA MARE; comuna REMETEA MARE,"""Cetate”, la 500 m SV de sat",sec. XII - XVI
+40,TM-I-s-B-06080,Aşezare,sat ROMANEŞTI; comuna TOMEŞTI,"Pe terasă, la 600 m NV de sat","mil. VI a. Chr., Paleolitic"
 41,TM-I-s-B-06081,"Situl arheologic de la ""Peştera cu Apă""",sat ROMANEŞTI; comuna TOMEŞTI,"""Peştera cu apă”, la 6 km N de sat",
 42,TM-I-m-B-06081.01,Aşezare,sat ROMANEŞTI; comuna TOMEŞTI,"""Vârful lui Filip”,, la 6 km N de sat","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 43,TM-I-m-B-06081.02,Aşezare în peşteră,sat ROMANEŞTI; comuna TOMEŞTI,"""Peştera cu apă”, la 6 km N de sat","Neolitic, Cultura Tisa"
@@ -45,7 +48,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 47,TM-I-s-B-06085,Aşezare medievală,oraş SÂNNICOLAU MARE,"""Selişte”, la 1 km E de localitate","sec. XII - XIII, Epoca medievală timpurie"
 48,TM-I-s-B-06086,Cetate de pământ,sat SECEANI; comuna ORŢIŞOARA,În intravilan,sec. XII - XIV
 49,TM-I-s-B-06087,Aşezare,sat aparţinător STANCIOVA; oraş RECAŞ,"""Grădişte”, la 3 km N de sat","mil. VI a. Chr., Paleolitic"
-50,TM-I-s-B-06088,Aşezare,sat UNIP; comuna SACOŞU TURCESC SACOŞU TURCESC,"""Oceala”, la 1,5 km SE de sat","mil. VI a. Chr., Paleolitic"
+50,TM-I-s-B-06088,Aşezare,sat UNIP; comuna SACOŞU TURCESC,"""Oceala”, la 1,5 km SE de sat","mil. VI a. Chr., Paleolitic"
+51,TM-I-s-B-06089,Aşezare,sat UNIP; comuna SACOŞU TURCESC,"""Dealul Cetăţuica”, la 3 km NV de sat","mil. VI a. Chr., Paleolitic"
 52,TM-I-s-B-06090,Tumuli,sat VIZEJDIA; comuna GOTTLOB,Pe terenul fostului CAP,"mil. II a. Chr., Epoca bronzului"
 53,TM-I-s-B-06091,Aşezare medievală,sat VOITEG; comuna VOITEG,"""Selişte”, la 6 km V de sat",sec. XII - XIV
 54,TM-I-s-B-06092,Situl arheologic de la Voiteg,sat VOITEG; comuna VOITEG,La 3 km V de sat,
@@ -55,7 +59,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 58,TM-II-m-A-06093,"Biserica de lemn ""Sf. Arhangheli”",municipiul TIMIŞOARA,"""Pădurea Verde"", în NE oraşului, în Muzeul Satului Bănăţean",1750 - 1800
 59,TM-II-m-A-06094,Centrală hidroelectrică,municipiul TIMIŞOARA,Pe canalul Bega,1907 - 1910
 60,TM-II-s-A-06095,"Situl urban Cartierul ""Cetatea Timişoara""",municipiul TIMIŞOARA,Piaţa Victoriei-Piaţa Huniade Iancu Str. Telbisz Carol - Str. Proclamaţia la Timişoara - Str. Hector - Piaţa Brătianu Ionel I.C. - Str. Oituz - Str. Dima Gh. - Str. Sf. Ioan,- sec. XVIII - XX de
-61,TM-II-s-B-06096,"Situl urban ""Fabric"" (I)",municipiul TIMIŞOARA,"Str. Timocului - Str. Dacilor (ambele fronturi) - Str. Ştefan cel Mare (ambele fronturi) - Str. Şcolii - Str. Comăneşti - Piaţa Suluţiu Sterca Al., mitropolit - Piaţa Vlaicu Aurel - Str. Negruzzi C. - Str. Ispirescu Petre",sec. XVIII - XIX
+61,TM-II-s-B-06096,"Situl urban ""Fabric"" (I)",municipiul TIMIŞOARA,"Str. Timocului - Str. Dacilor (ambele fronturi) - Str. Ştefan cel Mare (ambele fronturi) - Str. Şcolii - Str. Comăneşti - Piaţa Suluţiu Sterca Al., mitropolit - Piaţa Vlaicu Aurel - Str. Petrescu - Titel Constantin - Str.",sec. XVIII - XIX
 62,TM-II-a-A-06097,"Ansamblul urban ""Fabric"" (II)",municipiul TIMIŞOARA,"Pod Neptun - Splaiul Nistrului - Str. Linţia Dionisie, professor - Str. 3 August 1919 (nr. 33) - Str. Mirceşti (până la intersecţia cu Str. Abrud) - Piaţa Romanilor - Str. Nischbach Joseph, episcop",sec. XX
 63,TM-II-s-B-06098,"Situl urban ""Vechiul cartier Iosefin""",municipiul TIMIŞOARA,"Splaiul Vladimirescu Tudor - Str. Dragalina Ion, general - Str. 16 Decembrie 1989 - Str. Odobescu - Romulus - Str. Doja Gheorghe - Str. Braşov",sec. XIX - XX Str.
 64,TM-II-a-B-06099,Ansamblul urban I,municipiul TIMIŞOARA,Str. Memorandului (între nr. 1-114) Piaţa Adamachi Vasile,- sec. XVIII - XX
@@ -63,7 +67,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 66,TM-II-a-B-06101,Cămine muncitoreşti interbelice,municipiul TIMIŞOARA,Bd. Ionescu Take - Str. Baader - Str. Înfrăţirii,sec. XX
 67,TM-II-a-B-06102,Ansamblul urban III,municipiul TIMIŞOARA,"Str. Virtuţii (nr. 4) - Str. Kogălniceanu Mihail (nr. 19, 21)",sec. XIX - XX
 68,TM-II-a-A-06103,Cetatea Timişoara,municipiul TIMIŞOARA,Calea Cuza Al. Ioan - Str. Brediceanu Coriolan - Str. Luther Martin - Str. Hector,1723 - 1730
-69,TM-II-m-A-06103.03,Fragment fortificaţie,municipiul TIMIŞOARA TIMIŞOARA,Str. Luther Martin - Str. Hector Văcărescu I.,1723 - 1730
+69,TM-II-m-A-06103.03,Fragment fortificaţie,municipiul TIMIŞOARA,Str. Luther Martin - Str. Hector,1723 - 1730
+70,TM-II-a-B-06104,Ansamblul urban IV,municipiul TIMIŞOARA,Intersecţia Bd. Regele Carol I cu Str. Văcărescu I.,sec. XIX - XX
 71,TM-II-a-B-06105,Ansamblul urban V,municipiul TIMIŞOARA,Intersecţia Bd. Regele Carol I cu Str. Maniu Iuliu,sec. XIX - XX
 72,TM-II-a-B-06106,Ansamblul urban VI,municipiul TIMIŞOARA,"Str. 1 Decembrie (între nr. 2-10), Str. Feldioara (între nr. 2-6)",sec. XX
 73,TM-II-a-B-06107,Ansamblul urban VII,municipiul TIMIŞOARA,"Str. Dr. Gabor Liviu (nr. 1, 4), Str. Paris (nr. 1)",sec. XX
@@ -74,7 +79,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 78,TM-II-m-A-06118,Teatrul Naţional,municipiul TIMIŞOARA,Str. Alba Iulia 2,"1874, ref. parţial 1923 - 1928"
 79, TM-II-m-B-06119, Casă, municipiul TIMIŞOARA, Str. Alecsandri Vasile 3, sec. XVIII
 80,TM-II-m-B-06121,Institutul de Igienă,municipiul TIMIŞOARA,Bd. Babeş Victor 16,1929 - 1937
-81,TM-II-a-B-06108,"Ansamblul urban ""Str. Badea Cârţan""",municipiul TIMIŞOARA TIMIŞOARA,Piaţa Badea Cârţan (front vestic),sec. XIX
+81,TM-II-a-B-06108,"Ansamblul urban ""Str. Badea Cârţan""",municipiul TIMIŞOARA,Piaţa Badea Cârţan (front vestic),sec. XIX
+82,TM-II-m-A-06122,Turn de apă,municipiul TIMIŞOARA,Str. Bariţiu G. 3,1912 - 1914
 83,TM-II-m-A-06123,"Biserica romano-catolică ""Sf. Ecaterina”",municipiul TIMIŞOARA,Str. Bolyai Janos 6,1752 - 1755
 84,TM-II-m-B-06124,Casa cu axă de fier,municipiul TIMIŞOARA,Piaţa Brătianu Ionel I.C. 1,sec. XVIII
 85,TM-II-m-B-06125,Casă,municipiul TIMIŞOARA,Piaţa Brătianu Ionel I.C. 2,sec. XVIII
@@ -86,7 +92,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 91,TM-II-m-A-06103.01,Fragment fortificaţie,municipiul TIMIŞOARA,Calea Cuza Al. Ioan,1723 - 1730
 92,TM-II-m-B-06129,Casă,municipiul TIMIŞOARA,Str. Dacilor 4,sec. XVIII
 93,TM-II-m-B-06130,Casă,municipiul TIMIŞOARA,Str. Dacilor 13,sec. XVIII
-94, TM-II-m-B-06131," Casa cu Atlanţi, azi locuinţă", municipiul TIMIŞOARA TIMIŞOARA, Str. Delamarina V. V. 1 Bălcescu la Str. Oniţiu Virgil), înc. sec. XVIII
+94, TM-II-m-B-06131," Casa cu Atlanţi, azi locuinţă", municipiul TIMIŞOARA, Str. Delamarina V. V. 1, înc. sec. XVIII
+95,TM-II-a-B-06109,Ansamblul urban VIII,municipiul TIMIŞOARA,Str. Doja Gheorghe (de la Piaţa Bălcescu la Str. Oniţiu Virgil),sec. XIX
 96,TM-II-m-A-06132,Biserica romano-catolică Iosefin,municipiul TIMIŞOARA,"Str. Dragalina Ion, general 13",1774
 97,TM-II-m-B-06133,Pod metalic (adus pe actualul amplasament 1914),municipiul în TIMIŞOARA,Str. Endre Ady f.n.,1871
 98,TM-II-m-A-06134,Abator,municipiul TIMIŞOARA,Bd. Eroilor de la Tisa 24,1904 - 1905
@@ -98,7 +105,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 104,TM-II-m-A-06120,"Biserica sârbească ""Sf. Nicolae”",municipiul TIMIŞOARA,Piaţa Iancu Avram 13,"1792 - 1796, 1819 - 1820"
 105,TM-II-m-A-06141,Spitalul Militar,municipiul TIMIŞOARA,Str. Lazăr Gheorghe 7,"1764 - 1766, modif. 1817 - 1818"
 106,TM-II-m-A-06142,Primăria veche,municipiul TIMIŞOARA,Piaţa Libertăţii 1,"1731 - 1734, 1782; ref. sec. XIX"
-107,TM-II-m-A-06143,"Cazinoul Militar Comerţ, azi Primăria",municipiul TIMIŞOARA TIMIŞOARA,Piaţa Libertăţii 6,1788
+107,TM-II-m-A-06143,Cazinoul Militar,municipiul TIMIŞOARA,Piaţa Libertăţii 6,1788
+108,TM-II-m-B-06144,"Şcoala Superioară de Comerţ, azi Primăria Municipiului Timişoara",municipiul TIMIŞOARA,Bd. Loga C.D. 1,1914
 109,TM-II-m-B-06145,"Biserica de lemn ""Sf. Dimitrie”",municipiul TIMIŞOARA,Bd. Loga C.D. 7,1774
 110,TM-II-m-B-06146,"Liceul C.D. Loga, azi Colegiul C.D. Loga",municipiul TIMIŞOARA,Bd. Loga C.D. 37,1902 - 1903
 111,TM-II-m-B-06147,Vilă,municipiul TIMIŞOARA,Bd. Loga C.D. 44,1911 - 1912
@@ -109,7 +117,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 116,TM-II-m-A-06152,Turn de apă,municipiul TIMIŞOARA,Str. Micu Samuil 16,1912 - 1914
 117, TM-II-a-B-06153, Ansamblul Facultăţii de Mecanică, municipiul TIMIŞOARA, Bd. Mihai Viteazul 1, 1923
 118,TM-II-m-B-06153.01,Facultatea de Mecanică,municipiul TIMIŞOARA,Bd. Mihai Viteazul 1,1923
-119,TM-II-m-B-06153.02,Cămin studenţesc,municipiul TIMIŞOARA TIMIŞOARA,Bd. Mihai Viteazul 1,1923
+119,TM-II-m-B-06153.02,Cămin studenţesc,municipiul TIMIŞOARA,Bd. Mihai Viteazul 1,1923
+120,TM-II-m-B-06153.03,Cantină,municipiul TIMIŞOARA,Bd. Mihai Viteazul 1,1923
 121,TM-II-a-B-06110,"Ansamblul urban ""Bd. Viteazul""",Mihai municipiul TIMIŞOARA,"Bd. Mihai Viteazul 3, 26, 28",sec. XX
 122,TM-II-m-A-06154,Palatul Episcopal romano- catolic,municipiul TIMIŞOARA,"Str. Pacha Augustin, episcop 4",1743 - 1752
 123,TM-II-m-B-06155,"Casă, azi sediul DJC Timiș",municipiul TIMIŞOARA,"Str. Pacha Augustin, episcop 8",sec. XIX
@@ -121,7 +130,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 129,TM-II-m-A-06162,Palatul Dejan,municipiul TIMIŞOARA,Str. Proclamaţia de la Timişoara 5,"1735, 1802"
 130,TM-II-m-A-06163,Casa Contelui de Mercy,municipiul TIMIŞOARA,Str. Proclamaţia de la Timişoara 7,sec. XVIII
 131,TM-II-m-A-06138,Catedrala mitropolitană Trei Ierarhi”,"""Sf. municipiul TIMIŞOARA",Bd. Regele Ferdinand I 1,1936 - 1946
-132, TM-II-a-B-06112," Ansamblul urban ""Str. Anton Seiller"" Mizericordienilor", municipiul TIMIŞOARA TIMIŞOARA, Str. Seiller Anton 1-11, sf. sec. XIX
+132, TM-II-a-B-06112," Ansamblul urban ""Str. Anton Seiller""", municipiul TIMIŞOARA, Str. Seiller Anton 1-11, sf. sec. XIX
+133,TM-II-a-A-06164,Spitalul şi biserica Mizericordienilor,municipiul TIMIŞOARA,Str. Sf. Ioan 3,1735 - 1851
 134,TM-II-m-A-06164.01,"Biserica Mizericordienilor, azi biserică greco-catolică",municipiul TIMIŞOARA,Str. Sf. Ioan 3,"1735 - 1737, ref. 1851"
 135,TM-II-m-A-06164.02,"Spitalul Mizericordienilor, azi Spitalul de oftalmologie",municipiul TIMIŞOARA,Str. Sf. Ioan 3,1748 - 1753
 136,TM-II-m-A-06165,"Biserica greco-catolică ""Naşterea Maicii Domnului”",municipiul TIMIŞOARA,"Piaţa Suluţiu Sterca Al., mitropolit",1 1763
@@ -133,7 +143,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 142,TM-II-a-B-06113,"Ansamblul urban ""Splaiul Nicolae Titulescu""",municipiul TIMIŞOARA,Splaiul Titulescu Nicolae (de la Parcul Central la str. Mureşanu Andrei),sf. sec. XIX
 143,TM-II-m-B-06168,Corpul administrativ al Fabricii de pălării,municipiul TIMIŞOARA,Splaiul Titulescu Nicolae 5,sec. XX
 144,TM-II-m-A-06169,"Biserica sârbească ""Sf. Gheorghe”",municipiul TIMIŞOARA,Piaţa Traian 1,1745 - 1755
-145, TM-II-m-B-06170, Casă, municipiul TIMIŞOARA TIMIŞOARA, Piaţa Traian 7, sec. XVIII
+145, TM-II-m-B-06170, Casă, municipiul TIMIŞOARA, Piaţa Traian 7, sec. XVIII
+146,TM-II-m-B-06171,Casă,municipiul TIMIŞOARA,Piaţa Ţepeş Vodă 1,"sec. XVIII, transf. sec. XIX"
 147,TM-II-m-A-06172,"Claustrul mănăstirii Franciscanilor, azi Centrul de Cultură şi Artă Timiş",municipiul TIMIŞOARA,Str. Ungureanu Emanuil 1,1733 - 1736
 148,TM-II-m-B-20931,Casă,municipiul TIMIŞOARA,Str. Ungureanu Emanuil 8,sec. XVIII - XIX
 149,TM-II-m-A-06173,"Biserica Sârbească ""Sf. Nicolae""",municipiul TIMIŞOARA,Str. Ungureanu Emanuil 12,"1744 - 1784, ref. 1791 - 1792"
@@ -145,7 +156,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 155,TM-II-m-A-06177.01,Conacul Banloc,sat BANLOC; comuna BANLOC,15,1793
 156,TM-II-m-A-06177.02,Parc,sat BANLOC; comuna BANLOC,15,sec. XIX
 157,TM-II-m-B-06178,Casă,sat BANLOC; comuna BANLOC,539,1865
-158,TM-II-m-A-06179,"Biserica de lemn ""Cuvioasa Paraschiva”",sat aparţinător BĂTEŞTI; oraş,144,sec. XVIII
+158,TM-II-m-A-06179,"Biserica de lemn ""Cuvioasa Paraschiva”",sat aparţinător BĂTEŞTI; oraş FĂGET,144,sec. XVIII
 159,TM-II-m-B-06180,Casă,sat BÂRNA; comuna BÂRNA,91,1890
 160,TM-II-m-A-06181,"Biserica ""Sf. Născătoare Dumnezeu”",de sat BEBA VECHE; comuna BEBA VECHE,293,1779
 161,TM-II-m-B-06182,Casă,sat BEBA VECHE; comuna BEBA VECHE,307,1900
@@ -155,7 +166,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 165,TM-II-m-A-06186,"Biserica ""Sf. Mucenic Gheorghe”",sat BEREGSĂU MARE; comuna SĂCĂLAZ,Str. 1 53,1793
 166,TM-II-m-B-06187,Casă,sat BILED; comuna ŞANDRA,377,1909
 167,TM-II-m-A-06188,Biserică romano-catolică,sat BOBDA; comuna CENEI,279,1860
-168,TM-II-m-B-06189,Casă Teologul”,sat BOLDUR; comuna BOLDUR MARGINA,37,1928
+168,TM-II-m-B-06189,Casă,sat BOLDUR; comuna BOLDUR,37,1928
+169,TM-II-m-B-06190,"Biserica de lemn ""Sf. Ioan Teologul”",sat BULZA; comuna MARGINA,"f.n., centrul satului",1820
 170,TM-II-a-B-20994,Ansamblul Parohiei Evanghelice Lutherane,sat BUTIN; comuna GĂTAIA,"Str. Principală 24, 61, 64",sec. XIX
 171,TM-II-m-B-20994.01,Biserica Evanghelică Lutherană,sat BUTIN; comuna GĂTAIA,Str. Principală 24,1862
 172,TM-II-m-B-20994.02,Casa cantorială,sat BUTIN; comuna GĂTAIA,Str. Principală 61,înc. sec. XIX
@@ -164,7 +176,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 175,TM-II-m-B-21091,Spitalul orășenesc Buziaș,oraş BUZIAŞ,Str. Spitalului 4-6,1937
 176,TM-II-m-A-06192,Castelul Contelui de Mercy,sat CARANI; comuna SÂNANDREI,1,1733 - 1734
 177,TM-II-m-A-06193,"Biserica romano-catolică ""Înălţarea Crucii”",sat CARANI; comuna SÂNANDREI,68,1734
-178,TM-II-m-A-06194,"Biserica de lemn ""Adormirea Maicii Domnului” Gheorghe”, azi biserică",sat CĂPĂT; comuna RACOVIŢA de CEBZA; oraş,111,sec. XVIII
+178,TM-II-m-A-06194,"Biserica de lemn ""Adormirea Maicii Domnului”",sat CĂPĂT; comuna RACOVIŢA,111,sec. XVIII
+179,TM-II-m-A-06195,"Biserica de lemn ""Sf. Gheorghe”, azi biserică cimitir",sat aparţinător de CEBZA; oraş CIACOVA,"f.n., în cimitir",1758
 180,TM-II-m-B-06196,Casă,sat CENAD; comuna CENAD,714,1874
 181,TM-II-m-B-06197,Casă,sat CENEI; comuna CENEI,76,1924
 182,TM-II-s-A-06198,"Situl rural ""Satul Charlottenburg""",sat CHARLOTTENBURG ; comuna BOGDA,"Întreaga localitate, sat de plan circular",1772
@@ -174,7 +187,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 186,TM-II-m-A-06203,"Biserica sârbească ""Maica Domnului”",oraş CIACOVA,Str. Bistriţei 24,1768
 187,TM-II-a-A-06202,"Ansamblul urban ""Piaţa Cetăţii""",oraş CIACOVA,Piaţa Cetăţii,sec. XVIII - XIX
 188,TM-II-m-B-06204,"Conacul ""Petala”",sat CLOPODIA; comuna JAMU MARE,421,1840
-189,TM-II-m-B-06205,Casa Teodor Tibor Domnului”,sat COMLOŞU MARE; comuna COMLOŞU MARE MARE; comuna,f.n.,1870 1891
+189,TM-II-m-B-06205,Casa Teodor Tibor,sat COMLOŞU MARE; comuna COMLOŞU MARE,f.n.,1870
+190,TM-II-m-A-06206,"Biserica ""Adormirea Maicii Domnului”",sat COMLOŞU MARE; comuna COMLOŞU MARE,539,"1794 - 1796, ref. 1814, 1891"
 191,TM-II-m-B-06207,Han,sat COMLOŞU MARE; comuna COMLOŞU MARE,605,sec. XVIII
 192,TM-II-m-B-06208,"Conacul ""San Marco”",sat COMLOŞU MARE; comuna COMLOŞU MARE,655,1840 - 1856
 193,TM-II-m-A-06209,Han,sat COŞAVA; comuna CURTEA,59,sec. XVIII
@@ -184,7 +198,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 197,TM-II-m-B-06213,Casă,sat CRICIOVA; comuna CRICIOVA,193,1919
 198,TM-II-m-A-06214,"Biserica de lemn ""Cuvioasa Paraschiva”",sat CRIVINA DE SUS; comuna PIETROASA,63,"1676, reparată 1778"
 199,TM-II-m-B-06215,"Biserica de lemn ""Naşterea Maicii Domnului”",sat CRIVOBARA; comuna SECAŞ,69,1780
-200,TM-II-m-A-06216,"Biserica de lemn ""Cuvioasa Paraschiva” Victoriei şi Mihai Viteazul""",sat CURTEA; comuna CURTEA,270 Mihai Viteazul (pâna la intersecţia,1794 cu
+200,TM-II-m-A-06216,"Biserica de lemn ""Cuvioasa Paraschiva”",sat CURTEA; comuna CURTEA,270,1794
+201,TM-II-a-B-06217,"Ansamblul urban ""Străzile Victoriei şi Mihai Viteazul""",oraş DETA,"Str. Victoriei (fostă Republicii) şi Str. Mihai Viteazul (pâna la intersecţia Str. Independenţei, inclusiv Turnul pompierilor)",sec. XIX - XX cu
 202,TM-II-m-A-06218,"Biserica de lemn ""Cuvioasa Paraschiva”",sat DOBREŞTI; comuna BARA,115,1832
 203,TM-II-m-A-06219,"Biserica (ucraineană) de lemn ""Naşterea Domnului”",sat DRAGOMIREŞTI; comuna ŞTIUCA,,1754
 204,TM-II-m-A-06220,"Biserica de lemn ""Sf. Dumitru”",sat DUBEŞTI; comuna OHABA LUNGĂ,146,"sec. XVII, pictată sec. XVIII"
@@ -193,7 +208,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 207,TM-II-m-B-06223,Casă,sat DUDEŞTII VECHI; comuna DUDEŞTII VECHI,882,1800
 208,TM-II-m-A-06224,"Cazinou ""Cassina""",oraş FĂGET,Calea Lugojului 10,1860
 209,TM-II-m-B-20179,Depozit de cereale,sat FERENDIA; comuna JAMU MARE,,sf. sec. XIX
-210,TM-II-m-B-06225,Pod de cărămidă azi Căminul cultural Foeni,sat FOENI; comuna FOENI FOENI,"f.n., la marginea de SV a satului, lângă cimitir",1749
+210,TM-II-m-B-06225,Pod de cărămidă,sat FOENI; comuna FOENI,"f.n., la marginea de SV a satului, lângă cimitir",1749
+211,TM-II-m-A-06226,"Conacul familiei Mocioni, azi Căminul cultural Foeni",sat FOENI; comuna FOENI,411,1750
 212,TM-II-m-B-06227,Casă,sat FOENI; comuna FOENI,427,1913
 213,TM-II-m-B-20180,Conacul Gudenus,sat GAD; comuna GHILAD,f.n.,înc. sec. XIX
 214,TM-II-m-B-06228,Conac,sat GAD; comuna GHILAD,176,1800 - 1850
@@ -204,7 +220,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 219,TM-II-m-B-06233,"Biserica romano-catolică ""Sf. Iosif”",sat GIARMATA; comuna GIARMATA,Str. Principală 419,1730
 220, TM-II-m-B-06234, Depozit de cereale, sat GIERA; comuna GIERA, 91, sec. XIX
 221,TM-II-m-B-06235,"Biserica ""Sf. Dumitru”",sat GIROC; comuna GIROC,80,1759
-222,TM-II-m-B-06236,"Casă ""Adormirea Maicii",sat GROŞI; comuna MARGINA MARGINA,55,1900
+222,TM-II-m-B-06236,Casă,sat GROŞI; comuna MARGINA,55,1900
+223,TM-II-m-A-06237,"Biserica de lemn ""Adormirea Maicii Domnului”",sat GROŞI; comuna MARGINA,56,1741
 224,TM-II-m-A-06238,"Biserica de lemn ""Adormirea Maicii Domnului”",sat HEZERIŞ; comuna COŞTEIU,138,sec. XVIII
 225,TM-II-m-B-06239,Conac,sat HODONI; comuna SATCHINEZ,92A,sf. sec. XVIII
 226,TM-II-m-B-06240,"Biserica de lemn ""Adormirea Maicii Domnului”",sat HOMOJDIA; comuna CURTEA,19,1782 - 1804
@@ -213,7 +230,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 229,TM-II-m-B-06243,Conacul Csekonics,oraş JIMBOLIA,Str. Vladimirescu Tudor 81,sec. XVIII
 230,TM-II-m-B-06244,"Biserica de lemn ""Cuvioasa Paraschiva”",sat aparţinător JUPÂNEŞTI; oraş FĂGET,"52, în cimitir",sec. XVIII
 231,TM-II-m-B-06245,"Biserica romano-catolică ""Sf. Tereza”",sat LENAUHEIM; comuna LENAUHEIM,539,1778
-232,TM-II-m-A-06246,"Casa Nikolaus Lenau, anterior han de poştă, muzeu",sat LENAUHEIM; azi comuna LENAUHEIM comuna LIEBLING,542,sec. XVIII
+232,TM-II-m-A-06246,"Casa Nikolaus Lenau, anterior han de poştă, muzeu",sat LENAUHEIM; azi comuna LENAUHEIM,542,sec. XVIII
+233,TM-II-m-B-06247,Casă,sat LIEBLING; comuna LIEBLING,222,1880
 234,TM-II-a-B-06248,Ansamblul conacului Liptay,sat LOVRIN; comuna LOVRIN,200,sec. XIX
 235,TM-II-m-B-06248.01,Conacul Liptay,sat LOVRIN; comuna LOVRIN,200,1820
 236,TM-II-m-B-06248.02,Parc,sat LOVRIN; comuna LOVRIN,200,sec. XIX
@@ -225,7 +243,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 242,TM-II-m-A-06254.01,Biserica fostei mănăstiri minoriţilor,a municipiul LUGOJ,Str. Bucegi 4,1733
 243,TM-II-m-A-06254.02,Claustrul fostei mănăstiri minoriţilor,a municipiul LUGOJ,Str. Bucegi 4,1733
 244,TM-II-a-A-06251,"Ansamblul urban ""Piaţa Drăgan”",I.C. municipiul LUGOJ,Piaţa Drăgan I.C.,sec. XVIII - XX
-245,TM-II-m-B-06255,"Casă, fost atelier de cizmar Nicolae”",municipiul LUGOJ,Str. Iancu Avram 59,1878
+245,TM-II-m-B-06255,"Casă, fost atelier de cizmar",municipiul LUGOJ,Str. Iancu Avram 59,1878
+246,TM-II-m-A-06256,"Turnul fostei biserici ""Sf. Nicolae”",municipiul LUGOJ,Piaţa Victoriei f.n.,1726
 247,TM-II-m-A-06257,"Biserica ""Adormirea Maicii Domnului”",municipiul LUGOJ,Piaţa Victoriei 2,1759 - 1766
 248,TM-II-m-A-06258,"Biserica de lemn ""Cuvioasa Paraschiva”, azi biserică cimitir",sat MARGINA; de comuna MARGINA,"f.n., în cimitir",1737
 249,TM-II-m-B-06259,Casă,sat MARGINA; comuna MARGINA,62,1900
@@ -236,7 +255,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 254,TM-II-m-A-06262.02,Chilii,sat MÂNĂSTIRE; comuna BIRDA,f.n.,1793 - 1794
 255,TM-II-m-B-06263,Casă,sat MOŞNIŢA NOUĂ; comuna MOŞNIŢA NOUĂ,Str. Urseni 132,1920
 256,TM-II-m-B-21014,Conacul din Murani,sat MURANI; comuna PIŞCHIA,162-164,1780 - 1800
-257,TM-II-m-B-06264,"Biserica de lemn ""Sf. Nichita Romanul”",sat NEMEŞEŞTI; comuna MARGINA comuna ŞTIUCA,8,1798
+257,TM-II-m-B-06264,"Biserica de lemn ""Sf. Nichita Romanul”",sat NEMEŞEŞTI; comuna MARGINA,8,1798
+258,TM-II-m-B-06265,Casă,sat OLOŞAG; comuna ŞTIUCA,67,1926
 259,TM-II-m-B-06266,Casă,sat OLOŞAG; comuna ŞTIUCA,72,1902
 260,TM-II-m-A-06267,"Biserica ""Adormirea Maicii Domnului”",sat OLOŞAG; comuna ŞTIUCA,127,sec. XVIII
 261,TM-II-m-B-06268,Biserică romano-catolică,sat ORŢIŞOARA; comuna ORŢIŞOARA,206,1786
@@ -247,7 +267,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 266,TM-II-m-B-06271,Casă,sat PĂDURANI; comuna MĂNĂŞTIUR,20,sec. XIX
 267, TM-II-m-B-06272," Biserica romano-catolică ""Sf. Ioan Nepomuk”", sat PERIAM; comuna PERIAM, Calea Aradului 149," 1750, modif. 1900"
 268,TM-II-m-B-06273,"Biserica de lemn ""Adormirea Maicii Domnului”",sat PIETROASA; comuna PIETROASA,90,1779
-269,TM-II-m-A-06274,"Biserica de lemn ""Cuvioasa Paraschiva”",sat POIENI; comuna,109,1791
+269,TM-II-m-A-06274,"Biserica de lemn ""Cuvioasa Paraschiva”",sat POIENI; comuna PIETROASA,109,1791
 270,TM-II-m-A-06275,"Biserica de lemn ""Sf. Arhangheli”",sat aparţinător POVERGINA; oraş FĂGET,40,1782 - 1783
 271,TM-II-m-A-06276,Conacul Ambrozi,sat REMETEA MARE; comuna REMETEA MARE,1,1820
 272,TM-II-m-A-06277,"Biserica de lemn ""Naşterea Sf. Ioan Botezătorul”",sat ROMÂNEŞTI; comuna TOMEŞTI,"27, în cimitir",sec. XVIII
@@ -257,7 +277,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 276,TM-II-m-B-06281,Casă,sat SACOŞU MARE; comuna DAROVA,234,1922
 277,TM-II-a-B-06282,Gospodărie (două corpuri),sat SACOŞU MARE; comuna DAROVA,280,1907
 278,TM-II-m-B-06283,Casa Baraj (stăvilar),sat SÂNMIHAIU ROMÂN; comuna SÂNMIHAIU ROMÂN,Pe canalul Bega,sec. XIX
-279,TM-II-m-B-06284,Şcoala de Agricultură,oraş SÂNNICOLAU MARE MARE,Str. Babeş Victor 100,sec. XIX
+279,TM-II-m-B-06284,Şcoala de Agricultură,oraş SÂNNICOLAU MARE,Str. Babeş Victor 100,sec. XIX
+280,TM-II-m-B-06285,Casă,oraş SÂNNICOLAU MARE,Str. Bărnuţiu Simion 35,1820
 281,TM-II-m-A-06286,"Biserica ortodoxă sârbească ""Adormirea Maicii Domnului”",oraş SÂNNICOLAU MARE,Str. Republicii 3,1783 - 1787
 282,TM-II-m-A-06287,Conacul Nako,oraş SÂNNICOLAU MARE,Str. Republicii 14,1864
 283,TM-II-m-B-06288,Casă,localitate componentă SCULIA; oraş GĂTAIA,103,1904
@@ -267,7 +288,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 287,TM-II-m-B-06292,Casă,sat ŞAG; comuna ŞAG,Str. I 45,1850
 288,TM-II-a-B-06293,"Ansamblul rural ""Zona Pieţei""",sat ŞANDRA; comuna ŞANDRA,"Între nr. 29-32, 175-179, 274-277, 445-447, zona pieţei",înc. sec. XX
 289,TM-II-m-A-06294,"Biserica ""Schimbarea la Faţă” a Mănăstirii ""Săraca”",sat aparţinător ŞEMLACU MIC; oraş GĂTAIA,,"sec. XV, pictată 1730"
-290,TM-II-a-B-06295,"Ansamblul rural ""Zona Pieţei şi parcul""",sat TEREMIA MARE; comuna TEREMIA MARE MARE; comuna,"Între nr. 45, 75-78, 554-555, 565-569, 637-639, zona pieţei cu parcul",sec. XVIII - XIX
+290,TM-II-a-B-06295,"Ansamblul rural ""Zona Pieţei şi parcul""",sat TEREMIA MARE; comuna TEREMIA MARE,"Între nr. 45, 75-78, 554-555, 565-569, 637-639, zona pieţei cu parcul",sec. XVIII - XIX
+291,TM-II-m-B-06296,Casă,sat TEREMIA MARE; comuna TEREMIA MARE,544,1906
 292,TM-II-m-B-06297,"Biserica romano-catolică ""Pogorârea Duhului Sfânt”",sat TEREMIA MARE; comuna TEREMIA MARE,638,"sec. XVIII, ref. 1867, 1928"
 293,TM-II-m-B-06298,Casa Iuliana Suba,sat ULIUC; comuna SACOŞU TURCESC,,1920
 294,TM-II-m-A-06299,"Biserica de lemn ""Sf. Apostoli Petru şi Pavel”",sat ZOLT; comuna FÂRDEA,"71, în cimitir",sec. XVIII
@@ -278,7 +300,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 299,TM-III-m-B-06305,Bustul lui Victor Babeş,municipiul TIMIŞOARA,Bd. Babeş Victor 16,1934
 300, TM-III-m-B-06303, Bustul lui Eremia Grigorescu, municipiul TIMIŞOARA, Str. Dima Gh. (Parcul botanic), 1928
 301,TM-III-m-A-06306,"Statuia ""Sf. Ioan Nepomuk""",municipiul TIMIŞOARA,"Str. Dragalina Ion, general 13",1722
-302,TM-III-m-B-06307,Obelisc în memoria celor căzuţi la 1848 Ungureanu,municipiul TIMIŞOARA TIMIŞOARA,Calea Ghirodei 12,sec. XIX
+302,TM-III-m-B-06307,Obelisc în memoria celor căzuţi la 1848,municipiul TIMIŞOARA,Calea Ghirodei 12,sec. XIX
+303,TM-III-m-B-06308,Monumentul lui Emanuil Ungureanu,municipiul TIMIŞOARA,Piaţa Huniade Iancu f.n.,1931
 304,TM-III-m-A-06309,"Statuia ""Sf. Maria"" şi ""Sf. Ioan Nepomuk""",municipiul TIMIŞOARA,Piaţa Libertăţii f.n.,1756
 305,TM-III-m-B-06310,Monumentul lui Traian Lalescu,municipiul TIMIŞOARA,"Bd. Mihai Viteazul 1, curtea Institutului Politehnic",1930
 306,TM-III-m-B-06311,Monumentul lui Anton Sailer,municipiul TIMIŞOARA,Piaţa Regina Maria f.n.,1906
@@ -291,6 +314,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 313,TM-III-m-B-06322,Monumentul generalului Ion Dragalina,municipiul LUGOJ,"Str. Bălan Ioan, episcop dr.",sec. XX
 314,TM-III-m-B-06318,Monumentul lui Coriolan Brediceanu,municipiul LUGOJ,Splaiul Brediceanu C. f.n.,sec. XX
 315,TM-III-m-B-06319,Bustul lui Traian Grozăvescu,municipiul LUGOJ,"Splaiul Brediceanu C., în faţa teatrului",sec. XX
+316,TM-III-m-B-06320,Monumentul lui Ion Vidu,municipiul LUGOJ,Splaiul Brediceanu C. f.n.,sec. XX
 317,TM-III-m-B-06321,Monumentul Eroilor de 1916-1918,la municipiul LUGOJ,Piaţa Drăgan I.C.,sec. XX
 318,TM-III-m-A-06323,"Statuia ""Sf. Ioan Nepomuk""",oraş SÂNNICOLAU MARE,În faţa bisericii romano-catolice,1757
 319,TM-III-m-B-06324,Bustul lui Mihai Eminescu,oraş SÂNNICOLAU MARE,Str. Republicii 17,sec. XX
@@ -300,7 +324,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 323,TM-IV-m-B-06328,Mormântul medicului Vasici,Paul municipiul TIMIŞOARA,"Str. Cosminului 13, cimitirul Elisabetin",1881
 324,TM-IV-m-B-06329,Mormântul pictorului Zaicu,Ioan municipiul TIMIŞOARA,"Str. Cosminului 13, cimitirul Elisabetin",1915
 325,TM-IV-m-A-06330,"Monumentul militar austriac, dedicat evenimentelor de la 1848- 1849",municipiul TIMIŞOARA,"Str. Lăzărescu Vasile, mitropolit dr., Cimitirul Eroilor",în 1852
-326,TM-IV-m-B-06331,Casa scriitorului Dositei Obradovici,oraş CIACOVA FOENI,Str. Obradovici Dositei 11,sec. XVIII
+326,TM-IV-m-B-06331,Casa scriitorului Dositei Obradovici,oraş CIACOVA,Str. Obradovici Dositei 11,sec. XVIII
+327,TM-IV-m-A-06332,Mausoleul familiei Mocioni,sat FOENI; comuna FOENI,În cimitir,sec. XIX
 328,TM-IV-m-B-06333,Mormântul colectiv din timpul epidemiei de ciumă din 1834 (Der Grabatzer Kalvarienberg),sat GRABAŢ; comuna LENAUHEIM,La marginea satului,1838
 329,TM-IV-m-B-06334,Casa scriitorului Ion Popovici Bănăţeanu,municipiul LUGOJ,Str. Bănăţeanu I. P. 13,sec. XIX
 330,TM-IV-m-B-06335,Casa poetului V. V. Delamarina,municipiul LUGOJ,Str. Delamarina V. V. 19,sec. XIX
@@ -311,5 +336,6 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 335,TM-IV-m-B-06336.04,Mormântul lui Traian Grozăvescu,municipiul LUGOJ,"Str. Făgetului, în cimitirul ortodox, sector 3, parcela A",1928
 336, TM-IV-m-B-06336.05, Mormântul lui Eftimie Murgu, municipiul LUGOJ," Str. Făgetului, în cimitirul ortodox, cripta capelei", sec. XIX
 337,TM-IV-m-B-06336.06,Mormântul istoricului George Popovici,municipiul LUGOJ,"Str. Făgetului, în cimitirul ortodox, sector 1, parcela A",1927
-338,TM-IV-m-B-06336.07,Mormântul compozitorului Ion Vidu Grozăvescu,municipiul LUGOJ,"Str. Făgetului, în cimitirul ortodox, parcela 9",1931
+338,TM-IV-m-B-06336.07,Mormântul compozitorului Ion Vidu,municipiul LUGOJ,"Str. Făgetului, în cimitirul ortodox, parcela 9",1931
+339,TM-IV-m-B-06337,Casa artistului Traian Grozăvescu,municipiul LUGOJ,Str. Grozăvescu Traian 8,1843
 340,TM-IV-m-B-06338,Casa compozitorului Ion Vidu,municipiul LUGOJ,Str. Vidu Ion 36,1870

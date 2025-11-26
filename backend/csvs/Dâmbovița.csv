@@ -1,22 +1,25 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,DB-I-s-B-16950,Siliştea satului Ruşi din Târgovişte,municipiul TÂRGOVIŞTE,"În sudul oraşului, între străzile Morilor Iazului la NV, Iazul Morii la NE, str. Nifon şi Calea Domnească, în prelungirea Căii Bucureştilor, la SV","şi sec. XIV-XVII, Epoca la SE medievală"
 2,DB-I-s-B-16951,"Situl arheologic de la Târgovişte, punct ""Ferma IAS”",municipiul TÂRGOVIŞTE,"""Ferma IAS”, cartier Matei Voievod (Sârbi), de perimetrul locuit al oraşului, la intersecţia Căii Ploieşti cu canalul Ialomiţa-Ilfov",la S
 3,DB-I-m-B-16951.01,Aşezare,municipiul TÂRGOVIŞTE,"""Ferma IAS”, cartier Matei Voievod (Sârbi), de perimetrul locuit al oraşului, la intersecţia Căii Ploieşti cu canalul Ialomiţa-Ilfov",la S Epoca medievală
 4,DB-I-m-B-16951.02,Aşezare,municipiul TÂRGOVIŞTE,"""Ferma IAS”, cartier Matei Voievod (Sârbi), de perimetrul locuit al oraşului, la intersecţia Căii Ploieşti cu canalul Ialomiţa-Ilfov",la S Epoca medievală timpurie
 5,DB-I-s-B-16952,"Situl arheologic de la Târgovişte punct ""Platforma industrială Nord”",municipiul TÂRGOVIŞTE,"""Platforma industrială Nord”, în stânga Ialomiţa, la 0,3 km S de gara Târgovişte spre satul Călugăreni","râului Nord,"
 6,DB-I-m-B-16952.01,Ruine biserică,municipiul TÂRGOVIŞTE,"""Platforma industrială Nord”, în stânga Ialomiţa, la 0,3 km S de gara Târgovişte spre satul Călugăreni","râului sec. XIV-XVII, Epoca Nord, medievală"
-7,DB-I-m-B-16952.02,Siliştea satului Călugăreni oraşului Târgovişte,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,"""Platforma industrială Nord”, în stânga Ialomiţa, la 0,3 km S de gara Târgovişte spre satul Călugăreni Colonel Dumitru Băltăreţu la N şi V, fosta","râului sec. XIV-XVII, Epoca Nord, medievală Uzină"
+7,DB-I-m-B-16952.02,Siliştea satului Călugăreni,municipiul TÂRGOVIŞTE,"""Platforma industrială Nord”, în stânga Ialomiţa, la 0,3 km S de gara Târgovişte spre satul Călugăreni","râului sec. XIV-XVII, Epoca Nord, medievală"
+8,DB-I-s-A-16953,Fortificaţiile medievale ale oraşului Târgovişte,municipiul TÂRGOVIŞTE,"Între Halta Teiş, Calea Câmpulung, strada Colonel Dumitru Băltăreţu la N şi V, fosta de Utilaj Petrolier, str. Radu de la Afumaţi Magazinul Chindia la S şi terasa înaltă Ialomiţei spre SE","1645, ref. 1821 Uzină şi a"
 9,DB-I-m-A-16953.01,Poarta Dealu - Vânătorilor,municipiul TÂRGOVIŞTE,"Aleea Coconilor, între Curtea Domnească şi Casa Coconilor la S","la N 1645, ref. 1821"
 10,DB-I-m-A-16953.02,Poarta Câmpulungului,municipiul TÂRGOVIŞTE,"Calea Câmpulung, la intersecţia cu str. Pârvan Popescu şi str. Valul Cetăţii","Lt. 1645, ref. 1821"
 11,DB-I-m-A-16953.03,Poarta Buzăului şi Brăilei,municipiul TÂRGOVIŞTE,"Calea Bucureşti, la joncţiunea cu Calea Domnească şi intersecţia cu str. General Vlădescu","1645, ref. 1821, Matei 1990"
 12,DB-I-m-A-16953.04,7 bastioane,municipiul TÂRGOVIŞTE,"Între Halta Teiş, Calea Câmpulung, str. Dumitru Băltăreţu la N şi V, fosta Uzină Utilaj Petrolier, str. Radu de la Afumaţi Magazinul Chindia la S şi terasa înaltă Ialomiţei spre SE","Colonel 1645, ref. 1821 de şi a"
 13,DB-I-m-A-16953.05,Şanţ de apărare,municipiul TÂRGOVIŞTE,"Între Halta Teiş, Calea Câmpulung, str. Dumitru Băltăreţu la N şi V, fosta Uzină Utilaj Petrolier,, str. Radu de la Afumaţi Magazinul Chindia la S şi terasa înaltă Ialomiţei, spre S şi SE","Colonel 1645, Epoca de medievală şi a"
 14,DB-I-m-A-16953.06,Valul Cetăţii Târgovişte,municipiul TÂRGOVIŞTE,"Între Halta Teiş, Calea Câmpulung, str. Dumitru Băltăreţu la N şi V, fosta Uzină Utilaj Petrolier,, str. Radu de la Afumaţi Magazinul Chindia la S și terasa înaltă Ialomiţei, spre S şi SE","Colonel 1645, Epoca de medievală şi a"
-15,DB-I-s-A-16954,Vatra oraşului Târgovişte,municipiul TÂRGOVIŞTE,"Între Iazul Morilor (ambele maluri) şi dreaptă a Ialomiţei la NE, străzile Radu Domnească, str. Bărăţiei, Calea Câmpulung",cornişa şi
+15,DB-I-s-A-16954,Vatra oraşului Târgovişte,municipiul TÂRGOVIŞTE,"Între Iazul Morilor (ambele maluri) şi dreaptă a Ialomiţei la NE, străzile Radu Petrescu şi Matei Basarab la NV, Calea",cornişa
 16,DB-I-m-A-16954.01,Așezare rurală și urbană,municipiul TÂRGOVIŞTE,"Între Iazul Morilor (ambele maluri) şi dreaptă a Ialomiţei la NE, străzile Radu Petrescu şi Matei Basarab la NV, Calea Domnească, str. Bărăţiei, Calea Câmpulung str. Poet Grigore Alexandrescu la SV, Mircea cel Bătrân la S, str. Nicolae Filipescu E, str. Căpitan Ion Constantinescu şi str. George Coşbuc, până la Iazul Morilor, perimetrul Bisericii Albe la NE","cornişa sec. XIII-XVIII, Epoca medievală şi Bd. la inclusiv"
 17,DB-I-m-A-16954.02,Așezare,municipiul TÂRGOVIŞTE,"Între Iazul Morilor (ambele maluri) şi dreaptă a Ialomiţei la NE, str. Vărzaru la NV, Calea Domnească la SV, str. Mihai la SE (până la Podul Mihai Bravu)","cornişa sec. VIII-X, Epoca Armașu medievală timpurie Bravu"
 18,DB-I-m-A-16954.03,Aşezare,municipiul TÂRGOVIŞTE,"Între Iazul Morilor (ambele maluri) şi dreaptă a Ialomiţei la NE, strada Vărzaru Armaşu la NV, Calea Domnească la SV, Mihai Bravu la SE (până la Podul Mihai",cornişa sec. I a. Chr.-sec. VIII p. Chr. strada Bravu)
 19,DB-I-s-B-16956,"Situl arheologic de la Adânca, punct ""Pod Pâscov”",sat ADÂNCA; comuna GURA OCNIŢEI,"""Pod Pâscov” sau ""Ghimpuri”, la extremitatea de S a comunei, în stânga râului Pâscov",
-20,DB-I-m-B-16956.01,Aşezare,sat ADÂNCA; comuna GURA OCNIŢEI GURA OCNIŢEI,"""Pod Pâscov” sau ""Ghimpuri”, la extremitatea de S a comunei, în stânga râului Pâscov de S a comunei, în stânga râului Pâscov","Epoca medievală Latène, Cultura"
+20,DB-I-m-B-16956.01,Aşezare,sat ADÂNCA; comuna GURA OCNIŢEI,"""Pod Pâscov” sau ""Ghimpuri”, la extremitatea de S a comunei, în stânga râului Pâscov",Epoca medievală
+21,DB-I-m-B-16956.02,Aşezare,sat ADÂNCA; comuna GURA OCNIŢEI,"""Pod Pâscov” sau ""Ghimpuri”, la extremitatea de S a comunei, în stânga râului Pâscov","sec. II a. Chr., Latène, Cultura geto-dacică"
 22,DB-I-s-B-16957,Situl arheologic de la Alunişu,sat ALUNIŞU; comuna CORNĂŢELU,"La 1 km SE de sat, pe partea dreaptă a Baranga",pârâului
 23,DB-I-m-B-16957.01,Aşezare,sat ALUNIŞU; comuna CORNĂŢELU,"La 1 km SE de sat, pe partea dreaptă a Baranga",pârâului Epoca migraţiilor
 24,DB-I-m-B-16957.02,Aşezare,sat ALUNIŞU; comuna CORNĂŢELU,"La 1 km SE de sat, pe partea dreaptă a Baranga","pârâului sec. IV p. Chr., Epoca bronzului"
@@ -26,7 +29,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 28,DB-I-s-B-16959,"Aşezarea fortificată de la ""Băleni-Români""",sat BĂLENI-ROMÂNI; comuna BĂLENI,"""Cetatea Tătarilor”, la 3 km E de sat, pe de deal din Pădurea Neagră","un bot Latène, Cultura geto-dacică"
 29,DB-I-s-B-16960,"Situl arheologic de la Băleni-Români, punct ""Islaz""",sat BĂLENI-ROMÂNI; comuna BĂLENI,"""Islaz”, între terasa înaltă a Ialomiţei şi la ieşirea dinspre SE din localitate","DJ 711,"
 30,DB-I-m-B-16960.01,Aşezare,sat BĂLENI-ROMÂNI; comuna BĂLENI,"""Islaz”, între terasa înaltă a Ialomiţei şi la ieşirea dinspre SE din localitate","DJ 711, sec. IV, Epoca migraţiilor"
-31,DB-I-m-B-16960.02,"Aşezare Băleni-Români, punct ""La",sat BĂLENI-ROMÂNI; comuna BĂLENI comuna BĂLENI,"""Islaz”, între terasa înaltă a Ialomiţei şi la ieşirea dinspre SE din localitate NE de sat","DJ 711, Epoca bronzului"
+31,DB-I-m-B-16960.02,Aşezare,sat BĂLENI-ROMÂNI; comuna BĂLENI,"""Islaz”, între terasa înaltă a Ialomiţei şi la ieşirea dinspre SE din localitate","DJ 711, Epoca bronzului"
+32,DB-I-s-A-16961,"Situl arheologic de la Băleni-Români, punct ""La Plantaţie""",sat BĂLENI-ROMÂNI; comuna BĂLENI,"""La plantaţie”, pe malul drept al Ialomiţei, NE de sat",la
 33,DB-I-m-A-16961.01,Aşezare,sat BĂLENI-ROMÂNI; comuna BĂLENI,"""La plantaţie”, pe malul drept al Ialomiţei, NE de sat","la sec. XIV-XVII, Epoca medievală"
 34,DB-I-m-A-16961.02,Aşezare,sat BĂLENI-ROMÂNI; comuna BĂLENI,"""La plantaţie”, pe malul drept al Ialomiţei, NE de sat","la sec. VIII-IX, Epoca medievală timpurie"
 35,DB-I-m-A-16961.03,Aşezare,sat BĂLENI-ROMÂNI; comuna BĂLENI,"""La plantaţie”, pe malul drept al Ialomiţei, NE de sat","la sec. V-VI, Epoca migraţiilor"
@@ -37,7 +41,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 40,DB-I-m-B-16963.01,Aşezare,sat BĂLTENI; comuna CONŢEŞTI,"""Izvorul Ilfoveţului”, la 1 km N de localitate, malul drept al pârâului Ilfovăţ","pe sec. IV, Epoca daco-romană"
 41,DB-I-m-B-16963.02,Aşezare,sat BĂLTENI; comuna CONŢEŞTI,"""Izvorul Ilfoveţului”, la 1 km N de localitate, malul drept al pârâului Ilfovăţ","pe Latène, Cultura geto-dacică"
 42,DB-I-m-B-16963.03,Aşezare,sat BĂLTENI; comuna CONŢEŞTI,"""Izvorul Ilfoveţului”, la 1 km N de localitate, malul drept al pârâului Ilfovăţ",pe Epoca bronzului
-43,DB-I-s-B-16964,"Situl arheologic de la Bălteni, punct ""La",sat BĂLTENI; comuna CONŢEŞTI,"""Biserică”, la E de sat, la 1 km S de canalul Dâmboviţa-Ilfov",din
+43,DB-I-s-B-16964,"Situl arheologic de la Bălteni, punct ""La Biserică""",sat BĂLTENI; comuna CONŢEŞTI,"""Biserică”, la E de sat, la 1 km S de canalul Dâmboviţa-Ilfov",din
 44,DB-I-m-B-16964.01,Aşezare,sat BĂLTENI; comuna CONŢEŞTI,"""Biserică”, la E de sat, la 1 km S de canalul Dâmboviţa-Ilfov","din sec. IV, Epoca daco-romană"
 45,DB-I-m-B-16964.02,Aşezare,sat BĂLTENI; comuna CONŢEŞTI,"""Biserică”, la E de sat, la 1 km S de canalul Dâmboviţa-Ilfov",din Epoca bronzului
 46,DB-I-s-B-16965,Aşezare,sat BĂRĂCENI; comuna CORBII MARI,"""Islaz”, pe terasa înaltă dreaptă a Neajlovului, lângă DC Bărăceni-Moara din Groapă, SV de localitate","sec. III-IV p. Chr., la 0,5 km Epoca daco- romană"
@@ -48,7 +52,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 51,DB-I-s-B-16968,Aşezare,sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Biserică”, în cătunul Bărbuleşti, la S de biserică, pe stânga pârâului Gârliţa","sec. IV p. Chr., Epoca daco- romană"
 52,DB-I-s-B-16969,Aşezare,sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""IAS”, în cătunul Bărbuleşti, pe dreapta pârâului Gârliţa","sec. IV p. Chr., Epoca daco- romană"
 53,DB-I-s-B-16970,Aşezare,sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Izvorul Ibalaca”, la 0,5 km V de cătunul Bărbuleşti, pe dreapta pârâului Gârliţa",Epoca bronzului
-54,DB-I-s-B-16971,"Situl arheologic de la Brăteştii de Jos, punct",sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Delniţa”, la 0,25 km V de halta Cazaci, ambele maluri ale pârâului Gârliţa, până",pe la
+54,DB-I-s-B-16971,"Situl arheologic de la Brăteştii de Jos, punct ""Delniţa”",sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Delniţa”, la 0,25 km V de halta Cazaci, ambele maluri ale pârâului Gârliţa, până hotarul cu comuna Nucet (Cazaci)",pe la
 55,DB-I-m-B-16971.01,Aşezare,sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Delniţa”, la 0,25 km V de halta Cazaci, ambele maluri ale pârâului Gârliţa, până hotarul cu comuna Nucet (Cazaci)","pe sec. XV-XVIII, Epoca la medievală"
 56,DB-I-m-B-16971.02,Ruine,sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Delniţa”, la 0,25 km V de halta Cazaci, ambele maluri ale pârâului Gârliţa, până hotarul cu comuna Nucet (Cazaci)","pe sec. XV-XVIII, Epoca la medievală"
 57,DB-I-m-B-16971.03,Aşezare,sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,"""Delniţa”, la 0,25 km V de halta Cazaci, ambele maluri ale pârâului Gârliţa, până hotarul cu comuna Nucet (Cazaci)","pe sec. IV, Epoca la daco-romană"
@@ -57,7 +61,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 60,DB-I-m-A-16972.02,Cimitir,sat BRÂNCOVEANU; comuna ODOBEŞTI,"""Voineasa”, la V de sat, pe terasa pârâului Răstoaca","sec. XV-XIX, Epoca medievală"
 61,DB-I-m-A-16972.03,Aşezare,sat BRÂNCOVEANU; comuna ODOBEŞTI,"""Voineasa”, la V de sat, pe terasa pârâului Răstoaca","sec. II-I a. Chr., Latène, Cultura geto-dacică"
 62,DB-I-m-A-16972.04,Aşezare,sat BRÂNCOVEANU; comuna ODOBEŞTI,"""Voineasa”, la V de sat, pe terasa pârâului Răstoaca","Epoca bronzului, Cultura Tei"
-63,DB-I-m-A-16972.05,Aşezare,sat BRÂNCOVEANU; comuna ODOBEŞTI comuna PRODULEŞTI,"""Voineasa”, la V de sat, pe terasa pârâului Răstoaca localităţii şi la 1,5 km V de calea ferată","Epoca bronzului timpuriu, Cultura Glina"
+63,DB-I-m-A-16972.05,Aşezare,sat BRÂNCOVEANU; comuna ODOBEŞTI,"""Voineasa”, la V de sat, pe terasa pârâului Răstoaca","Epoca bronzului timpuriu, Cultura Glina"
+64,DB-I-s-B-16973,Tumul,sat BROŞTENI; comuna PRODULEŞTI,"""Măgura”, la 2 km ENE de capătul de localităţii şi la 1,5 km V de calea ferată Târgovişte-Titu",N al
 65,DB-I-s-B-16974,Tumul,sat BROŞTENI; comuna PRODULEŞTI,"""Movila”, la E de localitate şi la 1 km N biserică, pe malul drept al pârâului Spălătura",de
 66,DB-I-s-B-16975,Siliştea satului Mălineşti,sat BROŞTENI; comuna VIŞINA,"La 0,5 km la NV de localitate, pe terasa dreaptă a Neajlovului inferior spre V, pădurea Mălineasa","înaltă sec. XV-XVII, Epoca la E de medievală"
 67,DB-I-s-B-16976,"Situl arheologic de la Broşteni, punct ""Dealul Tătarilor""",sat BROŞTENI; comuna VIŞINA,"""Dealul Tătarilor”, la 1,5 km NV de sat, marginea terasei drepte a Neajlovului",pe
@@ -66,7 +71,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 70,DB-I-s-B-16977,"Situl arheologic de la Broşteni, punct ""La moara părăsită""",sat BROŞTENI; comuna VIŞINA,"""La moara părăsită”, pe terasa înaltă Neajlovului, la 1 km SV de sat, la limita comuna Ulieşti",dreaptă a cu
 71,DB-I-m-B-16977.01,Aşezare,sat BROŞTENI; comuna VIŞINA,"""La moara părăsită”, pe terasa înaltă Neajlovului, la 1 km SV de localitate, la cu comuna Ulieşti","dreaptă a sec. XVII-XVIII, limita Epoca medievală târzie"
 72,DB-I-m-B-16977.02,Aşezare,sat BROŞTENI; comuna VIŞINA,"""La moara părăsită”, pe terasa înaltă Neajlovului, la 1 km SV de localitate, la cu comuna Ulieşti","dreaptă a Epoca bronzului, limita Cultura Tei"
-73,DB-I-s-B-16978,Aşezare,sat BUCIUMENI; comuna BUCIUMENI BUCŞANI,"""Lunca-Crucea Buciumeni”, la 500 m podul peste Ialomiţa venind din direcţia Mare la S de pădurea Bucşani şi la 0,5 km de","E de sec. VII-XI, Epoca Dealul medievală timpurie punctul migraţiilor"
+73,DB-I-s-B-16978,Aşezare,sat BUCIUMENI; comuna BUCIUMENI,"""Lunca-Crucea Buciumeni”, la 500 m podul peste Ialomiţa venind din direcţia Mare","E de sec. VII-XI, Epoca Dealul medievală timpurie"
+74,DB-I-s-B-16979,Aşezare,sat BUCŞANI; comuna BUCŞANI,"Pădurea ""Adânca”, la 3 km NNE de localitate, la S de pădurea Bucşani şi la 0,5 km de „Ţipirig”","sec. VII, Epoca punctul migraţiilor"
 75,DB-I-s-A-16980,Aşezare,sat BUCŞANI; comuna BUCŞANI,"""Ţipirig”, situat la 3 km NNE de localitate, hotarul cu satul Adânca","la sec. IV-VI, Epoca migraţiilor"
 76,DB-I-s-B-16981,Aşezare,sat BUJOREANCA; comuna CORNEŞTI,"""Între gârle”, la 2 km SE de localitate, confluenţa Snagovului cu pârâul Ciaur","la sec. VIII-IX, Epoca medievală timpurie"
 77,DB-I-s-B-16982,Aşezare,sat BUJOREANCA; comuna CORNEŞTI,"""Sere”, la 0,5 km E de localitate, pe malul al râului Ialomiţa","drept Latène, Cultura geto-dacică"
@@ -76,7 +82,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 81,DB-I-s-B-16984,Aşezare,sat BUNGETU; comuna VĂCĂREŞTI,"""Hoaga”, pe partea stângă a râului Ilfov, terasa înaltă şi la 0,6 km SE de localitate","pe sec. IV, Epoca daco-romană"
 82,DB-I-s-B-16985,Aşezare,sat BUNGETU; comuna VĂCĂREŞTI,"""Baraj lac III”,, pe terasa înaltă a râului 0,5 km SE de localitate, lângă barajul lacurile II şi III","Ilfov, la Epoca bronzului dintre timpuriu, Cultura Glina"
 83,DB-I-s-B-16986,Aşezare,sat BUTIMANU; comuna BUTIMANU,"""Biserica de lemn”, cartier Decindea","sec. III-I a. Chr., Latène, Cultura geto-dacică"
-84,DB-I-s-A-16987,"Aşezare Butimanu, punct ""Movila",sat BUTIMANU; comuna BUTIMANU comuna BUTIMANU,"""Între gârle”, la 2 km N de cartierul Linia, confluenţa Snagovului cu Lunca Ciaur Sterianu II (cota 133,7)","la sec. VIII-IX, Epoca medievală timpurie"
+84,DB-I-s-A-16987,Aşezare,sat BUTIMANU; comuna BUTIMANU,"""Între gârle”, la 2 km N de cartierul Linia, confluenţa Snagovului cu Lunca Ciaur","la sec. VIII-IX, Epoca medievală timpurie"
+85,DB-I-s-A-16988,"Situl arheologic de la Butimanu, punct ""Movila Motoroiu”",sat BUTIMANU; comuna BUTIMANU,"""Movila Motoroiu”, la 200 m N de lacul Sterianu II (cota 133,7)",
 86,DB-I-m-A-16988.01,Aşezare,sat BUTIMANU; comuna BUTIMANU,"""Movila Motoroiu”, la 200 m N de lacul Sterianu II (cota 133,7)","Eneolitic, Cultura Gumelniţa"
 87,DB-I-m-A-16988.02,Aşezare,sat BUTIMANU; comuna BUTIMANU,"""Movila Motoroiu”, la 200 m N de lacul Sterianu II (cota 133,7)","Neolitic mijlociu, Cultura Boian"
 88,DB-I-s-B-16989,Vestigii,sat BUTIMANU; comuna BUTIMANU,"""Ferma avicolă”, cartier Sterianu, pe malul lacului Sterianu",Paleolitic superior
@@ -85,7 +92,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 91,DB-I-m-B-16991.01,Siliştea satului Gălăşeşti,sat CAZACI; comuna NUCET,"""Islaz”, la V de sat, pe ambele maluri Gârliţei, la V de CF Titu-Târgovişte şi la 565","ale sec. XIV-XVI, Epoca N de DC medievală"
 92,DB-I-m-B-16991.02,Aşezare,sat CAZACI; comuna NUCET,"""Islaz”, la V de sat, pe ambele maluri Gârliţei, la V de CF Titu-Târgovişte şi la 565",ale Hallstatt N de DC
 93,DB-I-m-B-16991.03,Aşezare,sat CAZACI; comuna NUCET,"""Islaz”, la V de sat, pe ambele maluri Gârliţei, la V de CF Titu-Târgovişte şi la 565","ale Epoca bronzului, N de DC aspectul Brăteşti"
-94,DB-I-m-B-16991.04,"Aşezare Cazaci, punct ""Islaz -",sat CAZACI; comuna NUCET NUCET,"""Islaz”, la V de sat, pe ambele maluri Gârliţei, la V de CF Titu-Târgovişte şi la 565 înaltă tensiune Cazaci-Pierşani, pe malul",ale Neolitic N de DC stâng romană
+94,DB-I-m-B-16991.04,Aşezare,sat CAZACI; comuna NUCET,"""Islaz”, la V de sat, pe ambele maluri Gârliţei, la V de CF Titu-Târgovişte şi la 565",ale Neolitic N de DC
+95,DB-I-s-B-16992,"Situl arheologic de la Cazaci, punct ""Islaz - Tarlaua lui Îmbulzitu""",sat CAZACI; comuna NUCET,"""Islaz-Tarlaua lui Îmbulzitu”, la S de linia înaltă tensiune Cazaci-Pierşani, pe malul al Gârliţei şi la 1 km V de sat",de Epoca daco- stâng romană
 96,DB-I-m-B-16992.01,Aşezare,sat CAZACI; comuna NUCET,"""Islaz-Tarlaua lui Îmbulzitu”, la S de linia înaltă tensiune Cazaci-Pierşani, pe malul al Gârliţei şi la 1 km V de sat","de sec. IV p. Chr., stâng Epoca daco- romană"
 97,DB-I-m-B-16992.02,Aşezare,sat CAZACI; comuna NUCET,"""Islaz-Tarlaua lui Îmbulzitu”, la S de linia înaltă tensiune Cazaci-Pierşani, pe malul al Gârliţei şi la 1 km V de sat","de Epoca bronzului stâng timpuriu, Cultura Glina"
 98,DB-I-s-B-16995,"Situl arheologic de la Căprioru, punct ""Dealul Mlaca""",sat CĂPRIORU; comuna TĂTĂRANI,"""Dealul Mlaca”, pe platoul dealului, la NV de sat","0,5 km"
@@ -94,7 +102,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 101,DB-I-s-B-16996,"Situl arheologic de la Cătunu, punct ""Islaz""",sat CĂTUNU; comuna CORNEŞTI,"""Islaz” sau ""Olteni"", în capătul de V al pe malul stâng al Ialomiţei","satului,"
 102,DB-I-m-B-16996.01,Aşezare,sat CĂTUNU; comuna CORNEŞTI,"""Islaz” în capătul de V al satului, pe malul al Ialomiţei, punct ""Olteni""","stâng sec. II-III p. Chr., Epoca romană"
 103,DB-I-m-B-16996.02,Aşezare,sat CĂTUNU; comuna CORNEŞTI,"""Islaz”, imediat în capătul de V al satului, malul stâng al râului Ialomița","pe Latène, Cultura geto-dacică"
-104,DB-I-s-B-16997,"Aşezare Cătunu, punct ""Viişoara""",sat CĂTUNU; comuna CORNEŞTI CORNEŞTI,"""Moviliţa”, pe malul stâng al râului Ialomiţa, 1,5 km E de sat Crivăţu (cota 128,4 m)","la sec. II-I a. Chr., Latène, Cultura geto-dacică"
+104,DB-I-s-B-16997,Aşezare,sat CĂTUNU; comuna CORNEŞTI,"""Moviliţa”, pe malul stâng al râului Ialomiţa, 1,5 km E de sat","la sec. II-I a. Chr., Latène, Cultura geto-dacică"
+105,DB-I-s-A-16998,"Situl arheologic de la Cătunu, punct ""Viişoara""",sat CĂTUNU; comuna CORNEŞTI,"""Viişoara”, la 0,3 km E de sat şi la S de Crivăţu (cota 128,4 m)",DC spre
 106,DB-I-m-A-16998.01,Aşezare,sat CĂTUNU; comuna CORNEŞTI,"""Viişoara”, la 0,3 km E de sat şi la S de Crivăţu (cota 128,4 m)","DC spre sec. II-III p. Chr., Epoca romană"
 107,DB-I-m-A-16998.02,Aşezare,sat CĂTUNU; comuna CORNEŞTI,"""Viişoara”, la 0,3 km E de sat şi la S de Crivăţu (cota 128,4 m)","DC spre Latène, Cultura geto-dacică"
 108,DB-I-m-A-16998.03,Aşezare,sat CĂTUNU; comuna CORNEŞTI,"""Viişoara”, la 0,3 km E de sat şi la S de Crivăţu (cota 128,4 m)",DC spre Epoca bronzului
@@ -105,7 +114,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 113,DB-I-m-B-16955.02,Aşezare,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,"""Plantaţie”, pe malul drept al râului Colentina, în vatra satului","Latène, Cultura geto-dacică"
 114, DB-I-m-B-16955.03, Aşezare, sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI," ""Plantaţie”, pe malul drept al râului Colentina, în vatra satului", Neolitic
 115,DB-I-s-B-16999,Aşezare,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,"""Pădurea Popeasca”, între Ciocăneşti Creţu, pe malul drept al râului Colentina, dreptul pădurii","şi satul Epoca bronzului, în Cultura Tei"
-116,DB-I-s-B-17000,Situl arheologic de la Cocani,sat COCANI; comuna CREVEDIA CREVEDIA,"""Vii” (""Saivan”), la S de sat, pe malul stâng râului Crevedia stâng al râului Crevedia",al medievală timpurie
+116,DB-I-s-B-17000,Situl arheologic de la Cocani,sat COCANI; comuna CREVEDIA,"""Vii” (""Saivan”), la S de sat, pe malul stâng râului Crevedia",al
+117,DB-I-m-B-17000.01,Aşezare,sat COCANI; comuna CREVEDIA,"""Vii” (""Saivan”), la S de localitate, pe malul stâng al râului Crevedia","sec. IX-XI, Epoca medievală timpurie"
 118,DB-I-m-B-17000.02,Aşezare,sat COCANI; comuna CREVEDIA,"""Vii” (""Saivan”), la S de localitate, pe malul stâng al râului Crevedia",Epoca bronzului
 119,DB-I-s-B-17001,"Situl arheologic de la Cojasca, punct ""La Ion Tercan""",sat COJASCA; comuna COJASCA,"""La Ion Tercan"", pe terasa înaltă dreaptă Ialomiţei, la hotarul dintre Cojasca şi Bujoreanca",a
 120,DB-I-m-B-17001.01,Aşezare,sat COJASCA; comuna COJASCA,"""La Ion Tercan”, pe terasa înaltă dreaptă Ialomiţei, la hotarul dintre Cojasca şi Bujoreanca (com. Corneşti)","a sec. IX-XI, Epoca medievală timpurie"
@@ -114,7 +124,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 123,DB-I-s-B-17002,"Situl arheologic de la Colacu, punct ""Cega""",localitate componentă COLACU; oraş RĂCARI,"""Cega"", la 0,5 km NV de sat, la confluenţa Colentinei cu o vale secată",
 124,DB-I-m-B-17002.01,Aşezare,localitate componentă COLACU; oraş RĂCARI,"""Cega”, la 0,5 km NV de localitate, la confluenţa râului Colentina cu o vale","Latène, Cultura secată geto-dacică"
 125,DB-I-m-B-17002.02,Aşezare,localitate componentă COLACU; oraş RĂCARI,"""Cega”, la 0,5 km NV de localitate, la confluenţa râului Colentina cu o vale",Epoca bronzului secată
-126,DB-I-s-B-17003,"Situl arheologic de la Colacu, punct ""Şcoală""",localitate componentă COLACU; oraş RĂCARI componentă COLACU;,"""Şcoală”, pe malul drept al Colentinei, şcoală, în zona de N a plantaţiei şcoală, în zona de N a plantaţiei",la S de daco-romană
+126,DB-I-s-B-17003,"Situl arheologic de la Colacu, punct ""Şcoală""",localitate componentă COLACU; oraş RĂCARI,"""Şcoală”, pe malul drept al Colentinei, şcoală, în zona de N a plantaţiei",la S de
+127,DB-I-m-B-17003.01,Aşezare,localitate componentă COLACU; oraş RĂCARI,"""Şcoală”, pe malul drept al Colentinei, şcoală, în zona de N a plantaţiei","la S de sec. III-IV, Epoca daco-romană"
 128,DB-I-m-B-17003.02,Aşezare,localitate componentă COLACU; oraş RĂCARI,"""Şcoală”, pe malul drept al Colentinei, şcoală, în zona de N a plantaţiei","la S de Epoca bronzului, Cultura Tei"
 129,DB-I-s-A-17004,"Situl arheologic de la Comişani, punct ""Cetatea Fetii""",sat COMIŞANI; comuna COMIŞANI,"""Cetatea Fetii"", la SE de sat, între terasa dreaptă a Ialomiţei şi DC Comişani-Hăbeni, 0,5 km de sat",înaltă la
 130,DB-I-m-A-17004.01,Aşezare,sat COMIŞANI; comuna COMIŞANI,"""Cetatea Fetii”, la 0,5 km SE de sat, între înaltă dreaptă a Ialomiţei şi DC Comişani- Hăbeni","terasa sec. XV-XVI, Epoca medievală"
@@ -123,7 +134,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 133,DB-I-m-A-17004.04,Aşezare,sat COMIŞANI; comuna COMIŞANI,"""Cetatea Fetii”, la 0,5 km SE de sat, între înaltă dreaptă a Ialomiţei şi DC Comişani- Hăbeni",terasa Epoca bronzului timpuriu
 134,DB-I-s-B-17005,Tumul,sat COMIŞANI; comuna COMIŞANI,"""Movila”, la 0,5 km SE de Comişani şi de DJ 711 (cota 221,7 m)",500 m N Epoca bronzului
 135,DB-I-s-B-17006,"Situl arheologic de la Comişani, punct ""Sere”",sat COMIŞANI; comuna COMIŞANI,"""Sere”, la 2 km N de localitate, pe malul al Ialomiţei",drept
-136,DB-I-m-B-17006.01,Aşezare,sat COMIŞANI; comuna COMIŞANI comuna COMIŞANI,"""Sere”, la 2 km N de localitate, pe malul al Ialomiţei al Ialomiţei","drept sec. V-VI, Epoca migraţiilor Cultura Tei"
+136,DB-I-m-B-17006.01,Aşezare,sat COMIŞANI; comuna COMIŞANI,"""Sere”, la 2 km N de localitate, pe malul al Ialomiţei","drept sec. V-VI, Epoca migraţiilor"
+137,DB-I-m-B-17006.02,Aşezare,sat COMIŞANI; comuna COMIŞANI,"""Sere”, la 2 km N de localitate, pe malul al Ialomiţei","drept Epoca bronzului, Cultura Tei"
 138,DB-I-s-B-17007,Necropolă tumulară,sat COMIŞANI; comuna COMIŞANI,"""Şcoala” sau ""Movile”, în spatele şcolii generale, la limita cu satul Lazuri (cota","Epoca bronzului 238,2 )"
 139,DB-I-s-B-17008,"Situl arheologic de la Corbii Mari, punct ""Grajduri CAP""",sat CORBII MARI; comuna CORBII MARI,"""Grajduri CAP”, la SE de localitate, pe de E a DJ spre Găiseni (jud. Giurgiu)",partea
 140,DB-I-m-B-17008.01,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""Grajduri CAP”, la SE de localitate, pe de E a DJ spre Găiseni (jud. Giurgiu)","partea Latène, Cultura geto-dacică"
@@ -133,7 +145,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 144,DB-I-m-B-17010.01,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""La Cimitir”, la N de sat şi la S de cimitir, terasa înaltă stângă a râului Neajlov","pe Latène, Cultura geto-dacică"
 145,DB-I-m-B-17010.02,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""La Cimitir”, la N de sat şi la S de cimitir, terasa înaltă stângă a râului Neajlov",pe Epoca bronzului
 146,DB-I-s-B-17011,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""Măgura”, la 2 km S de sat, pe malul stâng râului Neajlov","al Eneolitic, Cultura Gumelniţa"
-147,DB-I-s-B-17012,"Situl arheologic de la Corbii Mari, punct ""Sediul Schela Petrol""",sat CORBII MARI; comuna CORBII MARI comuna CORBII MARI,"""Sediul Schela Petrol” sau ""La vii”, la 0,5 de sat şi la N de sediul schelei, pe botul înalte stângi a Neajlovului de sat şi la N de sediul schelei, pe botul",km S terasei terasei
+147,DB-I-s-B-17012,"Situl arheologic de la Corbii Mari, punct ""Sediul Schela Petrol""",sat CORBII MARI; comuna CORBII MARI,"""Sediul Schela Petrol” sau ""La vii”, la 0,5 de sat şi la N de sediul schelei, pe botul înalte stângi a Neajlovului",km S terasei
+148,DB-I-m-B-17012.01,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""Sediul Schela Petrol” sau ""La vii”, la 0,5 de sat şi la N de sediul schelei, pe botul înalte stângi a Neajlovului",km S Epoca migraţiilor terasei
 149,DB-I-m-B-17012.02,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""Sediul Schela Petrol” sau ""La vii”, la 0,5 de sat şi la N de sediul schelei, pe botul înalte stângi a Neajlovului","km S Latène, Cultura terasei geto-dacică"
 150,DB-I-m-B-17012.03,Aşezare,sat CORBII MARI; comuna CORBII MARI,"""Sediul Schela Petrol” sau ""La vii”, la 0,5 de sat şi la N de sediul schelei, pe botul înalte stângi a Neajlovului",km S Epoca bronzului terasei
 151,DB-I-s-B-17013,Fortificaţie de pământ,sat CORNĂŢELU; comuna CORNĂŢELU,"""Crângul Turcului” şi ""Puţul Predescului”, de localitate",la N Epoca romană
@@ -143,7 +156,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 155,DB-I-m-B-17015.02,Aşezare,sat CORNEŞTI; comuna CORNEŞTI,"""Siliştea Corneşti”, la V şi NV de localitate","sec. XV-XVIII, Epoca medievală"
 156,DB-I-m-B-17015.03,Cimitir,sat CORNEŞTI; comuna CORNEŞTI,"""Siliştea Corneşti”, la V şi NV de localitate","sec. XV-XVIII, Epoca medievală"
 157,DB-I-m-B-17015.04,Aşezare,sat CORNEŞTI; comuna CORNEŞTI,"""Siliştea Corneşti”, la V şi NV de localitate",Epoca bronzului
-158,DB-I-s-B-17016,"Necropolă birituală Costeştii din Vale, punct",sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE VALE; comuna,"""Grajduri” sau ""Saivan”, pe malul drept pârâului Tinoasa, la confluenţa cu râul la SV de localitate ferată a balastierei","al Latène, Cultura Sabar şi geto-dacică"
+158,DB-I-s-B-17016,Necropolă birituală,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Grajduri” sau ""Saivan”, pe malul drept pârâului Tinoasa, la confluenţa cu râul la SV de localitate","al Latène, Cultura Sabar şi geto-dacică"
+159,DB-I-s-B-17017,"Situl arheologic de la Costeştii din Vale, punct ""Măgura""",sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Măgura”, la 0,5 km NV de sat şi la S de ferată a balastierei",calea
 160,DB-I-m-B-17017.01,Aşezare,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Măgura”, la 0,5 km NV de sat şi la S de ferată a balastierei",calea Epoca medievală
 161,DB-I-s-B-17017.02,Aşezare,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Măgura”, la 0,5 km NV de sat şi la S de ferată a balastierei",calea Epoca migraţiilor
 162,DB-I-m-B-17017.03,Aşezare,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Măgura”, la 0,5 km NV de sat şi la S de ferată a balastierei",calea Epoca bronzului
@@ -151,7 +165,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 164,DB-I-s-A-17019,"Situl arheologic de la Costeştii din Vale, punct ""Proprietatea Octavian Visarion""",sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Proprietatea Octavian Visarion-Zăvoi”, malul stâng al pârâului Tinoasa, în vatra",pe satului
 165,DB-I-m-A-17019.01,Vestigii,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Proprietatea Octavian Visarion-Zăvoi”, malul stâng al pârâului Tinoasa, în vatra","pe sec. II-III, Epoca satului romană"
 166,DB-I-m-A-17019.02,Vestigii,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,"""Proprietatea Octavian Visarion-Zăvoi”, malul stâng al pârâului Tinoasa, în vatra",pe Epoca bronzului satului timpuriu
-167,DB-I-s-B-17020,Aşezare,sat CREŢU; comuna CIOCĂNEŞTI CIOCĂNEŞTI,"""Grajduri”, pe malul drept al râului Colentina, la 0,5 km E de capătul sudic al localităţii râului Colentina","Latène, Cultura geto-dacică medievală"
+167,DB-I-s-B-17020,Aşezare,sat CREŢU; comuna CIOCĂNEŞTI,"""Grajduri”, pe malul drept al râului Colentina, la 0,5 km E de capătul sudic al localităţii","Latène, Cultura geto-dacică"
+168,DB-I-s-B-17021,Aşezare,sat CREŢU; comuna CIOCĂNEŞTI,"""Silişte”, la 0,2 km NE de sat, pe malul râului Colentina","drept al sec. XIV-XV, Epoca medievală"
 169,DB-I-s-B-17022,Aşezare,sat CRIVĂŢU; comuna CORNEŞTI,"""Malu Roşu”, la 1 km S de localitate, pe stâng al Ialomiţei","malul sec. III-IV p. Chr., Epoca daco- romană"
 170,DB-I-s-B-17023,"Situl arheologic de la Crivăţu, punct ""Vărsarea Cricovului”",sat CRIVĂŢU; comuna CORNEŞTI,"""Vărsarea Cricovului”, la 2 km SE de localitate, la confluenţa râului Cricov cu Ialomiţa",
 171,DB-I-m-B-17023.01,Aşezare,sat CRIVĂŢU; comuna CORNEŞTI,"""Vărsarea Cricovului”, la 2 km SE de localitate, la confluenţa râului Cricov cu Ialomiţa","sec. IV p. Chr., Epoca daco- romană"
@@ -161,7 +176,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 175,DB-I-m-B-17024.02,Aşezare,sat CROITORI; comuna ULIEŞTI,"""Bunget”, pe partea dreaptă a pârâului Deasă, la o confluenţă, la 1 km SE de",Valea Neolitic localitate
 176,DB-I-s-B-17025,"Situl arheologic de la Croitori, punct ""Ferma CAP""",sat CROITORI; comuna ULIEŞTI,"""Ferma CAP” (""Lacul Raţii”), pe terasa Neajlovului, la marginea de NV a satului",înaltă a
 177,DB-I-m-B-17025.01,Aşezare,sat CROITORI; comuna ULIEŞTI,"""Ferma CAP” (""Lacul Raţii”), pe terasa Neajlovului, la marginea de NV a satului",înaltă a Epoca romană
-178,DB-I-m-B-17025.02,"Aşezare Croitori, punct ""Şcoală"",",sat CROITORI; comuna ULIEŞTI ULIEŞTI,"""Ferma CAP” (""Lacul Raţii”), pe terasa Neajlovului, la marginea de NV a satului în capătul de E al satului, în grădina şcolii","înaltă a sec. II-III p. Chr., Epoca bronzului şi în"
+178,DB-I-m-B-17025.02,Aşezare,sat CROITORI; comuna ULIEŞTI,"""Ferma CAP” (""Lacul Raţii”), pe terasa Neajlovului, la marginea de NV a satului","înaltă a sec. II-III p. Chr., Epoca bronzului"
+179,DB-I-s-B-17026,"Situl arheologic de la Croitori, punct ""Şcoală"", ""Vie""",sat CROITORI; comuna ULIEŞTI,"""Şcoală”, ""Vie”, pe malul drept al Neajlovului, în capătul de E al satului, în grădina şcolii via din vecinătate", şi în
 180,DB-I-m-B-17026.01,Aşezare,sat CROITORI; comuna ULIEŞTI,"""Şcoală”, ""Vie”, pe malul drept al Neajlovului, în capătul de E al satului, în grădina şcolii via din vecinătate","sec. IV p. Chr., şi în Epoca daco- romană"
 181,DB-I-m-B-17026.02,Aşezare,sat CROITORI; comuna ULIEŞTI,"""Şcoală”, ""Vie”, pe malul drept al Neajlovului, în capătul de E al satului, în grădina şcolii via din vecinătate","sec. II-I. a. Chr., şi în Latène, Cultura geto-dacică"
 182,DB-I-s-B-17027,"Situl arheologic de la Cucuteni, punct ""Dealul Mănăstirea”",sat CUCUTENI; comuna MOŢĂIENI,"""Dealul Mănăstirea”, la 1,5 km SV de (cota 609,9 m)",localitate
@@ -171,7 +187,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 186,DB-I-s-B-17029,"Situl arheologic de la Dimoiu, punct ""Movila”",sat DIMOIU; comuna ULMI,"""Movila”, la 0,3 km VNV de localitate, ambele părţi ale DC Matraca-Dimoiu",de
 187,DB-I-m-B-17029.01,Aşezare,sat DIMOIU; comuna ULMI,"""Movila”, la 0,3 km VNV de localitate, ambele părţi ale DC Matraca-Dimoiu","de sec. IV p. Chr., Epoca daco- romană"
 188,DB-I-m-B-17029.02,Tumul,sat DIMOIU; comuna ULMI,"""Movila”, la 0,3 km VNV de localitate, ambele părţi ale DC Matraca-Dimoiu",de Preistorie
-189,DB-I-s-B-17030,"Necropolă tumulară Dobra, punct ""Izvorul",sat DOBRA; comuna DOBRA DOBRA,"""Fântâna”, la 1,5 km SE de localitate, marginea de NE a DJ 711 dreaptă a pârâului",pe Hallstatt
+189,DB-I-s-B-17030,Necropolă tumulară,sat DOBRA; comuna DOBRA,"""Fântâna”, la 1,5 km SE de localitate, marginea de NE a DJ 711",pe Hallstatt
+190,DB-I-s-B-17031,"Situl arheologic de la Dobra, punct ""Izvorul Crevedia""",sat DOBRA; comuna DOBRA,"""Izvorul Crevedia”, la 1 km SV de sat, dreaptă a pârâului",pe terasa
 191,DB-I-m-B-17031.01,Aşezare,sat DOBRA; comuna DOBRA,"""Izvorul Crevedia”, la 1 km SV de localitate, terasa dreaptă a pârâului","pe sec. IV p. Chr., Epoca daco- romană"
 192,DB-I-m-B-17031.02,Aşezare,sat DOBRA; comuna DOBRA,"""Izvorul Crevedia”, la 1 km SV de localitate, terasa dreaptă a pârâului",pe Epoca bronzului
 193,DB-I-s-B-17032,"Situl arheologic de la Dobra, punct ""La capătul satului”",sat DOBRA; comuna DOBRA,"""La capătul satului”, la 500 m S de sat 173,6 m)",(cota
@@ -181,7 +198,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 197,DB-I-m-B-17033.01,Aşezare,sat DOBRA; comuna DOBRA,"""Leşi”, la 0,5 km SE de localitate, pe malul stâng al râului Ialomiţa","sec. XVII-XIX, Epoca medievală"
 198,DB-I-m-B-17033.02,Aşezare,sat DOBRA; comuna DOBRA,"""Leşi”, la 0,5 km SE de localitate, pe malul stâng al râului Ialomiţa",Epoca bronzului
 199,DB-I-s-B-17034,Aşezare,sat DOICEŞTI; comuna DOICEŞTI,"""Biserica”, în centrul satului","sec. V-VI, Epoca migraţiilor"
-200,DB-I-s-B-17035,Ruine curţi boiereşti,sat DRAGOMIREŞTI; comuna DRAGOMIREŞTI comuna ULMI,"""Căminul Cultural”, în centrul localităţii, biserică Deal, pe terasa stângă a Dâmboviţei,","lângă sec. XV-XVIII, Epoca medievală la 1 km SE"
+200,DB-I-s-B-17035,Ruine curţi boiereşti,sat DRAGOMIREŞTI; comuna DRAGOMIREŞTI,"""Căminul Cultural”, în centrul localităţii, biserică","lângă sec. XV-XVIII, Epoca medievală"
+201,DB-I-s-B-17036,Tumul,sat DUMBRAVA; comuna ULMI,"""La Floreasca”, pe DJ Târgovişte-Costeştii Deal, pe terasa stângă a Dâmboviţei, de localitate şi de DN 72",din Preistorie la 1 km SE
 202,DB-I-s-A-17037,"Situl arheologic de la Dumbrava, punct ""Obreja - Jgheaburi”",sat DUMBRAVA; comuna ULMI,"""Obreja-Jgheaburi”, pe terasa înaltă stângă Dâmboviţei, la 1 km SE de localitate şi 72",a de DN
 203,DB-I-m-A-17037.01,Aşezare,sat DUMBRAVA; comuna ULMI,"""Obreja-Jgheaburi”, pe terasa înaltă stângă Dâmboviţei, la 1 km SE de localitate şi 72","a sec. XIV-XV, Epoca de DN medievală"
 204,DB-I-m-A-17037.02,Cimitir,sat DUMBRAVA; comuna ULMI,"""Obreja-Jgheaburi”, pe terasa înaltă stângă Dâmboviţei, la 1 km SE de localitate şi 72","a sec. XIV-XV, Epoca de DN medievală"
@@ -190,7 +208,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 207,DB-I-s-B-17038,Aşezare,sat DUMBRAVA; comuna ULMI,"""Pădurea Viişoara - La Obreja”, pe terasa stângă a Dâmboviţei, la 2 km NV de sat DN 72",Epoca bronzului şi de
 208,DB-I-s-B-17039,Necropolă,sat DUPĂ DEAL; comuna BĂRBULEŢU,În grădina Mariei Petre Pucheanu,Epoca bronzului
 209,DB-I-s-B-17040,Aşezare,oraş FIENI,"""Islaz”, la 1 km NNV de localitate, pe terenul Fermei zootehnice, pe stânga râului Ialomicioara (cota 600 m)",Epoca bronzului
-210,DB-I-s-B-17041,Aşezare,sat FIERBINŢI; comuna ŞELARU,"""Măgura”, pe stânga râului Dâmboviţa, km de sat şi la 0,25 km V de DC Fierbinţi","la 0,3 Neolitic -"
+210,DB-I-s-B-17041,Aşezare,sat FIERBINŢI; comuna ŞELARU,"""Măgura”, pe stânga râului Dâmboviţa, km de sat şi la 0,25 km V de DC Fierbinţi Şelaru","la 0,3 Neolitic -"
 211,DB-I-m-B-17042,Aşezare,sat FINTA MARE; comuna FINTA,"""Islaz”, la 0,2 km S de Staţiunea experimentală zootehnică, pe malul drept al Ialomiţei","sec. VIII-X, Epoca migraţiilor"
 212,DB-I-s-A-17043,Aşezare,sat FRASINU; comuna CORNEŞTI,"""Tota”, la N de sat, pe dealul Frasin (cota m)","160,9 Latène, Cultura geto-dacică"
 213,DB-I-s-B-17044,Aşezare,sat FRASINU; comuna CORNEŞTI,"""Islazul bisericii”, în centrul satului, lângă biserica din localitate","sec. VII, Epoca migraţiilor"
@@ -200,7 +218,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 217,DB-I-s-B-17046,Aşezare,sat GEANGOIEŞTI; comuna DRAGOMIREŞTI,"""Hula”, la 1 km E de capătul de N al localităţii la E de poligonul gărzii naţionale","şi Eneolitic, Cultura Gumelniţa"
 218,DB-I-s-B-17047,Necropolă,sat GHEBOAIA; comuna FINTA,"""Movila din Câmpul Budii”, la 2 km N localitate, imediat sub dealul „Viile Româneşti”",de 1639
 219,DB-I-s-B-17048,Aşezare,localitate componentă GHIMPAŢI; oraş RĂCARI,"""Balta Baranga”, pe malul stâng al râului Colentina, la 1 km NV de localitate şi Balta Baranga","sec. IV p. Chr., la V de Epoca daco- romană"
-220,DB-I-s-A-17049,"Situl medieval de la Ghirdoveni, punct ""Silişte”",sat GHIRDOVENI; comuna I. L. CARAGIALE comuna I. L.,"""Silişte”, la V de sediul CAP, pe malul pârâului Cricovul pârâului Cricovul",drept al medievală
+220,DB-I-s-A-17049,"Situl medieval de la Ghirdoveni, punct ""Silişte”",sat GHIRDOVENI; comuna I. L. CARAGIALE,"""Silişte”, la V de sediul CAP, pe malul pârâului Cricovul",drept al
+221,DB-I-m-A-17049.01,Biserică (ruine),sat GHIRDOVENI; comuna I. L. CARAGIALE,"""Silişte”, la V de sediul CAP, pe malul pârâului Cricovul","drept al sec. XV-XVII, Epoca medievală"
 222,DB-I-m-A-17049.02,Aşezare,sat GHIRDOVENI; comuna I. L. CARAGIALE,"""Silişte”, la V de sediul CAP, pe malul pârâului Cricovul","drept al sec. XV-XVII, Epoca medievală"
 223,DB-I-m-A-17049.03,Cimitir,sat GHIRDOVENI; comuna I. L. CARAGIALE,"""Silişte”, la V de sediul CAP, pe malul pârâului Cricovul","drept al sec. XV-XVII, Epoca medievală"
 224,DB-I-s-B-17050,Aşezare,sat GLODENI; comuna GLODENI,"""Poiana lui Solomon”, pe stânga pârâului Slănic, la jumătatea drumului între Glodeni Gorgota şi la 3 km SE de localitate",sec. XIV-XIX şi
@@ -209,7 +228,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 227,DB-I-m-B-17052.01,Ruine schit,sat GURA BĂRBULEŢULUI; comuna BĂRBULEŢU,"""Dealul Călugărului” sau ""La Haldă”, în satului, la confluenţa pâraielor Râul Alb Bărbuleţu","centrul sec. XVI, Epoca şi medievală"
 228,DB-I-m-B-17052.02,Cimitir,sat GURA BĂRBULEŢULUI; comuna BĂRBULEŢU,"""Dealul Călugărului” sau ""La Haldă”, în satului, la confluenţa pâraielor Râul Alb Bărbuleţu","centrul sec. XVI, Epoca şi medievală"
 229,DB-I-s-B-17053,"Situl arheologic de la Gura Ocniţei, punct ""Podul Slănic”",sat GURA OCNIŢEI; comuna GURA OCNIŢEI,"""Podul Slănic”, la SE de localitate, la N Răzvad-Moreni",de DJ
-230,DB-I-m-B-17053.01,Aşezare,sat GURA OCNIŢEI; comuna GURA,"""Podul Slănic”, la SE de localitate, la N Răzvad-Moreni",de DJ Epoca migraţiilor
+230,DB-I-m-B-17053.01,Aşezare,sat GURA OCNIŢEI; comuna GURA OCNIŢEI,"""Podul Slănic”, la SE de localitate, la N Răzvad-Moreni",de DJ Epoca migraţiilor
 231,DB-I-m-B-17053.02,Cimitir,sat GURA OCNIŢEI; comuna GURA OCNIŢEI,"""Podul Slănic”, la SE de localitate, la N Răzvad-Moreni","de DJ sec. XV-XVII, Epoca medievală"
 232,DB-I-s-B-17055,"Situl arheologic de la Hanu lui Pală, punct ""Pădurea Baracu""",sat HANU LUI PALĂ; comuna ULIEŞTI,"""Pădurea Baracu”, la 1 km SE de sat, în de NE al pădurii",colţul
 233,DB-I-m-B-17055.01,Aşezare,sat HANU LUI PALĂ; comuna ULIEŞTI,"""Pădurea Baracu”, la 1 km SE de localitate, colţul de NE al pădurii","în Epoca bronzului mijlociu, Cultura Tei"
@@ -218,7 +237,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 236,DB-I-m-B-17056.01,Aşezare,sat HANU LUI PALĂ; comuna ULIEŞTI,"""Pe Baracu”, la 2,3 km S de localitate, partea stângă a pârâului Baracu şi la V Hanu lui Pală - Sârbeni (jud. Giurgiu)",pe Epoca bronzului de DC
 237,DB-I-m-B-17056.02,Aşezare,sat HANU LUI PALĂ; comuna ULIEŞTI,"""Pe Baracu”, la 2,3 km S de localitate, partea stângă a pârâului Baracu şi la V Hanu lui Pală - Sârbeni (jud. Giurgiu)",pe Neolitic de DC
 238,DB-I-s-B-17054,Aşezare,sat HĂBENI; comuna BUCŞANI,"""Între grădini”, la SE de sat, spre comuna Comişani, pe terasa dreaptă a Ialomiţei","Epoca bronzului, Cultura Tei"
-239,DB-I-s-A-17057,"Aşezare Ibrianu, punct ""Movila",sat IAZU; comuna COJASCA CORNEŞTI,"""Izvorul Snagovului”, la 1 km S de sat, la V de canalul Ialomiţa-Dâmboviţa Crivăţ, la 1 km E de localitate (cota 148,2","imediat sec. II a. Chr., Latène, Cultura geto-dacică m)"
+239,DB-I-s-A-17057,Aşezare,sat IAZU; comuna COJASCA,"""Izvorul Snagovului”, la 1 km S de sat, la V de canalul Ialomiţa-Dâmboviţa","imediat sec. II a. Chr., Latène, Cultura geto-dacică"
+240,DB-I-s-B-17058,"Situl arheologic de la Ibrianu, punct ""Movila Cornească”",sat IBRIANU; comuna CORNEŞTI,"""Movila Cornească”, pe malul drept al Crivăţ, la 1 km E de localitate (cota 148,2",pârâului m)
 241,DB-I-m-B-17058.01,Staţiune,sat IBRIANU; comuna CORNEŞTI,"""Movila Cornească”, pe malul drept al Crivăţ, la 1 km E de localitate (cota 148,2",pârâului Preistorie m)
 242,DB-I-m-B-17058.02,Tumul,sat IBRIANU; comuna CORNEŞTI,"""Movila Cornească”, pe malul drept al Crivăţ, la 1 km E de localitate (cota 148,2",pârâului Preistorie m)
 243,DB-I-s-B-17059,"Situl arheologic de la Ibrianu, punct ""SMA Ibrianu”",sat IBRIANU; comuna CORNEŞTI,"""SMA Ibrianu”, la E de sat, pe malul stâng pârâului Chileanca",al
@@ -228,7 +248,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 247,DB-I-s-A-17060,Aşezare fortificată,sat IEDERA DE JOS; comuna IEDERA,"""Dealul Cetăţuia”, la 2 km NE de localitate, dealul din stânga pârâului Ruda","pe Latène, Cultura geto-dacică"
 248,DB-I-s-B-17061,"Situl arheologic de la Ioneşti, punct ""Ioneasca”",sat IONEŞTI; comuna PETREŞTI,"""Ioneasca” sau ""Palade”, pe terasa stângă Neajlovului, la 1 km SSE de podul peste Neajlov al DC Ioneşti-Morteni",a
 249,DB-I-m-B-17061.01,Aşezare,sat IONEŞTI; comuna PETREŞTI,"""Ioneasca” sau ""Palade”, pe terasa stângă Neajlovului, la 1 km SSE de podul peste Neajlov al DC Ioneşti-Morteni","a sec. XVIII-XIX, Epoca medievală târzie"
-250,DB-I-m-B-17061.02,Aşezare,sat IONEŞTI; comuna PETREŞTI PETREŞTI,"""Ioneasca” sau ""Palade”, pe terasa stângă Neajlovului, la 1 km SSE de podul peste Neajlov al DC Ioneşti-Morteni Neajlovului, la 1 km SSE de podul peste","a Epoca bronzului, Cultura Tei Gumelniţa"
+250,DB-I-m-B-17061.02,Aşezare,sat IONEŞTI; comuna PETREŞTI,"""Ioneasca” sau ""Palade”, pe terasa stângă Neajlovului, la 1 km SSE de podul peste Neajlov al DC Ioneşti-Morteni","a Epoca bronzului, Cultura Tei"
+251,DB-I-m-B-17061.03,Aşezare,sat IONEŞTI; comuna PETREŞTI,"""Ioneasca” sau ""Palade”,, pe terasa stângă Neajlovului, la 1 km SSE de podul peste Neajlov al DC Ioneşti-Morteni","a Eneolitic, Cultura Gumelniţa"
 252,DB-I-s-B-17062,Aşezare,sat IONEŞTI; comuna PETREŞTI,"""Puţul de la Neajlovel”, pe terasa dreaptă pârâului Neajlovel, la 0,2 km înainte de vărsarea acestuia în pârâul Neajlov, imediat N de DC Morteni-Ioneşti","a Epoca bronzului timpuriu, Cultura la Glina"
 253,DB-I-s-B-17063,"Situl arheologic de la Ioneşti, punct ""Vărsarea Neajlovului”",sat IONEŞTI; comuna PETREŞTI,"""Vărsarea Neajlovului”, la E de podul Neajlov al DC Morteni-Ioneşti",peste
 254,DB-I-m-B-17063.01,Aşezare,sat IONEŞTI; comuna PETREŞTI,"""Vărsarea Neajlovului”, la E de podul Neajlov al DC Morteni-Ioneşti","peste Epoca bronzului timpuriu, Cultura Glina"
@@ -237,7 +258,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 257,DB-I-s-B-17065,Necropolă tumulară,sat LAZURI; comuna COMIŞANI,"""Islaz”, la NE de localitate şi la 0,5 km biserică",V de Epoca bronzului
 258,DB-I-s-B-17066,"Situl arheologic de la Lazuri, punct ""SMA”",sat LAZURI; comuna COMIŞANI,"""SMA”, la ieşirea spre N din localitate, DJ 711",a V de
 259,DB-I-m-B-17066.01,Aşezare,sat LAZURI; comuna COMIŞANI,"""SMA”, la ieşirea spre N din localitate, la V de DJ 711","imediat sec. IV p. Chr., Epoca daco- romană"
-260,DB-I-m-B-17066.02,Aşezare,sat LAZURI; comuna COMIŞANI LUCIENI,"""SMA”, la ieşirea spre N din localitate, la V de DJ 711 km N de limita de NV a localităţii",imediat Epoca bronzului
+260,DB-I-m-B-17066.02,Aşezare,sat LAZURI; comuna COMIŞANI,"""SMA”, la ieşirea spre N din localitate, la V de DJ 711",imediat Epoca bronzului
+261,DB-I-s-B-17067,Siliştea satului Lucieni,sat LUCIENI; comuna LUCIENI,"""Biserică”, pe terasa joasă a Dâmboviţei, km N de limita de NV a localităţii",la 1 Epoca medievală
 262,DB-I-s-B-17068,Siliştea satului Râpeni,sat LUCIENI; comuna LUCIENI,"""Râpe”, la 1 km SE de localitate (cartier Ciurari), în lunca Dâmboviţei, pe malul","sec. XVI-XVIII, drept Epoca medievală"
 263,DB-I-s-B-17069,"Situl arheologic de la Lunguleţu, punct ""În Poieniţă”",sat LUNGULEŢU; comuna LUNGULEŢU,"""În Poieniţă”, la 2 km S de localitate, la Lunguleţu-Poiana şi la 0,2 km N de satul Poieniţa",E de DC
 264,DB-I-m-B-17069.01,Aşezare,sat LUNGULEŢU; comuna LUNGULEŢU,"""În Poieniţă”, la 2 km S de localitate, la Lunguleţu-Poiana şi la 0,2 km N de satul Poieniţa","E de DC sec. IV p. Chr., Epoca daco- romană"
@@ -246,7 +268,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 267,DB-I-s-B-17070,Aşezare,sat LUNGULEŢU; comuna LUNGULEŢU,"""Vlăsceni”, la 0,3 km SV de capătul de localităţii, pe partea stângă a pârâului spre sat","S al Latène, Cultura Baiul, geto-dacică"
 268,DB-I-s-B-17071,Necropolă,sat MANGA; comuna VOINEŞTI,"""Biserică”, la N de biserică",Epoca bronzului timpuriu
 269,DB-I-s-B-17072,"Situl arheologic de la Mavrodin, punct ""Biserica Veche”",localitate componentă MAVRODIN; oraş RĂCARI,"""Biserica Veche”, în cartier Gămăneşti, ambele maluri ale pârâului „Apa Satului”, de ruinele bisericii vechi",pe la E
-270,DB-I-m-B-17072.01,Cimitir,localitate componentă MAVRODIN; oraş,"""Biserica Veche”,, în cartier Gămăneşti, ambele maluri ale pârâului „Apa Satului”, de ruinele bisericii vechi",pe Epoca medievală la E
+270,DB-I-m-B-17072.01,Cimitir,localitate componentă MAVRODIN; oraş RĂCARI,"""Biserica Veche”,, în cartier Gămăneşti, ambele maluri ale pârâului „Apa Satului”, de ruinele bisericii vechi",pe Epoca medievală la E
 271,DB-I-m-B-17072.02,Aşezare,localitate componentă MAVRODIN; oraş RĂCARI,"""Biserica Veche”,, în cartier Gămăneşti, ambele maluri ale pârâului „Apa Satului”, de ruinele bisericii vechi","pe sec. IV, Epoca la E daco-romană"
 272,DB-I-m-B-17072.03,Aşezare,localitate componentă MAVRODIN; oraş RĂCARI,"""Biserica Veche”,, în cartier Gămăneşti, ambele maluri ale pârâului „Apa Satului”, de ruinele bisericii vechi","pe Epoca bronzului, la E Cultura Tei"
 273,DB-I-s-B-17073,Aşezare,sat MĂRCEŞTI; comuna DOBRA,"""Pădurea Mărceşti”, la 2 km NE de sat, pârâul Piscov la V şi pădure la E","între sec. IV p. Chr., Epoca daco- romană"
@@ -254,7 +276,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 275,DB-I-s-A-17075,Aşezare,sat MĂTĂSARU; comuna MĂTĂSARU,"""Vatra satului”, în stânga pârâului Tinoasa, între sat şi râul Săbar, 1 km S de centrul","sec. II-III p. Chr., satului Epoca romană"
 276,DB-I-s-B-17076,"Situl arheologic de la Mesteacăn, punct ""Poiana Poştei”",sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA,"""Poiana Poştei”, pe partea dreaptă a Văleni-Dâmboviţa - Boteni (jud. Argeş), km NV de localitate","DC la 0,8"
 277,DB-I-m-B-17076.01,Ruinele hanului de poştă,sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA,"""Poiana Poştei”, pe partea dreaptă a Văleni-Dâmboviţa - Boteni (jud. Argeş), km NV de localitate","DC sec.XVII-XIX, Epoca la 0,8 medievală târzie"
-278,DB-I-m-B-17076.02,Aşezare,sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA comuna SĂLCIOARA,"""Poiana Poştei”, pe partea dreaptă a Văleni-Dâmboviţa - Boteni (jud. Argeş), km NV de localitate km V de capătul de NV al satului (cota","DC sec. XVII-XIX, Epoca la 0,8 medievală 198,7 Cultura Monteoru"
+278,DB-I-m-B-17076.02,Aşezare,sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA,"""Poiana Poştei”, pe partea dreaptă a Văleni-Dâmboviţa - Boteni (jud. Argeş), km NV de localitate","DC sec. XVII-XIX, Epoca la 0,8 medievală"
+279,DB-I-s-B-17077,Tumul,sat MIRCEA VODĂ; comuna SĂLCIOARA,"""Movila Mare”, pe dreapta râului Ilfov, km V de capătul de NV al satului (cota m)","la 0,25 Epoca bronzului, 198,7 Cultura Monteoru"
 280,DB-I-s-B-17078,Tumul,sat MIRCEA VODĂ; comuna SĂLCIOARA,"""Movila Mică”, pe stânga râului Ilfov, dreptul ""Movilei Mari"", aproape de extremitatea de NV a satului",în Perioada de tranziţie la Epoca bronzului
 281,DB-I-s-B-17079,Aşezare fortificată,sat MOARA DIN GROAPĂ; comuna CORBII MARI,"""Măgura”, pe malul stâng al Neajlovului, luncă, la NE de sat","în Eneolitic, Cultura Gumelniţa"
 282,DB-I-s-A-17080,"Situl arheologic de la Mogoşani, punct ""Frăsineni”",sat MOGOŞANI; comuna MOGOŞANI,"""Frăsineni”, în stânga râului Tinoasa, de localitate, în bucla râului",la 1 km SE
@@ -262,7 +285,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 284,DB-I-m-A-17080.02,Aşezare,sat MOGOŞANI; comuna MOGOŞANI,"""Frăsineni”, în stânga râului Tinoasa, de localitate, în bucla râului","la 1 km SE Epoca bronzului timpuriu, Cultura Glina"
 285,DB-I-s-B-17081,Aşezare,oraş MORENI,"""Piscu”, la 2 km E de localitate şi la 1 km şoseaua spre Filipeştii de Pădure, pe un al dealului Moreni","N de sec. XVII-XIX, Epoca platou medievală târzie"
 286,DB-I-s-B-17082,Aşezare,sat MORTENI; comuna MORTENI,"""La Crevedia”, la 3 km SV de localitate, terasa înaltă stângă a pârâului Crevedia, km NE de apă, în apropierea „Drumului hotarului”","pe Latène, Cultura la 0,2 geto-dacică"
-287,DB-I-s-A-17083,Aşezare,sat MORTENI; comuna MORTENI MORTENI,"""Măgura”, în partea de NV a localităţii, valea Măgurii, lângă SMA Morteni apropierea „Drumului hotarului”, la 2,5","pe Epoca bronzului, Cultura aspectul Brăteşti km SV"
+287,DB-I-s-A-17083,Aşezare,sat MORTENI; comuna MORTENI,"""Măgura”, în partea de NV a localităţii, valea Măgurii, lângă SMA Morteni","pe Epoca bronzului, Cultura aspectul Brăteşti"
+288,DB-I-s-B-17084,Necropolă tumulară,sat MORTENI; comuna MORTENI,"""Măgura” - ""La Tufanu lui Radu lui Andrei”, apropierea „Drumului hotarului”, la 2,5 de localitate",în Hallstatt km SV
 289,DB-I-s-A-17085,"Situl arheologic de la Morteni, punct ""Puţul lui Iordache”",sat MORTENI; comuna MORTENI,"""Puţul lui Iordache”, la 1 km S de localitate, confluenţa Văii Glodului cu Valea lui Coman","la Epoca bronzului timpuriu, Cultura Glina"
 290,DB-I-m-A-17085.01,Aşezare,sat MORTENI; comuna MORTENI,"""Puţul lui Iordache”, la 1 km S de localitate, confluenţa Văii Glodului cu Valea lui Coman","la Epoca bronzului mijlociu, Cultura Tei"
 291,DB-I-m-A-17085.02,Aşezare,sat MORTENI; comuna MORTENI,"""Puţul lui Iordache”, la 1 km S de localitate, confluenţa Văii Glodului cu Valea lui Coman","la Epoca bronzului timpuriu, Cultura Glina"
@@ -271,7 +295,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 294,DB-I-m-B-17087.01,Aşezare,sat NEAJLOVU; comuna MORTENI,"""Tăvârleanca” sau ""Valea lui Urdă”, la SE de cătunul Tavârlău, pe terasa înaltă Neajlovului şi a pârâului Valea lui Urdă","0,5 km sec. V-VII, Epoca a migraţiilor"
 295,DB-I-m-B-17087.02,Aşezare,sat NEAJLOVU; comuna MORTENI,"""Tăvârleanca” sau ""Valea lui Urdă”, la SE de cătunul Tavârlău, pe terasa înaltă Neajlovului şi a pârâului Valea lui Urdă","0,5 km Epoca bronzului a"
 296,DB-I-s-A-17088,"Situl arheologic de la Neajlovu, punct ""Valea Mare”",sat NEAJLOVU; comuna MORTENI,"""Valea Mare”, în cătunul Tavârlău, în Fermei IAS Găeşti nr. 6",curtea
-297,DB-I-m-A-17088.01,Siliştea satului Drăghieşti,sat NEAJLOVU; comuna MORTENI comuna MORTENI,"""Valea Mare”, în cătunul Tavârlău, în Fermei IAS Găeşti nr. 6 Fermei IAS Găeşti nr. 6","curtea sec. XVII-XIX, Epoca medievală târzie"
+297,DB-I-m-A-17088.01,Siliştea satului Drăghieşti,sat NEAJLOVU; comuna MORTENI,"""Valea Mare”, în cătunul Tavârlău, în Fermei IAS Găeşti nr. 6","curtea sec. XVII-XIX, Epoca medievală târzie"
+298,DB-I-m-A-17088.02,Aşezare,sat NEAJLOVU; comuna MORTENI,"""Valea Mare”, în cătunul Tavârlău, în Fermei IAS Găeşti nr. 6",curtea Epoca bronzului
 299,DB-I-s-B-17089,Aşezare,sat NUCET; comuna NUCET,"""Chirigioaia”, la E de sat, între localitate calea ferată Titu-Târgovişte","şi sec. IV p. Chr., Epoca daco- romană"
 300,DB-I-s-B-17090,Tumul,sat OCHIURI; comuna GURA OCNIŢEI,"""Movile”, la 0,5 km NE de localitate, în pârâului Slănic",dreapta Preistorie
 301,DB-I-s-B-17091,Aşezare,sat OCNIŢA; comuna OCNIŢA,"""Dealul Corniş”, în capătul de NE al localităţii","sec. XVII-XIX, Epoca medievală târzie"
@@ -281,7 +306,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 305,DB-I-m-B-17093.02,Necropolă tumulară,sat OCNIŢA; comuna OCNIŢA,"""Grecea Mare”, la 1 km V de localitate, confluenţa izvoarelor Grecea Mare cu Mică (afluent al pârâului Rogozul)",la Grecea
 306,DB-I-s-B-17094,"Situl arheologic de la Ocniţa, punct ""Dealul Măţău”",sat OCNIŢA; comuna OCNIŢA,"""Dealul Măţău”, împrejurul bisericii, în N a localităţii",zona de
 307,DB-I-m-B-17094.01,Fortificaţie,sat OCNIŢA; comuna OCNIŢA,"""Dealul Măţău”, împrejurul bisericii, în N a localităţii","zona de sec. XIV-XVI, Epoca medievală"
-308,DB-I-m-B-17094.02,Aşezare,sat OCNIŢA; comuna OCNIŢA OCNIŢA,"""Dealul Măţău”, împrejurul bisericii, în N a localităţii N a localităţii","zona de sec. XIV-XVI, Epoca medievală medievală"
+308,DB-I-m-B-17094.02,Aşezare,sat OCNIŢA; comuna OCNIŢA,"""Dealul Măţău”, împrejurul bisericii, în N a localităţii","zona de sec. XIV-XVI, Epoca medievală"
+309,DB-I-m-B-17094.03,Cimitir,sat OCNIŢA; comuna OCNIŢA,"""Dealul Măţău”, împrejurul bisericii, în N a localităţii","zona de sec. XIV-XVI, Epoca medievală"
 310,DB-I-m-B-17094.04,Aşezare,sat OCNIŢA; comuna OCNIŢA,"""Dealul Măţău”, împrejurul bisericii, în N a localităţii",zona de Epoca migraţiilor
 311,DB-I-s-B-17095,Aşezare,sat OCNIŢA; comuna OCNIŢA,"""Hoaga”, pe malul drept al pârâului Slănic, de localitate şi la 0,2 km E de Lacul Sărat","la S Latène, Cultura geto - dacică"
 312,DB-I-s-A-17096,"Situl arheologic de la Odaia Turcului, punct ""Hoaga”",sat ODAIA TURCULUI; comuna MĂTĂSARU,"""Hoaga”, pe terasa stângă înaltă a Sabarului, 0,5 km NV de sat şi la S de DN 7 (cca.","la Epoca bronzului 0,2 km)"
@@ -291,7 +317,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 316,DB-I-s-B-17098,"Situl arheologic de la Odobeşti, punct ""Islaz""",sat ODOBEŞTI; comuna ODOBEŞTI,"""Islaz”, pe ambele maluri ale pârâului E de pădurea Nuceteanca",Şuţa şi la
 317,DB-I-m-B-17098.01,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Islaz”, pe ambele maluri ale pârâului E de pădurea Nuceteanca","Şuţa şi la sec. III-IV p. Chr., Epoca daco- romană"
 318,DB-I-m-B-17098.02,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Islaz”, pe ambele maluri ale pârâului E de pădurea Nuceteanca","Suta şi la sec. II-I a. Chr., Latène, Cultura geto-dacică"
-319,DB-I-s-B-17099,"Situl arheologic de la Odobeşti, punct ""La Morţi""",sat ODOBEŞTI; comuna ODOBEŞTI comuna ODOBEŞTI,"""La Morţi”, la N de localitate, pe malul pârâului Şuţa pârâului Şuţa",drept al medievală târzie
+319,DB-I-s-B-17099,"Situl arheologic de la Odobeşti, punct ""La Morţi""",sat ODOBEŞTI; comuna ODOBEŞTI,"""La Morţi”, la N de localitate, pe malul pârâului Şuţa",drept al
+320,DB-I-m-B-17099.01,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""La Morţi”, la N de localitate, pe malul pârâului Şuţa","drept al sec. XVII-XIX, Epoca medievală târzie"
 321,DB-I-m-B-17099.02,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""La Morţi”, la N de localitate, pe malul pârâului Şuţa","drept al sec. IV-V p. Chr., Epoca migraţiilor"
 322,DB-I-m-B-17099.03,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""La Morţi”, la N de localitate, pe malul pârâului Şuţa",drept al Epoca bronzului
 323,DB-I-s-B-17100,"Situl arheologic de la Odobeşti, punct ""Moara”",sat ODOBEŞTI; comuna ODOBEŞTI,"""Moara”, SV de sat şi la SE de DJ Odobeşti- Crovu, pe malul drept al pârâului Şuţa, km S de sat"," la 0,5"
@@ -300,7 +327,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 326,DB-I-m-B-17100.03,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Moara”, la SV de localitate şi SE de DJ Odobeşti-Crovu şi pe malul drept al pârâului Şuţa","sec. II-I a. Chr., Latène, Cultura geto-dacică"
 327,DB-I-m-B-17100.04,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Moara”, la SV de localitate şi SE de DJ Odobeşti-Crovu şi pe malul drept al pârâului Şuţa, la 0,5 km S de localitate",Hallstatt timpuriu
 328,DB-I-m-B-17100.05,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Moara”, la SV de localitate şi SE de DJ Odobeşti-Crovu şi pe malul drept al pârâului Şuţa, la 0,5 km S de localitate",Epoca bronzului târziu
-329,DB-I-m-B-17100.06,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI comuna ODOBEŞTI,"""Moara”, la SV de localitate şi SE de DJ Odobeşti-Crovu şi pe malul drept al pârâului Şuţa, la 0,5 km S de localitate NE de sat",Epoca bronzului timpuriu
+329,DB-I-m-B-17100.06,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Moara”, la SV de localitate şi SE de DJ Odobeşti-Crovu şi pe malul drept al pârâului Şuţa, la 0,5 km S de localitate",Epoca bronzului timpuriu
+330,DB-I-s-B-17101,Tumuli,sat ODOBEŞTI; comuna ODOBEŞTI,"""Movile”, la E de DJ Sălcuţa-Odobeşti NE de sat",şi la 2 km Preistorie
 331,DB-I-s-B-17102,Tumul,sat ODOBEŞTI; comuna ODOBEŞTI,"""Movila lui Zidaru”, pe malul drept al Şuţa, la 2 km NV de sat",pârâului Preistorie
 332,DB-I-s-B-17103,Aşezare,sat ODOBEŞTI; comuna ODOBESTI,"""Şorlea”, la 0,5 km E de localitate, pe stâng al pârâului Spălătura","malul sec. III-IV p. Chr., Epoca daco- romană"
 333,DB-I-s-B-17104,Aşezare,sat ODOBEŞTI; comuna ODOBEŞTI,"""Capul satului”, la 0,8 km de intrarea localitate, spre NE, în dreapta DJ Sălcuţa- Odobeşti","în sec. II-IV p. Chr., Epoca romană"
@@ -310,7 +338,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 337,DB-I-m-B-17106.02,Aşezare,sat PETREŞTI; comuna CORBII MARI,"""40 de cruci”, pe malul drept al Neajlovului, SE de sat",la Epoca bronzului
 338,DB-I-m-B-17106.03,Aşezare,sat PETREŞTI; comuna CORBII MARI,"""40 de cruci”, pe malul drept al Neajlovului, SE de sat",la Neolitic
 339,DB-I-s-B-17107,"Situl arheologic de la Picior de Munte, punct ""Valea bisericii”",sat PICIOR DE MUNTE; comuna DRAGODANA,"""Valea bisericii”, la 2 km ESE de localitate, Valea Câinelui şi Valea Caradu",între
-340,DB-I-s-B-17107.01,Aşezare,sat PICIOR DE MUNTE; comuna DRAGODANA comuna DRAGODANA,"""Valea bisericii”, la 2 km ESE de localitate, Valea Câinelui şi Valea Caradu Valea Câinelui şi Valea Caradu","între sec. XVI-XVIII, Epoca medievală târzie Epoca medievală"
+340,DB-I-s-B-17107.01,Aşezare,sat PICIOR DE MUNTE; comuna DRAGODANA,"""Valea bisericii”, la 2 km ESE de localitate, Valea Câinelui şi Valea Caradu","între sec. XVI-XVIII, Epoca medievală târzie"
+341,DB-I-m-B-17107.02,Cimitir,sat PICIOR DE MUNTE; comuna DRAGODANA,"""Valea bisericii”, la 2 km ESE de localitate, Valea Câinelui şi Valea Caradu","între sec. XVI-XVIII, Epoca medievală târzie"
 342,DB-I-s-B-17108,Aşezare,sat PITARU; comuna POTLOGI,"""Măgura”, la 1 km E de sat, lângă grajdurile CAP",Neolitic
 343,DB-I-s-B-17109,Necropolă tumulară,sat PITARU; comuna POTLOGI,"""Movile”, la 1,5 km NE de capătul de localităţii şi imediat la E de pădurea satului",N al Epoca bronzului
 344,DB-I-s-B-17110,Tumul,sat aparţinător PLOPU; oraş TITU,"""Movila”, la 0,5 km N de sat şi 0,4 km dreapta râului Şuţa",în Preistorie
@@ -320,7 +349,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 348,DB-I-m-B-17113.01,Aşezare,sat POTLOGI; comuna POTLOGI,"""Consiliu” şi ""Şcoala”, în centrul satului, Primăriei şi în curtea palatului brâncovenesc","în zona sec. IV-VI p. Chr., Epoca daco- romană"
 349,DB-I-m-B-17113.02,Aşezare,sat POTLOGI; comuna POTLOGI,"""Consiliu” şi ""Şcoala”, în centrul satului, Primăriei şi în curtea palatului brâncovenesc","în zona sec. II-III p. Chr., Epoca romană"
 350, DB-I-s-B-17114, Aşezare, sat POTLOGI; comuna POTLOGI," ""Grădiniţa Dorobanţu Gheorghe şi Onete Vasilica” şi ""Grădiniţa lui Vasile a lui Nitica”"," sec. IV p. Chr, Epoca daco- romană"
-351,DB-I-s-B-17115,"Situl arheologic de la Priseaca, punct ""Pădurea Obreja”",localitate componentă PRISEACA; municipiul TÂRGOVIŞTE componentă,"""Pădurea Obreja”, într-o poiană, pe terasa înaltă a interfluviului Ialomiţa-Dâmboviţa, km SSV de localitate înaltă a interfluviului Ialomiţa-Dâmboviţa,", la 2 la 2 Epoca daco-
+351,DB-I-s-B-17115,"Situl arheologic de la Priseaca, punct ""Pădurea Obreja”",localitate componentă PRISEACA; municipiul TÂRGOVIŞTE,"""Pădurea Obreja”, într-o poiană, pe terasa înaltă a interfluviului Ialomiţa-Dâmboviţa, km SSV de localitate", la 2
+352,DB-I-s-B-17115.01,Aşezare,localitate componentă PRISEACA; municipiul TÂRGOVIŞTE,"""Pădurea Obreja”, într-o poiană, pe terasa înaltă a interfluviului Ialomiţa-Dâmboviţa, km SSV de localitate","sec. IV p. Chr., la 2 Epoca daco- romană"
 353,DB-I-s-B-17115.02,Aşezare,localitate componentă PRISEACA; municipiul TÂRGOVIŞTE,"""Pădurea Obreja”, într-o poiană, pe terasa înaltă a interfluviului Ialomiţa-Dâmboviţa, km SSV de localitate",Epoca bronzului la 2
 354,DB-I-s-A-17116,"Situl arheologic de la Puntea de Greci, punct ""Dealul Sârbilor""",sat PUNTEA DE GRECI; comuna PETREŞTI,"""Dealul Sârbilor”, pe terasa înaltă din râului Neajlov, la confluenţa cu Valea şi la 0,5 km spre SV, către Broşteni",dreapta Cioacelor
 355,DB-I-m-A-17116.01,Aşezare,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Dealul Sârbilor”, pe terasa înaltă din râului Neajlov, la confluenţa cu Valea şi la 0,5 km spre SV, către Broşteni","dreapta sec. IX-X, Epoca Cioacelor medievală timpurie"
@@ -328,7 +358,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 357,DB-I-m-A-17116.03,Aşezare,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Dealul Sârbilor”, pe terasa înaltă din râului Neajlov, la confluenţa cu Valea şi la 0,5 km spre SV, către Broşteni","dreapta sec. VI-V a. Chr., Cioacelor Hallstatt"
 358,DB-I-m-A-17116.04,Aşezare,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Dealul Sârbilor”, pe terasa înaltă din râului Neajlov, la confluenţa cu Valea şi la 0,5 km spre SV, către Broşteni","dreapta Epoca bronzului Cioacelor mijlociu, Cultura Tei"
 359,DB-I-m-A-17116.05,Aşezare,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Dealul Sârbilor”, pe terasa înaltă din râului Neajlov, la confluenţa cu Valea şi la 0,5 km spre SV, către Broşteni","dreapta Epoca bronzului Cioacelor timpuriu, Cultura Glina"
-360,DB-I-s-A-17117,Necropolă tumulară,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Măguri” sau ""Grădini”, pe malul stâng râului Neajlov, în luncă, pe o lungime spre satul Petreşti, de o parte şi de alta","al Epoca bronzului de 2 km, a DC"
+360,DB-I-s-A-17117,Necropolă tumulară,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Măguri” sau ""Grădini”, pe malul stâng râului Neajlov, în luncă, pe o lungime spre satul Petreşti, de o parte şi de alta Petreşti-Puntea de Greci","al Epoca bronzului de 2 km, a DC"
 361,DB-I-s-B-17118,Aşezare,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Movila lui Marcu”, la SV de sat, în lunca dreapta Neajlovului","din Eneolitic, Cultura Gumelniţa"
 362,DB-I-s-B-17119,"Situl arheologic de la Puntea de Greci, punct ""Puţul lui Năstase""",sat PUNTEA DE GRECI; comuna PETREŞTI,"""Puţul lui Năstase” sau ""Tăvârleanca”, drept, înalt al Neajlovului, la 0,5 km SV 0,2 km V de DC Puntea de Greci-Răscăeţi",pe malul de sat şi
 363,DB-I-m-B-17119.01,Aşezare,sat PUNTEA DE GRECI; comuna PETREŞTI,"""Puţul lui Năstase” sau ""Tăvârleanca”, terasa înaltă dreapta a Neajlovului, la SV de localitate şi 0,2 km V de DC Puntea Greci-Răscăeţi","pe sec. IV p. Chr., 0,5 km Epoca daco- de romană"
@@ -337,7 +367,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 366,DB-I-s-B-17121,"Situl arheologic de la Racoviţa, punct ""La nucii grecului""",sat RACOVIŢA; comuna BUCŞANI,"""La nucii grecului”, la V de sediul CAP km de sat","şi la 0,5"
 367,DB-I-m-B-17121.01,Aşezare,sat RACOVIŢA; comuna BUCŞANI,"""La nucii grecului”, la V de sediul CAP km de localitate","şi la 0,5 sec. V-VI p. Chr., Epoca migraţiilor"
 368,DB-I-m-B-17121.02,Aşezare,sat RACOVIŢA; comuna BUCŞANI,"""La nucii grecului”, la V de sediul CAP km de localitate","şi la 0,5 sec. III-II a. Chr., Latène, Cultura geto-dacică"
-369,DB-I-m-B-17121.03,Aşezare Racoviţa,sat RACOVIŢA; comuna BUCŞANI comuna BUCŞANI,"""La nucii grecului”, la V de sediul CAP km de localitate","şi la 0,5 Epoca bronzului Gumelniţa"
+369,DB-I-m-B-17121.03,Aşezare,sat RACOVIŢA; comuna BUCŞANI,"""La nucii grecului”, la V de sediul CAP km de localitate","şi la 0,5 Epoca bronzului"
+370,DB-I-s-B-17122,Situl arheologic de la Racoviţa,sat RACOVIŢA; comuna BUCŞANI,"""Valea grecului”, la 0,75 km V de sat","Eneolitic, Cultura Gumelniţa"
 371,DB-I-m-B-17122.01,Aşezare,sat RACOVIŢA; comuna BUCŞANI,"""Valea grecului”, la 0,75 km V de sat","Epoca bronzului, aspectul cultural Brăteşti"
 372,DB-I-m-B-17122.02,Aşezare,sat RACOVIŢA; comuna BUCŞANI,"""Valea grecului”, la 0,75 km V de localitate","Eneolitic, Cultura Gumelniţa"
 373,DB-I-s-B-17123,Aşezare,sat RACOVIŢA; comuna BUCŞANI,"""Valea grecului”, la 1-1,2 km V de sat","sec. IV p. Chr., Epoca daco- romană"
@@ -346,7 +377,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 376,DB-I-m-B-17124.02,Aşezare,sat RAGU; comuna ULIEŞTI,"""Fântâna lui Ion Poştaşu zis Bâlcă”, pe dreapta înaltă a Neajlovului, la 1,5 km sat","terasa sec. II-III p. Chr., NV de Cultura dacilor liberi"
 377,DB-I-m-B-17124.03,Aşezare,sat RAGU; comuna ULIEŞTI,"""Fântâna lui Ion Poştaşu zis Bâlcă”, pe dreapta înaltă a Neajlovului, la 1,5 km sat","terasa Epoca bronzului, NV de Cultura Tei"
 378,DB-I-s-B-17125,Situl arheologic de la Ragu,sat RAGU; comuna ULIEŞTI,"""Islaz”, pe terasa înaltă dreapta a Neajlovului, la 2 km NV de sat, deasupra islazului",
-379,DB-I-m-B-17125.01,Aşezare,sat RAGU; comuna ULIEŞTI ULIEŞTI,"""Islaz”, pe terasa înaltă dreapta a Neajlovului, la 2 km NV de sat, deasupra islazului la 2 km NV de sat, deasupra islazului","sec. XVII-XVIII, Epoca medievală Cultura Tei"
+379,DB-I-m-B-17125.01,Aşezare,sat RAGU; comuna ULIEŞTI,"""Islaz”, pe terasa înaltă dreapta a Neajlovului, la 2 km NV de sat, deasupra islazului","sec. XVII-XVIII, Epoca medievală"
+380,DB-I-m-B-17125.02,Aşezare,sat RAGU; comuna ULIEŞTI,"""Islaz”, pe terasa înaltă dreapta a Neajlovului, la 2 km NV de sat, deasupra islazului","Epoca bronzului, Cultura Tei"
 381,DB-I-s-B-17126,Aşezare,oraş RĂCARI,"Cartier Ţepeş Vodă, în zona de S a satului, malul stâng al râului Ilfov","pe Epoca bronzului, Cultura Tei"
 382,DB-I-s-A-17127,"Brazda lui Novac, sectorul de Nord",sat RĂSCĂEŢI; comuna RĂSCĂEŢI,"""Pădurea Răscăeţi”, la 3 km S de localitate","sec. IV p. Chr., Epoca daco- romană"
 383,DB-I-s-B-17128,Aşezare,sat RĂZVAD; comuna RĂZVAD,"În fostul sat Răzvadu de Jos, pe lotul lui Gheorghe, la marginea de N a satului","Ciulei sec. II-III p. Chr., Epoca romană"
@@ -356,7 +388,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 387,DB-I-s-A-17132,Aşezare fortificată,sat SPERIEŢENI; comuna GURA ŞUŢII,"""Bostănărie”, imediat la E de localitate 200 m de biserică), pe terasa înaltă dreapta pârâului Şuţa",(la cca. Epoca bronzului a
 388,DB-I-s-B-17133,Aşezare,sat ŞELARU; comuna ŞELARU,"""În Mlăci”, pe malul stâng al râului Glavacioc, la 2,5 km SSV de localitate, lângă pădurea Calanga","Epoca bronzului, Cultura Tei"
 389,DB-I-s-B-17134,"Situl arheologic de la Şelaru, punct ""La Hotar”",sat ŞELARU; comuna ŞELARU,"""La Hotar”, la limita cu jud. Giurgiu, pe stâng al Glavaciocului şi la 3 km S de localitate","malul Epoca bronzului, Cultura Tei"
-390,DB-I-m-B-17134.01,Aşezare,sat ŞELARU; comuna ŞELARU ŞELARU,"""La Hotar”, la limita cu jud. Giurgiu, pe stâng al Glavaciocului şi la 3 km S de localitate stâng al Glavaciocului şi la 3 km S de localitate","malul sec. IX-X, Epoca medievală timpurie Latène, Cultura"
+390,DB-I-m-B-17134.01,Aşezare,sat ŞELARU; comuna ŞELARU,"""La Hotar”, la limita cu jud. Giurgiu, pe stâng al Glavaciocului şi la 3 km S de localitate","malul sec. IX-X, Epoca medievală timpurie"
+391,DB-I-m-B-17134.02,Aşezare,sat ŞELARU; comuna ŞELARU,"""La Hotar, la limita cu jud. Giurgiu, pe stâng al Glavaciocului şi la 3 km S de localitate","malul sec. IV-III a. Chr., Latène, Cultura geto-dacică"
 392,DB-I-s-B-17135,"Situl arheologic de la Teleşti, punct ""Vărsarea Potocelului”",sat TELEŞTI; comuna LUDEŞTI,"""Vărsarea Potocelului”, la vărsarea Potocelului în Potop, în capătul de S al localităţii, Dealul Viilor", sub
 393,DB-I-m-B-17135.01,Aşezare,sat TELEŞTI; comuna LUDEŞTI,"""Vărsarea Potocelului”, la vărsarea Potocelului în Potop, în capătul de S al localităţii, Dealul Viilor",Epoca bronzului sub
 394,DB-I-m-B-17135.02,Aşezare,sat TELEŞTI; comuna LUDEŞTI,"""Vărsarea Potocelului”, la vărsarea Potocelului în Potop, în capătul de S al localităţii, Dealul Viilor",Paleolitic sub
@@ -366,7 +399,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 398,DB-I-m-B-17136.03,Aşezare,sat TEŢCOIU; comuna MĂTĂSARU,"""Vatra satului”, pe malul stâng al pârâului Tinoasa şi la 0,5 km V de sat","Latène, Cultura geto-dacică"
 399,DB-I-m-B-17136.04,Aşezare,sat TEŢCOIU; comuna MĂTĂSARU,"""Vatra satului”, pe malul stâng al pârâului Tinoasa şi la 0,5 km V de sat",Hallstatt
 400,DB-I-m-B-17136.05,Aşezare,sat TEŢCOIU; comuna MĂTĂSARU,"""Vatra satului”, pe malul stâng al pârâului Tinoasa şi la 0,5 km V de sat",Epoca bronzului
-401,DB-I-s-B-17137,Aşezare,sat ULMI; comuna ULMI,"""Depozit”, la 0,3 km NE de râul Ilfov, pe dreapta DC Lazuri-Văcăreşti, la 1 km N",Epoca bronzului de satul
+401,DB-I-s-B-17137,Aşezare,sat ULMI; comuna ULMI,"""Depozit”, la 0,3 km NE de râul Ilfov, pe dreapta DC Lazuri-Văcăreşti, la 1 km N Bungetu",Epoca bronzului de satul
 402,DB-I-s-B-17138,"Situl arheologic de la Ulmi, punct ""Tufan”",sat ULMI; comuna ULMI,"""Tufan”, la 0,5 km SE de localitate şi la 71 Târgovişte-Răcari",E de DN
 403,DB-I-m-B-17138.01,Aşezare,sat ULMI; comuna ULMI,"""Tufan”, la 0,5 km SE de localitate şi la 71 Târgovişte-Răcari","E de DN sec. IV a. Chr., Epoca daco- romană"
 404,DB-I-m-B-17138.02,Aşezare,sat ULMI; comuna ULMI,"""Tufan”, la 0,5 km SE de localitate şi la 71 Târgovişte-Răcari","E de DN Epoca bronzului, Cultura Tei"
@@ -377,7 +410,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 409,DB-I-m-B-17142.01,Aşezare,sat URZICEANCA; comuna CIOCĂNEŞTI,"""Islaz”, la 0,6 km SE de limita de S a satului, cotul Colentinei","în Latène, Cultura geto-dacică"
 410,DB-I-m-B-17142.02,Aşezare,sat URZICEANCA; comuna CIOCĂNEŞTI,"""Islaz”, la 0,6 km SE de limita de S a satului, cotul Colentinei",în Epoca bronzului
 411,DB-I-s-B-17143,Aşezare,sat VADU STANCHII; comuna CORBII MARI,"""Măgura”, la E de sat, pe malul stâng Neajlovului","al Eneolitic, Cultura Gumelniţa"
-412,DB-I-s-B-17144,Necropolă,sat VALEA LUNGĂ- OGREA; comuna VALEA LUNGĂ comuna VĂCĂREŞTI,"""Poiana Dracilor”, la 2 km S de sat, pe stângă a Văii lui Nat V de sat",partea Epoca bronzului timpuriu
+412,DB-I-s-B-17144,Necropolă,sat VALEA LUNGĂ- OGREA; comuna VALEA LUNGĂ,"""Poiana Dracilor”, la 2 km S de sat, pe stângă a Văii lui Nat",partea Epoca bronzului timpuriu
+413,DB-I-s-B-17145,Aşezare,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,"""Băjeşti”, în stânga pârâului Gârliţa, imediat V de sat",la Epoca bronzului
 414,DB-I-s-A-17146,"Situl arheologic de la Văcăreşti, punct ""Beci”",sat VĂCĂREŞTI; comuna VĂCĂREŞTI,"""Beci”, pe dreapta pârâului Gârliţa, la SV de localitate","0,5 km"
 415,DB-I-m-A-17146.01,Ruinele curţii Văcărescu,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,"""Beci”, pe dreapta pârâului Gârliţa, la SV de localitate","0,5 km Epoca medievală"
 416,DB-I-m-A-17146.02,Ruine conac,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,"""Beci”, pe dreapta pârâului Gârliţa, la SV de localitate","0,5 km Epoca medievală"
@@ -387,7 +421,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 420,DB-I-m-B-17149.01,Silişte,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,"""Mâzgana - Poiana Tomii”, pe un platou deal, la 1 km S de localitate",de Epoca medievală
 421,DB-I-m-B-17149.02,Aşezare,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,"""Mâzgana - Poiana Tomii”, pe un platou deal, la 1 km S de localitate",de Epoca bronzului
 422,DB-I-s-B-17150,Aşezare,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,"""Proprietatea Victor Marinescu”, (nr. 0,5 km SV de centrul localităţii, la N de principală","154), la sec. VIII-X, Epoca şoseaua medievală timpurie"
-423,DB-I-s-B-17151,"Aşezare Vişina, punct ""La Grădini""",sat VIFORÂTA; comuna ANINOASA VIŞINA,"""Cărămidărie”, la 200 m SV de localitate, dreapta drumului Târgovişte-Viforâta Holboca, la 1 km S de DC spre Hanu lui","pe Epoca bronzului, Cultura Tei Pală"
+423,DB-I-s-B-17151,Aşezare,sat VIFORÂTA; comuna ANINOASA,"""Cărămidărie”, la 200 m SV de localitate, dreapta drumului Târgovişte-Viforâta","pe Epoca bronzului, Cultura Tei"
+424,DB-I-s-B-17152,"Situl arheologic de la Vişina, punct ""La Grădini""",sat VIŞINA; comuna VIŞINA,"""La Grădini”, pe malul stâng al pârâului Holboca, la 1 km S de DC spre Hanu lui", Pală
 425,DB-I-m-B-17152.01,Aşezare,sat VIŞINA; comuna VIŞINA,"""La Grădini”, pe malul stâng al pârâului Holboca, la 1 km S de DC spre Hanu lui","sec. IV, Epoca Pală daco-romană"
 426,DB-I-m-B-17152.02,Aşezare,sat VIŞINA; comuna VIŞINA,"""La Grădini”, pe malul stâng al pârâului Holboca, la 1 km S de DC spre Hanu lui","Epoca bronzului Pală timpuriu, Cultura Glina"
 427,DB-I-m-B-17152.03,Aşezare,sat VIŞINA; comuna VIŞINA,"""La Grădini”, pe malul stâng al pârâului Holboca, la 1 km S de DC spre Hanu lui","Epoca bronzului Pală mijlociu, Cultura Tei"
@@ -396,7 +431,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 430,DB-I-m-B-17153.02,Aşezare,sat VIŞINA; comuna VIŞINA,"""La Magazii” sau ""Islaz”, pe malul drept pârâului Holboca, la 0,3 km NE de pădurea Vişina şi 0,5 km S de localitate","al Latène, Cultura geto - dacică"
 431,DB-I-s-B-17154,"Situl arheologic de la Vişina, punct ""Pădurea Vişina""",sat VIŞINA; comuna VIŞINA,"""Pădurea Vişina”, pe malul stâng al pârâului Holboca, la 0,3 km S şi 0,25 km E de pădurea Vişina",
 432,DB-I-m-B-17154.01,Aşezare,sat VIŞINA; comuna VIŞINA,"""Pădurea Vişina”, pe malul stâng al pârâului Holboca, la 0,3 km S şi 0,25 km E de pădurea Vişina","sec. XV-XVI, Epoca medievală"
-433,DB-I-m-B-17154.02,"Aşezare Vişina, punct ""Pădurea",sat VIŞINA; comuna VIŞINA VIŞINA,"""Pădurea Vişina”, pe malul stâng al pârâului Holboca, la 0,3 km S şi 0,25 km E de pădurea Vişina stâng al pârâului Baracu","Epoca bronzului, Cultura Tei"
+433,DB-I-m-B-17154.02,Aşezare,sat VIŞINA; comuna VIŞINA,"""Pădurea Vişina”, pe malul stâng al pârâului Holboca, la 0,3 km S şi 0,25 km E de pădurea Vişina","Epoca bronzului, Cultura Tei"
+434,DB-I-s-B-17155,"Situl arheologic de la Vişina, punct ""Pădurea Ceretu""",sat VIŞINA; comuna VIŞINA,"""Pădurea Ceretu”, la N de pădure, pe stâng al pârâului Baracu",malul
 435,DB-I-m-B-17155.01,Aşezare,sat VIŞINA; comuna VIŞINA,"""Pădurea Ceretu”, la N de pădure, pe stâng al pârâului Baracul","malul sec. III-IV, Epoca daco-romană"
 436,DB-I-m-B-17155.02,Aşezare,sat VIŞINA; comuna VIŞINA,"""Pădurea Ceretu”, la N de pădure, pe stâng al pârâului Baracul","malul sec. II-I a. Chr., Latène, Cultura geto-dacică"
 437,DB-I-m-B-17155.03,Aşezare,sat VIŞINA; comuna VIŞINA,"""Pădurea Ceretu”, la N de pădure, pe stâng al pârâului Baracul","malul sec. IV-III a. Chr., Latène, Cultura geto-dacică"
@@ -405,7 +441,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 440,DB-I-s-B-20224,Aşezare,sat VIŞINA; comuna VIŞINA,"""Satul vechi”, la 1 km S de localitate, între Petreşti-Şelaru la V, pădurea satului vechi şi pârâul Holboca la N şi E","DC sec. XV-XVIII, Epoca la S medievală"
 441,DB-I-s-B-17156,"Situl arheologic de la Vizureşti, punct ""Măgura""",sat VIZUREŞTI; comuna CIOCĂNEŞTI,"""Măgura”, la NV de localitate (cota 131,8",m)
 442,DB-I-m-B-17156.01,Aşezare,sat VIZUREŞTI; comuna CIOCĂNEŞTI,"""Măgura”, la NV de localitate (cota 131,8",m) Epoca bronzului
-443,DB-I-m-B-17156.02,"Aşezare Vizureşti, punct ""Morcilă""",sat VIZUREŞTI; comuna CIOCĂNEŞTI comuna CIOCĂNEŞTI,"""Măgura”, la NV de localitate (cota 131,8 Colentina",m) Neolitic
+443,DB-I-m-B-17156.02,Aşezare,sat VIZUREŞTI; comuna CIOCĂNEŞTI,"""Măgura”, la NV de localitate (cota 131,8",m) Neolitic
+444,DB-I-s-B-17157,"Situl arheologic de la Vizureşti, punct ""Morcilă""",sat VIZUREŞTI; comuna CIOCĂNEŞTI,"""Morcilă”, la confluenţa Văii Musa cu Colentina",râul
 445,DB-I-m-B-17157.01,Aşezare,sat VIZUREŞTI; comuna CIOCĂNEŞTI,"""Morcilă”, la confluenţa Văii Musa cu Colentina","râul Latène, Cultura geto-dacică"
 446,DB-I-m-B-17157.02,Aşezare,sat VIZUREŞTI; comuna CIOCĂNEŞTI,"""Morcilă”, la confluenţa Văii Musa cu Colentina","râul Eneolitic, Cultura Gumelniţa"
 447,DB-I-s-B-17158,"Situl arheologic de la Vlăsceni, punct ""Măgura”",sat VLĂSCENI; comuna POTLOGI,"""Măgura”, în dreapta râului Sabar, la de NV al localităţii",capătul
@@ -417,7 +454,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 453,DB-I-m-A-17160.02,Cetate de pământ,sat VOINEŞTI; comuna VOINEŞTI,"""Cetăţuie”, în cartierul Burlăneşti, pe stâng al Dâmboviţei, în curtea Fermei","malul sec. VI-VII, Epoca pomicole migraţiilor"
 454,DB-I-m-A-17160.03,Aşezare,sat VOINEŞTI; comuna VOINEŞTI,"""Cetăţuie”, în cartierul Burlăneşti, pe stâng al Dâmboviţei, în curtea Fermei","malul sec. II-III, Epoca pomicole romană"
 455,DB-I-s-B-17161,Aşezare,sat ZĂVOIU; comuna MOGOŞANI,"""Movila Zăvoiul Orbului”, în stânga Argeşului, la 0,5 km NV de sat","Eneolitic, Cultura Gumelniţa"
-456, DB-I-s-B-17162, Aşezare, sat ZĂVOIU; comuna MOGOŞANI TÂRGOVIŞTE," ""La Troiţă”, în lunca Argeşului"," sec. VI-VII, Epoca migraţiilor"
+456, DB-I-s-B-17162, Aşezare, sat ZĂVOIU; comuna MOGOŞANI," ""La Troiţă”, în lunca Argeşului"," sec. VI-VII, Epoca migraţiilor"
+457,DB-II-m-B-17164,Casa Murăreţ,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 7",sec. XVIII-XIX
 458,DB-II-m-B-17165,Fosta Bancă Grigorescu,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 8",sf. sec. XIX - înc. sec. XX
 459,DB-II-m-B-17166,Casă,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 11",1840
 460,DB-II-m-B-17167,Casa Aldescu,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 16",1870
@@ -429,7 +467,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 466,DB-II-m-B-17173,Casa Atanasiu Pitiş,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 31",sf. sec. XIX
 467,DB-II-m-B-17174,Casa Augustin Ionescu,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 33-35",sf. sec. XIX
 468,DB-II-m-B-17175,Sinagogă,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 37",sf. sec. XIX
-469, DB-II-m-B-17176, Casa Ion Gavrilescu, municipiul TÂRGOVIŞTE TÂRGOVIŞTE," Str. Alexandrescu Grigore, poet 46", 1887
+469, DB-II-m-B-17176, Casa Ion Gavrilescu, municipiul TÂRGOVIŞTE," Str. Alexandrescu Grigore, poet 46", 1887
+470,DB-II-m-B-17177,Casa Iosif Costei,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 47",1890
 471,DB-II-m-B-17178,Casa Gheorghe Diaconu,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 55",1898
 472,DB-II-m-B-17179,Casa Nicolae Pitiş,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 69",1895
 473,DB-II-m-B-17180,Casa Longin Diaconescu,municipiul TÂRGOVIŞTE,"Str. Andreescu Ion, căpitan 2-4",1798
@@ -441,7 +480,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 479,DB-II-m-B-17163,Cazinoul Ofiţerilor,municipiul TÂRGOVIŞTE,"Str. Bălcescu Nicolae, cartier Teiş",a doua jum. sec. XIX
 480,DB-II-m-B-17183,Fabrica de sticlă,municipiul TÂRGOVIŞTE,Str. Bălcescu Nicolae 8,înc. sec. XX
 481,DB-II-m-B-17184,Casa Constantin Niculescu,municipiul TÂRGOVIŞTE,"Str. Băltăreţu Dumitru, colonel 8",sf. sec. XIX
-482, DB-II-m-B-17185, Fosta Uzină Electrică catolice, municipiul TÂRGOVIŞTE TÂRGOVIŞTE, Piaţa Bărăţiei 2, 1910
+482, DB-II-m-B-17185, Fosta Uzină Electrică, municipiul TÂRGOVIŞTE, Piaţa Bărăţiei 2, 1910
+483,DB-II-m-A-17186,Casa parohială a bisericii catolice,municipiul TÂRGOVIŞTE,Str. Bărăţiei 21,cca. 1752
 484,DB-II-m-B-17187,"Biserica catolică ""Sf. Francisc din Assisi”",municipiul TÂRGOVIŞTE,Str. Bărăţiei 22,"1937, pe vestigii subterane sec. XV- XVI"
 485,DB-II-m-A-17188,"Biserica ""Sf. Dumitru” - Buzinca",municipiul TÂRGOVIŞTE,Str. Bărăţiei 34,1639
 486,DB-II-m-B-17191,Casa Stanişte,municipiul TÂRGOVIŞTE,Str. Boerescu Zaharia 20,1892
@@ -451,7 +491,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 490,DB-II-m-B-17195,Casa Nicolae Câmpeanu,municipiul TÂRGOVIŞTE,"Str. Brezişeanu Eugen, maior 21",mijl. sec. XIX
 491,DB-II-m-B-17196,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Spiridon”, ""Sf. Patruzeci de Mucenici"","" Sf. Haralambie” - a Lemnului",municipiul TÂRGOVIŞTE,"Str. Brezişeanu Eugen, maior 22",1842
 492,DB-II-m-B-17197,Casa Lăcusteanu Diţescu,municipiul TÂRGOVIŞTE,"Str. Brezişeanu Eugen, maior 23",1880
-493,DB-II-m-B-17198,Casa Diaconescu,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,"Str. Brezişeanu Eugen, maior 25",sf. sec. XIX
+493,DB-II-m-B-17198,Casa Diaconescu,municipiul TÂRGOVIŞTE,"Str. Brezişeanu Eugen, maior 25",sf. sec. XIX
+494,DB-II-m-B-17199,Casa Maria Serescu,municipiul TÂRGOVIŞTE,"Str. Brezişeanu Eugen, maior 44",înc. sec. XIX
 495,DB-II-m-B-17200,"Biserica ""Sf. Nifon""- Sârbi",municipiul TÂRGOVIŞTE,Calea Bucureşti 19,1852-1854
 496,DB-II-m-A-17201,"Biserica ""Sf. Ştefan""-a Stolnicului",municipiul TÂRGOVIŞTE,Str. Cantacuzino Constantin Stolnicul,5 1705
 497,DB-II-m-B-17203,Casa Isaia Lerescu,municipiul TÂRGOVIŞTE,Calea Câmpulung 2,"1845, pe pivniţe de sec. XVIII"
@@ -463,7 +504,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 503,DB-II-m-B-17210,Casa Mihai Gheorghe,municipiul TÂRGOVIŞTE,Calea Câmpulung 44,sf. sec. XIX
 504,DB-II-m-B-17211,Casa Marinică Nicolae,municipiul TÂRGOVIŞTE,Calea Câmpulung 49,1832
 505,DB-II-m-B-17212,"Biserica ""Izvorul Tămăduirii"" - Oborul Vechi",municipiul TÂRGOVIŞTE,Calea Câmpulung 69,1832-1833
-506, DB-II-m-A-17213," Biserica ""Sf. Atanasie şi Chiril”", municipiul TÂRGOVIŞTE TÂRGOVIŞTE, Str. Cetăţii 1 şi Casa Coconilor la S, 1768
+506, DB-II-m-A-17213," Biserica ""Sf. Atanasie şi Chiril”", municipiul TÂRGOVIŞTE, Str. Cetăţii 1, 1768
+507,DB-II-m-A-17214,Poarta Dealu - Vânătorilor,municipiul TÂRGOVIŞTE,"Aleea Coconilor, între Curtea Domnească şi Casa Coconilor la S","la N 1645, ref. 1821"
 508,DB-II-m-A-17215,"Biserica ""Adormirea Maicii Domnului"","" Sf. Antonie cel Mare""- Creţulescu",municipiul TÂRGOVIŞTE,Str. Cretzulescu 2,"sec. XV, ref.1643, 1756, 1777"
 509,DB-II-m-B-17216,Casa Alecu Brătescu,municipiul TÂRGOVIŞTE,Str. Cuza Alexandru Ioan 5,mijl. sec. XIX
 510,DB-II-a-B-17217,Casa Ion Tâmpu,municipiul TÂRGOVIŞTE,Str. Cuza Alexandru Ioan 10,1780
@@ -473,7 +515,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 514,DB-II-m-B-17221,Casa Nicolae Popescu,municipiul TÂRGOVIŞTE,Str. Cuza Alexandru Ioan 18,1902
 515,DB-II-m-B-17222,Casa Tenea,municipiul TÂRGOVIŞTE,Str. Cuza Alexandru Ioan 20,sf. sec. XIX - înc. sec. XX
 516,DB-II-m-B-17225,Casa Nicolae Teleasă,municipiul TÂRGOVIŞTE,Calea Domnească,1850
-517,DB-II-a-A-17262,Situl urban Calea Domnească,municipiul TÂRGOVIŞTE,"Calea Domnească, până la intersecţia Nicolae Filipescu, cu ambele fronturi str. Stelea, str. Rapsodiei, str. Revoluţiei, Grigore Alexandrescu, str. Cetăţii, str. str. Maior Brezişeanu, str. Constantin Brâncoveanu,, str. Mihai Bravu, Iazul pâna la str. Umbrei, pâna la limita posterioară","cu str. sec. XIV, 1945 de clădiri, str. Liniştii, Morilor"
+517,DB-II-a-A-17262,Situl urban Calea Domnească,municipiul TÂRGOVIŞTE,"Calea Domnească, până la intersecţia Nicolae Filipescu, cu ambele fronturi str. Stelea, str. Rapsodiei, str. Revoluţiei, Grigore Alexandrescu, str. Cetăţii, str. str. Maior Brezişeanu, str. Constantin Brâncoveanu,, str. Mihai Bravu, Iazul pâna la str. Umbrei, pâna la limita posterioară a loturilor de pe străzile enumerate.","cu str. sec. XIV, 1945 de clădiri, str. Liniştii, Morilor"
 518,DB-II-m-B-17223,Casa,municipiul TÂRGOVIŞTE,Calea Domnească 35,sec. XIX
 519,DB-II-m-B-17227,Casa Vasile Burduşanu,municipiul TÂRGOVIŞTE,Calea Domnească 82,sec. XVIII-XIX
 520,DB-II-m-B-17224,Casa Nicolae Iordache,municipiul TÂRGOVIŞTE,Calea Domnească 83,mijl. sec. XIX
@@ -485,7 +527,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 526,DB-II-m-B-17233,Casa Vlădescu,municipiul TÂRGOVIŞTE,Calea Domnească 167-169,sec. XVIII-XIX
 527,DB-II-m-B-17234,"Restaurantul ""Doi Brazi”",municipiul TÂRGOVIŞTE,Calea Domnească 170,sf. sec. XIX - înc. sec. XX
 528,DB-II-m-B-17235,Casa,municipiul TÂRGOVIŞTE,Calea Domnească 176,sec. XIX
-529, DB-II-m-B-17236, Casa Beştelei, municipiul TÂRGOVIŞTE TÂRGOVIŞTE, Calea Domnească 178, 1893
+529, DB-II-m-B-17236, Casa Beştelei, municipiul TÂRGOVIŞTE, Calea Domnească 178, 1893
+530,DB-II-a-A-17237,Curtea Domnească,municipiul TÂRGOVIŞTE,Calea Domnească 181,sec. XIV-XVII
 531,DB-II-m-A-17237.01,Ruine casa domnească Vlad Dracul,municipiul TÂRGOVIŞTE,Calea Domnească 181,"cca. 1440, pe substrucţii 1397- 1400"
 532,DB-II-m-A-17237.02,Ruine biserica paraclis,municipiul TÂRGOVIŞTE,Calea Domnească 181,cca. 1415
 533,DB-II-m-A-17237.03,Turnul Chindiei,municipiul TÂRGOVIŞTE,Calea Domnească 181,"prima jum. a sec. XV, transf. sec. XIX"
@@ -495,7 +538,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 537,DB-II-m-A-17237.07,"Biserica Domnească ""Adormirea Maicii Domnului”",municipiul TÂRGOVIŞTE,Calea Domnească 181,1583-1585
 538,DB-II-m-A-17237.08,Ziduri de incintă cu porţi,municipiul TÂRGOVIŞTE,Calea Domnească 181,1583
 539, DB-II-m-A-17237.09, Casa Doamnei Bălaşa - Bolniţa, municipiul TÂRGOVIŞTE, Calea Domnească 181," 1656, pe infrastructură prima jum. a sec. XV"
-540,DB-II-m-A-17237.10,Ruine foişor brâncovenesc,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,Calea Domnească 181,1693
+540,DB-II-m-A-17237.10,Ruine foişor brâncovenesc,municipiul TÂRGOVIŞTE,Calea Domnească 181,1693
+541,DB-II-m-A-17237.11,Ruine baie,municipiul TÂRGOVIŞTE,Calea Domnească 181,sec. XVII
 542,DB-II-m-A-17237.12,Turnul porţii cu corp de gardă,municipiul TÂRGOVIŞTE,Calea Domnească 181,sec. XVII
 543,DB-II-m-A-17237.13,Ruinele casei Dionisie Lupu,municipiul TÂRGOVIŞTE,Calea Domnească 181,1803
 544,DB-II-m-B-17238,"Prefectura judeţeană, azi Muzeul de Artă",municipiul TÂRGOVIŞTE,Calea Domnească 185,1895
@@ -507,7 +551,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 550,DB-II-m-B-17245,Casa Bellu,municipiul TÂRGOVIŞTE,Calea Domnească 201-203,1880
 551,DB-II-m-B-17246,Casa Ciopron,municipiul TÂRGOVIŞTE,Calea Domnească 202,1890
 552,DB-II-m-B-17247,Casa Floarea Sfetcu,municipiul TÂRGOVIŞTE,Calea Domnească 205-207,"1730, transf. sec. XIX"
-553, DB-II-m-A-17248, Casa Fusea - Pârvulescu, municipiul TÂRGOVIŞTE TÂRGOVIŞTE, Calea Domnească 208," sec. XVII-XVIII, transf. 1919 beciuri de sec. XV"
+553, DB-II-m-A-17248, Casa Fusea - Pârvulescu, municipiul TÂRGOVIŞTE, Calea Domnească 208," sec. XVII-XVIII, transf. 1919"
+554,DB-II-m-A-17249,Casa Nicolae Brătescu,municipiul TÂRGOVIŞTE,Calea Domnească 210,"sec. XVII-XX, pe beciuri de sec. XV"
 555,DB-II-m-B-17250,Casa Maria Alexandrescu,municipiul TÂRGOVIŞTE,Calea Domnească 211,sf. sec. XIX
 556,DB-II-m-B-17251,Casă,municipiul TÂRGOVIŞTE,Calea Domnească 217,1887
 557,DB-II-m-B-17252,Fosta casă parohială,municipiul TÂRGOVIŞTE,Calea Domnească 218,1910
@@ -517,7 +562,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 561,DB-II-m-B-17256,Casă,municipiul TÂRGOVIŞTE,Calea Domnească 247,sf. sec. XIX
 562,DB-II-m-A-17257,"Biserica ""Intrarea în Biserică a Maicii Domnului"",""Sf. Trei Ierarhi” - Albă sau a Judeţului",municipiul TÂRGOVIŞTE,Calea Domnească 287,"ante 1632, ref. 1777 şi 1871"
 563,DB-II-m-B-17258,Casa Dumitru Bucureşteanu,municipiul TÂRGOVIŞTE,Calea Domnească 300,"sec. XVIII, sf. sec. XIX, reconstruită 2005"
-564,DB-II-m-B-17259,Casa Gheorghe Topliceanu,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,Calea Domnească 315,sec. XVIII
+564,DB-II-m-B-17259,Casa Gheorghe Topliceanu,municipiul TÂRGOVIŞTE,Calea Domnească 315,sec. XVIII
+565,DB-II-m-B-17261,Casa Claudia Savu,municipiul TÂRGOVIŞTE,Calea Domnească 370,1910
 566,DB-II-m-B-17263,Casa Elena Gheorghiu,municipiul TÂRGOVIŞTE,Str. Filipescu Nicolae 30,1914
 567,DB-II-m-B-17265,Casa Maria Cârnu,municipiul TÂRGOVIŞTE,Str. Filipescu Nicolae 68,1911
 568,DB-II-m-A-17266,"Biserica ""Sf. Nicolae"" - Simuleasa",municipiul TÂRGOVIŞTE,Str. Filipescu Nicolae 75,"1654, rep. 1800"
@@ -529,7 +575,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 574,DB-II-m-B-17271,Casa Armatei,municipiul TÂRGOVIŞTE,Str. Justiţiei 5,1906-1907
 575,DB-II-m-A-17272,"Biserica ""Tăierea Capului Sf. Ioan Botezătorul”",municipiul TÂRGOVIŞTE,Str. Justiţiei 6,prima jum. a sec. XV; pridvor sec. XVIII
 576,DB-II-m-A-17273,Muzeul Tiparului şi Cărţii Vechi Româneşti,municipiul TÂRGOVIŞTE,Str. Justiţiei 7,"beciuri, sec. XVII, etaj sf. sec. XIX"
-577,DB-II-m-B-17274,"Cazarma Pompierilor, azi depozit Arhivele Naţionale",municipiul TÂRGOVIŞTE TÂRGOVIŞTE,Str. Justiţiei 11,1907
+577,DB-II-m-B-17274,"Cazarma Pompierilor, azi depozit Arhivele Naţionale",municipiul TÂRGOVIŞTE,Str. Justiţiei 11,1907
+578,DB-II-m-B-17275,Casa Ştefan,municipiul TÂRGOVIŞTE,Str. Justiţiei 23,sf. sec. XIX
 579,DB-II-m-B-17276,Casa Victor Deftu,municipiul TÂRGOVIŞTE,Str. Justiţiei 24,mijl. sec. XIX
 580,DB-II-a-A-20220,"Ansamblul bisericii ""Sf. Gheorghe” (Stelea Veche II) - ruine",municipiul TÂRGOVIŞTE,Bd. Libertăţii f.n.,sf. sec. XIV - înc. sec. XV
 581,DB-II-m-A-20220.01,"Ruine biserica ""Sf. Gheorghe” (Stelea Veche II)",municipiul TÂRGOVIŞTE,Bd. Libertăţii f.n.,sf. sec. XIV - înc. sec. XV
@@ -540,7 +587,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 586,DB-II-m-B-17280,Casa Iordan,municipiul TÂRGOVIŞTE,Str. Mihai Bravu 5,sec. XVIII
 587, DB-II-m-B-17281, Casa Săvulescu, municipiul TÂRGOVIŞTE, Str. Mihai Bravu 16, sec. XIX
 588,DB-II-m-B-17282,Casa Basarabescu,municipiul TÂRGOVIŞTE,Str. Mihai Bravu 24,sec. XIX
-589,DB-II-a-A-17283,Mitropolia Veche a Ţării Româneşti,municipiul TÂRGOVIŞTE,Piaţa Mihai Viteazul 2,"sec. XVI, demolată 1889, biserica reconstruită 1890-"
+589,DB-II-a-A-17283,Mitropolia Veche a Ţării Româneşti,municipiul TÂRGOVIŞTE,Piaţa Mihai Viteazul 2,"sec. XVI, demolată 1889, biserica reconstruită 1890- 1923"
 590,DB-II-m-A-17283.01,"Biserica ""Înălţarea Domnului”",municipiul TÂRGOVIŞTE,Piaţa Mihai Viteazul 2,"1508-1537, demolată 1889, reconstruită 1890- 1923"
 591,DB-II-m-A-17283.02,Ruine paraclis,municipiul TÂRGOVIŞTE,Piaţa Mihai Viteazul 2,"1559-1568, demolat 1889"
 592,DB-II-m-A-17283.03,Ruinele palatului mitropolitan,municipiul TÂRGOVIŞTE,Piaţa Mihai Viteazul 2,sec. XVI
@@ -551,7 +598,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 597,DB-II-m-B-17287,Casă,municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 11",înc. sec. XX
 598,DB-II-m-B-17288,Casa Sonia Ionescu,municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 21",sf. sec. XIX
 599,DB-II-m-B-17289,Casa Ileana Dănescu,municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 22",sec. XIX
-600,DB-II-m-B-17290,Casa Drăguţ Demetrescu,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 38",înc. sec. XX
+600,DB-II-m-B-17290,Casa Drăguţ Demetrescu,municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 38",înc. sec. XX
+601,DB-II-m-B-17291,Casa Nicolae Oprescu,municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 48",1896
 602,DB-II-m-B-17292,"Liceul ""Carabela”",municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 58",înc. sec. XX
 603,DB-II-m-B-17293,"Casa Carabela, azi Şcoala de muzică",municipiul TÂRGOVIŞTE,"Str. Popescu Pârvan, locotenent 60",sf. sec. XIX
 604,DB-II-m-B-17264,"Casa Virgil Tomescu, Virgil Fucșineanu",municipiul TÂRGOVIŞTE,"Str. Radian Nicolae 6, la intersecţia cu Filipescu Nicolae",str. al doilea sfert al sec. XIX
@@ -562,7 +610,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 609,DB-II-m-B-17298,Casa A. S. V. Lucaciu,municipiul TÂRGOVIŞTE,Str. Rădulescu Ion Heliade 22,1880
 610,DB-II-m-B-17299,Casa Cornelia Anastasescu,municipiul TÂRGOVIŞTE,Str. Rădulescu Ion Heliade 29,1892
 611,DB-II-a-B-17202,"Ansamblul urban ""Bd. Castanilor"" (azi Bd. Carol I)",municipiul TÂRGOVIŞTE,"Bd. Regele Carol I, (fost Bd. Castanilor), ambele fronturi de clădiri, inclusiv Gara Târgovişte Sud, până la limita posterioară loturilor",cu sec. XIX-XX a
-612,DB-II-m-B-17301,Gara de Sud Universităţii ”Valahia”,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,Bd. Regele Carol I 1,1883
+612,DB-II-m-B-17301,Gara de Sud,municipiul TÂRGOVIŞTE,Bd. Regele Carol I 1,1883
+613,DB-II-m-B-17300,"Casa, azi Rectoratul Universităţii ”Valahia”",municipiul TÂRGOVIŞTE,Bd. Regele Carol I 2,înc. sec. XX
 614,DB-II-m-B-17302,Casa Balaban,municipiul TÂRGOVIŞTE,Bd. Regele Carol I 3,1925
 615,DB-II-m-B-17303,Casa Mocănescu,municipiul TÂRGOVIŞTE,Bd. Regele Carol I 5,1905
 616,DB-II-m-B-17304,Casa Sachelarie,municipiul TÂRGOVIŞTE,Bd. Regele Carol I 7,1905
@@ -574,7 +623,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 622,DB-II-a-A-17310,Mănăstirea Stelea,municipiul TÂRGOVIŞTE,Str. Stelea 6,sec. XV-XVI
 623,DB-II-m-A-17310.01,"Biserica ""Învierea Domnului”",municipiul TÂRGOVIŞTE,Str. Stelea 6,"1644-1645, pe fundaţii de sec. XVI"
 624,DB-II-m-A-17310.02,Casa egumenească (Casa Nifon),municipiul TÂRGOVIŞTE,Str. Stelea 6,reconstituire 1975 pe ruine sec. XV- XVII
-625,DB-II-m-A-17310.03,Beci prima casa egumenească,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,Str. Stelea 6,sec. XV fundaţii de sec. XV;
+625,DB-II-m-A-17310.03,Beci prima casa egumenească,municipiul TÂRGOVIŞTE,Str. Stelea 6,sec. XV
+626,DB-II-m-A-17310.04,"Corp de chilii, latura vest",municipiul TÂRGOVIŞTE,Str. Stelea 6,"sec. XVII, pe fundaţii de sec. XV; refaceri sec. XIX"
 627,DB-II-m-A-17310.05,Ziduri de incintă cu urme de chilii,municipiul TÂRGOVIŞTE,Str. Stelea 6,sec. XVII
 628,DB-II-m-A-17310.06,Turn clopotniţă,municipiul TÂRGOVIŞTE,Str. Stelea 6,sec. XVI
 629,DB-II-m-A-17310.07,Corp de poartă,municipiul TÂRGOVIŞTE,Str. Stelea 6,sec. XVII
@@ -584,7 +634,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 633,DB-II-m-B-17315,Casa Paul Rădulescu,municipiul TÂRGOVIŞTE,Str. Visarion I.C. 2,1850
 634,DB-II-m-B-17316,Casa Mihai Stănescu,municipiul TÂRGOVIŞTE,Str. Visarion I.C. 4,1890
 635,DB-II-m-B-17317,Casa Dumitru Dincă,municipiul TÂRGOVIŞTE,Str. Visarion I.C. 6,1900
-636,DB-II-m-B-17314,"Fosta Bancă Naţională ""Adormirea Maicii",municipiul TÂRGOVIŞTE GURA OCNIŢEI,Str. Visarion I.C. 8,1927
+636,DB-II-m-B-17314,Fosta Bancă Naţională,municipiul TÂRGOVIŞTE,Str. Visarion I.C. 8,1927
+637,DB-II-m-B-17318,"Ruinele Bisericii ""Adormirea Maicii Domnului”",sat ADÂNCA; comuna GURA OCNIŢEI,,sec. XVII-XVIII
 638,DB-II-m-B-17319,"Biserica ""Adormirea Maicii Domnului”",sat ADÂNCA; comuna GURA OCNIŢEI,,1886-1891
 639,DB-II-m-B-17320,"Biserica ""Adormirea Maicii Domnului”, ""Muceniţa Anastasia"" şi ""Sf. Dumitru”",sat ALUNIŞU; comuna CORNĂŢELU,"Str. Ştefănescu V., învăţător 1","1818, ref. 1947"
 640,DB-II-a-B-17321,Ansamblul rural,sat ANINOASA; comuna ANINOASA,"Ambele laturi ale străzii Principale, între Paul Creţu la nord şi Bis.""Sf. Ilie"" la sud strada perpendiculară, spre DN1 - pâna limita posterioară a loturilor",casa sf. sec. XIX - înc. şi sec. XX la
@@ -594,7 +645,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 644,DB-II-m-B-17466,Casa Dr. Severeanu,sat ANINOASA; comuna ANINOASA,Aleea Sinaia,sec. XIX
 645,DB-II-m-B-17325,Casa Constantin Tănase,sat ANINOASA; comuna ANINOASA,Str. Valea Mare 597,1920
 646,DB-II-m-B-17326,Casa Elena Cluceru,sat ANINOŞANI; comuna CÂNDEŞTI,,sec. XIX
-647,DB-II-m-B-17327,Casa Alexandru Constantinescu,sat ANINOŞANI; comuna CÂNDEŞTI comuna CÂNDEŞTI,,sec. XVIII
+647,DB-II-m-B-17327,Casa Alexandru Constantinescu,sat ANINOŞANI; comuna CÂNDEŞTI,,sec. XVIII
+648,DB-II-m-B-17328,Casa Ion Parnia,sat ANINOŞANI; comuna CÂNDEŞTI,Str. Ulița Aninoșani 24,1830
 649,DB-II-m-B-17329,"Biserica ""Adormirea Maicii Domnului”",sat BĂDENI; comuna RUNCU,Str. Bisericii 1,"1820, rep. 1880"
 650,DB-II-m-B-17330,"Biserica ""Naşterea Maicii Domnului”, ""Sf. Nicolae”",sat BĂDULEŞTI; comuna CRÂNGURILE,,1796-1806
 651,DB-II-m-A-17332,"Biserica de lemn ""Adormirea Maicii Domnului”, ""Tăierea Capului Sf. Ioan Botezătorul”",sat BĂDULEŞTI; comuna CRÂNGURILE,În cimitirul vechi,sec. XVIII
@@ -604,7 +656,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 655,DB-II-m-B-17334.02,Fundaţiile bisericii de curte,sat BĂLENI-ROMÂNI; comuna BĂLENI,,sf. sec. XVII - înc. sec. XVIII
 656,DB-II-m-B-17334.03,Zid de incintă cu poartă,sat BĂLENI-ROMÂNI; comuna BĂLENI,,sec. XVII-XVIII
 657,DB-II-m-B-17338,Hanul Mare,sat BĂLENI-ROMÂNI; comuna BĂLENI,,sec. XVIII
-658,DB-II-m-B-17339,"Biserica ""Sf. Ioan Botezătorul”",sat BĂLENI-ROMÂNI; comuna BĂLENI comuna BĂLENI,,înc. sec. XIX
+658,DB-II-m-B-17339,"Biserica ""Sf. Ioan Botezătorul”",sat BĂLENI-ROMÂNI; comuna BĂLENI,,înc. sec. XIX
+659,DB-II-m-B-17340,Şcoala,sat BĂLENI-ROMÂNI; comuna BĂLENI,,1906
 660,DB-II-m-B-17342,Şcoala,sat BĂLENI-ROMÂNI; comuna BĂLENI,Str. Linia Mare,sf. sec. XIX - înc. sec. XX
 661,DB-II-m-B-17343,Casa Stelian Saileanu,sat BĂLENI-ROMÂNI; comuna BĂLENI,Str. Linia Mică,sf. sec. XIX - înc. sec. XX
 662,DB-II-m-B-17344,"Casa Niţescu, azi Biblioteca Şcolii generale",sat BĂLENI-ROMÂNI; comuna BĂLENI,Str. Linia Mică,sec. XIX
@@ -615,7 +668,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 667,DB-II-m-B-17333,"Biserica ""Sf. Nicolae""",sat BÂLDANA; comuna TĂRTĂŞEŞTI,Str. Nordului 123,"sec. XVIII, ref. 1815 şi 1845"
 668,DB-II-a-B-17357,Ansamblul rural,sat BEZDEAD; comuna BEZDEAD,"Ambele laturi ale străzii Principale, între Biserica ""Sf. Nicolae"" la vest şi Primăria şi Monumentul Eroilor la est - pâna la posterioară a loturilor",sf. sec. XIX - înc. veche sec. XX limita
 669,DB-II-m-B-17356,Casa Irimescu,sat BEZDEAD; comuna BEZDEAD,288,1900
-670,DB-II-m-B-17355,Casa Constantin Poşchină,sat BEZDEAD; comuna BEZDEAD BEZDEAD,338,1900
+670,DB-II-m-B-17355,Casa Constantin Poşchină,sat BEZDEAD; comuna BEZDEAD,338,1900
+671,DB-II-m-B-17354,Casa Gheorghe Ungureanu,sat BEZDEAD; comuna BEZDEAD,"385, în Valea Dedii",1900
 672,DB-II-m-B-17353,Casa Mihai Chiţu,sat BEZDEAD; comuna BEZDEAD,401,1900
 673,DB-II-m-B-17352,Casa Nicolae Vlad,sat BEZDEAD; comuna BEZDEAD,1044,1900
 674,DB-II-m-B-17351,Casa Maria A. Pinţoiu,sat BEZDEAD; comuna BEZDEAD,"1288, în Valea Macului",mijl. sec. XIX
@@ -625,7 +679,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 678,DB-II-m-B-17358,"Biserica ""Adormirea Maicii Domnului”",sat BILCIUREŞTI; comuna BILCIUREŞTI,Str. Suseni-Socetu,1879
 679,DB-II-m-B-17360,"Biserica ""Sf. Nicolae”",sat BOLOVANI; comuna CORNĂŢELU,Str. Bolovăneanu Ion 279,1835
 680,DB-II-m-B-17361,"Biserica ""Sf. Nicolae"", ""Adormirea Maicii Domnului”, ""Sf. Voievozi”",sat BOTENI; comuna CONŢEŞTI,Str. Bisericii 268,1833-1834
-681,DB-II-a-B-17362,Ansamblul rural,sat BRĂNEŞTI; comuna BRĂNEŞTI comuna BRĂNEŞTI,"Ambele laturi ale străzii Principale, de Elena Dumitrescu, resp. Marin Stănculescu N, până la Primărie, Monumentul Eroilor PTTR la sud - pâna la limita posterioară loturilor",la casa sf. sec. XIX - înc. la sec. XX şi a
+681,DB-II-a-B-17362,Ansamblul rural,sat BRĂNEŞTI; comuna BRĂNEŞTI,"Ambele laturi ale străzii Principale, de Elena Dumitrescu, resp. Marin Stănculescu N, până la Primărie, Monumentul Eroilor PTTR la sud - pâna la limita posterioară loturilor",la casa sf. sec. XIX - înc. la sec. XX şi a
+682,DB-II-m-B-17368,Casa Serafim Mihăilă,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Grind 58,înc. sec. XX
 683,DB-II-m-B-17367,Casa Vasile Şerbănoiu,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Grind 60,sf. sec. XIX
 684,DB-II-m-B-17369,"Biserica ""Sf. Nicolae”",sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Principală,"1859, transf. 1911"
 685,DB-II-m-B-17370,Casa Marghioala Anghelescu,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Principală,1900
@@ -637,7 +692,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 691,DB-II-m-B-20225,Casa Culiţă Râmbu,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Principală 317,înc. sec. XX
 692,DB-II-m-B-17366,Casa Gheorghe Bucur,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Principală 323,1880
 693,DB-II-m-B-17363,Casa Mircea Rizescu,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Principală 325,1930
-694, DB-II-m-B-17376, Casa Grigore Oproiu, sat BRĂNEŞTI; comuna BRĂNEŞTI comuna BRĂNEŞTI, Str. Subcoasta Mare 14, înc. sec. XX
+694, DB-II-m-B-17376, Casa Grigore Oproiu, sat BRĂNEŞTI; comuna BRĂNEŞTI, Str. Subcoasta Mare 14, înc. sec. XX
+695,DB-II-m-B-17378,Casa Ilinca Bălaşa,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Subcoasta Mare 52,înc. sec. XIX
 696,DB-II-m-B-17377,Casa Ion Gh. Pencea,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Subcoasta Mică 76 B,mijl. sec. XIX
 697,DB-II-m-B-17375,Casa Dumitru Cârstea,sat BRĂNEŞTI; comuna BRĂNEŞTI,Str. Şipotului 17,sf. sec. XIX
 698,DB-II-m-B-17380,"Biserica ""Sf. Treime”",sat BRĂTEŞTII DE JOS; comuna VĂCĂREŞTI,,"1810, ref. 1828"
@@ -648,7 +704,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 703,DB-II-m-B-17384,"Biserica ""Sf. Ioan Botezătorul"", ""Sf. Tiron”",sat BUCIUMENI; comuna BUCIUMENI,"DC 2, în centru",1900-1906
 704,DB-II-m-B-17389,Moara,sat BUCŞANI; comuna BUCŞANI,Str. Principală 3,1829
 705,DB-II-m-B-17385,"Biserica ""Sf. Împăraţi Constantin şi Elena”, ""Sf. Ioan Botezătorul”",sat BUCŞANI; comuna BUCŞANI,Str. Principală 338,"1828, ref. 1894"
-706,DB-II-m-B-17386,"Şcoala ""Dora Dalles"" Centru de asistenţă",sat BUCŞANI; comuna BUCŞANI BUCŞANI,Str. Principală 933,1897
+706,DB-II-m-B-17386,"Şcoala ""Dora Dalles""",sat BUCŞANI; comuna BUCŞANI,Str. Principală 933,1897
+707,DB-II-m-B-17387,"Spitalul de Psihiatrie, azi Centru de asistenţă medico-socială",sat BUCŞANI; comuna BUCŞANI,Str. Principală 934,1889
 708,DB-II-a-B-17388,"Ansamblul conacului Jean Dalles, azi sediul Primăriei",sat BUCŞANI; comuna BUCŞANI,Str. Principală 1228,1935
 709,DB-II-m-B-17388.01,Conac,sat BUCŞANI; comuna BUCŞANI,Str. Principală 1228,1935
 710,DB-II-m-B-17388.02,Parc,sat BUCŞANI; comuna BUCŞANI,Str. Principală 1228,1935
@@ -659,7 +716,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 715,DB-II-m-B-17395,Casa Mioara Călin,sat BUTIMANU; comuna BUTIMANU,,sf. sec. XIX
 716,DB-II-m-A-17393,"Biserica de lemn ""Adormirea Maicii Domnului""- Decindea",sat BUTIMANU; comuna BUTIMANU,185 A,1791
 717,DB-II-m-B-17396,"Biserica ""Schimbarea la Faţă”",sat BUTOIU DE JOS; comuna HULUBEŞTI,,1853
-718,DB-II-m-B-17398,Ruinele Mănăstirii Butoiu - Potoc Domnului”,sat BUTOIU DE JOS; comuna HULUBEŞTI comuna HULUBEŞTI,"""La schit"", în vatra satului","sec. XV, reclădită 1648-1649 şi 1850- 1853"
+718,DB-II-m-B-17398,Ruinele Mănăstirii Butoiu - Potoc,sat BUTOIU DE JOS; comuna HULUBEŞTI,"""La schit"", în vatra satului","sec. XV, reclădită 1648-1649 şi 1850- 1853"
+719,DB-II-m-B-17397,"Biserica ""Adormirea Maicii Domnului”",sat BUTOIU DE SUS; comuna HULUBEŞTI,,1855
 720,DB-II-m-B-17399,"Biserica ""Sf. Nicolae”",sat CAPU COASTEI; comuna MALU CU FLORI,,1878
 721,DB-II-m-B-17400,"Biserica ""Cuvioasa Paraschiva”",sat CĂLUGĂRENI; comuna COBIA,În vatra satului,1843
 722,DB-II-m-B-17401,Casa Ungureanu Ilie,sat CĂLUGĂRENI; comuna COBIA,,sec. XIX
@@ -670,7 +728,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 727,DB-II-m-B-17406,Casa Alexandru Păduroiu,sat CÂNDEŞTI DEAL; comuna CÂNDEŞTI,,sec. XIX
 728, DB-II-a-B-17408, Ansamblul rural, sat CÂNDEŞTI DEAL; comuna CÂNDEŞTI, Centrul satului - pâna la limita posterioară loturilor. Delimitare cf. PUG avizat, a sf. sec. XIX - înc. sec. XX
 729,DB-II-m-B-17407,Casa Nicolae Rădulescu,sat CÂNDEŞTI DEAL; comuna CÂNDEŞTI,173,sec. XIX
-730,DB-II-m-A-17409,"Biserica de lemn ""Cuvioasa Paraschiva” - din Vârtop Paraschiva”, ""Sf. Teodor",sat CÂNDEŞTI VALE; comuna CÂNDEŞTI comuna CÂNDEŞTI,,1713 XX
+730,DB-II-m-A-17409,"Biserica de lemn ""Cuvioasa Paraschiva” - din Vârtop",sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,,1713
+731,DB-II-m-B-17410,"Biserica de lemn ""Cuvioasa Paraschiva”, ""Sf. Teodor Tiron""- Vălinaş",sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,,"1822, transf. sec. XX"
 732,DB-II-m-B-17411,"Biserica ""Cuvioasa Paraschiva"", Adormirea Maicii Domnului”, ""Sf. Nicolae, Sf. Haralambie şi Sf. Filofteia”",sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,,1878-1882
 733,DB-II-m-B-17417,Casa Elena Cluceru,sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,,sec. XIX
 734,DB-II-m-B-17416,Casa Procopie Dobrogeanu,sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,417,sec. XIX
@@ -680,7 +739,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 738,DB-II-m-B-17412,Casa Elena Aldea,sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,418,sec. XIX
 739,DB-II-a-B-17420,Ansamblul conacelor Ghika - Cantacuzino,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,,sec. XVII-XIX
 740,DB-II-m-B-17420.01,Beciuri conac,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,,sec. XVII
-741,DB-II-m-B-17420.04,Parc,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI comuna CIOCĂNEŞTI,,sec. XIX
+741,DB-II-m-B-17420.04,Parc,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,,sec. XIX
+742,DB-II-m-B-17420.05,Zid de incintă,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,,sec. XVII-XIX
 743,DB-II-m-B-17420.02,"Conac, azi Cămin cultural",sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,Str. Cantacuzino 85,sec. XIX
 744,DB-II-m-B-17421,Şcoala,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,Str. Cantacuzino 85bis,sf. sec. XIX-înc. sec. XX
 745,DB-II-m-B-17420.03,Cuhnie,sat CIOCĂNEŞTI; comuna CIOCĂNEŞTI,Str. Cantacuzino 86,sec. XVII
@@ -692,7 +752,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 751,DB-II-m-B-17425,"Biserica ""Sf. Voievozi”",sat COCANI; comuna CREVEDIA,Str. Principală 146 A,1833-1834
 752,DB-II-m-B-17426,"Biserica ""Sf. Nicolae”",sat COJASCA; comuna COJASCA,,1820
 753,DB-II-m-B-17427,"Biserica ""Sf. Nicolae”",sat COJOCARU; comuna MOGOŞANI,,1812
-754,DB-II-m-B-17428,"Biserica ""Naşterea Maicii Domnului”",localitate componentă COLACU;,,1828
+754,DB-II-m-B-17428,"Biserica ""Naşterea Maicii Domnului”",localitate componentă COLACU; oraş RĂCARI,,1828
 755,DB-II-m-B-17429,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Nicolae"" şi ""Sf. Dumitru”",sat COLANU; comuna ULMI,838,1850
 756,DB-II-m-B-17430,"Biserica ""Adormirea Maicii Domnului”",sat COLIBAŞI; comuna IEDERA,Str. Bisericii 276,1864
 757,DB-II-m-B-17431,Biserica “Sf. Arhangheli Mihail şi Gavril”,sat COMIŞANI; comuna COMIŞANI,,1842
@@ -703,7 +763,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 762,DB-II-m-B-17436,Ruinele conacului boierilor Corbeni,sat CORBII MARI; comuna CORBII MARI,,
 763,DB-II-m-A-17437,"Biserica ""Sf. Nicolae” a curţii Socol Cornăţeanu",sat CORNĂŢELU; comuna CORNĂŢELU,Str. Domniţa Marula 51,"1596, ref. 1725, 1884"
 764,DB-II-m-B-17438,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat CORNEŞTI; comuna CORNEŞTI,,1829
-765,DB-II-m-B-17439,"Biserica ""Sf. Nicolae” Ştefan"" şi ""Sf. Gheorghe”",sat COSTEŞTII DIN DEAL; comuna PRODULEŞTI VALE; comuna,Str. Bisericii 230,1837
+765,DB-II-m-B-17439,"Biserica ""Sf. Nicolae”",sat COSTEŞTII DIN DEAL; comuna PRODULEŞTI,Str. Bisericii 230,1837
+766,DB-II-m-B-17440,"Biserica ""Sf. Nicolae"", ""Sf. Ştefan"" şi ""Sf. Gheorghe”",sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,Str. Crinului,1800-1896
 767,DB-II-m-B-17441,Conacul Costescu,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,Str. Crinului,sec. XVII
 768,DB-II-m-B-17442,"Biserica ""Cuvioasa Paraschiva”",sat CRÂNGURILE DE SUS; comuna CRÂNGURILE,Str. Teiului,1800
 769,DB-II-m-B-17445,"Biserica ""Sf. Apostol și Evanghelist Ioan"", ""Sf. Grigore”",sat CRISTEASCA; comuna CORNEŞTI,65,înc. sec. XIX
@@ -713,7 +774,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 773,DB-II-m-B-17449,Şcoala,sat DĂRMĂNEŞTI; comuna DĂRMĂNEŞTI,,1865-1901
 774,DB-II-m-B-17450,"Biserica ""Naşterea Maicii Domnului”, ""Sf. Sofia”",sat DÂMBOVICIOARA; comuna BRANIŞTEA,1159,1747
 775,DB-II-m-B-17444,Casa,sat DÂRZA; comuna CREVEDIA,Uliţa Principală 1,sec. XIX
-776,DB-II-m-B-17451,"Biserica ""Duminica Tuturor Sfinţilor” Paraschiva”, ""Sf. Nicolae”",sat DÂRZA; comuna CREVEDIA comuna PIETROŞITA,Str. Stejarului 548 A,1801 1858
+776,DB-II-m-B-17451,"Biserica ""Duminica Tuturor Sfinţilor”",sat DÂRZA; comuna CREVEDIA,Str. Stejarului 548 A,1801
+777,DB-II-m-B-17452,"Biserica ""Cuvioasa Paraschiva”, ""Sf. Nicolae”",sat DEALU FRUMOS; comuna PIETROŞITA,,"1810, ref. 1852- 1858"
 778,DB-II-m-B-17453,Casa de lemn Dima Maria,sat DEALU FRUMOS; comuna PIETROŞITA,305,sec. XIX
 779,DB-II-m-B-17460,Casa Constantin Omeghi,sat DEALU MARE; comuna BUCIUMENI,,1910
 780,DB-II-a-B-17461,Zonă istorică,sat DEALU MARE; comuna BUCIUMENI,Ambele laturi ale străzii Principale DN pâna la limita posterioară a loturilor. Delimitare cf. PUG avizat,71 - sf. sec. XIX - înc. sec. XX
@@ -724,7 +786,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 785,DB-II-m-B-17459,Casa Maria Gâlmeanu,sat DEALU MARE; comuna BUCIUMENI,DN 71,1890-1900
 786,DB-II-m-B-20226,Casa Silvia Popescu,sat DEALU MARE; comuna BUCIUMENI,DN 71,1910
 787,DB-II-m-B-17463,Casa Ion D. Dinu,sat DECINDENI; comuna DRAGOMIREŞTI,,1920
-788,DB-II-m-B-17462,Paraclisul Radu Vodă Elena”,sat DECINDENI; comuna DRAGOMIREŞTI DOBRA,Str. Principală 244,"sec. XVI, ref.sec. XVIII"
+788,DB-II-m-B-17462,Paraclisul Radu Vodă,sat DECINDENI; comuna DRAGOMIREŞTI,Str. Principală 244,"sec. XVI, ref.sec. XVIII"
+789,DB-II-m-B-17464,"Biserica ""Constantin şi Elena”",sat DOBRA; comuna DOBRA,,"1810, rep. 1860"
 790,DB-II-a-B-17592,Hidrocentrala Dobreşti,sat DOBREŞTI; comuna MOROENI,,1930
 791,DB-II-m-B-17592.01,Baraj,sat DOBREŞTI; comuna MOROENI,,1930
 792,DB-II-m-B-17592.02,Uzina electrică,sat DOBREŞTI; comuna MOROENI,,1930
@@ -736,7 +799,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 798,DB-II-m-A-17465.05,Zid de incintă cu poartă,sat DOICEŞTI; comuna DOICEŞTI,Str. Brâncoveanu Constantin 291,1706
 799,DB-II-m-B-17468,Primărie,sat DRAGODANA; comuna DRAGODANA,99,cca. 1916
 800,DB-II-m-B-17470,Şcoala,sat DRAGODANA; comuna DRAGODANA,103,1916
-801, DB-II-m-B-17469, Conacul boierului Kosca, sat DRAGODANA; comuna DRAGODANA comuna DRAGODANA, 195, sf. sec. XIX
+801, DB-II-m-B-17469, Conacul boierului Kosca, sat DRAGODANA; comuna DRAGODANA, 195, sf. sec. XIX
+802,DB-II-m-B-17467,Capela din cimitir,sat DRAGODANA; comuna DRAGODANA,398/3,1896
 803,DB-II-m-B-17471,Prăvălia,sat DRAGODANA; comuna DRAGODANA,403,înc. sec. XX
 804,DB-II-m-B-17472,"Biserica ""Sf. Treime”",sat DRAGODĂNEŞTI; comuna CÂNDEŞTI,,1888
 805,DB-II-m-B-17473,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat DRAGODĂNEŞTI; comuna CÂNDEŞTI,,1876
@@ -745,7 +809,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 808,DB-II-m-B-17476,"Biserica de lemn ""Sf. Voievozi"" şi ""Sf. Treime”",sat DRĂGĂEŞTI PĂMÂNTENI; comuna MĂNEŞTI,DJ 702 B,1810
 809,DB-II-m-B-17477,"Biserica ""Sf. Treime”",sat DRĂGĂEŞTI UNGURENI; comuna MĂNEŞTI,DC 117,1854
 810,DB-II-m-B-17478,"Biserica ""Sf. Treime”",sat DRĂGĂEŞTI UNGURENI; comuna MĂNEŞTI,DC 117,1865
-811,DB-II-a-B-17479,"Ansamblul rural Electrică"", azi S.C.",oraş FIENI,"Strada Mică, nr. 1- 7 şi nr. 2- 8 - pâna posterioară a loturilor. Delimitare cf. avizat",la limita 1901-1950 PUG
+811,DB-II-a-B-17479,Ansamblul rural,oraş FIENI,"Strada Mică, nr. 1- 7 şi nr. 2- 8 - pâna posterioară a loturilor. Delimitare cf. avizat",la limita 1901-1950 PUG
+812,DB-II-m-B-17480,"Întreprinderea ""Steaua Electrică"", azi S.C.",oraş FIENI,Str. Gării 2,1937
 813,DB-II-m-B-17482,Primăria,oraş FIENI,Str. Rainu Aurel 67,1937
 814,DB-II-m-B-17483,Şcoala,oraş FIENI,Str. Rainu Aurel 84,1912
 815,DB-II-m-B-17484,"Biserica ""Sf. Nicolae”, ""Cuvioasa Paraschiva”, ""Sf. Dimitrie”",oraş FIENI,Str. Sf. Nicolae 6,1804
@@ -757,7 +822,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 821,DB-II-m-B-17486,"Biserica ""Sf. Nicolae”",sat FINTA MARE; comuna FINTA,Str. Principală 64 B,"1721, rep. 1851"
 822,DB-II-m-A-17489,Biserica de lemn Frasin Deal - Copăcei,sat FRASIN DEAL; comuna COBIA,în cimitir,1805
 823,DB-II-m-A-17490,"Biserica ""Sf. Arhangheli"" - Şerbeşti",sat FRASIN DEAL; comuna COBIA,,1828
-824,DB-II-m-A-17491,"Biserica de lemn ""Cuvioasa Paraschiva” ""Adormirea Maicii",sat FRASIN VALE; comuna COBIA CORNEŞTI,,1746
+824,DB-II-m-A-17491,"Biserica de lemn ""Cuvioasa Paraschiva”",sat FRASIN VALE; comuna COBIA,,1746
+825,DB-II-m-B-17492,"Biserica ""Sf. Haralambie”, ""Adormirea Maicii Domnului”",sat FRASINU; comuna CORNEŞTI,,1832
 826,DB-II-m-B-17493,"Biserica ""Sf. Nicolae”",oraş GĂEŞTI,Str. 1 Decembrie 1918 109,1812
 827,DB-II-m-B-17496,Casă,oraş GĂEŞTI,Str. 13 Decembrie 8,sec. XIX
 828,DB-II-m-B-17495,"Casa Ciubuc, fostă primărie",oraş GĂEŞTI,Str. 13 Decembrie 1,înc. sec. XX
@@ -767,6 +833,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 832,DB-II-m-B-17501,Casă cu farmacie,oraş GĂEŞTI,Str. Cioculescu Şerban 2,1901
 833,DB-II-m-B-17502,"Depozitul S.N.T.R. ""Tutunul Românesc""",oraş GĂEŞTI,Str. Cioculescu Şerban 38,înc. sec. XX
 834,DB-II-m-B-17500,"Casa Olănescu, azi Clubul Copiilor",oraş GĂEŞTI,Str. Liniştii,sec. XIX
+835,DB-II-m-B-17505,"Biserica ""Sf. Treime”",oraş GĂEŞTI,Str. Mihăilescu Ștefan 26,1823
 836,DB-II-m-A-17506,"Biserica ""Intrarea în Biserică"" - Cioflec",oraş GĂEŞTI,"Str. Popa Şapcă 13, în cimitir",1776
 837,DB-II-m-B-17503,Casă,oraş GĂEŞTI,Str. Streinu Vladimir 4,sec. XX
 838,DB-II-m-B-17504,"Restaurantul ""Doi Tei”",oraş GĂEŞTI,Str. Streinu Vladimir 8,sec. XX
@@ -776,14 +843,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 842,DB-II-m-B-17510.02,Turn clopotniţă,sat GHEBOAIA; comuna FINTA,Str. Bisericii 514 bis,1919
 843,DB-II-m-B-17511,Casa Ioana D. Marin,sat GHEBOAIA; comuna FINTA,Str. Bisericii,1910
 844,DB-II-m-B-17513,Casa Leana Gheorghe,sat GHEBOAIA; comuna FINTA,Str. Pădurii 374,1910
-845,DB-II-m-B-17514,Casa Ion Dănilă,sat GHEBOAIA; comuna FINTA comuna FINTA,Str. Principală 131,1900
+845,DB-II-m-B-17514,Casa Ion Dănilă,sat GHEBOAIA; comuna FINTA,Str. Principală 131,1900
+846,DB-II-m-B-17512,Cârciumă,sat GHEBOAIA; comuna FINTA,"Str. Principală 208, pe Linia Greculeştilor",1925
 847,DB-II-m-B-17515,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Gheorghe”",sat GHEBOIENI; comuna TĂTĂRANI,804,1820
 848,DB-II-a-A-17516,Ansamblul Conacului familiei Ion Ghica,localitate componentă GHERGANI; oraş RĂCARI,DN 71,a doua jum. a sec. XIX
 849,DB-II-m-A-17516.01,Conacul Ion Ghica,localitate componentă GHERGANI; oraş RĂCARI,DN 71,a doua jum. a sec. XIX
 850,DB-II-m-A-17516.02,Capela familiei Ion Ghica,localitate componentă GHERGANI; oraş RĂCARI,DN 71,1869
 851,DB-II-m-A-17516.03,Parc,localitate componentă GHERGANI; oraş RĂCARI,DN 71,a doua jum. a sec. XIX
 852,DB-II-m-A-17516.04,Zidul de incintă,localitate componentă GHERGANI; oraş RĂCARI,DN 71,a doua jum. a sec. XIX
-853,DB-II-m-B-17517,"Biserica ""Sf. Nicolae” Domnului”",localitate componentă GHIMPAŢI; oraş RĂCARI SĂLCIOARA,,1772
+853,DB-II-m-B-17517,"Biserica ""Sf. Nicolae”",localitate componentă GHIMPAŢI; oraş RĂCARI,,1772
+854,DB-II-m-B-17518,"Biserica ""Adormirea Maicii Domnului”",sat GHINEŞTI; comuna SĂLCIOARA,,1761
 855,DB-II-m-B-17519,"Biserica ""Sf. Nicolae”, ""Sf. Paraschiva”",sat GLODENI; comuna GLODENI,Str. Bisericii 4,1868
 856,DB-II-a-A-17520,Mănăstirea Gorgota,sat GORGOTA; comuna RĂZVAD,,sec. XVI-XVII
 857,DB-II-m-A-17520.01,"Biserica ""Schimbarea la Faţă”",sat GORGOTA; comuna RĂZVAD,,1554 - 1557
@@ -794,7 +863,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 862,DB-II-a-B-17523,Ansamblul rural,sat GURA BĂRBULEŢULUI; comuna BĂRBULEŢU,Centrul Satului - până la limita posterioară loturilor. Delimitare cf. PUG avizat,a sf. sec. XIX
 863, DB-II-m-B-17524," Capela din cimitir a parohiei ""Sf. Nicolae”", sat GURA FOII; comuna GURA FOII,, 1900
 864,DB-II-m-B-17525,"Ruinele Bisericii ""Adormirea Maicii Domnului”",sat GURA OCNIŢEI; comuna GURA OCNIŢEI,,sec. XVII-XVIII
-865,DB-II-m-B-17526,"Biserica ""Sf. Nicolae”, ""Sf. Pantelimon”, ""Sf.",sat GURA OCNIŢEI; comuna GURA,,1809
+865,DB-II-m-B-17526,"Biserica ""Sf. Nicolae”, ""Sf. Pantelimon”, ""Sf. Paraschiva”",sat GURA OCNIŢEI; comuna GURA OCNIŢEI,,1809
 866,DB-II-a-B-17527,"Colonia muncitorească a Societăţii ""Concordia""",sat GURA OCNIŢEI; comuna GURA OCNIŢEI,,1920
 867,DB-II-m-B-17528,"Biserica ""Duminica Tuturor Sfinţilor”",sat GURA ŞUŢII; comuna GURA ŞUŢII,,înc. sec. XIX
 868,DB-II-m-B-17529,"Biserica ""Înălţarea Domnului”-Fusea",sat GURA VULCANEI; comuna VULCANA PANDELE,Str. Malul Mătuşii,"1779-1832, ref. 1862"
@@ -804,7 +873,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 872,DB-II-m-B-17533,"Biserica ""Adormirea Maicii Domnului”",sat HODĂRĂŞTI; comuna CORNEŞTI,în cătunul Brânzari,1910
 873,DB-II-m-B-17534,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Nicolae”",sat HULUBEŞTI; comuna HULUBEŞTI,,1863-1865
 874,DB-II-m-B-17536,Casa Steluţa Marinescu,sat I. L. CARAGIALE; comuna I. L. CARAGIALE,Str. Principală 85,1906
-875,DB-II-m-A-17535,"Biserica ""Sf. Dumitru Izvorâtorul de Mir” - de",sat I. L. CARAGIALE; comuna I. L.,Str. Principală 684,"1680, rep. cca. 1850"
+875,DB-II-m-A-17535,"Biserica ""Sf. Dumitru Izvorâtorul de Mir” - de Afară",sat I. L. CARAGIALE; comuna I. L. CARAGIALE,Str. Principală 684,"1680, rep. cca. 1850"
 876,DB-II-m-B-17537,"Biserica ""Sf. Voievozi”",sat IEDERA; comuna IEDERA,"298, pe DJ",1890
 877,DB-II-m-B-17539,"Biserica ""Cuvioasa Paraschiva”",sat JUGURENI; comuna ULIEŞTI,44,1840-1844
 878,DB-II-m-B-17541,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat LAZURI; comuna COMIŞANI,Str. Bisericii 144,1821-1831
@@ -816,7 +885,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 884,DB-II-m-B-17547,Casa Maria Lica,sat LUDEŞTI; comuna LUDEŞTI,,sec. XIX
 885,DB-II-m-B-17548,Casa Maria N. Stănescu,sat LUDEŞTI; comuna LUDEŞTI,,sec. XIX
 886,DB-II-m-B-17549,Casa Gheorghe Togan,sat LUDEŞTI; comuna LUDEŞTI,,sec. XIX
-887, DB-II-m-B-17552, Casa Artenie Alexe sediu primărie, sat LUNCA (MOROENI); comuna MOROENI (MOROENI); comuna, Str. Principală 71, sf. sec. XIX
+887, DB-II-m-B-17552, Casa Artenie Alexe, sat LUNCA (MOROENI); comuna MOROENI, Str. Principală 71, sf. sec. XIX
+888,DB-II-m-B-17550,"Casa Ion Ciorănescu, azi sediu primărie",sat LUNCA (MOROENI); comuna MOROENI,Str. Principală 118,înc. sec. XX
 889,DB-II-m-B-17594,Şcoala,sat LUNCA (MOROENI); comuna MOROENI,Str. Principală,înc. sec. XX
 890,DB-II-m-A-17554,"Biserica ""Sf. Arhangheli Mihail şi Gavril"" - la Pantazi",sat LUNGULEŢU; comuna LUNGULEŢU,,1780-1790
 891,DB-II-m-B-17555,"Biserica ""Sf. Nicolae”",sat MALU CU FLORI; comuna MALU CU FLORI,În fostul sat Runceasa,1857
@@ -824,7 +894,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 893,DB-II-m-B-17563,Casa Petre Popescu (Donciu),sat MALU CU FLORI; comuna MALU CU FLORI,168,sf. sec. XIX
 894,DB-II-m-B-17565,Casa Gheorghe C. Popescu,sat MALU CU FLORI; comuna MALU CU FLORI,178,1876
 895,DB-II-m-B-17690,Casa Ion Duţă,sat MALU CU FLORI; comuna MALU CU FLORI,"226, în fostul sat Runceasa",înc. sec. XX
-896,DB-II-m-B-17691,Casa Nicolae Ghiţă,sat MALU CU FLORI; comuna MALU CU FLORI comuna MALU CU,"256, în fostul sat Runceasa",sec. XIX
+896,DB-II-m-B-17691,Casa Nicolae Ghiţă,sat MALU CU FLORI; comuna MALU CU FLORI,"256, în fostul sat Runceasa",sec. XIX
+897,DB-II-m-B-17561,Casa Vâlcu N. Petre,sat MALU CU FLORI; comuna MALU CU FLORI,"270, în fostul sat Runceasa",cca. 1850
 898,DB-II-m-B-17562,Beciul gospodăriei ing. Stelian T. Vâlcu,sat MALU CU FLORI; comuna MALU CU FLORI,"271, în fostul sat Runceasa",sf. sec. XIX
 899,DB-II-m-B-17568,"Casa Gheorghe A. Duţă, azi Maria Mitoiu",sat MALU CU FLORI; comuna MALU CU FLORI,"277, în fostul sat Runceasa",înc. sec. XX
 900,DB-II-m-B-17557,Casa Sora I. Petre,sat MALU CU FLORI; comuna MALU CU FLORI,306,sf. sec. XIX
@@ -832,7 +903,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 902,DB-II-m-B-17566,"Casa Gheorghe Popescu, azi Petre Preda",sat MALU CU FLORI; comuna MALU CU FLORI,"353, pe DN 72",c. 1900
 903,DB-II-m-B-17558,Gospodăria Ghiţă Badea Diaconu,sat MALU CU FLORI; comuna MALU CU FLORI,409,cca. 1870
 904,DB-II-m-B-17564,Casa preotului Virgil C. Leonte,sat MALU CU FLORI; comuna MALU CU FLORI,422,1910
-905,DB-II-m-B-17559,Casa Iosif Ion Diţescu,sat MALU CU FLORI; comuna MALU CU FLORI VOINEŞTI,430,"1894, 1910"
+905,DB-II-m-B-17559,Casa Iosif Ion Diţescu,sat MALU CU FLORI; comuna MALU CU FLORI,430,"1894, 1910"
+906,DB-II-m-B-17569,"Biserica ""Sf. Împăraţi”",sat MANGA; comuna VOINEŞTI,Str. Principală 84,1869
 907,DB-II-m-B-20227,"Biserica ""Buna Vestire”",localitate componentă MAVRODIN; oraş RĂCARI,,1840
 908,DB-II-m-B-20229,"Biserica ""Sf. Voievozi” (Sf. Arhangheli Mihail şi Gavril)",sat MĂGURA; comuna HULUBEŞTI,,1899
 909,DB-II-a-A-17572,Mănăstirea Cobia,sat MĂNĂSTIREA; comuna COBIA,,1572
@@ -842,7 +914,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 913,DB-II-m-B-20231,"Biserica ""Sf. Gheorghe”",sat MĂNEŞTI; comuna MĂNEŞTI,,1874-1881
 914,DB-II-m-B-17570,"Biserica ""Sf. Apostoli”",sat MĂRGINENII DE SUS; comuna DĂRMĂNEŞTI,,1861-1862
 915,DB-II-m-B-17571,"Biserica ""Sf. Grigorie Teologul”",sat MĂTĂSARU; comuna MĂTĂSARU,,1854
-916,DB-II-m-A-17443,"Biserica ""Sf. Nicolae” - Rebegeşti Domnului”, ""Sf. Ierarh",sat MÂNĂSTIREA; comuna CREVEDIA VOINEŞTI,Str. Mănăstirii 68 A,1669
+916,DB-II-m-A-17443,"Biserica ""Sf. Nicolae” - Rebegeşti",sat MÂNĂSTIREA; comuna CREVEDIA,Str. Mănăstirii 68 A,1669
+917,DB-II-m-A-20230,"Biserica ""Înălţarea Domnului”, ""Sf. Ierarh Nicolae”",sat MÂNJINA; comuna VOINEŞTI,Str. Principală 60,1883-1885
 918,DB-II-m-B-20228,"Biserica ""Sf. Nicolae”",sat MERII; comuna MOGOŞANI,,1884
 919,DB-II-m-A-17573,"Biserica de lemn ""Adormirea Maicii Domnului”",sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA,,1741
 920,DB-II-m-B-17574,"Biserica ""Sf. Apostoli Petru şi Pavel""",sat MIRCEA VODĂ; comuna SĂLCIOARA,,1838
@@ -853,6 +926,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 925,DB-II-m-B-17579,Casa Adolf Dancu,oraş MORENI,"Str. 22 Decembrie 1989, 51",înc. sec. XX
 926,DB-II-m-B-17580,Casa Tudor Dancu,oraş MORENI,"Str. 22 Decembrie 1989, 57",înc. sec. XX
 927,DB-II-m-B-17581,Casa Ion Tănăsescu,oraş MORENI,Str. Caragiale Ion Luca 2,1925
+928,DB-II-m-B-17582,Casa Dumitru Focşeneanu,oraş MORENI,Str. Caragiale Ion Luca 4,înc. sec. XX
 929,DB-II-m-B-17583,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Dimitrie"" - Stavropoleos",oraş MORENI,Str. Cimitirului,1891-1895
 930,DB-II-m-B-17584,"Biserica ""Schimbarea la Faţă”",oraş MORENI,Str. Mihai Viteazul 3,1868
 931,DB-II-m-B-17585,Casa Mihai Gălăţeanu,oraş MORENI,"Str. Teilor 8, în colonia muncitorească Română""","""Astra înc. sec. XX"
@@ -863,7 +937,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 936,DB-II-m-B-17589,Casa Steliana Uţa,sat MOROENI; comuna MOROENI,Str. Gârtoaia 28,sf. sec. XIX
 937,DB-II-m-B-17597,Casa Ion şi Frusina Chiţescu,sat MOROENI; comuna MOROENI,Str. Pieţei 69 A,sf. sec. XIX
 938,DB-II-m-B-17595,Casa Anghelescu Marin,sat MOROENI; comuna MOROENI,Str. Principală,1892
-939,DB-II-m-B-17596,Casa Stana Birlica Domnului”,sat MOROENI; comuna MOROENI MORTENI,Str. Principală 55,mijl. sec. XIX
+939,DB-II-m-B-17596,Casa Stana Birlica,sat MOROENI; comuna MOROENI,Str. Principală 55,mijl. sec. XIX
+940,DB-II-m-B-17598,"Biserica ""Adormirea Maicii Domnului”",sat MORTENI; comuna MORTENI,1132,1870-1872
 941,DB-II-m-B-17599,"Biserica ""Sf. Voievozi”, ""Sf. Nicolae"", ""Sf. Ioan Botezătorul”",sat MOŢĂIENI; comuna MOŢĂIENI,Str. Eternităţii 6,1860
 942,DB-II-m-B-17601,Şcoală,sat MOŢĂIENI; comuna MOŢĂIENI,Str. Principală 135,1911
 943,DB-II-m-B-17600,Casa Ion Rizescu,sat MOŢĂIENI; comuna MOŢĂIENI,Str. Principală 142,sec. XIX
@@ -874,7 +949,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 948,DB-II-m-B-17606,"Biserica ""Sf. Ioan Botezătorul” şi ""Sf. Ecaterina”",sat NEAJLOVU; comuna MORTENI,"171, parcela nr. 1",1837
 949, DB-II-m-B-17607," Biserica ""Sf. Apostoli Petru şi Pavel”", sat NISIPURILE; comuna ULMI, 280, 1821
 950,DB-II-a-A-17608,Mănăstirea Nucet,sat NUCET; comuna NUCET,,"sec. XV, ref. 1746 şi mijl. sec. XIX"
-951,DB-II-m-A-17608.01,"Biserica ""Sf. Gheorghe""",sat NUCET; comuna NUCET NUCET,,"sec. XV, ref. 1746 şi mijl. sec. XIX XVIII - XIX"
+951,DB-II-m-A-17608.01,"Biserica ""Sf. Gheorghe""",sat NUCET; comuna NUCET,,"sec. XV, ref. 1746 şi mijl. sec. XIX"
+952,DB-II-m-A-17608.02,Ruine Casa egumenească,sat NUCET; comuna NUCET,,"sec. XV, ref. sec. XVIII - XIX"
 953,DB-II-m-A-17608.03,Ruine chilii,sat NUCET; comuna NUCET,,"sec. XV, ref. sec. XVIII - XIX"
 954,DB-II-m-A-17608.04,Turn clopotniţă,sat NUCET; comuna NUCET,,"sec. XV, ref. sec. XVIII - XIX"
 955,DB-II-m-A-17608.05,Ruine zid de incintă,sat NUCET; comuna NUCET,,"sec. XV, ref. sec. XVIII - XIX"
@@ -884,7 +960,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 959,DB-II-m-A-17508,"Biserica de lemn ""Duminica Tuturor Sfinţilor”, ""Sf. Ioan”",sat ONCEŞTI; comuna VOINEŞTI,Str. Bisericii,1814
 960,DB-II-m-B-17509,Gospodăria Stan Oancea,sat ONCEŞTI; comuna VOINEŞTI,Str. Şcolii,sec. XIX
 961,DB-II-m-A-17612,"Biserica ""Adormirea Maicii Domnului""",sat PĂTROAIA VALE; comuna CRÂNGURILE,208,"1691-1693, ref. 1715"
-962,DB-II-m-B-17613,"Biserica ""Sf. Treime”, ""Sf. Nicolae"", ""Adormirea Maicii Domnului” Domnului”, ""Sf. Ignatie”",sat PETREŞTI; comuna CORBII MARI RUNCU,,1842
+962,DB-II-m-B-17613,"Biserica ""Sf. Treime”, ""Sf. Nicolae"", ""Adormirea Maicii Domnului”",sat PETREŞTI; comuna CORBII MARI,,1842
+963,DB-II-m-B-17614,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Ignatie”",sat PIATRA; comuna RUNCU,Str. Bisericii 8,1844-1845
 964,DB-II-m-B-17615,"Biserica ""Sf. Ioan"", ""Sf. Apostoli”, ""Sf. Nicolae”",sat PIETRARI; comuna PIETRARI,,1832-1841
 965,DB-II-m-B-17631,Casa Iancu Bălăşescu,sat PIETROŞIŢA; comuna PIETROŞIŢA,În centru,înc. sec. XIX
 966,DB-II-m-B-17635,Casa de lemn Maria Dima,sat PIETROŞIŢA; comuna PIETROŞIŢA,,cca. 1900
@@ -895,7 +972,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 971,DB-II-m-B-17629,Casa cu prăvălie Achile Grigorescu,sat PIETROŞIŢA; comuna PIETROŞIŢA,"46, pe DN71, lângă podul peste râul Ialomiţa",înc. sec. XX
 972, DB-II-a-B-17624, Gospodăria Frosa Popa, sat PIETROŞIŢA; comuna PIETROŞIŢA," 52, în centru", sf. sec. XIX - înc. sec. XX
 973,DB-II-m-B-17626,Casa Filippini-Diaconescu,sat PIETROŞIŢA; comuna PIETROŞIŢA,"54, în centru",sf. sec. XIX - înc. sec. XX
-974,DB-II-m-B-17628,Casa Maria Panaiot Andreescu,sat PIETROŞIŢA; comuna PIETROŞIŢA comuna PIETROŞIŢA,"60, în centru",sf. sec. XIX - înc. sec. XX
+974,DB-II-m-B-17628,Casa Maria Panaiot,sat PIETROŞIŢA; comuna PIETROŞIŢA,"60, în centru",sf. sec. XIX - înc. sec. XX
+975,DB-II-m-B-17641,Casa Iancu Onicioiu Andreescu,sat PIETROŞIŢA; comuna PIETROŞIŢA,"Str. Joseni, 83",sec. XIX
 976,DB-II-m-B-17640,"Casa Leana Popescu Serghe, Gheorghe Popa",sat PIETROŞIŢA; comuna PIETROŞIŢA,"Str. Joseni , 116",înc. sec. XX
 977,DB-II-m-B-17639,Casa Lenuţa Ignatoiu,sat PIETROŞIŢA; comuna PIETROŞIŢA,"Str. Joseni , 263",înc. sec. XX
 978,DB-II-m-B-17643,Casa Violeta Bratu,sat PIETROŞIŢA; comuna PIETROŞIŢA,"Str. Joseni , 268",înc. sec. XX
@@ -907,7 +985,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 984,DB-II-m-B-17632.02,Atelier,sat PIETROŞIŢA; comuna PIETROŞIŢA,337,1910
 985,DB-II-m-B-17627,Casa Ion Vătăşescu,sat PIETROŞIŢA; comuna PIETROŞIŢA,348,sf. sec. XIX - înc. sec. XX
 986,DB-II-m-B-17625,Casa Gheorghe Manolescu,sat PIETROŞIŢA; comuna PIETROŞIŢA,349,sf. sec. XIX - înc. sec. XX
-987, DB-II-m-B-17616," Casa I. Bucşa, Constantin Marmandiu", sat PIETROŞIŢA; comuna PIETROŞIŢA comuna PIETROŞIŢA, 440, înc. sec. XX
+987, DB-II-m-B-17616," Casa I. Bucşa, Constantin Marmandiu", sat PIETROŞIŢA; comuna PIETROŞIŢA, 440, înc. sec. XX
+988,DB-II-m-B-17617,Casa Vasile Iosif,sat PIETROŞIŢA; comuna PIETROŞIŢA,443,sec. XVIII
 989,DB-II-m-B-17621,"Casa Maria Călineţu, Maria Arzoiu",sat PIETROŞIŢA; comuna PIETROŞIŢA,449,înc. sec. XX
 990,DB-II-m-B-17623,Fosta Vamă,sat PIETROŞIŢA; comuna PIETROŞIŢA,471,1877
 991,DB-II-m-A-17638,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Paraschiva”",sat PIETROŞIŢA; comuna PIETROŞIŢA,"Str. Joseni, 271",1765-1767
@@ -919,7 +998,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 997,DB-II-m-A-17645,"Biserica ""Adormirea Maicii Domnului” - Strâmbeanu",sat PITARU; comuna POTLOGI,"Str. Strâmbeanu, cartier Nuceşti",1722-1730
 998,DB-II-m-B-17646,"Biserica ""Adormirea Maicii Domnului""",sat aparţinător PLOPU; oraş TITU,,1836
 999,DB-II-m-B-17647,"Biserica ""Sf. Nicolae”",sat PODU RIZII; comuna SĂLCIOARA,,1870
-1000,DB-II-m-B-17648,"Biserica ""Sf. Nicolae”",localitate componentă PODUL RĂCARI,,1812
+1000,DB-II-m-B-17648,"Biserica ""Sf. Nicolae”",localitate componentă PODUL BĂRBIERULUI; oraş,,1812
 1001,DB-II-m-B-17649,"Biserica ""Sf. Nicolae”",sat POIANA; comuna POIANA,622 A,1852-1853
 1002,DB-II-m-B-17650,"Biserica ""Adormirea Maicii Domnului”",sat POIANA; comuna POIANA,979 A,1814-1819
 1003,DB-II-m-B-17651,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat POROINICA; comuna MĂTĂSARU,,1871
@@ -930,7 +1009,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1008,DB-II-m-A-17654.01,Ruinele casei vechi,sat POTLOGI; comuna POTLOGI,,cca. 1680
 1009,DB-II-m-A-17654.03,Palatul Brâncovenesc,sat POTLOGI; comuna POTLOGI,,1698
 1010,DB-II-m-A-17654.04,Ruine case slujitori,sat POTLOGI; comuna POTLOGI,,1698
-1011,DB-II-m-A-17654.05,Ruine cuhnie,sat POTLOGI; comuna POTLOGI POTLOGI,,1698
+1011,DB-II-m-A-17654.05,Ruine cuhnie,sat POTLOGI; comuna POTLOGI,,1698
+1012,DB-II-m-A-17654.06,Ruine droşcărie,sat POTLOGI; comuna POTLOGI,,1698
 1013,DB-II-m-A-17654.07,"Turnul porţii principale, cu camere de gardă",sat POTLOGI; comuna POTLOGI,,1698
 1014,DB-II-m-A-17654.08,Zidul incintelor,sat POTLOGI; comuna POTLOGI,,1698
 1015,DB-II-m-A-17654.09,Fostul eleşteu artificial,sat POTLOGI; comuna POTLOGI,,1698
@@ -941,7 +1021,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1020,DB-II-m-B-17659,"Biserica ""Sf. Nicolae”, ""Sf. Împăraţi”",sat PRODULEŞTI; comuna PRODULEŞTI,,1854
 1021, DB-II-m-B-17590, Casa Maria Anghelescu, sat PUCHENI; comuna MOROENI, Str. Principală 53, sf. sec. XIX
 1022,DB-II-m-B-17661,Podul de Cale Ferată Pucioasa,oraş PUCIOASA,"În zona de N a orașului, la ieșirea spre Moțăieni",comuna 1908-1912
-1023,DB-II-m-B-17662,Casa Ion Diaconescu,oraş PUCIOASA,"Cartier Diaconești şi nr. 22-84, str. Parcului, str. Fântânelor",sec. XIX nr. 6-
+1023,DB-II-m-B-17662,Casa Ion Diaconescu,oraş PUCIOASA,Cartier Diaconești,sec. XIX
+1024,DB-II-a-B-17664,Ansamblul urban,oraş PUCIOASA,"Str. Republicii cu ambele laturi între nr. şi nr. 22-84, str. Parcului, str. Fântânelor 16, str. Ardealului nr. 15-43 şi nr. 4-24, Ipătescu, str. Crinului nr. 6-8 şi nr. 1-17, Gării nr. 1-21 şi latura de nord integral- limita posterioară a loturilor",17-81 înc. sec. XX nr. 6- str. Ana b-dul pâna la
 1025,DB-II-m-B-17665,Gara,oraş PUCIOASA,Str. Gării 4,1894
 1026,DB-II-m-B-17660,"Şcoală tip ""Spiru Haret""",oraş PUCIOASA,"Str. Rădulescu Ion Heliade, 129",1898
 1027,DB-II-m-B-17666,Casa Magdalena Puiescu,oraş PUCIOASA,Str. Ipătescu Ana 4,sf. sec. XIX - înc. sec. XX
@@ -950,7 +1031,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1030,DB-II-m-B-17668,Casa cu prăvălie Elena I. Bălăşescu,oraş PUCIOASA,Str. Republicii 60,înc. sec. XX
 1031,DB-II-m-B-17670,Casa Steliana Runceanu,oraş PUCIOASA,Str. Republicii 64,sf. sec. XIX - înc. sec.XX
 1032,DB-II-m-B-20221,Casa Tache Constantinescu,oraş PUCIOASA,Str. Republicii 64,sf. sec. XIX
-1033,DB-II-m-B-17669,"Casa Iancu Chiaburcu ""Intrarea în Biserică”",oraş PUCIOASA,Str. Republicii 68,înc. sec. XX
+1033,DB-II-m-B-17669,Casa Iancu Chiaburcu,oraş PUCIOASA,Str. Republicii 68,înc. sec. XX
+1034,DB-II-m-B-17671,"Biserica ""Sf. Nicolae”, ""Intrarea în Biserică”",oraş PUCIOASA,"Str. Stejarului, cartier Şerbăneşti",ref. 1894
 1035,DB-II-m-B-17672,"Biserica ""Sf. Nicolae”, ""Sf. Mare Mucenic Gheorghe” - Podurile de Jos",oraş PUCIOASA,Str. Trandafirilor 51,1855
 1036,DB-II-m-B-17673,Casa Ion Podoreanu,oraş PUCIOASA,Str. Vladimirescu Tudor 42,sf. sec. XIX - înc. sec. XX
 1037,DB-II-m-B-17674,"Ţesătoria ""Stan Rizescu”",oraş PUCIOASA,Str. Zorilor 2,1885
@@ -962,7 +1044,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1043,DB-II-m-B-17681,"Biserica ""Adormirea Maicii Domnului”",sat RĂZVAD; comuna RĂZVAD,În fostul sat Răzvadu de Jos,1859
 1044,DB-II-m-B-17685,"Fosta primărie Răzvadu de Sus, azi grădiniţă",sat RĂZVAD; comuna RĂZVAD,În fostul sat Răzvadu de Sus,1864
 1045,DB-III-m-B-21075,"Monumentul Eroilor, ""Jertfa""",sat RĂZVAD; comuna RĂZVAD,"DN 72, în fostul sat Răzvadu de Sus, la intersecția cu DC Răzvad-Gorgota",1933
-1046,DB-II-m-B-17682,"Casa Elena G. Ionescu ""Sf. Treime""",sat RĂZVAD; comuna RĂZVAD RĂZVAD,"Str. Bisericii 16, în fostul sat Răzvadu",de Jos 1879 din sec. XVII-XVIII
+1046,DB-II-m-B-17682,Casa Elena G. Ionescu,sat RĂZVAD; comuna RĂZVAD,"Str. Bisericii 16, în fostul sat Răzvadu",de Jos 1879
+1047,DB-II-m-B-17684,"Biserica ""Sf. Nicolae” şi ""Sf. Treime""",sat RĂZVAD; comuna RĂZVAD,"Str. Bisericii 192, în fostul sat Răzvadu","de Sus 1868, pe fundaţii din sec. XVII-XVIII"
 1048,DB-II-m-B-17680,Casa Gheorghe Bălescu,sat RĂZVAD; comuna RĂZVAD,"Str. Dispensarului 65, în fostul sat Răzvadu Jos",de 1940
 1049,DB-II-m-B-17686,Conacul Vlădeştilor,sat RĂZVAD; comuna RĂZVAD,"Str. Principală 14, în fostul sat Răzvadu",de Sus înc. sec. XX
 1050,DB-II-m-B-17683,"Fosta şcoală, azi Centru educativ de zi",sat RĂZVAD; comuna RĂZVAD,"Str. Principală 185, în fostul sat Răzvadu",de Sus 1912
@@ -973,7 +1056,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1055,DB-II-m-A-17693,"Biserica ""Naşterea Domnului”",sat SĂCUIENI; comuna GURA OCNIŢEI,,1656-1657
 1056,DB-II-m-A-17694,"Biserica de lemn ""Sf. Nicolae” - Cornetu",sat aparţinător SĂLCUŢA; oraş TITU,,"sec. XVIII, renov. sf. sec. XIX"
 1057,DB-II-m-A-17695,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Nicolae”",sat SĂTENI; comuna ANINOASA,Str. Popa Marin,sec. XIX
-1058,DB-II-m-B-17696,"Biserica ""Adormirea Maicii Domnului” Domnului”",sat SĂVEŞTI; comuna BRANIŞTEA comuna LUDEŞTI,1160,1809
+1058,DB-II-m-B-17696,"Biserica ""Adormirea Maicii Domnului”",sat SĂVEŞTI; comuna BRANIŞTEA,1160,1809
+1059,DB-II-m-B-17697,"Biserica ""Adormirea Maicii Domnului”",sat SCHEIU DE JOS; comuna LUDEŞTI,,1865-1875
 1060,DB-II-m-B-17698,Casa Maria Nică,sat SCHEIU DE JOS; comuna LUDEŞTI,127,sec. XIX
 1061,DB-II-m-B-17699,Magazia gospodăriei Maria Neacşa,sat SCHEIU DE JOS; comuna LUDEŞTI,172,înc. sec. XX
 1062,DB-II-m-B-17546,Casa Paraschiva Badea,sat SCHEIU DE SUS; comuna LUDEŞTI,,sec. XIX
@@ -983,7 +1067,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1066,DB-II-m-B-17703,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Voievozi"", ""Sf. Dumitru”",localitate componentă STĂNEŞTI; oraş RĂCARI,,ante 1810
 1067,DB-II-m-B-17538,"Biserica ""Sf. Arhangheli”",sat SUDULENI; comuna VOINEŞTI,"Str. Drăghici, învăţător 187",1877
 1068,DB-II-m-B-17704,Casa Maria Zegheru,sat ŞOTÂNGA; comuna ŞOTÂNGA,,sec. XIX
-1069,DB-II-a-B-17705,"Casa Grigorie Preda Ioan"", ""Sf. Voievozi"" şi ""Sf.",sat ŞOTÂNGA; comuna ŞOTÂNGA comuna ŞOTÂNGA,,sec. XIX
+1069,DB-II-a-B-17705,Casa Grigorie Preda,sat ŞOTÂNGA; comuna ŞOTÂNGA,,sec. XIX
+1070,DB-II-m-B-17706,"Biserica ""Sf. Nicolae”, ""Sf. Ioan"", ""Sf. Voievozi"" şi ""Sf. Ştefan”",sat ŞOTÂNGA; comuna ŞOTÂNGA,Str. Brâncoveanu Constantin 306,1836-1838
 1071,DB-II-m-B-17707,"Clopotniţa bisericii ""Duminica Tuturor Sfinţilor”",sat ŞUŢA SEACĂ- OLTENI; comuna RACIU,,1877
 1072,DB-II-m-B-17708,"Biserica ""Sf. Nicolae”",sat TĂRTĂŞEŞTI; comuna TĂRTĂŞEŞTI,,ref. 1853
 1073,DB-II-m-B-17709,Casa Zamfir Simionescu,sat TĂRTĂŞEŞTI; comuna TĂRTĂŞEŞTI,,1898
@@ -993,7 +1078,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1077,DB-II-m-B-17713,Magazia din lemn a gopodăriei Andreana Pană,sat TĂTĂRANI; comuna TĂTĂRANI,"418, ""Dealul Tătărani""",sec. XIX
 1078,DB-II-m-B-17714,"Biserica ""Sf. Nicolae” şi ""Sf. Ioan Botezătorul”",sat TEIŞ; comuna ŞOTÂNGA,Str. Teiul Doamnei 188,1806
 1079,DB-II-m-B-17715,"Biserica ""Sf. Ioan Botezătorul"" şi ""Sf. Nicolae”",sat TEŢCOIU; comuna MĂTĂSARU,,1808-1809
-1080,DB-II-m-B-17716,"Biserica ""Sf. Nicolae” ferate",oraş TITU,"Str. Cuza Vodă 40, cartier Târg",1842
+1080,DB-II-m-B-17716,"Biserica ""Sf. Nicolae”",oraş TITU,"Str. Cuza Vodă 40, cartier Târg",1842
+1081,DB-II-m-B-17717,Fostele ateliere de căi ferate,oraş TITU,"Str. Regiei, cartier Gară",1918
 1082,DB-II-m-B-17718,Fostul depozit C.A.M.,oraş TITU,"Str. Regiei 60, cartier Gară",1900-1927
 1083,DB-II-m-B-17719,Casa Gavrilă Drăguţ,sat TOCULEŞTI; comuna VULCANA PANDELE,Str. Toculeşti,1934
 1084,DB-II-m-B-17720,"Biserica ""Sf. Nicolae”",sat TOMŞANI; comuna COSTEŞTII DIN VALE,Str. Teiului,1855
@@ -1003,7 +1089,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1088,DB-II-m-A-17725,"Biserica de lemn ""Cuvioasa Paraschiva”",sat UNGURENI; comuna DRAGOMIREŞTI,,1818
 1089,DB-II-m-B-17728,Casa Iancu Georgescu,sat UNGURENI; comuna CORBII MARI,,sf. sec. XIX
 1090,DB-II-m-B-17724,"Biserica ""Sf. Nicolae”",sat UNGURENI; comuna CORBII MARI,,1802-1803
-1091,DB-II-m-B-17727,Casa preotului Gheorghe Olteanu,sat UNGURENI; comuna,Str. Principală 34,înc. sec. XX
+1091,DB-II-m-B-17727,Casa preotului Gheorghe Olteanu,sat UNGURENI; comuna DRAGOMIREŞTI,Str. Principală 34,înc. sec. XX
 1092,DB-II-m-B-17726,Fosta primărie,sat UNGURENI; comuna DRAGOMIREŞTI,Str. Principală 88,1912
 1093,DB-II-m-B-17729,Şcoala,sat URSEIU; comuna VIŞINEŞTI,395,
 1094,DB-II-m-B-17730,Conacul Păunescu,sat URZICEANCA; comuna CIOCĂNEŞTI,Str. Școlii 176,sf. sec. XIX
@@ -1013,7 +1099,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1098,DB-II-m-B-17733,"Biserica ""Sf. Nicolae”, ""Sf. Ioan Botezătorul”",sat VALEA LUNGĂ- CRICOV; comuna VALEA LUNGĂ,Str. Principală,1901-1910
 1099,DB-II-m-B-17735,"Biserica ""Buna Vestire”, ""Sf. Apostoli”",sat VALEA LUNGĂ- OGREA; comuna VALEA LUNGĂ,Str. Principală,1855-1956
 1100,DB-II-m-A-17736,"Biserica de lemn ""Sf. Voievozi”",sat VALEA MARE; comuna VALEA MARE,158 bis,1701-1702
-1101,DB-II-m-B-17737,"Biserica ""Adormirea Maicii Domnului”",sat VALEA VOIEVOZILOR; comuna RĂZVAD comuna VĂCĂREŞTI,Str. Goglea Preot,1824
+1101,DB-II-m-B-17737,"Biserica ""Adormirea Maicii Domnului”",sat VALEA VOIEVOZILOR; comuna RĂZVAD,Str. Goglea Preot,1824
+1102,DB-II-m-A-17738,Curtea Văcăreştilor,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,,sec. XVI-XIX
 1103,DB-II-m-A-17738.01,Beci casa veche,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,,sf. sec. XVI
 1104,DB-II-m-A-17738.02,Ruine Casa Ianache Văcărescu,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,,1698
 1105,DB-II-m-A-17738.03,"Ruine biserica ""Sf. Nicolae” - din Pajişte",sat VĂCĂREŞTI; comuna VĂCĂREŞTI,"În incinta Curţii Văcăreştilor, zona de",sud 1698-1699
@@ -1023,7 +1110,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1109,DB-II-m-A-17738.07,Ruine zid de incintă şi corp de poartă,sat VĂCĂREŞTI; comuna VĂCĂREŞTI,,sf. sec. XVI - sec. XVII
 1110,DB-II-a-B-17739,Ansamblul rural,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,"Ambele laturi ale străzii Principale, între Biserică, Primărie şi Complexul Comercial sud şi podul peste pârâu la nord - până limita posterioară a loturilor",sec. XIX-XX la la
 1111, DB-II-m-B-17744, Casa Constantin Ştefănescu, sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,, sec. XIX
-1112,DB-II-m-B-17745,Casa Vrăbiescu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA DÂMBOVIŢA; comuna,În centru,sec. XIX
+1112,DB-II-m-B-17745,Casa Vrăbiescu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,În centru,sec. XIX
+1113,DB-II-m-B-17747,Casa Grigore Zăbavă,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,În centru,sec. XIX
 1114,DB-II-m-B-17750,Casa Filofteia Mironescu Iancu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,,sec. XIX
 1115,DB-II-m-B-17740,"Biserica ""Adormirea Maicii Domnului”",sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,,1826
 1116,DB-II-m-B-17741,"Biserica ""Sf. Nicolae”",sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,,1856
@@ -1031,7 +1119,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1118,DB-II-m-B-17752,Casa Constantin Diaconescu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,85,sec. XIX
 1119,DB-II-m-B-20232,Casa Ana Popa,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,"104, lângă biserică",sec. XIX
 1120,DB-II-m-B-17748,Gospodăria Dan Iorgulescu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,310,sec. XIX
-1121,DB-II-m-B-17753,Gospodăria Maria I. Zăbavă,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA DÂMBOVIŢA; comuna,831,sec. XIX
+1121,DB-II-m-B-17753,Gospodăria Maria I. Zăbavă,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,831,sec. XIX
+1122,DB-II-m-B-17743,Casa Iosif Ştefănescu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,839,sec. XIX
 1123,DB-II-m-B-17749,Casa Ion Bezdedeanu,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,869,sec. XIX
 1124,DB-II-m-B-17751,Casa Ilie Neagu Lincan,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,881,sec. XIX
 1125,DB-II-m-B-17754,"Biserica ""Toţi Sfinţii”, ""Buna Vestire”",sat VÂRFURI; comuna VÂRFURI,124,1862
@@ -1041,7 +1130,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1129,DB-II-a-A-17757,Mănăstirea Dealu,sat VIFORÂTA; comuna ANINOASA,Aleea Mănăstirii Dealu,"1499-1501, ref. 1845-1846"
 1130,DB-II-m-A-17757.01,"Biserica ""Sf. Nicolae”",sat VIFORÂTA; comuna ANINOASA,Aleea Mănăstirii Dealu,"1499-1501, 1510- 1512"
 1131,DB-II-m-A-17757.02,Chilii,sat VIFORÂTA; comuna ANINOASA,Aleea Mănăstirii Dealu,"1953-1954, pe beciuri din 1845- 1846"
-1132,DB-II-m-A-17757.03,Turn clopotniţă,sat VIFORÂTA; comuna ANINOASA comuna ANINOASA,Aleea Mănăstirii Dealu,1845-1846
+1132,DB-II-m-A-17757.03,Turn clopotniţă,sat VIFORÂTA; comuna ANINOASA,Aleea Mănăstirii Dealu,1845-1846
+1133,DB-II-m-B-17761,Şcoala,sat VIFORÂTA; comuna ANINOASA,Str. Mihai Viteazul 110,1910
 1134,DB-II-m-B-17335,"Biserica ""Sf. Treime”, ""Sf. Nicolae"", ""Sf. Haralambie”",sat VIFORÂTA; comuna ANINOASA,Str. Mihai Viteazul 127,"sf. sec. XVIII, ref. 1827"
 1135,DB-II-m-B-17762,Casa Octav Dărascu Enigărescu,sat VIFORÂTA; comuna ANINOASA,Str. Mihai Viteazul 149,1890-1910
 1136,DB-II-m-B-17755,Casa Chiriţă Butcă,sat VIFORÂTA; comuna ANINOASA,Str. Mihai Viteazul 194,1870-1880
@@ -1051,7 +1141,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1140,DB-II-m-A-17764,"Biserica de lemn ""Naşterea Maicii Domnului”",sat VIŞINA; comuna VIŞINA,Str. Răsăritului 15,1810
 1141,DB-II-m-B-17765,"Biserica ""Sf. Arhangheli”, ""Buna Vestire"" şi ""Cuvioasa Paraschiva” - Tabaci",sat VOINEŞTI; comuna VOINEŞTI,Str. Bisericii 439,1796
 1142,DB-II-m-B-17767,Casa Iosefina Matei,sat VOINEŞTI; comuna VOINEŞTI,Str. Morii 462,sec. XIX
-1143,DB-II-m-B-17769,Spitalul sătesc,sat VOINEŞTI; comuna VOINEŞTI VOINEŞTI,Str. Principală 14,1905
+1143,DB-II-m-B-17769,Spitalul sătesc,sat VOINEŞTI; comuna VOINEŞTI,Str. Principală 14,1905
+1144,DB-II-m-B-17768,Casa Sidonia Oprea,sat VOINEŞTI; comuna VOINEŞTI,Str. Principală 139,1874
 1145,DB-II-m-B-17766,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Nicolae"", ""Sf. Haralambie”",sat VOINEŞTI; comuna VOINEŞTI,Str. Şcolii 479,1857
 1146,DB-II-m-B-17771,"Biserica ""Sf. Nicolae”, ""Sf. Treime”, ""Adormirea Maicii Domnului”",sat VULCANA-BĂI; comuna VULCANA- BĂI,Str. Vlad Ţepeş 12,"1800, ref. 1939"
 1147,DB-II-m-A-17770,"Biserica ""Sf. Arhangheli Mihail şi Gavril""- a schitului Bunea",sat VULCANA- PANDELE; comuna VULCANA PANDELE,Pe muntele Bunea,1654
@@ -1060,7 +1151,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1150,DB-II-m-B-17774,"Biserica ""Sf. Ierarh Nicolae”, ""Cuvioasa Paraschiva"", ""Sf. Ioan”",sat ZĂVOIU; comuna MOGOŞANI,,1884-1885
 1151,DB-III-m-B-17775,Bustul poetului Grigore Alexandrescu,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 4",1920
 1152,DB-III-m-A-17776,Bustul scriitorului Vasile Cârlova,municipiul TÂRGOVIŞTE,Str. Cuza Alexandru Ioan 15,1932
-1153,DB-III-m-A-17777,Bustul poetului Ienăchiţă Văcărescu Smaranda Gheorghiu,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,"Calea Domnească 63, în faţa Colegiului Național ""Ienăchiţă Văcărescu""",1935
+1153,DB-III-m-A-17777,Bustul poetului Ienăchiţă Văcărescu,municipiul TÂRGOVIŞTE,"Calea Domnească 63, în faţa Colegiului Național ""Ienăchiţă Văcărescu""",1935
+1154,DB-III-m-B-17778,Bustul scriitoarei Smaranda Gheorghiu,municipiul TÂRGOVIŞTE,Str. Libertăţii 2,1957
 1155,DB-III-m-B-17779,Bustul voievodului Dan al II-lea,municipiul TÂRGOVIŞTE,Bd. Regele Carol I 49,1967
 1156,DB-III-m-B-17780,Bustul voievodului Mircea cel Bătrân,municipiul TÂRGOVIŞTE,Bd. Regele Carol I 70,mijl. sec. XX
 1157,DB-III-m-B-17781,Bustul lui Ion Heliade Rădulescu,municipiul TÂRGOVIŞTE,Piaţa Revoluţiei,1927
@@ -1071,7 +1163,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1162,DB-III-m-A-17785,"Monumentul Eroilor din Războiul 1916 - 1918, ""Despărțirea""",sat RĂZVAD; comuna RĂZVAD,"În fostul sat Răzvadu de Jos, lângă Primărie",1933
 1163,DB-III-m-B-21073,"Monumentul Eroilor ""Tatăl și Fiul”",sat VALEA LUNGĂ- CRICOV; comuna VALEA LUNGĂ,Lângă Primărie,1938
 1164,DB-III-m-B-17786,Monumentul Eroilor,sat VOINEŞTI; comuna VOINEŞTI,Str. Principală,
-1165,DB-IV-m-B-17787,Casa natală a poetului Grigore Alexandrescu Gheorghe Petraşcu,municipiul TÂRGOVIŞTE TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 2",1810
+1165,DB-IV-m-B-17787,Casa natală a poetului Grigore Alexandrescu,municipiul TÂRGOVIŞTE,"Str. Alexandrescu Grigore, poet 2",1810
+1166,DB-IV-m-A-17788,Casa - atelier a pictorului Gheorghe Petraşcu,municipiul TÂRGOVIŞTE,Str. Bărăţiei 24,1923
 1167,DB-IV-m-A-17789,Monument funerar,municipiul TÂRGOVIŞTE,"str. Brezişeanu Eugen, maior 28, în curtea Bisericii Lemnului",1882
 1168,DB-IV-m-A-17790,Crucea de piatră de la Biserica Albă,municipiul TÂRGOVIŞTE,"Calea Domnească 109, în curtea Bisericii",Albe 1655
 1169,DB-IV-m-A-17791,Cruce de piatră,municipiul TÂRGOVIŞTE,"Calea Domnească 181, în incinta Curţii Domneşti, strămutată din satul Valea com. Valea Mare","1675 Mare,"
@@ -1082,7 +1175,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1174,DB-IV-m-B-17796,Crucea ridicată în memoria lui Tudor Vladimirescu,municipiul TÂRGOVIŞTE,Str. Libertăţii 1,1911
 1175,DB-IV-m-A-17797,"Crucea de piatră ""De la Fântână""",sat ADÂNCA; comuna GURA OCNIŢEI,,1650
 1176,DB-IV-m-B-17798,Troiţă,sat ADÂNCA; comuna GURA OCNIŢEI,,mijl. sec. XlX
-1177,DB-IV-m-B-17799,Cruce de piatră,sat BĂDULEŞTI; comuna CRÂNGURILE CONŢEŞTI,"În mijlocul satului, lângă şoseaua Bucureşti- Piteşti",1771-1772
+1177,DB-IV-m-B-17799,Cruce de piatră,sat BĂDULEŞTI; comuna CRÂNGURILE,"În mijlocul satului, lângă şoseaua Bucureşti- Piteşti",1771-1772
+1178,DB-IV-m-A-17800,Cruce de piatră,sat BĂLTENI; comuna CONŢEŞTI,"Str. Eroilor, lângă biserică",sec. XVII
 1179,DB-IV-m-B-17801,Cavoul familiei Serif,sat BĂLTENI; comuna CONŢEŞTI,"Str. Eroilor 67, în curtea cimitirului Bălteni",1868
 1180,DB-IV-m-A-17802,Cruce de piatră,sat BĂRBULEŢU; comuna BĂRBULEŢU,La intrarea în sat,1669
 1181,DB-IV-m-B-17803,Cruce,sat BEZDEAD; comuna BEZDEAD,În curtea familiei Mihail Davidoiu,1868
@@ -1093,7 +1187,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1186,DB-IV-m-A-17808,Cruce de piatră,sat CÂNDEŞTI VALE; comuna CÂNDEŞTI,La Primărie,1764
 1187,DB-IV-m-A-17809,Cruce de piatră,sat CORNĂŢELU; comuna CORNĂŢELU,"Str. Domniţa Marula 51, în curtea bisericii Nicolae""","""Sf. 1645"
 1188,DB-IV-m-B-17811,Mormântul scriitorului Ion C. Visarion,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,În curtea bisericii,1955
-1189,DB-IV-m-B-17810,Casa scriitorului I.C. Visarion,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE comuna MĂTĂSARU,Aleea Vissarion I.C. 397,
+1189,DB-IV-m-B-17810,Casa scriitorului I.C. Visarion,sat COSTEŞTII DIN VALE; comuna COSTEŞTII DIN VALE,Aleea Vissarion I.C. 397,
+1190,DB-IV-m-A-17812,Cruce de piatră,sat CREŢULEŞTI; comuna MĂTĂSARU,În curtea gospodăriei Ştefan Popescu,1729
 1191,DB-IV-m-B-17813,Cruce de piatră,sat DÂMBOVICIOARA; comuna BRANIŞTEA,În curtea bisericii,sec. XlX
 1192,DB-IV-m-B-17814,Cruce de piatră,sat DÂRZA; comuna CREVEDIA,În faţa şcolii,1814-1818
 1193,DB-IV-m-A-17815,"Cruce de piatră ""La stâlpi""",sat DRAGOMIREŞTI; comuna DRAGOMIREŞTI,"""La Stâlpi"", în pădurea Floreasca",1593-1601
@@ -1103,7 +1198,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1197,DB-IV-m-B-17819,Casă în care a locuit criticul literar Vladimir Streinu,oraş GĂEŞTI,Str. Gării 24,
 1198,DB-IV-m-A-17820,Cruce de piatră,sat GEMENEA BRĂTULEŞTI; comuna VOINEŞTI,Lângă Monumentul Eroilor,1712
 1199,DB-IV-m-A-17821,Cruce de piatră,sat GHEBOIENI; comuna TĂTĂRANI,În dreptul casei lui Gheorghe Săvulescu,sec. XVlll
-1200,DB-IV-m-A-17822,"Crucea de piatră de la ""Bolbocea"" (1869-1906)",sat GHEBOIENI; comuna TĂTĂRANI componentă,"Pe marginea şoselei, între Km 15 şi Km dreptul casei nr. 98","16, în 1641"
+1200,DB-IV-m-A-17822,"Crucea de piatră de la ""Bolbocea""",sat GHEBOIENI; comuna TĂTĂRANI,"Pe marginea şoselei, între Km 15 şi Km dreptul casei nr. 98","16, în 1641"
+1201,DB-IV-m-A-17516.05,Cavoul Irinei N.Ghica (1869-1906),localitate componentă GHERGANI; oraş RĂCARI,"DN 71, lângă capela familiei Ion Ghica",1906
 1202,DB-IV-m-A-17516.06,Cavoul aviatorului Ionel N. Ghica (1904-1932),localitate componentă GHERGANI; oraş RĂCARI,"DN 71, lângă capela familiei Ion Ghica",1932
 1203,DB-IV-m-A-17823,Cruce de piatră,sat GHIRDOVENI; comuna I. L. CARAGIALE,,sec. XVll
 1204,DB-IV-m-A-17824,Casa gravorului Gabriel Popescu,sat GURA VULCANEI; comuna VULCANA PANDELE,Str. Muzeului,1902
@@ -1112,7 +1208,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1207,DB-IV-m-A-17827,Crucea lui Constantin Brâncoveanu,sat MANGA; comuna VOINEŞTI,Lângă Monumentul Eroilor,1695
 1208,DB-IV-m-A-17828,Cruce de piatră,sat MÂNJINA; comuna VOINEŞTI,În faţa curţii lui Gheorghe Niţescu,1742
 1209,DB-IV-m-B-17829,Masă sfânta a vechii biserici,sat MERII; comuna MOGOŞANI,Pe terenul lui Marin Stănculescu,1825
-1210,DB-IV-m-A-17830,Crucea din cimitir,sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA COBIA,În curtea cimitirului,1723
+1210,DB-IV-m-A-17830,Crucea din cimitir,sat MESTEACĂN; comuna VĂLENI- DÂMBOVIŢA,În curtea cimitirului,1723
+1211,DB-IV-m-B-17831,Troiţă de lemn,sat MISLEA; comuna COBIA,În curtea bisericii,sec. XlX
 1212,DB-IV-m-B-17832,Cruce de piatră,sat MOŢĂIENI; comuna MOŢĂIENI,"În curtea bisericii, strămutată din faţa magazinului universal",1874
 1213,DB-IV-m-A-17833,Cruce de piatră,sat MUSCEL; comuna MOROENI,,sec. XVll
 1214,DB-IV-m-A-17834,Cruce de piatră,sat ONCEŞTI; comuna VOINEŞTI,,1718
@@ -1124,7 +1221,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1220,DB-IV-m-A-17841,Cruce de piatră,sat RĂZVAD; comuna RĂZVAD,La Monumentul Eroilor din Răzvadu de,Jos 1632-1654
 1221,DB-IV-m-A-17842,Crucea lui Socol Cornăţeanu,sat RĂZVAD; comuna RĂZVAD,"În fostul sat Răzvadu de Sus, în curtea Mihălăchioiu",lui Ion 1646
 1222,DB-IV-m-B-17844,Troiţă,sat RĂZVAD; comuna RĂZVAD,,sec. XlX
-1223, DB-IV-m-B-17843, Placa comemorativă a Răscoalei din 1907, sat RĂZVAD; comuna RĂZVAD comuna," Principală 97, în fostul sat Răzvadu de lângă şcoala primară"," Sus, 1957"
+1223, DB-IV-m-B-17843, Placa comemorativă a Răscoalei din 1907, sat RĂZVAD; comuna RĂZVAD," Principală 97, în fostul sat Răzvadu de lângă şcoala primară"," Sus, 1957"
+1224,DB-IV-m-A-17840,Stâlp de piatră,sat RÂNCĂCIOV; comuna DRAGOMIREŞTI,În cimitir,1728
 1225,DB-IV-m-A-17845,Cruce de piatră,sat SILIŞTEA; comuna LUCIENI,"În valea Băleanului, la 600m sud de sat",sec. XVll
 1226,DB-IV-m-A-17846,Cruce de piatră,sat TĂTĂRANI; comuna TĂTĂRANI,În faţa şcolii generale,1739
 1227,DB-IV-m-A-17848,Crucea vistiernicului Stroe Leurdeanu,sat VALEA CASELOR; comuna VALEA MARE,Str. Principală,1647
@@ -1133,7 +1231,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1230,DB-IV-m-A-17851,Cruce de piatră,sat VALEA VOIEVOZILOR; comuna RĂZVAD,"Str. Aurel Baranga 23, lângă casa Niculina Stanciu",1632-1654
 1231,DB-IV-m-A-17850,Cruce de piatră,sat VALEA VOIEVOZILOR; comuna RĂZVAD,"Str. Drăguţoieşti 1, peste drum de casa Drăguţoiu",lui C. 1635
 1232,DB-IV-m-A-17852,Cruce de piatră,sat VALEA VOIEVOZILOR; comuna RĂZVAD,"Str. Gura Văii 26, în faţa casei Toboşaru",1632-1654
-1233,DB-IV-m-A-17853,Cruce de piatră,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA comuna ANINOASA,"Pe şosea, la cca. 1,5 km de şoseaua Lăicăi- Văleni Dâmboviţa, lângă gospodăria Fulga Lucian (nr. 108)",1644
+1233,DB-IV-m-A-17853,Cruce de piatră,sat VĂLENI- DÂMBOVIŢA; comuna VĂLENI-DÂMBOVIŢA,"Pe şosea, la cca. 1,5 km de şoseaua Lăicăi- Văleni Dâmboviţa, lângă gospodăria Fulga Lucian (nr. 108)",1644
+1234,DB-IV-m-A-17854,Cruce de piatră,sat VIFORÂTA; comuna ANINOASA,În incinta mănăstirii Viforâta,1717
 1235,DB-IV-m-A-17855,Cruce de piatră,sat VIFORÂTA; comuna ANINOASA,"Lângă gospodăria lui N. Leahu (str. Mihai Viteazul, nr. 112)",sec. XVII
 1236,DB-IV-m-A-17856,Crucea de piatră a lui Mihai Viteazul,sat VOINEŞTI; comuna VOINEŞTI,"În cartierul Burlăneşti, pe terenul lui Vasile Toader din Gemenea",1596
 1237,DB-IV-m-A-17857,Cruce de piatră,sat VULCANA- PANDELE; comuna VULCANA-PANDELE,În curtea bisericii,1765

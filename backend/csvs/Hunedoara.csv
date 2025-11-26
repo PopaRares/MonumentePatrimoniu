@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,HD-I-s-B-03149,"Situl arheologic de la Deva, punct ""Dealul Cetăţii""",municipiul DEVA,"""Dealul Cetăţii”, versantul de S al dealului",
 2,HD-I-m-B-03149.01,Aşezare,municipiul DEVA,"""Dealul Cetăţii”, pe versantul S al dealului",Hallstatt
 3,HD-I-m-B-03149.02,Aşezare,municipiul DEVA,"""Dealul Cetăţii”, pe versantul S al dealului","Epoca bronzului, Cultura Wietenberg"
 4,HD-I-m-B-03149.03,Aşezare,municipiul DEVA,"""Dealul Cetăţii”, pe versantul S al dealului","Neolitic, Cultura dacică"
@@ -7,7 +8,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 7,HD-I-m-B-03150.02,Aşezare,sat ALMAŞUL SEC; comuna CÂRJIŢI,,Epoca eneolitică
 8,HD-I-s-A-03151,"Situl arheologic de la Ardeu, punct ""Dealul Cetăţuia""",sat ARDEU; comuna BALŞA,"""Dealul Cetăţuia”, la 1 km S de localitate",
 9,HD-I-m-A-03151.01,Aşezare fortificată,sat ARDEU; comuna BALŞA,"""Dealul Cetăţuia”",Epoca medievală
-10,HD-I-m-A-03151.02,Aşezare fortificată,sat ARDEU; comuna BALŞA BALŞA,"""Dealul Cetăţuia” valea Geoagiului",Epoca dacică
+10,HD-I-m-A-03151.02,Aşezare fortificată,sat ARDEU; comuna BALŞA,"""Dealul Cetăţuia”",Epoca dacică
+11,HD-I-m-A-03151.03,Aşezare,sat ARDEU; comuna BALŞA,"""Dealul Cetăţuia”, la 2 km S de sat valea Geoagiului",pe Epoca bronzului
 12,HD-I-s-B-03152,"Locul bătăliei de la ""Câmpul Pâinii”",sat AUREL VLAICU; oraş GEOAGIU,"""Câmpul Pâinii”, la 3 km E de sat",1479
 13,HD-I-s-B-03153,Aşezare,sat BALŞA; comuna BALŞA,"Peştera din Valea Şuncuiuşului, între Balşa şi Mada",Epoca bronzului
 14,HD-I-s-A-03156,Cetatea dacică de la Băniţa,sat BĂNIŢA; comuna BĂNIŢA,"""Dealul Bolii”",
@@ -18,7 +20,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 19,HD-I-s-B-03159,Tumuli,sat BERIU; comuna BERIU,"""Gorganele”, în hotarul satului, spre Tămăşasa, la 7 km de municipiul Orăştie, pe Valea Orăştiei",
 20,HD-I-s-B-03160,Aşezare,sat BOHOLT; comuna ŞOIMUŞ,"""La Ciuta”, pe o colină a satului Boholt, din terasa Boholtului",Epoca bronzului
 21,HD-I-s-B-03161,Aşezare,sat BOIU; comuna RAPOLTU MARE,"""Măgulicea”, pe coastele de SSV şi ale satului Boiu, pe Valea Mureşului",NV Epoca bronzului
-22,HD-I-s-A-03164,Aşezare,sat BREAZOVA; comuna SARMIZEGETUSA MUREŞANĂ; comuna,"Pe drumul spre Poieni, pe Valea Breazovei Brănişca, pe malul drept al Mureşului","Epoca romană Latène, Cultura dacică"
+22,HD-I-s-A-03164,Aşezare,sat BREAZOVA; comuna SARMIZEGETUSA,"Pe drumul spre Poieni, pe Valea Breazovei",Epoca romană
+23,HD-I-s-B-03165,Aşezare fortificată,sat BRETEA MUREŞANĂ; comuna ILIA,"""Măgura”, între Bretea Mureşană Brănişca, pe malul drept al Mureşului","şi sec. I a. Chr. - I p. Chr., Latène, Cultura dacică"
 24,HD-I-s-A-03166,Aşezare fortificată,sat BUCIUM; comuna ORĂŞTIOARA DE SUS,"""Cărpeniş”, între satul Bucium şi Orăştioara de Sus, pe malul drept al apei oraşului, în dreptul castrului roman",Epoca dacică
 25,HD-I-s-A-03167,Aşezare,sat BUCIUM; comuna ORĂŞTIOARA DE SUS,"""Valea Ţiganilor”, la 100 m SSE de confluenţa Văii Ţiganilor cu Valea Muchii",Epoca dacică
 26,HD-I-s-A-03168,Castru,sat BUCIUM; comuna ORĂŞTIOARA DE SUS,"""Piatra Grădiştii”, la NE de vârful Glemea, lângă râul Orăştie","sec. II - III p. Chr., Epoca romană"
@@ -27,7 +30,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 29,HD-I-s-B-03171,Villa rustica,sat CHITID; comuna BOŞOROD,"""Pleşa”, versantul de S al colinei, pe Valea Chitidului",Epoca romană
 30,HD-I-s-A-03172,Castru,sat CIGMĂU; oraş GEOAGIU,"""Cetatea Urieşului”, pe prima terasă Mureşului, pe platoul Turiac",a sec. II - III p. Chr.
 31,HD-I-s-B-03173,Villa rustica,sat CINCIŞ -CERNA; comuna TELIUCU INFERIOR,"""La Popeasca”, pe o terasă a Cernei, 1 km S de sat",la sec. II - III p. Chr.
-32,HD-I-s-B-03174,Necropolă tumulară Cioclovina,sat CINCIŞ -CERNA; comuna TELIUCU INFERIOR comuna BOŞOROD,"""La Ţelină”, pe o terasă a Cernei, la de punctul „Popeasca” Mesteacănului şi vârful lui Vârfete",N sec. II - III p. Chr.
+32,HD-I-s-B-03174,Necropolă tumulară,sat CINCIŞ -CERNA; comuna TELIUCU INFERIOR,"""La Ţelină”, pe o terasă a Cernei, la de punctul „Popeasca”",N sec. II - III p. Chr.
+33,HD-I-s-A-03175,Fortificaţia dacică de la Cioclovina,sat CIOCLOVINA; comuna BOŞOROD,"La SE de localitate, între dealul Mesteacănului şi vârful lui Vârfete",înc. sec. II p. Chr.
 34,HD-I-s-A-03176,Aşezare,sat CIOCLOVINA; comuna BOŞOROD,"""Peştera Mare”; ""Peştera de Apă”; ""Troianu”, 1 - la 1,5 km de sat; 2 - la 100 m mai sus; 3 - la E de 1 şi la 2,5 km de Piatra Roşie",Paleolitic mijlociu
 35,HD-I-s-A-03177,Fortificaţie,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Vârful Cetăţuia”, pe malul stâng al Apei Grădiştei, la 2 km de sat, spre","sec. II a. Chr. - II p. Chr., S Epoca geto -dacică, Cultura dacică"
 36,HD-I-m-A-03177.01,Sanctuare,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Vârful Cetăţuia”","sec. II a. Chr. - sec. II p. Chr., Epoca geto -dacică"
@@ -37,7 +41,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 40,HD-I-m-A-03178.03,Turn,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Cetăţuia Înaltă”, dincolo de Valea Sasului","sec. I a. Chr. - II p. Chr., Latène"
 41,HD-I-s-A-03179,Fortificaţia romană de la Costeşti,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Grădişte”",înc. sec. II p. Chr.
 42,HD-I-m-A-03179.01,Fortificaţie,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Grădişte”, la cota 405 m, pe panta NV a „Cetăţuii”, pe partea stângă a râului Apa Grădiştii","de înc. sec. II p. Chr., Epoca romană"
-43,HD-I-m-A-03179.02,Şanţ de apărare,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Grădişte”, la cota 405 m, pe panta NV a „Cetăţuii”, pe partea stângă a","de înc. sec. II p. Chr., Epoca romană"
+43,HD-I-m-A-03179.02,Şanţ de apărare,sat COSTEŞTI; comuna ORĂŞTIOARA DE SUS,"""Grădişte”, la cota 405 m, pe panta NV a „Cetăţuii”, pe partea stângă a râului Apa Grădiştii","de înc. sec. II p. Chr., Epoca romană"
 44,HD-I-s-A-03180,Castrul roman de la Costeşti,sat COSTEŞTI-DEAL; comuna ORĂŞTIOARA DE SUS,"""Prisaca”, la 1219 m altitudine, pe platforma Luncanilor, la SE de Costeşti",Epoca romană
 45,HD-I-s-B-03183,Fortificaţie,sat COZIA; comuna CÂRJIŢI,"Piscul ""Piatra Coziei”, la 686 m altitudine, între satele Cozia şi Herepeia","sec. II a. Chr. - sec. I p. Chr., Epoca geto-dacică, Cultura dacică"
 46,HD-I-s-B-03184,"Situl arheologic de la Crăciuneşti, punct ""Măgura"" (la Şuri)",sat CRĂCIUNEŞTI; comuna BĂIŢA,"""Măgura” (la Şuri)",
@@ -47,7 +51,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 50,HD-I-s-B-03185,Aşezare fortificată,sat CUCUIŞ; comuna BERIU,"""Golu”, la cca. 1 km V de şcoala din sat, pe dreapta Văii Cucuişului","sec. I a. Chr. - I p. Chr., Epoca geto-dacică, Cultura dacică"
 51,HD-I-s-A-03186,Drum,oraş GEOAGIU,La NV de sat,sec. II - III p. Chr.
 52,HD-I-s-A-03187,Aşezarea romană de la Germisara,oraş GEOAGIU,,Epoca romană
-53,HD-I-m-A-03187.01,Aşezarea Germisara,oraş GEOAGIU,La V de oraşul Geoagiu şi la S de localitatea Geoagiu Băi ştrand termal din Geoagiu Băi,Epoca romană
+53,HD-I-m-A-03187.01,Aşezarea Germisara,oraş GEOAGIU,La V de oraşul Geoagiu şi la S de localitatea Geoagiu Băi,Epoca romană
+54,HD-I-m-A-03187.02,Complexul de băi termale,oraş GEOAGIU,"""Dâmbul Romanilor”, la V de actualul ştrand termal din Geoagiu Băi",Epoca romană
 55,HD-I-s-B-03188,Cuptoare de reducere a minereului de fier,sat GHELARI; comuna GHELARI,"""Valea Caselor”, în partea de NV a satului",sec. IX - XI
 56,HD-I-s-B-03189,"Situl arheologic de la Godineşti, punct ""Peştera Mare""",sat GODINEŞTI; comuna ZAM,"""Peştera Mare” sau ""Peştera de Sus”",
 57,HD-I-m-B-03189.01,Aşezare,sat GODINEŞTI; comuna ZAM,"""Peştera Mare” sau ""Peştera de Sus”, la hotarul satului, pe Valea Mureşului",Neolitic
@@ -56,7 +61,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 60,HD-I-m-A-03190.01,Aşezare,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Dealul Grădiştii”, pe un picior al „Muncelului”, la peste 1000 m altitudine",Epoca romană
 61,HD-I-m-A-03190.02,Hambare,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Dealul Grădiştii”, pe un picior al „Muncelului”, la peste 1000 m altitudine",Epoca romană
 62,HD-I-m-A-03190.03,Zona sacră,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Dealul Grădiştii”",Epoca geto-dacică
-63,HD-I-m-A-03190.04,Aşezare dacică Sarmizegetusa,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS MUNTE; comuna,"""Dealul Grădiştii”, pe un picior al „Muncelului”, la peste 1000 m altitudine „Muncelului”, la peste 1000 m",Epoca dacică
+63,HD-I-m-A-03190.04,Aşezare dacică Sarmizegetusa,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Dealul Grădiştii”, pe un picior al „Muncelului”, la peste 1000 m altitudine",Epoca dacică
+64,HD-I-m-A-03190.05,Cetatea Sarmizegetusa,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Dealul Grădiştii”, pe un picior al „Muncelului”, la peste 1000 m altitudine","Latène, Cultura dacică"
 65,HD-I-s-B-03191,Aşezare,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Meleia”, versantul de SV al culmii, dinspre Valea Petrosului",Epoca dacică
 66,HD-I-s-B-03192,Aşezare,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Faţa Cetei”, pe dreapta Văii Cetei, NE de „Vârful lui Hulpe”, pe o prelungire a dealului Comărnicelul Cetei",la Epoca dacică
 67,HD-I-s-A-03193,"Situl arheologic de la Grădiştea de Munte, punct ""Vârful lui Hulpe""",sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Vârful lui Hulpe”",
@@ -64,7 +70,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 69,HD-I-m-A-03193.02,Turn,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Vârful lui Hulpe”, un mamelon cu cota 902 m, la confluenţa Văii Anineşului cu pârâul Prelucilor","sec. I a. Chr. - I p. Chr., Latène, Cultura dacică"
 70,HD-I-m-A-03193.03,Zid,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Vârful lui Hulpe”, un mamelon cu cota 902 m, la confluenţa Văii Anineşului cu pârâul Prelucilor","sec. I a. Chr. - I p. Chr., Latène, Cultura dacică"
 71,HD-I-s-A-03194,"Situl arheologic de la Grădiştea de Munte, punct ""Sub Cununi""",sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Sub Cununi”",
-72,HD-I-m-A-03194.01,Aşezare romană,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS MUNTE; comuna,"""Sub Cununi”, pe versantul SE al masivului Vârtoape masivului Vârtoape",Epoca romană timpurie
+72,HD-I-m-A-03194.01,Aşezare romană,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Sub Cununi”, pe versantul SE al masivului Vârtoape",Epoca romană timpurie
+73,HD-I-m-A-03194.02,Aşezare dacică,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Sub Cununi”, pe versantul SE al masivului Vârtoape",Epoca dacică
 74,HD-I-s-A-03195,Fortificaţie romană de pământ de la Grădiştea de Munte,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Vârful Muncel”",sf. sec. I p. Chr.
 75,HD-I-s-A-03196,"Situl arheologic de la Grădiştea de Munte, punct ""Masivul Feţele Albe""",sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Masivul Feţele Albe”, pe terasele al doilea punct şi cele apropiate","din sec. II a. Chr. - sec. II p. Chr., Cultura dacică"
 76,HD-I-m-A-03196.01,Sanctuar circular,sat GRĂDIŞTEA DE MUNTE; comuna ORĂŞTIOARA DE SUS,"""Masivul Feţele Albe”",sec. II a. Chr. - sec. II p. Chr.
@@ -72,7 +79,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 78,HD-I-s-B-03198,"Situl arheologic de la Hunedoara, punct ""Dealul Sânpetru”",municipiul HUNEDOARA,"""Dealul Sânpetru”",
 79,HD-I-m-B-03198.01,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Epoca medievală timpurie
 80,HD-I-m-B-03198.02,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Epoca romană
-81,HD-I-m-B-03198.03,Aşezare,municipiul HUNEDOARA HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor şi Cerna, deasupra castelului medieval",Hallstatt
+81,HD-I-m-B-03198.03,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Hallstatt
+82,HD-I-m-B-03198.04,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Epoca dacică
 83,HD-I-m-B-03198.05,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Epoca bronzului
 84,HD-I-m-B-03198.06,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Neolitic
 85,HD-I-m-B-03198.07,Aşezare,municipiul HUNEDOARA,"""Dealul Sânpetru”, între pârâul Zlaşti şi Cerna, deasupra castelului medieval al Corvinilor",Paleolitic
@@ -80,7 +88,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 87,HD-I-s-A-03201,Situl arheologic de la Nandru,sat NANDRU; comuna PEŞTIŞU MIC,"""Peştera Curată” şi ""Peştera Spurcată”",
 88,HD-I-m-A-03201.01,Aşezare,sat NANDRU; comuna PEŞTIŞU MIC,"""Peştera Curată” şi ""Peştera Spurcată”, pe dealul Peşterii, pe valea râului Petae, prima lângă sat, a doua la cca. 180 m spre NE de prima",Epoca medievală
 89,HD-I-m-A-03201.02,Aşezare,sat NANDRU; comuna PEŞTIŞU MIC,"""Peştera Curată” şi ""Peştera Spurcată”",Neolitic
-90,HD-I-m-A-03201.03,"Aşezare Costeşti, punct ""Blidaru""",sat NANDRU; comuna PEŞTIŞU MIC comuna ORĂŞTIOARA,"""Peştera Curată” şi ""Peştera Spurcată”, pe dealul Peşterii, pe valea râului Petae, prima lângă sat, a doua la cca. 180 m spre NE de prima",Paleolitic Latène
+90,HD-I-m-A-03201.03,Aşezare,sat NANDRU; comuna PEŞTIŞU MIC,"""Peştera Curată” şi ""Peştera Spurcată”, pe dealul Peşterii, pe valea râului Petae, prima lângă sat, a doua la cca. 180 m spre NE de prima",Paleolitic
+91,HD-I-s-A-03181,"Foritificaţia dacică de la Costeşti, punct ""Blidaru""",sat OCOLIŞU MIC; comuna ORĂŞTIOARA DE SUS,"""Blidaru”","sec. I a. Chr. - II p. Chr., Latène"
 92,HD-I-m-A-03181.01,Fortificaţie,sat OCOLIŞU MIC; comuna ORĂŞTIOARA DE SUS,"""Blidaru”, mamelon la 705 m altitudine, pe stânga apei Grădiştii, amonte de Valea Faeragului, la cca. km de cetatea de pe „Cetăţuia”","sec. I a. Chr. - II p. Chr., în Latène, Cultura dacică 4"
 93,HD-I-m-A-03181.02,Turn,sat OCOLIŞU MIC; comuna ORĂŞTIOARA DE SUS,"""Blidaru”, mamelon la 705 m altitudine, pe stânga apei Grădiştii, amonte de Valea Faeragului, la cca. km de cetatea de pe „Cetăţuia”","sec. I a. Chr. - II p. Chr., în Latène, Cultura dacică 4"
 94,HD-I-m-A-03181.03,Zid de apărare,sat OCOLIŞU MIC; comuna ORĂŞTIOARA DE SUS,"""Blidaru”, mamelon la 705 m altitudine, pe stânga apei Grădiştii, amonte de Valea Faeragului, la cca. km de cetatea de pe „Cetăţuia”","sec. I a. Chr. - II p. Chr., în Latène, Cultura dacică 4"
@@ -88,7 +97,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 96,HD-I-s-A-03202,"Situl arheologic de la Ohaba Ponor, punct ""Peştera Bordu Mare""",sat OHABA PONOR; comuna PUI,"""Peştera Bordu Mare”, pe dealul Bordu Mare, la SE de sat",
 97,HD-I-m-A-03202.01,Aşezare,sat OHABA PONOR; comuna PUI,"""Peştera Bordu Mare”, pe dealul Bordu Mare, la SE de sat","Neolitic, Cultura Criş"
 98,HD-I-m-A-03202.02,Aşezare,sat OHABA PONOR; comuna PUI,"""Peştera Bordu Mare”, pe dealul Bordu Mare, la SE de sat",Paleolitic
-99,HD-I-s-B-03154,"Situl arheologic de la Baru, punct ""Înălţimea Comărnicel""",comuna ORĂŞTIOARA DE SUS şi municipiul PETROŞANI DE SUS,"""Înălţimea Comărnicel” 1896 m",Epoca romană
+99,HD-I-s-B-03154,"Situl arheologic de la Baru, punct ""Înălţimea Comărnicel""",comuna ORĂŞTIOARA DE SUS şi municipiul PETROŞANI,"""Înălţimea Comărnicel”",Epoca romană
+100,HD-I-m-B-03154.01,Castrul roman de pământ 1,comuna ORĂŞTIOARA DE SUS,"""Înălţimea Comărnicel”, atitudinea 1896 m",Epoca romană
 101,HD-I-m-B-03154.02,Castrul roman de pământ 2,comuna ORĂŞTIOARA DE SUS şi municipiul PETROŞANI,"""Înălţimea Comărnicel"", la cca. 500 S, la cca. 1800 m altitudine",m Epoca romană
 102,HD-I-s-B-03155,Castru roman,comuna ORĂŞTIOARA DE SUS,"""La Fântână” (""La Gruişor”)",Epoca romană
 103,HD-I-s-B-03162,"Situl arheologic ""Treptele romane""",sat aparţinător RUDA- BRAD; municipiul BRAD,,"sec. II - III p. Chr., Epoca romană"
@@ -98,7 +108,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 107,HD-I-m-B-03206.02,Aşezare,sat aparţinător SĂULEŞTI; oraş SIMERIA,"""La Vie” şi ""În Coastă"", între Simeria Săuleşti",şi Epoca bronzului
 108,HD-I-m-B-03206.03,Aşezare,sat aparţinător SĂULEŞTI; oraş SIMERIA,"""La Vie” şi ""În Coastă"", între Simeria Săuleşti",şi Hallstatt
 109,HD-I-m-B-03206.04,Aşezare,sat aparţinător SĂULEŞTI; oraş SIMERIA,"""La Vie” şi ""În Coastă"", între Simeria Săuleşti",şi Neolitic
-110,HD-I-s-B-03207,"Situl arheologic de la Sântămărie - Orlea, punct",sat SÂNTĂMĂRIA- ORLEA; comuna,"""Grindanu”",sec. II - III p. Chr.
+110,HD-I-s-B-03207,"Situl arheologic de la Sântămărie - Orlea, punct ""Grindanu""",sat SÂNTĂMĂRIA- ORLEA; comuna SÂNTĂMĂRIA-ORLEA,"""Grindanu”",sec. II - III p. Chr.
 111,HD-I-m-A-03207.01,Villa rustica,sat SÂNTĂMĂRIA- ORLEA; comuna SÂNTĂMĂRIA-ORLEA,"""Grindanu”, pe malul stâng al Streiului, la N de sat, la 300 m V de confluenţa Râului Mare cu Galbena, între localităţile Haţeg şi Sântămărie- Orlea",sec. II - III p. Chr.
 112,HD-I-m-A-03207.02,Terme,sat SÂNTĂMĂRIA- ORLEA; comuna SÂNTĂMĂRIA-ORLEA,"""Grindanu”, pe malul stâng al Streiului, la N de sat, la 300 m V de confluenţa Râului Mare cu Galbena, între localităţile Haţeg şi Sântămărie- Orlea",sec. II - III p. Chr.
 113,HD-I-s-B-03208,Villa rustica,sat aparţinător STREI; oraş CĂLAN,În perimetrul cimitirului satului,sec. II - III p. Chr.
@@ -106,14 +116,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 115,HD-I-s-B-03210,Aşezare fortificată,sat SUBCETATE; comuna SÂNTĂMĂRIA- ORLEA,"""Petriş”, pe dealul Petriş, la NV de",sat Hallstatt
 116,HD-I-s-B-03199,Castru de marş,sat TÂRSA; comuna BOŞOROD,"""Grădişte”, în spatele şcolii",sf. sec. I p. Chr.
 117,HD-I-s-A-03211,Aşezare,sat TURDAŞ; comuna TURDAŞ,"""La Lunca”, pe malul Mureşului, la km de sat, în apropierea staţiei C.F.R.","2,5 Neolitic, Cultura Petreşti"
-118,HD-I-s-A-03204,Situl arheologic de la Uroi,"sat aparţinător UROI; oraş SIMERIA; sat RAPOLTU MARE, comuna RAPOLTU MARE oraş SIMERIA; sat","""Măgura Uroiului”",
+118,HD-I-s-A-03204,Situl arheologic de la Uroi,"sat aparţinător UROI; oraş SIMERIA; sat RAPOLTU MARE, comuna RAPOLTU MARE","""Măgura Uroiului”",
+119,HD-I-m-B-03204.01,Carieră de piatră,"sat aparţinător UROI; oraş SIMERIA; sat RAPOLTU MARE, comuna RAPOLTU MARE","""Măgura Uroiului”",Epoca romană timpurie
 120,HD-I-m-B-03204.02,Aşezare,"sat aparţinător UROI; oraş SIMERIA; sat RAPOLTU MARE, comuna RAPOLTU MARE","""Măgura Uroiului”","Hallstatt, Cultura dacică"
 121,HD-I-m-B-03204.03,Aşezare,"sat aparţinător UROI; oraş SIMERIA; sat RAPOLTU MARE, comuna RAPOLTU MARE","""Măgura Uroiului”","Epoca bronzului timpuriu, Cultura Coţofeni"
 122,HD-I-m-A-03204.04,Aşezare,"sat aparţinător UROI; oraş SIMERIA; sat RAPOLTU MARE, comuna RAPOLTU MARE","""Măgura Uroiului”",Neolitic
 123,HD-I-s-B-03212,Villa rustica,sat VALEA LUPULUI; comuna BARU,"Pe partea stângă a drumului spre râul Bărbat, la 800 m de localitate",sec. II - III p. Chr.
 124,HD-I-s-A-03213,Situl arheologic de la Vaţa de Jos,sat VAŢA DE JOS; comuna VAŢA DE JOS,"""Peştera Prihodişte”",
 125,HD-I-m-A-03213.01,Aşezare,sat VAŢA DE JOS; comuna VAŢA DE JOS,"""Peştera Prihodişte”, la 3 km NV de sat",Epoca bronzului timpuriu
-126,HD-I-m-A-03213.02,Aşezare Veţel,sat VAŢA DE JOS; comuna VAŢA DE JOS VEŢEL,"""Peştera Prihodişte”, la 1 km de sat, pe Valea Crişului Alb stâng al Mureşului",Neolitic
+126,HD-I-m-A-03213.02,Aşezare,sat VAŢA DE JOS; comuna VAŢA DE JOS,"""Peştera Prihodişte”, la 1 km de sat, pe Valea Crişului Alb",Neolitic
+127,HD-I-s-A-03214,Situl arheologic de la Micia- Veţel,sat VEŢEL; comuna VEŢEL,"La 3 km NV de localitate, pe malul stâng al Mureşului",
 128,HD-I-m-A-03214.01,Aşezare urbană,sat VEŢEL; comuna VEŢEL,"La 3 km NV de localitate, pe malul stâng al Mureşului","sec. II - IV p. Chr., Epoca romană"
 129,HD-I-m-A-03214.02,Castru,sat VEŢEL; comuna VEŢEL,"La 3 km NV de localitate, pe malul stâng al Mureşului","sec. II - IV p. Chr., Epoca romană"
 130,HD-I-m-A-03214.03,Amfiteatru,sat VEŢEL; comuna VEŢEL,"La 3 km NV de localitate, pe malul stâng al Mureşului","sec. II - IV p. Chr., Epoca romană"
@@ -125,6 +137,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 136,HD-II-a-A-03216,Ansamblul Cetatea medievală Deva,municipiul DEVA,"""Dealul Cetăţii”","sec. XIII, transf. şi extindere sec. XV - XIX"
 137,HD-II-s-B-03218,Centrul istoric al oraşului,municipiul DEVA,,
 138,HD-II-a-B-03218.04,"Ansamblul urban ""Bd. 1 Decembrie 1918""",municipiul DEVA,"Bd. 1 Decembrie 1918, , ambele laturi",sec. XIX - XX
+139,HD-II-a-B-03217,Parcul oraşului,municipiul DEVA,Bd. 1 Decembrie 1918 39A,sec. XIX
 140,HD-II-m-B-03220,"Fostul sediu al Băncii Dacia şi al Băncii Naţionale, azi Serviciul Public Comunitar Permise de conducere şi Înmatricularea vehiculelor",municipiul DEVA -,Bd. 1 Decembrie 1918 10,înc. sec. XX
 141,HD-II-m-B-03221,"Hotel ""Orient""",municipiul DEVA,Bd. 1 Decembrie 1918 11,1900
 142,HD-II-m-B-03222,"Teatrul Orăşenesc, azi Teatrul de Artă Dramatică Deva",municipiul DEVA,Bd. 1 Decembrie 1918 15,1911
@@ -132,7 +145,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 144,HD-II-m-B-03224,"Palatul Administrativ, azi sediul Prefecturii şi al Consiliului Judeţean Hunedoara",municipiul DEVA,Bd. 1 Decembrie 1918 28-30,1890
 145,HD-II-m-A-03225,"Magna Curia (Castelul Bethlen), azi Muzeul Civilizaţiei Dacice şi Romane Deva",municipiul DEVA,Bd. 1 Decembrie 1918 39,"sec. XVI, transf. sec. XVII- XVIII"
 146,HD-II-m-B-03226,"Orfelinat, azi Spital de Pediatrie",municipiul DEVA,Str. 22 Decembrie 58,înc. sec. XX
-147,HD-II-a-B-03218.01,"Ansamblul urban ""Str. George Bariţiu"" Direcţiei pentru Tineret",municipiul DEVA,Str. Bariţiu George 1-25; 2-12,sec. XIX - XX
+147,HD-II-a-B-03218.01,"Ansamblul urban ""Str. George Bariţiu""",municipiul DEVA,Str. Bariţiu George 1-25; 2-12,sec. XIX - XX
+148,HD-II-m-B-03227,"Parva Curia, azi sediul Direcţiei pentru Tineret Hunedoara",municipiul DEVA,Str. Bariţiu George 2,sec. XVIII
 149,HD-II-a-B-03218.02,"Ansamblul urban ""Str. Lucian Blaga""",municipiul DEVA,"Str. Blaga Lucian 1, 5, 13; 2-16, 20-26",sec. XIX - XX
 150,HD-II-m-B-03228,"Şcoala de fete, azi Şcoala generală Regina Maria",municipiul DEVA,Str. Blaga Lucian 1,sec. XIX
 151,HD-II-m-A-03229,Turnul vechii biserici ortodoxe,municipiul DEVA,"Str. Călugăreni 25, în cimitirul românesc",1700
@@ -145,6 +159,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 158,HD-II-m-B- 03231.02,Claustru,municipiul DEVA,Str. Progresului 6,sec. XVIII
 159,HD-II-a-B-03218.03,"Ansamblul urban ""Str. Andrei Şaguna""",municipiul DEVA,"Str. Şaguna Andrei 1, 3-13; 2, 6-22",sec. XIX - XX
 160,HD-II-a-B-03218.09,"Ansamblul urban ""Piaţa Unirii""",municipiul DEVA,Piaţa Unirii,sec. XIX - XX
+161,HD-II-m-B-03234,Biserică reformată,municipiul DEVA,Piaţa Unirii,1908 - 1910
 162,HD-II-m-B-03232,"Banca de Investiţii, azi Centrul teritorial de învăţământ economic",municipiul DEVA,Piaţa Unirii 3,1906
 163,HD-II-m-B-03233,"Casina Română, azi Restaurantul Bachus şi Cercul militar Deva",municipiul DEVA,Piaţa Unirii 9,1872
 164,HD-II-m-B-03235,"Biserica de lemn ""Cuvioasa Paraschiva""",sat ABUCEA; comuna DOBRA,,sec. XVIII
@@ -154,7 +169,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 168, HD-II-m-B-03239," Biserica de lemn ""Adormirea Maicii Domnului""", sat ALUN; comuna BUNILA,, sec. XVIII
 169,HD-II-a-B-03240,Ansamblul rural din zona centrală a satului,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,"Str. Revoluţiei, Brazilor, Tribunului, Muntele Găina, Plopilor",sec. XIX
 170,HD-II-a-A-03241,Mănăstirea franciscană,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,Str. Revoluţiei 2,sec. XV - XVIII
-171,HD-II-m-A- 03241.01 03241.02,Biserica mănăstirii franciscane,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ comuna BAIA DE CRIŞ,Str. Revoluţiei 2,"sec. XV, transf. sec. XVIII"
+171,HD-II-m-A- 03241.01,Biserica mănăstirii franciscane,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,Str. Revoluţiei 2,"sec. XV, transf. sec. XVIII"
+172,HD-II-m-A- 03241.02,Claustru,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,Str. Revoluţiei 2,1760 - 1780
 173,HD-II-m-A-03242,"Biserica ""Pogorârea Sf. Duh"" (""Sf. Ilie"")",sat BARU; comuna BARU,Str. Bărişor 40,sec. XVIII
 174,HD-II-m-B-03243,Casa de lemn Iocan Petru,sat BASARABASA; comuna VAŢA DE JOS,,1890
 175,HD-II-m-A-03244,"Biserica de lemn ""Sf. Nicolae""",sat BASARABASA; comuna VAŢA DE JOS,26,sf. sec. XVII
@@ -166,7 +182,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 181,HD-II-m-A-03250,"Biserica ""Sf. Nicolae""",sat BÂRSĂU; comuna HĂRĂU,,"sec. XVI, turn refăcut în sec. XIX"
 182,HD-II-a-B-03251,Gospodăria Sabin Isac,sat BIRTIN; comuna VAŢA DE JOS,,1900
 183,HD-II-m-B- 03251.01,Casa Sabin Isac,sat BIRTIN; comuna VAŢA DE JOS,,1900
-184,HD-II-m-B- 03251.02,Anexe,sat BIRTIN; comuna VAŢA DE JOS VAŢA DE JOS,,1900
+184,HD-II-m-B- 03251.02,Anexe,sat BIRTIN; comuna VAŢA DE JOS,,1900
+185,HD-II-a-B-03252,Ansamblul de case de lemn,sat BIRTIN; comuna VAŢA DE JOS,17 - 64,înc. sec. XX
 186,HD-II-m-B-03253,Casa de lemn Gligor Minodora,sat BIRTIN; comuna VAŢA DE JOS,41,1906
 187,HD-II-m-B-03254,Casa de lemn Rus Ioan,sat BIRTIN; comuna VAŢA DE JOS,53,1910
 188,HD-II-m-B-03255,Casa de lemn Lucaci Carolina,sat BIRTIN; comuna VAŢA DE JOS,76,1915
@@ -178,7 +195,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 194,HD-II-m-B-03261,"Biserica de lemn ""Sf. Gheorghe""",sat BOZ; comuna BRĂNIŞCA,140,sec. XVIII
 195,HD-II-m-A-03262,"Biserica ""Sf. Arhangheli""",sat aparţinător BOZEŞ; oraş GEOAGIU,63,sec. XVI
 196,HD-II-a-B-20927,Linia ferată industrială cu ecartament îngust Brad- Crişcior,municipiul BRAD şi comuna CRIŞCIOR,,1906 - 1907
-197,HD-II-m-B- 20927.01,Linia ferată industrială cu ecartament îngust,municipiul BRAD,,1906 - 1907
+197,HD-II-m-B- 20927.01,Linia ferată industrială cu ecartament îngust municipiul Brad,municipiul BRAD,,1906 - 1907
 198,HD-II-s-B-03263,Centrul istoric al oraşului,municipiul BRAD,"Str. Republicii, Moţilor, Cloşca, Zarandului, Independenţei, Horea",înc. sec. XX
 199,HD-II-a-B-03263.04,"Ansamblul urban ""Str. Cloşca""",municipiul BRAD,Str. Cloşca 1-15,înc. sec. XX
 200,HD-II-m-B-03264,Casă,municipiul BRAD,Str. Decebal 27,1926
@@ -190,7 +207,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 206,HD-II-m-B-03268,"Colegiul Naţional ""Avram Iancu”",municipiul BRAD,Str. Liceului 18,1869
 207,HD-II-a-B-03263.06,"Ansamblul urban ""Str. Moţilor""",municipiul BRAD,Str. Moţilor 2-22; 17-23,înc. sec. XX
 208, HD-II-a-B-03263.03," Ansamblul urban ""Str. Republicii""", municipiul BRAD, Str. Republicii 13-17; 18, înc. sec. XX
-209,HD-II-a-B-03263.02,"Ansamblul urban ""Str. Zarandului"" ""Adormirea Maicii",municipiul BRAD BURJUC,Str. Zarandului 16-22,înc. sec. XX
+209,HD-II-a-B-03263.02,"Ansamblul urban ""Str. Zarandului""",municipiul BRAD,Str. Zarandului 16-22,înc. sec. XX
+210,HD-II-m-B-03269,"Biserica de lemn ""Adormirea Maicii Domnului""",sat BRĂDĂŢEL; comuna BURJUC,33,sec. XIX
 211,HD-II-a-A-03270,Ansamblul castelului contelui Jozsika,sat BRĂNIŞCA; comuna BRĂNIŞCA,215,sec. XVIII
 212,HD-II-m-A- 03270.01,Castelul contelui Jozsika,sat BRĂNIŞCA; comuna BRĂNIŞCA,215,sec. XVIII
 213,HD-II-m-A- 03270.02,Capelă,sat BRĂNIŞCA; comuna BRĂNIŞCA,215,sec. XVIII
@@ -200,7 +218,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 217,HD-II-m-B-03273,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril""",sat BULZEŞTII DE SUS; comuna BULZEŞTII DE SUS,,sec. XIX
 218,HD-II-m-B-03274,"Biserica de lemn ""Sf. Ioan Gură de Aur""",sat BULZEŞTII DE SUS; comuna BULZEŞTII DE SUS,,sec. XIX
 219,HD-II-m-B-03275,Casă de lemn Gruniţan Ioan,sat BUNILA; comuna BUNILA,,sec. XX
-220,HD-II-m-B-03276,Gospodăria de lemn Gruniţan Arsenie,sat BUNILA; comuna BUNILA BUNILA,,înc. sec. XX
+220,HD-II-m-B-03276,Gospodăria de lemn Gruniţan Arsenie,sat BUNILA; comuna BUNILA,,înc. sec. XX
+221,HD-II-m-B-03277,Casă de lemn Nandra Sofia,sat BUNILA; comuna BUNILA,21,înc. sec. XX
 222,HD-II-a-B-03278,Ansamblul rural Bunila,sat BUNILA; comuna BUNILA,"24-28, 60-76",înc. sec. XX
 223,HD-II-m-A-03284,"Galerie de epocă romană din mina ""Adamul Vechi""",sat CARACI; comuna BAIA DE CRIŞ,,Epoca romană
 224,HD-II-m-A-03285,"Biserica ortodoxă de lemn ""Sf. Nicolae""",sat CARACI; comuna BAIA DE CRIŞ,51,sec. XVIII
@@ -212,7 +231,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 230,HD-II-m-A-03286,"Biserica de lemn ""Sf. Arhangheli""",sat CĂRMĂZĂNEŞTI; comunaGURASADA,,1725
 231,HD-II-m-A-03287,"Biserica de lemn ""Pogorârea Sf. Duh""",sat CĂZĂNEŞTI; comuna VAŢA DE JOS,,"sec. XVIII, mărită în sec. XIX"
 232, HD-II-a-B-03288, Ansamblul rural Căzăneşti, sat CĂZĂNEŞTI; comuna VAŢA DE JOS, 30-46, sf. sec. XIX - înc. sec. XX
-233,HD-II-m-A-03289,Casă de lemn Dudaş Elena,sat CĂZĂNEŞTI; comuna VAŢA DE JOS VAŢA DE JOS,32,1810
+233,HD-II-m-A-03289,Casă de lemn Dudaş Elena,sat CĂZĂNEŞTI; comuna VAŢA DE JOS,32,1810
+234,HD-II-m-A-03290,Casa de lemn Şerb Ioan,sat CĂZĂNEŞTI; comuna VAŢA DE JOS,60,1810
 235,HD-II-m-A-03291,"Biserica de lemn ""Cuvioasa Paraschiva""",sat CHERGHEŞ; comuna CÂRJIŢI,,sf. sec. XVII
 236,HD-II-m-B-03292,"Biserica ""Adormirea Maicii Domnului""",sat CHITID; comuna BOŞOROD,,sec. XVIII
 237,HD-II-m-B-03293,Ruinele podului roman,"sat CIOPEIA; comuna SÂNTĂMĂRIA-ORLEA; sat OHABA DE SUB PIATRĂ, comuna SĂLAŞU DE SUS",Între localităţi,sec. II - III p. Chr.
@@ -223,7 +243,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 242,HD-II-m-A- 03296.02,Anexe,sat CIUNGANI; comuna VAŢA DE JOS,59,1800
 243,HD-II-m-A-03297,"Biserica de lemn ""Buna Vestire""",sat CIUNGANI; comuna VAŢA DE JOS,62A,1600
 244,HD-II-m-B-03298,"Biserica (fostă reformată) ""Cuvioasa Paraschiva""",sat CLOPOTIVA; comuna RÂU DE MORI,,sec. XIX
-245,HD-II-m-A-03299,"Biserica ""Sf. Ioan Botezătorul"" Ioan",sat CLOPOTIVA; comuna RÂU DE MORI comuna RÂU DE MORI,,1763
+245,HD-II-m-A-03299,"Biserica ""Sf. Ioan Botezătorul""",sat CLOPOTIVA; comuna RÂU DE MORI,,1763
+246,HD-II-m-B-03300,Casă de lemn Dumbravă Ioan,sat CLOPOTIVA; comuna RÂU DE MORI,,înc. sec. XX
 247,HD-II-m-B-03301,Casă de lemn Tomoni Borcan,sat CLOPOTIVA; comuna RÂU DE MORI,,înc. sec. XX
 248,HD-II-a-B-03302,Ansamblul rural Clopotiva,sat CLOPOTIVA; comuna RÂU DE MORI,39-182,înc. sec. XX
 249,HD-II-m-B- 20927.02,Linia ferată industrială cu ecartament îngust comuna Crişcior,comuna CRIŞCIOR,,1906 - 1907
@@ -235,7 +256,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 255,HD-II-a-B-03308,Ansamblul rural Dobra,sat DOBRA; comuna DOBRA,Întreaga localitate,înc. sec. XX
 256,HD-II-m-B-03309,Fosta Pretură,sat DOBRA; comuna DOBRA,Str. Lugojului 2,sec. XIX
 257,HD-II-m-B-03310,"Biserica de lemn ""Sf. Nicolae""",sat DOBROŢ; comuna TOMEŞTI,,sec. XIX
-258,HD-II-m-B-03311,"Biserica de lemn ""Adormirea Maicii",sat DUMBRAVA DE JOS; comuna RIBIŢA,64,sec. XIX
+258,HD-II-m-B-03311,"Biserica de lemn ""Adormirea Maicii Domnului""",sat DUMBRAVA DE JOS; comuna RIBIŢA,64,sec. XIX
 259,HD-II-m-B-03312,"Biserica de lemn ""Naşterea Domnului""",sat DUMBRAVA DE SUS; comuna RIBIŢA,77,sec. XIX
 260,HD-II-m-A-03313,"Biserica de lemn ""Sf. Nicolae""",sat DUMBRĂVIŢA; comuna ILIA,,sec. XVII
 261,HD-II-m-B-03314,"Biserica de lemn ""Pogorârea Sf. Duh""",sat FURCŞOARA; comuna BRĂNIŞCA,39,sec. XIX
@@ -247,7 +268,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 267,HD-II-m-A-03320,"Biserica de lemn ""Sf. Gheorghe""",sat GODINEŞTI; comuna ZAM,,sec. XVIII
 268,HD-II-m-A-03321,Biserica de lemn „Intrarea în Ierusalim”,sat GOTHATEA; comuna GURASADA,,sec. XVII - XVIII
 269, HD-II-m-A-03322, Furnalul vechi, sat GOVĂJDIA; comuna GHELARI,," 1806 - 1813, modificat 1851"
-270,HD-II-m-A-03323,"Biserica ""Arhanghelul Mihail"" Klobosiski",sat GURASADA; comuna GURASADA comuna GURASADA,,"sec. XIII, adăugiri ulterioare"
+270,HD-II-m-A-03323,"Biserica ""Arhanghelul Mihail""",sat GURASADA; comuna GURASADA,,"sec. XIII, adăugiri ulterioare"
+271,HD-II-a-B-03324,Ansamblul conacului Klobosiski,sat GURASADA; comuna GURASADA,,sec. XIX
 272,HD-II-m-B- 03324.01,Conacul Klobosiski,sat GURASADA; comuna GURASADA,,sec. XIX
 273,HD-II-m-B- 03324.02,Parc,sat GURASADA; comuna GURASADA,,sec. XIX
 274,HD-II-s-B-03325,Centrul istoric al oraşului,oraş HAŢEG,,sec. XIX - XX
@@ -260,6 +282,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 281,HD-II-m-B-03330,Biserica romano-catolică,oraş HAŢEG,Str. Decebal 1,sec. XIX
 282, HD-II-a-B-03325.05," Ansamblul urban ""Str. Horea""", oraş HAŢEG, Str. Horea 1-13; 2-16, sec. XIX - XX
 283,HD-II-m-B-03331,Casă,oraş HAŢEG,Str. Horea 6,sf. sec. XIX
+284,HD-II-m-B-03332,Casă,oraş HAŢEG,Str. Horea 18,sf. sec. XIX
 285,HD-II-a-B-03325.02,"Ansamblul urban ""Str. Libertăţii""",oraş HAŢEG,Str. Libertăţii 5-19; 6-20,sec. XIX - XX
 286,HD-II-a-B-03325.06,"Ansamblul urban ""Str. Mihai Viteazul""",oraş HAŢEG,Str. Mihai Viteazu 1-27; 2-28,sec. XIX - XX
 287,HD-II-m-B-03333,"Colegiul Naţional ""I. C. Brătianu""",oraş HAŢEG,Str. Munţii Retezat 3,1912
@@ -271,7 +294,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 293,HD-II-m-B-03337,"Biserica de lemn ""Buna Vestire""",sat HĂRŢĂGANI; comuna BĂIŢA,,sf. sec. XVIII
 294,HD-II-m-B-03338,"Biserica de lemn ""Cuvioasa Paraschiva""",sat HEREPEIA; comuna VEŢEL,,sec. XVIII
 295, HD-II-m-B-03339, Şcoala de ucenici, municipiul HUNEDOARA," În incinta S.C. Siderurgica S.A., la 100 m de la intrarea principală", 1936
-296,HD-II-m-A-03347,Biserică reformată,municipiul HUNEDOARA HUNEDOARA,Str. Bethlen Gabriel 3,sec. XVII
+296,HD-II-m-A-03347,Biserică reformată,municipiul HUNEDOARA,Str. Bethlen Gabriel 3,sec. XVII
+297,HD-II-m-B-03341,Casă,municipiul HUNEDOARA,Str. Bursan Constantin 1,înc. sec. XX
 298,HD-II-m-B-03342,Administraţia Uzinelor de Fier,municipiul HUNEDOARA,Str. Bursan Constantin 8,1906
 299,HD-II-m-B-03343,"Clădire, azi sediul Ocolului Silvic",municipiul HUNEDOARA,Str. Castelului 22,sec. XIX
 300,HD-II-m-A-03344,"Castelul Corvinilor, azi muzeu",municipiul HUNEDOARA,Str. Curtea Corvineştilor 1-3,"sec. XIV, extins 1440 - 1453, transformat 1618 - 1620"
@@ -283,7 +307,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 306,HD-II-m-A-03350,"Biserica ""Sf. Nicolae""",municipiul HUNEDOARA,Piaţa Unirii 2,"1458, 1827 turn, transf. 1634"
 307,HD-II-a-B-03351,Ansamblul rural din zona centrală a satului,sat ILIA; comuna ILIA,"Str. Ştefan cel Mare, Traian, Libertăţii",sec. XVIII - XIX
 308,HD-II-m-A-03352,Casa parohială ortodoxă,sat ILIA; comuna ILIA,Str. Libertăţii 42,sec. XVII
-309,HD-II-m-A-03353,"Casa natală Gabriel Bethlen (Bastionul Roşu), azi muzeu locuinţă şi spaţiu comercial",sat ILIA; comuna ILIA,Str. Libertăţii 69,sec. XVII
+309,HD-II-m-A-03353,"Casa natală Gabriel Bethlen (Bastionul Roşu), azi muzeu",sat ILIA; comuna ILIA,Str. Libertăţii 69,sec. XVII
+310,HD-II-m-B-03354,"Biblioteca comunală, azi locuinţă şi spaţiu comercial",sat ILIA; comuna ILIA,Str. Traian 2,sf. sec. XIX
 311,HD-II-m-B-03355,"Casă, azi servicii hoteliere",sat ILIA; comuna ILIA,Str. Traian 5,sec. XIX
 312,HD-II-m-A-03356,"Biserica de lemn ""Adormirea Maicii Domnului""",sat LĂPUGIU DE JOS; comuna LĂPUGIU DE JOS,,1765
 313,HD-II-m-A-03357,"Biserica ""Cuvioasa Paraschiva""",sat LĂPUŞNIC; comuna DOBRA,,sec. XVII
@@ -294,7 +319,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 318,HD-II-m-B-03362,"Biserica de lemn ""Pogorârea Sf. Duh""",oraş LUPENI,Str. Bărbăteni 70A,sec. XIX
 319,HD-II-a-A-03363,Cetatea Mălăieşti,sat MĂLĂIEŞTI; comuna SĂLAŞU DE SUS,69,sec. XIV
 320,HD-II-m-A- 03363.01,Donjon,sat MĂLĂIEŞTI; comuna SĂLAŞU DE SUS,69,sec. XIV
-321,HD-II-m-A- 03363.02,"Zid incintă Domnului""",sat MĂLĂIEŞTI; comuna SĂLAŞU DE SUS comuna ZAM,69,sec. XIV
+321,HD-II-m-A- 03363.02,Zid incintă,sat MĂLĂIEŞTI; comuna SĂLAŞU DE SUS,69,sec. XIV
+322,HD-II-m-A-03364,"Biserica de lemn ""Înălţarea Domnului""",sat MICĂNEŞTI; comuna ZAM,,1761
 323,HD-II-m-A-03365,Biserică reformată,sat MINTIA; comuna VEŢEL,Str. Iancu Avram 32,sec. XVI
 324,HD-II-a-A-03366,Ansamblul castelului Gyulay Ferencz,sat MINTIA; comuna VEŢEL,Str. Matei Corvin 34B,sec. XVII - XX
 325,HD-II-m-A- 03366.01,Castelul Gyulay Ferencz,sat MINTIA; comuna VEŢEL,Str. Matei Corvin 34B,"1642, modif. 1834"
@@ -304,7 +330,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 329,HD-II-a-A-03369,Ansamblul castelului Nalatzi-Fay,localitate componentă NĂLAŢVAD; oraş HAŢEG,91,sec. XIX
 330, HD-II-m-A- 03369.01, Castelul Nalatzi-Fay, localitate componentă NĂLAŢVAD; oraş HAŢEG, 91, sec. XIX
 331,HD-II-m-A- 03369.02,Parc,localitate componentă NĂLAŢVAD; oraş HAŢEG,91,sec. XIX
-332,HD-II-m-B-03370,"Biserica ""Înălţarea Domnului""",sat NUCŞOARA; comuna SĂLAŞU DE SUS comuna SĂLAŞU DE,38,1786
+332,HD-II-m-B-03370,"Biserica ""Înălţarea Domnului""",sat NUCŞOARA; comuna SĂLAŞU DE SUS,38,1786
+333,HD-II-m-B-03371,Casa parohială ortodoxă,sat NUCŞOARA; comuna SĂLAŞU DE SUS,41,sec. XIX
 334,HD-II-m-B-03372,"Biserica de lemn ""Schimbarea la Faţă""",sat OBÂRŞA; comuna TOMEŞTI,,sec. XIX
 335,HD-II-m-B-03373,"Biserica de lemn ""Adormirea Maicii Domnului""",sat OCIŞOR; comuna VAŢA DE JOS,34,1802
 336,HD-II-m-A-03374,"Biserica de lemn ""Sf. Arhangheli""",sat OCIU; comuna VAŢA DE JOS,46,1750 - 1800
@@ -313,7 +340,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 339,HD-II-m-B-03382,Casa Poştelor,municipiul ORĂŞTIE,Str. Bariţiu George 7,sec. XIX
 340,HD-II-m-B-03383,Casă,municipiul ORĂŞTIE,Str. Bariţiu George 14,cca. 1900
 341,HD-II-a-A-03376,Cetatea Orăştie,municipiul ORĂŞTIE,Str. Bălcescu Nicolae,"sec. XIV - XV, transf. şi amplificări sec. XVI şi XVII"
-342,HD-II-m-A-03377,"Biserică luterană Nicolae Bălcescu""",municipiul ORĂŞTIE,Str. Bălcescu Nicolae f.n.,1820
+342,HD-II-m-A-03377,Biserică luterană,municipiul ORĂŞTIE,Str. Bălcescu Nicolae f.n.,1820
+343,HD-II-a-B-03375.04,"Ansamblul urban ""Str. Nicolae Bălcescu""",municipiul ORĂŞTIE,Str. Bălcescu Nicolae 1-39; 2-20,sec. XVIII - XIX
 344,HD-II-m-A-03378,Biserică reformată,municipiul ORĂŞTIE,Str. Bălcescu Nicolae 2,"sec. XIV, ref sec. XVI, turn 1752"
 345,HD-II-m-B-03379,"Casina Română, azi Hotel ""Augusta""",municipiul ORĂŞTIE,Str. Bălcescu Nicolae 5,sec. XIX
 346,HD-II-m-B-03381,Banca Ardeleană,municipiul ORĂŞTIE,Str. Bălcescu Nicolae 18,1892
@@ -326,6 +354,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 353,HD-II-a-B-03375.06,"Ansamblul urban ""Str. Mihai Eminescu""",municipiul ORĂŞTIE,Str. Eminescu Mihai,sec. XVIII - XIX
 354, HD-II-m-B-03387, Casă, municipiul ORĂŞTIE, Str. Eminescu Mihai 4, sec. XVIII
 355,HD-II-a-B-03375.05,"Ansamblul urban ""Str. Octavian Goga""",municipiul ORĂŞTIE,Str. Goga Octavian 1-27,sec. XVIII - XIX
+356,HD-II-m-B-03388,Casă,municipiul ORĂŞTIE,Str. Goga Octavian 11,sec. XIX
 357,HD-II-m-B-03389,"Fostul Gimnaziu Românesc de Fete ""Despina Doamna”, azi Grupul Şcolar de Chimie ""Nicolaus Olahus""",municipiul ORĂŞTIE,Str. Goga Octavian 25,cca. 1900
 358,HD-II-m-B-03390,Casă,municipiul ORĂŞTIE,Str. Iancu Avram 2,sec. XVIII
 359,HD-II-a-B-03375.16,"Ansamblul urban ""Str. Nicolae Iorga""",municipiul ORĂŞTIE,Str. Iorga Nicolae 1-9; 2-8,sec. XVIII - XIX
@@ -336,7 +365,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 364,HD-II-m-A- 03391.01,Biserică,municipiul ORĂŞTIE,Str. Luminii 3,sec. XVIII
 365,HD-II-m-A- 03391.02,Claustru,municipiul ORĂŞTIE,Str. Luminii 3,sec. XVIII
 366,HD-II-m-B-03392,"Biserica ""Sf. Nicolae""",municipiul ORĂŞTIE,Str. Maior Petru f.n.,sec. XVIII
-367,HD-II-a-B-03375.02,"Ansamblul urban ""Str. Primăverii"" Dominic Stanca""",municipiul ORĂŞTIE,Str. Primăverii 19-25; 24-26,sec. XVIII - XIX
+367,HD-II-a-B-03375.02,"Ansamblul urban ""Str. Primăverii""",municipiul ORĂŞTIE,Str. Primăverii 19-25; 24-26,sec. XVIII - XIX
+368,HD-II-a-B-03375.08,"Ansamblul urban ""Str. Dominic Stanca""",municipiul ORĂŞTIE,Str. Stanca Dominic 1-21; 2-34,sec. XVIII - XIX
 369,HD-II-a-B-03375.03,"Ansamblul urban ""Str. Andrei Şaguna""",municipiul ORĂŞTIE,Str. Şaguna Andrei 1-9; 2-16,sec. XVIII - XIX
 370,HD-II-m-B-03393,Clădire,municipiul ORĂŞTIE,"Str. Şaguna Andrei, mitropolit 16",sec. XIX
 371,HD-II-m-A-03394,"Biserica ""Adormirea Maicii Domnului""",municipiul ORĂŞTIE,Str. Unirii 4A,sec. XVII
@@ -348,7 +378,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 377,HD-II-m-B-03399,Casă,municipiul ORĂŞTIE,Piaţa Victoriei 10,sec. XVIII
 378,HD-II-a-B-03375.09,"Ansamblul urban ""Str. Viilor""",municipiul ORĂŞTIE,Str. Viilor 1-29; 2-24,sec. XVIII - XIX
 379,HD-II-a-B-03375.10,"Ansamblul urban ""Str. Dr. Aurel Vlad""",municipiul ORĂŞTIE,"Str. Vlad Aurel, dr. 7-13; 2-10",sec. XVIII - XIX
-380,HD-II-a-B-03375.11,"Ansamblul urban ""Piaţa Aurel Vlaicu"" ""Pogorârea Sf. Duh""",municipiul ORĂŞTIE RÂU DE MORI,Piaţa Vlaicu Aurel,sec. XVIII - XIX
+380,HD-II-a-B-03375.11,"Ansamblul urban ""Piaţa Aurel Vlaicu""",municipiul ORĂŞTIE,Piaţa Vlaicu Aurel,sec. XVIII - XIX
+381,HD-II-a-A-03400,"Ansamblul bisericii ""Pogorârea Sf. Duh""",sat OSTROV; comuna RÂU DE MORI,,sec. XIV
 382,HD-II-m-A- 03400.01,"Biserica ""Pogorârea Sf. Duh""",sat OSTROV; comuna RÂU DE MORI,,sec. XIV
 383,HD-II-m-A- 03400.02,Incintă (spolii romane),sat OSTROV; comuna RÂU DE MORI,,sec. XIV
 384,HD-II-m-A-03401,"Biserica ""Pogorârea Sf. Duh""",sat PAROŞ; comuna SĂLAŞU DE SUS,183,sec. XV
@@ -359,7 +390,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 389,HD-II-m-A-03404,Biserică reformată,sat PEŞTEANA; comuna DENSUŞ,142,sec. XVI - XVII
 390,HD-II-m-A-03405,"Biserica ""Sf. Prooroc Ilie""",sat PEŞTEANA; comuna DENSUŞ,150,"sec. XIV, sec. XV"
 391,HD-II-a-B-03406,"Cartierul de locuinţe muncitoreşti ""Colonia""",municipiul PETROŞANI,"Str. Jiul de Est, Cărbunelui, linia de cale ferată, gară şi Str. Vlad Ţepeş",sf. sec. XIX
-392,HD-II-a-B-03407,"Centrul istoric al oraşului Mircea"", azi Casa de cultură",municipiul PETROŞANI,"Str. Mihai Viteazul; Str. 1 Decembrie 1918 (între Piaţa Victoriei şi Centrul civic); Str. Dragalina, general; Str. Timişoarei",sf. sec. XIX
+392,HD-II-a-B-03407,Centrul istoric al oraşului,municipiul PETROŞANI,"Str. Mihai Viteazul; Str. 1 Decembrie 1918 (între Piaţa Victoriei şi Centrul civic); Str. Dragalina, general; Str. Timişoarei",sf. sec. XIX
+393,HD-II-m-B-03408,"Dispensarul ""Principele Mircea"", azi Casa de cultură a studenţilor",municipiul PETROŞANI,Str. 1 Decembrie 1918 62,1925
 394,HD-II-m-B-03409,"Primul sediu al S.A.R. Petroşani, azi Muzeul Mineritului",municipiul PETROŞANI,Str. Bălcescu Nicolae 2,1920
 395,HD-II-m-B-03410,Fostul sediu al Sindicatul Minier,municipiul PETROŞANI,Str. Cuza Vodă 4,1921 - 1946
 396,HD-II-m-B-03412,Cazinoul Muncitoresc,municipiul PETROŞANI,Str. Griviţa Roşie 38,1925
@@ -370,7 +402,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 401, HD-II-a-B-03417, Ansamblul rural Pricaz, sat PRICAZ; comuna TURDAŞ, Întreaga localitate, sf. sec. XIX - înc. sec. XX
 402,HD-II-a-B-03418,Ansamblul rural Pui,sat PUI; comuna PUI,"Zona de SE a localităţii, cu Str. Morilor (până la nr. 31) şi Republicii (până nr. 75)",sf. sec. XIX - înc. sec. XX la
 403,HD-II-m-B-03419,Casă,sat PUI; comuna PUI,Str. Morii 9-10,sec. XVIII
-404,HD-II-m-B-03420,Casă,sat PUI; comuna PUI comuna RAPOLTU,Str. Morii 58,sec. XVIII
+404,HD-II-m-B-03420,Casă,sat PUI; comuna PUI,Str. Morii 58,sec. XVIII
+405,HD-II-m-A-03421,Biserică reformată,sat RAPOLTU MARE; comuna RAPOLTU MARE,,sec. XIV
 406,HD-II-a-B-03422,Ansamblul conacului Daniel,sat RAPOLTU MARE; comuna RAPOLTU MARE,,sec. XVIII
 407,HD-II-m-B- 03422.01,Conacul Daniel,sat RAPOLTU MARE; comuna RAPOLTU MARE,,sec. XVIII
 408,HD-II-m-B- 03422.02,Capelă,sat RAPOLTU MARE; comuna RAPOLTU MARE,,sec. XVIII
@@ -379,7 +412,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 411,HD-II-m-B- 03422.05,Zid de incintă,sat RAPOLTU MARE; comuna RAPOLTU MARE,,sec. XVIII
 412,HD-II-a-B-03423,Ansamblul rural Rapoltu Mare,sat RAPOLTU MARE; comuna RAPOLTU MARE,"Jumătatea de N a satului, la dreapta drumului Bobâlna-Rapolţel",sf. sec. XIX - înc. sec. XX
 413,HD-II-m-A-03424,Cetatea Răchitova,sat RĂCHITOVA; comuna RĂCHITOVA,La 500 m S de sat,sec. XIV
-414,HD-II-m-A-03425,"Biserică românească (ruine) Paraschiva""",sat RĂCHITOVA; comuna RĂCHITOVA DOBRA,La cca. 300 m de cetate,sec. XV
+414,HD-II-m-A-03425,Biserică românească (ruine),sat RĂCHITOVA; comuna RĂCHITOVA,La cca. 300 m de cetate,sec. XV
+415,HD-II-m-A-03426,"Biserica de lemn ""Cuvioasa Paraschiva""",sat RĂDULEŞTI; comuna DOBRA,,1733
 416,HD-II-m-A-03427,Biserică parohială reformată,sat RÂU ALB; comuna SĂLAŞU DE SUS,5,sec. XV - XVI
 417,HD-II-a-A-03428,Curtea nobiliară a Cândeştilor,sat RÂU DE MORI; comuna RÂU DE MORI,,"sec. XV - XVI, transf. sec. XVII - XIX"
 418,HD-II-m-A- 03428.01,Curia Cândeştilor,sat RÂU DE MORI; comuna RÂU DE MORI,"Pe malul râului, sediul fostului CAP",sec. XV - XVII
@@ -391,7 +425,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 424,HD-II-m-A-03432,Casa parohială evanghelică,sat ROMOS; comuna ROMOS,,sec. XVII
 425,HD-II-a-B-03433,Ansamblul rural Romos,sat ROMOS; comuna ROMOS,Întreaga localitate,sf. sec. XIX - înc. sec. XX
 426,HD-II-m-A-03434,"Biserica ""Buna Vestire""",sat ROŞCANI; comuna DOBRA,,sec. XVIII
-427,HD-II-a-B-03435 03435.01,Gospodăria Jurca,sat ROVINA; comuna BUCUREŞCI BUCUREŞCI,,sec. XIX
+427,HD-II-a-B-03435,Gospodăria Jurca,sat ROVINA; comuna BUCUREŞCI,,sec. XIX
+428,HD-II-m-B- 03435.01,Casa de lemn Jurca,sat ROVINA; comuna BUCUREŞCI,,sec. XIX
 429,HD-II-m-B- 03435.02,Şură,sat ROVINA; comuna BUCUREŞCI,,sec. XIX
 430,HD-II-m-A-03436,"Biserica de lemn ""Înălţarea Sf. Cruci""",sat ROVINA; comuna BUCUREŞCI,65,1780
 431,HD-II-m-A-03437,"Biserica ""Sf. Arhangheli""",sat RUDA; comuna GHELARI,,1653
@@ -402,7 +437,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 436,HD-II-m-A-03440,"Biserica ""Nemeşilor”",sat SĂLAŞU DE SUS; comuna SĂLAŞU DE SUS,284,sec. XVIII
 437,HD-II-a-A-03441,Curtea cnezilor Cândreş,sat SĂLAŞU DE SUS; comuna SĂLAŞU DE SUS,327,sec. XV - XVII
 438,HD-II-m-A- 03441.01,Casa cneazială (ruine),sat SĂLAŞU DE SUS; comuna SĂLAŞU DE SUS,327,sec. XV - XVII
-439,HD-II-m-A- 03441.02,Paraclis,sat SĂLAŞU DE SUS; comuna SĂLAŞU DE,327,sec. XV - XVII
+439,HD-II-m-A- 03441.02,Paraclis,sat SĂLAŞU DE SUS; comuna SĂLAŞU DE SUS,327,sec. XV - XVII
 440,HD-II-m-A- 03441.03,"Fortificaţie (zid incintă, cu patru turnuri la colţuri)",sat SĂLAŞU DE SUS; comuna SĂLAŞU DE SUS,327,sec. XV - XVII
 441,HD-II-m-A-03442,"Biserica ""Sf. Atanasie şi Chiril""",sat SĂLAŞU DE SUS; comuna SĂLAŞU DE SUS,Str. Uliţa Mare 153,"sec. XV - XVI, cu transf. sec. XIX"
 442,HD-II-m-A-03444,"Biserica ""Sf. Gheorghe""",sat SÂNPETRU; comuna SÂNTĂMĂRIA-ORLEA,,sec. XIV
@@ -411,7 +446,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 445,HD-II-m-A- 03446.01,Castelul Kendeffy,sat SÂNTĂMĂRIA- ORLEA; comuna SÂNTĂMĂRIA-ORLEA,,sf. sec. XVIII
 446,HD-II-m-A- 03446.02,Anexe,sat SÂNTĂMĂRIA- ORLEA; comuna SÂNTĂMĂRIA-ORLEA,,sf. sec. XVIII - înc. sec. XIX
 447,HD-II-m-A- 03446.03,Parc,sat SÂNTĂMĂRIA- ORLEA; comuna SÂNTĂMĂRIA-ORLEA,,sec. XIX
-448,HD-II-m-A-03447,"Biserica ""Sf. Ioan Evanghelistul"" a Mănăstirii Prislop Fay",sat aparţinător SILVAŞU DE SUS; oraş HAŢEG,"129, , la 3 km V de sat","1564, fragmente de pictură murală din 1759"
+448,HD-II-m-A-03447,"Biserica ""Sf. Ioan Evanghelistul"" a Mănăstirii Prislop",sat aparţinător SILVAŞU DE SUS; oraş HAŢEG,"129, , la 3 km V de sat","1564, fragmente de pictură murală din 1759"
+449,HD-II-a-B-03448,Ansamblul castelului Bella Fay,oraş SIMERIA,Str. Biscaria 1,înc. sec. XIX
 450,HD-II-m-B- 03448.01,Castelul Bella Fay,oraş SIMERIA,Str. Biscaria 1,înc. sec. XIX
 451,HD-II-m-B- 03448.02,Parc dendrologic,oraş SIMERIA,Str. Biscaria 1,înc. sec. XIX
 452,HD-II-m-B-03449,Gara CFR,oraş SIMERIA,Str. Victoriei 9,1866
@@ -422,7 +458,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 457,HD-II-m-B-03453,Hidrocentrală,sat aparţinător STREISÂNGEORGIU; oraş CĂLAN,"La ieşirea din localitate, spre Boşorod",sf. sec. XIX
 458,HD-II-m-A-03454,"Biserica ""Sf. Gheorghe""",sat aparţinător STREISÂNGEORGIU; oraş CĂLAN,239,"sf. sec. XI, reparată 1409, adăugire sec. XVIII"
 459,HD-II-a-A-03455,Cetatea regală a Haţegului,sat SUBCETATE; comuna SÂNTĂMĂRIA- ORLEA,Vârful dealului Orlea,sec. XIII - XV
-460,HD-II-m-A- 03455.01,Turn hexagonal,sat SUBCETATE; comuna SÂNTĂMĂRIA-,Vârful dealului Orlea,sec. XIII - XV
+460,HD-II-m-A- 03455.01,Turn hexagonal,sat SUBCETATE; comuna SÂNTĂMĂRIA- ORLEA,Vârful dealului Orlea,sec. XIII - XV
 461,HD-II-m-A- 03455.02,Incintă din piatră cu val şi şanţ,sat SUBCETATE; comuna SÂNTĂMĂRIA- ORLEA,Vârful dealului Orlea,sec. XIII - XV
 462,HD-II-m-A-03456,Vechea biserică ortodoxă (ruine),sat SUBCETATE; comuna SÂNTĂMĂRIA- ORLEA,,sec. XVII
 463,HD-II-m-A-03457,Biserica de lemn „Adormirea Maicii Domnului”,sat SULIGHETE; comuna ŞOIMUŞ,169,sec. XVIII
@@ -432,7 +468,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 467,HD-II-a-A-03459,Curtea nobiliară a Cândeştilor (ruine),sat SUSENI; comuna RÂU DE MORI,"Pe malul drept al Râuşorului, la marginea satului",sec. XVI - XVIII
 468,HD-II-m-A-03460,Biserica cnezilor Cândea,sat SUSENI; comuna RÂU DE MORI,"Pe malul stâng al Râuşorului, la marginea satului",sec. XIV
 469,HD-II-m-A-03461,"Biserica de lemn ""Sf. Nicolae""",sat ŞOIMUŞ; comuna ŞOIMUŞ,64,1705
-470,HD-II-m-A-03462,"Biserica de lemn ""Sf. Nicolae"" Paraschiva""",sat TÂRNAVA; comuna BRĂNIŞCA comuna BRĂNIŞCA,46,"mijl. sec. XVII, turn mijl. sec. XVIII"
+470,HD-II-m-A-03462,"Biserica de lemn ""Sf. Nicolae""",sat TÂRNAVA; comuna BRĂNIŞCA,46,"mijl. sec. XVII, turn mijl. sec. XVIII"
+471,HD-II-m-A-03463,"Biserica de lemn ""Cuvioasa Paraschiva""",sat TÂRNĂVIŢA; comuna BRĂNIŞCA,76A,sec. XVII
 472,HD-II-m-A-03464,"Biserica de lemn ""Pogorârea Sf. Duh""",sat TISA; comuna BURJUC,106,sec. XVIII
 473,HD-II-a-B-03465,Gospodăria Herbei,sat TOMEŞTI; comuna TOMEŞTI,Str. Părăoani,sec. XIX
 474,HD-II-m-B- 03465.01,Casa Herbei,sat TOMEŞTI; comuna TOMEŞTI,Str. Părăoani,sec. XIX
@@ -443,7 +480,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 479, HD-II-m-A-03469," Biserica ""Buna Vestire""", sat TRESTIA; comuna BĂIŢA,, 1674
 480,HD-II-a-B-00377,Ansamblul bisericii reformate,sat TURDAŞ; comuna TURDAŞ,,sec. XV - XVIII
 481,HD-II-m-B- 00377.01,Biserica reformată,sat TURDAŞ; comuna TURDAŞ,,sec. XV - XVIII
-482,HD-II-m-B- 00377.02,Zid de incintă,sat TURDAŞ; comuna TURDAŞ TURDAŞ,,sec. XV - XVIII
+482,HD-II-m-B- 00377.02,Zid de incintă,sat TURDAŞ; comuna TURDAŞ,,sec. XV - XVIII
+483,HD-II-a-B-03470,Ansamblul rural Turdaş,sat TURDAŞ; comuna TURDAŞ,Întreaga localitate,sf. sec. XIX - înc. sec. XX
 484,HD-II-m-B-03471,"Biserica ""Sf. Nicolae""",sat UIBĂREŞTI; comuna RIBIŢA,23,sec. XIX
 485,HD-II-m-A-03472,"Biserica de lemn ""Sf. Nicolae""",sat VĂLARI; comuna TOPLIŢA,,sec. XVII
 486,HD-II-m-A-03473,"Biserica de lemn ""Sf. Arhangheli""",sat VĂLIŞOARA; comuna BALŞA,,1787
@@ -455,7 +493,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 492,HD-II-a-B-03477,Ansamblul rural din zona centrală a satului,sat ZAM; comuna ZAM,"Zona centrală a satului, lângă parcul castelului, incluzând casele cu nr. 226- 246",sf. sec. XVIII - înc. sec. XX
 493,HD-III-m-B-03478,Statuia lui Decebal,municipiul DEVA,"Bd. 1 Decembrie 1918 39A, , la intrarea în parcul oraşului",prima jum. a sec. XX
 494,HD-III-m-B-03479,Monumentul lui Aurel Vlaicu,sat aparţinător AUREL VLAICU; oraş GEOAGIU,În faţa casei memoriale Aurel Vlaicu,sec. XX
-495,HD-III-m-B-03480,Bustul lui Avram Iancu,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,"În centru, în parc, în faţa fostei clădiri a Prefecturii Comitatului Ţării",sec. XX
+495,HD-III-m-B-03480,Bustul lui Avram Iancu,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,"În centru, în parc, în faţa fostei clădiri a Prefecturii Comitatului Ţării Zarandului",sec. XX
 496,HD-III-m-B-03484,Bustul lui Avram Iancu,sat BAIA DE CRIŞ; comuna BAIA DE CRIŞ,"În curtea Şcolii generale ""Avram Iancu""",1934
 497,HD-III-m-B-03481,Bustul lui Crişan,municipiul BRAD,"Str. Liceului 18, , în curtea liceului „Avram Iancu”",1934
 498,HD-III-m-B-03482,Bustul lui Crişan,sat CRIŞAN; comuna RIBIŢA,"50, , în curtea casei memoriale",1934
@@ -467,7 +505,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 504,HD-IV-m-B-03489,Troiţă de lemn în memoria eroilor din primul război mondial,sat BOIU DE JOS; comuna GURASADA,,1916 - 1918
 505,HD-IV-m-B-03490,Troiţă,sat BUCEŞ; comuna BUCEŞ,,1934
 506,HD-IV-m-B-03491,Casa natală Crişan (Marcu Giurgiu),sat CRIŞAN; comuna RIBIŢA,50,"sec. XVIII, reconstruită 1978"
-507,HD-IV-m-B-03492,Troiţă,sat CRIŞCIOR; comuna CRIŞCIOR BUCUREŞCI,Calea Zarandului,1934
+507,HD-IV-m-B-03492,Troiţă,sat CRIŞCIOR; comuna CRIŞCIOR,Calea Zarandului,1934
+508,HD-IV-m-B-03493,Troiţă,sat CURECHIU; comuna BUCUREŞCI,,1934
 509,HD-IV-m-B-03494,Cruce memorială,sat GHELARI; comuna GHELARI,,1916 - 1918
 510,HD-IV-m-B-03495,Troiţă,sat aparţinător MESTEACĂN; municipiul BRAD,Parcarea de lângă DN 79,1934
 511,HD-IV-m-B-03496,Troiţă,sat MIHĂILENI; comuna BUCEŞ,,1934

@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,CJ-I-s-B-06921,Oraşul antic şi medieval,municipiul CLUJ- NAPOCA,Parcul arh.Deleu şi Parcul Caragiale,
 2,CJ-I-m-B-06921.01,Ruine edificii - oraşul antic medieval,şi municipiul CLUJ- NAPOCA,Parcul arh.Deleu şi Parcul Caragiale,Epoca medievală
 3,CJ-I-m-B-06921.02,Zid de incintă - oraşul antic medieval,şi municipiul CLUJ- NAPOCA,Parcul arh.Deleu şi Parcul Caragiale,Epoca medievală
 4,CJ-I-m-B-06921.03,Zid de incintă - oraşul antic medieval,şi municipiul CLUJ- NAPOCA,Parcul arh. Deleu şi Parcul Caragiale,sec. II - III p. Chr.
@@ -7,7 +8,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 7,CJ-I-m-B-06921.06,Edificii romane cu sistem încălzire de tip hypocaust antic şi medieval,de municipiul CLUJ- - oraşul NAPOCA,Piaţa Muzeului,Epoca romană
 8,CJ-I-m-B-06921.07,Oraşul antic şi medieval,municipiul CLUJ- NAPOCA,Piaţa Victoriei şi Piaţa Ştefan Mare,"cel Neolitic, grupul cultural Iclod"
 9,CJ-I-s-B-06922,Necropolă,municipiul CLUJ- NAPOCA,"""La Cărămidărie”",sec. VI
-10,CJ-I-s-B-06923,"Situl arheologic de la Cluj-Napoca, punct ""La Stăvilar”",municipiul CLUJ- NAPOCA NAPOCA,"""La Stăvilar”",
+10,CJ-I-s-B-06923,"Situl arheologic de la Cluj-Napoca, punct ""La Stăvilar”",municipiul CLUJ- NAPOCA,"""La Stăvilar”",
+11,CJ-I-m-B-06923.01,Aşezare,municipiul CLUJ- NAPOCA,"""La Stăvilar”",Epoca migraţiilor
 12,CJ-I-m-B-06923.02,Aşezare,municipiul CLUJ- NAPOCA,"""La Stăvilar”",Epoca romană
 13,CJ-I-m-B-06923.03,Aşezare,municipiul CLUJ- NAPOCA,"""La Stăvilar”",Hallstatt
 14,CJ-I-m-B-06923.04,Aşezare,municipiul CLUJ- NAPOCA,"""La Stăvilar”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
@@ -18,7 +20,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 19,CJ-I-m-B-06924.02,Aşezare fortificată,municipiul CLUJ- NAPOCA,"""Calvaria”","sec. IX - XI, Epoca medieval timpurie"
 20,CJ-I-s-B-06925,Tumuli,municipiul CLUJ- NAPOCA,În pădurea Făget,Preistorie
 21,CJ-I-s-B-06926,"Situl arheologic de la Cluj-Napoca, punct ""Someşeni - Băi”",municipiul CLUJ- NAPOCA,"""Someşeni - Băi”",
-22,CJ-I-m-B-06926.01,Aşezare,municipiul CLUJ- NAPOCA NAPOCA,"""Someşeni - Băi”",Epoca medievală timpurie
+22,CJ-I-m-B-06926.01,Aşezare,municipiul CLUJ- NAPOCA,"""Someşeni - Băi”",Epoca medievală timpurie
+23,CJ-I-m-B-06926.02,Aşezare,municipiul CLUJ- NAPOCA,"""Someşeni - Băi”",sec. II - III p. Chr.
 24,CJ-I-m-B-06926.03,Aşezare,municipiul CLUJ- NAPOCA,"""Someşeni - Băi”",Latène
 25,CJ-I-s-B-06927,"Situl arheologic de la Cluj-Napoca, punct ""Someşeni - Aeroport”",municipiul CLUJ- NAPOCA,"""Someşeni - Aeroport”",
 26,CJ-I-m-B-06927.01,Aşezare,municipiul CLUJ- NAPOCA,"""Someşeni - Aeroport”",sec. IV - V
@@ -29,7 +32,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 31,CJ-I-m-B-06929.02,Necropolă,municipiul CLUJ- NAPOCA,Str. Corneliu Coposu,Epoca bronzului
 32,CJ-I-s-B-06930,Aşezare,municipiul CLUJ- NAPOCA,Str.Fântânele,Neolitic
 33,CJ-I-s-B-06932,Necropolă,municipiul CLUJ- NAPOCA,Colţul str. Titulescu- str. Brâncuşi,sec. IV p. Chr.
-34,CJ-I-s-B-06934,Aşezare fortificată,sat AGHIREŞU; AGHIREŞU AGHIREŞU,"comuna ""Dealul Tucas” (""Hudia”)",Preistorie
+34,CJ-I-s-B-06934,Aşezare fortificată,sat AGHIREŞU; AGHIREŞU,"comuna ""Dealul Tucas” (""Hudia”)",Preistorie
+35,CJ-I-s-B-06935,Aşezare fortificată,sat AGHIREŞU; AGHIREŞU,"comuna Dealul ""La Stoguri”",Latène
 36,CJ-I-s-B-06936,Aşezare,sat AGHIREŞU; AGHIREŞU,"comuna ""Căpranţa” şi ""Iarba Căprenţii”",Epoca romană
 37,CJ-I-s-B-06937,"Situl arheologic de la Aiton, ""Şurilor”",punct sat AITON; comuna AITON,"""Şurilor”",
 38,CJ-I-m-B-06937.01,Aşezare,sat AITON; comuna AITON,"""Şurilor”","Epoca bronzului, Cultura Sighişoara Wietenberg"
@@ -40,7 +44,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 43,CJ-I-m-B-06938.03,Aşezare,sat AITON; comuna AITON,"""Deasupra Morii”",Preistorie
 44,CJ-I-s-A-06939,"Situl arheologic de la Aiton, ""Între pâraie”",punct sat AITON; comuna AITON,"""Între pâraie”",
 45,CJ-I-m-A-06939.01,Aşezare,sat AITON; comuna AITON,"""Între pâraie”","Epoca bronzului, Cultura Sighişoara Wietenberg"
-46,CJ-I-m-A-06939.02,Aşezare,sat AITON; comuna AITON AITON,"""Între pâraie”","Eneolitic, Cultura Tiszapolgár cultural Iclod"
+46,CJ-I-m-A-06939.02,Aşezare,sat AITON; comuna AITON,"""Între pâraie”","Eneolitic, Cultura Tiszapolgár"
+47,CJ-I-m-A-06939.03,Aşezare,sat AITON; comuna AITON,"""Între pâraie”","Neolitic, grupul cultural Iclod"
 48,CJ-I-s-B-06940,Vestigiile drumului Napoca Potaissa,- sat AITON; comuna AITON,"""La cruci”",Epoca romană
 49,CJ-I-s-B-06941,Aşezare,sat APAHIDA; APAHIDA,"comuna ""Faţa Merezii""",Preistorie
 50,CJ-I-s-B-06942,"Situl arheologic de la Apahida, punct ""După deal, la tău”",sat APAHIDA; APAHIDA,"comuna ""După deal , la tău”, ""Cocor”, ""Dărăuaş”, ""Râtul satului”",
@@ -51,7 +56,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 55,CJ-I-m-B-06943.02,Necropolă,sat APAHIDA; APAHIDA,"comuna În dreptul km 3,0 şi 3,1 ai ferate Apahida-Dej",căii Latène
 56,CJ-I-s-A-06944,Villa rustica,sat APAHIDA; APAHIDA,"comuna ""Tarcea Mică”",sec. II.III p. Chr.
 57,CJ-I-s-A-06945,Aşezare,sat APAHIDA; APAHIDA,"comuna Dealul ""Păduriţa”, pe platoul larg de deasupra versantului",sec. II - III p. Chr.
-58,CJ-I-s-A-06946,"Necropolă punct ""Cremeniş”, ""Cânepişte”",sat APAHIDA; APAHIDA comuna SUATU,"comuna Vatra satului, lângă punct control circulaţie Oii”",sec. V - VI
+58,CJ-I-s-A-06946,Necropolă,sat APAHIDA; APAHIDA,"comuna Vatra satului, lângă punct control circulaţie",sec. V - VI
+59,CJ-I-s-B-06947,"Situl arheologic de la Aruncuta, punct ""Cremeniş”, ""Cânepişte”",sat ARUNCUTA; comuna SUATU,"""Cremeniş”, ""Cânepişte”, Oii”","""Râtu"
 60,CJ-I-m-B-06947.01,Aşezare,sat ARUNCUTA; comuna SUATU,"""Cremeniş”, ""Cânepişte”, Oii”","""Râtu sec. II - III p. Chr., Epoca romană"
 61,CJ-I-m-B-06947.02,Aşezare,sat ARUNCUTA; comuna SUATU,"""Cremeniş”, ""Cânepişte”, Oii”","""Râtu Perioada de tranziţie la epoca bronzului, Cultura Coţofeni, faza III"
 62,CJ-I-s-A-06948,"Situl arheologic de la Aşchileu, punct ""dealul Grecea”",sat AŞCHILEU comuna AŞCHILEU,"MARE; Dealul ""Grecea”",
@@ -62,7 +68,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 67,CJ-I-m-A-06949.02,Aşezare,sat BACIU; comuna BACIU,"""Gura Baciului”",Neolitic
 68,CJ-I-s-B-06950,"Situl arheologic de la Baciu, ""Baciu-centru""",punct sat BACIU; comuna BACIU,"Intravilan, centrul localităţii",
 69,CJ-I-m-B-06950.01,Aşezare,sat BACIU; comuna BACIU,"Intravilan, centrul localităţii",Epoca medievală
-70,CJ-I-m-B-06950.02,Aşezare,sat BACIU; comuna BACIU BACIU,"Intravilan, centrul localităţii",Epoca migraţiilor
+70,CJ-I-m-B-06950.02,Aşezare,sat BACIU; comuna BACIU,"Intravilan, centrul localităţii",Epoca migraţiilor
+71,CJ-I-m-B-06950.03,Aşezare,sat BACIU; comuna BACIU,"Intravilan, centrul localităţii",Epoca romană
 72,CJ-I-m-B-06950.04,Aşezare,sat BACIU; comuna BACIU,"Intravilan, centrul localităţii",Hallstatt
 73,CJ-I-m-B-06950.05,Aşezare,sat BACIU; comuna BACIU,"intravilan, centrul localităţii",Neolitic
 74,CJ-I-s-B-06951,Aşezare,sat BACIU; comuna BACIU,"La vest de sat, în direcţia localităţilor Rădaia şi Suceag",Latène
@@ -74,7 +81,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 80,CJ-I-m-B-06954.01,Aşezare,sat BACIU; comuna BACIU,Lângă cariera de piatră Băştărău,Epoca medievală
 81,CJ-I-m-B-06954.02,Aşezare,sat BACIU; comuna BACIU,Lângă cariera de piatră Băştărău,Epoca romană
 82,CJ-I-s-B-06955,Aşezare,sat BACIU; comuna BACIU,"""Sântion”, pe dealul de la sat",N de Epoca medievală
-83,CJ-I-s-A-06956,"Situl arheologic de la Baciu, ""Strada Nouă”",punct sat BACIU; comuna BACIU BACIU,"Intravilan, punct ""Strada Nouă” ""Strada Nouă”",
+83,CJ-I-s-A-06956,"Situl arheologic de la Baciu, ""Strada Nouă”",punct sat BACIU; comuna BACIU,"Intravilan, punct ""Strada Nouă”",
+84,CJ-I-m-A-06956.01,Aşezare,sat BACIU; comuna BACIU,"Str. Nouă; Intravilan şi islaz, ""Strada Nouă”",Epoca medievală
 85,CJ-I-m-A-06956.02,Aşezare,sat BACIU; comuna BACIU,"Str. Nouă; Intravilan şi islaz, ""Strada Nouă”",Epoca medievală timpurie
 86,CJ-I-m-A-06956.03,Aşezare,sat BACIU; comuna BACIU,"Str. Nouă; Intravilan şi islaz, ""Strada Nouă”",sec. II - III p. Chr.
 87,CJ-I-m-A-06956.04,Aşezare,sat BACIU; comuna BACIU,"Str. Nouă; Intravilan şi islaz, ""Strada Nouă”",Latène
@@ -86,7 +94,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 93,CJ-I-s-B-06957,"Situl arheologic de la Batin, ""La Cetăţele”",punct sat BATIN; comuna UNGURAŞ,"""La Cetăţele”",
 94,CJ-I-m-B-06957.01,Aşezare,sat BATIN; comuna UNGURAŞ,"""La Cetăţele”",Latène
 95,CJ-I-m-B-06957.02,Aşezare,sat BATIN; comuna UNGURAŞ,"""La Cetăţele”",Hallstatt
-96,CJ-I-s-B-06958,"Situl arheologic de la Băbuţiu, punct ""Grecea” - ""Şanţul",sat BĂBUŢIU; Grecilor” VULTURENI VULTURENI,"comuna ""Grecea” - ""Şanţul Grecilor”",
+96,CJ-I-s-B-06958,"Situl arheologic de la Băbuţiu, punct ""Grecea” - ""Şanţul",sat BĂBUŢIU; Grecilor” VULTURENI,"comuna ""Grecea” - ""Şanţul Grecilor”",
+97,CJ-I-m-B-06958.01,Aşezare,sat BĂBUŢIU; VULTURENI,"comuna ""Grecea” - ""Şanţul Grecilor”",sec.V - VI
 98,CJ-I-m-B-06958.02,Aşezare fortificată,sat BĂBUŢIU; VULTURENI,"comuna ""Grecea” - ""Şanţul Grecilor”",Epoca bronzului
 99,CJ-I-s-B-06959,"Situl arheologic de la Bădeni, "" Movila Dâmb”",punct sat BĂDENI; comuna MOLDOVENEŞTI,"Movila ""Dâmb”",
 100,CJ-I-m-B-06959.01,Aşezare,sat BĂDENI; comuna MOLDOVENEŞTI,"Movila ""Dâmb”",Epoca medievală
@@ -97,7 +106,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 105,CJ-I-m-B-06959.06,Aşezare,sat BĂDENI; comuna MOLDOVENEŞTI,"Movila ""Dâmb”","Neolitic, Cultura Starčevo-Criş"
 106,CJ-I-s-A-06960,Aşezare,sat BĂDENI; comuna MOLDOVENEŞTI,"""Dealul Pad”",sec. IV p. Chr.
 107,CJ-I-s-A-06961,Aşezare,sat BĂDENI; comuna MOLDOVENEŞTI,"""Apa Sărată”",Hallstatt
-108,CJ-I-s-A-06962,Aşezare,sat BĂDEŞTI; VULTURENI AGHIREŞU,"comuna ""La Tiglă” intravilanului",
+108,CJ-I-s-A-06962,Aşezare,sat BĂDEŞTI; VULTURENI,"comuna ""La Tiglă”",
+109,CJ-I-s-B-06963,Aşezare,sat BĂGARA; AGHIREŞU,comuna La 350m V de limita intravilanului,Epoca romană
 110,CJ-I-s-B-06964,Aşezare,localitatea BĂIŢA; GHERLA,"oraş Intravilan, vatra satului",Neolitic
 111,CJ-I-s-B-06965,"Situl arheologic Băiţa, punct stâng al Someşului""","""Malul localitatea BĂIŢA; GHERLA",oraş Malul stâng al Someşului,"sec. II - III p. Chr., Epoca romană"
 112,CJ-I-m-B-06965.01,Aşezare,localitatea BĂIŢA; GHERLA,oraş Malul stâng al Someşului,sec. II - III p. Chr.
@@ -108,7 +118,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 117,CJ-I-m-A-06967.02,Aşezare,localitatea BĂIŢA; GHERLA,"oraş ""Bumaş”",Epoca migraţiilor
 118,CJ-I-m-A-06967.03,Aşezare,localitatea BĂIŢA; GHERLA,"oraş ""Bumaş”",Hallstatt
 119,CJ-I-m-A-06967.04,Aşezare,localitatea BĂIŢA; GHERLA,"oraş ""Bumaş”",Epoca bronzului
-120,CJ-I-m-A-06967.05,Aşezare,localitatea BĂIŢA; GHERLA GHERLA,"oraş ""Bumaş”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
+120,CJ-I-m-A-06967.05,Aşezare,localitatea BĂIŢA; GHERLA,"oraş ""Bumaş”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
+121,CJ-I-m-A-06967.06,Aşezare,localitatea BĂIŢA; GHERLA,"oraş ""Bumaş”",Neolitic
 122,CJ-I-s-B-06968,Ruine fortificaţie,sat BEDECIU; MĂNĂSTIRENI,"comuna ""Cetate""",Epoca medievală
 123,CJ-I-s-A-06969,Ruine,localitatea BICĂLATU; oraş HUEDIN,"""Cetatea lupilor”",Epoca medievală
 124,CJ-I-s-A-06970,Aşezare fortificată,sat BOBÂLNA; BOBÂLNA,"comuna ""Dealul Bobâlna”",Hallstatt
@@ -120,7 +131,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 130,CJ-I-s-B-06974,Aşezare,sat BOLDUŢ; CEANU MARE,"comuna Intravilan, pe malul drept Horgoş",al văii Epoca romană
 131,CJ-I-s-A-06975,Castrul şi vicus-ul militar,Bologa sat BOLOGA; POIENI,"comuna ""Grădişte”",sec. II - III p. Chr.
 132,CJ-I-m-A-06975.01,Castrul de trupe auxiliare,Bologa sat BOLOGA; POIENI,"comuna ""Grădişte”",sec. II - III p. Chr.
-133,CJ-I-m-A-06975.02,Vicus-ul militar de pe lângă de trupe auxiliare de la Bologa a limesului Daciei în sectorul,castrul sat BOLOGA; POIENI POIENI,"comuna ""Grădişte”",sec. II - III p. Chr.
+133,CJ-I-m-A-06975.02,Vicus-ul militar de pe lângă de trupe auxiliare de la Bologa,castrul sat BOLOGA; POIENI,"comuna ""Grădişte”",sec. II - III p. Chr.
+134,CJ-I-s-A-06976,Sistem de supraveghere şi a limesului Daciei în sectorul castrului de la Bologa,apărare sat BOLOGA; POIENI,comuna,Epoca romană
 135,CJ-I-m-A-06976.01,Turn,sat BOLOGA; POIENI,"comuna ""Măgura Bologii”",
 136,CJ-I-m-A-06976.02,Turn,sat BOLOGA; POIENI,"comuna ""Bonciului”",
 137,CJ-I-m-A-06976.03,Turn,sat BOLOGA; POIENI,"comuna ""Rimbuşoi”",
@@ -131,7 +143,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 142,CJ-I-m-B-06977.01,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"""Brohanci”",Epoca migraţiilor
 143,CJ-I-m-B-06977.02,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"""Brohanci”",Epoca romană
 144,CJ-I-m-B-06977.03,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"""Brohanci”",Epoca bronzului
-145,CJ-I-s-A-06978,"Aşezare ""Valea Hocereghii""",sat BONŢ; comuna FIZEŞU GHERLII FIZEŞU GHERLII,"""Bucutir”",Neolitic
+145,CJ-I-s-A-06978,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"""Bucutir”",Neolitic
+146,CJ-I-s-B-06979,"Situl arheologic de la Bonţ, ""Valea Hocereghii""",punct sat BONŢ; comuna FIZEŞU GHERLII,"Izvoarele din ""Valea Hocereghii""",
 147,CJ-I-m-B-06979.01,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"Izvoarele din ""Valea Hocereghii""",Hallstatt
 148,CJ-I-m-B-06979.02,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"Izvoarele din ""Valea Hocereghii""",Epoca bronzului
 149,CJ-I-m-B-06979.03,Aşezare,sat BONŢ; comuna FIZEŞU GHERLII,"Izvoarele din ""Valea Hocereghii""","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
@@ -141,7 +154,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 153,CJ-I-m-B-06981.02,Aşezare,sat BONŢIDA; BONŢIDA,"comuna ""Nerveghiu”",Hallstatt
 154,CJ-I-m-B-06981.03,Aşezare,sat BONŢIDA; BONŢIDA,"comuna ""Nerveghiu”",Epoca bronzului
 155,CJ-I-m-B-06981.04,Aşezare,sat BONŢIDA; BONŢIDA,"comuna ""Nerveghiu”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
-156,CJ-I-m-B-06981.05,Necropolă tumulară,sat BONŢIDA; BONŢIDA BORŞA,"comuna ""Nerveghiu”",Preistorie
+156,CJ-I-m-B-06981.05,Necropolă tumulară,sat BONŢIDA; BONŢIDA,"comuna ""Nerveghiu”",Preistorie
+157,CJ-I-s-B-06982,Şir de tumuli,sat BORŞA; comuna BORŞA,Dealurile din dreapta văii,Borşa Preistorie
 158,CJ-I-s-B-06983,"Situl arheologic de la Borşa, ""Extravilan""",punct sat BORŞA; comuna BORŞA,Extravilan,
 159,CJ-I-m-B-06983.01,Aşezare,sat BORŞA; comuna BORŞA,Extravilan,Epoca bronzului
 160,CJ-I-m-B-06983.02,Aşezare,sat BORŞA; comuna BORŞA,Dealurile din dreapta văii,"Borşa Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
@@ -152,7 +166,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 165,CJ-I-m-A-06986.02,Aşezare,sat BUZA; comuna BUZA,"""După Lab”",Latène
 166,CJ-I-m-A-06986.03,Aşezare,sat BUZA; comuna BUZA,"""După Lab”",Hallstatt
 167,CJ-I-m-A-06986.04,Aşezare,sat BUZA; comuna BUZA,"""După Lab”",Epoca bronzului
-168,CJ-I-s-B-06987,"Situl arheologic de la Buza, ""Dosul Tăpieşului”",punct sat BUZA; comuna BUZA BUZA,"""Dosul Tăpieşului”",
+168,CJ-I-s-B-06987,"Situl arheologic de la Buza, ""Dosul Tăpieşului”",punct sat BUZA; comuna BUZA,"""Dosul Tăpieşului”",
+169,CJ-I-m-B-06987.01,Aşezare,sat BUZA; comuna BUZA,"""Dosul Tăpieşului”",Epoca bronzului
 170,CJ-I-m-B-06987.02,Aşezare,sat BUZA; comuna BUZA,"""Dosul Tăpieşului”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 171,CJ-I-m-B-06987.03,Aşezare,sat BUZA; comuna BUZA,"""Dosul Tăpieşului”",Neolitic
 172,CJ-I-s-B-06988,"Situl arheologic de la Căianu, ""Valea Căianului - Valea Largă""",punct sat CĂIANU; CĂIANU,"comuna ""Valea Căianului-Valea Largă""",
@@ -163,7 +178,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 177,CJ-I-m-A-06989.02,Aşezare,sat CĂIANU; CĂIANU,"comuna ""Dijmaşii”",Epoca romană
 178,CJ-I-m-A-06989.03,Aşezare,sat CĂIANU; CĂIANU,"comuna ""Dijmaşii”",Preistorie
 179,CJ-I-s-A-06990,Aşezare,sat CĂIANU; CĂIANU,"comuna ""La Feredeu”",sec. II - III p. Chr.
-180,CJ-I-s-A-06992,Aşezare,sat CĂLATA; CĂLĂŢELE CĂLĂRAŞI,"comuna ""Vârful Gilmeii”",Neolitic
+180,CJ-I-s-A-06992,Aşezare,sat CĂLATA; CĂLĂŢELE,"comuna ""Vârful Gilmeii”",Neolitic
+181,CJ-I-s-A-06991,Aşezare,sat CĂLĂRAŞI; CĂLĂRAŞI,"comuna ""Bogat”",Epoca romană
 182,CJ-I-s-A-06993,"Situl arheologic de la Căprioara, punct ""Sălişte”",sat CĂPRIOARA; comuna RECEA- CRISTUR,"”""Sălişte”",
 183,CJ-I-m-A-06993.01,Aşezare,sat CĂPRIOARA; comuna RECEA- CRISTUR,"""Sălişte”",Epoca migraţiilor
 184,CJ-I-m-A-06993.02,Aşezare,sat CĂPRIOARA; comuna RECEA- CRISTUR,"""Sălişte”",Epoca romană
@@ -172,7 +188,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 187,CJ-I-s-A-06995,"Situl arheologic de la Căpuşu punct ""Cânepişte”","Mare, sat CĂPUŞU MARE; comuna CĂPUŞU","""Cânepişte” MARE",
 188,CJ-I-m-A-06995.01,Necropolă,sat CĂPUŞU MARE; comuna CĂPUŞU,"""Cânepişte” MARE",sec. VI
 189,CJ-I-m-A-06995.02,Aşezare,sat CĂPUŞU MARE; comuna CĂPUŞU,"""Cânepişte” MARE",Epoca bronzului
-190,CJ-I-s-B-06996,Castrul şi vicus-ul militar,Căşei sat CĂŞEIU; comuna CĂŞEIU CĂŞEIU,"""Cetăţele”",sec. II - III p. Chr. Epoca romană
+190,CJ-I-s-B-06996,Castrul şi vicus-ul militar,Căşei sat CĂŞEIU; comuna CĂŞEIU,"""Cetăţele”",sec. II - III p. Chr.
+191,CJ-I-m-B-06996.01,Castrul de trupe auxiliare,Căşei sat CĂŞEIU; comuna CĂŞEIU,"""Cetăţele”","sec. II - III p. Chr., Epoca romană"
 192,CJ-I-m-B-06996.02,Vicus-ul militar de pe lângă de trupe auxiliare de la Căşei,castrul sat CĂŞEIU; comuna CĂŞEIU,"""Cetăţele”","sec. II - III p. Chr., Epoca romană"
 193,CJ-I-m-B-06996.03,Aşezare,sat CĂŞEIU; comuna CĂŞEIU,"""Cetăţele”",Epoca bronzului
 194,CJ-I-s-B-06997,Tumuli,sat CÂMPENEŞTI; comuna APAHIDA,"""Măgheruş”",
@@ -184,7 +201,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 200,CJ-I-s-B-07003,"Situl arheologic de la Cheile punct ""Dealul Alb""","Turzii, oraş CHEILE TURZII","""Dealul Alb""",
 201,CJ-I-m-B-07003.01,Aşezare,oraş CHEILE TURZII,"""Dealul Alb""",Epoca migraţiilor
 202,CJ-I-m-B-07003.02,Aşezare,oraş CHEILE TURZII,"""Dealul Alb""",Preistorie
-203,CJ-I-s-A-07004,"Situl arheologic de la Chinteni, punct ""Dealul Tulgheş”",sat CHINTENI; CHINTENI CHINTENI,"comuna ""Dealul Tulgheş”", medievală timpurie
+203,CJ-I-s-A-07004,"Situl arheologic de la Chinteni, punct ""Dealul Tulgheş”",sat CHINTENI; CHINTENI,"comuna ""Dealul Tulgheş”",
+204,CJ-I-m-A-07004.01,Aşezare,sat CHINTENI; CHINTENI,"comuna ""Dealul Tulgheş”","sec. IX - XIII, Epoca medievală timpurie"
 205,CJ-I-m-A-07004.02,Aşezare,sat CHINTENI; CHINTENI,"comuna ""Dealul Tulgheş”","sec.V - VI, Epoca migraţiilor"
 206,CJ-I-m-A-07004.03,Villa rustica,sat CHINTENI; CHINTENI,"comuna ""Dealul Tulgheş”",Epoca romană
 207,CJ-I-m-A-07004.04,Aşezare,sat CHINTENI; CHINTENI,"comuna ""Dealul Tulgheş”","Eneolitic, grupul Iclod, faza III"
@@ -196,7 +214,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 213,CJ-I-m-A-07006.03,Aşezare,sat CHINTENI; CHINTENI,"comuna ""Polog”","Neolitic, grupul Iclod"
 214,CJ-I-s-B-07007,Aşezare,sat CIUMĂFAIA; comuna BORŞA,"""La Măzărişte”, ""Haţold”",Preistorie
 215,CJ-I-s-B-07008,"Situl arheologic de la Ciumăfaia, punct dealul ""Dombor”",sat CIUMĂFAIA; comuna BORŞA,"Dealul ""Dombor”",
-216,CJ-I-m-B-07008.01,Ruine,sat CIUMĂFAIA; comuna BORŞA comuna BORŞA,"Dealul ""Dombor”",Epoca romană
+216,CJ-I-m-B-07008.01,Ruine,sat CIUMĂFAIA; comuna BORŞA,"Dealul ""Dombor”",Epoca romană
+217,CJ-I-m-B-07008.02,Aşezare,sat CIUMĂFAIA; comuna BORŞA,"Dealul ""Dombor”",Epoca bronzului
 218,CJ-I-s-A-07009,Aşezare,sat CIUMĂFAIA; comuna BORŞA,"""Păluta”",Epoca romană
 219,CJ-I-s-B-07010,Aşezare,sat COJOCNA; COJOCNA,"comuna ""Hăciug” şi ""Tăbărişte”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 220,CJ-I-s-A-07011,"Situl arheologic de la Cojocna, punct ""Ghiurbărc”",sat COJOCNA; COJOCNA,"comuna ""Ghiurbărc”",
@@ -207,7 +226,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 225,CJ-I-s-B-07014,Tumuli,sat COMŞEŞTI; TURENI,"comuna ""Castăi”",Preistorie
 226,CJ-I-s-A-07015,"Situl arheologic de la Copăceni- Sănduleşti, punct 1",sat COPĂCENI; SĂNDULEŞTI,"comuna La ieşirea din Copăceni, către Cheile Turenilor",
 227,CJ-I-m-A-07015.01,Aşezare,sat COPĂCENI; SĂNDULESTI,"comuna La ieşirea din Copăceni, către Cheile Turenilor",Epoca bronzului
-228,CJ-I-m-B-07015.02,"Aşezare Sănduleşti, punct ""Ciurgău”",sat COPĂCENI; SĂNDULESTI SĂNDULEŞTI,"comuna La ieşirea din Copăceni, către Cheile Turenilor",Neolitic
+228,CJ-I-m-B-07015.02,Aşezare,sat COPĂCENI; SĂNDULESTI,"comuna La ieşirea din Copăceni, către Cheile Turenilor",Neolitic
+229,CJ-I-s-B-07016,"Situl arheologic de la Copăceni- Sănduleşti, punct ""Ciurgău”",sat COPĂCENI; SĂNDULEŞTI,"comuna ""Ciurgău”",
 230,CJ-I-m-B-07016.01,Aşezare,sat COPĂCENI; SĂNDULEŞTI,"comuna ""Ciurgău”",Epoca medievală
 231,CJ-I-m-B-07016.02,Aşezare,sat COPĂCENI; SĂNDULEŞTI,"comuna ""Ciurgău”",Epoca romană
 232,CJ-I-m-B-07016.03,Aşezare,sat COPĂCENI; SĂNDULEŞTI,"comuna ""Ciurgău”",Preistorie
@@ -219,7 +239,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 238,CJ-I-s-B-07020,"Situl arheologic de la Corneşti, punct ""Pârâul Hăşdate""",sat CORNEŞTI; MIHAI VITEAZU,"comuna La N-V de sat, pe partea stângă a pârâului Hăşdate",
 239,CJ-I-m-B-07020.01,Aşezare,sat CORNEŞTI; MIHAI VITEAZU,"comuna La N-V de sat, pe partea stângă a pârâului Hăşdate",Epoca migraţiilor
 240,CJ-I-m-B-07020.02,Aşezare,sat CORNEŞTI; MIHAI VITEAZU,"comuna La nord-vest de sat, pe partea stângă a pârâului Hăşdate",Epoca bronzului
-241,CJ-I-s-A-07021,"Aşezare punct ""Intravilan""",sat CORPADEA; APAHIDA APAHIDA,"comuna ""Ciungui”",Epoca bronzului
+241,CJ-I-s-A-07021,Aşezare,sat CORPADEA; APAHIDA,"comuna ""Ciungui”",Epoca bronzului
+242,CJ-I-s-B-07022,"Situl arheologic de la Corpadea, punct ""Intravilan""",sat CORPADEA; APAHIDA,comuna Intravilan,
 243,CJ-I-m-B-07022.01,Aşezare,sat CORPADEA; APAHIDA,comuna Intravilan,Epoca migraţiilor
 244,CJ-I-m-B-07022.02,Aşezare,sat CORPADEA; APAHIDA,comuna Intravilan,Epoca romană
 245,CJ-I-s-A-07023,"Situl arheologic de la Cubleşu Someşan, punct ""Viile pustii”",sat CUBLEŞU SOMEŞAN; comuna PANTICEU,"""Viile pustii”",
@@ -228,7 +249,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 248,CJ-I-m-A-07023.03,Aşezare,sat CUBLEŞU SOMEŞAN; comuna PANTICEU,"""Viile pustii”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 249,CJ-I-m-A-07023.04,Aşezare,sat CUBLEŞU SOMEŞAN; comuna PANTICEU,"""Viile pustii”",Eneolitic
 250,CJ-I-s-A-07024,Aşezare fortificată,sat CUZDRIOARA; comuna CUZDRIOARA,În cimitirul reformat,Preistorie
-251,CJ-I-m-A-06937.03,Aşezare fortificată cu zid din piatră,de incintă sat DĂBÂCA; DĂBÂCA DĂBÂCA,"comuna ""Cetate”",sec. XI - XII
+251,CJ-I-m-A-06937.03,Aşezare fortificată cu zid din piatră,de incintă sat DĂBÂCA; DĂBÂCA,"comuna ""Cetate”",sec. XI - XII
+252,CJ-I-s-B-07025,Tumuli,sat DĂBÂCA; DĂBÂCA,"comuna ""La Tiglă”",Preistorie
 253,CJ-I-s-B-07026,Aşezare,sat DĂBÂCA; DĂBÂCA,"comuna ""Cătun”",Latène
 254,CJ-I-s-A-07027,Ansamblul fortificat Dăbâca,sat DĂBÂCA; DĂBÂCA,"comuna ""Cetate”",
 255,CJ-I-m-B-07027.01,Aşezare,sat DĂBÂCA; DĂBÂCA,"comuna ""Cetate”şi ""Pe şanţ”",sec. XII - XIV
@@ -241,6 +263,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 262,CJ-I-m-A-07030.01,Ruine pod roman,municipiul DEJ,"La V de oraş, în direcţia Jibou",Epoca romană
 263,CJ-I-m-A-07030.02,Drum roman,municipiul DEJ,"La V de oraş, în direcţia Jibou",Epoca romană
 264,CJ-I-s-A-07031,"Situl arheologic de la Dej, ""Dealul Rozelor”",punct municipiul DEJ,"""Dealul Rozelor”",
+265,CJ-I-m-A-07031.01,Cetate,municipiul DEJ,"""Dealul Rozelor”",Epoca medievală
 266,CJ-I-m-A-07031.02,Aşezare fortificată,municipiul DEJ,"""Dealul Rozelor”",Hallstatt
 267,CJ-I-s-B-07032,"Situl arheologic de la Deuşu, ""Apreşu de Jos”",punct sat DEUŞU; comuna CHINTENI,"""Apreşu de Jos”",
 268,CJ-I-m-B-07032.01,Aşezare,sat DEUŞU; comuna CHINTENI,"""Apreşu de Jos”",sec. II - III p. Chr.
@@ -252,7 +275,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 274,CJ-I-m-B-07035.02,Aşezare,sat DEZMIR; APAHIDA,"comuna ""La Butiu”, ""Ciuha”",Eneolitic
 275,CJ-I-s-A-07036,"Situl arheologic de la Dezmir, ""Tăuşor”",punct sat DEZMIR; APAHIDA,"comuna ""Tăuşor”",
 276,CJ-I-m-B-07036.01,Aşezare,sat DEZMIR; APAHIDA,"comuna ""Tăuşor”",Epoca medievală timpurie
-277,CJ-I-m-B-07036.02,Aşezare,sat DEZMIR; APAHIDA APAHIDA,"comuna ""Tăuşor” CFR",Hallstatt
+277,CJ-I-m-B-07036.02,Aşezare,sat DEZMIR; APAHIDA,"comuna ""Tăuşor”",Hallstatt
+278,CJ-I-s-A-07037,Necropolă,sat DEZMIR; APAHIDA,comuna La marginea de V a atelierelor CFR,Latène
 279,CJ-I-s-B-07038,Aşezare,sat DEZMIR; APAHIDA,"comuna ""Crişeni”, ""Sub Berc”",sec. II - III p. Chr.
 280,CJ-I-s-B-07039,Aşezare,sat DIVICIORII comuna SÂNMARTIN,"MARI; ""Grajduri”",Epoca bronzului
 281,CJ-I-s-B-07040,Aşezare,sat DOMOŞU; SÂNCRAIU,"comuna ""Vârful Turdanului”",Epoca bronzului
@@ -263,7 +287,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 286,CJ-I-s-A-07042,Aşezare,sat DOROLŢU; AGHIREŞU,"comuna ""Dâmbu Mic”",sec. VI - VII
 287,CJ-I-s-B-07043,Aşezare,sat DUMBRAVA; comuna CĂPUŞU,"""Valea Oşorheiului” MARE",Preistorie
 288,CJ-I-s-B-07044,Aşezare,sat DUMBRAVA; comuna CĂPUŞU,"""Budulău” MARE",Preistorie
-289,CJ-I-s-B-07045,"Tumuli punct ""Viloc”",sat FEIURDENI; CHINTENI CHINTENI,"comuna ""Ciup”",
+289,CJ-I-s-B-07045,Tumuli,sat FEIURDENI; CHINTENI,"comuna ""Ciup”",
+290,CJ-I-s-B-07046,"Situl arheologic de la Feiurdeni, punct ""Viloc”",sat FEIURDENI; CHINTENI,"comuna ""Viloc”",
 291,CJ-I-m-B-07046.01,Aşezare,sat FEIURDENI; CHINTENI,"comuna ""Viloc”",Epoca migraţiilor
 292,CJ-I-m-B-07046.02,Aşezare,sat FEIURDENI; CHINTENI,"comuna ""Viloc”",Hallstatt
 293,CJ-I-m-B-07046.03,Aşezare,sat FEIURDENI; CHINTENI,"comuna ""Viloc”",Epoca bronzului
@@ -274,7 +299,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 298,CJ-I-s-B-07048,Aşezare,sat FELDIOARA; comuna CĂTINA,"""Ciurgău”",Epoca bronzului
 299,CJ-I-s-B-07049,Tumul,sat FELDIOARA; comuna CĂTINA,"Extravilan, între satele Feldioara şi Cătina",
 300,CJ-I-s-B-07050,"Situl arheologic de la Floreşti, punct ""Tarişnes Dâmb”",sat FLOREŞTI; FLOREŞTI,"comuna ""Tarişnes Dâmb”",
-301,CJ-I-m-B-07050.01,Aşezare,sat FLOREŞTI; FLOREŞTI FLOREŞTI,"comuna ""Tarişnes Dâmb”",Epoca romană
+301,CJ-I-m-B-07050.01,Aşezare,sat FLOREŞTI; FLOREŞTI,"comuna ""Tarişnes Dâmb”",Epoca romană
+302,CJ-I-m-B-07050.02,Aşezare,sat FLOREŞTI; FLOREŞTI,"comuna ""Tarişnes Dâmb”",Neolitic
 303,CJ-I-s-A-07051,"Situl arheologic de la Floreşti, punct ""Labu” (""Cetatea Fetelor”)",sat FLOREŞTI; FLOREŞTI,"comuna ""Labu” (""Cetatea Fetelor”)",
 304,CJ-I-m-A-07051.01,Cetate,sat FLOREŞTI; FLOREŞTI,"comuna ""Labu” (""Cetatea Fetelor”)",sec. XIII - XIV
 305,CJ-I-m-B-07051.02,Aşezare,sat FLOREŞTI; FLOREŞTI,"comuna ""Labu” (""Cetatea Fetelor”)",sec. II - III p. Chr.
@@ -286,7 +312,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 311,CJ-I-s-B-07055,"Situl arheologic de la Gheorghieni, punct "" Dealul Cetăţii""",sat GHEORGHIENI; comuna FELEACU,"""Dealul Cetăţii""",
 312,CJ-I-m-B-07055.01,Aşezare fortificată,sat GHEORGHIENI; comuna FELEACU,"""Dealul Cetăţii""",Epoca medievală
 313,CJ-I-m-B-07055.02,Aşezare,sat GHEORGHIENI; comuna FELEACU,"""Dealul Cetăţii""",Hallstatt
-314,CJ-I-m-B-07055.03,"Aşezare punct ""Pusta Grofului”",sat GHEORGHIENI; comuna FELEACU comuna FELEACU,"""Dealul Cetăţii""",Epoca bronzului
+314,CJ-I-m-B-07055.03,Aşezare,sat GHEORGHIENI; comuna FELEACU,"""Dealul Cetăţii""",Epoca bronzului
+315,CJ-I-s-B-07056,"Situl arheologic de la Gheorghieni, punct ""Pusta Grofului”",sat GHEORGHIENI; comuna FELEACU,"""Pusta Grofului”",
 316,CJ-I-m-B-07056.01,Cimitir,sat GHEORGHIENI; comuna FELEACU,"""Pusta Grofului”",sec. X - XIII
 317,CJ-I-m-B-07056.02,Aşezare,sat GHEORGHIENI; comuna FELEACU,"""Pusta Grofului”",Epoca romană
 318,CJ-I-s-B-07057,Aşezare,sat GHEORGHIENI; comuna FELEACU,"""Măzărişte”, ""La Vii”",Epoca romană
@@ -298,6 +325,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 324,CJ-I-m-B-07059.04,Aşezare,oraş GHERLA,"Între canalul Morii şi DN Gherla- Cluj""","Epoca bronzului, Cultura Coţofeni"
 325,CJ-I-s-B-07060,"Situl arheologic de la Gherla, ""Terasa Lunca""",punct oraş GHERLA,"Terasa ""Lunca”",
 326,CJ-I-m-B-07060.01,Aşezare,oraş GHERLA,"Terasa ""Lunca”",Epoca romană
+327,CJ-I-m-B-07060.02,Aşezare,oraş GHERLA,"Terasa ""Lunca”",Latène
 328,CJ-I-m-B-07060.03,Aşezare,oraş GHERLA,"Terasa ""Lunca”",Epoca bronzului
 329,CJ-I-m-B-07060.04,Aşezare,oraş GHERLA,"Terasa ""Lunca”",Neolitic
 330,CJ-I-s-B-07061,Aşezare,oraş GHERLA,"""Valea Slatinei”, ""Fântâna Sărată”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
@@ -308,7 +336,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 335,CJ-I-s-A-07066,"Situl arheologic de la Gilău, ""Dâmbul ţiganilor”",punct sat GILĂU; comuna GILĂU,"""Dâmbul ţiganilor”",
 336,CJ-I-m-A-07066.01,Aşezare fortificată,sat GILĂU; comuna GILĂU,"""Dâmbul ţiganilor”",Latène
 337,CJ-I-m-B-07066.02,Aşezare,sat GILĂU; comuna GILĂU,"""Dâmbul ţiganilor”",Epoca bronzului
-338,CJ-I-s-B-07067,Aşezare,sat GILĂU; comuna GILĂU GILĂU,"""Pădurea Oraşului”",Latène
+338,CJ-I-s-B-07067,Aşezare,sat GILĂU; comuna GILĂU,"""Pădurea Oraşului”",Latène
+339,CJ-I-s-A-07068,Castrul şi vicus-ul militar,Gilău sat GILĂU; comuna GILĂU,Parcul dendrologic al castelului,sec. II - III p. Chr.
 340,CJ-I-m-A-07068.01,Castrul de trupe auxiliare Gilău,de la sat GILĂU; comuna GILĂU,Parcul dendrologic al castelului,sec. II - III p. Chr.
 341,CJ-I-m-B-07068.02,Vicus-ul militar de pe lângă de la Gilău,castrul sat GILĂU; comuna GILĂU,Parcul dendrologic al castelului,sec. II - III p. Chr.
 342,CJ-I-m-B-07068.03,Aşezare,sat GILĂU; comuna GILĂU,Parcul dendrologic al castelului,Preistorie
@@ -320,7 +349,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 348,CJ-I-s-A-07072,"Situl arheologic de la Gherla, ""Dealul Coasta”",punct localitatea HĂŞDATE; municipiul GHERLA,"La poalele dealului ""Coasta”",
 349,CJ-I-m-A-07072.01,Aşezare fortificată,localitatea HĂŞDATE; oraş GHERLA,"La poalele dealului ""Coasta”",Hallstatt
 350,CJ-I-m-A-07072.02,Aşezare fortificată,localitatea HĂŞDATE; oraş GHERLA,"La poalele dealului ""Coasta”",Epoca bronzului
-351,CJ-I-m-A-07072.03,Aşezare fortificată,localitatea HĂŞDATE; oraş GHERLA POIENI,"La poalele dealului ""Coasta”",Neolitic
+351,CJ-I-m-A-07072.03,Aşezare fortificată,localitatea HĂŞDATE; oraş GHERLA,"La poalele dealului ""Coasta”",Neolitic
+352,CJ-I-m-A-06976.07,Turn,sat HODIŞU; POIENI,"comuna ""Vârful Sonului”",Epoca romană
 353,CJ-I-m-A-06976.08,Turn,sat HODIŞU; POIENI,"comuna ""Vârful Râmbuşorului”",Epoca romană
 354,CJ-I-m-A-06976.09,Turn,sat HODIŞU; POIENI,"comuna ""Dosul Marcului”",Epoca romană
 355,CJ-I-s-A-07073,Aşezare fortificată,oraş HUEDIN,"""Prolic” sau ""Cetatea de pământ”",Hallstatt
@@ -332,7 +362,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 361,CJ-I-s-A-07079,Aşezarea eponimă fortificată grupului cultural Iclod,a sat ICLOD; comuna ICLOD,"""Unghiul Poştei”",Neolitic
 362,CJ-I-s-B-07080,"Situl arheologic de la Iclod, ""Tabla Popii”",punct sat ICLOD; comuna ICLOD,"""Tabla Popii”",
 363,CJ-I-m-B-07080.01,Aşezare,sat ICLOD; comuna ICLOD,"""Tabla Popii”",sec. II - III p. Chr.
-364,CJ-I-m-B-07080.02,Aşezare,sat ICLOD; comuna ICLOD ICLOD,"""Tabla Popii”",Latène
+364,CJ-I-m-B-07080.02,Aşezare,sat ICLOD; comuna ICLOD,"""Tabla Popii”",Latène
+365,CJ-I-m-B-07080.03,Aşezare,sat ICLOD; comuna ICLOD,"""Tabla Popii”",Hallstatt
 366,CJ-I-m-B-07080.04,Aşezare,sat ICLOD; comuna ICLOD,"""Tabla Popii”",Epoca bronzului
 367,CJ-I-m-B-07080.05,Aşezare,sat ICLOD; comuna ICLOD,"""Tabla Popii”",Neolitic
 368,CJ-I-s-A-07081,"Situl arheologic de la Iclod, ""Pământul Vlădicii”",punct sat ICLOD; comuna ICLOD,"""Pământul Vlădicii”, ""Unghiul Poştei”, ""Balastieră”, ""Texas”, ""Tabla Popii”",
@@ -342,7 +373,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 372,CJ-I-s-B-07083,Aşezare,sat INUCU; comuna AGHIREŞU,"""Nadic”",Epoca bronzului
 373,CJ-I-s-B-07084,Aşezare,sat IZVORU CRIŞULUI; comuna IZVORU CRIŞULUI,"""La grajduri”, ""Cincu”",Latène
 374,CJ-I-s-B-07085,Aşezare,sat IZVORU CRIŞULUI; comuna IZVORU CRIŞULUI,"""Ordomanioş”",Epoca romană
-375,CJ-I-s-B-07086,"Villa rustica punct ""Stanişte""",sat JUCU DE comuna JUCU comuna JUCU,"SUS; ""Budulău”",sec. II - III p. Chr.
+375,CJ-I-s-B-07086,Villa rustica,sat JUCU DE comuna JUCU,"SUS; ""Budulău”",sec. II - III p. Chr.
+376,CJ-I-s-B-07087,"Situl arheologic de la Jucu punct ""Stanişte""","de Sus, sat JUCU DE comuna JUCU","SUS; ""Stanişte""",
 377,CJ-I-m-A-07087.01,Tumuli,sat JUCU DE comuna JUCU,"SUS; ""Stanişte""","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 378,CJ-I-m-B-07087.02,Aşezare,sat JUCU DE comuna JUCU,"SUS; ""Stanişte""",Neolitic
 379,CJ-I-s-A-07088,Aşezare,sat LEGHIA; comuna AGHIREŞU,"""Movila lui Buta”",sec. IV - V
@@ -353,7 +385,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 384,CJ-I-m-A-07090.01,Cetate medievală,sat LITENI; comuna SĂVĂDISLA,"""Cetate”","sec. XI - XVII, Epoca medievală"
 385,CJ-I-m-A-07090.02,Castellum,sat LITENI; comuna SĂVĂDISLA,"""Cetate”",sec. II - III p. Chr.
 386,CJ-I-s-B-07091,Aşezare,sat LIVADA; comuna ICLOD,Terasa malului stâng al Someşului,Neolitic
-387,CJ-I-s-B-07092,"Aşezare ""Terasa malului stâng al",sat LIVADA; comuna ICLOD ICLOD,Extravilan Someşului,Eneolitic
+387,CJ-I-s-B-07092,Aşezare,sat LIVADA; comuna ICLOD,Extravilan,Eneolitic
+388,CJ-I-s-B-07093,"Situl arheologic de la Livada, ""Terasa malului stâng al Someşului""",punct sat LIVADA; comuna ICLOD,Terasa malului stâng al Someşului,
 389,CJ-I-m-B-07093.01,Aşezare,sat LIVADA; comuna ICLOD,Terasa malului stâng al Someşului,Epoca migraţiilor
 390,CJ-I-m-B-07093.02,Aşezare,sat LIVADA; comuna ICLOD,Terasa malului stâng al Someşului,Epoca romană
 391,CJ-I-m-B-07093.03,Aşezare,sat LIVADA; comuna ICLOD,Terasa malului stâng al Someşului,Preistorie
@@ -364,7 +397,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 396,CJ-I-s-A-07096,"Situl arheologic de la Măcicaşu, punct ""Dealul Horhiş”",sat MĂCICAŞU; CHINTENI,"comuna ""Dealul Horhiş”",
 397,CJ-I-m-A-07096.01,Aşezare,sat MĂCICAŞU; CHINTENI,"comuna ""Dealul Horhiş”",Hallstatt
 398,CJ-I-m-A-07096.02,Aşezare,sat MĂCICAŞU; CHINTENI,"comuna ""Dealul Horhiş”",Epoca bronzului
-399,CJ-I-m-A-07096.03,Aşezare fortificată,sat MĂCICAŞU; CHINTENI CHINTENI,"comuna ""Dealul Horhiş” Măcicaşu-Deuşu",Neolitic
+399,CJ-I-m-A-07096.03,Aşezare fortificată,sat MĂCICAŞU; CHINTENI,"comuna ""Dealul Horhiş”",Neolitic
+400,CJ-I-s-B-07097,Aşezare,sat MĂCICAŞU; CHINTENI,comuna In dreapta drumului comunal Măcicaşu-Deuşu,Hallstatt
 401,CJ-I-s-B-07098,Aşezare,sat MĂCICAŞU; CHINTENI,comuna Vatra satului,"Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 402,CJ-I-s-B-07099,Tumuli,sat MĂCICAŞU; CHINTENI,"comuna ""Pocornea""",Preistorie
 403,CJ-I-s-B-07100,Aşezare,sat MĂNĂSTIRENI; comuna MÂNĂSTIRENI,"""Căpâlna”",Epoca medievală
@@ -375,7 +409,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 408,CJ-I-m-B-07102.03,Aşezare,sat MĂRTINEŞTI; comuna TURENI,"""Dealul bisericii”",Preistorie
 409,CJ-I-s-B-07103,"Situl arheologic de la Mera, ""Dealul Cetăţii”",punct sat MERA; comuna BACIU,"""Dealul Cetăţii”",
 410,CJ-I-m-B-07103.01,Aşezare,sat MERA; comuna BACIU,"""Dealul Cetăţii”",sec. II - III p. Chr.
-411,CJ-I-m-B-07103.02,Aşezare,sat MERA; comuna BACIU BACIU,"""Dealul Cetăţii”",Hallstatt
+411,CJ-I-m-B-07103.02,Aşezare,sat MERA; comuna BACIU,"""Dealul Cetăţii”",Hallstatt
+412,CJ-I-m-B-07103.03,Aşezare,sat MERA; comuna BACIU,"""Dealul Cetăţii”",Epoca bronzului
 413,CJ-I-s-B-07104,"Situl arheologic de la Mera, ""Piatra comorii”",punct sat MERA; comuna BACIU,"""Piatra comorii”",
 414,CJ-I-m-B-07104.01,Aşezare,sat MERA; comuna BACIU,"""Piatra comorii”, ""Bucătăria”",Epoca romană
 415,CJ-I-m-A-07104.02,Aşezare,sat MERA; comuna BACIU,"""Piatra comorii”, ""Bucătăria”",Paleolitic superior
@@ -386,7 +421,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 420,CJ-I-m-B-07105.04,Aşezare,sat MICEŞTI; TURENI,"comuna ""Valea Micuşului”",Hallstatt
 421,CJ-I-s-B-07106,Tumuli,sat MICEŞTI; TURENI,"comuna ""Ţigla veche""",
 422,CJ-I-s-B-07107,Aşezare,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Coborâre”",Epoca romană
-423,CJ-I-s-A-07108,"Situl arheologic de la Mihai Viteazu, punct ""Valea Sândului”",sat MIHAI VITEAZU; comuna MIHAI VITEAZU comuna MIHAI,"""Valea Sândului”",sec. II - III p. Chr.
+423,CJ-I-s-A-07108,"Situl arheologic de la Mihai Viteazu, punct ""Valea Sândului”",sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Valea Sândului”",sec. II - III p. Chr.
+424,CJ-I-m-A-07108.01,Aşezare,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Valea Sândului”",sec. II - III p. Chr.
 425,CJ-I-m-A-07108.02,Necropolă,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Valea Sândului”",sec. II - III p. Chr.
 426,CJ-I-s-B-07109,Aşezare,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"Lângă fântâna ""Şai""",
 427,CJ-I-s-A-07110,"Situl arheologic de la Mihai Viteazu, punct ""Cetatea Fetei”",sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Cetatea Fetei”",
@@ -394,7 +430,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 429,CJ-I-m-B-07110.02,Aşezare,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Cetatea Fetei”",sec. II - III p. Chr.
 430,CJ-I-m-B-07110.03,Necropolă,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Cetatea Fetei”",sec. II - III p. Chr.
 431,CJ-I-m-A-07110.04,Aşezare fortificată,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Cetatea Fetei”",Hallstatt
-432,CJ-I-s-B-07111,"Tumuli Viteazu, punct ""Drumul văii”",sat MIHAI VITEAZU; comuna MIHAI VITEAZU comuna MIHAI,"Pe malul stâng al Arieşului, direcţia Sănduleşti",în Preistorie
+432,CJ-I-s-B-07111,Tumuli,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"Pe malul stâng al Arieşului, direcţia Sănduleşti",în Preistorie
+433,CJ-I-s-B-07112,"Situl arheologic de la Mihai Viteazu, punct ""Drumul văii”",sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Drumul văii”",
 434,CJ-I-m-B-07112.01,Aşezare,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Drumul văii”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 435,CJ-I-m-B-07112.02,Tumuli,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Drumul văii”",Preistorie
 436,CJ-I-s-B-07113,Tumuli,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Izvorul Sălciu”",Preistorie
@@ -402,7 +439,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 438,CJ-I-m-A-07114.01,Aşezare,sat MINTIU GHERLII; comuna MINTIU GHERLII,"""Ciuleneş”",Epoca bronzului
 439,CJ-I-m-A-07114.02,Aşezare,sat MINTIU GHERLII; comuna MINTIU GHERLII,"""Ciuleneş”",Neolitic
 440,CJ-I-s-A-07115,Tumuli,sat MINTIU GHERLII; comuna MINTIU GHERLII,"""Mănăstire”, ""Tusilhet”",Preistorie
-441,CJ-I-s-B-07116,Aşezare,sat MOCIU; comuna MOCIU MOCIU,Extravilan la E de sat,Neolitic
+441,CJ-I-s-B-07116,Aşezare,sat MOCIU; comuna MOCIU,Extravilan la E de sat,Neolitic
+442,CJ-I-s-B-07117,Aşezare,sat MOCIU; comuna MOCIU,"""Ocoliş”",Latène
 443,CJ-I-s-A-07118,"Situl arheologic de la Moldoveneşti, punct ""Dealul Cetăţii”",sat MOLDOVENEŞTI; comuna MOLDOVENEŞTI,"""Dealul Cetăţii”",
 444,CJ-I-m-A-07118.01,Aşezare fortificată,sat MOLDOVENEŞTI; comuna MOLDOVENEŞTI,"""Dealul Cetăţii”",sec. IX - XI
 445,CJ-I-m-B-07118.02,Aşezare,sat MOLDOVENEŞTI; comuna MOLDOVENEŞTI,"""Dealul Cetăţii”",sec. II - III p. Chr.
@@ -411,7 +449,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 448,CJ-I-s-B-07120,Necropolă,sat MOLDOVENEŞTI; comuna MOLDOVENEŞTI,"În grădina castelului Josika, primărie",azi Epoca medievală
 449,CJ-I-s-B-07121,Aşezare,sat MOLDOVENEŞTI; comuna MOLDOVENEŞTI,La 2 km de cetatea de la Moldoveneşti,Epoca romană
 450,CJ-I-s-B-07122,Aşezare fortificată,sat MUNCEL; CÂŢCĂU,"comuna ""Muchia Poienii Lupului”, ""Muncelul Sălişcăi”",
-451,CJ-I-s-B-07123,Aşezare,sat MUREŞENII CÂMPIE; comuna,"DE ""Deasupra bisericii”",Epoca romană
+451,CJ-I-s-B-07123,Aşezare,sat MUREŞENII CÂMPIE; comuna PĂLATCA,"DE ""Deasupra bisericii”",Epoca romană
 452,CJ-I-s-B-07124,Aşezare,sat NĂDĂŞELU; GÂRBĂU,"comuna ""Dealul Nadeşului”, ""Bicorit”, ""Nadă”",Preistorie
 453,CJ-I-s-A-07125,Fortificaţie militară romană,sat NEGRENI; CIUCEA,"comuna ""Cetatea Turcilor”",Epoca romană
 454,CJ-I-s-A-07126,Aşezare fortificată,localitatea OCNA DEJULUI; municipiul DEJ,"""Huhui”",Preistorie
@@ -422,7 +460,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 459,CJ-I-s-B-07131,"Situl arheologic de la Pălatca, ""Sub pădure”",punct sat PĂLATCA; PĂLATCA,"comuna ""Sub pădure”",
 460,CJ-I-m-B-07131.01,Necropolă,sat PĂLATCA; PĂLATCA,"comuna ""Sub pădure”",sec. IV - V
 461,CJ-I-m-B-07131.02,Villa rustica,sat PĂLATCA; PĂLATCA,"comuna ""Sub pădure”",sec. II - III p. Chr.
-462,CJ-I-m-B-07131.03,"Aşezare ""Dealul Coasta”",sat PĂLATCA; PĂLATCA PĂLATCA,"comuna ""Sub pădure”",Epoca bronzului
+462,CJ-I-m-B-07131.03,Aşezare,sat PĂLATCA; PĂLATCA,"comuna ""Sub pădure”",Epoca bronzului
+463,CJ-I-s-A-07132,"Situl arheologic de la Pălatca, ""Dealul Coasta”",punct sat PĂLATCA; PĂLATCA,"comuna sub dealul ""Coasta”",
 464,CJ-I-m-A-07132.01,Necropolă,sat PĂLATCA; PĂLATCA,"comuna sub dealul ""Coasta”",sec. IV p. Chr.
 465,CJ-I-m-B-07132.02,Ruine,sat PĂLATCA; PĂLATCA,"comuna sub dealul ""Coasta”",Epoca romană
 466,CJ-I-s-A-07133,"Situl arheologic de la Pălatca, ""Poderei”",punct sat PĂLATCA; PĂLATCA,"comuna ""Poderei”",
@@ -433,7 +472,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 471,CJ-I-s-A-07134,"Situl arheologic de la Petreştii Jos, punct ""Crucea Cheii”",de sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Crucea Cheii” DE",
 472,CJ-I-m-A-07134.01,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Crucea Cheii” DE",Epoca migraţiilor
 473,CJ-I-m-A-07134.02,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Crucea Cheii” DE",Epoca romană
-474,CJ-I-m-A-07134.03,Aşezare,sat PETREŞTII comuna PETREŞTII,"DE JOS; ""Crucea Cheii” DE",Epoca bronzului
+474,CJ-I-m-A-07134.03,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Crucea Cheii” DE",Epoca bronzului
 475,CJ-I-m-A-07134.04,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Crucea Cheii” DE",Neolitic
 476, CJ-I-s-B-07135, Tumuli, sat PETREŞTII comuna PETREŞTII JOS, DE JOS; În jurul satului DE, Preistorie
 477,CJ-I-s-B-07136,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Fântâna Sf. Vladislav” DE",sec. II - III p. Chr.
@@ -441,7 +480,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 479,CJ-I-m-B-07137.01,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Valea Sărăcăzii” DE",sec. VIII - IX
 480,CJ-I-m-B-07137.02,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE JOS; ""Valea Sărăcăzii” DE",Epoca romană
 481,CJ-I-s-B-07138,"Situl arheologic de la Petreştii Sus, punct ""Terasa de lângă şi casa parohială""",de sat PETREŞTII şcoală comuna PETREŞTII JOS,DE SUS; Terasa de lângă şcoală şi casa DE parohială,
-482,CJ-I-m-B-07138.01,Aşezare,sat PETREŞTII comuna PETREŞTII JOS comuna PETREŞTII,DE SUS; Terasa de lângă şcoală şi casa DE parohială DE parohială,Epoca romană
+482,CJ-I-m-B-07138.01,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,DE SUS; Terasa de lângă şcoală şi casa DE parohială,Epoca romană
+483,CJ-I-m-B-07138.02,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,DE SUS; Terasa de lângă şcoală şi casa DE parohială,Neolitic
 484,CJ-I-s-A-07139,Tumuli,sat PETREŞTII comuna PETREŞTII JOS,"DE SUS; ""Dealul Bisericii” DE","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 485,CJ-I-s-A-07140,Aşezare fortificată,sat PETREŞTII comuna PETREŞTII JOS,"DE SUS; ""La biserică” DE",Preistorie
 486,CJ-I-s-B-07141,Aşezare,sat PETREŞTII comuna PETREŞTII JOS,"DE SUS; ""Cernei”, ""Cărămida”, DE ""Pietrosul”",sec. II - III p. Chr.
@@ -450,7 +490,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 489,CJ-I-s-B-07144,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Roata Şoarecelui”",Neolitic
 490,CJ-I-s-B-07145,"Situl arheologic de la Plăieşti, ""Pe Vale”",punct sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Pe Vale”",
 491,CJ-I-m-B-07145.01,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Pe Vale”",Latène
-492,CJ-I-m-B-07145.02,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI MOLDOVENEŞTI,"comuna ""Pe Vale”",Epoca bronzului
+492,CJ-I-m-B-07145.02,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Pe Vale”",Epoca bronzului
+493,CJ-I-m-B-07145.03,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Pe Vale”",Neolitic
 494,CJ-I-s-B-07146,"Situl arheologic de la Plăieşti, ""Stână""",punct sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Stână""",
 495,CJ-I-m-B-07146.01,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Stână""",sec. XII - XIV
 496,CJ-I-m-B-07146.02,Aşezare,sat PLĂIEŞTI; MOLDOVENEŞTI,"comuna ""Stână""",Epoca bronzului
@@ -462,7 +503,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 502,CJ-I-s-B-07148,"Situl arheologic de la Rădaia, ""Orat”",punct sat RĂDAIA; comuna BACIU,"""Orat”",
 503,CJ-I-m-B-07148.01,Aşezare,sat RĂDAIA; comuna BACIU,"""Orat”",sec. IV p. Chr.
 504,CJ-I-m-B-07148.02,Aşezare,sat RĂDAIA; comuna BACIU,"""Orat”",Epoca romană
-505,CJ-I-m-B-07148.03,Aşezare,sat RĂDAIA; comuna BACIU BONŢIDA,"""Orat”",Preistorie
+505,CJ-I-m-B-07148.03,Aşezare,sat RĂDAIA; comuna BACIU,"""Orat”",Preistorie
+506,CJ-I-s-B-07149,Tumuli,sat RĂSCRUCI; BONŢIDA,"comuna ""Dealul Prunilor”",Preistorie
 507,CJ-I-s-B-07150,Tumuli,sat RĂSCRUCI; BONŢIDA,"comuna ""Glimeie”",Preistorie
 508,CJ-I-s-B-07151,"Situl arheologic de la Răscruci, punct ""Valea Someşului""",sat RĂSCRUCI; BONŢIDA,comuna Valea Someşului,
 509,CJ-I-m-A-07151.01,Aşezare,sat RĂSCRUCI; BONŢIDA,comuna Valea Someşului,Epoca medievală
@@ -473,7 +515,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 514,CJ-I-s-A-07154,Turn roman,sat RUGĂŞEŞTI; comuna CĂŞEIU,"""Dealul Podului”",Epoca romană
 515,CJ-I-s-A-07155,Aşezare,sat SAVA; comuna PĂLATCA,"""Borşier”",Neolitic
 516,CJ-I-s-B-07156,Aşezare,sat SĂCĂLAIA; FIZEŞU GHERLII,"comuna ""Codomarc”",Preistorie
-517,CJ-I-s-A-07157,Aşezare,sat SĂCĂLAIA; FIZEŞU GHERLII CIURILA,"comuna ""În islaz”",Epoca bronzului
+517,CJ-I-s-A-07157,Aşezare,sat SĂCĂLAIA; FIZEŞU GHERLII,"comuna ""În islaz”",Epoca bronzului
+518,CJ-I-s-A-07158,Aşezare,sat SĂLICEA; CIURILA,comuna Vatra satului,Preistorie
 519,CJ-I-s-A-07159,"Situl arheologic de la Sălicea, ""Gorganul”, ""Făgetul Muntelui”",punct sat SĂLICEA; CIURILA,"comuna ""Gorganul”, ""Făgetul Muntelui”",Perioada de tranziţie la epoca bronzului
 520,CJ-I-m-A-07159.01,Aşezare,sat SĂLICEA; CIURILA,"comuna ""Gorganul”, ""Făgetul Muntelui”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 521,CJ-I-m-A-07159.02,Necropolă,sat SĂLICEA; CIURILA,"comuna ""Gorganul”, ""Făgetul Muntelui”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
@@ -483,7 +526,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 525,CJ-I-s-B-07163,"Situl arheologic de la Săliştea Veche, punct ""Pe vale”",sat SĂLIŞTEA comuna CHINTENI,"VECHE; ""Pe vale”",
 526,CJ-I-m-B-07163.01,Aşezare,sat SĂLIŞTEA comuna CHINTENI,"VECHE; ""Pe vale”",Epoca migraţiilor
 527,CJ-I-m-B-07163.02,Aşezare,sat SĂLIŞTEA comuna CHINTENI,"VECHE; ""Pe vale”",Epoca bronzului
-528,CJ-I-s-A-07164,"Situl arheologic de la Sănduleşti, punct ""Piatra tăiată”",sat SĂNDULEŞTI; comuna SĂNDULEŞTI comuna SĂNDULEŞTI,"""Piatra tăiată”",sec. II - III p. Chr.
+528,CJ-I-s-A-07164,"Situl arheologic de la Sănduleşti, punct ""Piatra tăiată”",sat SĂNDULEŞTI; comuna SĂNDULEŞTI,"""Piatra tăiată”",sec. II - III p. Chr.
+529,CJ-I-m-A-07164.01,Aşezare,sat SĂNDULEŞTI; comuna SĂNDULEŞTI,"""Piatra tăiată”",sec. II - III p. Chr.
 530,CJ-I-m-A-07164.02,Carieră de piatră,sat SĂNDULEŞTI; comuna SĂNDULEŞTI,"""Piatra tăiată”",sec. II - III p. Chr.
 531,CJ-I-s-A-07165,"Situl arheologic de la Sănduleşti, punct ""Pietrele rotate”",sat SĂNDULEŞTI; comuna SĂNDULEŞTI,"""Pietrele rotate”",Preistorie
 532,CJ-I-m-A-07165.01,Aşezare,sat SĂNDULEŞTI; comuna SĂNDULEŞTI,"""Pietrele rotate”",Preistorie
@@ -493,7 +537,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 536,CJ-I-m-A-07166.02,Tumuli,sat SĂNDULEŞTI; comuna SĂNDULEŞTI,Extravilan,"Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 537,CJ-I-s-A-07167,Aşezare fortificată,sat SĂVĂDISLA; SĂVĂDISLA,"comuna Platoul ""Cetatea Păuca”",Preistorie
 538,CJ-I-s-B-07168,Tumul,sat SÂNNICOARĂ; comuna APAHIDA,"Extravilan, pe malul stâng Someşului",al Preistorie
-539,CJ-I-s-A-07169,Aşezare,sat SÂNNICOARĂ; comuna APAHIDA comuna APAHIDA,"Lângă groapa ""Zisocului""",Hallstatt
+539,CJ-I-s-A-07169,Aşezare,sat SÂNNICOARĂ; comuna APAHIDA,"Lângă groapa ""Zisocului""",Hallstatt
+540,CJ-I-s-B-07170,Aşezare,sat SÂNNICOARĂ; comuna APAHIDA,Terasa de la S de sat,Epoca romană
 541,CJ-I-s-B-07171,Aşezare,sat SÂNNICOARĂ; comuna APAHIDA,"""După capul satului”",Epoca romană
 542,CJ-I-s-A-07172,"Situl arheologic de la Sânnicoară, punct 1",sat SÂNNICOARĂ; comuna APAHIDA,La S-E de limita intravilanului,Epoca romană
 543,CJ-I-m-B-07172.01,Aşezare,sat SÂNNICOARĂ; comuna APAHIDA,La V de limita intravilanului,Epoca romană
@@ -505,7 +550,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 549,CJ-I-s-A-07175,Aşezare,sat SÂNTEJUDE; comuna ŢAGA,"""Fundătura”",Eneolitic
 550,CJ-I-s-A-07177,"Situl arheologic de la Someşu Gilău, punct ""Cetate”",Rece- sat SOMEŞU comuna GILĂU,"RECE; ""Cetate”",
 551,CJ-I-m-A-07177.01,Aşezare,sat SOMEŞU comuna GILĂU,"RECE; ""Cetate”",Latène
-552,CJ-I-m-A-07177.02,Aşezare fortificată,sat SOMEŞU comuna GILĂU comuna GILĂU,"RECE; ""Cetate”",Hallstatt
+552,CJ-I-m-A-07177.02,Aşezare fortificată,sat SOMEŞU comuna GILĂU,"RECE; ""Cetate”",Hallstatt
+553,CJ-I-m-A-07177.03,Aşezare,sat SOMEŞU comuna GILĂU,"RECE; ""Cetate”",Epoca bronzului
 554,CJ-I-m-A-07177.04,Aşezare,sat SOMEŞU comuna GILĂU,"RECE; ""Cetate”",Neolitic
 555,CJ-I-s-A-20245,Aşezare,sat SOMEŞU comuna GILĂU,"RECE; ""Peştera Oaselor”",Paleolitic superior
 556,CJ-I-s-A-07178,"Situl arheologic de la Soporu Câmpie, punct ""Măzărişte”",de sat SOPORU CÂMPIE; comuna FRATA,"DE ""Măzărişte”",
@@ -514,7 +560,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 559,CJ-I-s-A-07179,"Situl arheologic de la Soporu Câmpie, punct ""Sânişoara""",de sat SOPORU CÂMPIE; comuna FRATA,"DE ""Sânişoara""",
 560,CJ-I-m-A-07179.01,Necropolă,sat SOPORU CÂMPIE; comuna FRATA,"DE ""Sânişoara""",Epoca migraţiilor
 561,CJ-I-m-A-07179.02,Necropolă,sat SOPORU CÂMPIE; comuna FRATA,"DE ""Sânişoara""",Latène
-562,CJ-I-m-B-07179.03,"Aşezare Câmpie, punct ""Cuntenit”",sat SOPORU CÂMPIE; comuna FRATA CÂMPIE; comuna,"DE ""Sânişoara""",Hallstatt
+562,CJ-I-m-B-07179.03,Aşezare,sat SOPORU CÂMPIE; comuna FRATA,"DE ""Sânişoara""",Hallstatt
+563,CJ-I-s-A-07180,"Situl arheologic de la Soporu Câmpie, punct ""Cuntenit”",de sat SOPORU CÂMPIE; comuna FRATA,"DE ""Cuntenit”",
 564,CJ-I-m-A-07180.01,Aşezare,sat SOPORU CÂMPIE; comuna FRATA,"DE ""Cuntenit”",Epoca migraţiilor
 565,CJ-I-m-A-07180.02,Necropolă,sat SOPORU CÂMPIE; comuna FRATA,"DE ""Cuntenit”",Epoca migraţiilor
 566,CJ-I-m-A-07180.03,Aşezare,sat SOPORU CÂMPIE; comuna FRATA,"DE ""Cuntenit”",Epocă romană
@@ -523,7 +570,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 569,CJ-I-s-B-07182,Aşezare,sat SOPORU CÂMPIE; comuna FRATA,"DE La S de punctul ""Cuntenit”, lângă şosea",Epoca medievală
 570,CJ-I-s-B-07183,"Situl arheologic de la Stejeriş, punct ""Izvorul Rece”",sat STEJERIŞ; MOLDOVENEŞTI,"comuna ""Izvorul Rece”",
 571,CJ-I-m-B-07183.01,Aşezare,sat STEJERIŞ; MOLDOVENEŞTI,"comuna ""Izvorul Rece”",sec. IX - XI
-572,CJ-I-m-B-07183.02,Aşezare,sat STEJERIŞ; MOLDOVENEŞTI MOLDOVENEŞTI,"comuna ""Izvorul Rece”",Latène
+572,CJ-I-m-B-07183.02,Aşezare,sat STEJERIŞ; MOLDOVENEŞTI,"comuna ""Izvorul Rece”",Latène
+573,CJ-I-m-B-07183.03,Aşezare,sat STEJERIŞ; MOLDOVENEŞTI,"comuna ""Izvorul Rece”",Preistorie
 574,CJ-I-s-B-07184,Tumuli,sat STEJERIŞ; MOLDOVENEŞTI,"comuna ""Gâlmeie”",Preistorie
 575,CJ-I-s-A-07185,Aşezare fortificată,sat STOIANA; CORNEŞTI,"comuna Extravilan, la N de sat",Preistorie
 576,CJ-I-s-B-07186,"Situl arheologic de la Suatu, ""Fânaţele de Jos”",punct sat SUATU; comuna SUATU,"""Fânaţele de Jos”",
@@ -535,7 +583,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 582,CJ-I-m-B-07188.02,Aşezare,sat SUATU; comuna SUATU,"""Dijmaşi”",Epoca romană
 583,CJ-I-s-A-07189,Necropolă,sat SUATU; comuna SUATU,"""Somoşa”",sec. IV p. Chr.
 584,CJ-I-s-B-07190,Aşezare,sat SUCEAGU; BACIU,"comuna ""Adeguş”, ""Livada cu meri”, Băi”","""La Neolitic"
-585,CJ-I-s-B-07191,"Situl arheologic de la Suceagu, punct ""Cepegheu”",sat SUCEAGU; BACIU BACIU,"comuna ""Cepegheu”",
+585,CJ-I-s-B-07191,"Situl arheologic de la Suceagu, punct ""Cepegheu”",sat SUCEAGU; BACIU,"comuna ""Cepegheu”",
+586,CJ-I-m-B-07191.01,Aşezare,sat SUCEAGU; BACIU,"comuna ""Cepegheu”",Latène
 587,CJ-I-m-B-07191.02,Aşezare,sat SUCEAGU; BACIU,"comuna ""Cepegheu”",Preistorie
 588,CJ-I-s-B-07192,Aşezare,sat SUCEAGU; BACIU,"comuna "" La Oradba”",Hallstatt
 589,CJ-I-s-B-07193,"Situl arheologic de la Suceagu, punct ""Dealul Halastăului”",sat SUCEAGU; BACIU,"comuna ""Dealul Halastăului”",
@@ -547,7 +596,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 595,CJ-I-s-A-07196.01,Aşezare,sat SUCEAGU; BACIU,"comuna ""Orat”",sec. IV p. Chr.
 596,CJ-I-s-A-07196.02,Villa rustica,sat SUCEAGU; BACIU,"comuna ""Orat”",sec. II - III p. Chr.
 597,CJ-I-s-B-07197,Aşezare,sat SUCUTARD; GEACA,comuna Intravilan,Epoca bronzului
-598,CJ-I-s-B-07198,"Situl arheologic de la Şardu, ""Cremenea”",punct sat ŞARDU; comuna SÂNPAUL SÂNPAUL,"""Cremenea”",
+598,CJ-I-s-B-07198,"Situl arheologic de la Şardu, ""Cremenea”",punct sat ŞARDU; comuna SÂNPAUL,"""Cremenea”",
+599,CJ-I-m-B-07198.01,Aşezare,sat ŞARDU; comuna SÂNPAUL,"""Cremenea”",Epoca bronzului
 600,CJ-I-m-B-07198.02,Aşezare,sat ŞARDU; comuna SÂNPAUL,"""Cremenea”",Neolitic
 601,CJ-I-m-B-07198.03,Aşezare,sat ŞARDU; comuna SÂNPAUL,"""Cremenea”",Paleolitic
 602,CJ-I-s-B-07199,Aşezare,sat ŞARDU; comuna SÂNPAUL,La 1 km N-E de limita intravilanului,sec. II - III p. Chr.
@@ -559,7 +609,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 608,CJ-I-s-A-07203,"Situl arheologic de la Şoimeni, punct ""Grecea”",sat ŞOIMENI; VULTURENI,"comuna ""Grecea”",
 609,CJ-I-m-B-07203.01,Aşezare,sat ŞOIMENI; VULTURENI,"comuna ""Grecea”",sec. IV - VII
 610,CJ-I-m-B-07203.02,Aşezare,sat ŞOIMENI; VULTURENI,"comuna ""Grecea”",Epoca bronzului
-611,CJ-I-m-A-07203.03,Aşezare fortificată,sat ŞOIMENI; VULTURENI BONŢIDA,"comuna ""Grecea”",Preistorie
+611,CJ-I-m-A-07203.03,Aşezare fortificată,sat ŞOIMENI; VULTURENI,"comuna ""Grecea”",Preistorie
+612,CJ-I-s-A-07204,Aşezare,sat TĂUŞENI; BONŢIDA,"comuna ""Dealul Picuieşti”",Preistorie
 613,CJ-I-s-A-07205,Aşezare,sat TICU-COLONIE; comuna AGHIREŞU,"""Pe Deal”",Latène
 614,CJ-I-s-A-07206,"Situl arheologic de la Tritenii Jos, punct ""Valea Scroafei”",de sat TRITENII DE comuna TRITENII JOS,"JOS; ""Valea Scroafei” DE","sec. II - III p. Chr., Epoca romană"
 615,CJ-I-m-B-07206.01,Villa rustica,sat TRITENII DE comuna TRITENII JOS,"JOS; ""Valea Scroafei” DE",sec. II - III p. Chr.
@@ -570,6 +621,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 620,CJ-I-s-A-07210,Situl arheologic Potaissa,municipiul TURDA,,
 621,CJ-I-m-A-07210.01,"Situl arheologic ""Oraşul medieval Turda""",municipiul TURDA,,Epoca medievală
 622,CJ-I-m-A-07210.02,Necropolă,municipiul TURDA,"""Măzărişte”",Epoca medievală
+623,CJ-I-m-A-07210.03,Oraşul roman Potaissa,municipiul TURDA,,Epoca romană
 624,CJ-I-m-A-07210.04,Aşezare,municipiul TURDA,"""Fântâna Sf. Ioan”",Epoca romană
 625,CJ-I-m-A-07210.05,Necropolă,municipiul TURDA,"Dealurile ""Zânelor” şi ""Suia”",Epoca romană
 626,CJ-I-m-A-07210.06,Necropolă,municipiul TURDA,"”Râtul Sânmihăienilor”, ""Cărămizi”, ""Uzina de apă”",Epoca romană
@@ -581,7 +633,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 632,CJ-I-m-A-07212.03,Aşezare,sat TURENI; comuna TURENI,"""La Furci”","sec. II - III p. Chr., Epoca romană"
 633,CJ-I-m-A-07212.04,Aşezare,sat TURENI; comuna TURENI,"""La Furci”",Latène
 634,CJ-I-m-A-07212.05,Aşezare,sat TURENI; comuna TURENI,"""La Furci”",Hallstatt
-635,CJ-I-m-A-07212.06,Aşezare,sat TURENI; comuna TURENI TURENI,"""La Furci”",Epoca bronzului
+635,CJ-I-m-A-07212.06,Aşezare,sat TURENI; comuna TURENI,"""La Furci”",Epoca bronzului
+636,CJ-I-m-A-07212.07,Necropolă tumulară,sat TURENI; comuna TURENI,"""La Furci”",Preistorie
 637,CJ-I-s-B-07213,"Situl arheologic de la Tureni, ""Svona”",punct sat TURENI; comuna TURENI,"""Svona”",
 638,CJ-I-m-B-07213.01,Aşezare,sat TURENI; comuna TURENI,"""Svona”",Epoca medievală
 639,CJ-I-m-B-07213.02,Aşezare,sat TURENI; comuna TURENI,"""Svona”",Epoca migraţiilor
@@ -592,7 +645,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 644,CJ-I-m-B-20243.02,Tumuli,sat TURENI; comuna TURENI,"""Dealul Ghincenghe”",Preistorie
 645,CJ-I-s-B-07215,"Situl arheologic de la Ţaga, ""Hodoş”",punct sat ŢAGA; comuna ŢAGA,"""Hodoş”",
 646,CJ-I-m-B-07215.01,Aşezare,sat ŢAGA; comuna ŢAGA,"""Hodoş”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
-647,CJ-I-m-B-07215.02,Aşezare,sat ŢAGA; comuna ŢAGA ŢAGA,"""Hodoş”",Neolitic
+647,CJ-I-m-B-07215.02,Aşezare,sat ŢAGA; comuna ŢAGA,"""Hodoş”",Neolitic
+648,CJ-I-s-A-07216,Aşezare fortificată,sat ŢAGA; comuna ŢAGA,"""Valea Tistaşului”",Neolitic
 649,CJ-I-s-A-07217,Aşezare,sat ŢAGA; comuna ŢAGA,"""Hrube”",Epoca migraţiilor
 650,CJ-I-m-B-07218,Ruinele cetăţii Unguraş,sat UNGURAŞ; UNGURAŞ,"comuna ""Dealul cetăţii”",sec. XIV - XVI
 651,CJ-I-s-B-07219,"Situl arheologic de la Urişor, ""Staţia Electro”",punct sat URIŞOR; comuna CĂŞEIU,"""Staţia Electro”",
@@ -604,7 +658,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 657,CJ-I-s-B-07222,Aşezare,sat VAD; comuna,"VAD ""Cetăţuia”",Neolitic
 658,CJ-I-s-B-07223,Aşezare,sat VAD; comuna,"VAD ""Fântâna Vlădichii”",Epoca bronzului
 659,CJ-I-s-A-07224,Exploatare de sare (salină),sat VALEA FLORILOR; comuna PLOSCOŞ,,Latène
-660,CJ-I-s-A-07225,"Situl arheologic de la Valea punct ""La nord de sat”","Florilor, sat VALEA FLORILOR; comuna PLOSCOŞ comuna PLOSCOŞ",La N de sat,
+660,CJ-I-s-A-07225,"Situl arheologic de la Valea punct ""La nord de sat”","Florilor, sat VALEA FLORILOR; comuna PLOSCOŞ",La N de sat,
+661,CJ-I-m-A-07225.01,Aşezare,sat VALEA FLORILOR; comuna PLOSCOŞ,La N de sat,Hallstatt
 662,CJ-I-m-A-07225.02,Tumuli,sat VALEA FLORILOR; comuna PLOSCOŞ,La N de sat,Preistorie
 663,CJ-I-s-B-07226,Aşezare,sat VĂLENI; comuna CĂIANU,"""Mătălăul Mare”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 664,CJ-I-s-B-07227,Tumuli,sat VÂLCELE; FELEACU,"comuna ""La Vâlcea”, ""La popas”",Preistorie
@@ -615,7 +670,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 669,CJ-I-m-B-07230.02,Necropolă,sat VECHEA; CHINTENI,"comuna ""Valea Puturoasă”",Latène
 670,CJ-I-s-B-07231,Aşezare,sat VECHEA; CHINTENI,"comuna ""Islaz”",Epoca bronzului
 671,CJ-I-s-B-07232,"Situl arheologic de la Viişoara, punct ""Dealul Bărbos”",sat VIIŞOARA; VIIŞOARA,"comuna ""Dealul Bărbos”",
-672,CJ-I-m-B-07232.01,Aşezare,sat VIIŞOARA; VIIŞOARA VIIŞOARA,"comuna ""Dealul Bărbos”",Epoca romană
+672,CJ-I-m-B-07232.01,Aşezare,sat VIIŞOARA; VIIŞOARA,"comuna ""Dealul Bărbos”",Epoca romană
+673,CJ-I-m-B-07232.02,Aşezare,sat VIIŞOARA; VIIŞOARA,"comuna ""Dealul Bărbos”",Epoca bronzului
 674,CJ-I-s-B-07233,Aşezare,sat VIIŞOARA; VIIŞOARA,"comuna ""Cărămida”, ""Dealul Bătrân”",Epoca romană
 675,CJ-I-s-B-07234,"Situl arheologic de la Viişoara, punct ""Vatra satului""",sat VIIŞOARA; VIIŞOARA,comuna Vatra satului,
 676,CJ-I-m-B-07234.01,Aşezare,sat VIIŞOARA; VIIŞOARA,comuna Vatra satului,Eneolitic
@@ -626,7 +682,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 681,CJ-I-s-B-07236,"Situl arheologic de la Viştea, ""Ghercea”, ""Răchita”, ""Râul ""Spini”","punct sat VIŞTEA; comuna Mic”, GÂRBĂU","""Ghercea”, ""Răchita”, ""Râul Mic”, ""Spini”",
 682,CJ-I-m-B-07236.01,Aşezare,sat VIŞTEA; comuna GÂRBĂU,"""Ghercea”, ""Răchita”, ""Râul Mic”, ""Spini”",Hallstatt
 683,CJ-I-m-B-07236.02,Aşezare,sat VIŞTEA; comuna GÂRBĂU,"""Ghercea”, ""Răchita”, ""Râul Mic”, ""Spini”",Epoca bronzului
-684,CJ-I-m-B-07236.03,"Aşezare ""Palută”",sat VIŞTEA; comuna GÂRBĂU GÂRBĂU,"""Ghercea”, ""Răchita”, ""Râul Mic”, ""Spini”",Neolitic
+684,CJ-I-m-B-07236.03,Aşezare,sat VIŞTEA; comuna GÂRBĂU,"""Ghercea”, ""Răchita”, ""Râul Mic”, ""Spini”",Neolitic
+685,CJ-I-s-B-07237,"Situl arheologic de la Viştea, ""Palută”",punct sat VIŞTEA; comuna GÂRBĂU,"""Palută”, ""Fântâna cu butoi”",
 686,CJ-I-m-B-07237.01,Villa rustica,sat VIŞTEA; comuna GÂRBĂU,"""Palută”, ""Fântâna cu butoi”",sec. II - III p. Chr.
 687,CJ-I-m-B-07237.02,Aşezare,sat VIŞTEA; comuna GÂRBĂU,"""Palută”, ""Fântâna cu butoi”",Hallstatt
 688,CJ-I-m-B-07237.03,Aşezare,sat VIŞTEA; comuna GÂRBĂU,"""Palută”, ""Fântâna cu butoi”",Epoca bronzului
@@ -638,6 +695,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 694,CJ-II-a-B-21097.02,Turda casă fost dormitor,,,
 695,CJ-II-a-B-21097.03,Turda depozit de ulei,,,
 696,CJ-II-a-B-21097.04,Mihai Viteazu gară,,,
+697,CJ-II-a-B-21097.05,Corneşti haltă,,,
 698,CJ-II-a-B-21097.06,Pod peste Arieş,,,
 699,CJ-II-a-B-21097.07,Moldoveneşti canton,,,
 700,CJ-II-a-B-21097.08,Buru gară,,,
@@ -646,7 +704,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 703,CJ-II-a-B-21097.11,Ocolişel haltă,,,
 704,CJ-II-a-B-21097.12,Tunel,,,
 705,CJ-II-m-B-21082,"""Tribuna I"" din Stadionul",Municipal municipiul CÂMPIA TURZII,Str Aurel Vlaicu 39,
-706,CJ-II-a-A-07240,Cetăţuia Cluj-Napoca,municipiul CLUJ- NAPOCA,"Zona delimitată de: limita a parcelei din str. Dragalina 70, str. Şerpuitoare nr.1-27 fundul de parcelă,, str. Şerpuitoare şi str. Augustin Bunea, str. Călăraşilor frontul nordic, str. Cetăţii frontul de la nr. 25 la nr. 55, limita vestică a parcelei din str. Galilei nr.18, Aleea scărilor, str. Aleea scărilor la nr. 70",estică 1716 nr. estic
+706,CJ-II-a-A-07240,Cetăţuia Cluj-Napoca,municipiul CLUJ- NAPOCA,"Zona delimitată de: limita a parcelei din str. Dragalina 70, str. Şerpuitoare nr.1-27 fundul de parcelă,, str. Şerpuitoare şi str. Augustin Bunea, str. Călăraşilor frontul nordic, str. Cetăţii frontul de la nr. 25 la nr. 55, limita vestică a parcelei din str. Galilei nr.18, Aleea scărilor, str. Dragalina frontul nordic de",estică 1716 nr. estic la
 707,CJ-II-a-A-07241,Fragmente din zidul primei a oraşului medieval,incinte municipiul CLUJ- NAPOCA,"Străzile: Deleu, nr. 2-4, Doja Gheorghe, nr. 7 şi 23-25 ,Topliţa, nr.8-10 , Piaţa Unirii 25, Matei Corvin nr.4 (subsol), Petroşani nr. 1,3, 21, 23, Pavel Chinezu nr.5, Isac Emil nr.10, Bariţiu George, nr.25",1316 nr.
 708,CJ-II-a-A-07242,Fragment din zidul celei de incinte a oraşului medieval,a doua municipiul CLUJ- NAPOCA,"Străzile: Potaissa nr.1-3, Iancu Avram, nr.1-27, Str. Republicii nr. 3-7, Universităţii, nr. 7- Kogălniceanu M., nr.2-10 Novac (extrema sudică şi Tipografiei nr.17","1406 9, , Baba nr.15),"
 709,CJ-II-s-B-07243,Parcul Central,municipiul CLUJ- NAPOCA,,1897
@@ -654,8 +712,9 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 711,CJ-II-m-B-07243.02,Fântână arteziană,municipiul CLUJ- NAPOCA,Parcul Central,1897
 712,CJ-II-m-B-07243.03,Chioşc fanfară,municipiul CLUJ- NAPOCA,Parcul Central,1897
 713,CJ-II-m-B-07243.04,Pavilionul de patinaj,municipiul CLUJ- NAPOCA,Parcul Central,1897
-714,CJ-II-m-B-07243.05,"Kiosk oraşului Cluj""",municipiul CLUJ- NAPOCA NAPOCA,"Parcul Central limita nordică a peronului,",1897
-716,CJ-II-a-B-07415,"Ansamblul urban ""Piaţa Mihai Viteazul""",municipiul CLUJ- NAPOCA,"Zona delimitată de: limita vestică a parcelei din piaţa Mihai Viteazul nr.1, str. Doja drept sudic al râului Someş","sec. XVIII - XIX , de"
+714,CJ-II-m-B-07243.05,Kiosk,municipiul CLUJ- NAPOCA,Parcul Central,1897
+715,CJ-II-a-A-07244,"Ansamblul urban ""Centrul oraşului Cluj""",istoric al municipiul CLUJ- NAPOCA,"Zonă delimitată de: Gara Cluj, limita nordică a peronului, fontul nordic al str. Căii Ferate, podul feroviar peste Someş, str.Răsăritului până la str. Ecaterina Varga, str.Ecaterina Varga, frontul estic, str. Petrila, frontul sudic de la nr.14 la Parcul Feroviarilor limita estică, Parcul Feroviarilor limita sudică, malul stâng al Someşului între Str. Deltei şi Str. Spitalului, Decebal, de la nr 105 la nr. latura sudică a parcelei, str. Decebal nr. 50, latura sudică, Str. Traian nr.41, frontul vestic al Str. Traian de la nr. 41 la 11, latura sudică a parcelei Traian nr.14, traversare Someş, str. Iaşilor frontul nordic de nr. 23 pană la str. Constanţa, Constanţa frontul vestic de 39 la nr 13, frontul nordic Bălcescu nr 1-15, limita estică parcelei str. Bălcescu nr 6, Argeş, frontul nordic de la la nr 21, str. Paris, frontul de la nr 7 până la nr 21 Decembrie, str. Piteşti, frontul vestic, între Str. 21 Decembrie Str. Dobrogeanu Gherea, parcelelor Str. Dorobanţilor 23-35, str. Năvodari frontul","sec. XIV - XIX 2,, str. 47şi nr. str. la str. la nr. al str. a str. nr 9 vestic şi fundul nr."
+716,CJ-II-a-B-07415,"Ansamblul urban ""Piaţa Mihai Viteazul""",municipiul CLUJ- NAPOCA,"Zona delimitată de: limita vestică a parcelei din piaţa Mihai Viteazul nr.1, str. Doja nr.38 până la Someş , cheiul",sec. XVIII - XIX
 717,CJ-II-m-B-07306,Biserica şi casa parohială Evanghelică,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 1,1816 - 1822
 718,CJ-II-m-B-07246,Hotel Melody,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 2 Piaţa Unirii nr.29,şi sec. XVI - XIX
 719,CJ-II-m-B-07247,Casă,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 3,sec. XV - XVI
@@ -665,7 +724,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 723,CJ-II-m-B-07251,Biserica unitariană,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 9,sec. XVIII
 724,CJ-II-m-B-07252,Casa profesorilor unitarieni,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 10 str.Bolyai Janos nr.10,şi sec. XVIII - XIX
 725,CJ-II-m-B-07253,Casă,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 12,sec. XVIII - XIX
-726,CJ-II-m-B-07254,Reşedinţa episcopului unitarian,municipiul CLUJ- NAPOCA NAPOCA,Bd. 21 Decembrie 1989 14,sec. XV - XIX
+726,CJ-II-m-B-07254,Reşedinţa episcopului unitarian,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 14,sec. XV - XIX
+727,CJ-II-m-B-07255,Casa parohială a bisericii,unitariene municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 16-18,sec. XVIII
 728,CJ-II-m-B-07256,Sediul P.S.D.,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 19,sec. XVIII - XIX
 729,CJ-II-m-B-07257,Casă,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 20,sec. XIX
 730,CJ-II-m-B-07258,"Sediul Redacţiei revistei ""Korunk” în perioada interbelică",municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 20,sec. XIX
@@ -677,7 +737,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 736,CJ-II-m-B-07264,Biserica reformată,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 41,1821 - 1859
 737,CJ-II-m-B-07265,Casă,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 44,sec. XVI - XVIII
 738,CJ-II-m-B-07266,Casă,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 48,sec. XVIII
-739,CJ-II-m-B-07267,Prefectura Cluj-Napoca,municipiul CLUJ- NAPOCA NAPOCA,Bd. 21 Decembrie 1989 59 Piaţa Avram Iancu nr.12,şi 1910
+739,CJ-II-m-B-07267,Prefectura Cluj-Napoca,municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 59 Piaţa Avram Iancu nr.12,şi 1910
+740,CJ-II-m-B-07268,"Cazarmă, azi unitate militară",municipiul CLUJ- NAPOCA,Bd. 21 Decembrie 1989 106,sec. XIX
 741,CJ-II-m-B-07245,"Biserica romano-catolică Petru""","""Sf. municipiul CLUJ- NAPOCA",Bd. 21 Decembrie 1989 136 138,- sec. XIV - XIX
 742,CJ-II-m-B-07269,Casă,municipiul CLUJ- NAPOCA,"Str. Baba Novac 8, Bd. Eroilor 51",nr sec. XVIII
 743,CJ-II-m-A-07242.06,Fragment din zidul celei de incinte a oraşului medieval,a doua municipiul CLUJ- NAPOCA,Str. Baba Novac 15,1406
@@ -689,7 +750,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 749,CJ-II-m-B-07275,Institutul Politehnic,municipiul CLUJ- NAPOCA,Str. Bariţiu George 28,1895
 750,CJ-II-m-B-07276,"Biserica ""Sf. Treime”, din",Deal municipiul CLUJ- NAPOCA,Str. Bisericii Ortodoxe 10,sec. XVIII
 751,CJ-II-m-B-07277,"Biserica ""Învierea Domnului”,",Bob municipiul CLUJ- NAPOCA,Str. Bob 5,1800 - 1803
-752,CJ-II-m-B-07278,Casa în care s-a născut Bolyai,János municipiul CLUJ- NAPOCA NAPOCA,Str. Bolyai János 1 şi Bd.Eroilor nr.9 nr.11,sec. XV - XIX
+752,CJ-II-m-B-07278,Casa în care s-a născut Bolyai,János municipiul CLUJ- NAPOCA,Str. Bolyai János 1 şi Bd.Eroilor nr.9,sec. XV - XIX
+753,CJ-II-m-B-07279,Casă,municipiul CLUJ- NAPOCA,Str. Bolyai János 2 şi str.Eroilor nr.11,sec. XV - XIX
 754,CJ-II-m-B-07280,Casă,municipiul CLUJ- NAPOCA,Str. Bolyai János 2-4,sec. XV - XIX
 755,CJ-II-m-B-07281,Casă,municipiul CLUJ- NAPOCA,Str. Borzeşti 1,1901
 756,CJ-II-m-B-07282,Casă stil baroc,municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 6,sec. XVIII
@@ -700,7 +762,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 761,CJ-II-m-B-07287,Casă,municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 18,sec. XVIII
 762,CJ-II-m-B-07288,"""Casa Beldi"", azi clădire administrativă",municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 22,sec. XVIII
 763,CJ-II-m-B-07289,Casă,municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 24,sec. XVIII
-764,CJ-II-m-A-07290,Casa Aurarului,municipiul CLUJ- NAPOCA NAPOCA,Str. Brătianu I.C. 27,sec. XVIII
+764,CJ-II-m-A-07290,Casa Aurarului,municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 27,sec. XVIII
+765,CJ-II-m-B-07291,Casă,municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 34,sec. XIX
 766,CJ-II-m-B-07292,Casa Kós Károly,municipiul CLUJ- NAPOCA,Str. Breaza 14,1900
 767,CJ-II-m-B-07293,Moara veche de hârtie,municipiul CLUJ- NAPOCA,Str. Calvaria 32,sec. XVIII
 768,CJ-II-m-B-07294,Casă,municipiul CLUJ- NAPOCA,Str. Clemenceau Georges,1 sec. XVII - XVIII
@@ -712,7 +775,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 774,CJ-II-m-B-07300,Casa Kovary Laszlo,municipiul CLUJ- NAPOCA,Str. Daicoviciu Constantin,1 sec. XIX
 775,CJ-II-m-B-07301,Casă,municipiul CLUJ- NAPOCA,Str. Daicoviciu Constantin,3 sec. XVIII - XIX
 776,CJ-II-m-B-07302,Casă,municipiul CLUJ- NAPOCA,Str. Daicoviciu Constantin,5 sec. XVIII - XIX
-777,CJ-II-m-B-07303,Institutul Politehnic Domnului”,municipiul CLUJ- NAPOCA NAPOCA,Str. Daicoviciu Constantin,15 sec. XIX
+777,CJ-II-m-B-07303,Institutul Politehnic,municipiul CLUJ- NAPOCA,Str. Daicoviciu Constantin,15 sec. XIX
+778,CJ-II-m-A-07304,"Biserica ""Naşterea Maicii Domnului”",municipiul CLUJ- NAPOCA,Str. Dârjan Traian 8,1750
 779,CJ-II-m-A-07241.06,Fragment din zidul primei oraşului medieval,incinte a municipiul CLUJ- NAPOCA,"Str. Deleu 2-4, Str. Doja Gheorghe 17-25",sec. XIII - XV
 780,CJ-II-a-A-07305,Mănăstirea Franciscanilor,municipiul CLUJ- NAPOCA,Str. Deleu 2-4,sec. XV - XVIII
 781,CJ-II-m-A-07305.01,Biserica franciscană,municipiul CLUJ- NAPOCA,Str. Deleu 2-4,sec. XV - XVIII
@@ -724,7 +788,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 787,CJ-II-m-B-07312,Poştă,municipiul CLUJ- NAPOCA,Str. Doja Gheorghe 33,sec. XIX
 788,CJ-II-m-B-07313,Casa cu stema familiei Bathory,municipiul CLUJ- NAPOCA,Str. Doja Gheorghe 34,sf. sec. XIX
 789,CJ-II-m-B-07314,Palatul Szeki,municipiul CLUJ- NAPOCA,Str. Doja Gheorghe 37,1893
-790,CJ-II-m-B-07315,Palatul Babos,municipiul CLUJ- NAPOCA NAPOCA,Str. Doja Gheorghe 38 şi Piaţa Mihai Viteazu 1 Ştefan cel Mare 1,1889 - 1900
+790,CJ-II-m-B-07315,Palatul Babos,municipiul CLUJ- NAPOCA,Str. Doja Gheorghe 38 şi Piaţa Mihai Viteazu 1,1889 - 1900
+791,CJ-II-m-B-07316,Tribunalul şi Curtea de Apel,municipiul CLUJ- NAPOCA,Calea Dorobanţilor 24 şi Piaţa Ştefan cel Mare 1,1902
 792,CJ-II-m-B-07317,CasaTeleki,municipiul CLUJ- NAPOCA,Bd. Eroilor 1 şi Piaţa Unirii,32 sec. XV - XVIII
 793,CJ-II-m-B-07318,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 2,1830 - 1840
 794,CJ-II-m-B-07319,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 3,sec. XVI - XIX
@@ -736,7 +801,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 800,CJ-II-m-B-07324.02,Claustrul mănăstirii minoriţilor,municipiul CLUJ- NAPOCA,Bd. Eroilor 8 şi str. Brătianu 25,I.C. sec. XV - XIX
 801,CJ-II-m-B-07324.01,"Biserica mănăstirii minorite, catedrala greco-catolică",azi municipiul CLUJ- NAPOCA,Bd. Eroilor 10,sec. XVIII
 802,CJ-II-m-B-07325,Casă barocă cu elemente,gotice municipiul CLUJ- NAPOCA,Bd. Eroilor 12 şi str.Tomis,1 sec. XV - XIX
-803,CJ-II-m-B-07326,Casă,municipiul CLUJ- NAPOCA NAPOCA,Bd. Eroilor 13,sec. XV - XVI
+803,CJ-II-m-B-07326,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 13,sec. XV - XVI
+804,CJ-II-m-B-07327,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 15,sec. XV - XIX
 805,CJ-II-m-B-07328,Casa Tricesimei,municipiul CLUJ- NAPOCA,Bd. Eroilor 16,sec. XVI - XIX
 806,CJ-II-m-B-07329,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 17,sec. XV - XIX
 807,CJ-II-m-B-07330,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 18,sec. XIX
@@ -748,7 +814,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 813,CJ-II-m-B-07336,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 29,sec. XVI - XIX
 814,CJ-II-m-B-07337,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 31,sec. XVI - XX
 815,CJ-II-m-A-07338,Casa mică Banffy,municipiul CLUJ- NAPOCA,Bd. Eroilor 32,sec. XVI - XIX
-816,CJ-II-m-B-07339,Casă,municipiul CLUJ- NAPOCA NAPOCA,Bd. Eroilor 33,sec. XVI - XIX
+816,CJ-II-m-B-07339,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 33,sec. XVI - XIX
+817,CJ-II-m-B-07340,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 37,sec. XV - XIX
 818,CJ-II-m-B-07341,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 38,1920
 819,CJ-II-m-B-07342,Casă,municipiul CLUJ- NAPOCA,Bd. Eroilor 42,sec. XX
 820,CJ-II-m-B-07344,Casă,municipiul CLUJ- NAPOCA,Str. Fortăreţei 8,sec. XVI
@@ -760,7 +827,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 826,CJ-II-m-B-07350,Casă,municipiul CLUJ- NAPOCA,Str. Horea 5,1910
 827,CJ-II-m-B-07351,Casă,municipiul CLUJ- NAPOCA,Str. Horea 19,sf. sec. XIX
 828,CJ-II-m-B-07352,Facultatea de Filologie,municipiul CLUJ- NAPOCA,Str. Horea 31,1905
-829,CJ-II-m-B-07353,Casă,municipiul CLUJ- NAPOCA NAPOCA,Str. Horea 35,1900 1930
+829,CJ-II-m-B-07353,Casă,municipiul CLUJ- NAPOCA,Str. Horea 35,1900
+830,CJ-II-m-B-20937,Casă secesion,municipiu CLUJ- NAPOCA,"Str. Hosssu Iuliu, Cardinal","1 1902, extindere 1930"
 831,CJ-II-m-B-07354,Catedrala Arhiepiscopiei,ortodoxe municipiul CLUJ- NAPOCA,Piaţa Iancu Avram,1923 - 1936
 832,CJ-II-m-A-07355,Teatrul Naţional,municipiul CLUJ- NAPOCA,Piaţa Iancu Avram 2,1904 - 1906
 833,CJ-II-m-B-07357,Casă,municipiul CLUJ- NAPOCA,Piaţa Iancu Avram 14,sec. XIX
@@ -771,7 +839,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 838,CJ-II-m-A-07242.01,Bastionul Postăvarilor,municipiul CLUJ- NAPOCA,Str. Iancu Avram 9,sec. XV
 839,CJ-II-m-B-07361,Casă,municipiul CLUJ- NAPOCA,Str. Iancu Avram 10-12,sec. XIX
 840,CJ-II-m-A-07242.02,Bastionul Cizmarilor,municipiul CLUJ- NAPOCA,Str. Iancu Avram 13,sec. XV
-841,CJ-II-m-B-07362,Tipografia Liceului reformat incintă medievală pe limita parcelă),(zid de municipiul CLUJ- de NAPOCA NAPOCA,Str. Iancu Avram 13-15,sec. XIX
+841,CJ-II-m-B-07362,Tipografia Liceului reformat incintă medievală pe limita parcelă),(zid de municipiul CLUJ- de NAPOCA,Str. Iancu Avram 13-15,sec. XIX
+842,CJ-II-m-B-07363,Casă,municipiul CLUJ- NAPOCA,Str. Iancu Avram 16-18,1938
 843,CJ-II-m-A-07242.04,Turnul Zidarilor şi fragment zidul celei de a doua incinte oraşului medieval,din municipiul CLUJ- a NAPOCA,Str. Iancu Avram 17,sec. XV
 844,CJ-II-m-B-07365,"Casă, fost hotel Biazini",municipiul CLUJ- NAPOCA,Str. Iancu Avram 20,sec. XIX
 845,CJ-II-m-B-07366,Casă,municipiul CLUJ- NAPOCA,Str. Iancu Avram 21,sec. XVIII
@@ -782,7 +851,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 850,CJ-II-m-B-07369,Casă cu elemente de decoraţiune interioară în stil Secession,municipiul CLUJ- NAPOCA,Str. Isac Emil 14,1904
 851,CJ-II-m-B-07370,"Universitatea ""Babeş Bolyai""",municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 1,1893 - 1903
 852,CJ-II-m-A-07371,"Liceul ""Bathory"", fost liceu Piariştilor",al municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 2 Universităţii 7-9,şi str. 1817 - 1821
-853,CJ-II-m-B-07372,Casă (zid incinta medievală limita de parcelă),pe municipiul CLUJ- NAPOCA NAPOCA,Str. Kogălniceanu Mihail 4,1789 - 1800
+853,CJ-II-m-B-07372,Casă (zid incinta medievală limita de parcelă),pe municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 4,1789 - 1800
+854,CJ-II-m-B-07373,Casă,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 5,1789 - 1800
 855,CJ-II-m-B-07374,Casă (zid de incintă medievală limita de parcelă),pe municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 6,sec. XVIII
 856,CJ-II-m-A-07375,Palatul Teleki,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 7,1790 - 1795
 857,CJ-II-m-B-07376,"Liceul ""Emil Racoviţă""",municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 9-11,sec. XVI - XIX
@@ -793,7 +863,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 862,CJ-II-m-A-07378.02,Casă,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 15,1790 - 1802
 863,CJ-II-m-A-07380,Biserica reformată Matia,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 16,"1486 - 1494, ref. 1644"
 864,CJ-II-m-A-07378.03,Casă,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 17,1790 - 1802
-865,CJ-II-m-B-07381,Tipografia Colegiului reformat,municipiul CLUJ- NAPOCA NAPOCA,Str. Kogălniceanu Mihail 18,sec. XVIII
+865,CJ-II-m-B-07381,Tipografia Colegiului reformat,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 18,sec. XVIII
+866,CJ-II-m-B-07378.04,Casă,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 19,1790 - 1802
 867,CJ-II-m-B-07382,Casa parohială a bisericii,reformate municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 23,1751
 868,CJ-II-a-A-07383,"Palatele ""Status-ului romano- catolic""",municipiul CLUJ- NAPOCA,Str. Maniu Iuliu 1-6,1902
 869,CJ-II-a-A-07383.01,"Palatele ""Status-ului romano- catolic""",municipiul CLUJ- NAPOCA,"Str. Maniu Iuliu 1, 3 şi 5",1902
@@ -805,7 +876,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 875,CJ-II-m-B-07343,Casă,municipiul CLUJ- NAPOCA,"Str. Iuliu Maniu 40, Str.Baba Novac 4",sec. XIX
 876,CJ-II-m-A-07388,"Casa universitarilor, azi Colegiul academic",municipiul CLUJ- NAPOCA,Str. “Emmanuel de Martonne” şi str. Brătianu I.C. 4,1 1928 - 1936
 877,CJ-II-m-B-07389,Casă,municipiul CLUJ- NAPOCA,Str. Matei Corvin 1 şi str. Memorandumului 2,sec. XVIII
-878,CJ-II-m-B-07390,Casă,municipiul CLUJ- NAPOCA NAPOCA,Str. Matei Corvin 2 şi Piaţa 18,Unirii sec. XVI - XX
+878,CJ-II-m-B-07390,Casă,municipiul CLUJ- NAPOCA,Str. Matei Corvin 2 şi Piaţa 18,Unirii sec. XVI - XX
+879,CJ-II-m-B-07391,Casă,municipiul CLUJ- NAPOCA,Str. Matei Corvin 3,sec. XVIII
 880,CJ-II-m-B-07392,"Casa principelui Transilvaniei Ştefan Bocskay, azi Universitatea ""Sapientia"" (fragmente din incintei medieval în subsol)",municipiul CLUJ- NAPOCA zidul,Str. Matei Corvin 4,sec. XVI - XIX
 881,CJ-II-m-A-07393,"Casa Matia, azi Academia Vizuale ""Ion Andreescu”",de Arte municipiul CLUJ- NAPOCA,Str. Matei Corvin 6,sec. XV - XVIII
 882,CJ-II-m-B-07394,Vama veche,municipiul CLUJ- NAPOCA,Str. Mănăşturului 1,1748
@@ -816,7 +888,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 887,CJ-II-m-B-07400,Casă,municipiul CLUJ- NAPOCA,Str. Memorandumului 7,sec. XVIII - XX
 888,CJ-II-m-B-07401,Casă,municipiul CLUJ- NAPOCA,Str. Memorandumului 8,1846
 889,CJ-II-m-B-07402,Casă,municipiul CLUJ- NAPOCA,"Str. Memorandumului 11-13 str. Raţiu Ion 2, str. Memorandumului 11 - 13",şi sec. XVI - XIX
-890,CJ-II-m-B-07403,"Sediul fostei Casine române, locuinţă",azi municipiul CLUJ- NAPOCA NAPOCA,Str. Memorandumului 12,sec. XVIII
+890,CJ-II-m-B-07403,"Sediul fostei Casine române, locuinţă",azi municipiul CLUJ- NAPOCA,Str. Memorandumului 12,sec. XVIII
+891,CJ-II-m-B-07404,Casă,municipiul CLUJ- NAPOCA,Str. Memorandumului 15,sec. XVI - XVII
 892,CJ-II-m-B-07405,Casă,municipiul CLUJ- NAPOCA,Str. Memorandumului 17,sec. XIX
 893,CJ-II-m-B-07406,Casă,municipiul CLUJ- NAPOCA,Str. Memorandumului 19,sec. XVIII
 894,CJ-II-m-B-07407,"Casa în care s-a judecat procesul memorandiştilor, azi Muzeul Etnografic al Transilvaniei (""'Reduta"")",municipiul CLUJ- NAPOCA,Str. Memorandumului 21,1810 - 1812
@@ -827,7 +900,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 899,CJ-II-m-B-07412,Casă,municipiul CLUJ- NAPOCA,Str. Micu Klein I. 15,sec. XVIII - XIX
 900,CJ-II-m-B-07413,Casă,municipiul CLUJ- NAPOCA,Str. Micu Klein I. 17,sec. XIX
 901,CJ-II-m-B-07414,Casă,municipiul CLUJ- NAPOCA,Str. Micu Samuil 8,sec. XVIII - XIX
-902,CJ-II-m-B-07416,Prefectura judeţului Cluj,municipiul CLUJ- NAPOCA NAPOCA,Calea Moţilor 1-3,sec. XIX
+902,CJ-II-m-B-07416,Prefectura judeţului Cluj,municipiul CLUJ- NAPOCA,Calea Moţilor 1-3,sec. XIX
+903,CJ-II-m-B-07417,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 4,sec. XVIII
 904,CJ-II-m-B-07418,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 8,sec. XIX
 905,CJ-II-m-B-07419,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 24,1832
 906,CJ-II-m-B-07420,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 27,sec. XIX
@@ -839,7 +913,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 912,CJ-II-m-B-07426,Liceu,municipiul CLUJ- NAPOCA,Calea Moţilor 82,1900
 913,CJ-II-m-B-07427,Biserica reformată,municipiul CLUJ- NAPOCA,Calea Moţilor 84,1913
 914,CJ-II-m-B-07428,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 94,sec. XVIII - XIX
-915,CJ-II-m-B-07429,Casă,municipiul CLUJ- NAPOCA NAPOCA,Calea Moţilor 104,sec. XVIII
+915,CJ-II-m-B-07429,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 104,sec. XVIII
+916,CJ-II-m-B-07430,Casă,municipiul CLUJ- NAPOCA,Calea Moţilor 137,sec. XVIII
 917,CJ-II-m-B-07431,Casă,municipiul CLUJ- NAPOCA,Str. Mureşanu Andrei 15,sec. XX
 918,CJ-II-m-B-07432,Casă,municipiul CLUJ- NAPOCA,Str. Mureşanu Andrei 16,1911
 919,CJ-II-m-B-07433,Casă,municipiul CLUJ- NAPOCA,Str. Mureşanu Andrei 20,1906
@@ -851,7 +926,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 925,CJ-II-m-B-07439,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 5,sec. XVIII - XIX
 926,CJ-II-m-B-07441,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 7,sec. XIX
 927,CJ-II-m-B-07442,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 9,sec. XVI - XVIII
-928,CJ-II-m-B-07443,Casă,municipiul CLUJ- NAPOCA NAPOCA,Str. Napoca 10,sec. XIX
+928,CJ-II-m-B-07443,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 10,sec. XIX
+929,CJ-II-m-B-07444,Institutul de Istorie Naţională,municipiul CLUJ- NAPOCA,Str. Napoca 11,sec. XVIII - XIX
 930,CJ-II-m-B-07445,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 12,1905
 931,CJ-II-m-B-07446,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 14,sec. XVIII - XIX
 932,CJ-II-m-B-07447,Casă,municipiul CLUJ- NAPOCA,Str. Napoca 15,sec. XVIII
@@ -863,7 +939,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 938,CJ-II-m-A-07241.03,Fragment din zidul primei oraşului medieval,incinte a municipiul CLUJ- NAPOCA,Str. Petroşani 1-3,sec. XIII
 939,CJ-II-m-B-07452,Casă,municipiul CLUJ- NAPOCA,Str. Petroşani 2,sec. XVI - XIX
 940,CJ-II-m-A-07241.04,Fragment din zidul primei oraşului medieval,incinte a municipiul CLUJ- NAPOCA,Str. Petroşani 21-23,sec. XIII
-941,CJ-II-m-B-07270,Casă,municipiul CLUJ- NAPOCA,Str. Piaţa Ştefan cel Mare Str. Baba Novac 27 şi,"14, 1830 - 1840"
+941,CJ-II-m-B-07270,Casă,municipiul CLUJ- NAPOCA,Str. Piaţa Ştefan cel Mare Str. Baba Novac 27 şi Str.I.C.Brătianu 55,"14, 1830 - 1840"
 942,CJ-II-m-A-07242.05,Fragment din zidul celei de incinte a oraşului medieval,a doua municipiul CLUJ- NAPOCA,Str. Potaissa 1-3,sec. XV
 943,CJ-II-m-B-07453,Casă,municipiul CLUJ- NAPOCA,Str. Republicii 7,sec. XX
 944,CJ-II-m-B-07454,Casă,municipiul CLUJ- NAPOCA,Str. Republicii 41,sec. XX
@@ -875,7 +951,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 950,CJ-II-m-B-07460,"Cazarma ""Sf. Gheorghe”",municipiul CLUJ- NAPOCA,Piaţa Ştefan cel Mare 3,1834 - 1837
 951,CJ-II-a-B-07461,Secţia în aer liber a Muzeului Etnografic al Transilvaniei,municipiul CLUJ- NAPOCA,"Str. Tăietura Turcului, Dealul Hoia",
 952,CJ-II-m-B-07462,Teatrul Maghiar,municipiul CLUJ- NAPOCA,Aleea Tineretului,1912 - 1913
-953,CJ-II-s-B-07463,Parcul municipal,municipiul CLUJ- NAPOCA NAPOCA,Aleea Tineretului,1838
+953,CJ-II-s-B-07463,Parcul municipal,municipiul CLUJ- NAPOCA,Aleea Tineretului,1838
+954,CJ-II-s-B-07464,Parcul Iuliu Haţieganu,municipiul CLUJ- NAPOCA,Aleea Tineretului 7,sec. XX
 955,CJ-II-m-A-07242.03,Turnul Pompierilor,municipiul CLUJ- NAPOCA,Str. Tipografiei 17,"1405, partea superioară sec. XIX"
 956,CJ-II-m-B-07465,Casă,municipiul CLUJ- NAPOCA,Str. Tomis 1,sec. XV - XIX
 957,CJ-II-m-B-07466,Casă,municipiul CLUJ- NAPOCA,Str. Topliţa 1-3,1820
@@ -887,7 +964,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 963,CJ-II-m-B-07472,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 3,sec. XVIII
 964,CJ-II-m-B-07473,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 4,sec. XVI
 965,CJ-II-m-B-07474,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 5,sec. XVI
-966,CJ-II-m-B-07475,Casă,municipiul CLUJ- NAPOCA NAPOCA,Piaţa Unirii 6,sec. XVI - XIX
+966,CJ-II-m-B-07475,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 6,sec. XVI - XIX
+967,CJ-II-m-B-07476,Banca Naţională,municipiul CLUJ- NAPOCA,Piaţa Unirii 7,sec. XX
 968,CJ-II-m-B-07477,Palatul Sebestyen,municipiul CLUJ- NAPOCA,"Piaţa Unirii 8 şi str. Universităţii, 1-3",1912 - 1913
 969,CJ-II-m-B-07478,"Palatul Bornemisza, fost şi Societăţii teatrale maghiare Ardeal",sediu al municipiul CLUJ- din NAPOCA,Piaţa Unirii 9 şi str. Napoca,2-4 sec. XVIII - XIX
 970,CJ-II-m-B-07479,Casa Teleki,municipiul CLUJ- NAPOCA,Piaţa Unirii 10,1827
@@ -898,7 +976,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 975,CJ-II-m-B-07484,Casa parohială a bisericii catolice,romano- municipiul CLUJ- NAPOCA,Piaţa Unirii 15,sec. XV - XVIII
 976,CJ-II-m-B-07485,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 16,sec. XIX
 977,CJ-II-m-B-07486,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 18,sec. XVI
-978,CJ-II-m-B-07487,Casă,municipiul CLUJ- NAPOCA NAPOCA,Piaţa Unirii 19,sec. XVIII
+978,CJ-II-m-B-07487,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 19,sec. XVIII
+979,CJ-II-m-B-07488,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 20,sec. XIX
 980,CJ-II-m-B-07489,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 21,sec. XVI - XX
 981,CJ-II-m-B-07490,Casă,municipiul CLUJ- NAPOCA,Piaţa Unirii 22,sec. XVIII
 982,CJ-II-m-B-07491,Imobil administrativ,municipiul CLUJ- NAPOCA,Piaţa Unirii 23,1883
@@ -909,7 +988,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 987,CJ-II-m-B-07495,Muzeul Farmaciei,municipiul CLUJ- NAPOCA,Piaţa Unirii 28 şi str. Doja Gheorghe 1,sec. XV - XVIII
 988,CJ-II-m-A-07497,"Palatul Banffy, azi Muzeul",de Artă municipiul CLUJ- NAPOCA,Piaţa Unirii 30,1774 - 1785
 989,CJ-II-m-A-07498,"Casa Wolphard Kakas, azi Universitatea de Arte Vizuale Andreescu” şi banca ""Société Générale""","municipiul CLUJ- ""Ion NAPOCA",Piaţa Unirii 31,sec. XVI - XIX
-990,CJ-II-m-A-07499,"Biserica Piariştilor, azi biserica romano-catolică ""Sf. Treime""",municipiul CLUJ- NAPOCA NAPOCA,Str. Universităţii 5,1718 - 1724
+990,CJ-II-m-A-07499,"Biserica Piariştilor, azi biserica romano-catolică ""Sf. Treime""",municipiul CLUJ- NAPOCA,Str. Universităţii 5,1718 - 1724
+991,CJ-II-m-B-07500,Casă,municipiul CLUJ- NAPOCA,Str. Universităţii 6,sec. XVI - XIX
 992,CJ-II-m-B-07501,"Claustrul mănăstirii Piariştilor Convictus nobilium, azi internatul liceului Bathory (zid de incintă medievală pe limita de parcelă)",şi municipiul CLUJ- NAPOCA,Str. Universităţii 7-9 şi str. Brătianu 2,1735
 993,CJ-II-m-B-07502,Casă,municipiul CLUJ- NAPOCA,Str. Universităţii 8,sec. XVIII - XIX
 994,CJ-II-m-B-07503,"Seminarul Bathory - Apor,",azi liceu municipiul CLUJ- NAPOCA,Str. Universităţii 10,1721 - 1727
@@ -920,7 +1000,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 999,CJ-II-m-B-07508,"Biserica de lemn ""Sf. Treime”",sat AGÂRBICIU; comuna CĂPUŞU,179 MARE,sec. XVII
 1000,CJ-II-m-B-07509,Biserica reformată,sat AGHIREŞU; AGHIREŞU,comuna 30,sec. XIII - XV
 1001,CJ-II-m-B-07510,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat AGHIREŞU; AGHIREŞU,comuna 157,1780
-1002,CJ-II-m-B-07511,Ruinele castelului Bocskay Domnului”,sat AGHIREŞU; AGHIREŞU comuna AGHIREŞU,comuna 367,1572
+1002,CJ-II-m-B-07511,Ruinele castelului Bocskay,sat AGHIREŞU; AGHIREŞU,comuna 367,1572
+1003,CJ-II-m-B-07512,"Biserica de lemn ""Naşterea Domnului”",Maicii sat AGHIREŞU-FABRICI; comuna AGHIREŞU,284,sec. XVIII
 1004,CJ-II-m-B-07513,Biserică de lemn,sat AITON; comuna AITON,16,1711
 1005,CJ-II-m-B-07515,Biserica reformată,sat AITON; comuna AITON,161,sec. XVIII - XIX
 1006,CJ-II-m-B-07516,Biserica reformată,sat ALUNIŞ; comuna ALUNIŞ,128,sec. XVII
@@ -932,7 +1013,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1012,CJ-II-m-B-07522,"Biserica de lemn ""Sf. Nicolae”",sat BĂDENI; comuna MOLDOVENEŞTI,75,1765
 1013,CJ-II-m-B-07523,Biserica reformată,sat BĂDEŞTI; VULTURENI,comuna 78,sec. XIII - XVIII
 1014,CJ-II-m-B-07524,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat BĂGACIU; PĂLATCA,comuna 29,1700
-1015,CJ-II-m-B-07525,Biserica reformată Gavriil”,sat BĂGARA; AGHIREŞU GHERLA,comuna 158,sec. XVIII
+1015,CJ-II-m-B-07525,Biserica reformată,sat BĂGARA; AGHIREŞU,comuna 158,sec. XVIII
+1016,CJ-II-m-B-07526,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi localitatea BĂIŢA; GHERLA,oraş 53,sec. XVII
 1017,CJ-II-m-B-07527,"Biserica de lemn ""Adormirea Domnului”",Maicii sat BĂLCEŞTI; CĂPUŞU MARE,comuna 15,sec. XVIII
 1018,CJ-II-m-B-07528,"Biserica ""Înălţarea Domnului”",sat BEDECIU; MĂNĂSTIRENI,comuna 153,sec. XV
 1019,CJ-II-m-B-07529,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat BERCHIEŞU; comuna FRATA,54,1747
@@ -944,7 +1026,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1025,CJ-II-m-A-07534.01,Corpul 1 al castelului,sat BONŢIDA; BONŢIDA,comuna 152-154,"1652, amplif. 1750 - 1850"
 1026,CJ-II-m-A-07534.02,Corpul 2 al castelului,sat BONŢIDA; BONŢIDA,comuna 152-154,"1652, amplif. 1750 - 1850"
 1027,CJ-II-m-A-07534.03,Corpul 3 al castelului,sat BONŢIDA; BONŢIDA,comuna 152-154,sec. XVI
-1028,CJ-II-m-A-07534.04,Moară,sat BONŢIDA; BONŢIDA BONŢIDA,comuna 152-154,înc. sec. XIX
+1028,CJ-II-m-A-07534.04,Moară,sat BONŢIDA; BONŢIDA,comuna 152-154,înc. sec. XIX
+1029,CJ-II-m-B-07534.05,Grânarele,sat BONŢIDA; BONŢIDA,comuna 152-154,sec. XIX
 1030,CJ-II-s-A-07534.06,Parcul,sat BONŢIDA; BONŢIDA,comuna 152-154,sec. XVIII
 1031,CJ-II-m-A-07534.07,Zidul de incintă al parcului castelului,sat BONŢIDA; BONŢIDA,comuna 152-154,1952
 1032,CJ-II-a-B-07535,Ansamblul bisericii reformate,sat BONŢIDA; BONŢIDA,comuna 265,sec. XIII
@@ -956,7 +1039,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1038,CJ-II-m-B-07539,"Biserica de lemn ""Adormirea Domnului”",Maicii sat BUCEA; comuna CIUCEA,,1791
 1039,CJ-II-m-B-07541,"Conacul Bornemisza, azi magazin sătesc",sat BUZA; comuna BUZA,63,sec. XIX
 1040,CJ-II-m-B-07542,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat CALNA; comuna VAD,63,1671
-1041,CJ-II-m-B-07543,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat CĂIANU MARE; comuna CĂIANU comuna CĂMĂRAŞU,,1750
+1041,CJ-II-m-B-07543,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat CĂIANU MARE; comuna CĂIANU,,1750
+1042,CJ-II-m-B-07544,Conacul Kemeny,sat CĂMĂRAŞU; comuna CĂMĂRAŞU,121,sec. XVIII - XIX
 1043,CJ-II-m-B-07545,Biserica reformată,sat CĂMĂRAŞU; comuna CĂMĂRAŞU,131,"sec. XIII - XV - XVIII, 1753"
 1044,CJ-II-m-B-07547,Biserica reformată,sat CĂPUŞU MARE; comuna CĂPUŞU,149 MARE,1753
 1045,CJ-II-m-B-07548,Casă,sat CĂPUŞU MIC; comuna CĂPUŞU,107 MARE,sec. XIX - XX
@@ -969,6 +1053,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1052,CJ-II-m-B-07555,Biserica reformată,oraş CÂMPIA,TURZII Piaţa Mihai Viteazul,1680
 1053,CJ-II-a-A-07556,Centrul civic comunitar interbelic Câmpia Turzii,oraş CÂMPIA,TURZII Piaţa Mihai Viteazul 8-9,sec. XX
 1054,CJ-II-m-A-07556.01,Clubul muncitoresc,oraş CÂMPIA,TURZII Piaţa Mihai Viteazul 8,1939
+1055,CJ-II-m-A-07556.02,Biserica ortodoxă,oraş CÂMPIA,TURZII Piaţa Mihai Viteazul 9,1939
 1056,CJ-II-m-B-07557,"Conacul Betegh, azi grădiniţă",oraş CÂMPIA,TURZII Str. Teilor 10,sec. XIX
 1057,CJ-II-m-B-07558,Biserica unitariană,sat CHEIA; comuna MIHAI VITEAZU,180,sec. XVIII - XIX
 1058,CJ-II-m-B-07559,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat CHESĂU; MOCIU,comuna 106,sec. XVIII
@@ -980,7 +1065,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1064,CJ-II-m-B-07563,"Biserica ""Sf. Ioan Nepomuk”",sat CHIDEA; comuna VULTURENI,126,1766
 1065,CJ-II-m-B-07564,"Biserica de lemn ""Sf. Gheorghe”",sat CHIDEA; comuna VULTURENI,139,1761
 1066,CJ-II-m-B-07565,Biserica romano-catolică Tuturor Sfinţilor”,"""A sat CHINTENI; CHINTENI",comuna 65,1796
-1067,CJ-II-m-B-07566,"Biserica de lemn ""Sfânta mănăstirii Strâmbu",Cruce” a sat CHIUIEŞTI; CHIUIEŞTI comuna RECEA-,comuna,sf. sec. XVIII
+1067,CJ-II-m-B-07566,"Biserica de lemn ""Sfânta mănăstirii Strâmbu",Cruce” a sat CHIUIEŞTI; CHIUIEŞTI,comuna,sf. sec. XVIII
+1068,CJ-II-m-B-07567,"Biserica de lemn ""Sf. Nicolae”",sat CIUBĂNCUŢA; comuna RECEA- CRISTUR,87,1829
 1069,CJ-II-a-A-07568,"Ansamblul ""Octavian Goga""",sat CIUCEA; comuna CIUCEA,5,sec. XIX - XX
 1070,CJ-II-m-A-07568.01,Conacul Octavian Goga,sat CIUCEA; comuna CIUCEA,5,sec. XIX - XX
 1071,CJ-II-m-A-07568.02,Biserica ortodoxă,sat CIUCEA; comuna CIUCEA,5,sec. XIX - XX
@@ -991,7 +1077,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1076,CJ-II-m-B-07573,"Biserica de lemn ""Intrarea Biserică”",în sat COJOCNA; COJOCNA,comuna Str. Bisericii Ortodoxe 2,1796
 1077,CJ-II-m-B-07574,Biserica reformată,sat COJOCNA; COJOCNA,comuna Str. Republicii 116,1822 - 1825
 1078,CJ-II-m-B-07575,Conacul Vitez,sat COPĂCENI; SĂNDULEŞTI,comuna 501,sec. XIX
-1079,CJ-II-m-B-07576,Castelul Haller (ruine),sat COPLEAN; CĂIEŞU CĂIEŞU,comuna 67,sec. XVIII
+1079,CJ-II-m-B-07576,Castelul Haller (ruine),sat COPLEAN; CĂIEŞU,comuna 67,sec. XVIII
+1080,CJ-II-m-B-07577,Biserica romano - catolică,sat COPLEAN; CĂIEŞU,comuna 81,sec. XV - XVI
 1081,CJ-II-m-B-07578,Conacul Schilling,sat CORNEŞTI; ALUNIŞ,comuna,sec. XVIII - XIX
 1082,CJ-II-m-B-07579,Biserica romano -catolică Maria Mare”,"""Sf. sat CORNEŞTI; CORNEŞTI",comuna 12,1725
 1083,CJ-II-m-B-07580,Biserica romano -catolică Emilia”,"""Sf. sat CORNEŞTI; MIHAI VITEAZU",comuna 274,1774
@@ -1002,7 +1089,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1088,CJ-II-m-B-07583.02,Clopotniţa de lemn,sat CRIŞENI; MOCIU,comuna 132,sec. XIX
 1089,CJ-II-m-B-07584,Biserica reformată,sat CUBLEŞU SOMEŞAN; comuna PANTICEU,104,1774
 1090,CJ-II-m-B-07585,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat CUTCA; comuna SÂNMARTIN,165,1720
-1091,CJ-II-m-B-07586,"Conac, azi Şcoala generală Cuzdrioara",sat CUZDRIOARA; comuna CUZDRIOARA comuna CUZDRIOARA,Str. Bărnuţiu Simion 1,sec. XIX
+1091,CJ-II-m-B-07586,"Conac, azi Şcoala generală Cuzdrioara",sat CUZDRIOARA; comuna CUZDRIOARA,Str. Bărnuţiu Simion 1,sec. XIX
+1092,CJ-II-m-B-07587,Biserica reformată,sat CUZDRIOARA; comuna CUZDRIOARA,Str. Creangă Ion 1,sec. XV
 1093,CJ-II-m-B-07588,Conacul Rhedey,sat DĂBÂCA; DĂBÂCA,comuna 158,sec. XVIII
 1094,CJ-II-m-B-07589,Biserica reformată,sat DĂBÂCA; DĂBÂCA,comuna 312,1743
 1095,CJ-II-m-B-07590,"Biserica de lemn ""Învierea Domnului”",sat DÂNCU; comuna AGHIREŞU,127,1740
@@ -1011,7 +1099,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1098,CJ-II-m-B-07593,Casă,sat DÂNGĂU comuna CĂPUŞU,MIC; 83 MARE,1889 - 1900
 1099,CJ-II-m-B-07594,Biserica reformată,sat DÂRJA; comuna PANTICEU,162,sec. XIII - XV
 1100,CJ-II-m-B-07595,"Biserica de lemn ""Sf. Voievozi”",sat DEALU NEGRU; comuna CĂLĂŢELE,4,1764
-1101,CJ-II-a-A-07597,"Ansamblul urban ""Centrul Dej""",istoric municipiul DEJ,"Zona delimitată de str. Titulescu, de la nr.16 la nr. fundul de parcelă, str. Parcului, frontul vestic către Someş, Casina militara, limita parcelei nordice şi estice, aleea pietonală de la nord de Tribunalul Dej, până la pârâul Salca, malul al pârâului Salca până la str. Mărăşeşti , str. Mărăşeşti str. 1 Mai, limita estică si sudică","sec. XVIII - XIX 4, pe drept"
+1101,CJ-II-a-A-07597,"Ansamblul urban ""Centrul Dej""",istoric municipiul DEJ,"Zona delimitată de str. Titulescu, de la nr.16 la nr. fundul de parcelă, str. Parcului, frontul vestic către Someş, Casina militara, limita parcelei nordice şi estice, aleea pietonală de la nord de Tribunalul Dej, până la pârâul Salca, malul al pârâului Salca până la str. Mărăşeşti , str. Mărăşeşti frontul vestic , de la pod până","sec. XVIII - XIX 4, pe drept la"
 1102,CJ-II-m-B-07596,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",municipiul DEJ,"Str. 1 Mai 12-16, în curtea Spitalului municipal Dej",1829
 1103,CJ-II-m-A-07598,Biserica reformată,municipiul DEJ,Piaţa Bobâlna 6,sec. XV - XVIII
 1104,CJ-II-m-B-07599,Casă,municipiul DEJ,Piaţa Bobâlna 7,sec. XVIII
@@ -1021,6 +1109,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1108,CJ-II-m-A-07600.02,Claustrul mănăstirii,municipiul DEJ,Piaţa Bobâlna 16,sec. XVIII
 1109,CJ-II-m-B-07602,Casă,municipiul DEJ,Str. Mircea cel Batrân 7,1931
 1110,CJ-II-m-B-07603,Sinagogă,municipiul DEJ,Piaţa Stefan cel Mare 1,sec. XX
+1111,CJ-II-m-B-07604,Tribunalul Dej,municipiul DEJ,Str. Titulescu Nicolae 2,sec. XIX - XX
 1112,CJ-II-m-B-07605,Biserica reformată,sat DIVICIORII comuna SÂNMARTIN,MARI; 149,sec. XVIII
 1113,CJ-II-m-B-07606,Biserica reformată,sat DOMOŞU; SÂNCRAIU,comuna 33,sec. XVIII
 1114,CJ-II-a-B-07607,Ansamblul bisericii reformate,sat DOROLŢU; AGHIREŞU,comuna 45,sec. XIV - XIX
@@ -1032,7 +1121,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1120,CJ-II-m-B-07612,Biserica reformată,sat FELDIOARA; comuna CĂTINA,105,sec. XV - XVI
 1121,CJ-II-m-A-07613,"Biserica ""Cuvioasa Paraschiva” Episcopiei Feleacului şi Vadului",a sat FELEACU; FELEACU,comuna 475,1486
 1122,CJ-II-a-A-07614,"Ansamblul bisericii ""Sf. Arhangheli Mihail şi Gavriil”",sat FINIŞEL; comuna SĂVĂDISLA,120,1758
-1123,CJ-II-m-A-07614.01,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat FINIŞEL; comuna SĂVĂDISLA SĂVĂDISLA,120,1758
+1123,CJ-II-m-A-07614.01,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat FINIŞEL; comuna SĂVĂDISLA,120,1758
+1124,CJ-II-m-A-07614.02,Clopotniţa de lemn,sat FINIŞEL; comuna SĂVĂDISLA,120,sec. XVIII - XIX
 1125,CJ-II-m-B-07615,Biserica reformată,sat FIZEŞU GHERLII; comuna FIZEŞU,315 GHERLII,sec. XVII
 1126,CJ-II-m-B-07616,Biserica romano - catolică,sat FLOREŞTI; FLOREŞTI,comuna Str. Iancu Avram 217,sec. XIV - XV
 1127,CJ-II-m-B-07617,"Biserica de lemn ""Pogorârea Duh”",Sf. sat FRATA; comuna FRATA,403,1827
@@ -1041,12 +1131,13 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1130,CJ-II-m-B-07620,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat GÂRBĂUL comuna CĂŞEIU,DEJULUI; 156,sec. XVIII
 1131,CJ-II-m-B-07621,Castelul Beldi,sat GEACA; comuna GEACA,364,sec. XIX
 1132,CJ-II-m-B-07622,Biserica romano -catolică,sat GHEORGHIENI; comuna FELEACU,280,sec. XV
-1133,CJ-II-a-A-07623,"Ansamblul urban ""Centrul oraşului Gherla""",istoric al oraş GHERLA,"Zona delimitată de: limita a parcelei din str. 1 Decembrie nr. 46, fundul de parcelă al loturilor din str. 1 Decembrie nr.22 până la intersecţia cu Speranţia, str. Speranţia frontul sudic până la Canalul Morii, canalul Morii de la intersecţia str. Speranţia până la parc, limita sudică, vestică şi nordică râul Someş, râul Someş de",sudică 1700 str. cu a la
+1133,CJ-II-a-A-07623,"Ansamblul urban ""Centrul oraşului Gherla""",istoric al oraş GHERLA,"Zona delimitată de: limita a parcelei din str. 1 Decembrie nr. 46, fundul de parcelă al loturilor din str. 1 Decembrie nr.22 până la intersecţia cu Speranţia, str. Speranţia frontul sudic până la Canalul Morii, canalul Morii de la intersecţia str. Speranţia până la parc, limita sudică, vestică şi nordică parcului, Canalul Morii până",sudică 1700 str. cu a la
 1134,CJ-II-m-B-07624,Casă,oraş GHERLA,Str. 1 Decembrie 1918 1,1773
 1135,CJ-II-m-B-07625,Casă,oraş GHERLA,Str. 1 Decembrie 1918 2,1764
 1136,CJ-II-m-B-07626,Casă,oraş GHERLA,Str. 1 Decembrie 1918 3,sec. XVIII
 1137,CJ-II-m-B-07627,Casă,oraş GHERLA,Str. 1 Decembrie 1918 4,sec. XVIII
 1138,CJ-II-m-B-07628,Casă,oraş GHERLA,Str. 1 Decembrie 1918 5,1760
+1139,CJ-II-m-B-07629,Casă,oraş GHERLA,Str. 1 Decembrie 1918 6,sf. sec. XVIII
 1140,CJ-II-m-B-07630,Casă,oraş GHERLA,Str. 1 Decembrie 1918 7,sec. XVIII
 1141,CJ-II-m-B-07631,Casă,oraş GHERLA,Str. 1 Decembrie 1918 8,sec. XVIII
 1142,CJ-II-m-B-07632,Casă,oraş GHERLA,Str. 1 Decembrie 1918 10,sf. sec. XVIII
@@ -1059,6 +1150,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1149,CJ-II-m-B-07639,Casă,oraş GHERLA,Str. Bariţiu George 1 şi Piaţa Libertăţii 6,sec. XVIII - XIX
 1150,CJ-II-m-B-07640,"Casă, azi Capela baptistă",oraş GHERLA,Str. Bariţiu George 2,sec. XVIII
 1151,CJ-II-a-B-07641,Mănăstirea franciscanilor,oraş GHERLA,Str. Bobâlna 8,sec. XVIII - XIX
+1152,CJ-II-m-B-07641.01,Biserica mănăstirii franciscane,oraş GHERLA,Str. Bobâlna 8,sec. XVIII - XIX
 1153,CJ-II-m-B-07641.02,Claustrul mănăstirii franciscane,oraş GHERLA,Str. Bobâlna 8,sec. XVIII - XIX
 1154,CJ-II-m-B-07642,"Liceul ""Petru Maior”",oraş GHERLA,Str. Bobâlna 14,1896
 1155,CJ-II-m-B-07643,Casă,oraş GHERLA,Str. Bobâlna 16,înc. sec. XX
@@ -1070,7 +1162,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1161,CJ-II-m-B-07649,Casă,oraş GHERLA,Piaţa Libertăţii 11,sec. XVIII - XIX
 1162,CJ-II-m-B-07650,"Casă, azi farmacie",oraş GHERLA,Piaţa Libertăţii 12,1747
 1163,CJ-II-m-B-07651,Casă,oraş GHERLA,Piaţa Libertăţii 13,sec. XVIII - XIX
-1164,CJ-II-m-B-07652,Casă oraşului Gherla,oraş GHERLA,Str. Mihai Viteazul 2,1814
+1164,CJ-II-m-B-07652,Casă,oraş GHERLA,Str. Mihai Viteazul 2,1814
+1165,CJ-II-m-A-07653,"Casa Karacsony, azi Muzeul oraşului Gherla",oraş GHERLA,Str. Mihai Viteazul 6,sec. XVIII
 1166,CJ-II-m-B-07654,Casă,oraş GHERLA,Str. Mihai Viteazul 8,1760
 1167,CJ-II-m-B-07655,Casă,oraş GHERLA,Str. Mihai Viteazul 11,1808
 1168,CJ-II-m-B-07656,Casă,oraş GHERLA,Str. Mihai Viteazul 12,1767
@@ -1083,6 +1176,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1175,CJ-II-m-B-07663,Casă,oraş GHERLA,Str. Romană 21,1846
 1176,CJ-II-m-B-07664,Casă,oraş GHERLA,Str. Romană 31,sec. XVIII
 1177,CJ-II-m-B-07665,Casă,oraş GHERLA,Str. Romană 33,sec. XVIII
+1178,CJ-II-m-B-07666,Casă,oraş GHERLA,Str. Speranţia Theodor 1,sec. XVIII
 1179,CJ-II-m-B-07667,Casă,oraş GHERLA,Str. Speranţia Theodor 3,1777
 1180,CJ-II-m-B-07668,Casă,oraş GHERLA,Str. Ştefan cel Mare 3,1739
 1181,CJ-II-m-B-07669,Casa parohială a bisericii catolice,armeano - oraş GHERLA,Str. Ştefan cel Mare 5,1761
@@ -1095,6 +1189,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1188,CJ-II-m-B-07673.04,Şură,sat GILĂU; comuna GILĂU,Str. Principală,sec. XIX
 1189,CJ-II-s-B-07673.05,Parcul castelului,sat GILĂU; comuna GILĂU,Str. Principală,sec. XIX
 1190,CJ-II-m-B-07677,Casa Bogdan,oraş HUEDIN,Str. Clujului 11,sec. XIX
+1191,CJ-II-m-B-07678,"Conacul Barcsay, azi şcoală",oraş HUEDIN,Str. Iancu Avram 41,sec. XVIII
 1192,CJ-II-m-A-07679,Biserica reformată,oraş HUEDIN,Piaţa Republicii,sec. XIII - XIV
 1193,CJ-II-m-B-07680,Conacul Teleki,sat IARA; comuna,IARA,sec. XIX
 1194,CJ-II-m-B-07681,Conacul Beldi,sat IARA; comuna,IARA,sec. XIX
@@ -1105,7 +1200,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1199,CJ-II-m-B-07686,"Castel, azi şcoală generală",sat JUCU DE comuna JUCU,SUS; 463-464,sec. XIX
 1200,CJ-II-m-B-07687,"Biserica de lemn ""Cuvioasa Paraschiva”",sat LACU; comuna GEACA,68,1771
 1201,CJ-II-m-B-07688,Biserica reformată,sat LEGII; comuna GEACA,83,1849
-1202,CJ-II-m-B-07689,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil” Gavriil”",sat LIVADA; comuna PETREŞTII DE CORNEŞTI, JOS,1842 - 1846
+1202,CJ-II-m-B-07689,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat LIVADA; comuna PETREŞTII DE, JOS,1842 - 1846
+1203,CJ-II-m-B-07691,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi sat LUJERDIU; CORNEŞTI,comuna 199,sec. XVI
 1204,CJ-II-a-B-07692,Ansamblul castelului Teleki,sat LUNA DE comuna DĂBÂCA,JOS; 17,sec. XVIII
 1205,CJ-II-m-B-07692.01,"Castel, azi Sanatoriul TBC",sat LUNA DE comuna DĂBÂCA,JOS; 17,sec. XVIII
 1206,CJ-II-m-B-07692.02,Turnul de vânătoare,sat LUNA DE comuna DĂBÂCA,JOS; 17,sec. XVIII
@@ -1117,7 +1213,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1212,CJ-II-m-B-07697,Castelul Kemeny,sat LUNCANI; LUNA,comuna 402,sec. XVIII
 1213,CJ-II-m-B-07698,Conacul Kemeny,sat LUNCANI; LUNA,comuna 428,1815
 1214,CJ-II-m-B-07699,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat MACĂU; AGHIREŞU,comuna 60,1730
-1215,CJ-II-m-B-07700,Conac Mihail şi Gavriil”,sat MĂCICAŞU; CHINTENI comuna IARA,comuna 120,sec. XVIII
+1215,CJ-II-m-B-07700,Conac,sat MĂCICAŞU; CHINTENI,comuna 120,sec. XVIII
+1216,CJ-II-m-B-07701,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat MĂGURA comuna IARA,IERII; 41,1783
 1217,CJ-II-m-B-07702,Biserica veche ortodoxă,sat MĂNĂSTIREA; comuna MICA,63,sec. XVIII
 1218,CJ-II-m-B-07703,"Biserica ""Sf. Nicolae”",sat MĂNĂSTIREA; comuna MICA,86,1520
 1219,CJ-II-a-A-07704,Castelul Kornis,sat MĂNĂSTIREA; comuna MICA,160-161,"1512, ref. sec. XIX"
@@ -1129,7 +1226,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1225,CJ-II-m-B-07707,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi sat MĂRGĂU; MĂRGĂU,comuna 403,1797
 1226,CJ-II-m-B-07708,Biserica reformată,sat MERA; comuna BACIU,301,sec. XVIII
 1227,CJ-II-m-B-07709,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi sat MICA; comuna MINTIU GHERLII,38,sec. XIX
-1228,CJ-II-m-B-07710,"Biserica ""Pogorârea Sf. Duh”",sat MICEŞTI; TURENI comuna MIHAI,comuna 200,1794
+1228,CJ-II-m-B-07710,"Biserica ""Pogorârea Sf. Duh”",sat MICEŞTI; TURENI,comuna 200,1794
+1229,CJ-II-m-B-07711,Biserica romano - catolică,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,,sec. XIX
 1230,CJ-II-m-B-07712,Biserica unitariană,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,477,sec. XVIII
 1231,CJ-II-m-B-07713,Biserica reformată,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,928,1674 - 1684
 1232,CJ-II-m-B-07714,Biserica reformată,sat MINTIU GHERLII; comuna MINTIU GHERLII,184,sec. XIII
@@ -1138,7 +1236,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1235,CJ-II-m-B-07717,"Biserica de lemn ""Sf. Nicolae”",sat MUNCEL; CÂŢCĂU,comuna 93,sec. XVIII
 1236,CJ-II-m-B-07745,"Biserica de lemn ""Sf. Petru”",sat MUREŞENII CÂMPIE; comuna PALATCA,DE 153,1774
 1237,CJ-II-m-B-07718,"Biserica de lemn ""Sf. Arhangheli”",sat NADĂŞU; IZVORU CRIŞULUI,comuna 14,1720 - 1730
-1238,CJ-II-m-B-07719,Conacul Lazsay-Filip,sat NĂDĂŞELU; GÂRBĂU ŢAGA,comuna 62,sec. XVIII - XIX
+1238,CJ-II-m-B-07719,Conacul Lazsay-Filip,sat NĂDĂŞELU; GÂRBĂU,comuna 62,sec. XVIII - XIX
+1239,CJ-II-m-B-07720,Biserica reformată,sat NĂSAL; comuna ŢAGA,,sec. XV
 1240,CJ-II-m-B-07721,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat NĂSAL; comuna ŢAGA,138,1804 - 1808
 1241,CJ-II-m-A-07722,"Biserica de lemn ""Adormirea Domnului”",Maicii sat NICULA; comuna FIZEŞU GHERLII,253,1650
 1242,CJ-II-m-B-07723,Biserica reformată,sat NIMA; comuna MINTIU GHERLII,172,sec. XIII
@@ -1149,7 +1248,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1247,CJ-II-m-B-07728,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat OCOLIŞEL; IARA,comuna 85,1852
 1248,CJ-II-a-B-07729,Ansamblul bisericii reformate,sat ORMAN; ICLOD,comuna 164,sec. XIII - XV
 1249,CJ-II-m-B-07729.01,Biserica reformată,sat ORMAN; ICLOD,comuna 164,sec. XIII - XV
-1250,CJ-II-m-B-07729.02,Clopotniţa bisericii reformate Mihail şi Gavriil”,sat ORMAN; ICLOD RECEA-CRISTUR,comuna 164,sec. XVIII - XIX
+1250,CJ-II-m-B-07729.02,Clopotniţa bisericii reformate,sat ORMAN; ICLOD,comuna 164,sec. XVIII - XIX
+1251,CJ-II-m-B-07730,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat OSOI; comuna RECEA-CRISTUR,18,1800
 1252,CJ-II-m-B-07731,Biserica reformată,sat PANTICEU; PANTICEU,comuna 82,sec. XVII
 1253,CJ-II-m-B-07732,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat PĂDURENI; CIURILA,comuna,1750
 1254,CJ-II-a-B-07733,Ansamblul bisericii reformate,sat PĂLATCA; PĂLATCA,comuna 356,sec. XV
@@ -1161,7 +1261,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1260,CJ-II-m-B-07737,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi sat PODENI; MOLDOVENEŞTI,comuna 40,1663
 1261,CJ-II-m-B-07738,"Biserica ""Înălţarea Domnului”",sat PODENI; MOLDOVENEŞTI,comuna Str. Principală 18,1808
 1262,CJ-II-m-B-07739,Conacul Bornemisza - Matskassy,sat POPEŞTI; BACIU,comuna 155,1804
-1263,CJ-II-m-B-07740,"Biserica de lemn ""Înălţarea Cruci”",Sf. sat PRUNENI; ALUNIŞ CIURILA,comuna 42,sec. XVIII
+1263,CJ-II-m-B-07740,"Biserica de lemn ""Înălţarea Cruci”",Sf. sat PRUNENI; ALUNIŞ,comuna 42,sec. XVIII
+1264,CJ-II-m-A-07690,Castelul Veres,sat PRUNIŞ; comuna CIURILA,,sec. XVIII - XIX
 1265,CJ-II-m-B-07741,Biserica reformată,sat RĂSCRUCI; BONŢIDA,comuna 119,sec. XVII
 1266,CJ-II-a-A-07742,"Castelul Banffy, azi Şcoala ajutătoare",sat RĂSCRUCI; BONŢIDA,comuna Str. Principală 484,sec. XVIII
 1267,CJ-II-m-A-07742.01,Corp clădire castel,sat RĂSCRUCI; BONŢIDA,comuna Str. Principală 484,sec. XVIII
@@ -1173,7 +1274,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1273,CJ-II-m-B-07748,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat SĂLIŞTE; comuna CIURILA,3,1754
 1274,CJ-II-m-B-07749,"Biserica de lemn ""Naşterea Botezătorul”",Sf. Ioan sat SĂLIŞTEA comuna BACIU,NOUĂ; 52A,1750
 1275,CJ-II-m-B-07750,Biserica de lemn,sat SĂLIŞTEA comuna CHINTENI,VECHE;,1589 - 1600
-1276,CJ-II-m-B-07751,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi sat SĂNDULEŞTI; comuna SĂNDULEŞTI comuna SĂNDULEŞTI,164,sec. XV
+1276,CJ-II-m-B-07751,"Biserica ""Sf. Arhangheli Mihail Gavriil”",şi sat SĂNDULEŞTI; comuna SĂNDULEŞTI,164,sec. XV
+1277,CJ-II-a-B-07752,Biserica unitariană,sat SĂNDULEŞTI; comuna SĂNDULEŞTI,202,sec. XV
 1278,CJ-II-m-B-07753,"Castelul Mikes, azi Sanatoriul",TBC sat SĂVĂDISLA; SĂVĂDISLA,comuna 347,sec. XIX
 1279,CJ-II-m-B-07754,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat SÂMBOIENI; comuna SÂNMARTIN,32,1753
 1280,CJ-II-m-B-07755,Biserica reformată,sat SÂNCRAIU; SÂNCRAIU,comuna 308,sec. XIII - XV
@@ -1185,7 +1287,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1286,CJ-II-m-B-07761,Biserica mănăstirii franciscane,sat SIC; comuna,SIC Str. Întâia 123,1758 - 1795
 1287,CJ-II-m-B-07762,"Biserica de lemn ""Sf. Ioan Aur”",Gură de sat SIC; comuna,SIC Str. Sutâior 123,1707
 1288,CJ-II-m-B-07763,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",localitatea SILIVAŞ; GHERLA,oraş 98,1827
-1289,CJ-II-m-B-07764,"Biserica de lemn ""Pogorârea Duh”",Sf. sat SOMEŞU comuna GILĂU MOLDOVENEŞTI,RECE; 71,sec. XVIII
+1289,CJ-II-m-B-07764,"Biserica de lemn ""Pogorârea Duh”",Sf. sat SOMEŞU comuna GILĂU,RECE; 71,sec. XVIII
+1290,CJ-II-m-B-07765,Biserica reformată,sat STEJERIŞ; MOLDOVENEŞTI,comuna 150,1714
 1291,CJ-II-m-B-07766,Biserica reformată,sat STOIANA; CORNEŞTI,comuna 7,sec. XV
 1292,CJ-II-m-B-07767,"Biserica de lemn ""Cuvioasa Paraschiva"" şi ""Sf. Nicolae”",sat STOLNA; SĂVĂDISLA,comuna 47,1730
 1293,CJ-II-m-B-07768,"Biserica de lemn ""Sf. Trei",Ierarhi” sat STRAJA; comuna CĂPUŞU MARE,57,sec. XVII
@@ -1197,7 +1300,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1299,CJ-II-m-B-07774,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat SURDUC; IARA,comuna 35,sec. XVIII
 1300,CJ-II-m-B-07775,Ruinele bisericii reformate,sat ŞARDU; comuna SÂNPAUL,64,1300
 1301,CJ-II-m-B-07776,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat ŞARDU; comuna SÂNPAUL,173,1752
-1302,CJ-II-m-B-07777,Moara Szabo Mihail şi Gavriil”,sat ŞOIMENI; VULTURENI FLOREŞTI,comuna 128,1750
+1302,CJ-II-m-B-07777,Moara Szabo,sat ŞOIMENI; VULTURENI,comuna 128,1750
+1303,CJ-II-m-B-07778,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat TĂUŢI; comuna FLOREŞTI,47,sec. XIX
 1304,CJ-II-m-B-07779,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat TÂRGUŞOR; comuna SÂNMARTIN,70,sec. XVII
 1305,CJ-II-m-B-07780,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat TICU; comuna AGHIREŞU,14,1641
 1306,CJ-II-m-B-07781,"Biserica de lemn ""Sf. Varvara”",sat TICU-COLONIE; comuna AGHIREŞU,78,1735
@@ -1208,13 +1312,14 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1311,CJ-II-m-B-07784,Biserica ortodoxă,sat TIOLTIUR; CORNEŞTI,comuna 134A,sec. XVI - XVIII
 1312,CJ-II-m-B-07785,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat TIOLTIUR; CORNEŞTI,comuna 145,1800
 1313,CJ-II-m-B-07787,Fabrica de Bere,municipiul TURDA,,"1756 - 1814, extinsă 1880-1911"
-1314,CJ-II-s-B-07797,Ansamblu urban,municipiul TURDA,"Zona delimitată de: limita parcelă din str. Avram Iancu 10 şi 12, fundul de parcelă str. Avram Iancu nr. 10-2, Castanilor frontul Nordic, Gheorghe Lazăr frontul estic,",de sec. XVIII - XIX nr. din str. str.
+1314,CJ-II-s-B-07797,Ansamblu urban,municipiul TURDA,"Zona delimitată de: limita parcelă din str. Avram Iancu 10 şi 12, fundul de parcelă str. Avram Iancu nr. 10-2, Castanilor frontul Nordic, Axente Sever frontul estic,",de sec. XVIII - XIX nr. din str. str. str.
 1315,CJ-II-m-B-07788,Prefectura veche,municipiul TURDA,Piaţa 1 Decembrie 1918,1884 - 1886
 1316,CJ-II-m-B-21086,Casa rurală,municipiul TURDA,Piața 1 Decembrie 1918 5,
 1317,CJ-II-m-B-07789,"Biserica reformată ""Turda",Nouă” municipiul TURDA,Str. Basarabiei 12,1504
 1318,CJ-II-m-B-07790,Biserica reformată,municipiul TURDA,Str. Câmpiei 57,sec. XV
 1319,CJ-II-m-B-07791,Casă,municipiul TURDA,Str. Coşbuc George 12,înc. sec. XX
 1320,CJ-II-m-B-07792,Casă,municipiul TURDA,Str. Coşbuc George 13,înc. sec. XX
+1321,CJ-II-m-A-07793,"Biserica reformată ""Turda",Veche” municipiul TURDA,Str. Haşdeu Petriceicu Bogdan,1 sec. XV
 1322,CJ-II-m-A-07794,"Palatul voievodal, azi Muzeul Istorie Turda",de municipiul TURDA,Str. Haşdeu Petriceicu Bogdan,2 sec. XV - XVI
 1323,CJ-II-m-B-07795,Ruinele cetăţii Turda,municipiul TURDA,Str. Mircea Vodă 4,sec. XIV - XV
 1324,CJ-II-m-B-07796,Casa parohială a bisericii,reformate municipiul TURDA,"Str. Raţiu Ioan, doctor 44",sec. XVIII
@@ -1226,7 +1331,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1330,CJ-II-m-B-07803,Castelul Wass,sat ŢAGA; comuna ŢAGA,139,sec. XVIII
 1331,CJ-II-m-B-07804,Biserica reformată,sat UNGURAŞ; UNGURAŞ,comuna 354,sec. XIV
 1332,CJ-II-m-A-07805,"Biserica ""Adormirea Maicii Domnului” a mănăstirii Vadului",sat VAD; comuna,VAD 98,sec. XV
-1333,CJ-II-m-B-07806,Biserica reformată,sat VAIDA-CĂMĂRAŞ; comuna CĂIANU CĂLĂŢELE,134,sec. XVII
+1333,CJ-II-m-B-07806,Biserica reformată,sat VAIDA-CĂMĂRAŞ; comuna CĂIANU,134,sec. XVII
+1334,CJ-II-m-B-07807,Biserica reformată,sat VĂLENI; comuna CĂLĂŢELE,189,sec. XII - XV
 1335,CJ-II-m-B-07808,"Biserica de lemn ""Adormirea Domnului”",Maicii sat VECHEA; CHINTENI,comuna,1726
 1336,CJ-II-m-B-07809,Biserica reformată,sat VIIŞOARA; VIIŞOARA,comuna 620,sec. XVIII
 1337,CJ-II-m-B-07810,Biserica de lemn,sat VIŞAGU; comuna SĂCUIEU,111,1800
@@ -1238,7 +1344,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1343,CJ-III-m-B-07814,Statuia Lupa Capitolina (copie),municipiul CLUJ- NAPOCA,Bd. Eroilor 28,
 1344,CJ-III-m-A-07815,"Statuie ecvestră ""Sfântul ucigând balaurul”",Gheorghe municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail,1373
 1345,CJ-III-m-B-07816,Obeliscul Carolina,municipiul CLUJ- NAPOCA,Piaţa Muzeului,1801
-1346,CJ-III-m-B-07817,Lespedea de piatră cu stema oraşului Cluj,municipiul CLUJ- NAPOCA NAPOCA,Str. Republicii 7,
+1346,CJ-III-m-B-07817,Lespedea de piatră cu stema oraşului Cluj,municipiul CLUJ- NAPOCA,Str. Republicii 7,
+1347,CJ-III-m-B-07818,Statuia lui Mihai Eminescu,municipiul CLUJ- NAPOCA,Str. Republicii 42,1930
 1348,CJ-III-m-A-07819,Statuia ecvestră a lui Matei,Corvin municipiul CLUJ- NAPOCA,Piaţa Unirii,1902
 1349,CJ-III-m-B-07820,Monumentul martirilor revoluţionari maghiari din,municipiul CLUJ- 1849 NAPOCA,Str. Vuia Traian,1896
 1350,CJ-III-m-B-07821,Monumentul comemorativ răscoalei din 1437,al sat BOBÂLNA; BOBÂLNA,comuna,1957
@@ -1250,7 +1357,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1356,CJ-IV-m-B-07827,Casa în care a trăit Constantin Ujeicu,municipiul CLUJ- NAPOCA,Str. Bălcescu Nicolae 15,sec. XX
 1357,CJ-IV-m-B-07828,Casa în care a locuit dr. Silaşi Grigore,municipiul CLUJ- NAPOCA,Str. Bisericii Ortodoxe 5,aprox.1820
 1358,CJ-IV-m-B-07829,Casa în care a locuit Alexandru Lapedatu,municipiul CLUJ- NAPOCA,Str. Bolintineanu Dimitrie,16 1925
-1359,CJ-IV-m-B-07830,Casa în care a locuit Gheorghe Dima,municipiul CLUJ- NAPOCA NAPOCA,Str. Brătianu I.C. 14,1804
+1359,CJ-IV-m-B-07830,Casa în care a locuit Gheorghe Dima,municipiul CLUJ- NAPOCA,Str. Brătianu I.C. 14,1804
+1360,CJ-IV-m-B-07831,Casa în care a locuit George,Vâlsan municipiul CLUJ- NAPOCA,Str. Clinicilor 34,1915 - 1917
 1361,CJ-IV-m-B-07832,Sediul Sindicatelor C.F.R. perioada interbelică,în municipiul CLUJ- NAPOCA,Str. Craiovei 24,sf. sec. XIX
 1362,CJ-IV-m-B-07833,Casa în care a locuit Dominic Stanca,municipiul CLUJ- NAPOCA,Str. Dobrogeanu Gherea Constantin 22,1930
 1363,CJ-IV-m-B-07834,Sediul cenaclului literar Victor Papilian,municipiul CLUJ- NAPOCA,Str. Einstein Albert 6,1890
@@ -1261,7 +1369,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1368,CJ-IV-s-B-07839,Cimitirul Central,municipiul CLUJ- NAPOCA,Str. Iancu Avram 26-28,sec. XIX
 1369,CJ-IV-m-B-07839.001,Cavou Gaetano Biasini (1790-1847),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 566. Parcela I.A",topo sec. XIX
 1370,CJ-IV-m-B-07839.002,Cavou Donogány Gergely,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 18. Parcela I.A cimitir lutheran",topo sec. XIX
-1371,CJ-IV-m-B-07839.003,Mormânt Bodor Pál,municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. 551. Parcela I.A 550. Parcela I.A",topo sec. XIX
+1371,CJ-IV-m-B-07839.003,Mormânt Bodor Pál,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 551. Parcela I.A",topo sec. XIX
+1372,CJ-IV-m-B-07839.004,Mormânt Geiser Antal (1785-1879),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr.topo 550. Parcela I.A",sec. XIX
 1373,CJ-IV-m-B-07839.005,Mormântul Nagy Péter (1819- 1884),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 2. Parcela I.B",topo sec. XIX
 1374,CJ-IV-m-B-07839.006,Monument funerar Szász (1838-1899),Domokos municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 4. Parcela I.B",topo sec. XIX
 1375,CJ-IV-m-B-07839.007,Monument funerar Bartók (1845-1907),György municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 3. Parcela I.B",topo sec. XX
@@ -1272,7 +1381,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1380,CJ-IV-m-B-07839.012,Mormânt funerar cu basorelief Salamon János (1825-1899),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, NR. 67. Parcela I.C",topo 1903
 1381,CJ-IV-m-B-07839.013,Obelisc funerar Gyarmathi (1751-1830),Sámuel municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 564. Parcela I.C",sec. XIX
 1382,CJ-IV-m-B-07839.014,Obelisc funerar Hatházi Sándor,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 565. Parcela I.C",topo sec. XX
-1383,CJ-IV-m-B-07839.015,Mormânt Hirschfeld Károly 1871),(1821- municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. 559. Parcela I.C topo. 560. Parcela I.C.",topo sec. XIX
+1383,CJ-IV-m-B-07839.015,Mormânt Hirschfeld Károly 1871),(1821- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. 559. Parcela I.C",topo sec. XIX
+1384,CJ-IV-m-B-07839.016,Mormânt Hirschfeld József,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 560. Parcela I.C.",sec. XIX
 1385,CJ-IV-m-B-07839.017,Mormânt Hirschfeld Ferencz,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 561. Parcela I.C",sec. XIX
 1386,CJ-IV-m-B-07839.018,Mormânt Hirschfeld Katalin,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 562. Parcela I.C",sec. XIX
 1387,CJ-IV-m-B-07839.019,Mormânt Hirschfeld Frigyes,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 563. Parcela I.C.",Post 1848
@@ -1284,7 +1394,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1393,CJ-IV-m-B-07839.025,Cavoul familial Szász-Weress,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 84. Parcela I. C",sec. XIX
 1394,CJ-IV-m-B-07839.026,Cavou Jelen 1585,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 175. Parcela I.C",sec. XIX
 1395,CJ-IV-m-B-07839.027,Cavou Csávássy Gyula,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 24. Parcelea I.C",Cca. 1870
-1396,CJ-IV-m-B-07839.028,"Cavou Toader, fost Kirmayer",municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 25. Parcela I.C 26. Parcela I.C",Post 1870
+1396,CJ-IV-m-B-07839.028,"Cavou Toader, fost Kirmayer",municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 25. Parcela I.C",Post 1870
+1397,CJ-IV-m-B-07839.029,Cavou Szörtsey,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr.topo. 26. Parcela I.C",sec. XIX
 1398,CJ-IV-m-B-07839.030,Mormânt Mike Sándor (1795-1867),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 186. Parcela I.C",1867
 1399,CJ-IV-m-B-07839.031,Mormânt Jakab Elek (1820-1897),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 186. Parcela I.C",1897
 1400,CJ-IV-m-B-07839.032,Obelsic funerar Liska János,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 164. Parcela II. B",Post 1870
@@ -1296,7 +1407,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1406,CJ-IV-m-B-07839.038,Obelisc funerar Bethlen Gergely (1810-1867),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 245. Parcela I.C",1903
 1407,CJ-IV-m-B-07839.039,Mausoleul Sigmong Elek 1877),(1810- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 1. Parcela II.A",Post 1877
 1408,CJ-IV-m-B-07839.040,Mormânt Szombathelyi Béla 1881),(1858- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 126. Parcela II. A",sec. XIX
-1409,CJ-IV-m-B-07839.041,Mormânt Ecsedi Kovács Gyula (1839-1899) 1880),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 125. Parcela II. A topo. 27. Parcela II. A",sec. XIX
+1409,CJ-IV-m-B-07839.041,Mormânt Ecsedi Kovács Gyula (1839-1899),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 125. Parcela II. A",sec. XIX
+1410,CJ-IV-m-B-07839.042,Mormânt Kerekes Márton 1880),(1819- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 27. Parcela II. A",sec. XIX
 1411,CJ-IV-m-B-07839.043,Mormânt Kerekes József 1894),(1846- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo.27.",
 1412,CJ-IV-m-B-07839.044,Mormânt Albach Géza (1829-1900),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 122. Parcela II. A",1900
 1413,CJ-IV-m-B-07839.045,Mormânt Sámi László (1817-1881),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 120. Parcela II. A",sec. XIX
@@ -1307,7 +1419,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1418,CJ-IV-m-B-07839.050,"Mormânt Szentgyörgyi István (1842-1931), Kovács György 1977)",municipiul CLUJ- (1910- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 45. Parcela II. A",sec. XX
 1419,CJ-IV-m-B-07839.051,Mormântul familiei Mischinger,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 128. Parcela II. A",sec. XX
 1420,CJ-IV-m-B-07839.052,"Mormânt Janovics Jenö (1872- 1945), Poór Lili (1886-1962)",municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 46. Parcela II. A",sec. XX
-1421,CJ-IV-m-B-07839.053,Mormânt Bárány Istvánné Zipfelmayer,şi Alfred municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 30. Parcela II. A topo. 36. Parcela II. A",sec. XX
+1421,CJ-IV-m-B-07839.053,Mormânt Bárány Istvánné Zipfelmayer,şi Alfred municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 30. Parcela II. A",sec. XX
+1422,CJ-IV-m-B-07839.054,Cavou Inczédy Sámuel (1866-1919),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 36. Parcela II. A",Post 1919
 1423,CJ-IV-m-B-07839.055,Monument funerar Dimitrie Popovici Bayreuth (1859-1927),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 56. Parcela II. B",Post 1927
 1424,CJ-IV-m-B-07839.056,Monument funerar Szabó (1824-1874),Mihály municipiul CLIJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 66. Parcela II. B",1875
 1425,CJ-IV-m-B-07839.057,Mormânt Nicolae Bretan 1968),(1887- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 51. Parcela I.B",sec. XX
@@ -1319,7 +1432,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1431,CJ-IV-m-B-07839.063,Obelisc funerar Csernyánszky Victor (1871-1897),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 53. Parcela II. B",Post 1897
 1432,CJ-IV-m-B-07839.064,Mormânt Boytha József (1814- 1888),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 147. Parcela II. B",sec. XIX
 1433,CJ-IV-m-B-07839.065,Mormânt Somodi István 1963),(1885- municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 144. Parcela II. B",sex. XX
-1434,CJ-IV-m-B-07839.066,Mormânt Somodi András 1975) (1650-1702),(1888- municipiul CLUJ- NAPOCa NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 144. Parcela II. B topo. 146. Parcela II. B",1975
+1434,CJ-IV-m-B-07839.066,Mormânt Somodi András 1975),(1888- municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 144. Parcela II. B",1975
+1435,CJ-IV-m-B-07839.067,Mormântul Tóthfalusi Kis (1650-1702),Miklós municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 146. Parcela II. B",sec. XVIII
 1436,CJ-IV-m-B-07839.068,Mormântul Rauch András 1855),(1815- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 54. Parcela II. B",1855
 1437,CJ-IV-m-B-07839.069,Cenotaf Apáczai Csere János 1659),(1625- municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 156. Parcela II. C",sec. XX
 1438,CJ-IV-m-B-07839.070,Mormânt Nagy Géza (1916-1978),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 156. Parcela II. C",sec. XX
@@ -1331,7 +1445,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1444,CJ-IV-m-B-07839.076,Mormânt Sárkány Ferenc 1896),(1822- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 207. Parcela II. C",1896
 1445,CJ-IV-m-B-07839.077,Obelisc funerar Sárkány Lajos (1860-1929),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 207. Parcela II. C",sec. XX
 1446,CJ-IV-m-B-07839.078,Ansamblul funerar Herczeg senior (1849-1916),Lajos municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 322. Parcela II. C",sec. XX
-1447,CJ-IV-m-B-07839.079,Obelisc funerar Herczeg Lajos junior (1863-1883) (1811-1887),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 323. Parcela II. C topo. 324. Parcela II. C",1883
+1447,CJ-IV-m-B-07839.079,Obelisc funerar Herczeg Lajos junior (1863-1883),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 323. Parcela II. C",1883
+1448,CJ-IV-m-B-07839.080,Mormânt Pataki Sándor senior (1811-1887),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 324. Parcela II. C",1887
 1449,CJ-IV-m-B-07839.081,Mormânt Pataki Sándor junior (1854-1917),municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 325. Parcela II. C",1917
 1450,CJ-IV-m-B-07839.082,Mormânt Pataki Sámuel 1824),(1765- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 334. Parcela II. C",1824
 1451,CJ-IV-m-B-07839.083,Mormânt Pataki József (+1865),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 350. Parcela II. C",1865
@@ -1343,7 +1458,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1457,CJ-IV-m-B-07839.089,Obelisc funerar Méhes Sámuel (1785-1852),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 236. Parcela II. C",Post 1852
 1458,CJ-IV-m-B-07839.090,Obelisc funerar Incze Dániel 1857),(1808- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 237. Parcela II. C",1857
 1459,CJ-IV-m-B-07839.091,Obelisc funerar Gedö Sándor (1842-1863),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 238. Parcela II. C",1863
-1460,CJ-IV-m-B-07839.092,Obelisc funerar Jánosi - Gedö (1855-1935),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 239. Parcela II. C topo. 240. Parcela II. C",1902
+1460,CJ-IV-m-B-07839.092,Obelisc funerar Jánosi - Gedö,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 239. Parcela II. C",1902
+1461,CJ-IV-m-B-07839.093,Obelisc funerar Hubai Károly (1855-1935),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 240. Parcela II. C",sec. XX
 1462,CJ-IV-m-B-07839.094,Obelisc funerar Azari István 1893),(1829- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 355. Parcela II. C",1894
 1463,CJ-IV-m-B-07839.095,Monument funerar Toczauer (1830-1910),Hugó municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 300. Parcela II. C",sec. XX
 1464,CJ-IV-m-B-07839.096,Monument funerar Toczauer (1868-1905),Ödön municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 302. Parcela II. C",sec. XX
@@ -1355,7 +1471,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1470,CJ-IV-m-B-07839.102,Troiţa de lemn Szenczi Molnár Albert (1574-1634),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 136. Parcela III. A",1940
 1471,CJ-IV-m-B-07839.103,Cavoul familiei Gyalokay,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 135. Parcela III.A",sec. XIX-XX
 1472,CJ-IV-m-B-07839.104,Mormânt Kovásznai Péter 1673),(1617- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 348. Parcela III. B",1673
-1473,CJ-IV-m-B-07839.105,Piatră funerară Pósalaki József,municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 346. Parcela III.B topo. 347. Parcela III.B",1796
+1473,CJ-IV-m-B-07839.105,Piatră funerară Pósalaki József,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 346. Parcela III.B",1796
+1474,CJ-IV-m-B-07839.106,Piatra funerară Szilágyi János,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 347. Parcela III.B",1676
 1475,CJ-IV-m-B-07839.107,Mormânt Herepei Geregly 1859),(1807- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 342. Parcela III. B",1859
 1476,CJ-IV-m-B-07839.108,Piatră funerară Incze Mihály 1795) şi Pataki Sára,(1723- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 342. Parcela III. B",1794
 1477,CJ-IV-m-B-07839.109,Obelisc funerar Szilágyi Ferencné Molnár Julianna (1801-1838),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 321. Parcela III. B",1838
@@ -1366,7 +1483,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1482,CJ-IV-m-B-07839.114,Piatra funerară Szacsvai Vécsi György (+1836),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 317. Parcela III.B",1839
 1483,CJ-IV-m-B-07839.115,Piatra funerară Szacsvai Zsuzsánna (+1843),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 317. Parcela III.B",1843
 1484,CJ-IV-m-B-07839.116,Piatra funerară Biró Lajos 1868),(1851- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 344. Parcela III.B",1879
-1485,CJ-IV-m-B-07839.117,Piatra funerară Bodoki Mária (1789-1836) 1866),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 345. Parcela III. B topo. 343. Parcela III. B",1836
+1485,CJ-IV-m-B-07839.117,Piatra funerară Bodoki Mária (1789-1836),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 345. Parcela III. B",1836
+1486,CJ-IV-m-B-07839.118,Piatra funerară Varga Pál 1866),(1821- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 343. Parcela III. B",1866
 1487,CJ-IV-m-B-07839.119,"Piatră funerară Csiszár Sámuel (1792-1852), Csiszár József 1893) şi soţia Csiszár Sámuelné Zsuzsánna",municipiul CLUJ- (1833- NAPOCA Gál,"str. Iancu Avram 26-28, Nr. topo. 289. Parcela III. B",sec. XIX
 1488,CJ-IV-m-B-07839.120,Obelisc funerar Körösy Piroska,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 290. Parcela III.B",1908
 1489,CJ-IV-m-B-07839.121,Obelisc funerar Stahel Károly (1789-1848),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 291. Parcela III.B",sec. XIX
@@ -1377,7 +1495,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1494,CJ-IV-m-B-07839.126,Obelisc funerar Barra Imre 1854),(1799- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 257. Parcela III.B",1854
 1495,CJ-IV-m-B-07839.127,Obelisc funerar Bölöni Farkas Sándor (1795-1842),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 270. Parcela III. B",sec. XIX
 1496,CJ-IV-m-B-07839.128,Monument funerar Berde (1815-1893),Mózsa municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 247. Parcela III. B",sec. XIX
-1497,CJ-IV-m-B-07839.129,Mormânt Bartók József (1805- 1849) (1786-1869) şi Ruzitska Béla,municipiul CLUJ- NAPOCA (1867- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 246. Parcela II. C topo. 248. Parcela II. C",1849
+1497,CJ-IV-m-B-07839.129,Mormânt Bartók József (1805- 1849),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 246. Parcela II. C",1849
+1498,CJ-IV-m-B-07839.130,Obelisc funerar Ruzitska György (1786-1869) şi Ruzitska Béla 1942),municipiul CLUJ- (1867- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 248. Parcela II. C",sec. XIX
 1499,CJ-IV-m-B-07839.131,Obelisc funerar Debreczeni (1802-1851),Márton municpiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 253. Parcela III. B",1851
 1500,CJ-IV-m-B-07839.132,Mausoleu Brassai Sámuel 1897),(1800- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 250. Parcela III. B",1910
 1501,CJ-IV-m-B-07839.133,"Cavou Korbuly, Barcsay Domokos (1843-1913) şi Pap István 1994)",municipiul CLUJ- (1915- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 486. Parcela Gr.",sec. XX
@@ -1388,7 +1507,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1506,CJ-IV-m-B-07839.138,Obelisc funerar conte Thorotzkay Miklós (1802-1880) şi contesa Bethlen Johanna (1808-1898),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 544. Parcela Gr.",sec. XIX
 1507,CJ-IV-m-B-07839.139,Obelisc funerar Bethlen Erzsébet (1806-1875),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 544.1. Parcela Gr.",sec. XIX
 1508,CJ-IV-m-B-07839.140,Obelisc funerar conte Esterházy Mignel (1825-1923),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 545. Parcela Gr.",1923
-1509,CJ-IV-m-B-07839.141,Obelisc funerar contesa Esterházy Jánosné Mikó Julianna (1834-1912) (1850-1916),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 545.1. Parcela Gr. topo. 545.2. Parcela Gr.",1912
+1509,CJ-IV-m-B-07839.141,Obelisc funerar contesa Esterházy Jánosné Mikó Julianna (1834-1912),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 545.1. Parcela Gr.",1912
+1510,CJ-IV-m-B-07839.142,Obelisc funerar baron Bánnffy (1850-1916),Ernö municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 545.2. Parcela Gr.",Post 1916
 1511,CJ-IV-m-B-07839.143,Mormânt Mikes Mária (+1864),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 546. Parcela Gr.",1864
 1512,CJ-IV-m-B-07839.144,Mormânt Mikó György (+1861),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 546.1.Parcela Gr.",sec. XIX
 1513,CJ-IV-m-B-07839.145,Mormânt Mikó Sándor (+1857),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 546.2.Parcela Gr.",1857
@@ -1400,7 +1520,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1519,CJ-IV-m-B-07839.151,Mormânt Reinbold Editke 1915) şi Józsi (1911-1915),(1908- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 500. Parcela Gr.",sec. XX
 1520,CJ-IV-m-B-07839.152,Obelisc funerar Fekete Pál 1863),(1788- muncipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 522. Parcela Gr.",1896
 1521,CJ-IV-m-B-07839.153,Cavou Sombori,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 536. Parcela Gr.",sec. XIX
-1522,CJ-IV-m-B-07839.154,Mormânt Bányai Sámuel,municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 539. Parcela Gr. topo. 530. Parcela Gr.",1913
+1522,CJ-IV-m-B-07839.154,Mormânt Bányai Sámuel,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 539. Parcela Gr.",1913
+1523,CJ-IV-m-B-07839.155,Mormânt Pop Luisa (+1867),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 530. Parcela Gr.",sec. XIX
 1524,CJ-IV-m-B-07839.156,Mormânt Ion Agârbiceanu 1963),(1882- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 480. Parcela Gr.",1963
 1525,CJ-IV-m-B-07839.157,Mormânt Stöger Béla (1819-1895) şi Földes László (1920-1973),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 470. Parcela Gr.",1895
 1526,CJ-IV-m-B-07839.158,Mormânt Gheorghe Dima 1925),(1847- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 476. Parcela Gr.",sec. XX
@@ -1411,7 +1532,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1531,CJ-IV-m-B-07839.163,Mormânt Tauffer József (1825- 1887),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 383. Parcela Gr.",sec. XIX
 1532,CJ-IV-m-B-07839.164,Monument funerar Teleki contesa Mikes Mária (1760-1846),"Józsefné, municipiul CLUJ- NAPOCA","str. Iancu Avram 26-28, Nr. topo. 385. Parcela Gr.",sec. XIX
 1533,CJ-IV-m-B-07839.165,Piatră funerară Tauffer János (1793-1856),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 511. Parcela Gr.",1856
-1534,CJ-IV-m-B-07839.166,Piatră funerară (+ 1819),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 511. Parcela Gr. topo. 512. Parcela Gr.",sec. XIX
+1534,CJ-IV-m-B-07839.166,Piatră funerară,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 511. Parcela Gr.",sec. XIX
+1535,CJ-IV-m-B-07839.167,Obelisc funerar Tauffer Elisabethe (+ 1819),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 512. Parcela Gr.",sec. XIX
 1536,CJ-IV-m-B-07839.168,Cripta familiei Wass Albert,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 446. Parcela Gr.",Post 1870
 1537,CJ-IV-m-B-07839.169,Mormânt baron Bánffy György (1853-1889),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 483. Parcela Gr.",sec. XIX
 1538,CJ-IV-m-B-07839.170,Obelisc funerar Gedö József 1855),(1778- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 392. Parcela Gr.",sec. XIX
@@ -1422,7 +1544,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1543,CJ-IV-m-B-07839.175,Cavoul familiei Béldi Ákos,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 509. Parcela Gr.",Cca. 1870
 1544,CJ-IV-m-B-07839.176,"Cavoul familiei contelui Bethlen Janos (1860), Bethlen Béla 1979)",municipiul CLUJ- (1888- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 510. Parcela Gr.",sec. XIX
 1545,CJ-IV-m-B-07839.177,Mormânt Purjesz Zsigmond 1918),(1846- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 407. Parcela Gr.",sec. XX
-1546,CJ-IV-m-B-07839.178,Mormânt Kenessey Béla 1918) Bánffy Miklós (1873-1950),(1858- municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 408. Parcela Gr. topo. 428. Parcela Gr.",sec. XX
+1546,CJ-IV-m-B-07839.178,Mormânt Kenessey Béla 1918),(1858- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 408. Parcela Gr.",sec. XX
+1547,CJ-IV-m-B-07839.179,Cavoul familiei Bethlen II Bánffy Miklós (1873-1950),şi contelui municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 428. Parcela Gr.",sec. XIX
 1548,CJ-IV-m-B-07839.180,Piatra funerară Pap József,(1855) municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 421. Parcela Gr.",1855
 1549,CJ-IV-m-B-07839.181,Piatra funerară Wicei Gáspár (1620),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 422. Parcela Gr.",1620
 1550,CJ-IV-m-B-07839.182,Piatra funerară Fojt Jakab,(1723) municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 423. Parcela Gr.",1723
@@ -1433,7 +1556,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1555,CJ-IV-m-B-07839.187,"Cavoul familiei Mikó-Rhédey (1850), Mikó Imréné Rhédey (1811-1849)",municipiul CLUJ- Mária NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 440. Parcela Gr.",sec. XIX
 1556,CJ-IV-m-B-07839.188,Mormânt Bálint Tibor (1932-2002),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 434. Parcela Gr.",sec. XIX
 1557,CJ-IV-m-B-07839.189,Mormânt conte Mikó Imre 1876),(1805- municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 435. Parcela Gr.",sec. XIX
-1558,CJ-IV-m-B-07839.190,Monument funerar Dietrich (1899-1918) (1830-1869),Gyula municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 436. Parcela Gr. topo. 456. Parcela Gr.",sec. XIX
+1558,CJ-IV-m-B-07839.190,Monument funerar Dietrich (1899-1918),Gyula municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 436. Parcela Gr.",sec. XIX
+1559,CJ-IV-m-B-07839.191,Obelisc funerar Kronberg (1830-1869),József municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 456. Parcela Gr.",sec. XIX
 1560,CJ-IV-m-B-07839.192,Mormânt Szegö Júlia (1839-1987),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 418. Parcela Gr.",sec. XIX
 1561,CJ-IV-m-B-07839.193,Mormânt Spada János (1877-1913),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 473. Parcela Gr.",sec. XIX
 1562,CJ-IV-m-B-07839.194,Piatră funerară Binetz István,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 200. Parcela II. C",1812
@@ -1445,7 +1569,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1568,CJ-IV-m-B-07839.200,"Mormânt Hajós Jánosné, Róza (1825-1859)",Szatmári municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 61. Parcela I.C",sec. XIX
 1569,CJ-IV-m-B-07839.201,"Piatră funerară Hajós Jánosné, Tyúk Kata (1784)",municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 61. Parcela I.C",1784
 1570,CJ-IV-m-B-07839.202,Piatră funerară Nagyszombati Márton,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 63. Parcela I.C",1806
-1571,CJ-IV-m-B-07839.203,Mormânt Timár Kecskeméti 1889),Mihály municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 68. Parcela I.C topo. 68. Parcela I.C",1796
+1571,CJ-IV-m-B-07839.203,Mormânt Timár Kecskeméti,Mihály municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 68. Parcela I.C",1796
+1572,CJ-IV-m-B-07839.204,Obelisc funerar Pataki Lajos 1889),(1835- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 68. Parcela I.C",sec. XIX
 1573,CJ-IV-m-B-07839.205,Mormânt Szentábrahámi Mihály,Lombárd municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 64. Parcela I.C",1758
 1574,CJ-IV-m-B-07839.206,Mormânt Járai Sámuel,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 71. Parcela I. C",1643
 1575,CJ-IV-m-B-07839.207,Mormânt Szadeczky Lajos,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 226. Parcela I.C",sec. XX
@@ -1457,7 +1582,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1581,CJ-IV-m-B-07839.213,Piatră funerară Csige Ilonka 1904),(1884- municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 191. Parcela II. C",sec. XX
 1582,CJ-IV-m-B-07839.214,Piatră funerară Schwarczel (1859-1876),Eliz municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 210. Parcela II. C",sec. XIX
 1583,CJ-IV-m-B-07839.215,Piatră funerară Schwarczel (1809-1870),Ferenc municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 211. Parcela II. C",sec. XIX
-1584,CJ-IV-m-B-07839.216,Obelisc funerar Petre István 1899) (1803-1873),(1866- municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 296. Parcela II. C topo. 297. Parcela II. C",sec. XIX
+1584,CJ-IV-m-B-07839.216,Obelisc funerar Petre István 1899),(1866- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 296. Parcela II. C",sec. XIX
+1585,CJ-IV-m-B-07839.217,Piatra funerară Nemessányi (1803-1873),András municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 297. Parcela II. C",sec. XIX
 1586,CJ-IV-m-B-07839.218,Piatra funerară Pere Lajos 1899),(1871- municipiul CLUJ- NAPOCa,"str. Iancu Avram 26-28, Nr. topo. 298. Parcela II. C",sec. XIX
 1587,CJ-IV-m-B-07839.219,Mormânt Keresztes István,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 241. Parcela II. C",sec. XIX
 1588,CJ-IV-m-B-07839.220,Piatră funerară Szathmári Mihály (+1812),Pap municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 152. Parcela II. B",sec. XVIII-XIX
@@ -1468,7 +1594,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1593,CJ-IV-m-B-07839.225,Mormânt Dominic Stanca 1979),(1892- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 16. Parcela I. A",sec. XX
 1594,CJ-IV-m-B-07839.226,Mormânt László Deszö (1904-1973),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 552. Parcela I. A",sec . XX
 1595,CJ-IV-m-B-07839.227,Mormânt K. Papp Miklós 1880),(1837- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 29. Parcela I. B",sec. XIX
-1596,CJ-IV-m-B-07839.228,Mormânt Merza Gyula (1861-1943) şi Bajor Andor (1927-1991) 1896),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 28. Parcela I. B topo. 8. Parcela I. B",sec. XX
+1596,CJ-IV-m-B-07839.228,Mormânt Merza Gyula (1861-1943) şi Bajor Andor (1927-1991),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 28. Parcela I. B",sec. XX
+1597,CJ-IV-m-B-07839.229,Obelisc funerar Kopár Manó 1896),(1864- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 8. Parcela I. B",sec. XIX
 1598,CJ-IV-m-B-07839.230,Mormânt Ákontz Sándor,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 10. Parcela I. B",sec. XIX
 1599,CJ-IV-m-B-07839.231,Obelisc funerar Vikol János 1875),(1826- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 34. Parcela I. B",sec. XIX
 1600,CJ-IV-m-B-07839.232,Mormânt Merza Joachim 1893),(1820- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 37. Parcela I. B",sec. XIX
@@ -1480,7 +1607,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1606,CJ-IV-m-B-07839.238,Mormânt Vogel Károly (1829-1906),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 578. Parcela I. B",sec. XX
 1607,CJ-IV-m-B-07839.239,Mormânt Nicolae Drăganu 1939),(1884- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 577. Parcela I. B",sec. XX
 1608,CJ-IV-m-B-07839.240,Mormânt Gaál Gábor (1891-1954),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 575. Parcela I. B",sec. XX
-1609,CJ-IV-m-B-07839.241,Mormânt Vasile Bogrea (1881- 1926),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 49. Parcela I. B topo. 568. Parcela I. C",sec. XX
+1609,CJ-IV-m-B-07839.241,Mormânt Vasile Bogrea (1881- 1926),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 49. Parcela I. B",sec. XX
+1610,CJ-IV-m-B-07839.242,Mormânt Orient Gyula (1869-1940),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 568. Parcela I. C",sec. XX
 1611,CJ-IV-m-B-07839.243,Monument funerar Cita-Szinberger Sándorné (1940-1960),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 60. Parcela I. C",sec. XX
 1612,CJ-IV-m-B-07839.244,Mormânt Török István (1849-1918),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 69. Parcela I. C",sec. XX
 1613,CJ-IV-m-B-07839.245,Mormânt Gyulai Ferenc (1817- 1866),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 58. Parcela I.C",sec. XIX
@@ -1492,7 +1620,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1619,CJ-IV-m-B-07839.251,Monument funerar Laday Stephanus (1875-1936),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 83. Parcela I. C",sec. XX
 1620,CJ-IV-m-B-07839.252,Obelisc funerar Várady Ferenc (1782-1861),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 21. Parcela I. C",sec. XIX
 1621,CJ-IV-m-B-07839.253,Mormânt Lakatos István 1989),(1896- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 22. Parcela I. C",sec. XX
-1622,CJ-IV-m-B-07839.254,"Cripta familială Haţieganu: Haţieganu (1878-1959), Iuliu Fodor (1913-1976)",Emil municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 23. Parcela I. C",sec. XX
+1622,CJ-IV-m-B-07839.254,"Cripta familială Haţieganu: Haţieganu (1878-1959), Iuliu Haţieganu (1885-1959), Octavian",Emil municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 23. Parcela I. C",sec. XX
 1623,CJ-IV-m-B-07839.255,Mormânt Kovács Zoltán (1913- 1999),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 178. Parcela I. C",sec. XX
 1624,CJ-IV-m-B-07839.256,Mormânt Kozma Ferenc (1844- 1920),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 86. Parcela I. C",sec. XX
 1625,CJ-IV-m-B-07839.257,Mormânt Virgil Fulicea (1907-1979),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 170. Parcela I. C",sec. XX
@@ -1503,7 +1631,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1630,CJ-IV-m-B-07839.262,Mormânt Leon Daniello (1898- 1970),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo.489. Parcela I.C",sec. XX
 1631,CJ-IV-m-B-07839.263,Cavou Mihai Şerban (1887-1947),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 187. Parcela I. C",sec. XX
 1632,CJ-IV-m-B-07839.264,Mormântul călugăriţelor franciscane,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 234- Parcela II. C",sec. XIX-XX
-1633,CJ-IV-m-B-07839.265,"Mormântul călugărilor piarişti Vencel (1885-1962), Reischel Arthur (1904-1972), Erdélyi (1859-1908), Salzbauer János (1832-1898)",Biró municipiul CLUJ- NAPOCA Károly NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 635. Parcela I. C topo. 336. Parcela II. C",sec. XX
+1633,CJ-IV-m-B-07839.265,"Mormântul călugărilor piarişti Vencel (1885-1962), Reischel Arthur (1904-1972), Erdélyi (1859-1908), Salzbauer János (1832-1898)",Biró municipiul CLUJ- NAPOCA Károly,"str. Iancu Avram 26-28, Nr. topo. 635. Parcela I. C",sec. XX
+1634,CJ-IV-m-B-07839.266,Piatra funerară Török Antal,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 336. Parcela II. C",sec. XX
 1635,CJ-IV-m-B-07839.267,Mormânt Fanghné Gyújtó (1840-1914),Izabella municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 188. Parcela I.C",sec. XX
 1636,CJ-IV-m-B-07839.268,Mormânt Camil Negrea (1882- 1956),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 218. Parcela I.C",sec. XX
 1637,CJ-IV-m-B-07839.269,Monument funerar Váczy (1913-1992),Kálmán municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 409. Parcela I. C",sec. XX
@@ -1514,7 +1643,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1642,CJ-IV-m-B-07839.274,"Mormânt Szvacsina Géza 1917), Baráth Béla (1893-1977)",(1849- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 116. Parcela II. A",sec. XX
 1643,CJ-IV-m-B-07839.275,"Mormânt Éltes Károly (1837-1890), Biró Béla (1839-1905) şi Dávid László (1907-1992)",municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo.118. Parcela II. A",sec. XX
 1644,CJ-IV-m-B-07839.276,Mormânt Endstrasser Benedek (1847-1903),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 32.Parcela II. A",sec. XX
-1645,CJ-IV-m-B-07839.277,Mormânt Valentiny Antal 1948) (1837-1875),(1883- municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo.38. Parcela II. A topo. 222. Parcela I. C",sec. XX
+1645,CJ-IV-m-B-07839.277,Mormânt Valentiny Antal 1948),(1883- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo.38. Parcela II. A",sec. XX
+1646,CJ-IV-m-B-07839.278,Mormântul familiei Szilágyi (1837-1875),Miklós municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 222. Parcela I. C",sec. XIX-XX
 1647,CJ-IV-m-B-07839.279,Mormânt Kende János (1881-1958),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 47. Parcela II. A",sec. XX
 1648,CJ-IV-m-B-07839.280,Mormânt Bányai Vitális (1815- 1888) şi Kovács Ferenc (1867-1930),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 103. Parcela II. A",sec. XX
 1649,CJ-IV-m-B-07839.281,Mormânt Nagy Albert (1902-1970),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 101. Parcela II. A",sec. XX
@@ -1525,7 +1655,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1654,CJ-IV-m-B-07839.286,Mormânt Valeriu Lucian (1892-1971),Bologa municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 90. Parcela II. A",sec. XX
 1655,CJ-IV-m-B-07839.287,Piatra funerară Kelemen,Miklós municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 381. Parcela III. B",sec. XIX
 1656,CJ-IV-m-B-07839.288,Mormânt Rezik Károly (1887-1968),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 87. Parcela II. A",sec. XX
-1657,CJ-IV-m-B-07839.289,Piatra funerară Nagy József 1939) şi ginerele Szigetvári (1885-1933) 1985),(1866- municipiul CLUJ- József NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 88. Parcela II. A topo. 91. Parcela II. A",sec. XX
+1657,CJ-IV-m-B-07839.289,Piatra funerară Nagy József 1939) şi ginerele Szigetvári (1885-1933),(1866- municipiul CLUJ- József NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 88. Parcela II. A",sec. XX
+1658,CJ-IV-m-B-07839.290,Mormânt Gy. Szabó Béla 1985),(1905- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 91. Parcela II. A",sec. XX
 1659,CJ-IV-m-B-07839.291,Mormânt Mátyás Mátyás 1956) şi Lévay Ilonka (1892-1974),(1888- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 96. Parcela II. A",sec. XX
 1660,CJ-IV-m-B-07839.292,Mormânt Emil Pop (1897-1974),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 55. Parcela II. B",sec. XX
 1661,CJ-IV-m-B-07839.293,Piatra funerară Antal Mihály 1873),(1814- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 393. Parcela I.C",sec. XIX
@@ -1537,7 +1668,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1667,CJ-IV-m-B-07839.299,Mormânt Moldován Gergely 1930),(1845- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 112. Parcela II. B",sec. XX
 1668,CJ-IV-m-B-07839.300,Mormânt Mircea Vremir 1991),(1932- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 114. Parcela II. B",sec. XX
 1669,CJ-IV-m-B-07839.301,Mormânt Incze Ferenc (1910-1988),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 138. Parcela II. B",sec. XX
-1670,CJ-IV-m-B-07839.302,Mormânt Kriza Gyula (1909-1986),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 329. Parcela III. B topo. 380. Parcela III. B",sec. XX
+1670,CJ-IV-m-B-07839.302,Mormânt Kriza Gyula (1909-1986),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 329. Parcela III. B",sec. XX
+1671,CJ-IV-m-B-07839.303,Mormânt Csiki Aladár (1914-1934),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 380. Parcela III. B",sec. XIX
 1672,CJ-IV-m-B-07839.304,Mormânt Aurel Ciupe (1900-1988),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 73. Parcela II. B",sec. XX
 1673,CJ-IV-m-B-07839.305,Obelisc funerar Kondász (1812-1871),György municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 379. Parcela III. B",sec. XIX
 1674,CJ-IV-m-B-07839.306,Mormânt Felméri Lajos (1840- 1894),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 145. Parcela II. B",sec. XX
@@ -1548,7 +1680,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1679,CJ-IV-m-B-07839.311,Mormânt Cseh Gusztáv (1900- 1972) Cseh Gusztáv jun. (1934- 1985),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 151. Parcela II. B",sec. XX
 1680,CJ-IV-m-B-07839.312,Mormânt Alexandru Bohăţiel (1816-1897),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 166. Parcela II. B",sec. XX
 1681,CJ-IV-m-B-07839.313,Mormânt Szakács Andor 1924),(1864- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 172. Parcela II. C",sec.XX
-1682,CJ-IV-m-B-07839.314,Mormânt Rácz Mihály (1853-1894) şi Rácz Mihály jun. (1890-1862) (1901-1972),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 204. Parcela II. C 199. Parcela II. C",sec. XX
+1682,CJ-IV-m-B-07839.314,Mormânt Rácz Mihály (1853-1894) şi Rácz Mihály jun. (1890-1862),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 204. Parcela II. C",sec. XX
+1683,CJ-IV-m-B-07839.315,Monument funerar Antal (1901-1972),Dániel municipiul CLUJ- NAPOCA,"str Iancu Avram 26-28, Nr. 199. Parcela II. C",topo. sec. XX
 1684,CJ-IV-m-B-07839.316,Mormânt Pusztay Béla (1862-1894),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 181. Parcela II. C",sec. XX
 1685,CJ-IV-m-B-07839.317,Mormânt Stadler Frigyes 1938),(1866- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 183. Parcela II. C",sec. XX
 1686,CJ-IV-m-B-07839.318,Piatră funerară Andrei Bretan (1917-1996),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 168. Parcela I. C",sec. XX
@@ -1560,7 +1693,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1692,CJ-IV-m-B-07839.324,Mormânt Jordáky Lajos (1913- 1974),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 242. Parcela II. C",sec. XX
 1693,CJ-IV-m-B-07839.325,Mormânt Csiszár Gyula (1859- 1923),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 288. Parcela III. B",sec. XX
 1694,CJ-IV-m-B-07839.326,Mormânt Csiszár Gyula (1892- 1916),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 288. Parcela III. B",sec. XX
-1695,CJ-IV-m-B-07839.327,Mormânt Fábián Gyula (1836- 1917),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 288. Parcela III. B topo. 304. Parcela III. B",sec. XX
+1695,CJ-IV-m-B-07839.327,Mormânt Fábián Gyula (1836- 1917),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 288. Parcela III. B",sec. XX
+1696,CJ-IV-m-B-07839.328,Mormânt Ziegler Emil (1846-1897),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 304. Parcela III. B",sec. XX
 1697,CJ-IV-m-B-07839.329,Mormânt Bretter György 1977),(1932- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 263. Parcela II. C",sec. XX
 1698,CJ-IV-m-B-07839.330,Mormânt Nagy Géza (1914-1981),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 92. Parcela II. A",sec. XX
 1699,CJ-IV-m-B-07839.331,Mormânt Fülöp Antal Andor 1979),(1908- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 132. Parcela III. A",sec. XX
@@ -1572,7 +1706,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1705,CJ-IV-m-B-07839.337,Mormânt Reinbold Józsefné 1858),(1817- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 262. Parcela III. B",sec. XIX
 1706,CJ-IV-m-B-07839.338,Mormânt cu pietre funerare Vincze: Vincze Vilma (1868-1880),familia municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 339. Parcela III. B",sec. XIX
 1707,CJ-IV-m-B-07839.339,Mormânt cu pietre funerare Vincze: Bruzer Eszter (+1871),familia municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 340. Parcela III. B",sec. XIX
-1708,CJ-IV-m-B-07839.340,"Mormânt Sebestyén József, Keöpeczi (1878-1964)",municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 633. Parcela III. B topo. 265. Parcela III. B",sec. XX
+1708,CJ-IV-m-B-07839.340,"Mormânt Sebestyén József, Keöpeczi (1878-1964)",municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 633. Parcela III. B",sec. XX
+1709,CJ-IV-m-B-07839.341,Mormânt Kriza János (1811-1875),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 265. Parcela III. B",sec. XX
 1710,CJ-IV-m-B-07839.342,Mormânt Mikó Lörinc (1806-1872),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 272. Parcela III.B",sec. XX
 1711,CJ-IV-m-B-07839.343,Mormânt Kelemen Lajos 1963),(1877- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 280. Parcela III.B",sec. XX
 1712,CJ-IV-m-B-07839.344,Mormânt Jéger Andor (1883-1915),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 282. Parcela III. B",1915
@@ -1584,7 +1719,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1718,CJ-IV-m-B-07839.350,Mormânt Antoni Gyula (1893- 1963),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 35. Parcela II. A",sec. XX
 1719,CJ-IV-m-B-07839.351,Mormânt Asztalos Sándor 1981),(1908- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 541. Parcela Gr.",sec. XX
 1720,CJ-IV-m-B-07839.352,Monument funerar Márkos (1919-1972),András municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 543. Parcela Gr.",sec. XX
-1721,CJ-IV-m-B-07839.353,Mormânt Szentkirályi Zsigmond (1804-1870) (1886-1955),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 142. Parcela II. B topo. 527. Parcela Gr.",sec. XX
+1721,CJ-IV-m-B-07839.353,Mormânt Szentkirályi Zsigmond (1804-1870),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 142. Parcela II. B",sec. XX
+1722,CJ-IV-m-B-07839.354,Monument funerar Moll (1886-1955),Elemér municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 527. Parcela Gr.",sec. XX
 1723,CJ-IV-m-B-07839.355,Monument funerar Márkos (1914-1981),Albert municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 529. Parcela Gr.",sec. XX
 1724,CJ-IV-m-B-07839.356,Mormânt Trefán Leonárd 1945),(1874- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 538. Parcela Gr.",sec. XX
 1725,CJ-IV-m-B-07839.357,Mormânt Bilinszky Lajos 1940),(1868- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 538. Parcela Gr.",sec. XX
@@ -1596,7 +1732,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1731,CJ-IV-m-B-07839.363,Mormânt Miklóssy Gábor 1988),(1912- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 494. Parcela Gr.",sec. XX
 1732,CJ-IV-m-B-07839.364,Mormânt Gidófalvy István 1921),(1859- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 475. Parcela Gr.",sec. XX
 1733,CJ-IV-m-B-07839.365,Mormânt Radu Stanca (1920-1962),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 455. Parcela Gr.",sec. XX
-1734,CJ-IV-m-B-07839.366,Mormânt Fekete Gábor N. 1917) şi Karácsony Emmi (1896-1980),(1845- municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 457. Parcela Gr. topo. 458. Parcela Gr.",sec. XX
+1734,CJ-IV-m-B-07839.366,Mormânt Fekete Gábor N. 1917),(1845- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 457. Parcela Gr.",sec. XX
+1735,CJ-IV-m-B-07839.367,Mormânt Török Zoltán (1893-1963) şi Karácsony Emmi (1896-1980),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 458. Parcela Gr.",sec. XX
 1736,CJ-IV-m-B-07839.368,Mormânt Theodor Angheluţă (1882-1964),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 454. Parcela Gr.",sec. XX
 1737,CJ-IV-m-B-07839.369,Mormânt Varga Béla (1886-1926),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 452. Parcela Gr.",sec. XX
 1738,CJ-IV-m-B-07839.370,Mormânt Jancsó Béla (1903-1967),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 451.1. Parcela Gr",sec. XX
@@ -1608,7 +1745,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1744,CJ-IV-m-B-07839.376,Obelisc funerar Kilyén Sándor (1843-1929),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 386. Parcela Gr.",sec. XX
 1745,CJ-IV-m-B-07839.377,Mormânt David Prodan (1902- 1992),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 405. Parcela Gr.",sec. XX
 1746,CJ-IV-m-B-07839.378,Mormânt Aranyosrákosi Sándor (1797-1852),Székely municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 395. Parcela Gr.",sec. XIX
-1747,CJ-IV-m-B-07839.379,Piatra funerară Frencz József (1835-1928) 2004),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 397. Parcela Gr. topo. 396. Parcela Gr.",sec. XX
+1747,CJ-IV-m-B-07839.379,Piatra funerară Frencz József (1835-1928),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 397. Parcela Gr.",sec. XX
+1748,CJ-IV-m-B-07839.380,Mormânt Faragó József (1922- 2004),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 396. Parcela Gr.",sec. XX
 1749,CJ-IV-m-B-07839.381,Mormânt Berde Amália (1886- 1976) şi Berde Mária (1889-1949),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 412. Parcela Gr.",sec. XX
 1750,CJ-IV-m-B-07839.382,Mormânt Bornemisza Elemérné (1876-1948),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 416. Parcela Gr.",sec. XX
 1751,CJ-IV-m-B-07839.383,Mormânt Szilágyi Domokos 1976) şi soţia Hervay Gizella 1982),(1938- municipiul CLUJ- (1934- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 417. Parcela Gr.",sec. XX
@@ -1619,7 +1757,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1756,CJ-IV-m-B-07839.388,Mormânt Gáll Ernö (1917-2000),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo.131. Parcela II. A",sec. XXI
 1757,CJ-IV-m-B-07839.389,Piatră funerară Böjthe Lázár,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 391. Parcela Gr.",
 1758,CJ-IV-m-B-07839.390,Piatră funerară Bruszt Sándor (1835-1851),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 382. Parcela III. B",sec. XIX
-1759,CJ-IV-m-B-07839.391,Mormânt Hye György (1907-1975) (1847-1867),municipiul CLUJ- NAPOCA NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 466. Parcela Gr. topo. 014. Parcela I. B",sec. XX
+1759,CJ-IV-m-B-07839.391,Mormânt Hye György (1907-1975),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 466. Parcela Gr.",sec. XX
+1760,CJ-IV-m-B-07839.392,Piatră funerară Wildner Rozália (1847-1867),municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 014. Parcela I. B",sec. XX
 1761,CJ-IV-m-B-07839.393,Piatra funerară Biasini Mari 1937),(1866- municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 556. Parcela I. C",sec. XX
 1762,CJ-IV-m-B-07839.394,Cavou Berde Áron,municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 19. Parcela I. A cimitir lutheran",sec. XIX
 1763,CJ-IV-m-B-07839.395,Piatra funerară Szathmáry Anna (1776-1778),Pap K. municipiul CLUJ- NAPOCA,"str. Iancu Avram 26-28, Nr. topo. 152. Parcela II. B",
@@ -1630,7 +1769,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1768,CJ-IV-m-B-07843,Casa în care a locuit Iuliu,Coroianu municipiul CLUJ- NAPOCA,Str. Isac Emil 25,1890
 1769,CJ-IV-m-B-07844,Sediul primului studio cinematografic din Transilvania,municipiul CLUJ- NAPOCA,Str. Isac Emil 26-28,1890
 1770,CJ-IV-m-B-07845,Casa în care a trăit Jozsa,Bela municipiul CLUJ- NAPOCA,Str. Jaures Jean 11,înc. sec. XX
-1771,CJ-IV-m-B-07846,Casa în care s-a născut Sylagyi Sandor,municipiul CLUJ- NAPOCA NAPOCA,Str. Kogălniceanu Mihail 13-15,1790 - 1802
+1771,CJ-IV-m-B-07846,Casa în care s-a născut Sylagyi Sandor,municipiul CLUJ- NAPOCA,Str. Kogălniceanu Mihail 13-15,1790 - 1802
+1772,CJ-IV-m-B-07847,Casa în care a locuit Lucian,Blaga municipiul CLUJ- NAPOCA,Str. Măcinului 20,1925
 1773,CJ-IV-m-B-07848,Casa în care a locuit Frantz,Liszt municipiul CLUJ- NAPOCA,Str. Memorandumului 4,sec. XIX
 1774,CJ-IV-m-B-07849,Casa în care a trăit Ion Agârbiceanu,municipiul CLUJ- NAPOCA,Str. Mureşanu Andrei 31,1915
 1775,CJ-IV-m-B-07850,"Sediul băncii ""Economu""",municipiul CLUJ- NAPOCA,Str. Poştei 1,1880
@@ -1642,7 +1782,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1781,CJ-IV-m-B-07857,Monumente şi morminte 126 de evrei ucişi în sept.1944,ale celor sat CĂMĂRAŞU; comuna CĂMĂRAŞU,528,sec.XX
 1782,CJ-IV-m-B-07858,Prima şcoală românească Câmpia Turzii,din oraş CÂMPIA,TURZII Str. Iancu Avram 8,sf.sec. XIX
 1783,CJ-IV-m-B-07568.03,Mausoleul Octavian Goga,sat CIUCEA; comuna CIUCEA,5,sec. XX
-1784,CJ-IV-m-B-07859,Casa memorială a scriitorului Pavel Iancu cu Gavril Manu,Dan sat CLAPA; comuna TRITENII DE JOS,359,sec. XIX - XX
+1784,CJ-IV-m-B-07859,Casa memorială a scriitorului Pavel,Dan sat CLAPA; comuna TRITENII DE JOS,359,sec. XIX - XX
+1785,CJ-IV-m-B-07860,Casa în care s-a întâlnit Avram Iancu cu Gavril Manu,municipiul DEJ,Str. Iancu Avram 13,
 1786,CJ-IV-m-B-07862,Casa în care a trăit Mihali,Teodor municipiul DEJ,Str. Mircea cel Batrân 2,sec. XIX
 1787,CJ-IV-m-B-07863,Prima grădiniţă din Gherla,oraş GHERLA,Str. Mihai Viteazul 20,1883
 1788,CJ-IV-m-B-07864,Crucea lui Avram Iancu,sat MĂRIŞEL; MĂRIŞEL,"comuna ""Fântânele”",aprox. 1930

@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,SB-I-s-A-11925,Situl arheologic de la Sibiu,"municipiul SIBIU ""Fântâna","Rece"", Cartier Guşteriţa",
 2,SB-I-m-A-11925.01,Necropolă de incineraţie,"municipiul SIBIU ""Fântâna km Dealul","Rece"", Cartier Guşteriţa, la 5 E de extremitatea intravilanului, pe Cocoşului",sec. VIII - X
 3,SB-I-m-A-11925.02,Ateliere meşteşugăreşti,"municipiul SIBIU ""Fântâna km Dealul","Rece"" Cartier Guşteriţa, la 5 E de extremitatea intravilanului, pe Cocoşului",sec. II - III p.Chr.
 4,SB-I-m-A-11925.03,Aşezare,"municipiul SIBIU ""Fântâna km Dealul","Rece"" Cartier Guşteriţa, la 5 E de extremitatea intravilanului, pe Cocoşului","sec. II a. Chr., Cultura geto - dacică"
@@ -6,21 +7,22 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,SB-I-s-A-11927,Situl arheologic de la Agnita,oraş AGNITA Pârâul,Cetăţii,sec. II - III p. Chr.
 7,SB-I-m-A-11927.01,Aşezare,oraş AGNITA Pârâul,Cetăţii,sec. II - III p. Chr.
 8,SB-I-m-A-11927.02,Necropolă,oraş AGNITA Pârâul,Cetăţii,sec. II - III p. Chr.
-9,SB-I-s-A-11928,"Aşezare Apoldu de Jos, punct",sat ALȚÂNA; La comuna ALȚÂNA JOS; comuna Rodeni”,"NV de extremitatea intravilanului (pt. obiectivul 4), la jumătatea",sec. XII - XIII
+9,SB-I-s-A-11928,Aşezare,sat ALȚÂNA; La comuna ALȚÂNA,NV de extremitatea intravilanului,sec. XII - XIII
+10,SB-I-s-B-11930,"Situl arheologic de la Apoldu de Jos, punct ""Între Apoalde""","sat APOLDU DE ""Între JOS; comuna Rodeni” APOLDU DE JOS distanţei de","Apoalde”, (pt. obiectivul 1), „La (pt. obiectivul 4), la jumătatea dintre Apoldu de Jos şi Apoldu Sus",sec. II - III p. Chr.
 11,SB-I-m-B-11930.01,Drum,"sat APOLDU DE ""Între JOS; comuna Rodeni” APOLDU DE JOS distanţei de","Apoalde” (pt. obiectivul 1), „La (pt. obiectivul 4), la jumătatea dintre Apoldu de Jos şi Apoldu Sus",sec. II - III p. Chr.
 12,SB-I-m-B-11930.02,Necropolă,"sat APOLDU DE ""Între JOS; comuna Rodeni” APOLDU DE JOS distanţei de","Apoalde” (pt. obiectivul 1), „La (pt. obiectivul 4), la jumătatea dintre Apoldu de Jos şi Apoldu Sus",sec. II - III p. Chr.
 13,SB-I-m-B-11930.03,Villa rustica,"sat APOLDU DE ""Între JOS; comuna Rodeni” APOLDU DE JOS distanţei de","Apoalde” (pt. obiectivul 1), „La (pt. obiectivul 4), la jumătatea dintre Apoldu de Jos şi Apoldu Sus",sec. II - III p. Chr.
 14,SB-I-s-A-11931,"Situl arheologic de la Apoldu de Jos, punct ""Rostat""","sat APOLDU DE ""Rostat”, JOS; comuna intravilan APOLDU DE JOS Jos","pe panta estică, la 300 m S de şi la 700 m V de DC Apoldu de - Apoldu de Sus",sec. II - III p. Chr.
 15,SB-I-s-A-11932,Villa rustica,"sat APOLDU DE ""Curtea SUS; oraş extremitatea MIERCUREA Jos SIBIULUI Jos","Velii”, la 2 km S de intravilanului Apoldu de şi la 800 - 900 m V de CF Apoldu de - Apoldu de Sus",sec. II - III p. Chr.
 16,SB-I-s-A-11933,Situl arheologic de la Apoldu de Sus,sat APOLDU DE La SUS; oraş Apoldu MIERCUREA Apoalde” SIBIULUI,"200 m de aşezarea romană de la de Jos, din punctul ""Între",
-17,SB-I-m-A-11933.01,Aşezare,sat APOLDU DE La SUS; oraş Apoldu SIBIULUI,"200 m de aşezarea romană de la de Jos, din punctul ""Între","Latène, Cultura geto - dacică"
+17,SB-I-m-A-11933.01,Aşezare,sat APOLDU DE La SUS; oraş Apoldu MIERCUREA Apoalde”,"200 m de aşezarea romană de la de Jos, din punctul ""Între","Latène, Cultura geto - dacică"
 18,SB-I-m-A-11933.02,Aşezare,sat APOLDU DE La SUS; oraş Apoldu MIERCUREA Apoalde” SIBIULUI,"200 m de aşezarea romană de la de Jos, din punctul ""Între","Epoca bronzului, Cultura Wietenberg"
 19,SB-I-s-A-11934,"Situl arheologic de la Apoldu de Sus, punct ""Apold""","sat APOLDU DE ""Apold"" SUS; oraş MIERCUREA SIBIULUI",,sec. II - III p. Chr.
 20,SB-I-m-A-11934.01,Urme de locuire,"sat APOLDU DE ""Apold"", SUS; oraş versantului MIERCUREA SIBIULUI","la V de Apold, pe pantele Frunţilor",sec. IX - XIII
 21, SB-I-m-A-11934.02, Urme de locuire," sat APOLDU DE ""Apold"", SUS; oraş versantului MIERCUREA SIBIULUI"," la V de Apold, pe pantele Frunţilor", sec. IV - V
 22,SB-I-m-A-11934.03,Fermă agricolă,"sat APOLDU DE ""Curtea SUS; oraş versantului MIERCUREA SIBIULUI","Velii"", la V de Apold, pe pantele Frunţilor",sec. II - III p. Chr.
 23,SB-I-s-A-11935,Aşezare rurală,sat APOLDU DE La SUS; oraş Sus MIERCUREA SIBIULUI,"E de drum, 2 km NE de Apoldu de",sec. II - III p. Chr.
-24,SB-I-s-A-11936,Situl arheologic de la Apoldu de Sus,sat APOLDU DE La SUS; oraş vestic MIERCUREA,"1 km V de sat, sub coama versantului al platoului ""Livejoare”",sec. II - III p. Chr.
+24,SB-I-s-A-11936,Situl arheologic de la Apoldu de Sus,sat APOLDU DE La SUS; oraş vestic MIERCUREA SIBIULUI,"1 km V de sat, sub coama versantului al platoului ""Livejoare”",sec. II - III p. Chr.
 25,SB-I-s-A-11937,Situl arheologic de la Arpaşul de Sus,"sat ARPAŞUL DE ""Calea SUS; comuna ""Cetăţeaua” ARPAŞUL DE JOS","Fânului”, (pt. obiectivele 1, 2), (pt. obiectivul 3)",
 26,SB-I-m-A-11937.01,Aşezare fortificată,"sat ARPAŞUL DE ""Cetăţeaua"", SUS; comuna ARPAŞUL DE JOS",pe platoul Tinosu,"sec. I a.Chr.- I p.Chr., Cultura geto - dacică"
 27,SB-I-m-A-11937.02,Aşezare,"sat ARPAŞUL DE ""Calea SUS; comuna ""Cetăţeaua” ARPAŞUL DE JOS platoul","Fânului” (pt. obiectivele 1, 2), (pt. obiectivul 3), pe Tinosu",Hallstatt
@@ -30,7 +32,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 31, SB-I-s-A-11940, Situl arheologic de la Biertan, sat BIERTAN; Intravilan comuna BIERTAN,, sec. II - III p. Chr.
 32,SB-I-m-A-11940.01,Locuire,sat BIERTAN; Intravilan comuna BIERTAN,,sec. IV p. Chr.
 33,SB-I-m-A-11940.02,Aşezare rurală,sat BIERTAN; Intravilan comuna BIERTAN,,sec. II - III p. Chr.
-34,SB-I-s-A-11941,Situl arheologic de la Biertan Boarta,sat BIERTAN; La comuna BIERTAN comuna ŞEICA,400 m E de sat,sec. XIII
+34,SB-I-s-A-11941,Situl arheologic de la Biertan,sat BIERTAN; La comuna BIERTAN,400 m E de sat,sec. XIII
+35,SB-I-s-A-11942,Situl arheologic de la Boarta,sat BOARTA; Intravilan comuna ŞEICA MARE,,sec. II - III p. Chr.
 36,SB-I-s-A-11943,"Situl arheologic de la Boarta, punct ""Cetăţuia""","sat BOARTA; ""Cetăţuia” comuna ŞEICA MARE",,
 37,SB-I-m-A-11943.01,Aşezare,"sat BOARTA; ""Cetăţuia” comuna ŞEICA MARE",,Hallstatt
 38,SB-I-m-A-11943.02,Aşezare,"sat BOARTA; ""Cetăţuia” comuna ŞEICA MARE",,Neolitic
@@ -39,7 +42,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 41,SB-I-s-A-11946,Situl arheologic de la Boiţa,"sat BOIŢA; comuna ""Rudele” BOIŢA",,sec. II - III p. Chr.
 42,SB-I-m-A-11946.01,Castellum,"sat BOIŢA; comuna ""Rudele”, BOIŢA Oltului","la 500 m E de sat, pe terasa",sec. II - III p. Chr.
 43,SB-I-m-A-11946.02,Construcţii civile,"sat BOIŢA; comuna ""Rudele”, BOIŢA Oltului","la 500 m E de sat, pe terasa",sec. II - III p. Chr.
-44,SB-I-s-A-11948,Aşezare,"sat aparținător ""Poiana BRADU; oraş Caşolţului AVRIG BRADU; oraş","cu şopruri”, pe versantul",Neolitic Hallstatt
+44,SB-I-s-A-11948,Aşezare,"sat aparținător ""Poiana BRADU; oraş Caşolţului AVRIG","cu şopruri”, pe versantul",Neolitic
+45,SB-I-s-B-11949,Aşezare,sat aparținător Intravilan BRADU; oraş AVRIG,,Epoca bronzului târziu - înc. Hallstatt
 46,SB-I-s-B-11950,Situl arheologic de la Bratei,"sat BRATEIU; La comuna BRATEIU Aţel,","E de sat, pe terasa Târnavei spre între km 2-3 de DC Bratei - Aţel",
 47,SB-I-m-A-11950.01,Aşezare,"sat BRATEIU; La comuna BRATEIU Aţel,","E de sat, pe terasa Târnavei spre între km 2-3 de DC Bratei - Aţel",sec. XII - XIII
 48,SB-I-m-A-11950.02,Aşezare,"sat BRATEIU; La comuna BRATEIU Aţel,","E de sat, pe terasa Târnavei spre între km 2-3 de DC Bratei - Aţel",sec. VI - VIII
@@ -50,7 +54,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 53,SB-I-s-B-11952,Aşezare,sat BUIA; comuna La ŞEICA MARE,NE de marginea intravilanului,"Latène, Cultura geto - dacică"
 54,SB-I-s-B-11953,Situl arheologic de la Caşolţ,"sat CAŞOLŢ; ""Pepinieră” comuna ROŞIA","şi ""Tăietură”",
 55,SB-I-m-B-11953.01,Aşezare,"sat CAŞOLŢ; ""Pepinieră” comuna ROŞIA Valea Caşolt, parte","şi ""Tăietură”, între râul Bradului şi şoseaua Bradu - ca şi pe Dealul lui Dan, de o şi de alta a pârâului Highiului",sec. II - III p. Chr.
-56,SB-I-m-B-11953.02,Necropolă,"sat CAŞOLŢ; ""Pepinieră” comuna ROŞIA Valea parte","şi ""Tăietură”, între râul Bradului şi şoseaua Bradu - şi de alta a pârâului Highiului",sec. II - III p. Chr.
+56,SB-I-m-B-11953.02,Necropolă,"sat CAŞOLŢ; ""Pepinieră” comuna ROŞIA Valea Caşolt,","şi ""Tăietură”, între râul Bradului şi şoseaua Bradu - ca şi pe Dealul lui Dan, de o",sec. II - III p. Chr.
 57,SB-I-s-B-11954,Necropolă birituală,"sat CAŞOLŢ; ""Trei comuna ROŞIA","Morminţi” sau ""La stejar”",Hallstatt
 58,SB-I-s-B-11955,Aşezare,"sat CAŞOLŢ; ""Poiana comuna ROŞIA",în pisc”,"Neolitic, Cultura Petreşti"
 59,SB-I-s-B-11956,Situl arheologic de la Cisnădie,"oraş CISNĂDIE ""Cetatea”",,
@@ -62,7 +66,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 65,SB-I-s-B-11959,Aşezare rurală,sat CRISTIAN; La comuna CRISTIAN,"E de sat, pe malul Cibinului",sec. II - III p. Chr.
 66,SB-I-s-B-11960,Necropolă de incineraţie,oraş DUMBRĂVENI Cariera,de lut din cartier Saroş,sec. IV - III a. Chr.
 67,SB-I-s-B-11961,Situl arheologic de la Hamba,sat HAMBA; La comuna ŞURA MARE,2 km SE de sat,sec. II - III p. Chr.
-68,SB-I-m-B-11961.01,Aşezare,sat HAMBA; La comuna ŞURA,2 km SE de sat,sec. II - III p. Chr.
+68,SB-I-m-B-11961.01,Aşezare,sat HAMBA; La comuna ŞURA MARE,2 km SE de sat,sec. II - III p. Chr.
 69,SB-I-m-B-11961.02,Aşezare,sat HAMBA; La comuna ŞURA MARE,2 km SE de sat,"Latène, Cultura geto - dacică"
 70,SB-I-s-B-11962,Aşezare rurală,sat HOSMAN; Intravilan comuna NOCRICH,,sec. II - III p. Chr.
 71,SB-I-s-B-11963,Fortificaţie de pământ,"municipiul MEDIAŞ ""Pe","Cetate”, la NV de oraş",Hallstatt
@@ -73,6 +77,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 76,SB-I-s-B-11965,Necropolă de incineraţie,"municipiul MEDIAŞ ""Poderei”",,sec. IV a. Chr.
 77,SB-I-s-B-11966,"Situl arheologic de la Mediaş, punct ""Baia de Nisip""","municipiul MEDIAŞ ""Baia",de Nisip”,
 78,SB-I-m-B-11966.01,Aşezare,"municipiul MEDIAŞ ""Baia",de Nisip”,"Latène, Cultura geto - dacică"
+79,SB-I-m-B-11966.02,Necropolă,"municipiul MEDIAŞ ""Baia",de Nisip”,sec. III - IV p. Chr.
 80,SB-I-m-B-11966.03,Aşezare,"municipiul MEDIAŞ ""Baia",de Nisip”,Hallstatt
 81,SB-I-m-B-11966.04,Aşezare,"municipiul MEDIAŞ ""Baia",de Nisip”,"Epoca bronzului, Cultura Wietenberg"
 82,SB-I-m-B-11966.05,Necropolă,"municipiul MEDIAŞ ""Baia",de Nisip”,Neolitic
@@ -83,7 +88,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 87,SB-I-s-A-11969,Situl arheologic de la Micăsasa,sat MICĂSASA; În comuna MICĂSASA,centrul satului,
 88,SB-I-m-A-11969.01,Urme de locuire,sat MICĂSASA; În comuna MICĂSASA biserică marginea,"centrul satului, zona dintre gară şi şi la S de intravilan, între intravilanului şi Tîrnava",sec. IV - VI
 89,SB-I-m-A-11969.02,Aşezare romană,sat MICĂSASA; În comuna MICĂSASA,centrul satului,Epoca romană
-90,SB-I-m-A-11969.03,Aşezare rurală,sat MICĂSASA; În comuna MICĂSASA biserică,"centrul satului, zona dintre gară şi şi la S de intravilan, între",sec. II - III p. Chr.
+90,SB-I-m-A-11969.03,Aşezare rurală,sat MICĂSASA; În comuna MICĂSASA biserică marginea,"centrul satului, zona dintre gară şi şi la S de intravilan, între intravilanului şi Tîrnava",sec. II - III p. Chr.
 91,SB-I-s-B-11970,Mansio,"sat MIERCUREA La BĂI; oraş Barcu, MIERCUREA şoseaua SIBIULUI","S de localitate, pe malul pârâului în dreptul băilor, la 100 m S de natională Sibiu - Sebeş",sec. II - III p. Chr.
 92,SB-I-s-B-11971,Fermă,"oraş MIERCUREA ""Secaş"", SIBIULUI la intravilanului punctul","la poalele platoului Secaşelor, 2 km NV de extremitatea Miercurea şi la N de Secaş",sec. II - III p. Chr.
 93,SB-I-s-B-11972,Fermă,"oraş MIERCUREA La SIBIULUI intravilanului, platoului Miercurea","2 km V de extremitatea pe malul stâng al Gârbova, între pârâu şi DC Sibiului - Gârbova",sec. II - III p. Chr.
@@ -92,7 +97,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 96,SB-I-s-B-11975,Necropola Latene de la Moşna,"sat MOŞNA; ""Burgweg” comuna MOŞNA",,"sec. I p.Chr., Cultura geto - dacică"
 97,SB-I-s-B-11976,Aşezare,oraş OCNA La SIBIULUI,5 km N de oraş,"sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
 98,SB-I-s-B-11977,Aşezare,oraş OCNA Intravilan SIBIULUI,,sec. II - IV p. Chr.
-99,SB-I-s-B-11978,Aşezare Sibiului,"oraş OCNA ""Zmiţe”, SIBIULUI SIBIULUI",la 5 km E de oraş,sec. II - III p. Chr.
+99,SB-I-s-B-11978,Aşezare,"oraş OCNA ""Zmiţe”, SIBIULUI",la 5 km E de oraş,sec. II - III p. Chr.
+100,SB-I-s-B-11979,Situl arheologic de la Ocna Sibiului,"oraş OCNA ""Rocoteciu” SIBIULUI",,sec. I a.Chr. - I p.Chr.
 101,SB-I-m-B-11979.01,Urme de locuire,"oraş OCNA ""Rocoteciu”, SIBIULUI",lângă Băi,sec. VIII - IX
 102,SB-I-m-B-11979.02,Aşezare,"oraş OCNA ""Rocoteciu”, SIBIULUI",lângă Băi,"sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
 103,SB-I-s-B-11980,Castru roman de marş de la Ocna Sibiului,"oraş OCNA ""Drumul SIBIULUI","Topârcii""",sec. II p. Chr.
@@ -104,7 +110,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 109,SB-I-m-A-11983.03,Aşezare,"sat ORLAT; comuna ""Cetatea ORLAT N",Scurtă” la V de localitate şi la de DJ Orlat - Sibiel,Epoca bronzului
 110,SB-I-s-B-11984,"Situl arheologic de la Orlat, punct ""La Zidu""","sat ORLAT; comuna ""La ORLAT CFR","Zidu”, pe înălţimea de lângă halta",
 111,SB-I-m-B-11984.01,Fortificaţie cu val,"sat ORLAT; comuna ""La ORLAT CFR","Zidu”, pe înălţimea de lângă halta",sec. XIII - XIV
-112,SB-I-m-B-11984.02,Aşezare,"sat ORLAT; comuna ""La ORLAT CFR comuna PĂUCA","Zidu”, pe înălţimea de lângă halta",Epoca bronzului
+112,SB-I-m-B-11984.02,Aşezare,"sat ORLAT; comuna ""La ORLAT CFR","Zidu”, pe înălţimea de lângă halta",Epoca bronzului
+113,SB-I-s-B-11985,Aşezare,"sat PĂUCA; ""Dealul comuna PĂUCA",Homm”,"Neolitic, Cultura Petreşti"
 114,SB-I-s-B-11986,Fortificaţia medievală de la Răşinari,sat RĂŞINARI; Dealul comuna RĂŞINARI,dintre Răşinari şi Poplaca,sec. XIII - XIV
 115,SB-I-s-B-11987,Aşezare rurală,sat ROŞIA; comuna Intravilan ROŞIA,,sec. II - III p. Chr.
 116,SB-I-s-B-11988,Aşezarea romană de la Rusciori,sat RUSCIORI; La comuna ŞURA versantului MICĂ,"2 km V de sat, pe un platou al Secaşelor",sec. II - III p. Chr.
@@ -114,7 +121,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 120,SB-I-s-B-11992,Aşezare,"sat SLIMNIC; ""Cetăţeaua” comuna SLIMNIC",,"Epoca bronzului, Cultura Coţofeni"
 121,SB-I-s-B-11993,"Aşezarea romană de la Slimnic, punct ""Şarba - La Saivane""","sat SLIMNIC; ""Şarba comuna SLIMNIC extremitatea cursul dealurile Şurii","- La Saivane”, la 4 km SE de S a intravilanului, pe inferior al pârâului Şarba, între Coastele Şarbei (N), Pădurile (E), Lan",sec. II - III p. Chr.
 122,SB-I-s-B-11994,"Situl arheologic de la Slimnic, punct „Şarba - Stempen”","sat SLIMNIC; ""Şarba comuna SLIMNIC",- Stempen”,sec. I a.Chr. - I p.Chr.
-123,SB-I-m-B-11994.01,Aşezare,"sat SLIMNIC; ""Şarba comuna SLIMNIC intravilanului, pâraielor","- Stempen”, la extremitatea S a la S de confluenţa a Bacia şi Şarba, până la 1-1,2",sec. II - III p. Chr.
+123,SB-I-m-B-11994.01,Aşezare,"sat SLIMNIC; ""Şarba comuna SLIMNIC intravilanului, pâraielor km","- Stempen”, la extremitatea S a la S de confluenţa a Bacia şi Şarba, până la 1-1,2 S-SE de aceeaşi confluenţă",sec. II - III p. Chr.
 124,SB-I-m-B-11994.02,Aşezare,"sat SLIMNIC; ""Şarba comuna SLIMNIC intravilanului, pâraielor km","- Stempen”, la extremitatea S a la S de confluenţa a Bacia şi Şarba, până la 1-1,2 S-SE de aceeaşi confluenţă","sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
 125,SB-I-s-B-11995,Aşezare,"sat SLIMNIC; ""În comuna SLIMNIC intravilanului","Rusu”, la 1 km N de extremitatea",sec. II - III p. Chr.
 126,SB-I-s-B-11996,Situl arheologic de la Slimnic,sat SLIMNIC; La comuna SLIMNIC Slimnicului,"1,5 km V de sat în dreapta văii",sec. IX - X
@@ -123,7 +130,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 129,SB-I-s-B-11997,Aşezare,"sat ŞEICA MICĂ; ""Huesen”, comuna ŞEICA MICĂ",Dealul Hasenberg la V de sat,"sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
 130,SB-I-s-B-11998,Necropolă,"sat ŞEICA MICĂ; ""La comuna ŞEICA MICĂ","Troci”, Progadie - cariera de argilă","sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
 131,SB-I-s-B-11999,Situl arheologic de la Şeica Mică,"sat ŞEICA MICĂ; ""Cetatea” comuna ŞEICA MICĂ",,sec. VI
-132,SB-I-m-B-11999.01,Aşezare,"sat ŞEICA MICĂ; ""Cetatea”, comuna ŞEICA sat MICĂ comuna ŞEICA sat",pe un promontoriu la E de,sec. VI
+132,SB-I-m-B-11999.01,Aşezare,"sat ŞEICA MICĂ; ""Cetatea”, comuna ŞEICA sat MICĂ",pe un promontoriu la E de,sec. VI
+133,SB-I-m-B-11999.02,Aşezare,"sat ŞEICA MICĂ; ""Cetatea”, comuna ŞEICA sat MICĂ",pe un promontoriu la E de,sec. II - III p. Chr.
 134,SB-I-m-B-11999.03,Fortificaţie,"sat ŞEICA MICĂ; ""Cetatea”, comuna ŞEICA sat MICĂ",pe un promontoriu la E de,"sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
 135,SB-I-m-B-11999.04,Aşezare fortificată,"sat ŞEICA MICĂ; ""Cetatea”, comuna ŞEICA sat MICĂ",pe un promontoriu la E de,Hallstatt
 136,SB-I-m-B-11999.05,Aşezare fortificată,"sat ŞEICA MICĂ; ""Cetatea”, comuna ŞEICA sat MICĂ",pe un promontoriu la E de,Epoca bronzului
@@ -131,7 +139,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 138,SB-I-s-B-12001,Aşezare,"sat ŞEICA MICĂ; ""Şesul comuna ŞEICA MICĂ",Morii”,sec. II - III p. Chr.
 139,SB-I-s-B-12002,Fortificaţie cu val de pământ şi şanţ,"sat ŞURA MARE; ""Valea comuna ŞURA MARE",Rechgraben”,Epocă neprecizată
 140,SB-I-s-B-12003,Situl arheologic de la Şura Mare,"sat ŞURA MARE; ""Râsloave” comuna ŞURA MARE",,Neolitic
-141,SB-I-m-B-12003.01,Urme de locuire suprapusă,"sat ŞURA MARE; ""Râsloave” comuna ŞURA MARE comuna ŞURA",,sec. XI
+141,SB-I-m-B-12003.01,Urme de locuire suprapusă,"sat ŞURA MARE; ""Râsloave” comuna ŞURA MARE",,sec. XI
+142,SB-I-m-B-12003.02,Aşezare,"sat ŞURA MARE; ""Râsloave” comuna ŞURA MARE",,Neolitic
 143,SB-I-s-B-12004,Situl arheologic de la Şura Mică,sat ŞURA MICĂ; La comuna ŞURA Ocna MICĂ,"1 km N de sat, la V de DJ Şura Mică – Sibiului",sec. I a.Chr. - I p.Chr.
 144,SB-I-m-B-12004.01,Aşezare,sat ŞURA MICĂ; La comuna ŞURA Ocna MICĂ,"1 km N de sat, la V de DJ Şura Mică – Sibiului",sec. II - III p. Chr.
 145,SB-I-m-B-12004.02,Aşezare,sat ŞURA MICĂ; La comuna ŞURA Ocna MICĂ,"1 km N de sat, la V de DJ Şura Mică – Sibiului","sec. I a.Chr. - I p.Chr., Cultura geto - dacică"
@@ -141,7 +150,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 149,SB-I-m-B-12005.03,Morminte izolate,sat TÂRNAVA; Burg-Cetate comuna TÂRNAVA,,Epoca romană
 150,SB-I-m-B-12005.04,Aşezare,sat TÂRNAVA; Burg-Cetate comuna TÂRNAVA,,"Neolitic, Cultura Petreşti"
 151,SB-I-s-B-12006,"Situl arheologic de la Târnava, punct ""Mihalţ""","sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA",,
-152,SB-I-m-B-12006.01,Urme de locuire,"sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA comuna TÂRNAVA",,sec. VII - VIII
+152,SB-I-m-B-12006.01,Urme de locuire,"sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA",,sec. VII - VIII
+153,SB-I-m-B-12006.02,Urme de locuire,"sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA",,sec. IV p. Chr.
 154,SB-I-m-B-12006.03,Urme de locuire,"sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA",,Epoca romană
 155,SB-I-m-B-12006.04,Urme de locuire,"sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA",,Hallstatt
 156,SB-I-m-B-12006.05,Aşezare,"sat TÂRNAVA; ""Mihalţ” comuna TÂRNAVA",,Epoca bronzului
@@ -152,13 +162,14 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 161,SB-I-m-A-12008.03,Aşezare,"sat TILIŞCA; ""Dealul comuna TILIŞCA",Căţinaş”,Epoca bronzului
 162,SB-I-s-B-12009,Cetatea medievală de la Tilişca,"sat TILIŞCA; ""Dealul comuna TILIŞCA",Căţinaş”,sec. XII
 163,SB-II-a-A-12010,Ansamblul fortificaţiilor oraşului medieval,municipiul SIBIU,,sec. XII - XVII
-164,SB-II-m-A-12010.01,"Incinta I: Turnul Scărilor, curtine (fragmente) Turnul Scării Aurarilor,",municipiul SIBIU Turnul P-ţa apărare capitulară; cu Scării,"Scărilor: P-ţa Huet 3. - Curtine: Huet 1, P-ţa Huet, între turnul de de la nr.3 şi nr. 4 - Casa P-ţa Mică 13 (adresă dublă P-ţa Huet 13). Aurarilor: P-ţa Mică 24. Curtine:",1191 - 1224
+164,SB-II-m-A-12010.01,"Incinta I: Turnul Scărilor, curtine (fragmente)",municipiul SIBIU Turnul P-ţa apărare capitulară; cu,"Scărilor: P-ţa Huet 3. - Curtine: Huet 1, P-ţa Huet, între turnul de de la nr.3 şi nr. 4 - Casa P-ţa Mică 13 (adresă dublă P-ţa Huet 13).",1191 - 1224
+165,SB-II-m-A-12010.02,"Incinta II: Turnul Sfatului, Turnul Scării Aurarilor, curtine (fragmente)",municipiul SIBIU Turnul Scării P-ţa,Sfatului: P-ţa Mică 1; Turnul Aurarilor: P-ţa Mică 24. Curtine: Mică 19-30,1224 - 1241
 166,SB-II-m-A-12010.03,"Incinta III: Turnuri de apărare, Turnul Dulgherilor, Turnul Olarilor, Turnul Archebuzierilor, Turn de Poartă, curtine","municipiul SIBIU Turnuri str. Dulgherilor, Archebuzierilor: Gros, bd. Odobescu de 23. Iancu latura str. Dulgherilor; bastionul Soldisch Centumvirilor str.Tribunei str. grădinii lângă","de apărare: P-ţa Aurarilor 10, Iancu Avram 9, 19-21, 31; Turnul Turnul Olarilor, Turnul str. Cetăţii;, Bastionul azi teatru: între str. Cetăţii nr. 5 şi Spitalelor; Turnul de Poartă: Str. Alexandru 1, lângă Muzeul Istorie; turn de apărare: Piaţa Mică Curtine: P-ţa Aurarilor 4; str. Avram 7-11, 19-31; str. Manejului, lângă estică a mănăstirii Ursulinelor; Cetăţii, între Piaţa Unirii şi Turnul str. Bastionului 2-8 (până la Soldisch); între Bastionul şi str. Mitropoliei; str. pe frontul de N-V, între şi str. Odobescu Alexandru; Odobescu Alexandru, la limita Primăriei vechi; Pasajul Scărilor, incinta bisericii evanghelice.",1357 - 1366
 167,SB-II-m-A-12010.04,"Incinta IV: Turn de apărare, Turnul Pielarilor, Turnul Fierarilor",municipiul SIBIU Turn Turnul intersecţia Zidului;,"de apărare: P-ţa Armelor 10; Pielarilor: str. Pulberăriei, la cu str. Rimski-Korsakov şi Turnul Fierarilor: str. Ocnei 33",1357 - 1366
-168,SB-II-m-A-12010.05,"Fortificaţii târzii: Bastionul Haller, Bastionul Soldisch, rondelă - fragmente, curtine",municipiul SIBIU Bastionul Pompei mercenarilor colţ Soldisch;,"Haller: bd. Spitalelor şi str. Onofreiu nr.8; Bastionul (Soldisch): str. Bastionului cu şoseaua Alba Iulia ; ruine zidul exterior de apărare, cu",sec. XVI - XVII
+168,SB-II-m-A-12010.05,"Fortificaţii târzii: Bastionul Haller, Bastionul Soldisch, rondelă - fragmente, curtine",municipiul SIBIU Bastionul Pompei mercenarilor colţ rondelă:,"Haller: bd. Spitalelor şi str. Onofreiu nr.8; Bastionul (Soldisch): str. Bastionului cu şoseaua Alba Iulia ; ruine Bastionului 8, lângă bastionul",sec. XVI - XVII
 169,SB-II-s-A-12011,Centrul istoric,"municipiul SIBIU SE: str. Gării Nicolae, zid demolări Cibinului; Filosofilor, Şaguna","Piaţa Unirii, Bd. Coposu Corneliu; E: Constituţiei, str. Pescarilor, Piaţa (latura vestică); N: Str. Teclu str. Pulberăriei (porţiunea de de pe str. Pulberăriei afectată de în anii 1985-1988); NV: Piaţa V: Str. Dârstelor, Aleea şos. Alba Iulia; SV: str. Andrei, Piaţa Unirii",sec. XIII - XX
 170,SB-II-a-B-12013,"Ansamblul urban ""Str. Turnişor""",municipiul SIBIU Între gării,şoseaua Alba Iulia şi bariera CFR a Turnişor,sec. XVIII - XIX
-171,SB-II-a-B-20923,"Linia ferată îngustă Sibiu- Agnita-Brădeni, cu ramificaţia Cornăţel- Vurpăr","municipiul SIBIU Municipiul Şelimbăr; sat Caşolţ, comuna sat, Marpod, comuna Alţâna; Beneşti, comuna Bârgiş; Agnita; Stejărişu, Iacobeni, Vurpăr,","Sibiu; sat Şelimbăr; comuna sat Mohu, comuna Şelimbăr; Bungard, comuna Şelimbăr, sat comuna Roşia; sat Cornăţel, Roşia; sat Roşia, comuna Roşia, Hosman, comuna Nocrich; sat comuna Marpod; sat Nocrich, Nocrich; sat Alţâna, comuna sat Vecerd, comuna Bârghiş; sat comuna Alţâna; sat Vărd, Chirpăr; sat Bârghiş, comuna sat Coveş, oraş Agnita, oraş sat Ruja, oraş Agnita; sat comuna Iacobeni; sat sat Netuş, comuna Iacobeni; comuna Vurpăr",1898 - 1910
+171,SB-II-a-B-20923,"Linia ferată îngustă Sibiu- Agnita-Brădeni, cu ramificaţia Cornăţel- Vurpăr","municipiul SIBIU Municipiul Şelimbăr; sat Caşolţ, comuna sat, Marpod, comuna Alţâna; Beneşti, comuna Bârgiş; Agnita; Stejărişu, Iacobeni, sat","Sibiu; sat Şelimbăr; comuna sat Mohu, comuna Şelimbăr; Bungard, comuna Şelimbăr, sat comuna Roşia; sat Cornăţel, Roşia; sat Roşia, comuna Roşia, Hosman, comuna Nocrich; sat comuna Marpod; sat Nocrich, Nocrich; sat Alţâna, comuna sat Vecerd, comuna Bârghiş; sat comuna Alţâna; sat Vărd, Chirpăr; sat Bârghiş, comuna sat Coveş, oraş Agnita, oraş sat Ruja, oraş Agnita; sat comuna Iacobeni; sat sat Netuş, comuna Iacobeni; Brădeni, comuna Brădeni; sat",1898 - 1910
 172,SB-II-m-B-20923.69,Linie ferată îngustă,municipiul SIBIU Între,km 106+730-109+024,1898 - 1910
 173,SB-II-m-B-20923.70,Remiza de locomotive pentru calea ferată îngustă din cadrul depoului Sibiu,municipiul SIBIU În,"depoul C.F.R. Sibiu, la km 107+770",1898 - 1910
 174,SB-II-m-B-20966,Pod de piatră,municipiul SIBIU Între,Str. Cibinului şi Str. Râului,1908
@@ -169,6 +180,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 179,SB-II-m-B-12018,Casă,municipiul SIBIU Str.,9 Mai 36,"sec. XV, sec. XVIII"
 180,SB-II-m-A-12019,Casă,municipiul SIBIU Str.,9 Mai 43,"1450 - 1500, sec. XVIII"
 181,SB-II-m-B-12020,Fosta biserică a minoriţilor,municipiul SIBIU Str.,9 Mai 75,"sec. XVII, transf. 1926"
+182,SB-II-m-B-12021,Casă,municipiul SIBIU Str.,9 Mai 83,sec. XVIII
 183,SB-II-m-B-12022,Casă,municipiul SIBIU Str.,Argintarilor 1,sec. XV - XVIII
 184,SB-II-m-B-12023,Casă,municipiul SIBIU Str.,Argintarilor 9,"sec. XV, sec. XVIII, 1900 - 1925"
 185,SB-II-m-B-12024,Casă,municipiul SIBIU Str.,Arhivelor 2,"1450 - 1475, sec. XVII, 1750 - 1850"
@@ -180,6 +192,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 191,SB-II-m-B-12030,Casă,municipiul SIBIU Piaţa,Aurarilor 5,"sec. XVI, sec. XVIII"
 192,SB-II-m-B-12031,Casă,municipiul SIBIU Piaţa,Aurarilor 6,"1400 - 1425, sec. XVIII - primul sfert al sec. XX"
 193,SB-II-m-B-12032,Casă,municipiul SIBIU Piaţa,Aurarilor 7,"a doua jum. a sec. XV, 1743"
+194,SB-II-m-B-12033,Casă,municipiul SIBIU Piaţa,Aurarilor 8,"sec. XVII - XVIII, 1875 - 1900"
 195,SB-II-m-B-12034,Casă,municipiul SIBIU Piaţa,Aurarilor 9,"sec. XV, sec. XVIII; sf. sec. XIX - înc. sec. XX"
 196,SB-II-m-A-12035,Casă (înglobează fragment curtină incinta III),municipiul SIBIU Piaţa,Aurarilor 10,"1450 - 1500, sec. XVIII"
 197,SB-II-m-A-12036,Casă (în corpul B fragmente din prima Primărie a oraşului),municipiul SIBIU Str.,"Avram Iancu 1-3, Piaţa Mică 31","sec. XIV, sf. sec. XV - înc. sec. XVI, 1742"
@@ -191,6 +204,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 203,SB-II-m-A-12042,Casa Carol şi Michael Brukenthal,municipiul SIBIU Str.,Avram Iancu 8,"sec. XV, 1785 - 1799"
 204,SB-II-m-A-12043,Casa Weidner,municipiul SIBIU Str.,Avram Iancu 9,"sf.sec. XV, 1571"
 205,SB-II-m-A-12044,Casă (înglobează fragmente medievale şi de fortificaţii incinta III),municipiul SIBIU Str.,Avram Iancu 11,"sec. XIV - XVI (fragmente), 1870 - 1880"
+206,SB-II-m-A-12045,Casă,municipiul SIBIU Str.,Avram Iancu 14,sec. XVI - XVIII
 207,SB-II-m-A-12046,Casa Böbel,municipiul SIBIU Str.,Avram Iancu 16,sec. XIV - XVIII
 208,SB-II-m-A-12047,Casă,municipiul SIBIU Str.,Azilului 2,"sec. XV, sec.XVII, a doua jum. a sec. XIX - primul sfert al sec. XX"
 209,SB-II-m-B-12048,Casă,municipiul SIBIU Str.,Azilului 3,"a doua jum. sec. XV - prima jum. sec. XVI, sec. XVII; prima jum. a sec. XX"
@@ -201,7 +215,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 214,SB-II-m-B-12051,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 7,"sec. XV - XVI, sec. XVIII, sf. sec. XIX"
 215,SB-II-m-A-12052,"Casa Michael Brukenthal, azi locuinţe şi spaţiu comercial",municipiul SIBIU Str.,Bălcescu Nicolae 12,"sec. XV, 1786 -1790"
 216,SB-II-m-B-12053,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 14,"sf. sec. XVIII, înc. sec. XIX"
-217,SB-II-m-B-12054,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 16,1875 - 1900 sec. XVIII
+217,SB-II-m-B-12054,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 16,1875 - 1900
+218,SB-II-m-B-12055,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 17,"sec. XVI - XVII (fragmente), sec. XVIII"
 219,SB-II-m-B-12056,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 20,"sf. sec. XVIII, cu fragmente sec. XV - XVI"
 220,SB-II-m-B-12057,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 21,sec. XVIII - XX
 221,SB-II-m-B-12058,Casă,municipiul SIBIU Str.,Bălcescu Nicolae 22,sec. XVI - XVII
@@ -214,6 +229,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 228,SB-II-a-B-12065,Ansamblul bisericii evanghelice Turnişor,municipiul SIBIU Str.,Bieltz Eduard Albert 62,sec. XIII - XIX
 229,SB-II-m-B-12065.01,Biserica evanghelică,municipiul SIBIU Str.,Bieltz Eduard Albert 62,"sec. XIII, 1782"
 230,SB-II-m-B-12065.02,Casa parohială evanghelică,municipiul SIBIU Str.,Bieltz Eduard Albert 62,"sec. XVI, sec. XVIII - XIX"
+231,SB-II-m-B-20933,Casa “Anastasiu Boiu”,municipiul SIBIU Str.,Boiu Zaharia 27,sf. sec. XIX
 232,SB-II-m-A-12066,Casa Mövert,municipiul SIBIU Str.,Brukenthal Samuel 1,"sec. XV, sec. XVI; sec. XVIII"
 233,SB-II-m-A-12067,"Fosta Bancă de Credit Funciar, azi Primăria",municipiul SIBIU Str.,"Brukenthal Samuel 2, Piaţa Mică 5",1906
 234,SB-II-m-B-12068,Casa Göllner,municipiul SIBIU Str.,Brukenthal Samuel 3,"sec. XVI - XVII, mijl. sec. XIX"
@@ -224,7 +240,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 239,SB-II-m-B-21084.01,Casă de locuit,municipiul SIBIU Str.,Constituţiei 22,1926
 240, SB-II-m-B-21084.02, Anexa (C2), municipiul SIBIU Str., Constituţiei 22, înc. sec. XX
 241,SB-II-m-B-21084.03,Anexa (C3),municipiul SIBIU Str.,Constituţiei 22,înc. sec. XX
-242,SB-II-a-B-20954,"Fosta Mănăstire a Călugăriţelor Franciscane Călugăriţelor Franciscane,",municipiul SIBIU Str.,Dealului 4-6,sec. XIX
+242,SB-II-a-B-20954,Fosta Mănăstire a Călugăriţelor Franciscane,municipiul SIBIU Str.,Dealului 4-6,sec. XIX
+243,SB-II-m-B-20954.01,"Fosta Mănăstire a Călugăriţelor Franciscane, corp A",municipiul SIBIU Str.,Dealului 4-6,sec. XIX
 244,SB-II-m-B-20954.02,"Fosta Mănăstire a Călugăriţelor Franciscane, corp B",municipiul SIBIU Str.,Dealului 4-6,sec. XIX
 245,SB-II-m-B-20954.03,"Fosta Mănăstire a Călugăriţelor Franciscane, corp C",municipiul SIBIU Str.,Dealului 4-6,sec. XIX
 246,SB-II-m-B-20954.04,"Fosta Mănăstire a Călugăriţelor Franciscane, corp D",municipiul SIBIU Str.,Dealului 4-6,sec. XIX
@@ -233,7 +250,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 249,SB-II-m-B-20967,"Fosta Manutanţă, corpurile A şi B",municipiul SIBIU Str.,Dobrun 1,1888
 250,SB-II-m-B-12072,Casă,municipiul SIBIU Str.,Faurului 6,"sec. XVII, sec. XVIII; prima jum. a sec. XX"
 251,SB-II-m-B-12073,Casă,municipiul SIBIU Str.,Faurului 12,"sec. XVI - XVII, sec. XVIII; prima jum. a sec. XX"
-252,SB-II-m-B-12074,Casă (inclusiv corpul către str. Ocnei) str. Ocnei),municipiul SIBIU Str.,"Faurului 16, Str.Ocnei","mijl. sec. XIX, înc. sec. XX mijl. sec. XIX; al doilea sfert al"
+252,SB-II-m-B-12074,Casă (inclusiv corpul către str. Ocnei),municipiul SIBIU Str.,"Faurului 16, Str.Ocnei","mijl. sec. XIX, înc. sec. XX"
+253,SB-II-m-A-12075,Casă (inclusiv corpul către str. Ocnei),municipiul SIBIU Str.,Faurului 18 o aripă în Str. Ocnei,"prima jum. sec. XV, sec. XVIII; mijl. sec. XIX; al doilea sfert al sec. XX"
 254,SB-II-m-B-12076,Casă (inclusiv corpul către str. Ocnei),municipiul SIBIU Str.,Faurului 20 o aripă în Str. Ocnei,"sec. XV - XVI, sec. XVIII"
 255,SB-II-m-A-21068,Biblioteca Județeană ASTRA,municipiul SIBIU Str.,George Barițiu 5,1905
 256,SB-II-a-A-12077,Ansamblul orfelinatului Terezian,municipiul SIBIU Str.,Gladiolelor 4-8,1750 - 1800
@@ -243,7 +261,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 260, SB-II-m-A-12078," Biserica parohială evanghelică ""Sf. Maria""", municipiul SIBIU Piaţa, Huet f.n.," 1350 - 1520, 1445"
 261,SB-II-m-A-12079,Casa parohială evanghelică,municipiul SIBIU Piaţa,Huet 1 şi 2,"sec. XIII - XIV, 1502, sec. XVI"
 262,SB-II-m-A-12080,"Clădirea ""Butoiul de Aur"", cu turn de apărare înglobat, azi locuinţă",municipiul SIBIU Piaţa,Huet 3,"sec. XIII, sec. XV, 1542, 1860"
-263,SB-II-m-A-12081,"Consistoriul districtual al bisericii evanghelice C.A. Brukenthal""",municipiul SIBIU Piaţa,Huet 4,"înc. sec. XIV, 1449, 1500- 1515, sec. XVIII sec. XIV-XV"
+263,SB-II-m-A-12081,Consistoriul districtual al bisericii evanghelice C.A.,municipiul SIBIU Piaţa,Huet 4,"înc. sec. XIV, 1449, 1500- 1515, sec. XVIII"
+264,SB-II-m-A-12082,"Liceul „Samuel von Brukenthal""",municipiul SIBIU Piaţa,Huet 5,"1778 - 1786, înglobează urme sec. XIV-XV"
 265,SB-II-m-B-12083,Casă,municipiul SIBIU Piaţa,Huet 16,sf. sec. XVIII - înc. sec. XIX
 266,SB-II-m-A-12084,"Casă, cu fragment din capela gotică "" Sf. Ştefan""",municipiul SIBIU Piaţa,Huet 17,"sec. XIV - XV, 1550 - 1600, 1831"
 267,SB-II-a-A-12085,"Ansamblul bisericii „Buna Vestire” - ""din Groapă""",municipiul SIBIU Str.,Justiţiei 5,sec. XVIII - XX
@@ -254,7 +273,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 272,SB-II-m-B-12088,"Biserica „Sf. Luca” din ""Maierii Sibiului""",municipiul SIBIU Str.,Lungă 25,1791
 273,SB-II-m-B-12089,Casă,municipiul SIBIU Str.,"Magheru Gheorghe, general 2","sec. XVIII, 1885 - 1899"
 274,SB-II-m-A-12090,"Casa Filek, azi sediul Consistoriului Superior al Bisericii Evanghelice C.A. din România",municipiul SIBIU Str.,"Magheru Gheorghe, general 4",1802
-275,SB-II-a-A-12091,Mănăstirea Ursulinelor Ursulinelor,municipiul SIBIU Str.,"Magheru Gheorghe, general 34-36",sec. XV - înc. sec. XX
+275,SB-II-a-A-12091,Mănăstirea Ursulinelor,municipiul SIBIU Str.,"Magheru Gheorghe, general 34-36",sec. XV - înc. sec. XX
+276,SB-II-m-A-12091.01,Biserica fostei Mănăstiri a Ursulinelor,municipiul SIBIU Str.,"Magheru Gheorghe, general 34-36","1479, 1728 - 1733"
 277,SB-II-m-A-12091.02,"Fosta mănăstire, azi Colegiul Pedagogic ""Andrei Şaguna""",municipiul SIBIU Str.,"Magheru Gheorghe, general 34-36","sec. XV, 1733 - 1772, 1891 - 1904"
 278,SB-II-m-A-12092,"Fostul Seminar Iezuit, azi Casa Parohială romano- catolică (înglobează fragmente ale Halei Cojocarilor)",municipiul SIBIU Piaţa,"Mare 2, Piaţa Mică 3","sec. XVI, 1726 - 1739"
 279,SB-II-m-A-12093,"Biserica parohială romano-catolică „Sf. Treime”, fostă biserică iezuită",municipiul SIBIU Piaţa,"Mare 3, Piaţa Mică 4","1726 - 1733, 1738"
@@ -263,7 +283,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 282,SB-II-m-A-12096,Casă,municipiul SIBIU Piaţa,Mare 6,"sec. XVIII - XIX, cu vestigii sec. XIV - XV"
 283,SB-II-m-A-12097,Casă,municipiul SIBIU Piaţa,Mare 7,"sec. XV - XVIII, sec. XX"
 284,SB-II-m-A-12098,"Casa Hecht (Casa Comesului), azi locuinţe şi spaţii comerciale",municipiul SIBIU Piaţa,Mare 8,"sec. XV, 1821"
-285,SB-II-m-A-12099,Casă spaţiu comercial,municipiul SIBIU Piaţa,Mare 9,"sec. XV, transformări post 1828"
+285,SB-II-m-A-12099,Casă,municipiul SIBIU Piaţa,Mare 9,"sec. XV, transformări post 1828"
+286,SB-II-m-A-12100,"Casa Haller, azi locuinţe şi spaţiu comercial",municipiul SIBIU Piaţa,Mare 10,"sec. XV - XVI, sec. XX"
 287,SB-II-m-B-12101,Casă,municipiul SIBIU Piaţa,Mare 11,sec. XV - XIX
 288,SB-II-m-A-12102,Casă,municipiul SIBIU Piaţa,Mare 12,sec. XV - primul sfert al sec. XIX
 289,SB-II-m-B-12103,"Casa Lutsch, azi Banca Bucureşti-Frankfurt şi sediul F.D.G.R",municipiul SIBIU Piaţa Magheru,Mare 13 o aripă în Str. G-ral Gh. 3,"sec. XV, transf. 1830"
@@ -276,6 +297,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 296,SB-II-m-A-12110,Casă,municipiul SIBIU Piaţa,"Mică 7, Piaţa Huet 7","sec. XV - XVI, sf. sec. XVIII"
 297,SB-II-m-A-12111,Casă,municipiul SIBIU Piaţa,"Mică 8, Piaţa Huet 8","sec. XV - XVI, sf. XVIII"
 298,SB-II-m-A-12112,Casă,municipiul SIBIU Piaţa,"Mică 9, Piaţa Huet 9","sec. XV - XVI, sf. XVIII"
+299,SB-II-m-B-12113,Casă,municipiul SIBIU Piaţa,"Mică 10, Piaţa Huet 10","sec. XV - XVI, 1930 - 1940"
 300,SB-II-m-B-12114,"Fosta Casă a Asociaţiei Meseriaşilor (Casa Hermes), azi Muzeul Franz Binder",municipiul SIBIU Piaţa,"Mică 11, Piaţa Huet 11",1867
 301,SB-II-m-A-12115,"Casă, azi Studioul ""Astra- Film""",municipiul SIBIU Piaţa,"Mică 12, Piaţa Huet 12","sec. XV - XVI, sec.XIX"
 302,SB-II-m-A-12116,Casă (înglobează fragment incinta I),municipiul SIBIU Piaţa,"Mică 13, Piaţa Huet 13","sec. XV - XVI, sf. sec. XVIII"
@@ -286,7 +308,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 307,SB-II-m-B-12121,Casă,municipiul SIBIU Piaţa,Mică 19,"sf. sec. XV, înc. sec. XVI; sec. XX"
 308,SB-II-m-B-12122,Casă,municipiul SIBIU Piaţa,Mică 20,"sec. XV - XVIII, sec. XX"
 309, SB-II-m-A-12123," Fosta Hală a Măcelarilor, azi Casa Artelor", municipiul SIBIU Piaţa, Mică 21," sec. XIV, 1787"
-310,SB-II-m-A-12124,Casă (în curte fragmente ale incintelor I şi II) apărare - incinta III),municipiul SIBIU Piaţa,Mică 22,"sec. XV - XVI, 1631, 1694, sec. XVIII"
+310,SB-II-m-A-12124,Casă (în curte fragmente ale incintelor I şi II),municipiul SIBIU Piaţa,Mică 22,"sec. XV - XVI, 1631, 1694, sec. XVIII"
+311,SB-II-m-A-12125,Casă (înglobează turn de apărare - incinta III),municipiul SIBIU Piaţa,Mică 23,"sec. XV - XVI, 1750 - 1800"
 312,SB-II-m-A-12126,Casă (înglobează turn de apărare - incinta II),municipiul SIBIU Piaţa,Mică 24,"sec. XV - XVI, sec. XVIII; înc. sec. XX"
 313,SB-II-m-A-12127,"Casa Breslei Aurarilor, azi locuinţă",municipiul SIBIU Piaţa,Mică 25,"sec. XV - XVI, sec. XVIII (1745)"
 314,SB-II-m-A-12128,"Casă şi farmacia ""La Ursul Negru"", azi locuinţe şi Muzeul de Istoria Farmaciei",municipiul SIBIU Piaţa,Mică 26,"sec. XV - XVI, sec. XVIII"
@@ -297,6 +320,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 319,SB-II-m-A-12133,Casă,municipiul SIBIU Str.,Mitropoliei 2A,a doua jum. sec. XIV - sec. XIX
 320,SB-II-m-A-12134,"Casa Altenberger Pempflinger (Primăria Veche), azi Muzeul de Istorie",municipiul SIBIU Str.,Mitropoliei 2,sec. XIV - XVIII
 321,SB-II-m-A-12135,Casă,municipiul SIBIU Str.,Mitropoliei 7,"sec. XIV, sec. XVIII, după 1911"
+322,SB-II-m-B-12136,Casă,municipiul SIBIU Str.,Mitropoliei 8,sf. sec. XVIII - înc. sec. XIX
 323,SB-II-m-A-12137,Biserica reformată (calvină),municipiul SIBIU Str.,Mitropoliei 9,1786
 324,SB-II-m-B-12139,Casa parohială reformată,municipiul SIBIU Str.,Mitropoliei 11,"sec. XV, 1784 - 1786"
 325,SB-II-m-A-12140,Casa cu cariatide,municipiul SIBIU Str.,Mitropoliei 13,1786
@@ -307,7 +331,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 330,SB-II-m-B-12145,"Casă, azi grădiniţă",municipiul SIBIU Str.,Mitropoliei 19,înc. sec. XVIII
 331,SB-II-a-A-12146,"Ansamblul ""Mitropolia Ortodoxă şi Facultatea de Teologie Ortodoxă""",municipiul SIBIU Str. Centumvirilor,"Mitropoliei 20-24, Str. 13",sf. sec. XVIII - prima treime a sec. XX
 332,SB-II-m-A-12146.01,Mitropolia Ardealului - Arhiepiscopia Ortodoxă Sibiu,municipiul SIBIU Str. 13,"Mitropoliei 20, Str. Centumvirilor",înc. sec. XIX
-333,SB-II-m-A-12146.02,"Facultatea de Teologie Ortodoxă ""Andrei Şaguna"" fund a parcelei str.",municipiul SIBIU Str. Centumvirilor Centumvirilor,"Mitropoliei 20-24, Str. 13 13","1913 - 1914, 1934"
+333,SB-II-m-A-12146.02,"Facultatea de Teologie Ortodoxă ""Andrei Şaguna""",municipiul SIBIU Str. Centumvirilor,"Mitropoliei 20-24, Str. 13","1913 - 1914, 1934"
+334,SB-II-m-A-12146.03,Corpul de pe latura de fund a parcelei str. Centumvirilor 13,municipiul SIBIU Str. Centumvirilor,"Mitropoliei 20-24, Str. 13",sf.sec. XVIII
 335,SB-II-m-A-12146.04,Clădire,municipiul SIBIU Str. Centumvirilor,"Mitropoliei 20-24, Str. 13",prima treime a sec. XX
 336,SB-II-m-A-12147,Catedrala Mitropolitană „Sf. Treime”,municipiul SIBIU Str.,Mitropoliei 33-35,1902 - 1906
 337,SB-II-m-B-12148,Clădire,municipiul SIBIU Str.,Mitropoliei 75,"ante 1638, sec. XX"
@@ -318,7 +343,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 342,SB-II-m-B-12151.02,"Fosta capelă, azi locuinţă",municipiul SIBIU Str.,Niţă Octavian Maior 36,1748
 343,SB-II-m-B-12151.03,Incintă fortificată (fragmente),municipiul SIBIU Str.,Niţă Octavian Maior 36,sec. XV
 344, SB-II-m-B-20928, Spitalul C.F.R., municipiul SIBIU Str., Noica Constantin 20, sf. sec. XIX
-345,SB-II-m-A-12152,Casa de vară Brukenthal,municipiul SIBIU Str.,Noica Constantin 48,a treia treime a sec. XVIII sec. XVIII; ultimul sfert al sec.
+345,SB-II-m-A-12152,Casa de vară Brukenthal,municipiul SIBIU Str.,Noica Constantin 48,a treia treime a sec. XVIII
+346,SB-II-m-B-12153,Casă,municipiul SIBIU Str.,Ocnei 1,"sec. XV - prima jum. sec. XVI, sec. XVIII; ultimul sfert al sec. XIX"
 347,SB-II-m-B-12154,Casă,municipiul SIBIU Str.,Ocnei 2,sec. XVIII
 348,SB-II-m-A-12155,Fostul Han „La Mielul Alb”,municipiul SIBIU Str.,Ocnei 3-5,"sec. XV - XVI, sf. sec. XVIII - înc. sec. XIX"
 349,SB-II-m-B-12156,Casă,municipiul SIBIU Str.,Ocnei 4,1890 - 1905
@@ -328,6 +354,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 353,SB-II-m-B-12160,Casă,municipiul SIBIU Str.,Ocnei 12,"a doua jum. sec. XIV - prima jum. sec. XVI; ultimul sfert al sec. XVIII-primul sfert al sec. XIX; ultimul sfert al sec. XIX, al doilea sfert al sec. XX"
 354,SB-II-m-B-12161,Casă,municipiul SIBIU Str.,Ocnei 17,sec. XVII - XVIII
 355,SB-II-m-B-12162,Casă,municipiul SIBIU Str.,Ocnei 19,sec. XVII - XVIII
+356,SB-II-m-A-12163,Casă,municipiul SIBIU Str.,Ocnei 22,"sec. XIV, sf. sec. XV"
 357,SB-II-m-B-12164,Casă,municipiul SIBIU Str.,"Ocnei 24, Str. Pielarilor nr.1","sec. XIV, sf. sec. XV, 1820 - 1830"
 358,SB-II-m-B-12165,Casă,municipiul SIBIU Str.,Ocnei 30,"sec. XV - XVI, sec. XVIII"
 359,SB-II-a-B-20972,"Ansamblul Grupul Şcolar Independenţa, fosta fabrică de pantofi ""Herma""",municipiul SIBIU Str.,Ocnei 31,sec. XIX
@@ -338,6 +365,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 364,SB-II-m-B-21085.02,Corpul B,municipiul SIBIU Str.,Ocnei 33,
 365,SB-II-m-B-21085.03,Corpul C,municipiul SIBIU Str.,Ocnei 33,
 366,SB-II-m-B-21085.04,Corpul D,municipiul SIBIU Str.,Ocnei 33,
+367,SB-II-m-B-21085.05,Corpul E,municipiul SIBIU Str.,Ocnei 33,
 368,SB-II-m-B-21085.06,Corpul F,municipiul SIBIU Str.,Ocnei 33,
 369,SB-II-m-B-21085.07,Corpul G,municipiul SIBIU Str.,Ocnei 33,
 370,SB-II-m-B-21085.08,Corpul I,municipiul SIBIU Str.,Ocnei 33,
@@ -348,7 +376,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 375,SB-II-m-B-20965,"Universitatea ""Lucian Blaga"", corpurile A şi B",municipiul SIBIU Str.,Raţiu Ion 7,1903; 1938
 376,SB-II-a-A-12012,Muzeul Civilizaţiei Populare Tradiţionale ASTRA,municipiul SIBIU Calea,"Răşinari f. n., Dumbrava Sibiului",1963
 377,SB-II-a-A-12167,Ansamblul bisericii „Sf. Apostoli Petru şi Pavel”,municipiul SIBIU Str.,Reconstrucţiei 17,sec. XVIII - XX
-378,SB-II-m-A-12167.01,Biserica „Sf. Apostoli Petru şi Pavel” românească,municipiul SIBIU Str.,Reconstrucţiei 17,1778 - 1788
+378,SB-II-m-A-12167.01,Biserica „Sf. Apostoli Petru şi Pavel”,municipiul SIBIU Str.,Reconstrucţiei 17,1778 - 1788
+379,SB-II-m-B-12168,Vechea şcoală românească,municipiul SIBIU Str.,Reconstrucţiei 35,1850 - 1900
 380,SB-II-m-B-12169,Casă,municipiul SIBIU Pasajul,Scărilor 1,"sec. XV - XVI, sec. XVIII, 1860"
 381,SB-II-m-B-12170,Casă,municipiul SIBIU Pasajul,Scărilor 2,"sec. XV - XVI, sec. XVIII, 1860"
 382,SB-II-m-B-12171,Casă,municipiul SIBIU Pasajul,Scărilor 3,"sec. XV - XVI, sec. XVIII, 1860"
@@ -359,7 +388,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 387,SB-II-m-B-20980,Casă de locuit,municipiul SIBIU Str.,Şaguna Andrei 7,"1886, sf. sec. XIX"
 388,SB-II-m-B-20993,"Casă de locuit, corpurile A, B şi C",municipiul SIBIU Str.,Şaguna Andrei 17,"1929 (corp A), in jurul anului 1800 (corp B), sec. XIX (corp C)"
 389,SB-II-m-B-21002,Casă de locuit,municipiul SIBIU Str.,Şaguna Andrei 19,sf. sec. XIX - înc. sec. XX
-390,SB-II-m-B-21003,Casă de locuit acces dinspre str. Andrei,municipiul SIBIU Str.,Şaguna Andrei 23,mijlocul sec. XIX - înc. sec. sec. XX
+390,SB-II-m-B-21003,Casă de locuit,municipiul SIBIU Str.,Şaguna Andrei 23,mijlocul sec. XIX - înc. sec. sec. XX
+391,SB-II-m-B-20971,"Corpul A, cu poarta de acces dinspre str. Andrei Şaguna",municipiul SIBIU Str.,Şaguna Andrei 25,ante 1875
 392,SB-II-m-B-12174,Casă,municipiul SIBIU Pasajul,Şcolii 2,sec. XVIII
 393,SB-II-a-A-12175,"Fosta mănăstire franciscană, azi biserică romano-catolică şi locuinţe",municipiul SIBIU Str. (corpul,"Şelarilor 12-14, Str. Bărbierilor 2 S+P), Str. Manejului 4",sec. XV - XVIII
 394,SB-II-m-A-12175.01,Biserica romano-catolică „Sf. Francisc”,municipiul SIBIU Str. Str.,"Şelarilor 12-14, Str. Bărbierilor 2, Manejului 4","1425 - 1450, 1716; 1776"
@@ -370,7 +400,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 399,SB-II-m-B-12179,Casă,municipiul SIBIU Str.,Tipografilor 23,sec. XVIII
 400,SB-II-m-B-20997,"Fostul cinematograf ""Arta""",municipiul SIBIU Str.,Tribunei 6,1901
 401,SB-II-m-B-12180,Casă,municipiul SIBIU Str.,Turnului 1,"sec. XV, sec. XVII, sec. XVIII"
-402,SB-II-m-B-12181,Casă,municipiul SIBIU Str.,Turnului 4,"sec. XV, a doua jum. a sec. XIX, 1860 1950"
+402,SB-II-m-B-12181,Casă,municipiul SIBIU Str.,Turnului 4,"sec. XV, a doua jum. a sec. XIX, 1860"
+403,SB-II-m-A-12182,Casa Martin Wankel,municipiul SIBIU Str.,Turnului 6,"sec. XIV, transf. 1704; 1925 - 1950"
 404,SB-II-m-B-12183,Casă,municipiul SIBIU Str.,Turnului 7,"sec. XVI - XVIII, cu fragmente sec. XIV"
 405,SB-II-m-B-12184,Casă,municipiul SIBIU Str.,Turnului 12,"fragmente sec. XV - XVI, sec. XVIII; primul sfert al sec. XIX; 1875 - 1900; 1925 - 1950"
 406,SB-II-m-A-12185,Casă,municipiul SIBIU Str.,Turnului 14,"fragmente sec. XIV, sec. XVIII"
@@ -383,6 +414,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 413,SB-II-m-B-21005.03,Corpul C,municipiul SIBIU Bd.,Victoriei 40,1911
 414,SB-II-m-B-21005.04,Corpul D,municipiul SIBIU Bd.,Victoriei 40,1875
 415,SB-II-m-B-21005.05,Corpul E,municipiul SIBIU Bd.,Victoriei 40,1875
+416,SB-II-m-B-21005.06,Parcul,municipiul SIBIU Bd.,Victoriei 40,1890-1911
 417,SB-II-m-A-12186,Casă,municipiul SIBIU Str.,Vopsitorilor 13,"sec. XV, 1650 - 1700, 1794, sec. XX"
 418,SB-II-m-B-12187,Casă,municipiul SIBIU Str.,Vopsitorilor 21,"sec. XVI - XVII, 1827"
 419,SB-II-a-B-12188,Ansamblul bisericii evanghelice fortificate,sat AGÂRBICIU; 383 comuna AXENTE SEVER,,sec. XIV - XIX
@@ -392,6 +424,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 423,SB-II-m-B-12190,Casă,oraş AGNITA Str.,1 Decembrie 1918 4,înc. sec. XIX
 424,SB-II-m-B-12191,Casă,oraş AGNITA Str.,1 Decembrie 1918 6,înc. sec. XIX
 425,SB-II-m-B-12192,Casă,oraş AGNITA Str.,1 Decembrie 1918 12,mijl. sec. XIX
+426,SB-II-m-B-12193,Casă,oraş AGNITA Str.,1 Decembrie 1918 14,sf. sec. XVIII
 427,SB-II-m-B-12194,Casă,oraş AGNITA Str.,1 Decembrie 1918 16,înc. sec. XIX
 428,SB-II-m-B-12195,"Locuinţă, azi Muzeul de istorie şi etnografie",oraş AGNITA Str.,1 Decembrie 1918 29,1800
 429,SB-II-a-A-12196,Ansamblul bisericii evanghelice fortificate,oraş AGNITA Str.,Agnita Nouă 1,a doua jum. a sec. XIII - sec.XIX
@@ -404,6 +437,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 436,SB-II-m-B-12198,Casă,oraş AGNITA Str.,Mihai Viteazul 7,înc. sec. XIX
 437,SB-II-m-B-12199,Casă,oraş AGNITA Str.,Mihai Viteazul 21,1900
 438,SB-II-m-B-12300,Casa parohială a bisericii reformate,oraş AGNITA Str.,Mihai Viteazul 31,sf. sec. XVIII
+439,SB-II-m-B-12301,Casă,oraş AGNITA Str.,Mihai Viteazul 33,1819
 440,SB-II-m-B-12302,Casă,oraş AGNITA Str.,Mihai Viteazul 37A,înc. sec. XIX
 441,SB-II-m-B-12303,Biserica „Sf. Nicolae”,oraş AGNITA Str.,Plevna,1795
 442,SB-II-m-B-12304,Casă,oraş AGNITA Piaţa,Republicii 14,sf. sec. XIX
@@ -415,7 +449,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 448,SB-II-m-A-12308.02,Şcoala veche,sat ALMA; comuna Str. ALMA,Bisericii 40,sec. XIX
 449,SB-II-a-A-12309,Ansamblul bisericii evanghelice fortificate,sat ALMA VII; Piaţa comuna MOŞNA,Centrală,sec. XIV - XIX
 450,SB-II-m-A-12309.01,Biserica evanghelică fortificată,sat ALMA VII; Piaţa comuna MOŞNA,Centrală,"sec. XIV, sec. XVI, transf. 1804"
-451,SB-II-m-A-12309.02,"Incintă fortificată, cu turn de poartă, turn-clopotniţă, două turnuri, anexe.",sat ALMA VII; Piaţa comuna MOŞNA comuna ALȚÂNA,Centrală,sec. XVI - XVII
+451,SB-II-m-A-12309.02,"Incintă fortificată, cu turn de poartă, turn-clopotniţă, două turnuri, anexe.",sat ALMA VII; Piaţa comuna MOŞNA,Centrală,sec. XVI - XVII
+452,SB-II-m-B-20923.24,Linie ferată îngustă,sat ALȚÂNA; Între comuna ALȚÂNA,km 62+798-62+924,1898 - 1910
 453,SB-II-m-B-20923.25,Podeţ cu pachete de şine 2 m,sat ALȚÂNA; La comuna ALȚÂNA,km 63+165,1898 - 1910
 454,SB-II-m-B-20923.26,"Podeţ cu pachete de şine 1,45 m",sat ALȚÂNA; La comuna ALȚÂNA,km 63+548,1898 - 1910
 455,SB-II-m-B-20923.27,"Podeţ cu pachete de şine 2,85 m",sat ALȚÂNA; La comuna ALȚÂNA,km 64+343,1898 - 1910
@@ -427,7 +462,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 461,SB-II-m-A-12310.01,Biserica evanghelică,sat ALȚÂNA; 443 comuna ALȚÂNA,,"sec. XIII, sec.XV, 1500 - 1520, turn 1853 - 1859"
 462,SB-II-m-A-12310.02,"Incintă fortificată, cu turnuri, zwinger",sat ALȚÂNA; 443 comuna ALȚÂNA,,sec. XV - XVI
 463,SB-II-m-A-12310.03,Turn-clopotniţă,sat ALȚÂNA; 443 comuna ALȚÂNA,,1856 - 1858
-464,SB-II-m-A-21083,Casă de locuit Evanghelistul”,sat ALTÂNA; Str. comuna ALTÂNA JOS; comuna,Gării 92,
+464,SB-II-m-A-21083,Casă de locuit,sat ALTÂNA; Str. comuna ALTÂNA,Gării 92,
+465,SB-II-m-B-12311,Biserica de lemn „Sf. Ioan Evanghelistul”,sat APOLDU DE Str. JOS; comuna APOLDU DE JOS,Principală 191,"1771, 1818 (refaceri)"
 466,SB-II-a-B-12312,Ansamblul bisericii evanghelice fortificate,sat APOLDU DE 165 SUS; oraş MIERCUREA SIBIULUI,,sec. XIII - XIX
 467,SB-II-m-B-12312.01,Biserica evanghelică,sat APOLDU DE 165 SUS; oraş MIERCUREA SIBIULUI,,"1836 (biserica), 1867(turn)"
 468,SB-II-m-B-12312.02,Incintă fortificată- fragmente,sat APOLDU DE 165 SUS; oraş MIERCUREA SIBIULUI,,sec. XIII - XVI
@@ -435,7 +471,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 470,SB-II-m-B-12313.01,Biserica evanghelică,sat APOŞ; comuna 80 BÂRGHIŞ,,"sf. sec. XV - sec. XVIII, 1763 - 1770"
 471,SB-II-m-B-12313.02,Turn-clopotniţă,sat APOŞ; comuna 80 BÂRGHIŞ,,1799
 472,SB-II-m-B-12314,"Biserica „Adormirea Maicii Domnului”, cu turnul",sat ARPAŞU DE Str. JOS; comuna ARPAŞU DE JOS,Bisericii 282,"1791 (biserica), 1824 (turnul)"
-473,SB-II-m-A-12315,Biserica „Adormirea Maicii Domnului” evanghelice fortificate,sat ARPAŞU DE Str. SUS; comuna ARPAŞU DE JOS AŢEL,Bisericii 258,"1799 - 1802, 1798 - 1803, 1815"
+473,SB-II-m-A-12315,Biserica „Adormirea Maicii Domnului”,sat ARPAŞU DE Str. SUS; comuna ARPAŞU DE JOS,Bisericii 258,"1799 - 1802, 1798 - 1803, 1815"
+474,SB-II-a-A-12316,Ansamblul bisericii evanghelice fortificate,sat AŢEL; comuna 100 AŢEL,,sec. XIV - XVII
 475,SB-II-m-A-12316.01,Biserica evanghelică,sat AŢEL; comuna 100 AŢEL,,sec. XIV - XVII
 476,SB-II-m-A-12316.02,Turn (pe fosta incintă interioară),sat AŢEL; comuna 100 AŢEL,,sec. XIV
 477,SB-II-m-A-12316.03,"Incintă fortificată, cu două turnuri, turn de poartă",sat AŢEL; comuna 100 AŢEL,,sf. sec. XV - XVI
@@ -447,7 +484,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 483,SB-II-m-A-12319.01,Castelul Brukenthal,oraş AVRIG Str.,Lazăr Gheorghe 39,1750 - 1800
 484,SB-II-m-A-12319.02,Oranjerie,oraş AVRIG Str.,Lazăr Gheorghe 39,sec. XIX
 485,SB-II-m-A-12319.03,Parc,oraş AVRIG Str.,Lazăr Gheorghe 39,sec. XIX
-486,SB-II-m-B-12320,Casă parohială evanghelică evanghelice fortificate,sat AXENTE SEVER; 309 comuna AXENTE SEVER comuna AXENTE,,sec. XVI - XVIII
+486,SB-II-m-B-12320,Casă parohială evanghelică,sat AXENTE SEVER; 309 comuna AXENTE SEVER,,sec. XVI - XVIII
+487,SB-II-a-A-12321,Ansamblul bisericii evanghelice fortificate,sat AXENTE SEVER; 316 comuna AXENTE SEVER,,sec. XIV - XVI
 488,SB-II-m-A-12321.01,Biserica evanghelică fortificată,sat AXENTE SEVER; 316 comuna AXENTE SEVER,,sec. XIV - XV
 489,SB-II-m-A-12321.02,"Incintă fortificată, cu fostul turn de poartă",sat AXENTE SEVER; 316 comuna AXENTE SEVER,,sf. sec. XV - XVI
 490,SB-II-m-B-12322,Biserica „Învierea Domnului”,sat AXENTE SEVER; Str. comuna AXENTE SEVER,Luncii 320,ante 1836
@@ -457,7 +495,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 494, SB-II-m-A-12324.02," Incintă fortificată, cu turn, bastion, turn de poartă (fragmente)", sat BAZNA; Str. comuna BAZNA, Vlaicu Aurel 2," sec. XV - înc. sec. XVI, ref. 1911"
 495,SB-II-m-B-20923.11,Linie ferată îngustă,sat BÂRGHIŞ; Între comuna BÂRGHIŞ,km 53+157-54+056,1898 - 1910
 496,SB-II-m-B-20923.12,"Podeţ metalic 8,5 m",sat BÂRGHIŞ; La comuna BÂRGHIŞ,km 53+200,1898 - 1910
-497,SB-II-m-B-20923.13,Podeţ de beton cu parapet de protecţie 1 m,sat BÂRGHIŞ; La comuna BÂRGHIŞ comuna ALȚÂNA,km 53+862,1898 - 1910
+497,SB-II-m-B-20923.13,Podeţ de beton cu parapet de protecţie 1 m,sat BÂRGHIŞ; La comuna BÂRGHIŞ,km 53+862,1898 - 1910
+498,SB-II-m-B-20923.18,Linie ferată îngustă,sat BENEŞTI; Între comuna ALȚÂNA,km 57+991-62+438,1898 - 1910
 499,SB-II-m-B-20923.19,Staţia Beneşti,sat BENEŞTI; La comuna ALȚÂNA,km 60+761,1898 - 1910
 500,SB-II-m-B-20923.20,"Podeţ cu pachete de şine 3,4 m",sat BENEŞTI; La comuna ALȚÂNA,km 61+108,1898 - 1910
 501,SB-II-m-B-20923.21,"Podeţ cu pachete de şine 1,5 m",sat BENEŞTI; La comuna ALȚÂNA,km 61+851,1898 - 1910
@@ -467,7 +506,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 505,SB-II-m-A-12328.01,Biserica evanghelică,sat BIERTAN; Piaţa comuna BIERTAN,1 Decembrie 1918 2,1490 - 1516
 506,SB-II-m-A-12328.02,"Incintă fortificată interioară, cu trei turnuri, bastion, turn de poartă",sat BIERTAN; Piaţa comuna BIERTAN,1 Decembrie 1918 2,sec. XV
 507,SB-II-m-A-12328.03,"Incintă fortificată mediană, cu bastion (azi casa paznicului) şi scară de lemn acoperită, turn",sat BIERTAN; Piaţa comuna BIERTAN,1 Decembrie 1918 2,sec. XVI
-508,SB-II-m-A-12328.04,"Incintă fortificată exterioară, cu turn, turn de poartă, zwinger evanghelică",sat BIERTAN; Piaţa comuna BIERTAN comuna BIERTAN,1 Decembrie 1918 2,sec. XVI - XVII
+508,SB-II-m-A-12328.04,"Incintă fortificată exterioară, cu turn, turn de poartă, zwinger",sat BIERTAN; Piaţa comuna BIERTAN,1 Decembrie 1918 2,sec. XVI - XVII
+509,SB-II-a-A-12329,Casa parohială evanghelică,sat BIERTAN; Piaţa comuna BIERTAN,1 Decembrie 1918 3,"sec. XV - XVII, transf. 1820"
 510,SB-II-m-B-12330,Casă,sat BIERTAN; Str. comuna BIERTAN,Bălcescu Nicolae 25,1876
 511,SB-II-m-B-12331,"Fostă farmacie, azi locuinţă",sat BIERTAN; Str. comuna BIERTAN,Vlaicu Aurel 1,sec. XV - XVIII
 512,SB-II-m-B-12332,Fostul castel Tobias,sat BOARTA; 158 comuna ŞEICA MARE,,1770
@@ -478,7 +518,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 517,SB-II-a-B-12335,"Ansamblul rural ""Centrul localităţii""",sat BOIŢA; comuna Delimitat BOIŢA,cf. aviz 210/Z/22.06.2009,sec. XVIII - XIX
 518,SB-II-a-B-12336,Ansamblul bisericii „Adormirea Maicii Domnului”,sat BOIŢA; comuna Str. BOIŢA,Bisericii 243,sec. XIX
 519,SB-II-m-B-12336.01,Biserica „Adormirea Maicii Domnului”,sat BOIŢA; comuna Str. BOIŢA,Bisericii 243,1812 - 1822
-520,SB-II-m-B-12336.02,Zid de incintă şi poartă Centrul de plasament nr.,sat BOIŢA; comuna Str. BOIŢA BOIŢA,Bisericii 243,sec. XIX
+520,SB-II-m-B-12336.02,Zid de incintă şi poartă,sat BOIŢA; comuna Str. BOIŢA,Bisericii 243,sec. XIX
+521,SB-II-m-A-12337,"Castelul Turnu Roşu, azi Centrul de plasament nr. 18",sat BOIŢA; comuna Str. BOIŢA,Traian 342,1533 - 1930
 522,SB-II-a-B-12338,Ansamblul bisericii evanghelice,sat aparţinător 5 BRADU; oraş AVRIG,,sec. XVII - XIX
 523,SB-II-m-B-12338.01,Biserica evanghelică,sat aparţinător 5 BRADU; oraş AVRIG,,"1633, 1803"
 524,SB-II-m-B-12338.02,Zid-incintă,sat aparţinător 5 BRADU; oraş AVRIG,,sec. XVIII
@@ -487,7 +528,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 527,SB-II-m-A-12339.01,Biserica evanghelică fortificată,sat BRATEIU; 33 comuna BRATEIU,,"sec. XIV - XVI, transf. sec. XVIII, 1845 - 1846"
 528,SB-II-m-A-12339.02,"Incintă fortificată, cu turn de poartă şi bastion",sat BRATEIU; 33 comuna BRATEIU,,cca.1500
 529,SB-II-m-B-20923.01,"Halta Hendorf, (veche denumire a satului Brădeni)",sat BRĂDENI; La comuna BRĂDENI,km 27+100,1898 - 1910
-530,SB-II-m-B-20923.02,Canton 1 Brădeni,sat BRĂDENI; La comuna BRĂDENI comuna BRĂDENI,km 27+791,1898 - 1910
+530,SB-II-m-B-20923.02,Canton 1 Brădeni,sat BRĂDENI; La comuna BRĂDENI,km 27+791,1898 - 1910
+531,SB-II-m-B-20923.03,Canton 2 Brădeni,sat BRĂDENI; La comuna BRĂDENI,km 27+806,1898 - 1910
 532,SB-II-a-A-12340,Ansamblul bisericii evanghelice fortificate,sat BRĂDENI; 117 comuna BRĂDENI,,sec. XIV - XVIII
 533,SB-II-m-A-12340.01,Biserica evanghelică fortificată,sat BRĂDENI; 117 comuna BRĂDENI,,"1476 - 1507, 1769"
 534,SB-II-m-A-12340.02,"Incintă fortificată, cu turnuri (inclusiv cel transformat în casa paznicului cetăţii)",sat BRĂDENI; 117 comuna BRĂDENI,,cca. 1520
@@ -498,7 +540,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 539,SB-II-m-B-12343,Biserica evanghelică,sat BUIA; comuna 112 ŞEICA MARE,,"sec. XV, 1786 (turn)"
 540,SB-II-m-B-20923.57,Linie ferată îngustă,sat BUNGARD; Între comuna ŞELIMBĂR,km 95+584-98+519,1898 - 1910
 541,SB-II-m-B-20923.58,Podeţ metalic - 3 m,sat BUNGARD; La comuna ŞELIMBĂR,km 97+185,1898 - 1910
-542,SB-II-m-B-20923.59,Halta Bolovani Maria”,sat BUNGARD; comuna ŞELIMBĂR comuna ŞELIMBĂR,,1898 - 1910
+542,SB-II-m-B-20923.59,Halta Bolovani,sat BUNGARD; comuna ŞELIMBĂR,,1898 - 1910
+543,SB-II-a-B-12344,Ansamblul bisericii „Sf. Maria”,sat BUNGARD; Str. comuna ŞELIMBĂR,Bisericii 50,sec. XVII - XIX
 544,SB-II-m-B-12344.01,"Biserica „Sf. Maria”, cu turnul-clopotniţă",sat BUNGARD; Str. comuna ŞELIMBĂR,Bisericii 50,"1690 (turnul), 1824 (biserica)"
 545,SB-II-m-B-12344.02,Zid-incintă,sat BUNGARD; Str. comuna ŞELIMBĂR,Bisericii 50,1690
 546,SB-II-a-A-12345,Ansamblul bisericii evanghelice fortificate,sat BUZD; comuna 2 BRATEIU,,sec. XIV - XIX
@@ -510,7 +553,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 552,SB-II-m-B-20923.55,"Podeţ metalic - 3,95 m",sat CAŞOLŢ; La comuna ROŞIA,km 91+906,1898 - 1910
 553,SB-II-m-B-20923.56,Podeţ dalat – 7 m,sat CAŞOLŢ; La comuna ROŞIA,km 94+586,1898 - 1910
 554,SB-II-m-A-12346,Casă (Ana Drotler),sat CAŞOLŢ; 120 comuna ROŞIA,,sec. XIX
-555,SB-II-m-B-12347,Casă cisterciene,sat CAŞOLŢ; 224 comuna ROŞIA CÂRŢA,,1750
+555,SB-II-m-B-12347,Casă,sat CAŞOLŢ; 224 comuna ROŞIA,,1750
+556,SB-II-a-A-12348,Ansamblul fostei mănăstiri cisterciene,sat CÂRŢA; comuna 111 CÂRŢA,,"sec. XIII, transf. sec. XV"
 557,SB-II-m-A-12348.01,Biserica evanghelică,sat CÂRŢA; comuna 111 CÂRŢA,,"sec. XIII, transf. sec. XV"
 558,SB-II-m-A-12348.02,Faţada vestică a bisericii fostei mănăstiri,sat CÂRŢA; comuna 111 CÂRŢA,,înc.sec. XIV - a doua jum. a sec. XV
 559,SB-II-m-A-12348.03,Closter (parţial şi în substrucţiile casei parohiale evanghelice),sat CÂRŢA; comuna 111 CÂRŢA,,sec. XIII - XVI
@@ -521,20 +565,22 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 564,SB-II-m-A-12352.01,Biserica evanghelică fortificată,sat CHIRPĂR; 43 comuna CHIRPĂR,,"sec. XIII, cca.1500; 1800 - 1850"
 565,SB-II-m-A-12352.02,Incintă fortificată şi zwinger (fragmente),sat CHIRPĂR; 43 comuna CHIRPĂR,,sec. XVI
 566,SB-II-m-B-12353,Biserica „Înălţarea Domnului”,sat CHIRPĂR; Str. comuna CHIRPĂR,Bisericii 189,"1844, transf. 1899"
-567,SB-II-a-A-12354,"Ansamblul urban ""Centrul istoric""",oraş CISNĂDIE Str. până Revoluţiei,"Cindrelu de la nr. 42-45 inclusiv, la Piaţa Revoluţiei, cu toate până la nr. 6-7 inclusiv; str.",sec. XVIII - XIX
+567,SB-II-a-A-12354,"Ansamblul urban ""Centrul istoric""",oraş CISNĂDIE Str. până casele;,"Cindrelu de la nr. 42-45 inclusiv, la Piaţa Revoluţiei, cu toate str. Apărării, începând din Piaţa",sec. XVIII - XIX
 568,SB-II-a-A-12355,Ansamblul bisericii evanghelice fortificate,oraş CISNĂDIE Str.,Cetăţii 1-3,sec. XIII - XVIII
 569,SB-II-m-A-12355.01,Biserica evanghelică,oraş CISNĂDIE Str.,Cetăţii 1-3,"înc. sec. XIII, a doua jum. sec. XV, sec. XVII"
 570,SB-II-m-A-12355.02,Incintă fortificată interioară,oraş CISNĂDIE Str.,Cetăţii 1-3,1430 - 1530
 571,SB-II-m-A-12355.03,"Incintă fortificată exterioară, cu turnuri, bastioane, capelă, zwinger, casă parohială",oraş CISNĂDIE Str.,Cetăţii 1-3,"1430 - 1530, 1783"
 572,SB-II-m-B-12356,Casă,oraş CISNĂDIE Str.,Măgurii 1,sec. XVIII
-573,SB-II-m-B-12357,"Casă evanghelice ""Sf. Mihail""",oraş CISNĂDIE Str. CISNĂDIOARA; oraş,Măgurii 2,sec. XVIII
+573,SB-II-m-B-12357,Casă,oraş CISNĂDIE Str.,Măgurii 2,sec. XVIII
+574,SB-II-a-A-12358,"Ansamblul bisericii evanghelice ""Sf. Mihail""",sat aparţinător Pe CISNĂDIOARA; oraş CISNĂDIE,dealul de la limita sudică a satului,sec. XII - XIII
 575,SB-II-m-A-12358.01,Biserica evanghelică „Sf. Mihail”,sat CISNĂDIOARA; Pe oraş CISNĂDIE,dealul de la limita sudică a satului,1176 - 1223
 576,SB-II-m-A-12358.02,Incintă fortificată,sat CISNĂDIOARA; Pe oraş CISNĂDIE,dealul de la limita sudică a satului,sec. XIII
 577,SB-II-m-A-12358.03,Turn exterior (est) - fragment,sat CISNĂDIOARA; Pe oraş CISNĂDIE,dealul de la limita sudică a satului,sec. XIII
 578,SB-II-a-A-12359,"Ansamblul rural ""Centrul istoric""","sat aparţinător La CISNĂDIOARA; oraş 4 CISNĂDIE fronturi; fronturi Grădinilor, fronturi; fronturi; intersecţia numerelor evanghelic Izvorului,","N: de la intersecţia cu str. Konrad, nr. şi 278, spre biserica fortificată ambele La E: str. Cisnădiei, ambele până la intersecţia cu str. str. Sub Cetate ambele La S: str. Râului ambele La V: pe malul râului până la cu str. Salond, în dreptul 89 şi 189, pe str. cu cimitirul până la intersecţia cu str. str. Izvorului ambele laturi",sec. XVIII - XIX
 579,SB-II-m-B-12360,Biserica evanghelică,sat CISNĂDIOARA; Str. oraş CISNĂDIE,Cistercienilor 54,"sec. XV (turn), 1764 (biserica)"
 580,SB-II-m-A-12361,Biserica „Tăierea Capului Sf. Ioan Botezătorul”,sat COLUN; f.n. comuna PORUMBACU DE JOS,,1811
-581,SB-II-a-B-12362,"Ansamblul rural ""Centrul istoric, cu piaţa bisericii evanghelice"" evanghelică",sat COPŞA MARE; Între comuna BIERTAN comuna BIERTAN,"21-57, 87-159, 199-246",sec. XVIII - XIX
+581,SB-II-a-B-12362,"Ansamblul rural ""Centrul istoric, cu piaţa bisericii evanghelice""",sat COPŞA MARE; Între comuna BIERTAN,"21-57, 87-159, 199-246",sec. XVIII - XIX
+582,SB-II-m-B-12363,Casa parohială evanghelică,sat COPŞA MARE; 237 comuna BIERTAN,,1826
 583,SB-II-a-A-12364,Ansamblul bisericii evanghelice fortificate,sat COPŞA MARE; 237 comuna BIERTAN,,mijl. sec. XIV - sec. XVIII
 584,SB-II-m-A-12364.01,Biserica evanghelică fortificată,sat COPŞA MARE; 237 comuna BIERTAN,,"mijl. sec. XIV, transf. 1510, 1519, 1797"
 585,SB-II-m-A-12364.02,Incintă fortificată,sat COPŞA MARE; 237 comuna BIERTAN,,cca. 1519
@@ -546,7 +592,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 591,SB-II-m-A-12366.02,Zid-incintă,oraş COPŞA MICĂ Str.,Mediaşului 100,sec. XV - XVIII
 592,SB-II-a-B-12367,Ansamblul bisericii romano-catolice „Înălţarea Domnului”,oraş COPŞA MICĂ Str.,Mediaşului 102,sec. XVIII
 593,SB-II-m-B-12367.01,Biserica romano-catolică „Înălţarea Domnului”,oraş COPŞA MICĂ Str.,Mediaşului 102,sec. XVIII
-594,SB-II-m-B-12367.02,Zid-incintă,oraş COPŞA MICĂ Str. comuna ROŞIA,Mediaşului 102,sec. XVIII
+594,SB-II-m-B-12367.02,Zid-incintă,oraş COPŞA MICĂ Str.,Mediaşului 102,sec. XVIII
+595,SB-II-m-B-20923.48,Linie ferată îngustă,sat CORNĂŢEL; Între comuna ROŞIA,km 85+689-89+104,1898 - 1910
 596,SB-II-m-B-20923.49,"Podeţ metalic 15,75 m",sat CORNĂŢEL; La comuna ROŞIA,km 85+812,1898 - 1910
 597,SB-II-m-B-20923.50,"Staţia Cornăţel (gară, canton, district, cântar, turn de apă)",sat CORNĂŢEL; La comuna ROŞIA,km 86+138,1898 - 1910
 598,SB-II-m-B-20923.71,Linie ferată îngustă- ramificaţie (Linia Vânătorilor),sat CORNĂŢEL; Între comuna ROŞIA,km 0-0+890,1898 - 1910
@@ -557,7 +604,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 603,SB-II-m-B-20916,Casa Drothlef,sat CRISTIAN; Str. comuna CRISTIAN,IV 10,sec. XVIII
 604,SB-II-m-B-12368,"Casă, azi Muzeul Sătesc",sat CRISTIAN; Str. comuna CRISTIAN,IV 27,sec. XVIII
 605,SB-II-a-A-12369,Ansamblul bisericii evanghelice fortificate,sat CRISTIAN; Str. comuna CRISTIAN,X 44,sec. XIII - XVIII
-606,SB-II-m-A-12369.01,Biserica evanghelică interioară (fragmente),sat CRISTIAN; Str. comuna CRISTIAN comuna CRISTIAN,X 44,"sec. XIII, 1480 - 1495 (transf.), sec. XVIII"
+606,SB-II-m-A-12369.01,Biserica evanghelică,sat CRISTIAN; Str. comuna CRISTIAN,X 44,"sec. XIII, 1480 - 1495 (transf.), sec. XVIII"
+607,SB-II-m-A-12369.02,Incintă fortificată interioară (fragmente),sat CRISTIAN; Str. comuna CRISTIAN,X 44,cca.1500
 608,SB-II-m-A-12369.03,Turnul Octogonal,sat CRISTIAN; Str. comuna CRISTIAN,X 44,cca.1580
 609,SB-II-m-A-12369.04,"Incintă fortificată exterioară, cu trei turnuri, poartă",sat CRISTIAN; Str. comuna CRISTIAN,X 44,cca.1500
 610,SB-II-m-A-12369.05,Zwingerele cu casa parohială evanghelică,sat CRISTIAN; Str. comuna CRISTIAN,X 44,cca.1550
@@ -569,7 +617,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 616,SB-II-m-B-12373,Casă,sat DAIA; comuna 11 ROŞIA,,sf. sec. XVI
 617,SB-II-m-B-12374,Casă,sat DAIA; comuna 12 ROŞIA,,sec. XVIII
 618,SB-II-m-B-12372,Casa parohială evanghelică,sat DAIA; comuna 196 ROŞIA,,"sec. XVI, 1900"
-619,SB-II-a-A-12375,Ansamblul bisericii evanghelice fortificate,sat DAIA; comuna 196 ROŞIA ROŞIA,,sec. XIII - XVIII 1778
+619,SB-II-a-A-12375,Ansamblul bisericii evanghelice fortificate,sat DAIA; comuna 196 ROŞIA,,sec. XIII - XVIII
+620,SB-II-m-A-12375.01,Biserica evanghelică,sat DAIA; comuna 196 ROŞIA,,"sec. XIII, cca.1500, 1592, 1778"
 621,SB-II-m-A-12375.02,Zid de incintă cu turn- clopotniţă,sat DAIA; comuna 196 ROŞIA,,sec. XIII - XVII
 622,SB-II-m-A-12376,Biserica evanghelică şi fragmente ale zidului de incintă,sat DÂRLOS; 270 comuna DÂRLOS,,"1450 - 1500, cca.1500, 1837"
 623,SB-II-m-A-12377,Casa parohială evanghelică,sat DEALU 12 FRUMOS; comuna MERGHINDEAL,,"sec. XVI, ext. sec. XIX - XX"
@@ -578,7 +627,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 626,SB-II-m-A-12378.02,"Incintă fortificată, cu turnuri, acces fortificat, încăperi pentru provizii, anexe.",sat DEALU 13 FRUMOS; comuna MERGHINDEAL,,"1522, 1647"
 627,SB-II-m-B-12379,Casă (Wohner),sat DEALU 118 FRUMOS; comuna MERGHINDEAL,,1783
 628,SB-II-m-B-12380,Biserica „Sf. Nicolae”,sat DEALU Str. FRUMOS; comuna MERGHINDEAL,Bisericii 251,1824
-629,SB-II-a-A-12381,Ansamblul bisericii evanghelice fortificate,sat DOBÂRCA; oraş 212 MIERCUREA,,sec. XIII - XIX
+629,SB-II-a-A-12381,Ansamblul bisericii evanghelice fortificate,sat DOBÂRCA; oraş 212 MIERCUREA SIBIULUI,,sec. XIII - XIX
 630,SB-II-m-A-12381.01,Biserica evanghelică fortificată,sat DOBÂRCA; oraş 212 MIERCUREA SIBIULUI,,"sec. XIII, transf. 1481-1515; 1631, 1741, 1872"
 631,SB-II-m-A-12381.02,"Incintă fortificată, cu turnuri şi acces fortificat",sat DOBÂRCA; oraş 212 MIERCUREA SIBIULUI,,"cca. 1500, înc. sec. XVII"
 632,SB-II-m-A-12382,Biserica romano-catolică „Sf. Apostoli Petru şi Pavel” (biserica fostei mănăstiri mechitariste),oraş DUMBRĂVENI Str.,1 Decembrie 1918 3,1795 - 1798
@@ -588,7 +637,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 636,SB-II-a-A-12386,Ansamblul bisericii evanghelice fortificate,sat DUPUŞ; 127 comuna AŢEL,,primul sfert al sec. XVI-sec. XVIII
 637,SB-II-m-A-12386.01,Biserica evanghelică fortificată,sat DUPUŞ; 127 comuna AŢEL,,"1500 - 1525, 1743"
 638,SB-II-m-A-12386.02,Zid incintă,sat DUPUŞ; 127 comuna AŢEL,,sec. XVI
-639,SB-II-m-B-12387,"Biserica „Sf. Nicolae” - Cacova, cu turnul-",sat FÂNTÂNELE; Str. oraş SĂLIŞTE,Şcolii 143,"1771 – 1774 (biserica), 1794 (turn)"
+639,SB-II-m-B-12387,"Biserica „Sf. Nicolae” - Cacova, cu turnul- clopotniţă",sat FÂNTÂNELE; Str. oraş SĂLIŞTE,Şcolii 143,"1771 – 1774 (biserica), 1794 (turn)"
 640,SB-II-m-B-12388,Biserica evanghelică,sat FLOREŞTI; Str. comuna LASLEA,Principală 50,"1424 (biserica), 1835 (turn)"
 641,SB-II-m-A-12389,Biserica „Sf. Vasile”,sat FOFELDEA; Str. comuna NOCRICH,Dealului 125,1804 - 1810
 642,SB-II-m-B-12390,Biserica „Intrarea în Biserică”,sat GALEŞ; oraş Str. SĂLIŞTE,Principală 59,"înc. sec. XVIII, 1809"
@@ -598,7 +647,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 646,SB-II-m-B-12391.02,"Incintă fortificată, cu turnuri de colţ şi încăperi pentru provizii",sat GHERDEAL; 51 comuna BRUIU,,"primul sfert al sec. XVI, 1846 (acces şi încăperi pentru provizii)"
 647,SB-II-m-B-12392,"Biserica „Cuvioasa Paraschiva”, cu turnul- clopotniţă",sat GHIJASA DE f.n. JOS; comuna NOCRICH,,"1864 (biserica), 1881 (turnul)"
 648,SB-II-m-B-12394,Casă de lemn,sat GURA RÂULUI; 507 comuna GURA RÂULUI,,sf. sec. XIX
-649,SB-II-m-B-12393,"Pod de lemn, acoperit",sat GURA RÂULUI; 541 comuna GURA RÂULUI comuna GURA,,sf. sec. XIX
+649,SB-II-m-B-12393,"Pod de lemn, acoperit",sat GURA RÂULUI; 541 comuna GURA RÂULUI,,sf. sec. XIX
+650,SB-II-m-B-12395,Casă de lemn,sat GURA RÂULUI; 936 comuna GURA RÂULUI,,sec. XIX
 651,SB-II-m-B-12397,Biserica „Cuvioasa Paraschiva”-Biserica Mică,sat GURA RÂULUI; Str. comuna GURA RÂULUI,Principală 220,sec. XVIII - XIX
 652,SB-II-a-B-12396,Ansamblu textil hidraulic,sat GURA RÂULUI; Str. comuna GURA RÂULUI,Principală 1074,sec. XIX
 653,SB-II-m-B-12398,Biserica evanghelică,sat HAMBA; 51 comuna ŞURA MARE,,"sec. XIII - XVI, 1829 - 1830; sec. XIX (turn-clopotniţă)"
@@ -608,7 +658,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 657, SB-II-m-B-20923.41, Linie ferată îngustă, sat HOSMAN; Între comuna NOCRICH, km 76+133-82+801, 1898 - 1910
 658,SB-II-m-B-20923.42,Podeţ dalat,sat HOSMAN; La comuna NOCRICH,km 79+034,1898 - 1910
 659,SB-II-m-B-20923.43,Canton Hosman,sat HOSMAN; La comuna NOCRICH,km 79+110,1898 - 1910
-660,SB-II-m-B-20923.44,"Podeţ dalat – 5,8 m",sat HOSMAN; La comuna NOCRICH comuna NOCRICH,km 79+506,1898 - 1910
+660,SB-II-m-B-20923.44,"Podeţ dalat – 5,8 m",sat HOSMAN; La comuna NOCRICH,km 79+506,1898 - 1910
+661,SB-II-m-B-20923.45,Podeţ dalat – 5 m,sat HOSMAN; La comuna NOCRICH,km 81+077,1898 - 1910
 662,SB-II-a-A-12400,Ansamblul bisericii evanghelice fortificate,sat HOSMAN; 129 comuna NOCRICH,,sec. XIII - înc. sec. XIX
 663,SB-II-m-A-12400.01,Biserica evanghelică fortificată,sat HOSMAN; 129 comuna NOCRICH,,"sec. XIII, modif. sec. XVI şi XVIII, 1803 - 1804"
 664,SB-II-m-A-12400.02,"Incintă fortificată interioară, cu două turnuri, bastion şi turn de poartă",sat HOSMAN; 129 comuna NOCRICH,,sec. XV
@@ -616,7 +667,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 666,SB-II-a-B-12401,"Ansamblul rural ""Centrul istoric""",sat IACOBENI; La comuna IACOBENI podeţul nr. până fronturi; datată biserica la la,"N: pe vale, ambele laturi până la din dreptul nr. 81; La SE. De la 48, pe drumul din dreptul primărie la casa datată 1818, ambele La SV: de la intersecţia cu casa 1818, ambele laturi până la fortificată inclusiv; La N-NV: de biserica fortificată toată partea până podeţul din dreptul nr. 81",sec. XVIII - XIX
 667,SB-II-a-A-12402,Ansamblul bisericii evanghelice fortificate,sat IACOBENI; 231 comuna IACOBENI,,sec. XIV - XVI
 668,SB-II-m-A-12402.01,Biserica evanghelică fortificată,sat IACOBENI; 231 comuna IACOBENI,,sec. XIV - primul sfert al sec. XVI
-669,SB-II-m-A-12402.02,"Incintă fortificată, cu turnuri, încăpere pentru provizii, turn de poartă şi paznicului",sat IACOBENI; 231 comuna IACOBENI,,mijl. sec. XVI
+669,SB-II-m-A-12402.02,"Incintă fortificată, cu turnuri, încăpere pentru provizii, turn de poartă şi zwinger cu turn-casă a",sat IACOBENI; 231 comuna IACOBENI,,mijl. sec. XVI
 670,SB-II-a-A-12403,Ansamblul bisericii evanghelice fortificate,sat aparţinător 110 IGHIŞU NOU; municipiul MEDIAŞ,,sec. XIV - XVIII
 671,SB-II-m-A-12403.01,Biserica evanghelică fortificată,sat aparţinător 110 IGHIŞU NOU; municipiul MEDIAŞ,,sec. XIV - XVIII
 672,SB-II-m-A-12403.02,"Incintă fortificată, cu turn de poartă, bastion, turnul semicircular şi zwinger",sat aparţinător 110 IGHIŞU NOU; municipiul MEDIAŞ,,sec. XVI
@@ -626,7 +677,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 676,SB-II-m-B-12407,Biserica de lemn „Buna Vestire”,sat ILIMBAV; Str. comuna MARPOD,Principală 47,"1852, adusă din satul Noul şi reasamblată"
 677,SB-II-m-B-12408,Casă,sat JINA; comuna 213 JINA,,înc. sec. XIX
 678,SB-II-m-B-12409,Biserica „Buna Vestire”,sat JINA; comuna Str. JINA,Dealului 297,1795 - 1796
-679,SB-II-a-B-12410,Ansamblul bisericii evanghelice,sat LASLEA; 9 comuna LASLEA comuna LASLEA,,sec. XV - XIX
+679,SB-II-a-B-12410,Ansamblul bisericii evanghelice,sat LASLEA; 9 comuna LASLEA,,sec. XV - XIX
+680,SB-II-m-B-12410.01,Biserica evanghelică,sat LASLEA; 9 comuna LASLEA,,1842 - 1845
 681,SB-II-m-B-12411,Turnul-clopotniţă al fostei biserici evanghelice,sat LASLEA; 9 comuna LASLEA,,sec. XIV - XV
 682,SB-II-m-B-12412,"Biserica „Sf. Arhangheli”, cu turnul-clopotniţă",sat LOAMNEŞ; Str. comuna LOAMNEŞ,Principală 140,"1805 - 1810 (biserica), cca.1885 (turnul)"
 683,SB-II-m-B-12413,Casă de lemn,sat MAG; oraş 127 SĂLIŞTE,,sec. XIX
@@ -638,19 +690,21 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 689,SB-II-m-B-20923.40,Podeţ metalic 2 m,sat MARPOD; La comuna MARPOD,km 75+982,1898 - 1910
 690,SB-II-a-B-12414,Ansamblul bisericii evanghelice fortificate,sat MARPOD; 357 comuna MARPOD,,sec. XIII - XVIII
 691,SB-II-m-B-12414.01,Biserica evanghelică,sat MARPOD; 357 comuna MARPOD,,"sec. XIII - XVI, 1785 - 1798"
-692,SB-II-m-B-12414.02,"Incintă fortificată, anexe istoric""",sat MARPOD; 357 comuna MARPOD comuna LASLEA frontul, din stânga şi nr. 342 frontul din,sec. XV - XVI
+692,SB-II-m-B-12414.02,"Incintă fortificată, anexe",sat MARPOD; 357 comuna MARPOD,,sec. XV - XVI
+693,SB-II-a-B-12415,"Ansamblul rural ""Centrul istoric""","sat MĂLÂNCRAV; Delim. comuna LASLEA frontul dreapta, Laslea frontul apă",La N de nr. 267 la V de nr. 415 din stânga şi nr. 342 frontul din la S de nr 2 pe drumul spre şi nr. 6 pe frontul stang şi 72 pe drept al străzii paralele peste,sec. XVIII - XIX
 694,SB-II-a-A-12416,Ansamblul bisericii evanghelice,sat MĂLÂNCRAV; 87 comuna LASLEA,,sec. XIV - sec. XVI
 695,SB-II-m-A-12416.01,Biserica evanghelică,sat MĂLÂNCRAV; 87 comuna LASLEA,,sec. XIV - înc.sec. XVI
 696,SB-II-m-A-12416.02,Incintă fortificată,sat MĂLÂNCRAV; 87 comuna LASLEA,,sec. XV - XVI
 697,SB-II-a-B-12417,Ansamblul fortificaţiilor oraşului medieval,"municipiul MEDIAŞ Str. Brâncoveanu, După Bărnuţiu str.","Eminescu Mihai, str. Consatntin str. Titulescu Nicolae, str. Zid, str. Fundătura Policlinicii, str. Simion, str. Cloşca, str. Unirii, Pompierilor.",sec. XV - XVII
 698,SB-II-m-B-12417.01,"Latura Vest: curtine (fragmente), Bastionul Rotund şi turn, azi înglobat în locuinţă","municipiul MEDIAŞ Curtină: str. curtină, Constantin înglobate actuale","str. Eminescu Mihai 2-10, între Cooperatorilor şi str. Turnului; Bastionul Rotund şi turn: str. Brâncoveanu-parţial în zidurile construcţiilor",sec. XV - XVII
 699,SB-II-m-B-12417.02,"Latura Nord: Turnul Porţii Străzii Pietruite, curtine (fragmente)",municipiul MEDIAŞ Turnul intersecţia str. Azilului,Porţii Străzii Pietruite: la str. Honterus Johannes cu Titulescu Nicolae; curtină: str. 1-5 şi str. Titulescu Nicolae,sec. XV - XVII
-700,SB-II-m-B-12417.03,"Latura Est: Bastionul Cuţitarilor, Turnul Turnul Porţii Uliţei",municipiul MEDIAŞ Bastionul curtină: curtină:,"Cuţitarilor, Turnul Rotarilor, str. După Zid 2-6, str. Bărnuţiu Simion, peste",sec. XV - XVII
+700,SB-II-m-B-12417.03,"Latura Est: Bastionul Cuţitarilor, Turnul Rotarilor (azi locuinţă),",municipiul MEDIAŞ Bastionul curtină: corespunzător,"Cuţitarilor, Turnul Rotarilor, str. După Zid 2-6, str. Mihai Viteazul 6-48;",sec. XV - XVII
 701,SB-II-m-B-12417.04,"Latura Sud: Bastionul Blănarilor, Turnul de Poartă Forkesch, curtine (fragmente)",municipiul MEDIAŞ Bastionul Turnul Şaguna str. Cazărmi 15-21; curtină:,"Blănarilor: str. Cloşca 1; de Poartă Forkesch: Piaţa Andrei; curtine: str. Cloşca 1-7, Badea Cârţan, în curtea fostei a Husarilor; curtină: str. Unirii curtină: str. Pompierilor 1-7;, str. Fundătura Policlinicii 7-9.",sec. XV - XVII
 702,SB-II-a-A-12418,"Ansamblul urban ""Centrul istoric al municipiului""",municipiul MEDIAŞ str. de Bărnuţiu frontul str. Eminescu Brâncoveanu Titulescu,"După Zid frontul sudic, str. Târnavei la nr. 5 la nr. 1 frontul vestic, str. S. frontul vestic, str. Cloşca vestic, str. Unirii frontul nordic, Pompierilor frontul estic, str. M. frontul estic, str. C frontul estic, str. N. frontul sudic",sec. XVIII - XIX
 703, SB-II-m-B-12422, Fosta armurărie, municipiul MEDIAŞ Str., Armurierilor 6," sec. XV - XVI, sec. XVIII"
 704,SB-II-a-B-12423,Casă,municipiul MEDIAŞ Str.,Bisericii 2,sec. XVIII
-705,SB-II-a-A-12424,"Ansamblul bisericii evanghelice fortificate (""Castelul”) Margareta”), cu Turnul",municipiul MEDIAŞ Piaţa,Castelului 1,"sec. XIII - XIX sec. XVI - XIX, 1927 - 1928"
+705,SB-II-a-A-12424,"Ansamblul bisericii evanghelice fortificate (""Castelul”)",municipiul MEDIAŞ Piaţa,Castelului 1,sec. XIII - XIX
+706,SB-II-m-A-12424.01,"Biserica evanghelică („Sf. Margareta”), cu Turnul Trompeţilor",municipiul MEDIAŞ Piaţa,Castelului 1,"1330 - 1340, 1437 - 1488, sec. XVI - XIX, 1927 - 1928"
 707,SB-II-m-A-12424.02,Fosta şcoală confesională evanghelică,municipiul MEDIAŞ Piaţa,Castelului 1,1713
 708,SB-II-m-A-12424.03,Casa natală a lui Ştefan Ludwig Roth,municipiul MEDIAŞ Piaţa,Castelului 1,1796
 709,SB-II-m-A-12424.04,Casa predicatorilor,municipiul MEDIAŞ Piaţa,Castelului 1,"sec. XVI, 1793"
@@ -659,6 +713,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 712,SB-II-m-A-12424.07,"Incinta fortificată interioară: Turnul Porţii, Turnul Şcolii (înglobat în şcoală), Turnul Frânghierilor, Turnul Mariei, Turnul Croitorilor, curtine. - Incinta exterioară, parţial înglobată în zidurile clădirilor adiacente; şanţ (fragment).",municipiul MEDIAŞ Piaţa,Castelului 1,sec. XIV - XVI
 713,SB-II-m-B-12425,Casă,municipiul MEDIAŞ Str.,Doja Gheorghe 10,sec. XVIII
 714,SB-II-m-B-12426,Casă,municipiul MEDIAŞ Str.,Doja Gheorghe 16,"1467, sec. XVIII"
+715,SB-II-m-B-12427,Casă,municipiul MEDIAŞ Str.,Doja Gheorghe 17,sf. sec. XVIII - înc.sec. XIX
 716,SB-II-m-B-12428,Casă,municipiul MEDIAŞ Str.,Doja Gheorghe 20,înc. sec. XVIII
 717,SB-II-m-B-12429,Casă şi poartă,municipiul MEDIAŞ Str.,Doja Gheorghe 34,înc. sec. XVIII
 718,SB-II-a-A-12421,"Ansamblul urban ""Piaţa George Enescu""",municipiul MEDIAŞ Piaţa,Enescu George 4-9,sec. XVIII
@@ -670,7 +725,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 724,SB-II-m-B-12434,Casă,municipiul MEDIAŞ Str.,Honterus Johannes 38,sf. sec. XVIII
 725,SB-II-m-B-12435,Casa Zoppelt,municipiul MEDIAŞ Str.,Iorga Nicolae 17,1850 - 1860
 726,SB-II-m-B-12436,Fost post vamal,municipiul MEDIAŞ Str.,Mihai Viteazul 3B,sec. XVIII
-727, SB-II-m-B-12437, Biserica „Înălţarea Domnului” franciscană, municipiul MEDIAŞ Str., Mihai Viteazul 7, 1826
+727, SB-II-m-B-12437, Biserica „Înălţarea Domnului”, municipiul MEDIAŞ Str., Mihai Viteazul 7, 1826
+728,SB-II-a-A-12438,Fosta mănăstire franciscană,municipiul MEDIAŞ Str.,Mihai Viteazul 44-46,sec. XV - XVIII
 729,SB-II-m-A-12438.01,Biserica romano-catolică „Imaculata Concepţiune”,municipiul MEDIAŞ Str.,Mihai Viteazul 44-46,"1490 - 1515, 1742"
 730,SB-II-m-A-12438.02,"Claustrul fostei mănăstiri franciscane, azi Muzeul Municipal",municipiul MEDIAŞ Str.,Mihai Viteazul 44-46,"1490 - 1515, 1726 - 1733"
 731,SB-II-m-B-12439,"Fostul cămin „Sf. Anton"" (fostul spital al calfelor)",municipiul MEDIAŞ Fundătura,Policlinicii 5,sec. XV - XVIII
@@ -683,6 +739,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 738,SB-II-m-B-12445,Casă,municipiul MEDIAŞ Piaţa,Regele Ferdinand 18-19,"sec. XVIII, 1806"
 739,SB-II-m-B-12446,Casă,municipiul MEDIAŞ Piaţa,Regele Ferdinand 20,sec. XVIII - XX
 740,SB-II-m-B-12447,Casă,municipiul MEDIAŞ Piaţa,Regele Ferdinand 21,"sec. XVIII - XX, 1760"
+741,SB-II-m-A-12448,Casa Rosenauer,municipiul MEDIAŞ Piaţa,Regele Ferdinand 22,sec. XVI - XVIII
 742,SB-II-m-A-12449,Casa Theil,municipiul MEDIAŞ Piaţa,Regele Ferdinand 24,"1531, sec. XVIII - XIX"
 743,SB-II-m-A-12450,"Casa Schuller, azi sediu al FDGR",municipiul MEDIAŞ Piaţa,Regele Ferdinand 25,sec. XVI
 744,SB-II-m-B-12451,Casa Haner-Karres,municipiul MEDIAŞ Piaţa,Regele Ferdinand 29,"sec. XVI, sec. XIX - XX"
@@ -693,7 +750,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 749,SB-II-m-B-12456,Casă,municipiul MEDIAŞ Str.,Turnului 6,sec. XVII - XVIII
 750,SB-II-m-B-12457,"Fosta primărie, azi Casa Thomas Quibb",sat MERGHINDEAL; comuna MERGHINDEAL,,sec. XIX
 751,SB-II-a-A-12458,Ansamblul bisericii evanghelice fortificate,sat MERGHINDEAL; 230 comuna MERGHINDEAL,,sec. XIII - XIX
-752,SB-II-m-A-12458.01,Biserica evanghelică fortificată turnuri,sat MERGHINDEAL; 230 comuna MERGHINDEAL comuna,,"sec. XIII, cca.1500 (fortificare), 1803 (modificări)"
+752,SB-II-m-A-12458.01,Biserica evanghelică fortificată,sat MERGHINDEAL; 230 comuna MERGHINDEAL,,"sec. XIII, cca.1500 (fortificare), 1803 (modificări)"
+753,SB-II-m-A-12458.02,"Incintă fortificată, cu turnuri",sat MERGHINDEAL; 230 comuna MERGHINDEAL,,sec. XVI
 754,SB-II-a-B-12459,Ansamblul bisericii evanghelice fortificate,sat METIŞ; comuna 2 MIHĂILENI,,sec. XV - XIX
 755,SB-II-m-B-12459.01,Biserica evanghelică,sat METIŞ; comuna 2 MIHĂILENI,,"sec. XV (turn), 1863 (biserică)"
 756,SB-II-m-B-12459.02,"Incintă fortificată, cu turn (fragment)",sat METIŞ; comuna 2 MIHĂILENI,,sec. XV - XVI
@@ -702,7 +760,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 759,SB-II-m-A-12462,"Castelul Brukenthal şi trei corpuri de clădiri anexe: fostele grajduri, turn de poartă, clădire în continuarea turnului porţii",sat MICĂSASA; 331 comuna MICĂSASA,,sec. XVIII
 760,SB-II-a-A-12463,"Ansamblul rural ""Centrul istoric""",oraş MIERCUREA Zona SIBIULUI evanghelice delimitată nr.,"centrală cu piaţa bisericii (Piaţa Republicii) de nr. 190-239, nr. 541-588, 634-637, nr. 660-673, nr. 766-800.",sec. XVIII - XIX
 761,SB-II-a-A-12464,Ansamblul bisericii evanghelice fortificate,oraş MIERCUREA 219-221 SIBIULUI,,sec. XIII - XIX
-762,SB-II-m-A-12464.01,"Biserica evanghelică fortificat, spaţii pentru",oraş MIERCUREA 219-221 SIBIULUI SIBIULUI,,"sec. XIII, sf. sec. XV, 1783"
+762,SB-II-m-A-12464.01,Biserica evanghelică,oraş MIERCUREA 219-221 SIBIULUI,,"sec. XIII, sf. sec. XV, 1783"
+763,SB-II-m-A-12464.02,"Incintă fortificată, cu acces fortificat, spaţii pentru provizii, anexe",oraş MIERCUREA 219-221 SIBIULUI,,"sec. XIII, sec. XV"
 764,SB-II-m-A-12464.03,Casa parohială evanghelică,oraş MIERCUREA 219-221 SIBIULUI,,"sec. XVI, 1835"
 765,SB-II-m-B-12465,Casă,oraş MIERCUREA Piaţa SIBIULUI,Republicii 217,sf. sec. XVIII
 766,SB-II-m-B-12466,Casă,oraş MIERCUREA Piaţa SIBIULUI,Republicii 218,sec. XVIII
@@ -713,7 +772,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 771,SB-II-m-B-20923.60,Linie ferată îngustă,sat MOHU; Între comuna ŞELIMBĂR,km 98+519-101+907,1898 - 1910
 772,SB-II-m-B-20923.61,Pasarelă pietonală peste râul Hârtibaciu,sat MOHU; La comuna ŞELIMBĂR,km 98+602,1898 - 1910
 773,SB-II-m-B-20923.62,"Pod metalic cu grinzi cu zăbrele peste râul Cibin – 59,2 m",sat MOHU; La comuna ŞELIMBĂR,km 98+723,1898 - 1910
-774,SB-II-m-B-20923.63,"Pod metalic cu grinzi cu zăbrele- 15, 4 m – 1,9 m",sat MOHU; La comuna ŞELIMBĂR comuna ŞELIMBĂR,km 98+83,1898 - 1910
+774,SB-II-m-B-20923.63,"Pod metalic cu grinzi cu zăbrele- 15, 4 m",sat MOHU; La comuna ŞELIMBĂR,km 98+83,1898 - 1910
+775,SB-II-m-B-20923.64,"Podeţ cu pachete de şine – 1,9 m",sat MOHU; La comuna ŞELIMBĂR,km 99+281,1898 - 1910
 776,SB-II-m-B-20923.65,Podeţ cu pachete de şine – 2 m,sat MOHU; La comuna ŞELIMBĂR,km 99+ 639,1898 - 1910
 777,SB-II-m-B-20923.66,"Podeţ metalic – 3,46 m",sat MOHU; La comuna ŞELIMBĂR,km 100+410,1898 - 1910
 778,SB-II-m-B-20923.67,Staţia sat Mohu,sat MOHU; La comuna ŞELIMBĂR,km 101+120,1898 - 1910
@@ -723,7 +783,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 782,SB-II-m-A-12471.01,"Biserica evanghelică fortificată, cu turn- clopotniţă şi încăpere pentru provizii",sat MOŞNA; 1 comuna MOŞNA,,"sf. sec. XIV, cca 1480 -1486, 1491; 1498; 1589"
 783,SB-II-m-A-12471.02,"Incintă fortificată cu turnuri, bastioane, capelă, încăperi pentru provizii, turn de poartă, zwinger",sat MOŞNA; 1 comuna MOŞNA,,"sec. XIV - XVI, 1480"
 784,SB-II-m-B-12472,Casa parohială a bisericii evanghelice,sat MOŞNA; 530 comuna MOŞNA,,sec. XVII - XVIII
-785,SB-II-a-B-12473,Ansamblul bisericii evanghelice fortificate,sat MOTIŞ; comuna 109 VALEA VIILOR VALEA VIILOR,,"sec. XIV - prima jum. a sec. XIX sec. XIX, 1776 (plafon)"
+785,SB-II-a-B-12473,Ansamblul bisericii evanghelice fortificate,sat MOTIŞ; comuna 109 VALEA VIILOR,,sec. XIV - prima jum. a sec. XIX
+786,SB-II-m-B-12473.01,Biserica evanghelică,sat MOTIŞ; comuna 109 VALEA VIILOR,,"sf. sec. XIV - al doilea sfert al sec. XIX, 1776 (plafon)"
 787,SB-II-m-B-12473.02,"Incintă fortificată, cu turnuri, turn-clopotniţă, anexe",sat MOTIŞ; comuna 109 VALEA VIILOR,,sec. XV - prima jum. a sec. XIX
 788,SB-II-a-B-12474,Ansamblul bisericii evanghelice fortificate,sat MOVILE; 164 comuna IACOBENI,,sec. XIII - XVI
 789,SB-II-m-B-12474.01,Biserica evanghelică fortificată,sat MOVILE; 164 comuna IACOBENI,,sec. XIII - XV
@@ -734,7 +795,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 794,SB-II-m-A-12476.01,Biserica evanghelică,sat NEMŞA; 199 comuna MOŞNA,,"sf. sec. XIV - înc. sec. XV, 1798"
 795,SB-II-m-A-12476.02,Incintă fortificată,sat NEMŞA; 199 comuna MOŞNA,,"înc. sec. XVI, 1869 (turn)"
 796,SB-II-m-B-20923.04,Halta Netuş,sat NETUŞ; comuna La IACOBENI,km 31+500,1898 - 1910
-797,SB-II-a-A-12477,Ansamblul bisericii evanghelice fortificate fortificată,sat NETUŞ; comuna 42 IACOBENI IACOBENI,,"sec. XV - XIX 1505 -1506 - turn), 1860 (cor"
+797,SB-II-a-A-12477,Ansamblul bisericii evanghelice fortificate,sat NETUŞ; comuna 42 IACOBENI,,sec. XV - XIX
+798,SB-II-m-A-12477.01,Biserica evanghelică fortificată,sat NETUŞ; comuna 42 IACOBENI,,"sec. XV - XVI, (1504 - boltă, 1505 -1506 - turn), 1860 (cor vest)"
 799,SB-II-m-A-12477.02,"Incintă fortificată (fragment), cu turnul de poartă",sat NETUŞ; comuna 42 IACOBENI,,sec. XVI
 800,SB-II-m-B-20923.32,Linie ferată îngustă,sat NOCRICH; Între comuna NOCRICH,km 69+924-73+193,1898 - 1910
 801,SB-II-m-B-20923.33,"Podeţ de beton cu parapet de protecţie 18,1 m",sat NOCRICH; La comuna NOCRICH,km 69+998,1898 - 1910
@@ -745,7 +807,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 806,SB-II-m-B-12480.01,Biserica evanghelică,sat NOCRICH; 158 comuna NOCRICH,,1803 - 1806
 807,SB-II-m-B-12480.02,Incintă fortificată (fragment),sat NOCRICH; 158 comuna NOCRICH,,sec. XV - XVII
 808,SB-II-m-B-12481,Casa parohială evanghelică,sat NOCRICH; 208 comuna NOCRICH,,1796 - 1798
-809,SB-II-m-B-12482,Biserica „Sf. Vasile”,sat NOCRICH; 253 comuna NOCRICH comuna NOCRICH,,1832
+809,SB-II-m-B-12482,Biserica „Sf. Vasile”,sat NOCRICH; 253 comuna NOCRICH,,1832
+810,SB-II-m-B-12483,Casă,sat NOCRICH; 321 comuna NOCRICH,,1870
 811,SB-II-m-B-12478,Biserica de lemn „Sfinţii Apostoli Petru şi Pavel”,sat NOIŞTAT; f. comuna IACOBENI,n.,sec. XIX
 812,SB-II-a-B-12484,Ansamblul bisericii evanghelice fortificate,sat NOIŞTAT; 19 comuna IACOBENI,,sec. XIV - XIX
 813,SB-II-m-B-12484.01,Biserica evanghelică,sat NOIŞTAT; 19 comuna IACOBENI,,"sec. XIV (turn), cca.1510, 1856 - 1858 (nava)"
@@ -757,7 +820,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 819,SB-II-m-B-12485.01,Biserica evanghelică,sat NOU SĂSESC; 208 comuna LASLEA,,sf. sec. XIV - sec. XV
 820,SB-II-m-B-12485.02,Turn-clopotniţă,sat NOU SĂSESC; 208 comuna LASLEA,,1828 - 1832
 821,SB-II-m-B-12486,Biserica „Sf. Nicolae” - Din Cimitir,sat NOU SĂSESC; Str. comuna LASLEA,"Bisericii 65, în cimitirul ortodox",1806
-822,SB-II-m-A-12489,Pavilionul băilor „Schimbarea la Faţă”- Din,oraş OCNA Str. SIBIULUI SIBIULUI,Băilor 22,1907
+822,SB-II-m-A-12489,Pavilionul băilor,oraş OCNA Str. SIBIULUI,Băilor 22,1907
+823,SB-II-a-B-12490,Ansamblul bisericii „Schimbarea la Faţă”- Din Jos,oraş OCNA Str. SIBIULUI,Bălcescu Nicolae 9,sf. sec. XVIII - înc. sec. XIX
 824,SB-II-m-B-12490.01,Biserica „Schimbarea la Faţă”,oraş OCNA Str. SIBIULUI,Bălcescu Nicolae 9,"1790, 1805"
 825,SB-II-m-B-12490.02,Zid de incintă,oraş OCNA Str. SIBIULUI,Bălcescu Nicolae 9,sec. XIX
 826,SB-II-m-A-12491,Biserica „Sf. Arhanghelii Mihail şi Gavriil” (Biserica lui Mihai Viteazul),oraş OCNA Str. SIBIULUI,Mihai Viteazul 82,cca.1700
@@ -768,7 +832,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 831,SB-II-m-A-12493.01,Biserica evanghelică,oraş OCNA Str. SIBIULUI,Petöfi Sándor 1,înc. sec. XIII - sec. XV
 832,SB-II-m-A-12493.02,Zid de incintă,oraş OCNA Str. SIBIULUI,Petöfi Sándor 1,sec. XV
 833,SB-II-m-B-12488,Biserica romano-catolică,oraş OCNA Str. SIBIULUI,Trecătoarei 3,1765 - 1800
-834,SB-II-m-B-12494,Casă de lemn,sat ORLAT; comuna 422 ORLAT ORLAT,,1852
+834,SB-II-m-B-12494,Casă de lemn,sat ORLAT; comuna 422 ORLAT,,1852
+835,SB-II-m-B-12495,Casă de lemn,sat ORLAT; comuna 472 ORLAT,,sec. XIX
 836,SB-II-m-B-12496,Biserica „Sf. Nicolae”,sat ORLAT; comuna Str. ORLAT,Câmpuşorului 542,1794
 837,SB-II-a-B-12497,"Ansamblul fostului sediu al Comandamentului Grăniceresc, azi muzeu",sat ORLAT; comuna Str. ORLAT,"Grănicerilor 115, 194, 196, 197","1763, transf. sec. XX"
 838,SB-II-a-B-12498,"Casa de cură - vilele 1, 2, 3, 4",localitatea în PĂLTINIŞ; municipiul SIBIU,centrul staţiunii,1897
@@ -778,7 +843,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 842,SB-II-m-B-12501.01,Biserica evanghelică,sat PELIŞOR; 263 comuna BÂRGHIŞ,,sec. XV - XVIII
 843,SB-II-m-B-12501.02,"Incintă fortificată, cu turnuri, turn de poartă, zwinger",sat PELIŞOR; 263 comuna BÂRGHIŞ,,sec. XV - XVII
 844,SB-II-m-B-12502,Biserica de lemn „Adormirea Maicii Domnului” - Din Deal,sat POIANA 290 SIBIULUI; comuna POIANA SIBIULUI,,1766
-845,SB-II-m-B-20319,Casă de lemn,sat POIANA 947 SIBIULUI; comuna POIANA SIBIULUI SIBIULUI; comuna,,1888
+845,SB-II-m-B-20319,Casă de lemn,sat POIANA 947 SIBIULUI; comuna POIANA SIBIULUI,,1888
+846,SB-II-m-B-20318,Casă de lemn,sat POIANA 1440 SIBIULUI; comuna POIANA SIBIULUI,,1879
 847,SB-II-a-B-12503,Gospodărie ţărănească,sat POIANA Str. SIBIULUI; comuna POIANA SIBIULUI,Valea Radei 115,1869
 848,SB-II-m-B-12504,Casă de lemn,sat POPLACA; 69 comuna POPLACA,,sec. XIX
 849,SB-II-a-B-12505,Ansamblul bisericii „Naşterea Sf. Ioan Botezătorul”,sat POPLACA; Str. comuna POPLACA,Principală 341,sf. sec. XVIII - înc. sec. XIX
@@ -787,7 +853,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 852,SB-II-m-B-20320,Casă de lemn,sat PORUMBACU 309 DE JOS; comuna PORUMBACU DE JOS,,1899
 853,SB-II-m-B-12506,"Fostul Oficiu Poştal Tranzit, azi locuinţă",sat PORUMBACU 458 DE JOS; comuna PORUMBACU DE JOS,,1756 - 1760
 854,SB-II-m-B-12507,Biserica de lemn „Sf. Treime”,sat PRESACA; Str. comuna PĂUCA,Principală 43,sec. XVIII
-855,SB-II-a-B-12510,"Ansamblul rural ""Centrul localităţii""","sat RĂŞINARI; Centrul comuna RĂŞINARI ""Sf.Paraschiva"" comuna RĂŞINARI",localităţii şi piaţa bisericii,sec. XVIII - XIX
+855,SB-II-a-B-12510,"Ansamblul rural ""Centrul localităţii""","sat RĂŞINARI; Centrul comuna RĂŞINARI ""Sf.Paraschiva""",localităţii şi piaţa bisericii,sec. XVIII - XIX
+856,SB-II-m-B-12511,Casa Ilarie Mitrea,sat RĂŞINARI; 734 comuna RĂŞINARI,,sec. XIX
 857,SB-II-m-B-12514,Casa Dancăşiu,sat RĂŞINARI; 844 comuna RĂŞINARI,,1784
 858,SB-II-m-B-12515,Casă şi poartă,sat RĂŞINARI; 849 comuna RĂŞINARI,,"1835 (casa), 1868 (poarta)"
 859,SB-II-m-B-12509,Şcoala veche,sat RĂŞINARI; 1512 comuna RĂŞINARI,,"1836, transf. 1864, 1904, 1957"
@@ -799,7 +866,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 865,SB-II-m-B-20321,Casă de lemn,sat RĂŞINARI; Str. comuna RĂŞINARI,Sibiului 786,1835
 866,SB-II-m-B-20322,Şură,sat RĂŞINARI; Str. comuna RĂŞINARI,Sibiului 786,1835
 867,SB-II-m-B-12513,Casă de lemn,sat RĂŞINARI; Str. comuna RĂŞINARI,Şaguna Andrei 817,1832
-868,SB-II-m-B-12519,Biserica evanghelică,sat RETIŞ; comuna 45 BRĂDENI BRĂDENI,,"1599, 1694, 1835 (turn)"
+868,SB-II-m-B-12519,Biserica evanghelică,sat RETIŞ; comuna 45 BRĂDENI,,"1599, 1694, 1835 (turn)"
+869,SB-II-m-B-12520,Biserica „Sf. Nicolae”,sat RETIŞ; comuna Str. BRĂDENI,Dealului 134,1811 - 1823
 870,SB-II-a-B-12521,"Ansamblul rural ""Centrul istoric""",sat RICHIŞ; comuna La BIERTAN până secundar 91; biserica nr. Mediaş-Bârghiş drum La până,"N: drumul spre Biertan ambele laturi la nr. 41 şi 80; La E: drum ambele laturi până la nr. 87 şi La SSE: drum secundar pe lângă fortificată ambele laturi până la 163 şi 191; La S, drumul spre DJ ambele laturi până la: secundar până la nr. 301 şi 376; SSV, drum secundar ambele laturi la nr. 91 şi 87",sec. XVIII - XIX
 871,SB-II-a-A-12522,Ansamblul bisericii evanghelice fortificate,sat RICHIŞ; comuna 1-2 BIERTAN,,a doua jum. a sec. XIV - sec. XVIII
 872,SB-II-m-A-12522.01,Biserica evanghelică,sat RICHIŞ; comuna 1-2 BIERTAN,,a doua jum. a sec. XIV - sec. XVI
@@ -807,7 +875,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 874,SB-II-m-A-12522.03,Casa parohială evanghelică,sat RICHIŞ; comuna 1-2 BIERTAN,,"sec. XVI, sec. XVIII"
 875,SB-II-a-B-12523,Ansamblul bisericii evanghelice,sat ROANDOLA; 52 comuna LASLEA,,sec. XV - XVIII
 876,SB-II-m-B-12523.01,Biserica evanghelică,sat ROANDOLA; 52 comuna LASLEA,,sec. XV
-877,SB-II-m-B-12523.02,Turn-clopotniţă,sat ROANDOLA; 52 comuna LASLEA TILIŞCA,,1792
+877,SB-II-m-B-12523.02,Turn-clopotniţă,sat ROANDOLA; 52 comuna LASLEA,,1792
+878,SB-II-m-B-12524,Casă,sat ROD; comuna 30 TILIŞCA,,1872
 879,SB-II-m-B-20323,Casă de lemn,sat ROD; comuna 287 TILIŞCA,,1825
 880,SB-II-m-B-12525,Casă,sat ROD; comuna 387 TILIŞCA,,sec. XIX
 881,SB-II-m-B-20923.46,Linie ferată îngustă,sat ROŞIA; comuna Între ROŞIA,km 82+801-85+682,1898 - 1910
@@ -819,7 +888,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 887,SB-II-m-A-12526.02,Zid de incintă (fragmente),sat ROŞIA; comuna 245 ROŞIA,,sec. XV
 888,SB-II-m-A-12526.03,Turn-clopotniţă,sat ROŞIA; comuna 245 ROŞIA,,sec. XV
 889,SB-II-m-B-21006,Casa parohială,sat ROŞIA; comuna 247 ROŞIA,,1762
-890,SB-II-m-B-20923.06,Halta Ruja evanghelice fortificate,sat RUJA; oraş La AGNITA AGNITA,km 43+300,1898 - 1910
+890,SB-II-m-B-20923.06,Halta Ruja,sat RUJA; oraş La AGNITA,km 43+300,1898 - 1910
+891,SB-II-a-A-12527,Ansamblul bisericii evanghelice fortificate,sat RUJA; oraş 259 AGNITA,,sec. XIII - XVI
 892,SB-II-m-A-12527.01,Biserica evanghelică fortificată,sat RUJA; oraş 259 AGNITA,,sec. XIII - înc. sec. XV
 893,SB-II-m-A-12527.02,Incintă fortificată (fragmente),sat RUJA; oraş 259 AGNITA,,sec. XVI
 894,SB-II-m-B-12528,Biserica evanghelică,sat RUSCIORI; 94 comuna ŞURA MICĂ,,sec. XIII - XVI
@@ -830,7 +900,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 899,SB-II-m-B-12530,Biserica de lemn „Adormirea Maicii Domnului”,sat SADU; comuna Str. SADU,Principală 252,sf. sec. XVIII
 900,SB-II-a-A-12531,Ansamblul bisericii „Adormirea Maicii Domnului”,sat SADU; comuna Str. SADU,Principală 486,sec. XVII - XVIII
 901,SB-II-m-A-12531.01,Biserica „Adormirea Maicii Domnului”,sat SADU; comuna Str. SADU,Principală 486,sec. XVIII
-902,SB-II-m-A-12531.02,Poartă,sat SADU; comuna Str. SADU oraş AVRIG,Principală 486,1795 - XX
+902,SB-II-m-A-12531.02,Poartă,sat SADU; comuna Str. SADU,Principală 486,1795
+903,SB-II-m-A-12534,Biserica evanghelică S.P.,sat SĂCĂDATE; Str. oraş AVRIG,Bisericii 389,"mijl. sec. XIII, transf. sec. XVIII - XX"
 904,SB-II-m-B-12533,Biserica „Botezul Domnului”,sat SĂCĂDATE; Str. oraş AVRIG,Mijlocul Satului 381,"1794, 1871"
 905,SB-II-a-A-12535,"Ansamblul rural ""Centrul istoric""","oraş SĂLIŞTE Piaţa str. Eroilor, Grui","Junilor integral, str. Vale integral, Grui integral, str. Meseriaşilor, Piaţa curtea bisericii şi cimitirul din",sec. XVIII - XIX
 906,SB-II-m-A-12538,Biserica „Naşterea Sf. Ioan Botezătorul” - Din Grui,oraş SĂLIŞTE Str.,Brata 17,"1742, turn 1816"
@@ -840,7 +911,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 910,SB-II-m-A-12540,Biserica „Naşterea Domnului”,sat SĂRATA; Str. comuna PORUMBACU DE JOS,Bisericii 186,1800 - 1806
 911,SB-II-m-B-12541,Biserica „Adormirea Maicii Domnului”,sat SĂSĂUŞ; Str. comuna CHIRPĂR,Bisericii 195,cca. 1782
 912,SB-II-m-B-12542,Biserica de lemn „Sf. Arhangheli”,sat SÂNGĂTIN; Str. comuna APOLDU DE JOS,Bisericii 550,"1687, cf. tradiţie strămutată din Apoldu de Jos"
-913,SB-II-m-B-12543,Biserica „Adormirea Maicii Domnului”,sat SEBEŞU DE JOS; Str. comuna TURNU,Bisericii 353,1823 - 1830
+913,SB-II-m-B-12543,Biserica „Adormirea Maicii Domnului”,sat SEBEŞU DE JOS; Str. comuna TURNU ROŞU,Bisericii 353,1823 - 1830
 914,SB-II-m-B-12544,Biserica „Sf. Apostoli Petru şi Pavel”,sat SEBEŞU DE SUS; Str. comuna RACOVIŢĂ,Bisericii 275,"1760, extinderi 1909"
 915,SB-II-s-B-12546,Situl rural Sibiel,sat SIBIEL; oraş Întreaga SĂLIŞTE,localitate,sec. XVIII - XIX
 916,SB-II-m-B-12547,Casă de lemn,sat SIBIEL; oraş 31 SĂLIŞTE,,sf. sec. XVIII
@@ -851,7 +922,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 921,SB-II-m-A-12552,"Cetatea Slimnicului (Stolzenburg): incintă fortificată, cu turnuri, capelă, turn de poartă, bastion, anexe",sat SLIMNIC; Pe comuna SLIMNIC,"deal, spre SE de centrul satului",sec. XIV - XVIII
 922,SB-II-m-A-12553,Biserica evanghelică,sat SLIMNIC; 17 comuna SLIMNIC,,a doua jum. a sec. XIV - sec. XVI
 923,SB-II-m-B-12554,Biserica „Sf. Arhangheli”,sat SLIMNIC; Str. comuna SLIMNIC,Principală 84,"1831, renovată 1889-1910"
-924,SB-II-m-B-20923.05,Halta Proştea (veche denumire a satului,sat STEJĂRIŞU; La comuna IACOBENI,km 39+225,1898 - 1910
+924,SB-II-m-B-20923.05,Halta Proştea (veche denumire a satului Stejărişu),sat STEJĂRIŞU; La comuna IACOBENI,km 39+225,1898 - 1910
 925,SB-II-a-A-12555,Ansamblul bisericii evanghelice fortificate,sat STEJĂRIŞU; 196 comuna IACOBENI,,sf. sec. XV - sec. XIX
 926,SB-II-m-A-12555.01,Biserica evanghelică fortificată,sat STEJĂRIŞU; 196 comuna IACOBENI,,"sec. XIV - XVI, 1861 (extindere cor)"
 927,SB-II-m-A-12555.02,Turn al fostei incinte interioare,sat STEJĂRIŞU; 196 comuna IACOBENI,,sf. sec. XV - înc. sec. XVI
@@ -860,7 +931,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 930,SB-II-m-A-12556.01,Biserica evanghelică,localitatea ŞAROŞ 137 PE TÂRNAVE; oraş DUMBRĂVENI,,sec. XIV - înc.sec. XIX
 931,SB-II-m-A-12556.02,"Incintă fortificată, cu turn, trei bastioane, capelă (fragment), turn de poartă",localitatea ŞAROŞ 137 PE TÂRNAVE; oraş DUMBRĂVENI,,sec. XIII - XVI
 932,SB-II-m-A-12556.03,Casa parohială,localitatea ŞAROŞ 137 PE TÂRNAVE; oraş DUMBRĂVENI,,sec. XVI - XVIII
-933,SB-II-m-B-12557,Biserica evanghelică evanghelică,sat ŞEICA MARE; 122 comuna ŞEICA MARE comuna ŞEICA,,"sec. XIV - XVIII, 1806 (turn- clopotniţă)"
+933,SB-II-m-B-12557,Biserica evanghelică,sat ŞEICA MARE; 122 comuna ŞEICA MARE,,"sec. XIV - XVIII, 1806 (turn- clopotniţă)"
+934,SB-II-m-A-12558,Casa parohială evanghelică,sat ŞEICA MICĂ; 64 comuna ŞEICA MICĂ,,1754
 935,SB-II-a-A-12559,Ansamblul bisericii evanghelice fortificate,sat ŞEICA MICĂ; 75 comuna ŞEICA MICĂ,,sec. XIV - XVII
 936,SB-II-m-A-12559.01,Biserica evanghelică,sat ŞEICA MICĂ; 75 comuna ŞEICA MICĂ,,sec. XIV - XVIII
 937,SB-II-m-A-12559.02,Bastion al fostei incinte interioare,sat ŞEICA MICĂ; 75 comuna ŞEICA MICĂ,,sec. XV
@@ -868,7 +940,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 939,SB-II-m-A-12559.04,Turn al fostei incinte interioare,sat ŞEICA MICĂ; 75 comuna ŞEICA MICĂ,,sec. XV - XVII
 940,SB-II-m-A-12559.05,Incintă fortificată exterioară (fragmente),sat ŞEICA MICĂ; 75 comuna ŞEICA MICĂ,,mijl. sec. XVI
 941,SB-II-m-B-12560,Casa Geiger,sat ŞEICA MICĂ; 373 comuna ŞEICA MICĂ,,"1771, transf. ulterioare"
-942,SB-II-m-B-20923.68,Linie ferată îngustă evanghelice fortificate,sat ŞELIMBĂR; Între comuna ŞELIMBĂR comuna ŞELIMBĂR,km 101+907-106+730,1898 - 1910
+942,SB-II-m-B-20923.68,Linie ferată îngustă,sat ŞELIMBĂR; Între comuna ŞELIMBĂR,km 101+907-106+730,1898 - 1910
+943,SB-II-a-A-12561,Ansamblul bisericii evanghelice fortificate,sat ŞELIMBĂR; Str. comuna ŞELIMBĂR,Mihai Viteazul 284,sec. XIII - XIX
 944,SB-II-m-A-12561.01,Biserica evanghelică,sat ŞELIMBĂR; Str. comuna ŞELIMBĂR,Mihai Viteazul 284,"sec. XIII - XIX, transf. 1423"
 945,SB-II-m-A-12561.02,Incinta fortificată,sat ŞELIMBĂR; Str. comuna ŞELIMBĂR,Mihai Viteazul 284,sec. XVI
 946,SB-II-m-A-12562,Biserica evanghelică,sat ŞMIG; comuna 62 AŢEL,,"a doua jum. a sec. XV - sec. XVIII, 1859"
@@ -879,7 +952,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 951,SB-II-a-A-12565,Ansamblul bisericii evanghelice,sat ŞURA MARE; 452 comuna ŞURA MARE,,prima jum. a sec. XIII - sec. XIX
 952,SB-II-m-A-12565.01,Biserica evanghelică,sat ŞURA MARE; 452 comuna ŞURA MARE,,"prima jum. sec. XIII - sec. XV, 1497, 1643, sec. XIX"
 953,SB-II-m-A-12565.02,Casa parohială evanghelică,sat ŞURA MARE; 452 comuna ŞURA MARE,,sec. XIII - XIX
-954,SB-II-m-B-12566,Biserica de lemn „Bunavestire”,sat ŞURA MARE; Str. comuna ŞURA,Principală 483,1722 (transferată din Sibiel)
+954,SB-II-m-B-12566,Biserica de lemn „Bunavestire”,sat ŞURA MARE; Str. comuna ŞURA MARE,Principală 483,1722 (transferată din Sibiel)
 955,SB-II-a-B-12567,Ansamblul bisericii evanghelice fortificate,sat ŞURA MICĂ; 406 comuna ŞURA MICĂ,,sf. sec. XIII - sec. XVIII
 956,SB-II-m-B-12567.01,Biserica evanghelică,sat ŞURA MICĂ; 406 comuna ŞURA MICĂ,,"sf. sec. XIII - sec. XVIII, 1506 (cor şi turn)"
 957,SB-II-m-B-12567.02,Incintă fortificată (fragment),sat ŞURA MICĂ; 406 comuna ŞURA MICĂ,,sec. XVI
@@ -890,7 +963,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 962,SB-II-m-B-12571.01,Biserica evanghelică,sat TÂRNAVA; Str. comuna TÂRNAVA,Victoriei 526,"sec. XIV - XVI, 1792, 1869"
 963,SB-II-m-B-12571.02,Turn-clopotniţă,sat TÂRNAVA; Str. comuna TÂRNAVA,Victoriei 526,"sec. XIV, 1756, 1897"
 964,SB-II-m-B-12571.03,Incintă fortificată (fragment) şi turn,sat TÂRNAVA; Str. comuna TÂRNAVA,Victoriei 526,sec. XV - XVI
-965,SB-II-m-B-12572,Biserica „Sf. Arhangheli Mihail şi Gavril”,sat TILIŞCA; Str. comuna TILIŞCA TOPÂRCEA; oraş,Vale 550,1782
+965,SB-II-m-B-12572,Biserica „Sf. Arhangheli Mihail şi Gavril”,sat TILIŞCA; Str. comuna TILIŞCA,Vale 550,1782
+966,SB-II-m-B-12573,Biserica „Buna Vestire”,sat aparţinător Str. TOPÂRCEA; oraş OCNA SIBIULUI,Bisericii 43,sec. XVIII
 967,SB-II-m-A-12574,"Biserica „Sf. Nicolae” - Porceşti, (zisă a lui Matei Basarab), a fostei mănăstiri",sat TURNU ROŞU; Str. comuna TURNU ROŞU,Bisericii 75,"1653, 1827 - 1828; refaceri sec. XX"
 968,SB-II-a-A-12575,Ansamblul bisericii evanghelice fortificate,sat ŢAPU; comuna 134 MICĂSASA,,sec. XIV - XIX
 969,SB-II-m-A-12575.01,Biserica evanghelică fortificată,sat ŢAPU; comuna 134 MICĂSASA,,"sec. XIV - XV, transf. 1625, 1838"
@@ -900,7 +974,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 973, SB-II-m-A-12577.01, Biserica evanghelică, sat VALCHID; 197 comuna HOGHILAG,," sec. XIV, 1441, 1507, înc. sec. XIX"
 974,SB-II-m-A-12577.02,"Incintă fortificată, cu turnuri, turn de poartă, acces secundar fortificat",sat VALCHID; 197 comuna HOGHILAG,,sf. sec. XV - înc. sec. XVI
 975,SB-II-a-B-12578,"Ansamblul rural ""Centrul istoric al localităţii""",sat VALE; oraş Str. SĂLIŞTE ortodox,"Bisericii, curtea bisericii şi cimitirul",sec. XVII - XIX
-976,SB-II-m-B-12579,Biserica „Sf. Treime”,sat VALE; oraş Str. SĂLIŞTE comuna VALEA Ministerului,Mare 106 Culturii,ante 1780 (1763?)
+976,SB-II-m-B-12579,Biserica „Sf. Treime”,sat VALE; oraş Str. SĂLIŞTE,Mare 106,ante 1780 (1763?)
+977,SB-II-s-A-12581,Situl rural Valea Viilor,sat VALEA VIILOR; Sit comuna VALEA Ministerului VIILOR,delimitat cf.aviz 812/E/1998 al Culturii,sec. XVIII - XIX
 978,SB-II-a-A-12582,Ansamblul bisericii evanghelice fortificate,sat VALEA VIILOR; 341 comuna VALEA VIILOR,,sec. XIV - XVI
 979,SB-II-m-A-12582.01,Biserica evanghelică,sat VALEA VIILOR; 341 comuna VALEA VIILOR,,"sec. XIV, sec. XV - XVI"
 980,SB-II-m-A-12582.02,"Incintă fortificată, cu trei turnuri, turn de poartă, anexe",sat VALEA VIILOR; 341 comuna VALEA VIILOR,,sec. XV - XVI
@@ -910,7 +985,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 984, SB-II-m-B-20923.17," Podeţ metalic 4,8 m", sat VĂRD; comuna La CHIRPĂR, km 57+343, 1898 - 1910
 985,SB-II-m-B-12583,Biserica evanghelică,sat VĂRD; comuna 28 CHIRPĂR,,"sec. XIII, sec. XIV (turn), 1853 (cor, bolţi)"
 986,SB-II-m-B-20923.22,Linie ferată îngustă,sat VECERD; Între comuna BÂRGHIŞ,km 62+438-62+798,1898 - 1910
-987,SB-II-m-B-20923.23,"Podeţ metalic 7,9 m evanghelică",sat VECERD; La comuna BÂRGHIŞ BAZNA,km 62+475,1898 - 1910
+987,SB-II-m-B-20923.23,"Podeţ metalic 7,9 m",sat VECERD; La comuna BÂRGHIŞ,km 62+475,1898 - 1910
+988,SB-II-m-B-12584,Casa parohială evanghelică,sat VELŢ; comuna 171 BAZNA,,sec. XVIII - XIX
 989,SB-II-a-B-12585,Ansamblul bisericii evanghelice fortificate,sat VELŢ; comuna 173 BAZNA,,a doua jum. a sec. XIV - sec. XIX
 990,SB-II-m-B-12585.01,Biserica evanghelică fortificată,sat VELŢ; comuna 173 BAZNA,,"a doua jum. a sec. XIV, 1881"
 991,SB-II-m-B-12585.02,"Incintă fortificată, cu fosta locuinţă a paznicului cetăţii şi turn de poartă.",sat VELŢ; comuna 173 BAZNA,,"sec. XVI, sec. XIX"
@@ -921,7 +997,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 996,SB-II-m-B-12588,Biserica „Sf. Gheorghe”,sat VESEUD; Str. comuna CHIRPĂR,Principală 25,1790
 997,SB-II-m-B-20923.74,Linie ferată îngustă- ramificaţie (Linia Vânătorilor),sat VURPĂR; Între comuna VURPĂR,km 8+620-12+686,1898 - 1910
 998,SB-II-m-B-20923.75,Gara Vurpăr,sat VURPĂR; La comuna VURPĂR,km 12+630,1898 - 1910
-999,SB-II-m-A-12589,Biserica evanghelică evanghelice,sat VURPĂR; 1 comuna VURPĂR comuna BÂRGHIŞ,,"înc. sec. XIII, transf. sec. XVI, 1804 (turn)"
+999,SB-II-m-A-12589,Biserica evanghelică,sat VURPĂR; 1 comuna VURPĂR,,"înc. sec. XIII, transf. sec. XVI, 1804 (turn)"
+1000,SB-II-a-B-12590,Ansamblul bisericii evanghelice,sat ZLAGNA; 130 comuna BÂRGHIŞ,,sec. XV - XIX
 1001,SB-II-m-B-12590.01,Biserica evanghelică,sat ZLAGNA; 130 comuna BÂRGHIŞ,,sec. XV - XVIII
 1002,SB-II-m-B-12590.02,Turn-clopotniţă,sat ZLAGNA; 130 comuna BÂRGHIŞ,,1828 - 1832
 1003,SB-III-m-B-12591,Bustul lui Mihai Eminescu,municipiul SIBIU Parcul,"""Sub Arini""",1938
@@ -933,7 +1010,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1009,SB-III-m-B-12597,Bustul lui Friedrich Schiller,municipiul SIBIU Piaţa,Schiller 1,1905
 1010,SB-III-m-B-12598,Bustul lui George Coşbuc,municipiul SIBIU Bd.,Victoriei,1933
 1011,SB-III-m-B-12599,Monumentul lui Gheorghe Lazăr,oraş AVRIG Piaţa,Republicii,1964
-1012,SB-III-m-B-12600,Monumentul lui August Treboniu Laurian Roth,sat FOFELDEA; În comuna NOCRICH monumentul Stefan,"dreptul casei cu nr. 192, lângă aviatorului Ion Stoica Ludwig Roth",sec. XIX
+1012,SB-III-m-B-12600,Monumentul lui August Treboniu Laurian,sat FOFELDEA; În comuna NOCRICH monumentul,"dreptul casei cu nr. 192, lângă aviatorului Ion Stoica",sec. XIX
+1013,SB-III-m-B-12601,Bustul lui Stefan Ludwig Roth,municipiul MEDIAŞ Piaţa Stefan,"Enescu George, în faţa Liceului Ludwig Roth",sec. XIX
 1014,SB-III-m-B-12602,Bustul lui Axente Sever,municipiul MEDIAŞ Str. Sever”,"Moşnei, în faţa liceului „Axente",sec. XIX
 1015,SB-III-m-B-12603,Bustul lui Cornel Medrea,oraş MIERCUREA Piaţa SIBIULUI,Centrală,sec. XX
 1016,SB-III-m-B-12604,Bustul lui Nicolae Henţiu,oraş SĂLIŞTE În,grădina publică,1934
@@ -944,7 +1022,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1021,SB-IV-m-B-12608,Mormântul literatului Moise Fulea,municipiul SIBIU Str. Bunavestire,"Justiţiei 5, în cimitirul bisericii",
 1022,SB-IV-m-B-12609,Monumentul funerar al dr. George Manasis,municipiul SIBIU Str. Bunavestire,"Justiţiei 5, în cimitirul bisericii",
 1023,SB-IV-a-B-12610,"Grup de patru cruci de piatră sculptate provenind de la cimitirului Biserica Bunavestire din Broşteni, comuna Păuca",municipiul SIBIU Str.,Mitropoliei 22,sec. XVIII
-1024,SB-IV-m-A- 12167.02,Cimitirul bisericii „Sf. Apostoli Petru şi Pavel” Bariţiu,municipiul SIBIU Str. bisericii,"Reconstrucţiei 17 ""Sf.Petru şi Pavel""",sec. XVIII - XX
+1024,SB-IV-m-A- 12167.02,Cimitirul bisericii „Sf. Apostoli Petru şi Pavel”,municipiul SIBIU Str.,Reconstrucţiei 17,sec. XVIII - XX
+1025,SB-IV-m-B-12611,Mormântul lui George Bariţiu,municipiul SIBIU Str. bisericii,"Reconstrucţiei 17, în cimitirul ""Sf.Petru şi Pavel""",1893
 1026,SB-IV-m-B-12612,Monumentul funerar Alexandru Papiu Ilarian (bust),municipiul SIBIU Str. bisericii,"Reconstrucţiei 17, în cimitirul ""Sf.Petru şi Pavel""",1880
 1027,SB-IV-m-B-12613,Monumentul funerar al dr. Ioan Raţiu (obelisc),municipiul SIBIU Str. bisericii,"Reconstrucţiei 17, în cimitirul ""Sf.Petru şi Pavel""",1911
 1028,SB-IV-m-B-12614,Monumentul funerar al lui Iosif Sterca Şuluţiu,municipiul SIBIU Str. bisericii,"Reconstrucţiei 17, în cimitirul ""Sf.Petru şi Pavel""",1902
@@ -954,7 +1033,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1032,SB-IV-m-B-12618,Casa Axente Sever,sat AXENTE SEVER; 448 comuna AXENTE SEVER,,sec. XIX
 1033,SB-IV-m-B-12619,Casa Victor Păcală,sat DEALU 251 FRUMOS; comuna MERGHINDEAL,,sec. XIX
 1034,SB-IV-m-B-12620,Troiţă de lemn,sat FÂNTÂNELE; Str. oraş SĂLIŞTE,Bisericii 142,sec. XIX
-1035,SB-IV-m-B-12622,Monumentul funerar al lui Daniel R. Codrescu “CORDIANA”,sat FOFELDEA; În comuna NOCRICH comuna NOCRICH,cimitirul bisericii,sec. XIX
+1035,SB-IV-m-B-12622,Monumentul funerar al lui Daniel R. Codrescu,sat FOFELDEA; În comuna NOCRICH,cimitirul bisericii,sec. XIX
+1036,SB-IV-m-B-12621,Bancă ţărănească “CORDIANA”,sat FOFELDEA; 189 comuna NOCRICH,,sf. sec. XIX - înc. sec. XX
 1037,SB-IV-m-B-12623,"Edicul ""Osuar"" cu pictură pe pânză","sat JINA; comuna 297, JINA",în cimitirul sătesc,1827
 1038,SB-IV-m-B-12624,Casa Iacob Bologa,sat MARPOD; 171 comuna MARPOD,,sec. XIX
 1039,SB-IV-m-B-12626,Casa Stefan Ludwig Roth,municipiul MEDIAŞ Str.,Honterus Johannes 10,"1696, transf. sec. XIX"
@@ -966,7 +1046,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1045,SB-IV-m-B-12632,Troiţă,sat ROD; comuna În TILIŞCA,dreptul casei cu nr. 272,1871
 1046,SB-IV-m-B-12633,Troiţă,sat ROD; comuna În TILIŞCA,dreptul casei cu nr. 262,1877
 1047,SB-IV-m-B-12634,Troiţă,oraş SĂLIŞTE În,dreptul casei cu nr. 236,sec. XIX
-1048,SB-IV-m-B-12635,Troiţă,sat SIBIEL; oraş În SĂLIŞTE SĂLIŞTE,dreptul casei cu nr. 166,1803
+1048,SB-IV-m-B-12635,Troiţă,sat SIBIEL; oraş În SĂLIŞTE,dreptul casei cu nr. 166,1803
+1049,SB-IV-m-B-12636,Troiţă,sat SIBIEL; comuna În SĂLIŞTE,faţa casei 288,1814
 1050,SB-IV-m-B-12637,"Monument comemorativ ridicat pe locul bătăliei din 1599 dintre Mihai Viteazul şi Andrei Bathory şi în cinstea ostaşilor români căzuţi în primul război mondial” (troiţă din lemn, ridicată de ASTRA)",sat ŞELIMBĂR; La comuna ŞELIMBĂR,"cca. 2 km SV, pe şosea",1932
 1051,SB-IV-m-B-12638,Troiţă,sat TILIŞCA; În comuna TILIŞCA,dreptul casei cu nr. 293,sec. XIX
 1052,SB-IV-m-B-12639,Troiţă,sat TURNU ROŞU; La comuna TURNU Boiţa ROŞU,"marginea satului, pe drumul spre",sec. XVIII

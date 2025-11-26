@@ -1,8 +1,9 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,TL-I-s-A-05718,"Situl arheologic ""Aegyssus""","municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor",
 2,TL-I-m-A-05718.01,Aşezare medievală,"municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor",Epoca medievală
 3,TL-I-m-A-05718.02,Cetatea Aegyssus,"municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor",Epoca romană târzie
 4,TL-I-m-A-05718.03,Aşezare civilă Aegyssus,"municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor",Epoca romană
-5,TL-I-m-A-05718.04,Necropola cetăţii Aegyssus,"municipiul TULCEA În Parcul din Prislav,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa,",Epoca romană
+5,TL-I-m-A-05718.04,Necropola cetăţii Aegyssus,"municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor",Epoca romană
 6,TL-I-m-A-05718.05,Cetatea romană,"municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor",Epoca romană
 7,TL-I-m-A-05718.06,Cetate,"municipiul TULCEA În Parcul din Prislav, Independenţei,","partea de NE a oraşului, str. Gloriei, Monumentului; perimetrul format str. Nufărului, Orizontului, Brumărel, Walter, 9 Mai, Grigore Antipa, Mistreţului, Grădinarilor","Latène, Cultura geto - dacică"
 8, TL-I-s-B-05719," Situl arheologic de la Tulcea, punct ""La via judecătorului""", municipiul TULCEA La judecătorului”," 4 km E de mun. Tulcea, punctul ""La via",
@@ -11,7 +12,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 11,TL-I-s-B-05720,"Situl arheologic de la Tulcea, punct ""Dealul Taberei”","municipiul TULCEA ""Dealul",Taberei”,
 12,TL-I-m-B-05720.01,Aşezare,"municipiul TULCEA ""Dealul",Taberei”,Epoca medievală
 13,TL-I-m-B-05720.02,Aşezare,"municipiul TULCEA ""Dealul",Taberei”,Epoca romană
-14,TL-I-s-A-05721,Sit arheologic subacvatic subacvatice,Platforma românesc românesc,continentală a litoralului al Mării negre al Mării negre,
+14,TL-I-s-A-05721,Sit arheologic subacvatic,Platforma românesc,continentală a litoralului al Mării negre,
+15,TL-I-m-A-05721.01,Vestigii arheologice subacvatice,Platforma românesc,continentală a litoralului al Mării negre,Epoca modernă
 16,TL-I-m-A-05721.02,Vestigii arheologice subacvatice,Platforma românesc,continentală a litoralului al Mării negre,Epoca medievală
 17,TL-I-m-A-05721.03,Vestigii arheologice subacvatice,Platforma românesc,continentală a litoralului al Mării negre,Epoca romano - bizantină
 18,TL-I-m-A-05721.04,Vestigii arheologice subacvatice,Platforma românesc,continentală a litoralului al Mării negre,Epoca romană
@@ -21,7 +23,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 22,TL-I-m-B-05723.01,Aşezare rurală,"sat AGIGHIOL; Intravilan, comuna VALEA NUCARILOR",sector E,"sec. X - XII, Epoca medievală timpurie"
 23,TL-I-m-B-05723.02,Aşezare getică,"sat AGIGHIOL; Intravilan, comuna VALEA NUCARILOR",sector E,"Epoca romană, Cultura geto - dacică"
 24,TL-I-s-B-05724,Aşezare greco-indigenă,sat AGIGHIOL; La comuna VALEA Dealului NUCARILOR,"350 m V de sat, pe versantul de N al Pietros","sec. IV - III a. Chr., Latène, Cultura greco - getică"
-25,TL-I-s-B-05725,Aşezare rurală,sat AGIGHIOL; La comuna VALEA Agighiol NUCARILOR comuna VALEA,"1,5 km SE de sat, pe malul lacului","sec. II - IV p. Chr., Epoca romană romană"
+25,TL-I-s-B-05725,Aşezare rurală,sat AGIGHIOL; La comuna VALEA Agighiol NUCARILOR,"1,5 km SE de sat, pe malul lacului","sec. II - IV p. Chr., Epoca romană"
+26,TL-I-s-B-05726,Aşezare rurală,sat AGIGHIOL; La comuna VALEA NUCARILOR,1 km NV de sat,"sec. II - III p. Chr., Epoca romană"
 27,TL-I-s-B-05727,Aşezare,sat AGIGHIOL; La comuna VALEA al NUCARILOR,"1,3 km N-NV de sat, pe versantul de V văii Tulcea","sec. II p. Chr., Epoca romană, Cultura getică"
 28,TL-I-s-B-05728,Aşezare rurală,sat AGIGHIOL; La comuna VALEA NUCARILOR,"1,8 km N-NV de localitate","sec. III - IV p. Chr., Epoca romană"
 29,TL-I-s-B-05729,Aşezare,sat AGIGHIOL; La comuna VALEA NUCARILOR,"1,6 km N de localitate","sec. X - XI, Epoca medievală timpurie"
@@ -29,7 +32,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 31,TL-I-s-B-05731,Aşezare,sat AGIGHIOL; La comuna VALEA NUCARILOR,"1,6 km V de sat","sec. XI - XII, Epoca medievală timpurie"
 32,TL-I-s-B-05732,Aşezare getică,sat AGIGHIOL; La comuna VALEA NUCARILOR,"1,7 km de sat","sec. II - III p. Chr., Epoca romană, Cultura geto - dacică"
 33,TL-I-s-A-05733,Tumuli,sat AGIGHIOL; comuna VALEA NUCARILOR,,
-34,TL-I-m-A-05733.01,Aliniament de 3 tumuli (EV),sat AGIGHIOL; La comuna VALEA NUCARILOR comuna VALEA,1 km S de DJ Agighiol-Valea Nucarilor,
+34,TL-I-m-A-05733.01,Aliniament de 3 tumuli (EV),sat AGIGHIOL; La comuna VALEA NUCARILOR,1 km S de DJ Agighiol-Valea Nucarilor,
+35,TL-I-m-A-05733.02,Tumuli grupaţi (10),sat AGIGHIOL; La comuna VALEA NUCARILOR,limita de E a intravilanului,
 36,TL-I-m-A-05733.03,Aliniament de 11 tumuli (NS),sat AGIGHIOL; Între comuna VALEA NUCARILOR,Agighiol şi Valea Nucarilor,
 37,TL-I-m-A-05733.04,Tumuli grupaţi (4),sat AGIGHIOL; La comuna VALEA NUCARILOR,"1,5 km - 2,5 km N de localitate",
 38,TL-I-m-A-05733.05,Tumuli izolaţi (2),sat AGIGHIOL; La comuna VALEA NUCARILOR,"500 m şi 1,5 km N de localitate",
@@ -38,7 +42,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 41,TL-I-m-A-05733.08,Tumuli grupaţi (2),sat AGIGHIOL; La comuna VALEA NUCARILOR,4 km NV de localitate,
 42,TL-I-m-A-05733.09,Tumuli grupaţi (3),sat AGIGHIOL; La comuna VALEA NUCARILOR,500-700 m S de localitate,
 43,TL-I-s-A-05734,Situl arheologic de la Babadag,oraş BABADAG La,cca 1 km NE de Babadag,
-44,TL-I-m-A-05734.01,Fortificaţie romană,oraş BABADAG La Babadag,cca 1 km NE de Babadag,"sec. V - VI p. Chr., Epoca romană romană"
+44,TL-I-m-A-05734.01,Fortificaţie romană,oraş BABADAG La,cca 1 km NE de Babadag,"sec. V - VI p. Chr., Epoca romană"
+45,TL-I-m-A-05734.02,Aşezare rurală,oraş BABADAG La Babadag,"cca 500 m N de oraş, pe malul lacului","sec. II - VI p. Chr., Epoca romană"
 46,TL-I-m-A-05734.03,Aşezarea eponimă a culturii Babadag,oraş BABADAG La,cca 1 km NE de Babadag,"sec. V - IV a. Chr., Latène timpuriu, Cultura geto - dacică"
 47,TL-I-m-A-05734.04,Aşezarea eponimă a culturii Babadag,oraş BABADAG La,cca 1 km NE de Babadag,"sec. XI - VII a. Chr., Hallstatt, Cultura Babadag"
 48,TL-I-s-B-05735,"Situl arheologic de la Babadag, punct ""La Geamie”","oraş BABADAG ""La zona","Geamie”, str. Geamiei 2 Babadag şi înconjurătoare",
@@ -48,7 +53,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 52,TL-I-s-A-05737,Situl arheologic de la Baia,sat BAIA; comuna La BAIA de,"circa 1,5 km E de satul Baia, aproape malul lacului Goloviţa",
 53,TL-I-m-A-05737.01,Tell-uri (2),sat BAIA; comuna La BAIA de,"circa 1,5 km E de satul Baia, aproape malul lacului Goloviţa",Cultura Hamangia
 54,TL-I-m-A-05737.02,Tumuli aplatizaţi,sat BAIA; comuna extravilan BAIA lacului spre Ceamurlia,"spre E, între satul Baia şi malul Goloviţa, aliniamentul se continuă teritoriul administrativ al com. de Jos, la N",
-55,TL-I-s-B-05738,Aşezare,sat BAIA; comuna La BAIA comuna,2 km E de gara Baia,Epoca romană
+55,TL-I-s-B-05738,Aşezare,sat BAIA; comuna La BAIA,2 km E de gara Baia,Epoca romană
+56,TL-I-s-B-05739,Aşezare,sat BALABANCEA; La comuna HAMCEARCA,S şi SE de sat,Epoca medievală timpurie
 57,TL-I-s-B-05740,Aşezare,sat BĂLTENII DE În JOS; comuna BEŞTEPE,vatra satului Băltenii de Jos,"sec. II - IV p. Chr., Epoca romană"
 58,TL-I-s-B-05741,Aşezare,"sat BEIDAUD; ""La comuna BEIDAUD intravilan,","Grădină”, extravilan şi partial la limita de SE a satului","Neolitic, Cultura Hamangia"
 59,TL-I-s-A-05742,Situl arheologic de la Beidaud,sat BEIDAUD; Pe comuna BEIDAUD,"Dealul Calebaiîr, la 2,5 km NV de sat",
@@ -59,7 +65,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 64,TL-I-s-B-05745,Aşezare,sat BEŞTEPE; În comuna BEŞTEPE,"vatra satului, sector V","sec. IV - VI p. Chr., Epoca romano-bizantină"
 65,TL-I-s-B-05746,Necropolă,sat BEŞTEPE; În comuna BEŞTEPE,"vatra satului, sector SV","sec. IV - VI p. Chr., Epoca romano-bizantină"
 66, TL-I-s-B-05747, Situl arheologic de la Beştepe," sat BEŞTEPE; ""Cetate”, comuna BEŞTEPE versantul poalele"," la cca. 150 m E de sat, pe de V al văii Curpenişului, sub primului deal Beştepe",
-67,TL-I-m-B-05747.01,Necropolă,"sat BEŞTEPE; ""Cetate”, comuna BEŞTEPE versantul","la cca. 150 m E de sat, pe de V al văii Curpenişului, sub","sec. IV - VI p. Chr., Epoca romano-bizantină"
+67,TL-I-m-B-05747.01,Necropolă,"sat BEŞTEPE; ""Cetate”, comuna BEŞTEPE versantul poalele","la cca. 150 m E de sat, pe de V al văii Curpenişului, sub primului deal Beştepe","sec. IV - VI p. Chr., Epoca romano-bizantină"
 68,TL-I-m-B-05747.02,Aşezare,"sat BEŞTEPE; ""Cetate”, comuna BEŞTEPE versantul poalele","la cca. 150 m E de sat, pe de V al văii Curpenişului, sub primului deal Beştepe","sec. II - IV p. Chr., Epoca romană"
 69,TL-I-s-A-05748,"Situl arheologic de la Beştepe, punct ""Piatra lui Sava""","sat BEŞTEPE; ""Piatra comuna BEŞTEPE Beştepe","lui Sava”, la cca. 1, 3 km N de",
 70,TL-I-m-A-05748.01,Aşezare,"sat BEŞTEPE; ""Piatra comuna BEŞTEPE Beştepe","lui Sava”, la cca. 1, 3 km N de",Epoca romană
@@ -70,7 +76,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 75,TL-I-m-B-05750.02,Aşezare,sat BEŞTEPE; Limita comuna BEŞTEPE Beştepe,de N a intravilanului satului,Hallstatt
 76,TL-I-s-B-05751,Situl arheologic de la Beştepe,"sat BEŞTEPE; La comuna BEŞTEPE ""Piatra","500 m N de localitate, între Beştepe şi lui Sava”",
 77,TL-I-m-B-05751.01,Aşezare,"sat BEŞTEPE; La comuna BEŞTEPE ""Piatra","500 m N de localitate, între Beştepe şi lui Sava”","sec. I - III p. Chr., Epoca romană"
-78,TL-I-m-B-05751.02,"Aşezare ""Cetăţuie""","sat BEŞTEPE; La comuna BEŞTEPE ""Piatra comuna BEŞTEPE cca.","500 m N de localitate, între Beştepe şi lui Sava” 600 m SE de „Piatra lui Boboc” şi 1","sec. IV - III a. Chr., Latène, Cultura geto - dacică Cultura geto - dacică"
+78,TL-I-m-B-05751.02,Aşezare,"sat BEŞTEPE; La comuna BEŞTEPE ""Piatra","500 m N de localitate, între Beştepe şi lui Sava”","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
+79,TL-I-s-A-05752,"Fortificaţia getică de la ""Cetăţuie""","sat BEŞTEPE; ""Cetăţuie”, comuna BEŞTEPE cca. km","la cca 2 km NE de Beştepe, 600 m SE de „Piatra lui Boboc” şi 1 V de cetatea Salsovia","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
 80,TL-I-s-B-05753,Aşezare,sat CALFA; comuna Parţial TOPOLOG spre,"intravilan, sector N, şi extravilan N şi NE",Epoca bronzului
 81,TL-I-s-A-05754,"Aşezarea ""vicus Petra""",sat CAMENA; La comuna BAIA,cca 30 m N de Camena,Epoca romană şi romano- bizantină
 82,TL-I-s-B-05755,Necropolă tumulară,sat CARAORMAN; Pe comuna CRIŞAN,grindul Ivancea,Epoca greco-getică
@@ -82,7 +89,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 88,TL-I-s-B-02611,Situl arheologic de la Casimcea,sat CASIMCEA; Dealul comuna CASIMCEA Casimcea,"""Colţanii Dulbencii"", la N de satul",
 89,TL-I-m-B-02611.01,Aşezare,sat CASIMCEA; Dealul comuna CASIMCEA Casimcea,"""Colţanii Dulbencii"", la N de satul",sec. XVIII
 90,TL-I-m-B-02611.02,Aşezare,sat CASIMCEA; Dealul comuna CASIMCEA Casimcea,"""Colţanii Dulbencii"", la N de satul",Epoca romană
-91,TL-I-m-B-02611.03,Aşezare,sat CASIMCEA; Dealul comuna CASIMCEA Casimcea comuna CASIMCEA,"""Colţanii Dulbencii"", la N de satul","mil. IV a Chr., Neolitic romană"
+91,TL-I-m-B-02611.03,Aşezare,sat CASIMCEA; Dealul comuna CASIMCEA Casimcea,"""Colţanii Dulbencii"", la N de satul","mil. IV a Chr., Neolitic"
+92,TL-I-s-B-02612,Aşezare,"sat CASIMCEA; ""Dealul comuna CASIMCEA","Sexanului"", la cca. 800 m E de sat","sec. I - III p. Chr., Epoca romană"
 93,TL-I-s-B-02613,Tumuli (36),sat CASIMCEA; Pe comuna CASIMCEA,întreg teritoriul comunei,Epoca antică
 94,TL-I-s-B-05758,Villa rustica,sat CASIMCEA; La comuna CASIMCEA Dulbencii”,"300 m N de sat, la E de dealul „Colţanii",Epoca romană
 95,TL-I-s-B-05759,Situl arheologic de la Casimcea,sat CASIMCEA; La comuna CASIMCEA drept Casimcea,"2,5 km S de sat, pe terasa de pe malul al pârâului Casimcea, la S de DJ - Sarighiol de Deal",
@@ -93,7 +101,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 100,TL-I -s-B-05762,Situl arheologic de la Cataloi,sat CATALOI; La comuna FRECĂŢEI Cataloi-Frecăţei,200 m V de sat şi 500 m S de DJ,
 101,TL-I -m-B-05762.01,Aşezare,sat CATALOI; La comuna FRECĂŢEI Cataloi-Frecăţei,200 m V de sat şi 500 m S de DJ,"sec. X - XI, Epoca medievală timpurie"
 102,TL-I -m-B-05762.02,Aşezare,sat CATALOI; La comuna FRECĂŢEI Cataloi-Frecăţei,200 m V de sat şi 500 m S de DJ,"sec. II - III p. Chr., Epoca romană"
-103,TL-I -s-B-05763,Villa rustica Cataloi,sat CATALOI; La comuna FRECĂŢEI Nalbant comuna FRECĂŢEI,"600 m V de sat, 600 m N de DJ Cataloi-",Epoca romană timpurie
+103,TL-I -s-B-05763,Villa rustica,sat CATALOI; La comuna FRECĂŢEI Nalbant,"600 m V de sat, 600 m N de DJ Cataloi-",Epoca romană
+104,TL-I -s-B-05764,Situl arheologic de la Cataloi,sat CATALOI; La comuna FRECĂŢEI,"1,1 km V de sat","sec. X - XI, Epoca medievală timpurie"
 105,TL-I -s-B-05765,Tumuli,sat CATALOI; comuna FRECĂŢEI,,
 106,TL-I -m-B-05765.01,Tumuli aliniaţi SE-NV (4),sat CATALOI; Între comuna FRECĂŢEI,"1,5 - 2,5 km SV de sat",Epoca antică
 107,TL-I -m-B-05765.02,Tumuli aliniaţi NE-SV (2),sat CATALOI; La comuna FRECĂŢEI,"cca. 1,2 km V de sat",Epoca antică
@@ -102,7 +111,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 110,TL-I -m-B-05767.01,Villa rustica,"sat CEAMURLIA DE ""La JOS; comuna căii CEAMURLIA DE JOS Jurilovca-Slava podului","Pod”, de jur împrejurul intersecţiei ferate Tulcea-Constanţa cu DJ Rusă, până în apropierea de cale ferată peste pârâul Slava","sec. II p. Chr., Epoca romană"
 111,TL-I -m-B-05767.02,Aşezare,"sat CEAMURLIA DE ""La JOS; comuna căii CEAMURLIA DE JOS Jurilovca-Slava podului","Pod”, de jur împrejurul intersecţiei ferate Tulcea-Constanţa cu DJ Rusă, până în apropierea de cale ferată peste pârâul Slava","Neolitic, Cultura Hamangia"
 112,TL-I -s-B-05768,Tumuli (2),"sat CEAMURLIA DE La JOS; comuna Tulcea-Constanţa CEAMURLIA DE JOS Rusă,",cca. 1 km NV de intersecţia căii ferate cu DJ Jurilovca-Slava de o parte şi de alta acestuia,
-113,TL-I -s-B-05769,Tumuli (7),sat CEAMURLIA DE La JOS; comuna rutieră,"NV de localitate, până la intersecţia Două Cantoane, de o parte şi de",
+113,TL-I -s-B-05769,Tumuli (7),sat CEAMURLIA DE La JOS; comuna rutieră CEAMURLIA DE JOS alta,"NV de localitate, până la intersecţia Două Cantoane, de o parte şi de a DJ Jurilovca-Slava Rusă",
 114,TL-I -s-B-05770,Tumuli (2),sat CEAMURLIA DE La JOS; comuna staţia CEAMURLIA DE JOS,"N de sat, la 750 m şi 1,5 km NV de CFR Ceamurlia de Jos",
 115,TL-I -s-B-05811,Situl arheologic de la Ceamurlia de Jos,"sat CEAMURLIA DE Extravilan, JOS; comuna Ceamurlia CEAMURLIA DE JOS Ceamurlia","la limita de E a satului de Jos, cca. 200 m S de DJ de Jos-Lunca",
 116,TL-I -m-B-05811.01,Aşezare,"sat CEAMURLIA DE Extravilan, JOS; comuna Ceamurlia CEAMURLIA DE JOS Ceamurlia","la limita de E a satului de Jos, cca. 200 m S de DJ de Jos-Lunca",Epoca romană
@@ -110,7 +119,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 118,TL-I -s-B-05771,Aşezare,"sat CHILIA VECHE; La comuna CHILIA ""Câşla VECHE până Gotca","S de sat, între punctele ""Sălişte"" şi Chiliei"", de la limita intravilanului aproape de intersecţia canalului cu canalul principal",Epoca medievală
 119,TL-I -s-B-05772,Tumuli (17),sat CHILIA VECHE; La comuna CHILIA VECHE,"NE, E, SE şi S de sat",
 120,TL-I -s-B-05773,Situl arheologic de la Ciucurova,sat CIUCUROVA; În comuna extremitatea CIUCUROVA,"curtea fostului Ocol Silvic, în de S a localităţii, intravilan",
-121,TL-I -m-B-05773.01,Aşezare,sat CIUCUROVA; În comuna extremitatea CIUCUROVA comuna extremitatea,"curtea fostului Ocol Silvic, în de S a localităţii, intravilan de S a localităţii, intravilan",Epoca medievală Cultura geto - dacică
+121,TL-I -m-B-05773.01,Aşezare,sat CIUCUROVA; În comuna extremitatea CIUCUROVA,"curtea fostului Ocol Silvic, în de S a localităţii, intravilan",Epoca medievală
+122,TL-I -m-B-05773.02,Necropolă getică,sat CIUCUROVA; În comuna extremitatea CIUCUROVA,"curtea fostului Ocol Silvic, în de S a localităţii, intravilan","sec. V-III a. Chr., Latène, Cultura geto - dacică"
 123,TL-I -s-B-05774,Situl arheologic de la Ciucurova,"sat CIUCUROVA; ""La comuna CIUCUROVA","Izvor”, la 1,5 km V de satul Ciucurova",
 124,TL-I -m-B-05774.01,Aşezare,"sat CIUCUROVA; ""La comuna CIUCUROVA","Izvor”, la 1,5 km V de satul Ciucurova",Epoca medievală
 125,TL-I -m-B-05774.02,Aşezare,"sat CIUCUROVA; ""La comuna CIUCUROVA","Izvor”, la 1,5 km V de satul Ciucurova",Epoca romano-bizantină
@@ -118,7 +128,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 127,TL-I -s-A-05775,"Situl arheologic ""Cetatea Zaporojeni""","sat DUNAVĂŢUL DE La JOS; comuna Jos, MURIGHIOL",5 km V de marginea Dunavăţului de pe malul lacului Razelm,"sec. IV - VI p. Chr., Epoca romano-bizantină"
 128,TL-I -m-A-05775.01,Aşezare civilă,"sat DUNAVĂŢUL DE La JOS; comuna fortificaţiei, MURIGHIOL","5 km V de sat, în imediata vecinătate spre N","a sec. IV - VI p. Chr., Epoca romano - bizantină"
 129,TL-I -m-A-05775.02,Fortificaţie,sat DUNAVĂŢUL DE La JOS; comuna Razelm MURIGHIOL,"cca. 5 km V de sat, pe malul lacului","sec. IV - VI p. Chr., Epoca romano - bizantină"
-130,TL-I -s-B-05776,Aşezare getică,"sat DUNAVĂŢUL DE La JOS; comuna cca.2,5 MURIGHIOL JOS; comuna",cca.3 km V de marginea satului şi km NE de cetatea Zaporojeni,"sec. IV - III a. Chr., Latène, Cultura geto - dacică Cultura geto - dacică"
+130,TL-I -s-B-05776,Aşezare getică,"sat DUNAVĂŢUL DE La JOS; comuna cca.2,5 MURIGHIOL",cca.3 km V de marginea satului şi km NE de cetatea Zaporojeni,"sec. IV - III a. Chr., Latène, Cultura geto - dacică"
+131,TL-I -s-B-05777,Aşezare getică,sat DUNAVĂŢUL DE La JOS; comuna MURIGHIOL,"cca. 1,5 km V de limita satului","sec. IV - II a. Chr., Latène, Cultura geto - dacică"
 132,TL-I -s-B-05778,Aşezare,"sat DUNAVĂŢUL DE Intravilan, SUS; comuna MURIGHIOL",sector SE,"sec. X - XI, Epoca medievală timpurie"
 133,TL-I -s-B-05779,Fortificaţie,"sat DUNAVĂŢUL DE Intravilan, SUS; comuna MURIGHIOL",sector N,"sec. IV - VI p. Chr., Epoca romano-bizantină"
 134,TL-I -s-B-05780,"Situl arheologic de la Enisala, punct ""Palanca""","sat ENISALA; Extravilan, comuna SARICHIOI Enisala, nordică,","între „Palanca” şi Cetatea la NE de sat, în extremitatea sa parțial în UAT Babadag",
@@ -127,7 +138,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 137,TL-I -m-B-05780.04,Aşezare,"sat ENISALA; Extravilan, comuna SARICHIOI Enisala, nordică,","între „Palanca” şi Cetatea la NE de sat, în extremitatea sa parțial în UAT Babadag",Epoca romană
 138,TL-I -m-B-05780.05,Aşezare,"sat ENISALA; Extravilan, comuna SARICHIOI Enisala, nordică,","între „Palanca” şi Cetatea la NE de sat, în extremitatea sa parțial în UAT Babadag","sec. IV - II a. Chr., Latène, Cultura geto - dacică"
 139,TL-I -m-B-05780.06,Aşezare,"sat ENISALA; Extravilan, comuna SARICHIOI sa","la NE de sat, în extremitatea nordică, parțial în UAT Babadag","Hallstatt, Cultura Babadag"
-140,TL-I -m-B-05780.07,Aşezare,"sat ENISALA; Extravilan, comuna SARICHIOI sa comuna SARICHIOI Enisala,","la NE de sat, în extremitatea nordică, parțial în UAT Babadag pe malul de S al lacului Babadag","Neolitic, Cultura Hamangia bizantină"
+140,TL-I -m-B-05780.07,Aşezare,"sat ENISALA; Extravilan, comuna SARICHIOI sa","la NE de sat, în extremitatea nordică, parțial în UAT Babadag","Neolitic, Cultura Hamangia"
+141,TL-I -s-B-05781,Fortificaţie,"sat ENISALA; ""Peştera”, comuna SARICHIOI Enisala,",în marginea de NV a satului pe malul de S al lacului Babadag,"sec. IV - VII, Epoca romano- bizantină"
 142,TL-I -s-B-05782,Aşezare rurală,sat ENISALA; Intravilan comuna SARICHIOI de,"Enisala, între centrul şi limita V a satului","sec. I - IV p. Chr., Epoca romană"
 143,TL-I -s-B-05783,Aşezare,sat ENISALA; Intravilan comuna SARICHIOI,Enisala,"sec. XV - XVII, Epoca medievală"
 144,TL-I -s-B-05784,"Situl arheologic de la Enisala, punct ""La Biserică""","sat ENISALA; ""La comuna SARICHIOI parte","Biserică”, intravilan , sector V, de o şi de alta a DJ Enisala-Babadag",
@@ -136,7 +148,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 147,TL-I -m-B-05784.03,Necropolă birituală daco- romană,"sat ENISALA; ""La comuna SARICHIOI de Enisala-Babadag","Biserică”, extravilan, cca 700 m SSV localitate şi cca. 500 m S de DJ","sec. II - III p. Chr., Epoca romană"
 148, TL-I -m-B-05784.04, Aşezare," sat ENISALA; ""La comuna SARICHIOI parţial, DJ"," Biserică”, sector SV, intravilan şi, extravilan, de o parte şi de alta a Enisala-Babadag"," sec. VI - V a. Chr., Latène, Cultura geto - dacică"
 149,TL-I -m-B-05784.05,Aşezare,"sat ENISALA; ""La comuna SARICHIOI parţial, DJ","Biserică”, sector SV, intravilan şi, extravilan, de o parte şi de alta a Enisala-Babadag",Epoca bronzului
-150,TL-I -s-A-05785,"Situl arheologic ""Cetatea Enisala""",sat ENISALA; Cca. comuna SARICHIOI Razelm comuna SARICHIOI Razelm,"1 km NE de Enisala, pe malul lacului", medievală
+150,TL-I -s-A-05785,"Situl arheologic ""Cetatea Enisala""",sat ENISALA; Cca. comuna SARICHIOI Razelm,"1 km NE de Enisala, pe malul lacului",
+151,TL-I -m-A-05785.01,Cetatea Enisala,sat ENISALA; Cca. comuna SARICHIOI Razelm,"1 km NE de Enisala, pe malul lacului","sec. XIV - XV, Epoca medievală"
 152,TL-I -m-A-05785.02,Aşezare,sat ENISALA; Cca. comuna SARICHIOI Razelm,"1 km NE de Enisala, pe malul lacului",Hallstatt
 153,TL-I -s-B-05786,Necropolă,"sat ENISALA; ""Valea comuna SARICHIOI Enisala","Netului”, la cca. 3 km S de satul","sec. V - IV a. Chr., Latène, Cultura geto - dacică"
 154,TL-I -s-B-05787,Aşezare,"sat FĂGĂRAŞU Intravilan, NOU; comuna TOPOLOG",sector central vestic,"sec. I - III p. Chr., Epoca romană"
@@ -147,7 +160,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 159,TL-I -s-B-05792,Aşezare,sat FRECĂŢEI; La comuna FRECĂŢEI 300,limita de SV a satului Frecăţei şi cca. m S de pârâul Teliţa,"sec. II - III p. Chr., Epoca romană, Cultura geto - dacică"
 160,TL-I -s-B-05793,Tumuli (2),"sat FRECĂŢEI; ""Dealul comuna FRECĂŢEI satul","Frecăţeilor”, la cca. 120 m S de omonim şi 1,5 km SSV",
 161, TL-I -s-B-05794, Aşezare," sat GARVĂN; ""Mlăjitul comuna JIJILA satul"," Florilor”,la cca. 0,8-1 km NV de Garvăn, pe malul lacului Jijila"," Latène, Cultura geto - dacică"
-162,TL-I -s-A-05795,"Situl arheologic ""Cetatea Dinogetia""","sat GARVĂN; ""Bisericuţa”, comuna JIJILA Garvăn comuna JIJILA Garvăn",la cca. 2 km NNV de satul, timpurie
+162,TL-I -s-A-05795,"Situl arheologic ""Cetatea Dinogetia""","sat GARVĂN; ""Bisericuţa”, comuna JIJILA Garvăn",la cca. 2 km NNV de satul,
+163,TL-I -m-A-05795.01,Cetatea medievală,"sat GARVĂN; ""Bisericuţa”, comuna JIJILA Garvăn",la cca. 2 km NNV de satul,"sec. X - XII, Epoca medievală timpurie"
 164,TL-I -m-A-05795.02,Cetatea romano-bizantină,"sat GARVĂN; ""Bisericuţa”, comuna JIJILA Garvăn",la cca. 2 km NNV de satul,"sec. IV - VI p. Chr., Epoca romano-bizantină"
 165,TL-I -m-A-05795.03,Aşezare civilă,"sat GARVĂN; ""Bisericuţa”, comuna JIJILA Garvăn",la cca. 2 km NNV de satul,"sec. IV - VI p. Chr., Epoca romano-bizantină"
 166,TL-I -m-A-05795.04,Aşezare civilă,"sat GARVĂN; ""Bisericuţa”, comuna JIJILA Garvăn",la cca. 2 km NNV de satul,"sec. IV - VI p. Chr., Epoca romano-bizantină"
@@ -157,7 +171,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 170,TL-I -s-B-05798,Aşezare rurală fortificată,"sat HORIA; comuna ""Baraj” HORIA 1,2 de","şi ”Muchea lui Găzdaru”, la cca. km NV de satul Horia, pe terasa înaltă pe malul drept al Taiţei","sec. IV p. Chr., Epoca romană"
 171,TL-I -s-B-05799,Aşezare rurală,sat IAZURILE; La comuna VALEA Iazurile-Colina NUCARILOR,"2 km E de satul Iazurile, la N de DJ","sec. II - IV p. Chr., Epoca romană"
 172,TL-I -s-B-05800,Aşezare,"sat IAZURILE; ""Silişte”, comuna VALEA respectiv NUCARILOR între","la 1 km SSV de satul Iazurile, 1,7 km SV de satul Iazurile, lacul Agighiol și lacul Calica",sec. XVII - XVIII
-173,TL-I -s-B-05801,Tumuli aliniaţi NVV-SEE (4),"sat IAZURILE; Extravilan, comuna VALEA de","la limita de E a localităţii, la N DJ Iazurile-Colina",
+173,TL-I -s-B-05801,Tumuli aliniaţi NVV-SEE (4),"sat IAZURILE; Extravilan, comuna VALEA de NUCARILOR","la limita de E a localităţii, la N DJ Iazurile-Colina",
 174,TL-I -s-B-05802,Tumul,sat IAZURILE; La comuna VALEA NUCARILOR,"1,3 km V de satul Iazurile",
 175,TL-I -s-A-05803,Fortificaţia de la Ilganii de Jos,"sat ILGANII DE JOS; Intravilan, comuna NUFĂRU aproape","la marginea de SV a satului, de malul Dunării","sec. IV - VI p. Chr., Epoca romano-bizantină"
 176,TL-I -s-A-05804,"Situl arheologic ""Cetatea Noviodunum""","oraş ISACCEA ""La limita subtraversare","Pontonul Vechi”, la cca. 1 km E de oraşului şi cca. 1 km V de punct magistrale gaz metan",
@@ -166,7 +180,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 179,TL-I -m-A-05804.03,Aşezare civilă,"oraş ISACCEA ""La limita subtraversare","Pontonul Vechi”, la cca. 1 km E de oraşului şi cca. 1 km V de punct magistrale gaz metan","sec. I - VII, Epoca romano- bizantină"
 180,TL-I -m-A-05804.04,Aşezare getică,"oraş ISACCEA ""La limita subtraversare","Pontonul Vechi”, la cca. 1 km E de oraşului şi cca. 1 km V de punct magistrale gaz metan","Latène, Cultura geto - dacică"
 181,TL-I -m-A-05804.05,Aşezare,oraş ISACCEA În,NE oraşului,"sec. VIII - XV, Epoca medievală"
-182,TL-I -m-A-05804.06,Tumuli Izvoarele,"oraş ISACCEA ""Movilele Vechi"" comuna","Dese"", la 3 km S de ""Pontonul",sec. I - II p. Chr.
+182,TL-I -m-A-05804.06,Tumuli,"oraş ISACCEA ""Movilele Vechi""","Dese"", la 3 km S de ""Pontonul",sec. I - II p. Chr.
+183,TL-I -s-B-05805,Situl arheologic de la Izvoarele,sat IZVOARELE; comuna IZVOARELE,,
 184,TL-I -m-B-05805.01,Castru,sat IZVOARELE; La comuna nordic IZVOARELE,"cca. 1,2 km SV de sat, pe versantul al dealului Consul",Epoca romană
 185,TL-I -m-B-05805.02,Aşezare rurală,sat IZVOARELE; La comuna malul IZVOARELE,cca. 1km V de sat şi cca. 500 m N de stâng al Taiţei,Epoca romană târzie
 186,TL-I -s-B-05806,Villa rustica,sat JIJILA; comuna La JIJILA,3 km SE de satul Jijila,Epoca romană
@@ -175,7 +190,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 189,TL-I -m-B-05807.02,Aşezare,"sat JURILOVCA; Intravilan, comuna JURILOVCA","sector SV și, parțial, extravilan","sec. VI - V a. Chr., Hallstatt, Cultura Babadag"
 190,TL-I -m-B-05807.03,Aşezare,"sat JURILOVCA; Intravilan, comuna JURILOVCA","sector SV și, parțial, extravilan",Epoca romană
 191,TL-I -s-A-05808,Situl arheologic de la Jurilovca,"sat JURILOVCA; ""Capul comuna localitate; JURILOVCA km","Doloşman”, la 6 km E de ""Insula Bisericuţa”, la cca. 2 SE de ”Capul Doloşman”",
-192,TL-I -m-A-05808.01,Cetatea Orgame - Argamum,"sat JURILOVCA; ""Capul comuna","Doloşman”, la 6 km E de localitate","sec. VII a. Chr. - sec. VII p. Chr., Epoca greco-romană"
+192,TL-I -m-A-05808.01,Cetatea Orgame - Argamum,"sat JURILOVCA; ""Capul comuna JURILOVCA","Doloşman”, la 6 km E de localitate","sec. VII a. Chr. - sec. VII p. Chr., Epoca greco-romană"
 193,TL-I -m-A-05808.02,Aşezarea civilă a cetăţii Orgame - Argamum,"sat JURILOVCA; ""Capul comuna JURILOVCA","Doloşman”, la 6 km E de localitate","sec. VII a. Chr. - sec. VII p. Chr., Epoca greco-romană"
 194,TL-I -m-A-05808.03,Necropola cetăţii Orgame - Argamum,"sat JURILOVCA; ""Capul comuna JURILOVCA","Doloşman”, la 6 km E de localitate","sec. VII a. Chr. - sec. VII p. Chr., Epoca greco-romană"
 195,TL-I -m-A-05808.04,"Aşezarea medievală din ""Insula Bisericuţa""",sat JURILOVCA; la comuna JURILOVCA,cca. 2 km SE de ”Capul Doloşman”,"sec. X - XII, Epoca medievală timpurie"
@@ -184,7 +199,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 198,TL-I -m-A-05808.07,"Aşezarea greacă din ""Insula Bisericuţa""",sat JURILOVCA; la comuna JURILOVCA,cca. 2 km SE de ”Capul Doloşman”,"sec. V - IV a. Chr., Epoca greacă"
 199,TL-I -s-B-05809,Tumuli (16),sat JURILOVCA; La comuna JURILOVCA,N de satul Jurilovca,
 200,TL-I -s-B-05810,Situl arheologic de la Luminiţa,sat LUMINIŢA; parțial comuna TOPOLOG S,"intravilan și extravilan, la limita de a satului Luminiţa",
-201,TL-I -m-B-05810.01,Aşezare,sat LUMINIŢA; parțial comuna TOPOLOG S comuna TOPOLOG S,"intravilan și extravilan, la limita de a satului Luminiţa a satului Luminiţa","sec. IX - X, Epoca medievală timpurie romană"
+201,TL-I -m-B-05810.01,Aşezare,sat LUMINIŢA; parțial comuna TOPOLOG S,"intravilan și extravilan, la limita de a satului Luminiţa","sec. IX - X, Epoca medievală timpurie"
+202,TL-I -m-B-05810.02,Villa rustica,sat LUMINIŢA; parțial comuna TOPOLOG S,"intravilan și extravilan, la limita de a satului Luminiţa","sec. IV - VII d. Hr, Epoca romană"
 203,TL-I -s-B-05812,Aşezare,sat LUNCA; La comuna de CEAMURLIA DE JOS extravilan,"marginea de E a satului Lunca şi la S DJ Lunca-Vişina, intravilan şi","sec. II - VI p. Chr., Epoca romană"
 204,TL-I -s-B-05813,Aşezare,sat LUNCA; La comuna NV CEAMURLIA DE JOS,cca. 200 m NE de satul Lunca şi 150 m de DJ Lunca-Vişina,Epoca romană
 205,TL-I -s-B-05814,Aşezare,sat LUNCA; La comuna Goloviţa CEAMURLIA DE JOS,"2,5 km E de sat, pe malul lacului","Eneolitic, Cultura Gumelniţa"
@@ -193,7 +209,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 208,TL-I -s-B-05817,Tumuli (4),"sat LUNCA; ""Dealul comuna CEAMURLIA DE JOS","Caraiuc”, la NE de sat",
 209,TL-I -s-B-05818,Aşezare getică,"sat LUNCAVIŢA; ""Pietricica”, comuna LUNCAVIŢA",la cca. 150 m E de sat,"Latène, Cultura geto - dacică"
 210,TL-I -s-A-05819,Aşezarea fortificată din Luncaviţa,"sat LUNCAVIŢA; ""La comuna LUNCAVIŢA","Cetăţuia”, la 3,5 km S de sat","Eneolitic, Cultura Gumelniţa"
-211,TL-I -s-B-05820,Situl arheologic de la Luncaviţa,"sat LUNCAVIŢA; ""La comuna localitate","Milan”, la cca. 1,6 km NNV de",
+211,TL-I -s-B-05820,Situl arheologic de la Luncaviţa,"sat LUNCAVIŢA; ""La comuna localitate LUNCAVIŢA","Milan”, la cca. 1,6 km NNV de",
 212,TL-I -m-B-05820.01,Fortificaţie,"sat LUNCAVIŢA; ""La comuna localitate LUNCAVIŢA","Milan”, la cca. 1,6 km NNV de","sec. IV - VI p. Chr., Epoca romano-bizantină"
 213,TL-I -m-B-05820.02,Aşezare,"sat LUNCAVIŢA; ""La comuna localitate LUNCAVIŢA","Milan”, la cca. 1,6 km NNV de","sec. IV - VI p. Chr., Epoca romano-bizantină"
 214,TL-I -s-B-05821,Aşezare rurală,"sat LUNCAVIŢA; ""La comuna de LUNCAVIŢA Milan","pepiniera Babuşca”, la cca. 350 m V așezarea romană târzie din punctul La",Epoca romano-bizantină
@@ -201,7 +217,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 216,TL-I -m-B-05957.01,Aşezare,"sat LUNCAVIŢA; ""Pădurea comuna Luncaviţa LUNCAVIŢA Boian-Gumelniţa și","Chitău”, cca. 4,5 km SV de satul şi cca. 3,5 km V de aşezarea de la Luncaviţa, parțial în UAT Jijila și UAT Văcăreni",Epoca romano-bizantină
 217,TL-I -m-B-05957.02,Aşezare,"sat LUNCAVIŢA; ""Pădurea comuna Luncaviţa LUNCAVIŢA Boian-Gumelniţa și","Chitău”, cca. 4,5 km SV de satul şi cca. 3,5 km V de aşezarea de la Luncaviţa, parțial în UAT Jijila și UAT Văcăreni",Neolitic
 218,TL-I -s-B-05822,Situl arheologic de la Mahmudia,"sat MAHMUDIA; Intravilan, comuna MAHMUDIA",sector central nordic,
-219,TL-I -m-B-05822.01,Aşezare,"sat MAHMUDIA; Intravilan, comuna",sector central nordic,Hallstatt
+219,TL-I -m-B-05822.01,Aşezare,"sat MAHMUDIA; Intravilan, comuna MAHMUDIA",sector central nordic,Hallstatt
 220,TL-I -m-B-05822.02,Necropolă,"sat MAHMUDIA; Intravilan, comuna MAHMUDIA",sector central nordic,Hallstatt
 221,TL-I -s-B-05823,Necropolă plană de incineraţie,"sat MAHMUDIA; ""Cairacul comuna Mahmudia MAHMUDIA","Mare”, la cca. 3,5 km S de satul","sec. VI - V a. Chr., Hallstatt târziu, Cultura Ferigile - Bârseşti"
 222,TL-I -s-B-05824,Aşezare rurală,sat MAHMUDIA; La comuna stânga MAHMUDIA,"cca. 1 km SE de satul Mahmudia, în DJ Mahmudia-Murighiol","sec. IV p. Chr., Epoca romană"
@@ -210,7 +226,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 225,TL-I -m-B-05825.02,Aşezare,sat MAHMUDIA; La comuna are MAHMUDIA mărginit,"cca. 2 km SE de sat, pe un platou care la S DJ Mahmudia -Murighiol şi este la N de canalul Filip Roşu","sec. IV - II a. Chr., Hallstatt"
 226,TL-I -s-B-05828,Aşezare,sat MAHMUDIA; La comuna cca. MAHMUDIA,"cca. 3,3 km SE de satul Mahmudia, 300 m N de DJ Mahmudia-Murighiol","sec. XI, Epoca medievală timpurie"
 227,TL-I -s-B-05829,Tumul,sat MAHMUDIA; La comuna dreapta MAHMUDIA,"cca. 3 km SSE de satul Mahmudia, în DJ Mahmudia-Murighiol",
-228,TL-I -s-B-05830,Tumul,sat MAHMUDIA; La comuna dreapta,"cca. 3,2 km SSE de satul Mahmudia, în DJ Mahmudia-Murighiol",
+228,TL-I -s-B-05830,Tumul,sat MAHMUDIA; La comuna dreapta MAHMUDIA,"cca. 3,2 km SSE de satul Mahmudia, în DJ Mahmudia-Murighiol",
 229,TL-I -s-B-05831,Tumuli (9),"sat MAHMUDIA; Între comuna Mahmudia, MAHMUDIA Vârtop; se","1,5 km şi 2,5 km SSE de satul în apropierea dealului au orientarea SE-NV, întinzându- pe cca. 1 km",
 230,TL-I -s-B-05832,Tumuli (21),sat MAHMUDIA; Între comuna acces MAHMUDIA de Mahmudia,"DJ Tulcea-Murighiol, drumul de spre exploatarea minieră şi limitele S ale teritoriului comunelor şi Beştepe",
 231,TL-I -s-A-05833,"Situl arheologic ""Cetatea Salsovia""",sat MAHMUDIA; La comuna Mahmudia MAHMUDIA,700 m NV de limita vestică a satului,
@@ -219,7 +235,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 234,TL-I -s-B-05834,Aşezare,sat MAHMUDIA; În comuna MAHMUDIA,"proximitatea cetăţii romane, spre V","sec. IV - I a. Chr, Epoca elenistică"
 235,TL-I -s-B-05835,Aşezare getică,sat MALCOCI; La comuna NUFĂRU DJ,"cca. 800 m E de satul Malcoci, la S de Tulcea-Nufăru","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
 236,TL-I -s-B-05836,Situl arheologic de la Malcoci,sat MALCOCI; La comuna NUFĂRU,"cca. 0,5 km NV de satul Malcoci",
-237,TL-I -m-B-05836.01,Aşezare fortificată,sat MALCOCI; La comuna NUFĂRU comuna NUFĂRU,"cca. 0,5 km NV de satul Malcoci",Epoca romană dacică
+237,TL-I -m-B-05836.01,Aşezare fortificată,sat MALCOCI; La comuna NUFĂRU,"cca. 0,5 km NV de satul Malcoci",Epoca romană
+238,TL-I -m-B-05836.02,Aşezare,sat MALCOCI; La comuna NUFĂRU,"cca. 0,5 km NV de satul Malcoci","Latène, Cultura geto - dacică"
 239,TL-I -m-B-05836.03,Aşezare,sat MALCOCI; La comuna NUFĂRU,"cca. 0,5 km NV de satul Malcoci",Hallstatt
 240,TL-I -s-A-21047,Așezare neo-eneolitică,"sat MALIUC; com. ”Taraschina”, MALIUC","extravilan, T24, Hs313",mileniul V a. Chr.- sec. XI p. Chr
 241,TL-I -s-A-05837,"Situl arheologic ""Cetatea Arrubium""","oraş MĂCIN ""La pe braţului","Cetate”, la marginea de SV a oraşului, o terasă înaltă aflată pe malul drept al Măcin",
@@ -229,7 +246,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 245,TL-I -m-A-05837.04,Cimitir musulman,oraş MĂCIN Intravilanul Orient,"oraşului Măcin, sector S, str. nr. 5",Epoca medievală
 246,TL-I -m-A-05837.05,Necropolă romană,oraş MĂCIN Intravilanul,"oraşului Măcin, sector S",Epoca romană
 247,TL-I -s-B-05838,Turris,"sat MIHAI BRAVU; ""Movila comuna MIHAI BRAVU","Bisericuţa”, la 2 km SV de sat","sec. IV p. Chr., Epoca romană"
-248,TL-I -s-B-05839,Tumuli (9) Mihai Bravu,sat MIHAI BRAVU; La comuna MIHAI cca. BRAVU malul comuna MIHAI la,"cca. 2,5 km SE de satul Mihai Bravu şi 1,5 km SSE de satul Satu Nou, pe sudic al bălţii Topraichioi S de DJ Mihai Bravu-Turda",
+248,TL-I -s-B-05839,Tumuli (9),sat MIHAI BRAVU; La comuna MIHAI cca. BRAVU malul,"cca. 2,5 km SE de satul Mihai Bravu şi 1,5 km SSE de satul Satu Nou, pe sudic al bălţii Topraichioi",
+249,TL-I -s-B-05840,Situl arheologic de la Mihai Bravu,"sat MIHAI BRAVU; ""Taşlâc”, comuna MIHAI la BRAVU","extravilan, cca. 500 m V de sat, S de DJ Mihai Bravu-Turda",
 250,TL-I -m-B-05840.01,Aşezare,"sat MIHAI BRAVU; ""Taşlâc”, comuna MIHAI la BRAVU","extravilan, cca. 500 m V de sat, S de DJ Mihai Bravu-Turda","sec. X - XI, Epoca medievală timpurie"
 251,TL-I -m-B-05840.02,Quadriburgium,"sat MIHAI BRAVU; ""Taşlâc”, comuna MIHAI S BRAVU",cca. 700 m V de sat şi cca. 50 m de DJ Mihai Bravu-Turda,"sec. IV p. Chr., Epoca romană"
 252,TL-I -m-B-05840.03,Aşezare rurală,"sat MIHAI BRAVU; ""Taşlâc”, comuna MIHAI la BRAVU","extravilan, cca. 500 m V de sat, S de DJ Mihai Bravu-Turda","sec. II - IV p. Chr., Epoca romană"
@@ -237,14 +255,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 254,TL-I -s-B-05841,Aşezare,sat MIHAI BRAVU; La comuna MIHAI stâng BRAVU,"cca. 1,6 km NNV de sat, pe malul al Taiţei","sec. IX - X, Epoca medievală timpurie"
 255,TL-I -s-B-05842,Aşezare,sat MIHAI BRAVU; La comuna MIHAI al BRAVU,"cca. 2 km NNV de sat, pe malul stâng Taiţei","Hallstatt, Cultura Babadag"
 256,TL-I -s-B-05826,Aşezare getică,sat MURIGHIOL; La comuna cca. MURIGHIOL de de,"cca. 3,2 km SE de satul Mahmudia şi 2,7 km NV de satul Murighiol, la N DJ Mahmudia-Murighiol, cca. 500 m N punctul ""Ghiolul Pietrei""","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
-257,TL-I -s-B-05843,"Aşezare rurală Halmyris""",sat MURIGHIOL; La comuna Murighiol-Dunavăţul MURIGHIOL comuna DJ,"cca. 1 km SE de sat, în stânga DJ de Sus Murighiol-Dunavăţul de Sus","sec. II - IV p. Chr., Epoca romană"
+257,TL-I -s-B-05843,Aşezare rurală,sat MURIGHIOL; La comuna Murighiol-Dunavăţul MURIGHIOL,"cca. 1 km SE de sat, în stânga DJ de Sus","sec. II - IV p. Chr., Epoca romană"
+258,TL-I -s-A-05844,"Situl arheologic ""Cetatea Halmyris""",sat MURIGHIOL; La comuna DJ MURIGHIOL,"1,6 km SE de Murighiol şi 50 m N de Murighiol-Dunavăţul de Sus",
 259,TL-I -m-A-05844.01,Cetatea Halmyris,sat MURIGHIOL; La comuna DJ MURIGHIOL,"1,6 km SE de Murighiol şi 50 m N de Murighiol-Dunavăţul de Sus","sec. IV a. Chr. - VII p. Chr., Epoca greco-romană"
 260,TL-I -m-A-05844.02,Aşezare civilă,sat MURIGHIOL; La comuna cetatea MURIGHIOL Murighiol-Dunavăţul,"1,6 km SE de Murighiol, la E de Halmyris, la N şi la S de DJ de Sus","sec. IV a. Chr. - VII p. Chr., Epoca greco-romană"
 261,TL-I -m-A-05844.03,Necropolă,sat MURIGHIOL; La comuna DJ MURIGHIOL şi Halmyris,"1,6 km SE de Murighiol, la N şi la S de Murighiol-Dunavăţul de Sus, precum pe dealurile de la S de cetatea","sec. IV a. Chr - VII p. Chr., Epoca greco-romană"
 262,TL-I -s-B-05845,Situl arheologic de la Murighiol,"sat MURIGHIOL; Între comuna Murighiol, MURIGHIOL Murighiol, Dunavăţul","800 m - 1,5 km SSE de satul pe versantul de N al dealului la S de DJ Murighiol- de Sus",
 263,TL-I -m-B-05845.01,Aşezare,"sat MURIGHIOL; Între comuna Murighiol, MURIGHIOL Murighiol, Dunavăţul","800 m - 1,5 km SSE de satul pe versantul de N al dealului la S de DJ Murighiol- de Sus",Epoca medievală
 264,TL-I -m-B-05845.02,Aşezare rurală,"sat MURIGHIOL; Între comuna Murighiol, MURIGHIOL Murighiol, Dunavăţul","800 m - 1,5 km SSE de satul pe versantul de N al dealului la S de DJ Murighiol- de Sus",Epoca romană
-265,TL-I -s-B-05846,"Aşezare getică Murighiol, punct ""Ghiolul","sat MURIGHIOL; La comuna lângă MURIGHIOL vestică punctul comuna Murighiol,","NV de ghiolul ”Sărătura Murighiol”, dealul Duna, la 1,5 km SV de limita a satului şi cca. 1,5 km SE de ""Ghiolul Pietrei” între DJ Mahmudia-Murighiol","Latène, Cultura geto - dacică"
+265,TL-I -s-B-05846,Aşezare getică,sat MURIGHIOL; La comuna lângă MURIGHIOL vestică punctul,"NV de ghiolul ”Sărătura Murighiol”, dealul Duna, la 1,5 km SV de limita a satului şi cca. 1,5 km SE de ""Ghiolul Pietrei”","Latène, Cultura geto - dacică"
+266,TL-I -s-B-05847,"Situl arheologic de la Murighiol, punct ""Ghiolul Pietrei”","sat MURIGHIOL; ""Ghiolul comuna Murighiol, MURIGHIOL şi","Pietrei”, la cca. 2 km NV de satul între DJ Mahmudia-Murighiol malul lacului",
 267,TL-I -m-B-05847.01,Aşezare,"sat MURIGHIOL; ""Ghiolul comuna Murighiol, MURIGHIOL şi","Pietrei”, la cca. 2 km NV de satul între DJ Mahmudia-Murighiol malul lacului",Epoca medievală timpurie
 268,TL-I -m-B-05847.02,Aşezare,"sat MURIGHIOL; ""Ghiolul comuna Murighiol, MURIGHIOL şi","Pietrei”, la cca. 2 km NV de satul între DJ Mahmudia-Murighiol malul lacului","sec. II - I a. Chr., Latène, Cultura geto - dacică"
 269,TL-I -m-B-05847.03,Aşezare,"sat MURIGHIOL; ""Ghiolul comuna Murighiol, MURIGHIOL şi","Pietrei”, la cca. 2 km NV de satul între DJ Mahmudia-Murighiol malul lacului","Hallstatt, Cultura Babadag"
@@ -253,7 +273,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 272,TL-I -m-B-05848.02,Necropolă,"sat MURIGHIOL; Intravilan, comuna Murighiol MURIGHIOL",aproape de malul lacului,"sec. IV - II a. Chr., Latène, Cultura geto - dacică"
 273,TL-I -s-B-05849,Tumuli,sat MURIGHIOL; Pe comuna MURIGHIOL,întreg teritoriul comunei Murighiol,
 274,TL-I -s-B-05850,Aşezare rurală,sat NALBANT; La comuna NALBANT,cca. 2 km NE de sat,Epoca romană
-275,TL-I -s-B-05851,Aşezare rurală,sat NALBANT; La comuna NALBANT comuna NALBANT,limita de E a satului Nalbant,Epoca romană - dacică
+275,TL-I -s-B-05851,Aşezare rurală,sat NALBANT; La comuna NALBANT,limita de E a satului Nalbant,Epoca romană
+276,TL-I -s-B-05852,Aşezare rurală getică,sat NALBANT; La comuna NALBANT,200 m SE de satul Nalbant,"Epoca romană, Cultura geto - dacică"
 277,TL-I -s-B-05853,Aşezare,sat NALBANT; Intravilan comuna NALBANT,,"sec. III - II a. Chr., Latène, Cultura geto - dacică"
 278,TL-I -s-B-05854,Tumul,sat NALBANT; La comuna NALBANT apropiera,"1,5 km NE de satul Nalbant, în DN Nalbant-Cataloi",
 279,TL-I -s-B-05855,Tumuli (3),sat NALBANT; La comuna NALBANT DN,"2 km VSV de satul Nalbant, în dreapta Nalbant-Nicolae Bălcescu",
@@ -263,7 +284,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 283,TL-I -s-B-05858,Aşezare,sat NICULIŢEL; La comuna NICULIŢEL,cca. 350 m V de mânăstirea Saun,Epoca romană
 284,TL-I -s-B-05859,"Situl arheologic de la Niculiţel, punct ""Ceairul lui Iancu""","sat NICULIŢEL; ""Ceairul comuna NICULIŢEL de","lui Iancu”, între 3 şi 3, 5 km NE sat",
 285,TL-I -m-B-05859.01,Aşezare,"sat NICULIŢEL; ""Ceairul comuna NICULIŢEL de","lui Iancu”, între 3 şi 3, 5 km NE sat",Epoca romano-bizantină
-286,TL-I -m-B-05859.02,Aşezare,"sat NICULIŢEL; ""Ceairul comuna NICULIŢEL de comuna NICULIŢEL de","lui Iancu”, între 3 şi 3, 5 km NE sat sat",Epoca daco-romană dacică
+286,TL-I -m-B-05859.02,Aşezare,"sat NICULIŢEL; ""Ceairul comuna NICULIŢEL de","lui Iancu”, între 3 şi 3, 5 km NE sat",Epoca daco-romană
+287,TL-I -m-B-05859.03,Aşezare,"sat NICULIŢEL; ""Ceairul comuna NICULIŢEL de","lui Iancu”, între 3 şi 3, 5 km NE sat","Latène, Cultura geto - dacică"
 288,TL-I -s-B-05860,"Situl arheologic de la Niculiţel, punct ""Cetăţuie""","sat NICULIŢEL; ""Cetăţuie”, comuna NICULIŢEL T22,","la 3 km V de satul Niculiţel, P1105/1",
 289,TL-I -m-B-05860.01,Biserica treflată,"sat NICULIŢEL; ""Cetăţuie”, comuna NICULIŢEL T22,","la 3 km V de satul Niculiţel, P1105/1","sec. XI - XII, Epoca medievală"
 290,TL-I -m-B-05860.02,Aşezare,"sat NICULIŢEL; ""Cetăţuie”, comuna NICULIŢEL T22,","la 3 km V de satul Niculiţel, P1105/1",Epoca romano-bizantină
@@ -275,7 +297,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 296,TL-I -m-A-05864.02,Necropolă,sat NUFĂRU; Intravilan comuna NUFĂRU,,"sec. XI - XII, Epoca medievală timpurie"
 297,TL-I -m-A-05864.03,Fortificaţie romană,sat NUFĂRU; Intravilan comuna NUFĂRU,,"sec. IV - VI p. Chr., Epoca romană"
 298,TL-I -m-A-05864.04,Aşezare,sat NUFĂRU; Intravilan comuna NUFĂRU,,"sec. II - VI p. Chr., Epoca romană"
-299,TL-I -m-A-05864.05,Aşezare,sat NUFĂRU; Intravilan comuna NUFĂRU comuna NUFĂRU,,"sec. V - IV a. Chr., Latène timpuriu, Cultura geto - dacică"
+299,TL-I -m-A-05864.05,Aşezare,sat NUFĂRU; Intravilan comuna NUFĂRU,,"sec. V - IV a. Chr., Latène timpuriu, Cultura geto - dacică"
+300,TL-I -m-A-05864.06,Aşezare,sat NUFĂRU; Intravilan comuna NUFĂRU,,"Neolitic, Cultura Gumelniţa"
 301,TL-I -s-B-05865,Aşezare,sat NUFĂRU; Între comuna NUFĂRU de,"500-800 m SE de satul Nufăru, la S DJ Nufăru-Victoria","sec. XI - XIII, Epoca medievală timpurie"
 302,TL-I -s-B-05866,Situl arheologic de la Nufăru,sat NUFĂRU; Între comuna NUFĂRU parte,"1,4-1,8 km SE de satul Nufăru, de o și de alta a DJ Nufăru-Victoria",
 303,TL-I -m-B-05866.01,Aşezare,sat NUFĂRU; Între comuna NUFĂRU parte,"1,4-1,8 km SE de satul Nufăru, de o și de alta a DJ Nufăru-Victoria","sec. II - III p. Chr., Epoca romană"
@@ -287,7 +310,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 309,TL-I -s-B-05870,Situl arheologic de la Nufăru,sat NUFĂRU; Intravilan comuna NUFĂRU partea,"SE şi, parţial, extravilan, pe dreaptă a DJ Nufăru-Victoria",
 310,TL-I -m-B-05870.01,Aşezare,sat NUFĂRU; Intravilan comuna NUFĂRU partea,"SE şi, parţial, extravilan, pe dreaptă a DJ Nufăru-Victoria","sec. X - XII, Epoca medievală timpurie"
 311,TL-I -m-B-05870.02,Aşezare,sat NUFĂRU; Intravilan comuna NUFĂRU partea,"SE şi, parţial, extravilan, pe dreaptă a DJ Nufăru-Victoria","sec. III - I a. Chr., Latène, Cultura geto - dacică"
-312,TL-I -s-B-05871,"Necropolă de inhumaţie Beroe""","sat NUFĂRU; Intravilan comuna NUFĂRU comuna OSTROV Ostrov,","Nufăru, sector S, și extravilan pe promontoriul înalt de pe","sec. XI, Epoca medievală"
+312,TL-I -s-B-05871,Necropolă de inhumaţie,sat NUFĂRU; Intravilan comuna NUFĂRU,"Nufăru, sector S, și extravilan","sec. XI, Epoca medievală"
+313,TL-I -s-A-05872,"Situl arheologic ""Cetatea Beroe""","sat OSTROV; ""Piatra comuna OSTROV Ostrov, malul","Frecăţei”, la cca. 2 km S de satul pe promontoriul înalt de pe drept al braţului Măcin",
 314,TL-I -m-A-05872.01,Cetatea Beroe,"sat OSTROV; ""Piatra comuna OSTROV Ostrov, malul","Frecăţei”, la cca. 2 km S de satul pe promontoriul înalt de pe drept al braţului Măcin","sec. II - VII, Epoca romană"
 315,TL-I -m-A-05872.02,Aşezare civilă,"sat OSTROV; ""Piatra comuna OSTROV",Frecăţei”,"sec. II - VII, Epoca romană"
 316,TL-I -m-A-05872.03,Necropolă,sat OSTROV; Între comuna OSTROV partea,"100 şi 500 m E de cetatea Beroe, pe stângă a DJ Ostrov-Dăeni","sec. II - XII, Epoca romană, Epoca medievală timpurie"
@@ -297,7 +321,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 320,TL-I -s-B-05874,Aşezare,"sat PARCHEŞ; ""Iarba comuna SOMOVA Parcheş","Dulce”, la cca. 800 m V de satul",Epoca medievală târzie
 321,TL-I -s-B-05875,Aşezare getică,sat PARCHEŞ; La comuna SOMOVA sudic,"limita de N a satului Parcheş, pe malul al lacului Parcheş","sec. III-II a. Chr, Latène, Cultura geto - dacică"
 322,TL-I -s-B-05876,Fortificaţie,"sat PECENEAGA; ""La comuna PECENEAGA",Cardon”,Epoca romană
-323,TL-I -s-B-05877,"Situl arheologic de la Peceneaga, punct ""La Piscul Sărat""","sat PECENEAGA; ""La comuna localitate, PECENEAGA Măcin comuna localitate,","Piscul Sărat”, la cca. 2,5 km S de pe malul drept al braţului pe malul drept al braţului",
+323,TL-I -s-B-05877,"Situl arheologic de la Peceneaga, punct ""La Piscul Sărat""","sat PECENEAGA; ""La comuna localitate, PECENEAGA Măcin","Piscul Sărat”, la cca. 2,5 km S de pe malul drept al braţului",
+324,TL-I -m-B-05877.01,Aşezare,"sat PECENEAGA; ""La comuna localitate, PECENEAGA Măcin","Piscul Sărat”, la cca. 2,5 km S de pe malul drept al braţului",Epoca medievală timpurie
 325,TL-I -m-B-05877.02,Aşezare,"sat PECENEAGA; ""La comuna localitate, PECENEAGA Măcin","Piscul Sărat”, la cca. 2,5 km S de pe malul drept al braţului",Epoca romană
 326,TL-I -m-B-05877.03,Aşezare,"sat PECENEAGA; ""La comuna localitate, PECENEAGA Măcin","Piscul Sărat”, la cca. 2,5 km S de pe malul drept al braţului","Latène, Cultura geto - dacică"
 327,TL-I -s-B-05878,"Situl arheologic de la Peceneaga, punct ""Dealul Cazacului""","sat PECENEAGA; ""Dealul comuna de PECENEAGA Peceneaga-Ostrov","Cazacului”, la cca. 700-800 m S localitate, pe partea dreaptă a DJ",
@@ -306,7 +331,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 330,TL-I -s-B-05879,Aşezare,sat PERIPRAVA; La comuna C. A. ROSETTI,S şi SV de satul Periprava,Epoca medievală
 331,TL-I -s-B-05880,Aşezare rurală,sat PLOPU; Pe comuna Beibugeac” MURIGHIOL,"malul de V al ghiolului ""Sărătura","sec. IV - VI p. Chr., Epoca romano-bizantină"
 332,TL-I -s-B-05881,Aşezare,sat POŞTA; comuna La FRECĂŢEI Poşta,cca. 500 m de marginea de S a satului,"sec. X - XI, Epoca medievală timpurie"
-333,TL-I -s-B-05882,Situl arheologic de la Poşta,sat POŞTA; comuna La FRECĂŢEI de FRECĂŢEI de,300 m NV de satul Poşta şi 300 m SV DJ Poşta-Teliţa DJ Poşta-Teliţa,
+333,TL-I -s-B-05882,Situl arheologic de la Poşta,sat POŞTA; comuna La FRECĂŢEI de,300 m NV de satul Poşta şi 300 m SV DJ Poşta-Teliţa,
+334,TL-I -m-B-05882.01,Aşezare,sat POŞTA; comuna La FRECĂŢEI de,300 m NV de satul Poşta şi 300 m SV DJ Poşta-Teliţa,Epoca medievală
 335,TL-I -m-B-05882.02,Aşezare,sat POŞTA; comuna La FRECĂŢEI de,300 m NV de satul Poşta şi 300 m SV DJ Poşta-Teliţa,"sec. IV - III a. Chr., Latène, Cultura geto - dacică"
 336,TL-I -s-B-05883,Situl arheologic de la Poşta,sat POŞTA; comuna La FRECĂŢEI,cca. 1 km NV de satul Poşta,
 337,TL-I -m-B-05883.01,Necropolă,sat POŞTA; comuna La FRECĂŢEI,cca. 1 km NV de satul Poşta,"sec. II - III p. Chr., Epoca romană"
@@ -316,7 +342,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 341,TL-I -s-B-05886,Aşezare,sat POŞTA; comuna Intravilanul FRECĂŢEI sudic,"satului Poşta, sector central","sec. XVII - XVIII, Epoca medievală"
 342,TL-I -s-B-05887,Villa rustica,"sat POŞTA; comuna Intravilan, FRECĂŢEI satului",aproape de limita sudică a,Epoca romană
 343,TL-I -s-B-05888,Fortificaţia de la Rachelu,sat RACHELU; În comuna drept LUNCAVIŢA,"marginea de N a satului, pe malul al bălţii Dunării",Epoca romană
-344,TL-I -s-B-05889,Aşezarea de la Rachelu,"sat RACHELU; În comuna parţial, LUNCAVIŢA comuna CASIMCEA","marginea de V a satului, intravilan şi, extravilan","sec. XV - XVIII, Epoca medievală dacică"
+344,TL-I -s-B-05889,Aşezarea de la Rachelu,"sat RACHELU; În comuna parţial, LUNCAVIŢA","marginea de V a satului, intravilan şi, extravilan","sec. XV - XVIII, Epoca medievală"
+345,TL-I -s-B-05890,Aşezare getică,sat RAHMANU; La comuna CASIMCEA,1 km NE de satul Rahmanu,"Latène, Cultura geto - dacică"
 346,TL-I -s-B-05891,Aşezare romană,sat RAHMANU; La comuna CASIMCEA,2 km NE de satul Rahmanu,Epoca romană târzie
 347,TL-I -s-B-05892,"Aşezarea de la ""Baba Caira""","sat RĂZBOIENI; ""La comuna CASIMCEA","Baba Caira”, la 200 m NE de sat",Epoca romană târzie
 348,TL-I -s-B-05893,Situl arheologic de la Sabangia,"sat SABANGIA; ""La comuna SARICHIOI sat, vestic Valea","Fântâna Ialnăscu”, la cca. 2 km N de între DJ Sabangia-Agighiol şi malul al lacului Agighiol, parțial și în UAT Nucarilor",
@@ -324,7 +351,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 350,TL-I -m-B-05893.02,Aşezare,"sat SABANGIA; ""La comuna SARICHIOI sat, vestic Valea","Fântâna Ialnăscu”, la cca. 2 km N de între DJ Sabangia-Agighiol şi malul al lacului Agighiol, parțial și în UAT Nucarilor","sec. I - IV p. Chr., Epoca romană"
 351,TL-I -m-B-05893.03,Aşezare,"sat SABANGIA; ""La comuna SARICHIOI sat, vestic Valea","Fântâna Ialnăscu”, la cca. 2 km N de între DJ Sabangia-Agighiol şi malul al lacului Agighiol, parțial și în UAT Nucarilor","sec. IV a. Chr., Latène, Cultura geto - dacică"
 352,TL-I -m-B-05893.04,Aşezare,"sat SABANGIA; ""La comuna SARICHIOI sat, vestic Valea","Fântâna Ialnăscu”, la cca. 2 km N de între DJ Sabangia-Agighiol şi malul al lacului Agighiol, parțial și în UAT Nucarilor",Neolitic
-353,TL-I -s-B-05894,Aşezare romană,"sat SABANGIA; Intravilan, comuna SARICHIOI comuna SARICHIOI SMA","sector NV şi, parţial, extravilan","sec. IV - VI p. Chr., Epoca romano-bizantină romană"
+353,TL-I -s-B-05894,Aşezare romană,"sat SABANGIA; Intravilan, comuna SARICHIOI","sector NV şi, parţial, extravilan","sec. IV - VI p. Chr., Epoca romano-bizantină"
+354,TL-I -s-B-05895,Necropolă,"sat SABANGIA; Intravilan, comuna SARICHIOI SMA","sector SV, în incinta fostului","sec. II - III p. Chr., Epoca romană"
 355,TL-I -s-B-05904,Tumuli aliniaţi NV-SE (4),sat SABANGIA; La comuna SARICHIOI,1 km N de punctul ”Trei Movile”,
 356,TL-I -s-B-05896,Situl arheologic de la Sarichioi,sat SARICHIOI; comuna SARICHIOI,,
 357,TL-I -m-B-05896.01,Necropolă,"sat SARICHIOI; Intravilan, comuna SARICHIOI",limita de N,"sec. XVII - XVIII, Epoca medievală târzie"
@@ -334,7 +362,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 361,TL-I -m-B-05898.01,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI intravilanului localitate,","Bursucului”, de la limita de S a până la cca. 2,5 km S de pe malul lacului Razelm","sec. XIV - XV, Epoca medievală"
 362,TL-I -m-B-05898.02,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI intravilanului localitate,","Bursucului”, de la limita de S a până la cca. 2,5 km S de pe malul lacului Razelm","sec. X - XI, Epoca medievală timpurie"
 363,TL-I -m-B-05898.03,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI intravilanului localitate,","Bursucului”, de la limita de S a până la cca. 2,5 km S de pe malul lacului Razelm","sec. IV - II a. Chr., Latène getic, Cultura geto - dacică"
-364,TL-I -m-B-05898.04,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI localitate, comuna SARICHIOI localitate,","Bursucului”, la cca. 1,5 km S de pe malul lacului Razelm pe malul lacului Razelm","Hallstatt, Cultura Babadag Cultura Noua"
+364,TL-I -m-B-05898.04,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI localitate,","Bursucului”, la cca. 1,5 km S de pe malul lacului Razelm","Hallstatt, Cultura Babadag"
+365,TL-I -m-B-05898.05,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI localitate,","Bursucului”, la cca. 800 m S de pe malul lacului Razelm","Epoca bronzului târziu, Cultura Noua"
 366,TL-I -m-B-05898.07,Aşezare,"sat SARICHIOI; ""Dealul comuna SARICHIOI localitate,","Bursucului”, la cca. 2,5 km S de pe malul lacului Razelm","Neolitic, Cultura Boian"
 367,TL-I -s-B-05899,Aşezare rurală,sat SARICHIOI; La comuna SARICHIOI DJ văii,"1 km S de sat, de o parte şi de alta a Sarichioi-Enisala, pe ambii versanţi ai Sărătura","sec. II - III, Epoca romană"
 368,TL-I -s-B-05900,Aşezare,sat SARICHIOI; La comuna SARICHIOI Enisala,"1 km S de sat, 500 m V de DJ Sarichioi-","sec. IX - XI, Epoca medievală timpurie"
@@ -343,7 +372,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 371,TL-I -s-B-05903,Tumuli grupaţi (5),"sat SARICHIOI; Între comuna SARICHIOI satului,","1,6 - 2 km NV de limita de N a în punctul ”Trei Movile”",
 372,TL-I -s-B-05906,Aşezare rurală,sat SARINASUF; La comuna MURIGHIOL,cca. 750 m N de satul Sarinasuf,"sec. II - IV p. Chr., Epoca romană"
 373,TL-I -s-B-05907,Aşezare,sat SARINASUF; La comuna malul MURIGHIOL Plopu,"cca. 800 m E de satul Sarinasuf, între lacului Razelm şi DJ Sarinasuf-","sec. VI - V a. Chr., Latène timpuriu, Cultura geto - dacică"
-374,TL-I -s-B-05908,Necropolă de incineraţie,"sat SARINASUF; Intravilan, comuna MURIGHIOL comuna MIHAI",sector V,"sec. IV a. Chr., Latène, Cultura geto - dacică"
+374,TL-I -s-B-05908,Necropolă de incineraţie,"sat SARINASUF; Intravilan, comuna MURIGHIOL",sector V,"sec. IV a. Chr., Latène, Cultura geto - dacică"
+375,TL-I -s-B-05909,Tumuli (2),sat SATU NOU; La comuna MIHAI BRAVU,250 m N de satul Satu Nou,
 376,TL-I -s-B-05910,Tumuli aliniaţi (7),sat SATU NOU; De comuna MIHAI cca. BRAVU,"la cca. 500 m N de Satu Nou până la 1,3 km S de Dealul Denistepe",
 377,TL-I -s-B-05911,Tumul,sat SATU NOU; La comuna MIHAI BRAVU,750 m NNE de Satu Nou,
 378,TL-I -s-B-05912,Tumuli (2),sat SATU NOU; La comuna MIHAI BRAVU,"1,25 km NNE de Satu Nou",
@@ -351,7 +381,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 380,TL-I -s-B-05914,Tumuli (2),sat SATU NOU; Cca. comuna MIHAI SE BRAVU Babadag-Tulcea,"2,7 km NE de Satu Nou, cca, 1,5 km de dealul Denistepe şi 1 km V de DN",
 381,TL-I -s-B-05915,Tumul,sat SATU NOU; Cca. comuna MIHAI SE BRAVU de,"3,3 km NNE de Satu Nou, cca. 750 m de dealul Denistepe şi cca. 1,5 km V DN Babadag-Tulcea",
 382,TL-I -s-B-05916,Tumul,sat SATU NOU; Intravilan comuna MIHAI actualului BRAVU localităţii,"Satu Nou, în perimetrul cimitir, la limita de NV a",
-383,TL-I -s-B-05917,Tumul,"sat SATU NOU; ""Begeni”, comuna MIHAI pe BRAVU comuna m","la cca. 300 m NV de Satu Nou, malul stâng al Taiţei V de malul lacului Razelm",
+383,TL-I -s-B-05917,Tumul,"sat SATU NOU; ""Begeni”, comuna MIHAI pe BRAVU","la cca. 300 m NV de Satu Nou, malul stâng al Taiţei",
+384,TL-I -s-B-05722,Tumuli grupaţi (6),sat SĂLCIOARA; La comuna m JURILOVCA,"cca. 4,5 km N de satul Sălcioara şi 500 V de malul lacului Razelm","sec. IV - III a. Chr., Latène"
 385,TL-I -s-B-05918,Situl arheologic de la Sălcioara,"sat SĂLCIOARA; Intravilan, comuna aproape JURILOVCA parte","sector central şi E până de malul lacului omonim, de o şi de alta a DJ Sălcioara-Enisala",
 386,TL-I -m-B-05918.01,Aşezare,"sat SĂLCIOARA; Intravilan, comuna aproape JURILOVCA parte","sector central şi E până de malul lacului omonim, de o şi de alta a DJ Sălcioara-Enisala","sec. X - XI, Epoca medievală timpurie"
 387,TL-I -m-B-05918.02,Aşezare rurală,"sat SĂLCIOARA; Intravilan, comuna aproape JURILOVCA parte","sector central şi E până de malul lacului omonim, de o şi de alta a DJ Sălcioara-Enisala","sec. IV - VI p. Chr., Epoca romano-bizantină"
@@ -359,7 +390,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 389,TL-I -m-B-05918.04,Aşezare,"sat SĂLCIOARA; Intravilan, comuna aproape JURILOVCA parte","sector central şi E până de malul lacului omonim, de o şi de alta a DJ Sălcioara-Enisala","sec. VI - III a. Chr., Latène timpuriu"
 390,TL-I -s-B-05919,Aşezare greco-indigenă,sat SĂLCIOARA; La comuna malul JURILOVCA,"cca. 1,8 km NE de satul Sălcioara, pe de N al lacului omonim","sec. IV - III a. Chr., Latène, Cultura greco - getică"
 391,TL-I -s-B-05920,Aşezare,sat SĂLCIOARA; La comuna malul JURILOVCA,"cca. 2,5 km NE de satul Sălcioara, pe de N al lacului omonim","sec. IX - X, Epoca medievală timpurie"
-392,TL-I -s-B-05921,Turris Sălcioara,"sat SĂLCIOARA; ""Capul comuna Sălcioara JURILOVCA comuna dealul","Iancina”, la cca. 5 km. NE de satul Călugăra la S şi dealul La Călugăra","sec. IV - VI p. Chr., Epoca romano-bizantină"
+392,TL-I -s-B-05921,Turris,"sat SĂLCIOARA; ""Capul comuna Sălcioara JURILOVCA","Iancina”, la cca. 5 km. NE de satul","sec. IV - VI p. Chr., Epoca romano-bizantină"
+393,TL-I -s-B-05922,Situl arheologic de la Sălcioara,sat SĂLCIOARA; La comuna dealul JURILOVCA la,"cca. 4,5 km N de localitate, între Călugăra la S şi dealul La Călugăra N, de-a lungul malului lacului Razelm",
 394,TL-I -m-B-05922.01,Aşezare,sat SĂLCIOARA; La comuna dealul JURILOVCA la,"cca. 4,5 km N de localitate, între Călugăra la S şi dealul La Călugăra N, de-a lungul malului lacului Razelm","sec. X - XI, Epoca medievală timpurie"
 395,TL-I -m-B-05922.02,Aşezare,sat SĂLCIOARA; La comuna dealul JURILOVCA la,"cca. 4,5 km N de localitate, între Călugăra la S şi dealul La Călugăra N, de-a lungul malului lacului Razelm","sec. II - VI p. Chr., Epoca romană"
 396,TL-I -a-B-05922.03,Aşezare,sat SĂLCIOARA; La comuna dealul JURILOVCA la,"cca. 4,5 km N de localitate, între Călugăra la S şi dealul La Călugăra N, de-a lungul malului lacului Razelm","sec. IV - II a. Chr., Latène, Cultura geto - dacică"
@@ -367,7 +399,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 398,TL-I -s-B-05923,Aşezare getică,sat SÂMBĂTA La NOUĂ; comuna TOPOLOG,200 m S de localitate,"Epoca romană, Cultura dacică"
 399,TL-I -s-B-05925,Situl arheologic de la Slava Cercheză,"sat SLAVA ""La CERCHEZĂ; Cercheză, comuna SLAVA Dealul CERCHEZĂ","Vii”, la cca. 700 m N de satul Slava la E de Dealul Viilor şi la V de Kurt Baiîr",
 400,TL-I -m-B-05925.01,Aşezare,"sat SLAVA ""La CERCHEZĂ; Cercheză, comuna SLAVA Dealul CERCHEZĂ","Vii”, la cca. 700 m N de satul Slava la E de Dealul Viilor şi la V de Kurt Baiîr","sec. II - III p. Chr., Epoca romană"
-401,TL-I -m-B-05925.02,Necropolă,"sat SLAVA ""La CERCHEZĂ; Cercheză, comuna SLAVA","Vii”, la cca. 700 m N de satul Slava la E de Dealul Viilor şi la V de","sec. II - III p. Chr., Epoca romană"
+401,TL-I -m-B-05925.02,Necropolă,"sat SLAVA ""La CERCHEZĂ; Cercheză, comuna SLAVA CERCHEZĂ Dealul","Vii”, la cca. 700 m N de satul Slava la E de Dealul Viilor şi la V de Kurt Baiîr","sec. II - III p. Chr., Epoca romană"
 402,TL-I -s-B-05924,Aşezare getică,"sat SLAVA RUSĂ; ""La comuna SLAVA extravilan, CERCHEZĂ Rusă,","Lutărie” numit și La Donca, la limita de S a satului Slava lângă mănăstirea Vovidenia","Latène, Cultura geto - dacică"
 403,TL-I -s-A-05926,Cetatea Ibida,"sat SLAVA RUSĂ; Intravilan, comuna SLAVA vestic CERCHEZĂ",sectoarele central vestic şi şi extravilan V şi NV,"sec. IV - VI p. Chr., Epoca romano-bizantină"
 404,TL-I -s-A-05927,Complex monastic paleocreştin,sat SLAVA RUSĂ; La comuna SLAVA km CERCHEZĂ vechi,cca. 2 km SV de satul Slava Rusă şi la 1 NNE de mănăstirea ortodoxă de rit Uspenia,"sf. sec. IV - înc. sec. VII p. Chr., Epoca romano- bizantină"
@@ -377,7 +409,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 408,TL-I -m-B-05928.02,Aşezare,"sat SOMOVA; Intravilan, comuna SOMOVA de","sector SE, în zona fostului CAP, o parte şi de alta a E87",Epoca romană
 409,TL-I -m-B-05928.03,Aşezare,"sat SOMOVA; Intravilan, comuna SOMOVA de","sector SE, în zona fostului CAP, o parte şi de alta a E87","Latène, Cultura geto - dacică"
 410,TL-I -s-B-05929,"Situl arheologic de la Somova, punct ""La batace""","sat SOMOVA; ""La comuna SOMOVA şi","Batace”, la cca. 1 km SV de localitate cca. 150 m S de E87",
-411,TL-I -m-B-05929.01,Aşezare,"sat SOMOVA; ""La comuna SOMOVA şi comuna SOMOVA şi","Batace”, la cca. 1 km SV de localitate cca. 150 m S de E87 cca. 150 m S de E87","Latène, Cultura geto - dacică dacică"
+411,TL-I -m-B-05929.01,Aşezare,"sat SOMOVA; ""La comuna SOMOVA şi","Batace”, la cca. 1 km SV de localitate cca. 150 m S de E87","Latène, Cultura geto - dacică"
+412,TL-I -m-B-05929.02,Necropolă,"sat SOMOVA; ""La comuna SOMOVA şi","Batace”, la cca. 1 km SV de localitate cca. 150 m S de E87","Latène, Cultura geto - dacică"
 413,TL-I -s-B-05930,Situl arheologic de la Teliţa,"sat TELIŢA; comuna ""La FRECĂŢEI","Amza”, la 600 m NE de satul Teliţa",
 414,TL-I -m-B-05930.01,Aşezare,"sat TELIŢA; comuna ""La FRECĂŢEI","Amza”, la 600 m NE de satul Teliţa","sec. X - XI, Epoca medievală timpurie"
 415,TL-I -m-B-05930.02,Aşezare rurală,"sat TELIŢA; comuna ""La FRECĂŢEI","Amza”, la 600 m NE de satul Teliţa","sec. I - IV p. Chr., Epoca romană, Cultura geto - dacică"
@@ -387,7 +420,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 419,TL-I -s-B-05933,Complex meşteşugăresc,"sat TELIŢA; comuna ""La FRECĂŢEI","Hogea”, la 250 m V de satul Teliţa","sec. IV p. Chr., Epoca romană"
 420,TL-I -s-B-05934,Aşezare,sat TELIŢA; comuna La FRECĂŢEI Maicii şi chilii,"cca. 300 m V de biserica ""Adormirea Domnului"" a mânăstirii Celic Dere cca. 100 m V de ultimul aliniament de ale mănăstirii","sec. II - IV p. Chr., Epoca romană"
 421,TL-I -s-B-05935,Complex meşteşugăresc,"sat TELIŢA; comuna ""Izvorul FRECĂŢEI intersecţia","Maicilor”, la 900 m SV de Teliţa-Sarica","sec. II - III p. Chr., Epoca romană"
-422,TL-I -s-B-05936,Tumuli grupaţi (6),sat TELIŢA; comuna Cca. FRECĂŢEI Teliţa Dere FRECĂŢEI Poşta-Teliţa,"1,2 km NE de intersecţia DJ Poşta- cu drumul spre mănăstirea Celic cu drumul spre mănăstirea",
+422,TL-I -s-B-05936,Tumuli grupaţi (6),sat TELIŢA; comuna Cca. FRECĂŢEI Teliţa Dere,"1,2 km NE de intersecţia DJ Poşta- cu drumul spre mănăstirea Celic",
+423,TL-I -s-B-05937,Tumuli grupaţi (4),sat TELIŢA; comuna La FRECĂŢEI Poşta-Teliţa Celic,"cca. 1,8 km NNE de intersecţia DJ cu drumul spre mănăstirea Dere",
 424,TL-I -s-B-05938,Villa rustica,"sat TOPOLOG; Extravilan, comuna TOPOLOG",la marginea de NV a satului,Epoca romană
 425,TL-I -s-B-05939,Villa rustica,sat TOPOLOG; La comuna TOPOLOG,300 m S de satul Topolog,"sec. II - III p. Chr., Epoca romană"
 426,TL-I -s-B-05940,Tumuli,sat TOPOLOG; La comuna TOPOLOG,300 m S de satul Topolog,
@@ -399,7 +433,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 432,TL-I -m-B-05943.01,Aşezare,"sat TRESTENIC; Intravilan, comuna NALBANT",sector S,Epoca medievală
 433,TL-I -m-B-05943.02,Aşezare,"sat TRESTENIC; Intravilan, comuna NALBANT",sector S,Epoca romană
 434,TL-I -s-B-05944,Aşezare,"sat TRESTENIC; Intravilan, comuna NALBANT",zona centrală,"sec. IV - VI p. Chr., Epoca romano-bizantină"
-435,TL-I -s-B-05945,Aşezare rurală,sat TRESTENIC; La comuna NALBANT parte comuna NALBANT de,"cca. 800 m SE de satul Trestenic, de o şi de alta a DJ Trestenic-Nalbant DJ Trestenic-Nalbant","sec. I - IV p. Chr., Epoca romană romană, Cultura getică"
+435,TL-I -s-B-05945,Aşezare rurală,sat TRESTENIC; La comuna NALBANT parte,"cca. 800 m SE de satul Trestenic, de o şi de alta a DJ Trestenic-Nalbant","sec. I - IV p. Chr., Epoca romană"
+436,TL-I -s-B-05946,Aşezare getică,sat TRESTENIC; La comuna NALBANT de,"cca. 350 m NV de satul Trestenic, la V DJ Trestenic-Nalbant","sec. I - II p. Chr., Epoca romană, Cultura getică"
 437,TL-I -s-B-05947,Aşezare rurală,sat TRESTENIC; La comuna NALBANT,"cca. 1,5 km SE de satul Trestenic",Epoca romană
 438,TL-I -s-B-05948,Aşezare,"sat TRESTENIC; ""La comuna NALBANT Trestenic,","comoară”, la cca. 600 m S de satul la poalele dealului Taptâc","sec. XVII - XVIII, Epoca medievală"
 439,TL-I -s-B-05949,Aşezare,"sat TRESTENIC; La comuna NALBANT Trestenic-Nalbant, şi","cca. 800 m S de localitate, la V de DJ între cursul Taiţei la N dealul Taptâc la S",Epoca medievală
@@ -409,7 +444,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 443,TL-I -s-B-05951,Tumul,sat TRESTENIC; La comuna NALBANT,cca. 250 m NE de Trestenic,
 444,TL-I -s-A-05952,"Situl arheologic ""Cetatea Troesmis""","sat TURCOAIA; ""Igliţa”, comuna TURCOAIA limita braţului","extravilan, la cca. 2,5 km N de nordică a satului, pe malul drept al Măcin",
 445,TL-I -m-A-05952.01,Aşezarea medievală,"sat TURCOAIA; ""Igliţa”, comuna TURCOAIA limita braţului","extravilan, la cca. 2,5 km N de nordică a satului, pe malul drept al Măcin","sec. VIII - XII, Epoca medievală timpurie"
-446,TL-I -m-A-05952.02,Complexul de cetăţi Troesmis,"sat TURCOAIA; ""Igliţa”, comuna TURCOAIA limita braţului comuna TURCOAIA limita","extravilan, la cca. 2,5 km N de nordică a satului, pe malul drept al Măcin nordică a satului, pe malul drept al",
+446,TL-I -m-A-05952.02,Complexul de cetăţi Troesmis,"sat TURCOAIA; ""Igliţa”, comuna TURCOAIA limita braţului","extravilan, la cca. 2,5 km N de nordică a satului, pe malul drept al Măcin",
+447,TL-I -m-A-05952.03,Aşezare romană,"sat TURCOAIA; ""Igliţa”, comuna TURCOAIA limita braţului","extravilan, la cca. 2,5 km N de nordică a satului, pe malul drept al Măcin",Epoca romană târzie
 448,TL-I -m-A-05952.04,Necropolă plană şi tumulară,"sat TURCOAIA; ""Igliţa”, comuna TURCOAIA limita braţului","extravilan, la cca. 2,5 km N de nordică a satului, pe malul drept al Măcin","sec. I - VII, Epoca romană"
 449,TL-I -s-B-05953,Cimitir,sat TURDA; Intravilan comuna MIHAI dreapta BRAVU,"şi extravilan, sector S, în DJ Turda-Mihai Bravu",Epoca medievală
 450,TL-I -s-B-05954,Situl arheologic de la Turda,sat TURDA; Intravilan comuna MIHAI malul BRAVU DJ,"şi extravilan, sector NV, pe drept al Taiţei, de ambele părţi ale Turda-Nicolae Bălcescu",
@@ -417,7 +453,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 452,TL-I -m-B-05954.02,Necropolă,sat TURDA; Intravilan comuna MIHAI malul BRAVU DJ,"şi extravilan, sector NV, pe drept al Taiţei, de ambele părţi ale Turda-Nicolae Bălcescu","sec. II - IV p. Chr., Epoca romană"
 453,TL-I -s-B-05955,Aşezare rurală,"sat VALEA La NUCARILOR; limita comuna VALEA Nucarilor, NUCARILOR spre","limita de S a satului Valea Nucarilor şi de N a satului Iazurile, com. Valea intravilan şi, parţial, extravilan, E","sec. II - III p. Chr., Epoca romană, Cultura geto - dacică"
 454,TL-I -s-B-05956,Tumuli (12),sat VALEA La NUCARILOR; la comuna VALEA la NUCARILOR SE,"cca. 4 km. N de satul Valea Nucarilor; cca. 1,5 km E de sat; la 250 m N de sat; 750 m şi 400 m V de sat; la 100-200 m de sat",
-455,TL-I -s-B-05868,"Situl arheologic de la Victoria, punct ""Dealul","sat VICTORIA; ""Dealul comuna NUFĂRU cca.","Curcuz”, la liziera de E a pădurii şi 3 km S de satul Victoria",
+455,TL-I -s-B-05868,"Situl arheologic de la Victoria, punct ""Dealul Curcuz""","sat VICTORIA; ""Dealul comuna NUFĂRU cca.","Curcuz”, la liziera de E a pădurii şi 3 km S de satul Victoria",
 456,TL-I -m-B-05868.01,Aşezare,"sat VICTORIA; ""Dealul comuna NUFĂRU cca.","Curcuz”, la liziera de E a pădurii şi 3 km S de satul Victoria","sec. XI, Epoca medievală timpurie"
 457,TL-I -m-B-05868.02,Aşezare,"sat VICTORIA; ""Dealul comuna NUFĂRU cca.","Curcuz”, la liziera de E a pădurii şi 3 km S de satul Victoria","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
 458,TL-I -s-B-05958,Necropolă,sat VICTORIA; Intravilanul comuna NUFĂRU,satului Victoria,"sec. XI - XII, Epoca medievală timpurie"
@@ -428,13 +464,14 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 463,TL-I -s-B-05961,Necropolă de incineraţie,"sat VISTERNA; Extravilan, comuna SARICHIOI cca.",cca. 100 m N de localitate şi 150 m E de DJ Visterna-Babadag,"sec. I - III p. Chr., Epoca romană"
 464,TL-I -s-B-05962,Aşezare,"sat VIŞINA; Intravilan, comuna JURILOVCA",sector central estic,"sec. I - IV p. Chr., Epoca romană"
 465, TL-I -s-B-05963, Situl arheologic de la Vişina, sat VIŞINA; La comuna lacului JURILOVCA," limita de E a satului Vişina, pe malul Goloviţa",
-466,TL-I -m-B-05963.01,Aşezare,sat VIŞINA; La comuna m,"cca. 600 m E de satul Vişina şi cca. 200 V de satul Jurilovca, pe malul lacului","sec. IX - X, Epoca medievală timpurie"
+466,TL-I -m-B-05963.01,Aşezare,sat VIŞINA; La comuna m JURILOVCA Goloviţa,"cca. 600 m E de satul Vişina şi cca. 200 V de satul Jurilovca, pe malul lacului","sec. IX - X, Epoca medievală timpurie"
 467,TL-I -m-B-05963.02,Aşezare,sat VIŞINA; La comuna lacului JURILOVCA,"limita de E a satului Vişina, pe malul Goloviţa","sec. I a. Chr. - II p. Chr., Epoca romană"
 468,TL-I -m-B-05963.03,Aşezare,sat VIŞINA; La comuna pe JURILOVCA,"cca. 400 m E de limita satului Vişina, malul lacului Goloviţa","sec. IV - III a. Chr., Latène"
 469,TL-I -m-B-05963.04,Aşezare greco-indigenă,sat VIŞINA; La comuna lacului JURILOVCA,"limita de E a satului Vişina, pe malul Goloviţa","sec. VI - V a. Chr., Latène timpuriu, Cultura greco - getică"
 470,TL-I -m-B-05963.05,Aşezare,sat VIŞINA; La comuna lacului JURILOVCA,"limita de E a satului Vişina, pe malul Goloviţa",Hallstatt
 471,TL-I -m-B-05963.06,Aşezare,sat VIŞINA; La comuna lacului JURILOVCA,"limita de E a satului Vişina, pe malul Goloviţa",Eneolitic
-472,TL-I I-s-B-05989,"Ansamblul urban ""Str. Progresului""",municipiul TULCEA Str. la Buna intersecţia intersecţia (ambele str. str. str. Decebal Vestire Unirii;,"Progresului (ambele fronturi), până intersecţia cu artera de rocadă; str. Vestire (ambele fronturi), de la cu str. Mircea Vodă până la cu str. Victoriei; str. Victoriei fronturi), de la intersecţia cu, Buna Vestire până la intersecţia cu Progresului, inclusiv str. Decebal şi Mircea Vodă, de la intersecţia cu str. până la intersecţia cu str. Buna str. 9 Mai (ambele fronturi), de la",
+472,TL-I I-s-B-05989,"Ansamblul urban ""Str. Progresului""",municipiul TULCEA Str. la Buna intersecţia intersecţia (ambele str. str. str. Decebal Vestire,"Progresului (ambele fronturi), până intersecţia cu artera de rocadă; str. Vestire (ambele fronturi), de la cu str. Mircea Vodă până la cu str. Victoriei; str. Victoriei fronturi), de la intersecţia cu, Buna Vestire până la intersecţia cu Progresului, inclusiv str. Decebal şi Mircea Vodă, de la intersecţia cu str. până la intersecţia cu str. Buna",
+473,TL-I I-s-B-05990,Sit urban,municipiul TULCEA Str. Unirii; intersecţia Republicii str. între str.,"Progresului, între str. Păcii şi str. str. 9 Mai (ambele fronturi), de la cu str. Walter la Piaţa inclusiv; str. N. Bălcescu, între Gloriei şi str. Walter; str. Suvenir, str. Gloriei şi str. Independenţei;, Gr. Antipa; str. Gloriei (12, 14)",
 474,TL-I I-m-B-05965,Fosta Jandarmerie turcească,municipiul TULCEA Str.,14 Noiembrie 3,1868
 475,TL-I I-m-B-05966,Casă,municipiul TULCEA Str.,"14 Noiembrie 14, Gloriei 3",înc. sec. XX
 476,TL-I I-m-B-05967,"Liceul ""Spiru Haret”",municipiul TULCEA Str.,14 Noiembrie 22,1925 - 1930
@@ -443,7 +480,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 479,TL-I I-m-B-05969,Casă,municipiul TULCEA Str.,14 Noiembrie 30A,sf. sec. XIX
 480,TL-I I-m-B-05970,Fostul consulat austriac,municipiul TULCEA Str.,9 Mai 1A-1B,ante 1864
 481,TL-I I-m-B-05971,Fostul sediu al Băncii Naţionale a României,municipiul TULCEA Str.,9 Mai 2,1924 - 1928
-482,TL-I I-m-B-05972,"Fostul sediu al Muzeului de Etnografie şi Artă Populară Tulcea, azi Muzeul de Artă",municipiul TULCEA Str.,9 Mai 4,1911
+482,TL-I I-m-B-05972,Fostul sediu al Muzeului de Etnografie şi Artă Populară,municipiul TULCEA Str.,9 Mai 4,1911
+483,TL-I I-m-A-05973,"Fostul Palat al Paşei de la Tulcea, azi Muzeul de Artă",municipiul TULCEA Str.,Antipa Grigore 2,1863 - 1865
 484,TL-I I-m-B-05974,"Biserica ortodoxă ""Buna Vestire”",municipiul TULCEA Str.,Buna Vestire 2,"1869, 1848 - 1854"
 485,TL-I I-m-B-05975,Casă,municipiul TULCEA Str.,Buna Vestire 11,sf. sec. XIX
 486,TL-I I-m-B-05976,Casă,municipiul TULCEA Str.,Decebal 2,mijl. sec. XIX
@@ -456,6 +494,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 493,TL-I I-m-B-05983,Casă,municipiul TULCEA Str.,Gloriei 14şi 14 bis,"cca. 1850, a doua jumătate a sec. XIX"
 494,TL-I I-m-A-05984,Moscheea Aziziye,municipiul TULCEA Str.,Independenţei 2,1863
 495, TL-I I-m-B-05985, Fosta şcoala turcească, municipiul TULCEA Str., Independenţei 4, 1865
+496,TL-I I-m-B-05986,Casă,municipiul TULCEA Str.,Mircea Vodă 4,1870 - 1880
 497,TL-I I-m-B-05987,Casă,municipiul TULCEA Str.,Mircea Vodă 6,a doua jumătate a sec. XIX
 498,TL-I I-m-B-05988,"Biserica ortodoxă ""Sf. Gheorghe”, numită şi ""Biserica Bulgărească"", ""Biserica cu ceas""",municipiul TULCEA Str.,Păcii 11,"1857, 1927"
 499,TL-I I-m-B-05991,Casa Lichiardopol,municipiul TULCEA Str.,Progresului 26,1860 - 1870
@@ -465,6 +504,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 503,TL-I I-m-B-05995,"Catedrala ortodoxă ""Sf.Nicolae”",municipiul TULCEA Str.,Progresului 37,1862 - 1865
 504,TL-I I-m-B-05996,Fostul sediu al Administraţiei Pescăriei Statului,municipiul TULCEA Piaţa,Republicii 2,1910 - 1914
 505,TL-I I-m-B-05997,Camera de Comerţ şi Industrie Tulcea,municipiul TULCEA Str.,Victoriei 22,sec. XIX
+506,TL-I I-m-B-05998,Casă,municipiul TULCEA Str.,Victoriei 27,înc. sec. XX
 507,TL-I I-m-B-05999,"Biserica ortodoxă ""Sf. Voievozi”",sat AGIGHIOL; comuna VALEA NUCARILOR,,1858 - 1860
 508,TL-I I-s-B-06002,Sit urban,"oraş BABADAG Str. Boteanu,","Zânelor, Ştefan cel Mare, Dr. Col. Andoniu",sec. XIX
 509,TL-I I-m-A-06000,Geamia Ali - Gazi Paşa,oraş BABADAG Str.,Geamiei 2,1618 - 1619
@@ -476,6 +516,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 515,TL-I I-m-B-06007,"Biserica ortodoxă ""Sf. Gheorghe”",oraş ISACCEA Str.,"Vlad Ţepeş 1, T31, Cc1244/1",1862
 516,TL-I I-m-B-06008,Şcoală,oraş MĂCIN Str.,Florilor 55,ante 1912
 517,TL-I I-m-A-06009,Geamie,oraş MĂCIN Str.,Granitului 5,1860
+518,TL-I I-m-B-06010,Fost han,oraş MĂCIN Str.,Independenței 5,mijl. sec. XIX
 519,TL-I I-a-A-06005,Mănăstirea Cocoş,"sat NICULIŢEL; La comuna NICULIŢEL Niculițel,","6 km S de Isaccea, la 5 km NV de T20, Cc1905",1911 - 1929
 520,TL-I I-m-A-06005.01,"Biserica ""Adormirea Maicii Domnului”","sat NICULIŢEL; La comuna NICULIŢEL Niculițel,","6 km S de Isaccea, la 5 km NV de T20, Cc1905",1911 - 1913
 521,TL-I I-m-A-06005.02,Paraclis,"sat NICULIŢEL; La comuna NICULIŢEL Niculițel,","6 km S de Isaccea, la 5 km NV de T20, Cc1905",1883 - 1913
@@ -488,6 +529,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 528,TL-I I-s-B-06020,Sit urban,oraş SULINA Str.,"II, Kogălniceanu M., Păcii",sec. XIX
 529,TL-I I-s-B-06038,Sit urban,oraş SULINA Zona Zamfirescu,"Chei - str. I, str. II, Republicii, Duiliu",sec. XIX
 530,TL-I I-m-B-06031,Casă,oraş SULINA Str.,Eminescu Mihail 1,sec. XIX
+531,TL-I I-m-B-06014,Casă,oraş SULINA Str.,"I, 113",1902
 532,TL-I I-m-B-06015,Casă,oraş SULINA Str.,"I, 130",sf. sec. XIX
 533,TL-I I-m-B-20987,Biblioteca Orășenească Sulina,oraș SULINA Str.,"I, 178-179",1890
 534,TL-I I-m-B-06016,Casă,oraş SULINA Str.,"I, 181",1915 - 1925
@@ -499,6 +541,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 540,TL-I I-m-B-21102,"Casa ”Parparia”, sediul Institutului de Biologie al Academiei Române, Stațiunea de Cercetări Ecologice din Sulina",oraș SULINA Str.,"II, 35",
 541,TL-I I-m-A-06023,Farul Comisiei Europene a Dunării,oraş SULINA Str.,"II, 43",1870
 542,TL-I I-m-B-06024,Casă,oraş SULINA Str.,"II, 232",sf. sec. XIX
+543,TL-I I-m-B-06025,Casă cu prăvălie,oraş SULINA Str.,"II, 288",sf. sec. XIX
 544,TL-I I-m-B-06026,"Biserica ortodoxă ""Sf. Nicolae”",oraş SULINA Str.,"II, 294A",1868
 545,TL-I I-m-B-06027,Casă,oraş SULINA Str.,"II, 350",sf. sec. XIX
 546,TL-I I-m-B-06028,Casă,oraş SULINA Str.,"II, 352",sf. sec. XIX
@@ -511,6 +554,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 553,TL-I I-m-B-06035.01,"Biserica ortodoxă grecească ""Sf. Nicolae”",oraş SULINA Str.,Păcii 1,"1866-1867, restaurare 1923, 1956"
 554,TL-I I-m-B-06035.02,"Casa parohială, fosta școală grecească",oraș SULINA Str.,Păcii 1,1866 - 1888
 555,TL-I I-m-A-06036,Spitalul Comisiei Europene a Dunării,oraş SULINA Str.,Republicii 1,1864
+556,TL-I I-m-B-06037,Casă,oraş SULINA Str.,Rosetti C.A. 4,sf. sec. XIX
 557,TL-I I-a-B-06039,Mănăstirea Celic-Dere,"sat TELIŢA; comuna La FRECĂŢEI intravilan,","3 km SE de satul Teliţa, com. Frecăţei, trup B, Cc29",1901 - 1932
 558,TL-I I-m-B-06039.01,"Biserica ""Adormirea Maicii Domnului”","sat TELIŢA; comuna La FRECĂŢEI intravilan,","3 km SE de satul Teliţa, com. Frecăţei, trup B, Cc29",1901 - 1932
 559,TL-I I-m-B-06039.02,"Paraclisul ""Izvorul Tămăduirii”","sat TELIŢA; comuna La FRECĂŢEI intravilan,","3 km SE de satul Teliţa, com. Frecăţei, trup B, Cc29",1901 - 1932
@@ -522,7 +566,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 565,TL-I II-m-A-06040,Monumentul Independenţei,"municipiul TULCEA ""Colnicul","Hora”, în parcul Monumentului","1879, 1899-1904, 1935, 1977"
 566,TL-I II-m-B-20905,Bustul lui Spiru Haret,"municipiul TULCEA Scuarul Noiembrie,",aflat la intersecţia str. 14 str. Gloriei şi str. 9 Mai,1923
 567,TL-I V-m-A-06041,Mormântul lui Ali - Gazi Paşa,oraş BABADAG Str.,Geamiei 2,1620
-568,TL-I V-m-B-06042,Mormântul lui Baba - Sari - Saltuc - Dede Războiul de Independenţă,oraş BABADAG Str. comuna SMÂRDAN P1164,"1 Decembrie 1918, 11","1484, sf. sec. XVIII, sf. sec. XVIII"
+568,TL-I V-m-B-06042,Mormântul lui Baba - Sari - Saltuc - Dede,oraş BABADAG Str.,"1 Decembrie 1918, 11","1484, sf. sec. XVIII, sf. sec. XVIII"
+569,TL-I V-m-A-06043,Obelisc al ostaşilor din Războiul de Independenţă,"sat SMÂRDAN; Intravilan, comuna SMÂRDAN P1164","pe malul drept al Dunării, T22,",sec. XIX
 570,TL-I V-s-A-06044,Cimitirul Comisiei Europene a Dunării,oraş SULINA Str.,Bălcescu Nicolae,mijl. sec. XIX
 571,TL-I V-s-A-06045,Cimitir ortodox,oraş SULINA Str.,Bălcescu Nicolae,mijl. sec. XIX
 572,TL-I V-s-A-06046,Cimitir musulman,oraş SULINA Str.,Bălcescu Nicolae,mijl. sec. XIX

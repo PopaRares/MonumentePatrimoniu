@@ -1,14 +1,16 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,BR-I-s-B-02049,Situl arheologic de la Brăiliţa,municipiul BRĂILA Zona vechea Vadul str. Cocoş,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S", la N;
 2,BR-I-m-B-02049.01,Aşezare,municipiul BRĂILA Zona vechea Vadul str. Cocoş,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S","sec. IX - X, Epoca medievală timpurie, la N; Cultura Dridu"
 3,BR-I-m-B-02049.02,Aşezare,municipiul BRĂILA Zona vechea Vadul str. Cocoş,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S","sec. IV - III a. Chr., Latène la N;"
 4, BR-I-m-B-02049.03, Necropolă, municipiul BRĂILA Zona vechea Vadul str. Cocoş," cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S"," sec. IV - III a. Chr., Latène la N;"
-5,BR-I-m-B-02049.04,Aşezare,municipiul BRĂILA Zona vechea str.,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Gh. Munteanu -Murgoci, str. Andrei","Epoca bronzului târziu, Cultura Coslogeni"
+5,BR-I-m-B-02049.04,Aşezare,municipiul BRĂILA Zona vechea Vadul,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab –","Epoca bronzului târziu, Cultura Coslogeni la N;"
 6,BR-I-m-B-02049.05,Necropolă,municipiul BRĂILA Zona vechea Vadul str. Cocoş,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S","Perioada de tranziţie de la eneolitic la bronz; la N; bronz timpuriu şi mijlociu, Cultura Cernavodă I, II, III"
 7,BR-I-m-B-02049.06,Aşezare,municipiul BRĂILA Zona vechea Vadul str. Cocoş,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S","Eneolitic, Cultura Gumelniţa - faza A2 la N;"
 8,BR-I-m-B-02049.07,Aşezare,municipiul BRĂILA Zona vechea Vadul str. Cocoş,"cuprinsă între terasa Dunării – la E; terasă a Siretului, Vadul Turcului, Baldovineşti, str. Matei Basarab – Gh. Munteanu -Murgoci, str. Andrei – la V; str. Mircea Mălăeru – la S","Neolitic, Cultura Boian - faza Giuleşti la N;"
 9,BR-I-s-B-02050,Zona fostei Cetăţi a Brăilei,"municipiul BRĂILA Zona Al.I.Cuza, Cazărmii,","cuprinsă între bd. Panait Istrati, bd. str. Sergent Tătaru, str. Vadul str. Vadul Schelei, Faleza Dunării",
 10,BR-I-m-B-02050.01,Cetate,"municipiul BRĂILA Zona Al.I.Cuza, Cazărmii,","cuprinsă între Bd. Panait Istrati, Bd. str. Sergent Tătaru, str. Vadul str. Vadul Schelei, Faleza Dunării",sec. XI - XVI
-11,BR-I-m-B-02050.02 BR-I-s-B-02051,Necropolă Zona fostei Mitropolii a,"municipiul BRĂILA Zona Al.I.Cuza, Cazărmii, municipiul BRĂILA Cartier","cuprinsă între bd.Panait Istrati, bd. str. Sergent Tătaru, str. Vadul str. Vadul Schelei, Faleza Dunării ""Biserica Veche"", zona cuprinsă între",sec. XI - XVI sec. XVI - XIX
+11,BR-I-m-B-02050.02,Necropolă,"municipiul BRĂILA Zona Al.I.Cuza, Cazărmii,","cuprinsă între bd.Panait Istrati, bd. str. Sergent Tătaru, str. Vadul str. Vadul Schelei, Faleza Dunării",sec. XI - XVI
+12, BR-I-s-B-02051, Zona fostei Mitropolii a Proilavei," municipiul BRĂILA Cartier bd.Al.I.Cuza, Traian,"," ""Biserica Veche"", zona cuprinsă între Calea Călăraşilor, str. Împăratul Faleza Dunării", sec. XVI - XIX
 13,BR-I-m-B-02051.01,Aşezare,"municipiul BRĂILA Cartier Bd. Traian,","""Biserica Veche"", zona cuprinsă între Al.I.Cuza, Calea Călăraşilor, str. Împăratul Faleza Dunării",sec. XVI - XIX
 14,BR-I-m-B-02051.02,Necropolă,"municipiul BRĂILA Cartier bd.Al.I.Cuza, Traian,","""Biserica Veche"", zona cuprinsă între Calea Călăraşilor, str. Împăratul Faleza Dunării",sec. XVI - XIX
 15,BR-I-s-B-02052,"Aşezarea de la ""Popină”","sat DEDULEŞTI; ""Popină”, comuna MIRCEA Buzăului, VODĂ","la 2 km NE de sat, pe malul drept la cca. 200 m de terasă","al Epoca bronzului târziu, Cultura Coslogeni"
@@ -16,7 +18,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 17,BR-I-m-B-02053.01,Aşezare,"sat GEMENELE; ""Muchia comuna GEMENELE dincolo","lui Berbec”, la cca. 3 km SE de sat, de vii","sec. IX - X, Epoca medievală timpurie, Cultura Dridu"
 18,BR-I-m-B-02053.02,Aşezare,"sat GEMENELE; ""Muchia comuna GEMENELE dincolo","lui Berbec”, la cca. 3 km SE de sat, de vii","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
 19,BR-I-s-B-02054,Aşezare,"sat GRĂDIŞTEA; Popina comuna GRĂDIŞTEA sat,","""Movila Crestată”, la cca. 4 km SE pe malul stâng al Buzăului","de sec. II - I a. Chr., Cultura geto - dacică"
-20,BR-I-s-B-02055 BR-I-m-B-02055.01,"Situl arheologic Popina I şi II de la Însurăţei, punct ""Rubla” Popina I de la ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului oraş ÎNSURĂŢEI Popina,"I, II, la 7 km NV de Însurăţei, la 1 de podul ""Rubla"", pe malul drept I, la 7 km NV de Însurăţei, la 1 km",km în al în sec. XVII - XVIII
+20,BR-I-s-B-02055,"Situl arheologic Popina I şi II de la Însurăţei, punct ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului,"I, II, la 7 km NV de Însurăţei, la 1 de podul ""Rubla"", pe malul drept",km în al
+21, BR-I-m-B-02055.01," Popina I de la ""Rubla”", oraş ÎNSURĂŢEI Popina amonte Călmăţuiului," I, la 7 km NV de Însurăţei, la 1 km de podul ""Rubla"", pe malul drept", în sec. XVII - XVIII al
 22,BR-I-m-B-02055.02,"Popina I de la ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului,"I, la 7 km NV de Însurăţei, la 1 km de podul ""Rubla"", pe malul drept","în sec. IV - III a. Chr., al Cultura geto - dacică"
 23,BR-I-m-B-02055.03,"Popina I de la ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului,"I, la 7 km NV de Însurăţei, la 1 km de podul ""Rubla"", pe malul drept","în Eneolitic, Cultura al Gumelniţa, fazele A1 şi A2"
 24,BR-I-m-B-02055.04,"Popina II de la ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului,"I, la 7 km NV de Însurăţei, la 1 km de podul ""Rubla"", pe malul drept","în Neolitic, Cultura Boian, al faza Giuleşti"
@@ -24,7 +27,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 26,BR-I-m-B-02055.06,"Popina II de la ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului,"II, la 7 km NV de Însurăţei, la 1 km de podul ""Rubla"", pe malul drept","în Eneolitic, Cultura al Gumelniţa, fazele A1 şi A2"
 27,BR-I-m-B-02055.07,"Popina II de la ""Rubla”",oraş ÎNSURĂŢEI Popina amonte Călmăţuiului,"II, la 7 km NV de Însurăţei, la 1 km de podul ""Rubla"", pe malul drept","în Neolitic, Cultura Boian, al faza Giuleşti"
 28,BR-I-s-B-02056,"Situl arheologic de la Lişcoteanca, punct ""Moş Filon""","sat LIŞCOTEANCA; ""Moş comuna BORDEI marginea VERDE sediul sat","Filon”, pe un bot de terasă situat la de V a satului, la cca.200 m SV fostului C.A.P. şi 800 m V de şcoala", de din
-29,BR-I-m-B-02056.01,Morminte pecenege,"sat LIŞCOTEANCA; ""Moş comuna BORDEI marginea sat","Filon”, pe un bot de terasă situat la de V a satului, la cca.200 m SV","sec. X - XI, Epoca de migraţiilor"
+29,BR-I-m-B-02056.01,Morminte pecenege,"sat LIŞCOTEANCA; ""Moş comuna BORDEI marginea VERDE sediul","Filon”, pe un bot de terasă situat la de V a satului, la cca.200 m SV fostului C.A.P. şi 800 m V de şcoala","sec. X - XI, Epoca de migraţiilor din"
 30,BR-I-m-B-02056.02,Morminte sarmatice,"sat LIŞCOTEANCA; ""Moş comuna BORDEI marginea VERDE sediul sat","Filon”, pe un bot de terasă situat la de V a satului, la cca.200 m SV fostului C.A.P. şi 800 m V de şcoala","sec. II - III p. Chr., Epoca de migraţiilor din"
 31,BR-I-m-B-02056.03,Aşezare,"sat LIŞCOTEANCA; ""Moş comuna BORDEI marginea VERDE sediul sat","Filon”, pe un bot de terasă situat la de V a satului, la cca.200 m SV fostului C.A.P. şi 800 m V de şcoala","Eneolitic, Cultura de Gumelniţa, fazele A1 şi din A2"
 32,BR-I-m-B-02056.04,Aşezare,"sat LIŞCOTEANCA; ""Moş comuna BORDEI marginea VERDE sediul sat","Filon”, pe un bot de terasă situat la de V a satului, la cca.200 m SV fostului C.A.P. şi 800 m V de şcoala","Neolitic, Cultura Boian, de faza Giuleşti din"
@@ -32,13 +35,14 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 34,BR-I-s-B-02057,Aşezare,"sat MUCHEA; comuna ""Popină”, SILIŞTEA de",la cca. 2 km NV de sat şi la 1 km poligonul de tragere de la Muchea,"NV Hallstatt, Cultura Babadag, fazele I - II"
 35,BR-I-s-B-02058,"Situl arheologic de la Scărlăteşti, punct ""Popină”","sat SCĂRLĂTEŞTI; ""Popină”, comuna CIREŞU de",la cca. 500 m N de sat şi la 150 calea ferată Buzău-Constanţa,m V
 36,BR-I-m-B-02058.01,Morminte sarmatice,"sat SCĂRLĂTEŞTI; ""Popină”, comuna CIREŞU de",la cca. 500 m N de sat şi la 150 calea ferată Buzău-Constanţa,m V sec. II - III p. Chr.
-37,BR-I-m-B-02058.02 BR-I-m-B-02058.03,Morminte Aşezare,"sat SCĂRLĂTEŞTI; ""Popină”, comuna CIREŞU de sat SCĂRLĂTEŞTI; ""Popină”,",la cca. 500 m NV de sat la 150 calea ferată Buzău-Constanţa la cca. 500 m N de sat şi la 150,"m V Epoca bronzului timpuriu şi mijlociu m V Eneolitic, Cultura"
+37,BR-I-m-B-02058.02,Morminte,"sat SCĂRLĂTEŞTI; ""Popină”, comuna CIREŞU de",la cca. 500 m NV de sat la 150 calea ferată Buzău-Constanţa,m V Epoca bronzului timpuriu şi mijlociu
+38, BR-I-m-B-02058.03, Aşezare," sat SCĂRLĂTEŞTI; ""Popină”, comuna CIREŞU de", la cca. 500 m N de sat şi la 150 calea ferată Buzău-Constanţa," m V Eneolitic, Cultura Gumelniţa, faza A1"
 39,BR-I-s-B-02059,Aşezare,"sat ŞUŢEŞTI; comuna ""Popină”, ŞUŢEŞTI Brăila","cca 500 m NV de sat, lângă şoseaua - Rm. Sărat","Hallstatt, Cultura Basarabi"
 40,BR-I-s-B-02060,Situl arheologic de la Măxineni,sat VOINEŞTI; comuna La MĂXINENI,cca. 500 m de confluenţa Buzău - Siret,1637 - 1638
 41,BR-I-m-B-02060.01,Aşezare,sat VOINEŞTI; comuna La MĂXINENI,cca. 500 m de confluenţa Buzău - Siret,sec. XVI - XVII
 42,BR-I-m-B-02060.02,Necropolă,sat VOINEŞTI; comuna La MĂXINENI,cca. 500 m de confluenţa Buzău - Siret,sec. XVI - XVII
 43,BR-II-m-B-02061,"Silozurile ""Anghel Saligny""",municipiul BRĂILA Pe Docurilor,"malul stâng al Dunării, lângă Bazinul",1887 - 1891
-44,BR-II-s-B-02062,Centrul istoric al municipiului Brăila,"municipiul BRĂILA Zona str: Gh.Marinescu, Vapoarelor, Ion Bastionului, Rozelor, C.Hepites, Fragilor, I.L.Caragiale, C.A.Rosetti, Oituz, Goleşti, N.Grigorescu, Publice, Mărfurilor, Tătaru,","cuprinsă între bd.Al.I.Cuza şi Dunăre, Calea Călăraşilor, Malului, Veche, Justiţiei, Pensionatului, Danubiului, Rubinelor, Pietrei, Băncilă, Mărăşti, Orientului, A.Saligny, Şcolilor, R.S.Campiniu, Frumoasă, P.Maior, M.Sebastian, A.Aslan, bd.Al.I.Cuza, Braşoveni, Roşie, Băii, Pomilor, Cojocari, Tâmplari, N.Bălcescu, Catolică, Maşinilor, Împăratul Traian, Belvedere, Neagră, E.Nicolau, D.Bolintineanu, Fortificaţiei, Cetăţii, Albă, Zidari, Albiei, Albastră, Grădinii Cazărmii, Citadelei, Militară, Mare, Mercur, Ancorei şi 10 magazii, Vadul Schelei şi 4 magazii,",cu
+44,BR-II-s-B-02062,Centrul istoric al municipiului Brăila,"municipiul BRĂILA Zona str: Gh.Marinescu, Vapoarelor, Ion Bastionului, Rozelor, C.Hepites, Fragilor, I.L.Caragiale, C.A.Rosetti, Oituz, Goleşti, N.Grigorescu, Publice, Mărfurilor, Debarcaderului","cuprinsă între bd.Al.I.Cuza şi Dunăre, Calea Călăraşilor, Malului, Veche, Justiţiei, Pensionatului, Danubiului, Rubinelor, Pietrei, Băncilă, Mărăşti, Orientului, A.Saligny, Şcolilor, R.S.Campiniu, Frumoasă, P.Maior, M.Sebastian, A.Aslan, bd.Al.I.Cuza, Braşoveni, Roşie, Băii, Pomilor, Cojocari, Tâmplari, N.Bălcescu, Catolică, Maşinilor, Împăratul Traian, Belvedere, Neagră, E.Nicolau, D.Bolintineanu, Fortificaţiei, Cetăţii, Albă, Zidari, Albiei, Albastră, Grădinii Cazărmii, Citadelei, Militară, Mare, Mercur, Ancorei şi 10 magazii, şi 5 magazii, Vadul Sergent",cu
 45,BR-II-m-B-02063,Casa Nedelcu Chercea,municipiul BRĂILA Str.,"1 Decembrie 1918, 52",1898
 46,BR-II-m-B-02064,Fosta Şcoală de băieţi,municipiul BRĂILA Str.,Aslan Ana 8,1890
 47,BR-II-m-B-02065,"Biserica ""Sf. Nicolae”",municipiul BRĂILA Str.,Aslan Ana 10,1860 - 1865
@@ -46,7 +50,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 49,BR-II-m-B-02067,Casa Chercea,municipiul BRĂILA Str.,Aslan Ana 42-44,1910
 50,BR-II-m-B-02068,"Casa Embericos, azi Centrul Cultural ""Nicăpetre""",municipiul BRĂILA Str.,Belvedere 1,1912
 51,BR-II-m-B-02069,"Casa Pericle Economu, azi Sediul Direcţiei Muncii şi Protecţiei Sociale",municipiul BRĂILA Str.,Bolintineanu Dimitrie 7,1900
-52,BR-II-m-B-02071 BR-II-m-B-02072,"Institutul ""Sancta Maria”, azi Spitalul de pneumologie Casa Daniel, fost Club al",municipiul BRĂILA Str. municipiul BRĂILA Str.,Campiniu R.S. 21 Campiniu R.S. 30,1898 1925
+52,BR-II-m-B-02071,"Institutul ""Sancta Maria”, azi Spitalul de pneumologie",municipiul BRĂILA Str.,Campiniu R.S. 21,1898
+53, BR-II-m-B-02072," Casa Daniel, fost Club al Copiilor", municipiul BRĂILA Str., Campiniu R.S. 30, 1925
 54,BR-II-m-B-02073,Casa Varlaam,municipiul BRĂILA Str.,Caragiale Ion Luca 3,1912
 55,BR-II-m-B-02074,Casa M. Balter,municipiul BRĂILA Str.,Catolică 15,1900
 56,BR-II-m-B-02075,Sediul Băncii Naţionale a României - filiala Brăila,municipiul BRĂILA Calea,Călăraşilor 2,1886
@@ -55,7 +60,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 59,BR-II-m-B-02078,"Palatul Administrativ şi Judecătoresc, azi Universitatea ""Dunării de Jos”, Facultatea de Inginerie",municipiul BRĂILA Calea,Călăraşilor 29,1891
 60,BR-II-m-B-02079,Palatul Agriculturii,municipiul BRĂILA Calea,Călăraşilor 58,1923 - 1929
 61,BR-II-m-B-02080,"Spitalul Comunal Brăila, azi Spitalul ""Sf. Pantelimon""",municipiul BRĂILA Calea,Călăraşilor 125,"1884, 1923, 1935"
-62,BR-II-m-B-02081 BR-II-m-B-02082,"Hruba ""Pulberăria Nouă” Palatul ""Lyra”",municipiul BRĂILA Str. municipiul BRĂILA Str.,Cetăţii 43 Cojocari 21,1812 - 1814 1924
+62,BR-II-m-B-02081,"Hruba ""Pulberăria Nouă”",municipiul BRĂILA Str.,Cetăţii 43,1812 - 1814
+63, BR-II-m-B-02082," Palatul ""Lyra”", municipiul BRĂILA Str., Cojocari 21, 1924
 64,BR-II-m-B-02083,Casă,municipiul BRĂILA Str.,Colţei 1,1843
 65,BR-II-m-B-02084,"Gimnaziul ""Herş Leib şi Netty Schäffer""",municipiul BRĂILA Bd.,Cuza Alexandru Ioan 71,1912
 66,BR-II-m-B-02085,Baia comunităţii evreieşti,municipiul BRĂILA Bd.,Cuza Alexandru Ioan 73,1922
@@ -66,7 +72,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 71,BR-II-m-B-02090,Casa Toff,municipiul BRĂILA Bd.,Cuza Alexandru Ioan 159,1900
 72,BR-II-m-B-02091,Casa Tane - Babeş,municipiul BRĂILA Bd.,Cuza Alexandru Ioan 161-163,1900
 73,BR-II-m-B-02092,Casa Fanciotti,municipiul BRĂILA Bd.,Cuza Alexandru Ioan 173,1925
-74,BR-II-m-B-02093 BR-II-m-B-02094,"Colegiul Naţional ""Nicolae Bălcescu” Fosta Bancă Agricolă,",municipiul BRĂILA Bd. municipiul BRĂILA Str.,Cuza Alexandru Ioan 182 Danubiului 8,1885 - 1886 1870
+74,BR-II-m-B-02093,"Colegiul Naţional ""Nicolae Bălcescu”",municipiul BRĂILA Bd.,Cuza Alexandru Ioan 182,1885 - 1886
+75, BR-II-m-B-02094," Fosta Bancă Agricolă, azi Direcţia de Poştă", municipiul BRĂILA Str., Danubiului 8, 1870
 76,BR-II-m-B-02095,"Clubul NAVROM, azi BCR - filiala Brăila",municipiul BRĂILA Str.,Danubiului 12,1910
 77,BR-II-a-B-02096,"Ansamblul ""Str. M. Eminescu - str. 1 Decembrie 1918""",municipiul BRĂILA Str. până,"Eminescu Mihai, şi Str. 1 Decembrie la intersecţia cu str. Griviţei",1918 sec. XIX
 78,BR-II-m-B-02097,"Teatrul ""Rally"", azi Teatrul ""Maria Filotti""",municipiul BRĂILA Str.,Eminescu Mihai 2,1896
@@ -77,7 +84,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 83,BR-II-m-B-02102,"Casa V. Ştefănescu, azi Ocolul Silvic",municipiul BRĂILA Str.,Goleşti 29,1899
 84,BR-II-m-B-02103,Casa Cavadia,municipiul BRĂILA Str.,Grădinii Publice 4,1910
 85,BR-II-m-B-02070,"Casa Suliotis, azi Colegiul economic ""Ion Ghica""",municipiul BRĂILA Str.,Grădinii Publice 15,1900
-86,BR-II-m-B-02104 BR-II-m-B-02105,Castelul de apă Beci,municipiul BRĂILA Str. Schelei municipiul BRĂILA Str.,"Grădinii Publice 20, colţ cu str. Vadul Grădinii Publice 20, pe latura de E, colţ",1914 cu sec. XVIII
+86,BR-II-m-B-02104,Castelul de apă,municipiul BRĂILA Str. Schelei,"Grădinii Publice 20, colţ cu str. Vadul",1914
+87, BR-II-m-B-02105, Beci, municipiul BRĂILA Str. str.," Grădinii Publice 20, pe latura de E, colţ Vadul Schelei", cu sec. XVIII
 88,BR-II-m-B-02106,Cazarma Artileriei,municipiul BRĂILA Str.,"Grigorescu Eremia, general 48",1885
 89,BR-II-a-B-02107,"Ansamblu ""Str. Eremia Grigorescu""",municipiul BRĂILA Str. Bd.,"Grigorescu Eremia, general 1-13, între Al.I.Cuza şi str. Plevnei",sec. XIX
 90,BR-II-m-B-02108,"Şcoala ""Constantin Sandu Aldea""",municipiul BRĂILA Str.,"Grigorescu Eremia, general 23",1923
@@ -85,7 +93,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 92,BR-II-m-B-02110,"Fostul Liceu de fete, azi Colegiul Naţional ""Gh. Munteanu Murgoci”",municipiul BRĂILA Bd.,Independenţei 4,1890
 93,BR-II-m-B-02109,Casă,municipiul BRĂILA Piaţa,Independenţei 1A,înc. sec. XX
 94,BR-II-m-B-02111,"Casa Societăţii de Asigurări ""Generala”, azi Sediul Flotilei de Dunăre",municipiul BRĂILA Str.,Împăratul Traian 8,1910
-95,BR-II-m-B-02112 BR-II-m-B-02113,"Biserica ""Sf. Apostoli Petru şi Pavel și Sf. Cuvioasă Parascheva” Casa Panteli",municipiul BRĂILA Str. municipiul BRĂILA Str.,Maior Petru 24 Mărăşeşti 3,1872 - 1894 1912
+95,BR-II-m-B-02112,"Biserica ""Sf. Apostoli Petru şi Pavel și Sf. Cuvioasă Parascheva”",municipiul BRĂILA Str.,Maior Petru 24,1872 - 1894
+96, BR-II-m-B-02113, Casa Panteli, municipiul BRĂILA Str., Mărăşeşti 3, 1912
 97,BR-II-m-B-02114,Casa A. Teodorescu,municipiul BRĂILA Str.,Mărăşeşti 22,1890 - 1921
 98,BR-II-m-B-02115,Casa turcească,municipiul BRĂILA Str.,"Orientului 19, Justiţiei, 2",înc. sec. XIX
 99,BR-II-m-B-02116,"Școala primară comunală ""Spiru Haret”",municipiul BRĂILA Şos.,Parcului 2,1923 - 1925
@@ -94,7 +103,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 102,BR-II-m-B-02119,"Fabrica de bere ""R.H. Müller”",municipiul BRĂILA Str.,Plevnei 173,1872 - 1873
 103,BR-II-m-B-02120,"Clădirea Societăţii Române de Asigurări din Brăila, azi Biblioteca Judeţeană ""Panait Istrati""",municipiul BRĂILA Piaţa,Poligon 4,sf. sec. XIX
 104,BR-II-m-B-02121,Casa Alexiu,municipiul BRĂILA Str.,Polonă 14,1910
-105,BR-II-m-B-02122 BR-II-m-B-02123,"Casa Irimia, azi Căminul de bătrâni Casa Popeea",municipiul BRĂILA Str. municipiul BRĂILA Str.,Polonă 22 Rosetti C.A. 1,1912 1900
+105,BR-II-m-B-02122,"Casa Irimia, azi Căminul de bătrâni",municipiul BRĂILA Str.,Polonă 22,1912
+106, BR-II-m-B-02123, Casa Popeea, municipiul BRĂILA Str., Rosetti C.A. 1, 1900
 107,BR-II-m-B-02124,Casa Manos,municipiul BRĂILA Str.,Rosetti C.A. 2,1912
 108,BR-II-m-B-02125,"Hotel ""Atena""",municipiul BRĂILA Str.,Roşie 2,mijl. sec. XIX
 109,BR-II-m-B-02126,Fosta şcoală greacă,municipiul BRĂILA Str.,Rubinelor 2,1903
@@ -105,7 +115,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 114,BR-II-m-B-20909,"Imobil, sediul Muzeului Brăilei",municipiul BRĂILA Piaţa,Traian 3,1830
 115,BR-II-m-B-02132,"Hotel ""Danubiu"", azi BRD Groupe Société Générale",municipiul BRĂILA Piaţa,Traian 12,1890
 116,BR-II-m-B-02133,Moara Likiardopulos,municipiul BRĂILA Str.,Vadul Rizeriei 1,1911 - 1912
-117,BR-II-a-B-02134 BR-II-m-B-02135,"Ansamblu de arhitectură populară Biserica ""Sf. Nicolae”",sat CORBU VECHI; Perimetrul comuna MĂXINENI lui sat aparţinător LACU Str.,"din vatra satului între locuinţele Chirpac Nicolae, Dănilă Ion şi Sandu Virgil 5, 116, în centrul satului", înc. sec. XIX
+117,BR-II-a-B-02134,Ansamblu de arhitectură populară,sat CORBU VECHI; Perimetrul comuna MĂXINENI lui,"din vatra satului între locuinţele Chirpac Nicolae, Dănilă Ion şi Sandu Virgil",
+118, BR-II-m-B-02135," Biserica ""Sf. Nicolae”", sat aparţinător LACU Str. REZII; oraş ÎNSURĂŢEI," 5, 116, în centrul satului", înc. sec. XIX
 119,BR-II-m-A-02136,"Ruinele bisericii ""Naşterea Sf. Ioan Botezătorul” a fostei mănăstiri Măxineni",sat MĂXINENI; La comuna MĂXINENI Siretului,"9 km NNE de sat, pe malul drept al","1636-1637, ref. 1859"
 120,BR-II-m-B-02137,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat ŞUŢEŞTI; comuna Str. ŞUŢEŞTI,"Brăilei 2, în centrul satului",1842
 121,BR-II-m-B-02138,Conacul Orezeanu,sat TRAIAN; comuna La TRAIAN,800 m V de staţia CFR,1908
@@ -116,7 +127,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 126,BR-III-m-B-02143,Statuia Sergent Erou Ecaterina Teodoroiu,"municipiul BRĂILA Bd. ""Gh.","Independenţei, în faţa Colegiului Naţional Munteanu Murgoci""",1928
 127,BR-III-m-B-02144,"Grupul statuar ""Traian""",municipiul BRĂILA Piaţa,"Traian, în parc",1904 - 1906
 128,BR-III-m-B-02145,Fântână arteziană,municipiul BRĂILA Piaţa,"Traian, în parc",1891
-129,BR-III-m-B-02146 BR-III-m-B-02147,Ceasul public Bustul lui Toma,municipiul BRĂILA Piaţa sat GALBENU; Str.,"Traian, în parc Tâmpeanu Toma 286, în curtea Școlii",1909 cu 1910
+129,BR-III-m-B-02146,Ceasul public,municipiul BRĂILA Piaţa,"Traian, în parc",1909
+130, BR-III-m-B-02147, Bustul lui Toma Tâmpeanu, sat GALBENU; Str. comuna GALBENU clasele," Tâmpeanu Toma 286, în curtea Școlii I-VIII", cu 1910
 131,BR-IV-m-B-02153,Obelisc (1916 - 1919),"municipiul BRĂILA Intersecția Focșani,","str. Decebal cu str. Viforului și în faţa bisericii ""Sf. Mina""",șos. 1936
 132,BR-IV-m-B-02148,Casa Leonte Moldovan,municipiul BRĂILA Str.,Aslan Ana 21,1912
 133,BR-IV-m-B-02149,Casa D.P.Perpessicius,municipiul BRĂILA Str.,Cetăţii 70,mijl. sec. XIX
@@ -127,7 +139,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 138,BR-IV-m-B-02155,Casa General Moise Groza,municipiul BRĂILA Str.,Frumoasă 9,sf. sec. XIX
 139,BR-IV-m-B-02156,Bustul lui Francesco Carnevali,municipiul BRĂILA Calea,"Galaţi 67C, în cimitirul catolic",înc. sec. XX
 140,BR-IV-m-B-02157,"Casa ""Panait Istrati""",municipiul BRĂILA Str.,"Grădinii Publice 20, în Grădina Publică",sf. sec. XIX
-141,BR-IV-m-B-02158 BR-IV-m-B-02159,"Școala generală nr. 11, azi Casa Corpului Didactic Casa Ana Aslan",municipiul BRĂILA Str. municipiul BRĂILA Str.,Griviţei 328 Hepites Constantin dr. 1,"1891, sf. sec. XIX sf. sec. XIX"
+141,BR-IV-m-B-02158,"Școala generală nr. 11, azi Casa Corpului Didactic",municipiul BRĂILA Str.,Griviţei 328,"1891, sf. sec. XIX"
+142, BR-IV-m-B-02159, Casa Ana Aslan, municipiul BRĂILA Str., Hepites Constantin dr. 1, sf. sec. XIX
 143,BR-IV-m-B-02160,"Locanta"" Kir Leonida""",municipiul BRĂILA Str.,Malului 1,sf. sec. XIX
 144,BR-IV-m-B-02161,Osuarul românilor căzuţi în Moldova în 1917,municipiul BRĂILA Str. cimitirul,"Pietăţii 17, în „Cimitirul Eroilor” din ""Sf. Constantin""",1938
 145,BR-IV-m-B-02162,Monumentul soldaţilor italieni (1914 - 1918),municipiul BRĂILA Str. cimitirul,"Pietăţii 17, în „Cimitirul Eroilor” din ""Sf. Constantin""",1921
@@ -138,7 +151,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 150,BR-IV-m-B-02167,Casa Petre Ştefănescu- Goangă,municipiul BRĂILA Piaţa,Poligon 2,sf. sec. XIX
 151,BR-IV-m-B-02168,Adăpători de piatră,sat CIOCILE; comuna Str. CIOCILE,"Principală, la intrarea în comună",sec. XIX
 152,BR-IV-m-B-02169,Obelisc (1916 - 1919),sat CHISCANI; comuna Str. CHISCANI,"Principală 224, în faţa primăriei",1938
-153,BR-IV-m-B-02170 BR-IV-a-B-02171,Monumentul Eroilor (1916 - 1919) Cruci de piatră,sat GALBENU; Str. comuna GALBENU copii oraş IANCA În,"Tâmpeanu Toma 237, lângă Grădinița cimitirul de lângă biserică",de 1937 sec. XVIII - XIX
+153,BR-IV-m-B-02170,Monumentul Eroilor (1916 - 1919),sat GALBENU; Str. comuna GALBENU copii,"Tâmpeanu Toma 237, lângă Grădinița",de 1937
+154, BR-IV-a-B-02171, Cruci de piatră, oraş IANCA În, cimitirul de lângă biserică, sec. XVIII - XIX
 155,BR-IV-m-B-02172,Statuia Eroilor (1877 - 1878 şi 1916 - 1919),oraş IANCA Calea,"Brăilei, în faţa Casei de Cultură",1938
 156,BR-IV-m-B-20864,Cruce de piatră,oraş ÎNSURĂŢEI Pe centru,"movila ""Păduchiosul"" din faţa fostului de vinificaţie",sec. XVIII
 157,BR-IV-m-B-02173,Statuia Eroilor (1916 - 1919),sat JIRLĂU; comuna Str. JIRLĂU primărie-şcoală,"Râmnicu Sărat 104, în perimetrul",1938
@@ -148,7 +162,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 161,BR-IV-s-B-02177,Cimitirul Eroilor (1916 - 1919),sat RACOVIŢA; Str. comuna RACOVIŢA Trei,"Calea Custura 42, în curtea bisericii ""Sf. Ierarhi""",
 162,BR-IV-m-B-02178,Cruce de piatră,sat ROŞIORI; comuna Pe ROŞIORI,şoseaua dintre sat Tătaru şi sat Roşiori,sec. XVIII
 163,BR-IV-m-B-02179,Obelisc (1916 - 1919),sat SILISTRARU; Str. comuna TRAIAN,"Bisericii 19, în curtea fostei școli",
-164,BR-IV-m-B-02180 BR-IV-m-B-02181,Monumentul Eroilor (1877 - 1878 şi 1916 - 1919) Obelisc (1877 - 1878),sat SURDILA-GRECI; Str. comuna SURDILA- GRECI sat ŞUŢEŞTI; comuna Str.,"Principală, în faţa primăriei Ianca, în faţa şcolii", 1910
+164,BR-IV-m-B-02180,Monumentul Eroilor (1877 - 1878 şi 1916 - 1919),sat SURDILA-GRECI; Str. comuna SURDILA- GRECI,"Principală, în faţa primăriei",
+165, BR-IV-m-B-02181, Obelisc (1877 - 1878), sat ŞUŢEŞTI; comuna Str. ŞUŢEŞTI," Ianca, în faţa şcolii", 1910
 166,BR-IV-m-B-02182,Cruce de piatră,sat TĂTARU; comuna În DUDEŞTI,faţa fostului C.A.P,sec. XVIII
 167,BR-IV-a-B-02183,Grup de fântâni cu cumpănă,sat TĂTARU; comuna În DUDEŞTI,marginea satului,sec. XIX
 168,BR-IV-m-B-02184,Monumentul Eroilor (1877 - 1888 şi 1916 - 1919),sat TUFEŞTI; comuna Str. TUFEŞTI Cultural,"Eminescu Mihai 1, în fața Căminului nr. 2",

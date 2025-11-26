@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,CV-I-s-B-13029,"Situl arheologic de la Sfântu Gheorghe, punct ""Cetatea Cocostârcului""",municipiul SFÂNTU GHEORGHE,Cetatea Cocostârcului (Gémvára),
 2,CV-I-m-B-13029.01,Aşezare fortificată,municipiul SFÂNTU GHEORGHE,"Cetatea Cocostârcului (Gémvára), km V de oraş, pe malul pârâului Debren","la 2 Eneolitic, Cultura Cucuteni-Ariuşd"
 3,CV-I-m-B-13029.02,Aşezare fortificată,municipiul SFÂNTU GHEORGHE,"Cetatea Cocostârcului (Gémvára), km V de oraş, pe malul pârâului Debren","la 2 Epoca bronzului, Cultura Wietenberg"
 4,CV-I-s-B-13030,"Situl arheologic de la Sfântu Gheorghe, punct „Avasalja”",municipiul SFÂNTU GHEORGHE,"""Avasalja”",
@@ -6,7 +7,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,CV-I-m-B-13030.02,Aşezare,municipiul SFÂNTU GHEORGHE,"""Avasalja”",Hallstatt timpuriu
 7,CV-I-m-B-13030.03,Mormânt scitic,municipiul SFÂNTU GHEORGHE,"""Avasalja”",Epoca migraţiilor
 8,CV-I-s-A-13031,"Situl arheologic de la Sfîntu Gheorghe, punct ""Eprestetö""",municipiul SFÂNTU GHEORGHE,"""Eprestetö""",
-9,CV-I-m-A-13031.01,Aşezare daco-romană,municipiul SFÂNTU GHEORGHE GHEORGHE,"""Eprestetö"", lângă gară","sec. III - IV p. Chr., Epoca daco-romană dacică"
+9,CV-I-m-A-13031.01,Aşezare daco-romană,municipiul SFÂNTU GHEORGHE,"""Eprestetö"", lângă gară","sec. III - IV p. Chr., Epoca daco-romană"
+10,CV-I-m-A-13031.02,Necropolă de incineraţie,municipiul SFÂNTU GHEORGHE,"""Eprestetö"", lângă gară","Latène, Cultura geto - dacică"
 11,CV-I-m-A-13031.03,Aşezare,municipiul SFÂNTU GHEORGHE,"""Eprestetö"", lângă gară",sec. X - XI
 12,CV-I-m-A-13031.04,Aşezare,municipiul SFÂNTU GHEORGHE,"""Eprestetö"", lângă gară","Epoca migraţiilor, Cultura Sântana de Mureş-Cerneahov"
 13,CV-I-s-A-13032,"Situl arheologic de la Sfântu Gheorghe, punct ""Bedeháza""",municipiul SFÂNTU GHEORGHE,"""Bedeháza”",
@@ -16,7 +18,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 17,CV-I-m-A-13032.04,Aşezare,municipiul SFÂNTU GHEORGHE,"""Bedeháza”, pe malul stâng al Oltului, spre Ghidfalău","Neolitic timpuriu, Cultura Starčevo - Criş"
 18,CV-I-s-A-13033,Aşezare,municipiul SFÂNTU GHEORGHE,"""Templomdomb"", dealul Bisericii Reformate, pe terasa de S a dealului, dreptul Străzii Várgödre","sec. X - XII, Epoca în medievală timpurie"
 19,CV-I-s-B-13034,"Situl arheologic de la Angheluş, punct ""Templomnyír""",sat ANGHELUŞ; comuna GHIDFALĂU,"""Templomnyír” (""Mestecănişul bisericii”), la extremitatea nordică intravilanului", a
-20,CV-I-m-B-13034.01,Aşezare,sat ANGHELUŞ; comuna GHIDFALĂU,"""Templomnyír” (""Mestecănişul bisericii”), la extremitatea nordică","sec. XII - XIII, Epoca a medievală timpurie"
+20,CV-I-m-B-13034.01,Aşezare,sat ANGHELUŞ; comuna GHIDFALĂU,"""Templomnyír” (""Mestecănişul bisericii”), la extremitatea nordică intravilanului","sec. XII - XIII, Epoca a medievală timpurie"
 21,CV-I-m-B-13034.02,Aşezare,sat ANGHELUŞ; comuna GHIDFALĂU,"""Templomnyír” (""Mestecănişul bisericii”), la extremitatea nordică intravilanului","sec. VII - VIII, Epoca a migraţiilor"
 22,CV-I-m-B-13034.03,Aşezare,sat ANGHELUŞ; comuna GHIDFALĂU,"""Templomnyír” (""Mestecănişul bisericii”), la extremitatea nordică intravilanului","Latène, Cultura geto - a dacică"
 23,CV-I-s-B-13035,"Situl arheologic de la Angheluş, punct ""Vatra satului""",sat ANGHELUŞ; comuna GHIDFALĂU,Vatra satului,"sec. II - III p. Chr., Epoca romană"
@@ -26,7 +28,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 27,CV-I-s-A-13036,Situl arheologic de la Ariuşd,sat ARIUŞD; comuna VÂLCELE,"""Dealul Tyiszk""","Eneolitic, Cultura Cucuteni - Ariuşd"
 28,CV-I-s-A-13037,Situl arheologic de la Ariuşd,sat ARIUŞD; comuna VÂLCELE,"Dealul ""Csókás""",
 29,CV-I-m-A-13037.01,Fortificaţie,sat ARIUŞD; comuna VÂLCELE,"Dealul ""Csókás"", la extremitatea nordică a intravilanului, pe malul drept al Oltului","sec. XII - XIII, Epoca medievală"
-30,CV-I-m-A-13037.02,"Aşezare Baraolt, punct terasa",sat ARIUŞD; comuna VÂLCELE,"Dealul ""Csókás"", la extremitatea nordică a intravilanului, pe malul drept al Oltului",Hallstatt romană
+30,CV-I-m-A-13037.02,Aşezare,sat ARIUŞD; comuna VÂLCELE,"Dealul ""Csókás"", la extremitatea nordică a intravilanului, pe malul drept al Oltului",Hallstatt
+31,CV-I-s-B-13038,"Aşezarea romană de la Baraolt, punct terasa „Véczerfarka”",oraş BARAOLT,"Terasa ""Véczerfarka”, pe dealul Véczer","sec. II - III p. Chr., Epoca romană"
 32,CV-I-s-A-13039,"Situl arheologic de la Baraolt, punct ""Nagyerdõalja""",oraş BARAOLT,"Dealul ""Nagyerdõalja"", pe malul drept al râului Baraolt",
 33,CV-I-m-A-13039.01,Aşezarea medievală de la Baraolt,oraş BARAOLT,"Dealul ""Nagyerdõalja"", pe malul drept al râului Baraolt","sec. IX - XI, Epoca medievală timpurie"
 34,CV-I-m-A-13039.02,Aşezare,oraş BARAOLT,"Dealul ""Nagyerdõalja"", pe malul drept al râului Baraolt",Hallstatt
@@ -35,7 +38,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 37,CV-I-s-B-13040,Aşezarea neolitică de la Barcani,sat BARCANI; comuna BARCANI,Cartier Costanda,Neolitic
 38,CV-I-s-A-13041,"Situl arheologic de la Biborţeni, punct ""Cetatea Tiborc""",sat aparţinător BIBORŢENI; oraş BARAOLT,"""Cetatea Tiborc”",
 39,CV-I-m-A-13041.01,Aşezare,sat aparţinător BIBORŢENI; oraş BARAOLT,"""Cetatea Tiborc”",Latène
-40,CV-I-m-A-13041.02,Aşezare,sat aparţinător BIBORŢENI; oraş BARAOLT BIBORŢENI; oraş,"""Cetatea Tiborc”",Epoca bronzului medievală
+40,CV-I-m-A-13041.02,Aşezare,sat aparţinător BIBORŢENI; oraş BARAOLT,"""Cetatea Tiborc”",Epoca bronzului
+41,CV-I-m-A-13041.03,Fortificaţie,sat aparţinător BIBORŢENI; oraş BARAOLT,"""Cetatea Tiborc”","sec. XII - XIII, Epoca medievală"
 42,CV-I-s-B-13042,Situl arheologic de la Biborţeni,sat aparţinător BIBORŢENI; oraş BARAOLT,"La 3 km de Baraolt, pe malul stâng pârâului Dongo",al Paleolitic-Musterian
 43,CV-I-s-A-13044,Situl arheologic de la Bixad,sat BIXAD; comuna BIXAD,"""Cetatea - Vápa” la 2,5 km sud-vest Bixad, pe malul drept al Oltului",de
 44,CV-I-m-A-13044.01,Fortificaţie,sat BIXAD; comuna BIXAD,"""Cetatea - Vápa” la 2,5 km sud-vest Bixad, pe malul drept al Oltului","de sec. XIII - XIV, Epoca medievală"
@@ -45,7 +49,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 48,CV-I-s-B-13045,"Fortificaţia medievală de la Bixad, punct ""Cetatea Şoimilor""",sat BIXAD; comuna BIXAD,"Cetatea ""Şoimilor"", pe dealul Piatra Şoimilor, la confluenţa Oltului cu pârâul Calului","sec. XIV - XV, Epoca medievală"
 49,CV-I-s-A-13046,"Situl arheologic de la Bodoc, punct vârful ""Kincsástetõ""",sat BODOC; comuna BODOC,"Vârful cu Comoară (Kincsástetõ), pe Muntele Bodoc (1053 m), la 7 km nord",
 50,CV-I-m-A-13046.01,"Fortificaţia cu incintă ""Kincsástetõ”",sat BODOC; comuna BODOC,"Vârful cu Comoară (Kincsástetõ), pe Muntele Bodoc (1053 m), la 7 km nord","sec. XIII - XIV, Epoca medievală"
-51,CV-I-m-A-13046.02,Aşezare romană de la Boroşneu,sat BODOC; comuna BODOC comuna BOROŞNEU,"Vârful cu Comoară (Kincsástetõ), pe Muntele Bodoc (1053 m), la 7 km nord NV a satului",Hallstatt
+51,CV-I-m-A-13046.02,Aşezare,sat BODOC; comuna BODOC,"Vârful cu Comoară (Kincsástetõ), pe Muntele Bodoc (1053 m), la 7 km nord",Hallstatt
+52,CV-I-s-A-13047,Castrul militar şi aşezarea romană de la Boroşneu Mare,sat BOROŞNEU MARE; comuna BOROŞNEU MARE,"În curtea conacului Kökösi, în partea NV a satului",de Epoca romană
 53,CV-I-m-A-13047.01,Aşezare,sat BOROŞNEU MARE; comuna BOROŞNEU MARE,"În curtea conacului Kökösi, în partea NV a satului","de sec. II - III p. Chr., Epoca romană"
 54,CV-I-m-A-13047.02,Castru militar,sat BOROŞNEU MARE; comuna BOROŞNEU MARE,"În curtea conacului Kökösi, în partea NV a satului","de sec. II - III p. Chr., Epoca romană"
 55,CV-I-s-A-13048,Situl arheologic de la Boroşneu Mic,sat BOROŞNEU MIC; comuna BOROŞNEU MARE,"Cetatea Viezurei (Borzvára), pe un de deal la marginea satului.",vârf
@@ -54,7 +59,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 58,CV-I-m-A-13048.03,Aşezare,sat BOROŞNEU MIC; comuna BOROŞNEU MARE,"Cetatea Viezurei (Borzvára), pe un de deal la marginea satului.","vârf Eneolitic, Cultura Cucuteni - Ariuşd"
 59,CV-I-m-A-13048.04,Aşezare,sat BOROŞNEU MIC; comuna BOROŞNEU MARE,"Cetatea Viezurei (Borzvára), pe un de deal la marginea satului.","vârf Epoca bronzului, Cultura Schneckenberg"
 60,CV-I-s-B-13049,Aşezarea romană de la Brateş,sat BRATEŞ; comuna BRATEŞ,În vatra satului,"sec. II - III p. Chr., Epoca romană"
-61,CV-I-s-A-13050,"Situl arheologic de la Breţcu, punct ""Cetatea",sat BREŢCU; comuna BREŢCU,"Cetatea ""Veneturné"", la vărsarea pârâului Breţcu în Râul Negru",
+61,CV-I-s-A-13050,"Situl arheologic de la Breţcu, punct ""Cetatea Veneturné""",sat BREŢCU; comuna BREŢCU,"Cetatea ""Veneturné"", la vărsarea pârâului Breţcu în Râul Negru",
 62,CV-I-m-A-13050.01,Aşezarea civilă,sat BREŢCU; comuna BREŢCU,"Cetatea ""Veneturné"", la vărsarea pârâului Breţcu în Râul Negru","sec. II - III p. Chr., Epoca romană"
 63,CV-I-m-A-13050.02,Castrul roman Angustia,sat BREŢCU; comuna BREŢCU,"Cetatea ""Veneturné"", la vărsarea pârâului Breţcu în Râul Negru","sec. II - III p. Chr., Epoca romană"
 64,CV-I-s-A-13051,Termele romane de la Brețcu,sat BREŢCU; comuna BREŢCU,La 200 m de Cetatea Veneturné,"sec. II - III p. Chr., Epoca romană"
@@ -66,7 +71,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 70,CV-I-m-A-13053.04,Aşezare,sat CERNAT; comuna CERNAT,Dealul de Aur (Aranydomb),"Neolitic timpuriu, Cultura Starčevo - Criş"
 71,CV-I-s-B-13054,Aşezare,sat CERNAT; comuna CERNAT,"""Bélamezeje""( ""Câmpul lui Béla”)","Latène, Cultura geto - dacică"
 72,CV-I-s-A-13055,Ruinele bisericii romanice,sat CERNAT; comuna CERNAT,"""Grădina Sfântă” (Szentkert)","sec. XIII, Epoca medievală timpurie"
-73,CV-I-s-A-13056,"Situl arheologic de la Cernat, punct ""Vârful",sat CERNAT; comuna CERNAT,"""Vârful Ascuţit” (Hegyestetõ), la NV intravilanului, la cca. 2 km de sat",
+73,CV-I-s-A-13056,"Situl arheologic de la Cernat, punct ""Vârful Ascuţit”",sat CERNAT; comuna CERNAT,"""Vârful Ascuţit” (Hegyestetõ), la NV intravilanului, la cca. 2 km de sat",
 74,CV-I-m-A-13056.01,Fortificaţie,sat CERNAT; comuna CERNAT,"""Vârful Ascuţit” (Hegyestetõ), la NV intravilanului, la cca. 2 km de sat",Hallstatt
 75,CV-I-m-A-13056.02,Aşezare fortificată,sat CERNAT; comuna CERNAT,"""Vârful Ascuţit” (Hegyestetõ), la NV intravilanului, la cca. 2 km de sat","Latène, Cultura geto - dacică"
 76,CV-I-m-A-13056.03,Aşezare,sat CERNAT; comuna CERNAT,"""Vârful Ascuţit” (Hegyestetõ), la NV intravilanului, la cca. 2 km de sat","Eneolitic, Cultura Cucuteni - Ariuşd"
@@ -77,7 +82,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 81,CV-I-m-A-13058.03,Aşezare,oraş COVASNA,"""Valea Zânelor"", la 6 km de Covasna, dealul Florilor (930 m)",pe Epoca bronzului
 82,CV-I-s-B-13059,Situl arheologic de la Doboşeni,sat DOBOŞENI; comuna BRĂDUŢ,"Dealul ""Borvízoldal"", la extremitatea vestică a satului",
 83,CV-I-m-B-13059.01,Aşezare,sat DOBOŞENI; comuna BRĂDUŢ,"Dealul ""Borvízoldal"", la extremitatea vestică a satului","Latène, Cultura geto - dacică"
-84,CV-I-m-B-13059.02,Aşezare Moacşa,sat DOBOŞENI; comuna BRĂDUŢ comuna MOACŞA,"Dealul ""Borvízoldal"", la extremitatea vestică a satului Eresteghin, la SV de sat","Eneolitic, Cultura Cucuteni - Ariuşd"
+84,CV-I-m-B-13059.02,Aşezare,sat DOBOŞENI; comuna BRĂDUŢ,"Dealul ""Borvízoldal"", la extremitatea vestică a satului","Eneolitic, Cultura Cucuteni - Ariuşd"
+85,CV-I-s-B-13067,Situl arheologic de la Moacşa,sat ERESTEGHIN; comuna MOACŞA,"""Lencséskút"" (Fântâna cu linte), cătunul Eresteghin, la SV de sat",
 86,CV-I-m-B-13067.01,Ruine biserică,sat ERESTEGHIN; comuna MOACŞA,"""Lencséskút"" (Fântâna cu linte), cătunul Eresteghin, la SV de sat","sec. XIII - XIV, Epoca medievală timpurie"
 87,CV-I-m-B-13067.02,Aşezare,sat ERESTEGHIN; comuna MOACŞA,"""Lencséskút"" (Fântâna cu linte), cătunul Eresteghin, la SV de sat","Neolitic, Cultura Boian"
 88,CV-I-s-B-13068,Aşezare,sat ERESTEGHIN; comuna MOACŞA,"Cătunul Eresteghin, ”la Valea de Dinainte”, pe terasa dreaptă a Beşeneului","Latène, Cultura geto - dacică"
@@ -89,7 +95,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 94,CV-I-m-A-13062.03,Aşezare,sat LET; comuna BOROŞNEU MARE,"""Várhegy"" (Dealul cetăţii), (574,8 m), 1 km S de sat",la Hallstatt
 95,CV-I-m-A-13062.04,Aşezare,sat LET; comuna BOROŞNEU MARE,"""Várhegy"" (Dealul cetăţii), (574,8 m), 1 km S de sat",la Epoca bronzului
 96,CV-I-m-A-13062.05,Aşezare,sat LET; comuna BOROŞNEU MARE,"""Várhegy"" (Dealul cetăţii), (574,8 m), 1 km S de sat",la Neolitic
-97,CV-I-m-A-13062.06,Aşezare,sat LET; comuna BOROŞNEU MARE BOROŞNEU MARE,"""Várhegy"" (Dealul cetăţii), (574,8 m), 1 km S de sat 1 km S de sat","la sec. II - III p. Chr, Epoca romană medievală târzie"
+97,CV-I-m-A-13062.06,Aşezare,sat LET; comuna BOROŞNEU MARE,"""Várhegy"" (Dealul cetăţii), (574,8 m), 1 km S de sat","la sec. II - III p. Chr, Epoca romană"
+98,CV-I-m-A-13062.07,Fortificaţie,sat LET; comuna BOROŞNEU MARE,"""Várhegy"" (Dealul cetăţii), (574,8 m), 1 km S de sat","la sec. XVII - XVIII, Epoca medievală târzie"
 99,CV-I-s-A-13063,Cetatea Ciuchian (Csuklyán),sat LUTOASA; comuna MERENI,Pe malul drept al pârâului Lemnia Varpataka,"Mică, Epoca bronzului, Cultura Wietenberg"
 100,CV-I-s-A-13064,Situl arheologic de la Malnaş,sat MALNAŞ; comuna MALNAŞ,La capătul sudic al satului,"sec. XII - XIII, Epoca medievală timpurie"
 101,CV-I-s-A-13065,Situl arheologic de la Malnaş-Băi,sat MALNAŞ-BĂI; comuna MALNAŞ,"""Füvenyestető"" (Dealul Nisipos), la 800 m V de centrul localităţii","cca. Eneolitic, Cultura Cucuteni - Ariuşd"
@@ -101,7 +108,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 107,CV-I-m-A-13071.02,Fortificaţie,sat OITUZ; comuna BREŢCU,"În gura pasului Oituz, pe vârful Muntelui Rakottyás",sec. XIX - XX
 108,CV-I-s-A-13072,"Situl arheologic de la Olteni, punct ""Leánykavár""",sat OLTENI; comuna BODOC,Cetatea Fetei (Leánykavár) la NE de pe malul stâng al Oltului,"sat,"
 109,CV-I-m-A-13072.01,Aşezare fortificată,sat OLTENI; comuna BODOC,Cetatea Fetei (Leánykavár) la NE de pe malul stâng al Oltului,"sat, Latène"
-110,CV-I-m-A-13072.02,Aşezare Olteni,sat OLTENI; comuna BODOC BODOC,Cetatea Fetei (Leánykavár) la NE de pe malul stâng al Oltului pe malul drept al Oltului,"sat, Neolitic romană"
+110,CV-I-m-A-13072.02,Aşezare,sat OLTENI; comuna BODOC,Cetatea Fetei (Leánykavár) la NE de pe malul stâng al Oltului,"sat, Neolitic"
+111,CV-I-s-A-13073,Situl arheologic de la Olteni,sat OLTENI; comuna BODOC,"În grădina castelului Miko, la N de pe malul drept al Oltului","sat, sec. II - III p. Chr., Epoca romană"
 112,CV-I-s-B-13074,Aşezarea romană de la Poian,sat POIAN; comuna POIAN,Vatra satului,"sec. II - III p. Chr., Epoca romană"
 113,CV-I-s-A-13075,"Situl arheologic de la Poian, punct ""Kőhát""",sat POIAN; comuna POIAN,"""Kőhát"" (Panta de Piatră), la extremitatea de nord a satului",
 114,CV-I-m-A-13075.01,Aşezare,sat POIAN; comuna POIAN,"""Kőhát"" (Panta de Piatră), la extremitatea de nord a satului","sec. IX - X, Epoca medievală timpurie"
@@ -113,7 +121,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 120,CV-I-m-A-13077.01,Locuire şi morminte,sat RECI; comuna RECI,"""Telek”, pe malul drept al Râului Negru, la 400 m est de biserica reformată","sec. IX - X, Epoca medievală timpurie"
 121,CV-I-m-A-13077.02,Aşezare,sat RECI; comuna RECI,"""Telek”, pe malul drept al Râului Negru, la 400 m est de biserica reformată","sec. II - III p. Chr., Epoca romană"
 122,CV-I-m-A-13077.03,Aşezare,sat RECI; comuna RECI,"""Telek”, pe malul drept al Râului Negru, la 400 m est de biserica reformată","Latène, Cultura Cucuteni - Ariuşd"
-123,CV-I-m-A-13077.04,Aşezare,sat RECI; comuna RECI SÂNZIENI,"""Telek”, pe malul drept al Râului Negru, la 400 m est de biserica reformată",Neolitic romană
+123,CV-I-m-A-13077.04,Aşezare,sat RECI; comuna RECI,"""Telek”, pe malul drept al Râului Negru, la 400 m est de biserica reformată",Neolitic
+124,CV-I-s-B-13078,Aşezare,sat SÂNZIENI; comuna SÂNZIENI,Vatra satului,"sec. II - III p. Chr., Epoca romană"
 125,CV-I-s-B-13080,Situl arheologic de la Târgu Secuiesc,municipiul TÂRGU SECUIESC,Centrul oraşului,
 126,CV-I-m-B-13080.01,Apeduct,municipiul TÂRGU SECUIESC,Centrul oraşului,"sec. II - III p. Chr., Epoca daco-romană"
 127,CV-I-m-B-13080.02,Necropolă,municipiul TÂRGU SECUIESC,Centrul oraşului,"sec. II - III p. Chr., Epoca romană"
@@ -122,7 +131,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 130,CV-I-m-A-13081.02,Aşezare fortificată,sat TURIA; comuna TURIA,"""Cetatea Turia” (Torjávara), la 5 km nord -vest de extremitatea nordică satului Turia","Epoca bronzului, a Cultura Wietenberg"
 131,CV-I-s-B-13082,"Situl arheologic de la Valea Crişului, punct „Nyírtető”",sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,"Dealul ""Nyírtető""",
 132,CV-I-m-B-13082.01,Fortificaţie,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,"Dealul ""Nyírtető""","sec. XII - XIII, Epoca medievală timpurie"
-133,CV-I-m-B-13082.02,Aşezare fortificată,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI comuna VALEA,"Dealul ""Nyírtető""",Latène
+133,CV-I-m-B-13082.02,Aşezare fortificată,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,"Dealul ""Nyírtető""",Latène
+134,CV-I-m-B-13082.03,Aşezare fortificată,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,"Dealul ""Nyírtető""",Epoca bronzului
 135,CV-I-s-A-13083,Situl arheologic de la Valea Seacă,sat VALEA SEACĂ; comuna SÂNZIENI,"""Váréle” (""Muchia Cetăţii”), pe un platou la 17 km NV de satul Caşinul", Mic
 136,CV-I-m-A-13083.01,Fortificaţie dacică cu ziduri de incintă,sat VALEA SEACĂ; comuna SÂNZIENI,"""Váréle” (""Muchia Cetăţii”), pe un platou la 17 km NV de satul Caşinul","Latène, Cultura geto - Mic dacică"
 137,CV-I-m-A-13083.02,Aşezare,sat VALEA SEACĂ; comuna SÂNZIENI,"""Váréle” (""Muchia Cetăţii”), pe un platou la 17 km NV de satul Caşinul","Epoca bronzului, Mic Cultura Wietenberg"
@@ -131,7 +141,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 140,CV-I-m-B-13084.02,Aşezare,sat ZĂBALA; comuna ZĂBALA,"""Movila Tătarului"", la NV de sat, pe latura dreaptă a drumului care duce Tamaşfalău","Epoca bronzului târziu, la Cultura Noua"
 141,CV-I-s-A-13085,Aşezarea de la Zoltan,sat ZOLTAN; comuna GHIDFALĂU,În extremitatea nordică a intravilanului,Epoca bronzului
 142,CV-II-a-B-13086,"Ansamblul urban ""Zona Centrală""",municipiul SFÂNTU GHEORGHE,N - Str. Bisericii; E - str.Ciucului şi Oltului; S - str. Grof Miko Imre şi str. Spitalului; V - str. Kossuth Lajos şi str. Gabor Aron.,
-143,CV-II-a-B-13087,"Centrul istoric al municipiului Sfântu Gheoghe ""Cartierul Simeria Veche""",municipiul SFÂNTU GHEORGHE GHEORGHE,NE - Str. Voican; E - str. Erege şi str. Şoimului; S - str. Varadi Josef; V - str. Cânepii şi str. Irinyi Janos; N - str. Borviz. Budai Nagy Antal; S - str. József Attila;, V
+143,CV-II-a-B-13087,Centrul istoric al municipiului Sfântu Gheoghe,municipiul SFÂNTU GHEORGHE,NE - Str. Voican; E - str. Erege şi str. Şoimului; S - str. Varadi Josef; V - str. Cânepii şi str. Irinyi Janos; N - str. Borviz.,
+144,CV-II-a-B-13088,"Ansamblul urban ""Cartierul Simeria Veche""",municipiul SFÂNTU GHEORGHE,N - Str. Pădurii şi Dozsa György; E - Budai Nagy Antal; S - str. József Attila; - str. Cişmelei.,str. V
 145,CV-II-m-B-21104,"Primăria Sfântu Gheorghe, corp A",municipiul SFÂNTU GHEORGHE,Str. 1 Decembrie 1918 2,
 146,CV-II-m-B-13089,"Fostul Hotel ""Hungaria"", azi sediul Oficiului Judeţean de Poştă",municipiul SFÂNTU GHEORGHE,Str. 1 Decembrie 1918 18,1907
 147,CV-II-m-B-20982,Casa Horváth,municipiul SFÂNTU GHEORGHE,Str. Arcuşului 25,1929
@@ -142,7 +153,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 152, CV-II-m-A-13090.03," Fosta şcoală germană, azi sală confesională a bisericii reformate", municipiul SFÂNTU GHEORGHE, Str. Cetăţii 1, 1786
 153,CV-II-m-A-13090.04,Zid de incintă cu turn- clopotniţă,municipiul SFÂNTU GHEORGHE,Str. Cetăţii 1,"sec. XVI (zid), 1761, transf. 1829 (turn)"
 154,CV-II-m-B-13091,Casa Nagy György,municipiul SFÂNTU GHEORGHE,Str. Ciucului 6,1910
-155,CV-II-m-A-13092,Casa Gyulai,municipiul SFÂNTU GHEORGHE GHEORGHE,Str. Ciucului 28,înc. sec. XX
+155,CV-II-m-A-13092,Casa Gyulai,municipiul SFÂNTU GHEORGHE,Str. Ciucului 28,înc. sec. XX
+156,CV-II-m-B-13093,Conacul Sereséj,municipiul SFÂNTU GHEORGHE,Str. Dózsa György 50,1794
 157,CV-II-m-A-13094,"Fostul Sediu al Scaunelor, azi Biblioteca Judeţeană Covasna",municipiul SFÂNTU GHEORGHE,Str. Gábor Áron 14,"1832, transf. 1897, 1902"
 158,CV-II-m-B-13095,"Fostul Gimnaziu Reformat de Fete, azi Grupul Şcolar ""Kós Károly """,municipiul SFÂNTU GHEORGHE,Str. Gábor Áron 18-20,1926 - 1927
 159,CV-II-m-B-13096,"Colegiul Székely Mikó, în corpul din curte a funcţionat tipografia Jókai",municipiul SFÂNTU GHEORGHE,Str. Gróf Mikó Imre 1,1870 - 1892
@@ -152,7 +164,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 163,CV-II-m-B-13101,"Conacul Bora Bededek, azi locuinţă",municipiul SFÂNTU GHEORGHE,Str. József Attila 30-32,sec. XVIII - XIX
 164,CV-II-m-A-13102,Casa Csulak,municipiul SFÂNTU GHEORGHE,Str. Konsza Samu 11,1924
 165,CV-II-m-A-13103,"Fosta şcoală elementară reformată, azi clubul elevilor",municipiul SFÂNTU GHEORGHE,Str. Körösi Csoma Sándor 19,1930
-166,CV-II-a-A-13104,Ansamblul Muzeului Naţional Secuiesc,municipiul SFÂNTU GHEORGHE GHEORGHE,Str. Kós Károly 10,1911 - 1913
+166,CV-II-a-A-13104,Ansamblul Muzeului Naţional Secuiesc,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 10,1911 - 1913
+167,CV-II-m-A-13104.01,Clădirea muzeului,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 10,1911 - 1913
 168,CV-II-m-A-13104.02,"Locuinţă custode, azi biroul directorului",municipiul SFÂNTU GHEORGHE,Str. Kós Károly 10,1911 - 1913
 169,CV-II-m-A-13104.03,Locuinţă custode,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 10,1911 - 1913
 170,CV-II-m-A-13104.04,Parcul,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 10,1911 - 1913
@@ -163,7 +176,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 175, CV-II-m-A-13107.02, Turn de apă, municipiul SFÂNTU GHEORGHE, Str. Kós Károly 21-25, 1902 - 1910
 176,CV-II-m-A-13107.03,Depozit piese de schimb,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
 177,CV-II-m-A-13107.04,Centrală termică,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
-178,CV-II-m-A-13107.05,Depozit de tutun laboratoare,municipiul SFÂNTU GHEORGHE GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
+178,CV-II-m-A-13107.05,Depozit de tutun,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
+179,CV-II-m-A-13107.06,Corp administrativ şi laboratoare,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
 180,CV-II-m-A-13107.07,Birouri,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
 181,CV-II-m-A-13107.08,"Locuinţă de serviciu, azi birouri evidenţa populaţiei şi secţia paşapoarte",municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
 182,CV-II-m-A-13107.09,Împrejmuire,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 21-25,1902 - 1910
@@ -174,7 +188,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 187,CV-II-m-B-13111,"Palatul Beör, azi birouri, sediu ASIMCOV",municipiul SFÂNTU GHEORGHE,Str. Martinovics Ignác 2,înc. sec. XX
 188,CV-II-m-B-21105,Fostul Abator comunal,municipiul SFÂNTU GHEORGHE,Str. Mikes Kelemen 36,
 189,CV-II-m-B-13112,Casa Pünkösdi,municipiul SFÂNTU GHEORGHE,Str. Oltului 7-9,1839
-190,CV-II-m-B-13113,"Fostul Orfelinat de Băieţi, azi Spitalul Judeţean",municipiul SFÂNTU GHEORGHE,Str. Stadionului 1,1893
+190,CV-II-m-B-13113,"Fostul Orfelinat de Băieţi, azi Spitalul Judeţean Covasna",municipiul SFÂNTU GHEORGHE,Str. Stadionului 1,1893
 191,CV-II-m-B-13099,"Biserica ""Sf. Gheorghe”",municipiul SFÂNTU GHEORGHE,Piaţa Şaguna Andrei 1,"1810 (turn), 1872 (biserica )"
 192,CV-II-m-B-13115,"Biserica ""Sf. Gheorghe”",sat AITA MARE; comuna AITA MARE,325A,1866
 193,CV-II-a-B-13116,Ansamblul conacului Dónáth,sat AITA MARE; comuna AITA MARE,356,sf. sec. XIX
@@ -185,7 +199,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 198,CV-II-m-A-13117.01,Biserica unitariană,sat AITA MARE; comuna AITA MARE,Str. Bisericii 351,"sec. XIV, transf. sec. XV - XVI, sec. XIX"
 199,CV-II-m-A-13117.02,Incinta fortificată,sat AITA MARE; comuna AITA MARE,Str. Bisericii 351,sec. XVI - XVII
 200,CV-II-m-B-21020,Clădire primărie,sat AITA MARE; comuna AITA MARE,Str. Principală 206,1904 - 1908
-201,CV-II-a-B-13118,Ansamblul bisericii reformate,sat AITA MEDIE; comuna AITA MARE comuna AITA MARE,107,"sec. XVI - XVIII 1795, 1882."
+201,CV-II-a-B-13118,Ansamblul bisericii reformate,sat AITA MEDIE; comuna AITA MARE,107,sec. XVI - XVIII
+202,CV-II-m-B-13118.01,Biserica reformată,sat AITA MEDIE; comuna AITA MARE,107,"sec. XVI, transf. 1777, 1795, 1882."
 203,CV-II-m-B-13118.02,Zid de incintă cu turn- clopotniţă,sat AITA MEDIE; comuna AITA MARE,107,1794
 204,CV-II-m-B-13119,Biserica reformată,sat AITA SEACĂ; comuna BĂŢANI,190,"1790, ref. şi turn 1804"
 205,CV-II-m-B-13120,Casa Barabás,sat ALBIŞ; comuna CERNAT,17,"1830, transf. sf. sec. XX"
@@ -196,7 +211,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 210,CV-II-a-B-13123,Gospodărie ţărănească,sat ALUNGENI; comuna TURIA,159,
 211,CV-II-m-B-13123.01,Casă de lemn,sat ALUNGENI; comuna TURIA,159,1707
 212,CV-II-m-B-13123.02,Grânar,sat ALUNGENI; comuna TURIA,159,sec. XVIII
-213,CV-II-m-B-13123.03,Poartă secuiască,sat ALUNGENI; comuna TURIA TURIA,159,1877
+213,CV-II-m-B-13123.03,Poartă secuiască,sat ALUNGENI; comuna TURIA,159,1877
+214,CV-II-m-B-13124,Poartă secuiască,sat ALUNGENI; comuna TURIA,233,1833
 215,CV-II-m-A-13125,Biserica reformată,sat ARACI; comuna VÂLCELE,72,"sec. XIV, modif. 1659 - 1665, turn 1894"
 216,CV-II-m-B-13126,Conacul Domokos,sat ARACI; comuna VÂLCELE,73,1880
 217,CV-II-a-A-13127,Ansamblul bisericii unitariene fortificate,sat ARCUŞ; comuna ARCUŞ,238,sec. XVI - XIX
@@ -208,7 +224,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 223,CV-II-m-A-13128.03,Parc dendrologic,sat ARCUŞ; comuna ARCUŞ,493,sec. XIX
 224,CV-II-m-B-13129,Biserica reformată,sat ARIUŞD; comuna VÂLCELE,142,cca. 1700
 225,CV-II-m-B-13130,"Capela romano-catolică ""Sf. Maria Mică""",oraş BARAOLT,"Str. Kisboldogasszony 18, Pe dealul în partea vestică a localităţii",aflat 1755
-226,CV-II-a-A-13132,"Ansamblul bisericii romano-catolice ”Sf. Adalbert"" Sf. Adalbert""",oraş BARAOLT,Str. Kossuth Lajos 146,sec. XVI - XIX 1821
+226,CV-II-a-A-13132,"Ansamblul bisericii romano-catolice ”Sf. Adalbert""",oraş BARAOLT,Str. Kossuth Lajos 146,sec. XVI - XIX
+227,CV-II-m-A-13132.01,"Biserica romano-catolică Sf. Adalbert""",""" oraş BARAOLT",Str. Kossuth Lajos 146,"1564, ref. 1691, 1760, 1821"
 228,CV-II-m-A-13132.02,"Zid de incintă, cu turn- clopotniţă",oraş BARAOLT,Str. Kossuth Lajos 146,"zid incintă sec. XVIII, turn-clopotniţă 1680, ref. 1817"
 229,CV-II-m-B-20287,Biserica catolică,sat BĂŢANII MARI; comuna BĂŢANI,,
 230,CV-II-m-B-20288,Şură,sat BĂȚANII MARI; comuna BĂŢANI,91,sec. XIX
@@ -220,7 +237,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 236,CV-II-m-A-13136,Conacul Mari (Casa scriitorului Benedek Elek),sat BĂŢANII MICI; comuna BĂŢANI,81,1906
 237,CV-II-m-B-13137,"Biserica romano-catolică ”Sf. Bartolomeu""",sat BELANI; comuna POIAN,3,"sec. XV, ref. 1758, modif. sec. XIX, sec. XX"
 238,CV-II-m-A-13138,"Biserica ""Adormirea Maicii Domnului”",sat BELIN; comuna BELIN,468,1776
-239,CV-II-m-B-13139,Casă unitariene,sat BELIN; comuna BELIN BELIN,524,sec. XIX
+239,CV-II-m-B-13139,Casă,sat BELIN; comuna BELIN,524,sec. XIX
+240,CV-II-a-A-13140,Ansamblul bisericii unitariene,sat BELIN; comuna BELIN,609,sec. XVI - XIX
 241,CV-II-m-A-13140.01,Biserica unitariană,sat BELIN; comuna BELIN,609,1893 - 1895
 242,CV-II-m-A-13140.02,Incintă fortificată,sat BELIN; comuna BELIN,609,sec. XVI - XVII
 243,CV-II-m-B-13141,Biserica reformată,sat BELIN; comuna BELIN,612,"1770 (biserica), 1911 (turn)"
@@ -231,7 +249,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 248,CV-II-m-A-13145,Biserica reformată,sat aparţinător BIBORŢENI; oraş BARAOLT,171,"sec. XIII - XIV, transf. sec. XVI, 1761, 1897"
 249,CV-II-a-A-13146,Gospodăria Simon István,sat BICFALĂU; comuna OZUN,40,sf. sec. XVIII
 250,CV-II-m-A-13146.01,Casă,sat BICFALĂU; comuna OZUN,40,1793
-251,CV-II-m-A-13146.02,Poartă,sat BICFALĂU; comuna OZUN OZUN,40,1797
+251,CV-II-m-A-13146.02,Poartă,sat BICFALĂU; comuna OZUN,40,1797
+252,CV-II-m-A-13147,Conacul Dénes,sat BICFALĂU; comuna OZUN,156,1836
 253,CV-II-a-A-13148,Ansamblul bisericii reformate,sat BICFALĂU; comuna OZUN,176,sec. XV - XX
 254,CV-II-m-A-13148.01,Biserica reformată,sat BICFALĂU; comuna OZUN,176,"sec. XV, ref. 1863, turn ref. sec. XX"
 255,CV-II-m-A-13148.02,Zid de incintă,sat BICFALĂU; comuna OZUN,176,sec. XV
@@ -243,7 +262,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 261,CV-II-m-B-13152,Poartă secuiască,sat BODOC; comuna BODOC,218,1940
 262,CV-II-m-B-13153,Biserica reformată,sat BRATEŞ; comuna BRATEŞ,227,sec. XVIII
 263,CV-II-m-B-20289,Casă,sat BREŢCU; comuna BREŢCU,324,"1824, sec. XIX"
-264,CV-II-m-B-13154,Casă şi poartă,sat BREŢCU; comuna BREŢCU BREŢCU,504,mijl. sec. XIX
+264,CV-II-m-B-13154,Casă şi poartă,sat BREŢCU; comuna BREŢCU,504,mijl. sec. XIX
+265,CV-II-m-B-13155,Casă,sat BREŢCU; comuna BREŢCU,575,sec. XIX
 266,CV-II-a-B-13156,Gospodărie ţărănească,sat BREŢCU; comuna BREŢCU,576,sec. XIX
 267,CV-II-m-B-13156.01,Casă,sat BREŢCU; comuna BREŢCU,576,sec. XIX
 268,CV-II-m-B-13156.02,Şură,sat BREŢCU; comuna BREŢCU,576,sec. XIX
@@ -255,7 +275,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 274,CV-II-m-A-13158.01,Biserica unitariană,sat CALNIC; comuna VALEA CRIŞULUI,135,sec. XVII - XX
 275,CV-II-m-A-13158.02,Clopotniţă de lemn,sat CALNIC; comuna VALEA CRIŞULUI,135,"1674, transf. sec. XX"
 276,CV-II-a-A-13160,Ansamblul bisericii reformate,sat aparţinător CĂPENI; oraş BARAOLT,55,sec. XIV - XIX
-277,CV-II-m-A-13160.01,Biserica reformată clopotniţă,sat aparţinător CĂPENI; oraş BARAOLT oraş BARAOLT,55,"sec. XIV, transf. 1767, 1794, sec. XIX (incintă)"
+277,CV-II-m-A-13160.01,Biserica reformată,sat aparţinător CĂPENI; oraş BARAOLT,55,"sec. XIV, transf. 1767, 1794, sec. XIX"
+278,CV-II-m-A-13160.02,"Zid de incintă, cu turn- clopotniţă",sat aparţinător CĂPENI; oraş BARAOLT,55,"1802 (turn), 1818-1819 (incintă)"
 279,CV-II-m-A-13161,Conacul Sinkovits,sat CĂTĂLINA; comuna CĂTĂLINA,370,"1649, transf. 1820"
 280,CV-II-m-A-13163,Cetatea Ika,sat CERNAT; comuna CERNAT,Pe dealul Várbérc,sec. XIV
 281,CV-II-m-B-13165,"Pod din piatră, cu două deschideri",sat CERNAT; comuna CERNAT,În apropierea Muzeului Etnografic,1907
@@ -266,7 +287,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 286, CV-II-m-A-13170, Conacul Damokos - Cseh, sat CERNAT; comuna CERNAT, 333, 1838
 287,CV-II-m-A-13171,Conacul Damokos Mihály,sat CERNAT; comuna CERNAT,334,1844
 288,CV-II-m-A-13172,Conacul Damokos János,sat CERNAT; comuna CERNAT,337,1839
-289,CV-II-m-A-13173,"Ansamblul conacului Damokos Dénes, cu poarta",sat CERNAT; comuna CERNAT CERNAT,449A,sec. XVIII - XIX
+289,CV-II-m-A-13173,"Ansamblul conacului Damokos Dénes, cu poarta",sat CERNAT; comuna CERNAT,449A,sec. XVIII - XIX
+290,CV-II-m-A-13173.01,Conacul Damokos Dénes,sat CERNAT; comuna CERNAT,449A,sec. XVIII - XIX
 291,CV-II-m-A-13173.02,Poarta,sat CERNAT; comuna CERNAT,449A,sec. XVIII - XIX
 292,CV-II-m-B-13174,Conacul István Sándor,sat CERNAT; comuna CERNAT,459,1860
 293,CV-II-a-A-13175,Ansamblul bisericii reformate,sat CERNAT; comuna CERNAT,469,sec. XIV - XIX
@@ -278,7 +300,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 299,CV-II-a-B-13177,Ansamblul conacului Molnár Sándor,sat CERNAT; comuna CERNAT,662,sec. XVIII
 300,CV-II-m-B-13177.01,Conacul Molnár Sándor,sat CERNAT; comuna CERNAT,662,sec. XVIII
 301,CV-II-m-B-13177.02,Poartă,sat CERNAT; comuna CERNAT,662,sec. XVIII
-302,CV-II-a-B-13178,Ansamblul conacului Bernald,sat CERNAT; comuna CERNAT CERNAT,679, şi sec. XX
+302,CV-II-a-B-13178,Ansamblul conacului Bernald,sat CERNAT; comuna CERNAT,679,
+303,CV-II-m-B-13178.01,Conacul Bernald,sat CERNAT; comuna CERNAT,679,"sec. XVIII, transf. 1820 şi sec. XX"
 304,CV-II-m-B-13178.02,Poartă de zid,sat CERNAT; comuna CERNAT,679,sec. XVIII
 305,CV-II-m-B-13179,"Biserica ""Sf. Gheorghe”",sat CERNAT; comuna CERNAT,742,1872
 306,CV-II-m-B-13180,Poartă secuiască,sat CERNAT; comuna CERNAT,816A,1942
@@ -290,7 +313,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 312,CV-II-m-B-20290,Casa Serester József,sat CHICHIŞ; comuna CHICHIŞ,57,"1806, sec. XIX"
 313,CV-II-a-A-13188,Ansamblul bisericii unitariene,sat CHICHIŞ; comuna CHICHIŞ,58,sec. XIII - XIX
 314,CV-II-m-A-13188.01,Biserica unitariană,sat CHICHIŞ; comuna CHICHIŞ,58,"sec. XIII - XVI, transf. 1716"
-315,CV-II-m-A-13188.02,"Zid de incintă (fragmente), cu turn-clopotniţă",sat CHICHIŞ; comuna CHICHIŞ CHICHIŞ,58,1816
+315,CV-II-m-A-13188.02,"Zid de incintă (fragmente), cu turn-clopotniţă",sat CHICHIŞ; comuna CHICHIŞ,58,1816
+316,CV-II-m-B-13189,Biserica reformată,sat CHICHIŞ; comuna CHICHIŞ,123,1799
 317,CV-II-m-A-13190,"Biserica de lemn ""Sf. Petru şi Pavel”",sat CHICHIŞ; comuna CHICHIŞ,185,1740
 318,CV-II-m-B-20500,Casa de lemn (casa parohială ortodoxă),sat CHICHIŞ; comuna CHICHIŞ,189,sec. XIX
 319,CV-II-m-B-13191,Biserica reformată,sat aparţinător CHILIENI; municipiul SFÂNTU GHEORGHE,10,1728
@@ -301,7 +325,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 324,CV-II-m-A-13195.01,Planul înclinat,oraş COVASNA,"Valea Zânelor, şi com. COMANDĂU",1886
 325,CV-II-m-A-13195.02,Clădiri anexe,oraş COVASNA,şi com. COMANDĂU,sf. sec. XIX
 326,CV-II-m-A-13195.03,Cale ferată îngustă,oraş COVASNA,"Valea Zânelor, şi com. COMANDĂU","1891, sf. sec. XIX - înc. sec. XX"
-327,CV-II-a-B-13196,Case de lemn,oraş COVASNA,"Str. Ştefan cel Mare 104, 110, 155, 159, 161; Str. Cuza Vodă 63, 65, 67,","157, sec. XIX - înc. sec. XX 68,"
+327,CV-II-a-B-13196,Case de lemn,oraş COVASNA,"Str. Ştefan cel Mare 104, 110, 155, 159, 161; Str. Cuza Vodă 63, 65, 67, 70","157, sec. XIX - înc. sec. XX 68,"
 328,CV-II-m-A-13197,"Şcoala veche din Voineşti, azi şcoală generală",oraş COVASNA,Str. Eminescu Mihai 15,mijl. sec. XIX
 329,CV-II-m-B-13198,"Biserica ""Sf. Nicolae”",oraş COVASNA,Str. Eminescu Mihai 17,1793
 330,CV-II-m-B-13199,Casa parohială a bisericii ortodoxe,oraş COVASNA,Str. Eminescu Mihai 19,sec. XIX - XX
@@ -313,7 +337,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 336,CV-II-a-A-13202,Ansamblul bisericii reformate,sat DALNIC; comuna DALNIC,230,sec. XIII - XIX
 337,CV-II-m-A-13202.01,Biserica reformată,sat DALNIC; comuna DALNIC,230,"sec. XIII, transf. 1526, sec. XIX"
 338, CV-II-m-A-13202.02, Casă parohială, sat DALNIC; comuna DALNIC, 230, sec. XIX
-339,CV-II-a-B-13203,Ansamblul conacului Beczásy,sat DALNIC; comuna DALNIC DALNIC,232,sec. XIX
+339,CV-II-a-B-13203,Ansamblul conacului Beczásy,sat DALNIC; comuna DALNIC,232,sec. XIX
+340,CV-II-m-B-13203.01,Conacul Beczásy,sat DALNIC; comuna DALNIC,232,1885
 341,CV-II-m-B-13203.02,Parc dendrologic,sat DALNIC; comuna DALNIC,232,sec. XIX
 342,CV-II-m-B-13204,Casa Bajka,sat DALNIC; comuna DALNIC,238,sec. XIX
 343,CV-II-m-B-13205,"Biserica ""Adormirea Maicii Domnului”",sat DOBÂRLĂU; comuna DOBÂRLĂU,175,1795
@@ -324,7 +349,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 348, CV-II-m-B-13210, Biserica ortodoxă, sat DOBOŞENI; comuna BRĂDUŢ, 142," 1920, dem. 1940, ref. sf. sec. XX"
 349,CV-II-m-A-13211,Casa de lemn Szacsvai- Könczey,sat ESTELNIC; comuna ESTELNIC,40,1702
 350,CV-II-m-B-13212,Mănăstirea franciscanilor,sat ESTELNIC; comuna ESTELNIC,163,"1690, transf. 1729 - 1750"
-351,CV-II-a-A-13213,"Ansamblul bisericii romano-catolice ”Sf. Simon şi Iuda""",sat ESTELNIC; comuna ESTELNIC ESTELNIC,213," XVI, 1635, 1819"
+351,CV-II-a-A-13213,"Ansamblul bisericii romano-catolice ”Sf. Simon şi Iuda""",sat ESTELNIC; comuna ESTELNIC,213,
+352,CV-II-m-A-13213.01,"Biserica ""Sf. Simon şi Iuda""",sat ESTELNIC; comuna ESTELNIC,213,"sec. XIV, transf. sec. XVI, 1635, 1819"
 353,CV-II-m-A-13213.02,Zid de incintă cu turn- clopotniţă,sat ESTELNIC; comuna ESTELNIC,213,sec. XVII
 354,CV-II-a-A-13214,Ansamblul fostei biserici romano-catolice (ruine),sat FILIA; comuna BRĂDUŢ,"La 4 km. nord de sat, punct Kápolnabérc (satul Dobo), f. n.",sec. XIII - XVII
 355,CV-II-m-A-13214.01,Biserică romano-catolică (ruine),sat FILIA; comuna BRĂDUŢ,"La 4 km. nord de sat, punct Kápolnabérc (satul Dobo), f. n.",sec. XIII - XVII
@@ -336,7 +362,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 361,CV-II-m-B-20292,Moară,sat GHELINŢA; comuna GHELINŢA,,sec. XIX
 362,CV-II-m-B-21055,Conacul Jancsó,sat GHELINŢA; comuna GHELINŢA,"471, Cartier Ladia","1727, 1848 - 1850, ext. înc. sec. XX"
 363,CV-II-a-A-13217,"Ansamblul bisericii romano-catolice ”Sf. Emeric""",sat GHELINŢA; comuna GHELINŢA,986,sec. XIII - XVIII
-364,CV-II-m-A-13217.01,"Biserica romano-catolică ""Sf. Emeric""",sat GHELINŢA; comuna GHELINŢA,986,"sec. XIII, transf. şi adăugiri sec. XIV - XVI,"
+364,CV-II-m-A-13217.01,"Biserica romano-catolică ""Sf. Emeric""",sat GHELINŢA; comuna GHELINŢA,986,"sec. XIII, transf. şi adăugiri sec. XIV - XVI, 1628, sec. XVIII"
 365,CV-II-m-A-13217.02,"Zid de incintă, cu turn- clopotniţă",sat GHELINŢA; comuna GHELINŢA,986,"sec. XVIII, ref. sec. XX (turn), sec. XVIII (incinta)"
 366,CV-II-a-A-13218,Ansamblul bisericii reformate,sat GHIDFALĂU; comuna GHIDFALĂU,204A,sec. XV - XVIII
 367,CV-II-m-A-13218.01,Biserica reformată,sat GHIDFALĂU; comuna GHIDFALĂU,204A,"sec. XIII - XVII, transf. 1787"
@@ -347,7 +373,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 372,CV-II-a-B-13222,"Ansamblul bisericii romano-catolice ”A Tuturor Sfinţilor""",sat HĂTUICA; comuna CĂTĂLINA,114,sec. XVI - XIX
 373,CV-II-m-B-13222.01,"Biserica romano-catolică ""A Tuturor Sfinţilor""",sat HĂTUICA; comuna CĂTĂLINA,114,sec. XVI - XIX
 374,CV-II-m-B-13222.02,Clopotniţă de lemn,sat HĂTUICA; comuna CĂTĂLINA,114,1668
-375,CV-II-m-A-13223,Furnalul Bodvaj reformate,sat HERCULIAN; comuna BĂŢANI comuna BĂŢANI,"pe valea pârâului Bradului, la 8 km localitate",de 1831
+375,CV-II-m-A-13223,Furnalul Bodvaj,sat HERCULIAN; comuna BĂŢANI,"pe valea pârâului Bradului, la 8 km localitate",de 1831
+376,CV-II-a-A-13224,Ansamblul bisericii reformate,sat HERCULIAN; comuna BĂŢANI,247,
 377,CV-II-m-A-13224.01,"Biserica reformată, cu turn-clopotniţă",sat HERCULIAN; comuna BĂŢANI,247,"sec. XIV - XV, transf. 1776, 1792, turn 1742, 1823"
 378,CV-II-m-A-13224.02,Zid de incintă,sat HERCULIAN; comuna BĂŢANI,247,sec. XVII
 379,CV-II-m-A-13225,Conacul Séra,sat ILIENI; comuna ILIENI,84,1811
@@ -358,7 +385,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 384,CV-II-m-A-13228.02,"Incintă interioară (fragmente), cu turn- clopotniţă",sat ILIENI; comuna ILIENI,438,"sec. XV - XVI (incinta), sec. XV - XVIII (turn)"
 385,CV-II-m-A-13228.03,Incintă fortificată exterioară,sat ILIENI; comuna ILIENI,438,înc. sec. XVII
 386,CV-II-m-B-13229,Casa parohială reformată,sat ILIENI; comuna ILIENI,443,sec. XIX
-387,CV-II-a-A-13230,Ansamblul conacului Cserey,sat IMENI; comuna CATALINA CATALINA,58,sec. XVIII
+387,CV-II-a-A-13230,Ansamblul conacului Cserey,sat IMENI; comuna CATALINA,58,sec. XVIII
+388,CV-II-m-A-13230.01,Conacul Cserey,sat IMENI; comuna CATALINA,58,sec. XVIII
 389,CV-II-m-A-13230.02,Grânar,sat IMENI; comuna CATALINA,58,sec. XVIII
 390,CV-II-m-B-13233,Casă de lemn,oraş ÎNTORSURA BUZĂULUI,Str. Bisericii 17,1930
 391,CV-II-m-B-20301,Casă de lemn,oraş ÎNTORSURA BUZĂULUI,Str. Bisericii 35,1885
@@ -370,7 +398,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 397,CV-II-m-B-20299,Casă de lemn,oraş ÎNTORSURA BUZĂULUI,Str. Mihai Viteazul 87,1920
 398,CV-II-m-B-20300,Casă de lemn,oraş ÎNTORSURA BUZĂULUI,Str. Mihai Viteazul 118,1910
 399,CV-II-m-B-13231,Casă şi moară,oraş ÎNTORSURA BUZĂULUI,Str. Mihai Viteazul 125,1924
-400,CV-II-m-B-13232,Casă de lemn romano-catolice ”Sf.,oraş ÎNTORSURA BUZĂULUI LEMNIA,Str. Mihai Viteazul 210,1922
+400,CV-II-m-B-13232,Casă de lemn,oraş ÎNTORSURA BUZĂULUI,Str. Mihai Viteazul 210,1922
+401,CV-II-a-A-13234,"Ansamblul bisericii romano-catolice ”Sf. Mihail""",sat LEMNIA; comuna LEMNIA,,sec. XVI - XVIII
 402,CV-II-m-A-13234.01,"Biserica romano-catolică ""Sf. Mihail""",sat LEMNIA; comuna LEMNIA,,"1510, transf. 1607, 1776"
 403,CV-II-m-A-13234.02,Incintă fortificată,sat LEMNIA; comuna LEMNIA,,sec. XVI - XVII
 404,CV-II-m-B-20302,Ruinele bisericii de lemn greco-catolice,sat LEMNIA; comuna LEMNIA,,sec. XIX
@@ -380,7 +409,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 408,CV-II-m-A-13236.02,"Zid de incintă, cu turn- clopotniţă",sat LISNĂU; comuna OZUN,32,1834
 409,CV-II-a-A-13237,Ansamblul bisericii romano-catolice,sat aparţinător LUNGA; municipiul TÂRGU SECUIESC,Str. Principală 351,sec. XV - XIX
 410,CV-II-m-A-13237.01,"Biserica romano-catolică ”Sf. Ladislau""",sat aparţinător LUNGA; municipiul TÂRGU SECUIESC,Str. Principală 351,"sec. XV, transf. sec. XVIII, 1821"
-411,CV-II-m-A-13237.02,Zid de incintă,sat aparţinător LUNGA; municipiul TÂRGU SECUIESC DOBÂRLĂU,Str. Principală 351,sec. XVII
+411,CV-II-m-A-13237.02,Zid de incintă,sat aparţinător LUNGA; municipiul TÂRGU SECUIESC,Str. Principală 351,sec. XVII
+412,CV-II-m-B-20303,Biserică,sat MĂRCUŞ; comuna DOBÂRLĂU,,sec. XV
 413,CV-II-m-B-13238,Biserica reformată,sat MĂRCUŞA; comuna CATALINA,2,sec. XVII
 414,CV-II-m-B-13239,"Biserica ""Adormirea Maicii Domnului”",sat MĂRTĂNUŞ; comuna BREŢCU,274,1796
 415,CV-II-m-A-13240,Biserica reformată,sat MĂRTINENI; comuna CATALINA,66,"sec. XV, transf. sec. XVIII - XIX, turn- clopotniţă 1778"
@@ -391,7 +421,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 420, CV-II-a-B-13243, Ansamblul bisericii reformate, sat OZUN; comuna OZUN, 74, sec. XVII - XVIII
 421,CV-II-m-B-13243.01,Biserica reformată,sat OZUN; comuna OZUN,74,"sec. XVII, transf. 1820"
 422,CV-II-m-B-13243.02,"Zid de incintă (fragmente), cu turn clopotniţă",sat OZUN; comuna OZUN,74,1616
-423,CV-II-m-A-13244,Castelul Béldy-Mikes bibliotecă,sat OZUN; comuna OZUN OZUN,99,"1755, transf. sec. XX"
+423,CV-II-m-A-13244,Castelul Béldy-Mikes,sat OZUN; comuna OZUN,99,"1755, transf. sec. XX"
+424,CV-II-m-B-13245,"Conacul Pünkösti, azi bibliotecă",sat OZUN; comuna OZUN,104,cca. 1810
 425,CV-II-m-B-13246,Grânarul conacului Pünkösti,sat OZUN; comuna OZUN,140,înc. sec. XIX
 426,CV-II-m-B-13247,"Fosta Cazarmă a Husarilor, azi locuinţă",sat OZUN; comuna OZUN,177,sec. XVIII
 427,CV-II-m-B-13248,Conacul Ujvárosy-Agoston,sat OZUN; comuna OZUN,437,1810 - 1825
@@ -403,7 +434,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 433,CV-II-a-B-13253,"Ansamblul bisericii romano-catolice ""Sf. Laurenţiu""",sat PETRICENI; comuna SÂNZIENI,294,1825
 434,CV-II-m-B-13253.01,"Biserica romano-catolică ""Sf. Laurenţiu""",sat PETRICENI; comuna SÂNZIENI,294,1825
 435,CV-II-m-B-13253.02,Zid de incintă,sat PETRICENI; comuna SÂNZIENI,294,1825
-436,CV-II-a-B-13255,"Ansamblul bisericii romano-catolice ""Găsirea",sat POIAN; comuna POIAN,153,sec. XVIII - XIX
+436,CV-II-a-B-13255,"Ansamblul bisericii romano-catolice ""Găsirea Sfintei Cruci""",sat POIAN; comuna POIAN,153,sec. XVIII - XIX
 437,CV-II-m-B-13255.01,"Biserica romano-catolică ”Găsirea Sfintei Cruci""",sat POIAN; comuna POIAN,153,"1717, 1804, 1992"
 438,CV-II-m-B-13255.02,Zid de incintă,sat POIAN; comuna POIAN,153,"sec. XVII, transf. sec. XVIII"
 439,CV-II-m-B-13256,"Biserica de lemn ""Sf. Arhangheli”",sat POIAN; comuna POIAN,324,1762
@@ -414,6 +445,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 444,CV-II-m-A-13258.01,Biserica reformată,sat RECI; comuna RECI,"Pe un deal, la marginea nord-est a localităţii, lângă cimitir","sec. XIII, ref. 1515, transf. 1857"
 445,CV-II-m-A-13258.02,Turn-clopotniţă,sat RECI; comuna RECI,"Pe un deal, la marginea nord-est a localităţii, lângă cimitir","sec. XIII, 1515, transf. 1857"
 446,CV-II-m-B-13259,"Conacul Antos, azi dispensar medical şi locuinţă de serviciu",sat RECI; comuna RECI,444,1825
+447,CV-II-m-B-13260,Casa Salamon,sat RECI; comuna RECI,452,sec. XVIII
 448,CV-II-m-A-13261,Biserica reformată,sat SACIOVA; comuna RECI,"În centrul localităţii, lângă cimitir","sec. XV, transf. sec. XVIII-XIX, turn 1824"
 449,CV-II-m-B-13262,Podul vechi de piatră,sat SÂNCRAIU; comuna ILIENI,"Peste pârâul Sâncraiului, la 1 km vest de sat",1861
 450,CV-II-a-A-13263,Ansamblul bisericii unitariene,sat SÂNCRAIU; comuna ILIENI,111,sec. XV - XVIII
@@ -425,7 +457,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 456,CV-II-m-A-13267.01,"Capela romano-catolică ""Sf. Ştefan""",sat SÂNZIENI; comuna SÂNZIENI,Pe dealul Perko,"sec. XII - XIII, transf. 1686"
 457,CV-II-m-A-13267.02,Turn-clopotniţă,sat SÂNZIENI; comuna SÂNZIENI,Pe dealul Perko,"sec. XII - XIII, transf. 1686"
 458,CV-II-m-B-13268,"Conacul Tamás Elek, azi locuinţă",sat SÂNZIENI; comuna SÂNZIENI,87-88,1810 - 1820
-459,CV-II-m-A-13269,"Conacul Könczey, azi locuinţă romano-catolice ""Sf. Duh""",sat SÂNZIENI; comuna SÂNZIENI SÂNZIENI,198-199,"1608, reparaţii 1829"
+459,CV-II-m-A-13269,"Conacul Könczey, azi locuinţă",sat SÂNZIENI; comuna SÂNZIENI,198-199,"1608, reparaţii 1829"
+460,CV-II-a-A-13266,"Ansamblul bisericii romano-catolice ""Sf. Duh""",sat SÂNZIENI; comuna SÂNZIENI,276,sec. XV - XX
 461,CV-II-m-A-13266.01,"Biserica romano-catolică ""Sf. Duh""",sat SÂNZIENI; comuna SÂNZIENI,276,"1401, sec. XVIII - XX"
 462,CV-II-m-A-13266.02,Incintă fortificată cu patru bastioane cilindrice,sat SÂNZIENI; comuna SÂNZIENI,276,"sec. XV, transformări sec. XVIII"
 463,CV-II-m-A-13270,Casa parohială romano- catolică,sat SÂNZIENI; comuna SÂNZIENI,277,sf. sec. XVIII
@@ -434,7 +467,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 466,CV-II-m-A-13271,Castelul Daniel,sat TĂLIŞOARA; comuna BRĂDUŢ,215,"1669, modif. 1884"
 467,CV-II-s-A-13273,Centrul istoric,municipiul TÂRGU SECUIESC,"Piaţa Gabor Aron şi zona adiacentă pieţii: SV - între str. Kossuth Lajos 3 str. Şcolii 1; V - str. Şcolii; N - între Meseriaşilor, Episcop Márton Áron 24, Vasarhelyi Peter 5, Apafi Mihaly Dâmbului; E - str. Körösi Csoma Sandor; S - între str. Independenţei 6, str. Gării 2, str. Petöfi Sandor. Cf. PUG nr.12/1997"," şi str. 15- 7,"
 468,CV-II-a-B-13274,"Ansamblul ""Str. Primăverii” (Degécia)",municipiul TÂRGU SECUIESC,"Str. Primăverii şi Curţile 62, 63 cu case de lemn din sec. XVIII - XIX.",sec. XVIII - XIX
-469,CV-II-m-B-13275,Judecătorie Orfelinat de Fete,municipiul TÂRGU SECUIESC SECUIESC,Str. Ady Endre 5,mijl. sec. XVIII
+469,CV-II-m-B-13275,Judecătorie,municipiul TÂRGU SECUIESC,Str. Ady Endre 5,mijl. sec. XVIII
+470,CV-II-a-B-13276,Ansamblul fostului Orfelinat de Fete,municipiul TÂRGU SECUIESC,Str. Ady Endre 13,sec. XIX
 471,CV-II-m-B-13276.01,"Fostul Orfelinat de Fete, azi Centru de Plasament",municipiul TÂRGU SECUIESC,Str. Ady Endre 13,înc. sec. XIX
 472,CV-II-m-B-13276.02,Capela funerară Szentkereszty Stefánia,municipiul TÂRGU SECUIESC,Str. Ady Endre 13,sec. XIX
 473,CV-II-m-B-13277,Şcoala Pedagogică,municipiul TÂRGU SECUIESC,Str. Ady Endre 20,1896
@@ -446,7 +480,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 479,CV-II-m-B-13282,Casa Roşie (Veres),municipiul TÂRGU SECUIESC,Piaţa Gábor Aron 19,înc. sec. XVIII
 480,CV-II-m-B-13283,"Casa Szõcs Mátyás, cu poarta de zid",municipiul TÂRGU SECUIESC,Str. Gării 16,1836
 481,CV-II-m-B-13284,Casa Nagy Jáfet,municipiul TÂRGU SECUIESC,Str. Gării 21,1829
-482,CV-II-m-B-13285,Casa Wertán Spitalul de neuropsihiatrie,municipiul TÂRGU SECUIESC SECUIESC,Str. Gării 24,1902
+482,CV-II-m-B-13285,Casa Wertán,municipiul TÂRGU SECUIESC,Str. Gării 24,1902
+483,CV-II-m-B-13286,"Fostul Azil de Bătrâni, azi Spitalul de neuropsihiatrie",municipiul TÂRGU SECUIESC,Str. Gării 35,1897
 484,CV-II-m-B-13287,"Fostul sediul al Organizaţiei Meşteşugăreşti a Cizmarilor, azi locuinţă cu spaţiu comercial la parter",municipiul TÂRGU SECUIESC,Str. Independenţei 4,1910
 485,CV-II-m-A-13288,Fosta şcoală militară,municipiul TÂRGU SECUIESC,Str. Independenţei 6,1819 - 1823
 486,CV-II-m-B-13289,"Fostul Gimnaziu catolic din Kanta, azi, parţial, Cantină de Ajutor Social",municipiul TÂRGU SECUIESC,Str. Kanta 8,1751
@@ -455,7 +490,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 489,CV-II-m-A-13290.02,Claustru,municipiul TÂRGU SECUIESC,Str. Kanta 10,1740 - 1828
 490,CV-II-m-A-13290.03,Capelă,municipiul TÂRGU SECUIESC,Str. Kanta 10,"sec. XVIII, sec. XX"
 491,CV-II-m-A-13290.04,Poarta barocă,municipiul TÂRGU SECUIESC,Str. Kanta 10,1807
-492,CV-II-m-B-13291,"Fosta Casă de Economii , azi sediul Direcției Generale a Finanţelor Publice a jud. Covasna",municipiul TÂRGU SECUIESC SECUIESC,Str. Kossuth Lajos 10,sf. sec. XIX
+492,CV-II-m-B-13291,"Fosta Casă de Economii , azi sediul Direcției Generale a Finanţelor Publice a jud. Covasna",municipiul TÂRGU SECUIESC,Str. Kossuth Lajos 10,sf. sec. XIX
+493,CV-II-m-B-13292,Casă,municipiul TÂRGU SECUIESC,Str. Petõfi Sándor 11,1903
 494,CV-II-m-B-13293,Casă,municipiul TÂRGU SECUIESC,Str. Petõfi Sándor 28,1835
 495,CV-II-m-B-13294,"Fostul Casino - sediul primei tipografii, azi restaurantul „Székely Vendéglő”",municipiul TÂRGU SECUIESC,Str. Şcolii 1,înc. sec. XIX
 496,CV-II-a-A-13295,"Ansamblul bisericii ""Adormirea Maicii Domnului”",municipiul TÂRGU SECUIESC,Str. Vásárhelyi Péter 1,sec. XVIII - XIX
@@ -466,7 +502,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 501,CV-II-m-A-13296.01,Conacul Horváth,sat TELECHIA; comuna BRATEŞ,184,sec. XVIII
 502,CV-II-m-A-13296.02,Poartă,sat TELECHIA; comuna BRATEŞ,184,sec. XVIII
 503,CV-II-m-A-13297,Cetatea Bálványos (ruine),sat TURIA; comuna TURIA,,sec. XIII - XIV
-504,CV-II-a-A-13299,Ansamblul castelului Apor,sat TURIA; comuna TURIA TURIA,244,sec. XVI - XIX 1820
+504,CV-II-a-A-13299,Ansamblul castelului Apor,sat TURIA; comuna TURIA,244,sec. XVI - XIX
+505,CV-II-m-A-13299.01,Castelul Apor,sat TURIA; comuna TURIA,244,"sec. XVI, transf. 1693, 1820"
 506,CV-II-m-A-13299.02,Grânar,sat TURIA; comuna TURIA,244,sec. XVIII - XIX
 507,CV-II-a-A-13300,Ansamblul bisericii reformate,sat TURIA; comuna TURIA,463,sec. XVI - XIX
 508,CV-II-m-A-13300.01,Biserica reformată,sat TURIA; comuna TURIA,463,"sec. XVI, ref. sec. XIX"
@@ -476,7 +513,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 512,CV-II-m-B-13304,Ruinele capelei (Veresbaratok Tornya),sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,"f.n., Pe dealul “Kápolnatető”, între Valea Crişului şi Calnic, lângă rezervorul de apă",sec. XV
 513, CV-II-a-A-13303," Ansamblul bisericii romano-catolice ""Sf. Treime""", sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI, 152, sec. XIII - XIX
 514,CV-II-m-A-13303.01,"Biserica romano-catolică ""Sf. Treime""",sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,152,"sec. XIII - XVI, transf. sec. XVII"
-515,CV-II-m-A-13303.02,Cavoul Familiei Kálnoky,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI comuna VALEA,152,sec. XIX
+515,CV-II-m-A-13303.02,Cavoul Familiei Kálnoky,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,152,sec. XIX
+516,CV-II-m-A-13303.03,Zid de incintă,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,152,sec. XVI - XVII
 517,CV-II-m-A-13305,Castelul Kálnoki,sat VALEA CRIŞULUI; comuna VALEA CRIŞULUI,Str. Orbán Balázs 6,"sec. XVII - XVIII, transf. 1752, sec. XIX"
 518,CV-II-m-B-13306,"Biserica ortodoxă ""Sf. Arhangheli”",sat VALEA MARE; comuna VALEA MARE,265,1793
 519,CV-II-m-B-13307,"Moară de apă, cu turbină",sat VALEA SEACĂ; comuna SÂNZIENI,231,"sec. XIX, transf. sec. XX"
@@ -487,7 +525,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 524, CV-II-m-B-13310, Casă de lemn, sat VÂLCELE; comuna VÂLCELE, 162, 1886
 525,CV-II-m-B-20308,Casă de lemn,sat VÂLCELE; comuna VÂLCELE,179,sec. XIX
 526,CV-II-m-B-13311,Casă,sat VÂLCELE; comuna VÂLCELE,181,1910
-527,CV-II-a-B-13312,"Ansamblul bisericii de lemn ""Sf. Arhangheli"" Arhangheli”",sat VÂRGHIŞ; comuna VÂRGHIŞ VÂRGHIŞ,16,sec. XIX
+527,CV-II-a-B-13312,"Ansamblul bisericii de lemn ""Sf. Arhangheli""",sat VÂRGHIŞ; comuna VÂRGHIŞ,16,sec. XIX
+528,CV-II-m-B-13312.01,"Biserica de lemn ""Sf. Arhangheli”",sat VÂRGHIŞ; comuna VÂRGHIŞ,16,1807
 529,CV-II-m-B-13312.02,Clopotniţă de lemn,sat VÂRGHIŞ; comuna VÂRGHIŞ,16,sec. XIX
 530,CV-II-m-B-13313,Casă,sat VÂRGHIŞ; comuna VÂRGHIŞ,80,sec. XVIII
 531,CV-II-m-B-13314,Casă de zid,sat VÂRGHIŞ; comuna VÂRGHIŞ,99,1773
@@ -499,7 +538,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 537,CV-II-m-B-13315.05,Poartă,sat VÂRGHIŞ; comuna VÂRGHIŞ,106,1873
 538,CV-II-m-B-13316,Castelul Daniel,sat VÂRGHIŞ; comuna VÂRGHIŞ,205,"sec. XVI, transf. ext. 1670, 1723, 1850, 1930"
 539,CV-II-m-B-13317,Casă,sat VÂRGHIŞ; comuna VÂRGHIŞ,348,1868
-540,CV-II-m-B-13318,Casă de lemn şi poartă,sat VÂRGHIŞ; comuna VÂRGHIŞ VÂRGHIŞ,396,"1879 (casa), 1910 (poarta)"
+540,CV-II-m-B-13318,Casă de lemn şi poartă,sat VÂRGHIŞ; comuna VÂRGHIŞ,396,"1879 (casa), 1910 (poarta)"
+541,CV-II-m-B-13319,Casă şi şură,sat VÂRGHIŞ; comuna VÂRGHIŞ,451,înc. sec. XX
 542,CV-II-m-B-20310,Casă,sat VÂRGHIŞ; comuna VÂRGHIŞ,525,1920
 543,CV-II-a-B-13320,Gospodărie ţărănească,sat VÂRGHIŞ; comuna VÂRGHIŞ,553,1874
 544,CV-II-m-B-13320.01,Casă cu cerdac,sat VÂRGHIŞ; comuna VÂRGHIŞ,553,1874
@@ -511,7 +551,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 550,CV-II-m-A-13322.03,Hambar,sat VÂRGHIŞ; comuna VÂRGHIŞ,559,sec. XVIII - XIX
 551,CV-II-m-A-13322.04,Fântână cu cumpănă,sat VÂRGHIŞ; comuna VÂRGHIŞ,559,sec. XVIII - XIX
 552,CV-II-m-A-13322.05,Poartă de lemn şi gard,sat VÂRGHIŞ; comuna VÂRGHIŞ,559,sec. XVIII - XIX
-553,CV-II-a-B-13323,Gospodărie ţărănească,sat VÂRGHIŞ; comuna VÂRGHIŞ VÂRGHIŞ,568,1820
+553,CV-II-a-B-13323,Gospodărie ţărănească,sat VÂRGHIŞ; comuna VÂRGHIŞ,568,1820
+554,CV-II-m-B-13323.01,Casă de lemn,sat VÂRGHIŞ; comuna VÂRGHIŞ,568,1820
 555,CV-II-m-B-13323.02,Poartă de lemn,sat VÂRGHIŞ; comuna VÂRGHIŞ,568,1820
 556,CV-II-a-B-13324,Ansamblul conacului Imecs,sat VÂRGHIŞ; comuna VÂRGHIŞ,608,
 557,CV-II-m-B-13324.01,"Conacul Imecs, azi locuinţă",sat VÂRGHIŞ; comuna VÂRGHIŞ,608,1779
@@ -523,7 +564,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 563,CV-II-a-A-13328,Ansamblul bisericii reformate,sat ZĂBALA; comuna ZĂBALA,În centrul localităţii,sec. XV - XIX
 564,CV-II-m-A-13328.01,Biserica reformată,sat ZĂBALA; comuna ZĂBALA,În centrul localităţii,"sec. XV - XVI, transf. sec. XVIII - XIX, turn ref. 1778"
 565,CV-II-m-A-13328.02,"Incintă fortificată, cu turn- clopotniţă",sat ZĂBALA; comuna ZĂBALA,În centrul localităţii,"sec. XV - XVI, 1778 (turnul)"
-566,CV-II-m-A-13327,"Biserica de lemn ""Adormirea Maicii",sat ZĂBALA; comuna ZĂBALA,192A,1777
+566,CV-II-m-A-13327,"Biserica de lemn ""Adormirea Maicii Domnului”",sat ZĂBALA; comuna ZĂBALA,192A,1777
 567,CV-II-m-B-13330,Casă,sat ZĂBALA; comuna ZĂBALA,314,sec. XIX
 568,CV-II-a-A-13331,Ansamblul castelului Mikes,sat ZĂBALA; comuna ZĂBALA,437,sec. XVII - XIX
 569,CV-II-m-A-13331.01,"Castelul Mikes, azi locuinţă",sat ZĂBALA; comuna ZĂBALA,437,"sec. XVII, ext. 1867"
@@ -535,7 +576,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 575,CV-II-m-B-13335,"Conacul Benkõ - Zágoni, azi locuinţă",sat ZOLTAN; comuna GHIDFALĂU,122,1832
 576,CV-II-m-B-13336,Poarta barocă,sat ZOLTAN; comuna GHIDFALĂU,131A,sec. XVIII
 577,CV-II-m-B-13338,Biserica reformată,sat ZOLTAN; comuna GHIDFALĂU,159,1792
-578,CV-III-m-B-13339,Bustul lui Nicolae Bălcescu,municipiul SFÂNTU GHEORGHE GHEORGHE,"Str. Cioflec Romulus, alături de bustul lui Gabor Aron lui Nicolae Bălcescu",1971
+578,CV-III-m-B-13339,Bustul lui Nicolae Bălcescu,municipiul SFÂNTU GHEORGHE,"Str. Cioflec Romulus, alături de bustul lui Gabor Aron",1971
+579,CV-III-m-B-13340,Bustul lui Gabor Aron,municipiul SFÂNTU GHEORGHE,"Str. Cioflec Romulus, alături de bustul lui Nicolae Bălcescu",1971
 580,CV-III-m-B-13341,Bustul lui lui Dózsa György,municipiul SFÂNTU GHEORGHE,Str. Kós Károly 30,1958
 581,CV-III-m-B-13342,"Grupul statuar ""Mihai Viteazul""",municipiul SFÂNTU GHEORGHE,Piaţa Mihai Viteazul,1982
 582,CV-III-m-B-13343,Monumentul ostaşului român,municipiul SFÂNTU GHEORGHE,Str. Păiş David,1975
@@ -546,7 +588,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 587,CV-IV-m-B-13348,Cruce,sat ALUNGENI; comuna TURIA,În curtea bisericii romano-catolice,1867
 588,CV-IV-a-B-13349,Cimitir comun,sat CERNAT; comuna CERNAT,"Cernatu de Jos, în partea estică a satului, pe o terasă",sec. XVII - XIX
 589,CV-IV-m-A-13350,Coloană de piatră,sat aparţinător CHILIENI; municipiul SFÂNTU GHEORGHE,Mutată din hotarul estic al satului cimitirul romano-catolic,în 1751
-590,CV-IV-m-A-13217.03,Coloană de piatră,sat GHELINŢA; comuna GHELINŢA HĂGHIG,986,1763
+590,CV-IV-m-A-13217.03,Coloană de piatră,sat GHELINŢA; comuna GHELINŢA,986,1763
+591,CV-IV-a-B-13351,Cimitirul vechi ortodox,sat HĂGHIG; comuna HĂGHIG,,ante sec. XIX
 592,CV-IV-m-B-13220,Capela familiei Nemes,sat HĂGHIG; comuna HĂGHIG,110A,sec. XIX
 593,CV-IV-m-A-13266.03,Cruce de piatră,sat SÂNZIENI; comuna SÂNZIENI,276,sec. XVIII
 594,CV-IV-m-A-13300.03,Pietre funerare,sat TURIA; comuna TURIA,463,sec. XVIII - XIX

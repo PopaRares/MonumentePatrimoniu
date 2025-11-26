@@ -142,10 +142,13 @@ def extract_table(pdf_path: str, column_coords: dict, table_bbox_percent: dict,
                         continue
                     result_rows.append(row)
             
-            # Always remove first row on each page as safety measure (should be table header)
-            # This prevents any page header content from being included
+            # Remove first row only if it's a header row or contains 'MINISTERUL CULTURII'
+            # This prevents page header content from being included
             if result_rows:
-                result_rows = result_rows[1:]
+                first_row = result_rows[0]
+                first_row_str = ' '.join(str(cell) for cell in first_row) if first_row else ''
+                if is_header_row(first_row) or 'MINISTERUL CULTURII' in first_row_str:
+                    result_rows = result_rows[1:]
             
             # Handle cross-page row continuation (parent row on previous page, child row on this page)
             # Only merge if last_row_from_previous_page is not a header

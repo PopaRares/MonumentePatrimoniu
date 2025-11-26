@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,GL-I-s-B-02969,"Situl arheologic de pe promontoriul ""Precista"" Galaţi",municipiul GALAŢI,"Între str. Traian, faleza Dunării, Roşiori, promontoriul aferent bisericii Precista",str.
 2,GL-I-m-B-02969.01,Aşezare,municipiul GALAŢI,"Între str. Traian, faleza Dunării, Roşiori, promontoriul aferent bisericii Precista",str. sec. XVI - XIX
 3,GL-I-m-B-02969.02,Necropolă,municipiul GALAŢI,"Între str. Traian, faleza Dunării, Roşiori, promontoriul aferent bisericii Precista",str. sec. XVI - XIX
 4,GL-I-m-B-02969.03,Cuptoare medievale,municipiul GALAŢI,"Între str. Traian, faleza Dunării, Roşiori, promontoriul aferent bisericii Precista",str. sec. XVII
@@ -6,7 +7,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,GL-I-m-B-02970.01,Fortificaţie de pământ,municipiul GALAŢI,"Zona de V, la E de şoseaua Galaţi- Brăila","sec. II - III p. Chr., Epoca romană"
 7,GL-I-m-B-02970.02,Necropolă,municipiul GALAŢI,"Zona de V, la E de şoseaua Galaţi- Brăila","sec. II - III p. Chr., Epoca romană"
 8,GL-I-m-B-02970.03,Castellum de pământ,municipiul GALAŢI,"Zona de V, la E de şoseaua Galaţi- Brăila","sec. II p. Chr, Epoca romană"
-9,GL-I-s-A-02971,Situl arheologic de la Barboşi Galaţi,- municipiul GALAŢI,"Promontoriul ""Tirighina"" şi versanţii de la V de acesta, la 300 m N de", gara
+9,GL-I-s-A-02971,Situl arheologic de la Barboşi Galaţi,- municipiul GALAŢI,"Promontoriul ""Tirighina"" şi versanţii de la V de acesta, la 300 m N de Barboşi", gara
 10,GL-I-m-A-02971.01,Castellum roman,municipiul GALAŢI,"Promontoriul ""Tirighina"" şi versanţii de la V de acesta, la 300 m N de Barboşi","sec. II - IV p. Chr., Epoca gara romană"
 11,GL-I-m-A-02971.02,Aşezare,municipiul GALAŢI,"Promontoriul ""Tirighina"" şi versanţii de la V de acesta, la 300 m N de Barboşi","sec. II - IV p. Chr., Epoca gara romană"
 12,GL-I-m-A-02971.03,Aşezare,municipiul GALAŢI,"Promontoriul ""Tirighina"" şi versanţii de la V de acesta, la 300 m N de Barboşi","sec. VI a. Chr. - sec. I p. gara Chr., Latène, Cultura geto - dacică"
@@ -14,7 +15,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 14,GL-I-m-B-02973,Cavou roman,municipiul GALAŢI,"Str. Oţelarilor, zona blocurilor D14 D16","- sec. IV p. Chr., Epoca romană"
 15,GL-I-s-A-02974,Valul lui Traian,,"La N de Galaţi cu capătul de E în apropiere de gara Tuluceşti, în lunca Prutului şi capătul de V la marginea sudică a satului Traian, pe malul stâng al Siretului",sec. II - III p. Chr.
 16,GL-I-s-A-02975,Valul lui Atanaric,,"Capătul de E în lunca Prutului, de teritoriul com. Stoicani până în dreptul localităţilor Brăhăşeşti - Toflea, pe malul stâng al Siretului, partea de NV a judeţului Galaţi",pe sec. II - IV p. Chr. în
-17,GL-I-s-B-02976,Situl arheologic de la Barcea,sat BARCEA; comuna BARCEA,"Şos. Tecuci-Galaţi, ""Grădina de zarzavat”, la 500 m V de şoseaua",
+17,GL-I-s-B-02976,Situl arheologic de la Barcea,sat BARCEA; comuna BARCEA,"Şos. Tecuci-Galaţi, ""Grădina de zarzavat”, la 500 m V de şoseaua Tecuci-Galaţi",
 18,GL-I-m-B-02976.01,Aşezare,sat BARCEA; comuna BARCEA,"Şos. Tecuci-Galaţi, ""Grădina de zarzavat”, la 500 m V de şoseaua Tecuci-Galaţi","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana de Mureş - Cerneahov"
 19,GL-I-m-B-02976.02,Necropolă,sat BARCEA; comuna BARCEA,"Şos. Tecuci-Galaţi, ""Grădina de zarzavat”, la 500 m V de şoseaua Tecuci-Galaţi","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana de Mureş - Cerneahov"
 20,GL-I-m-A-02975.01,Valul lui Atanaric,sat BĂLENI; comuna BĂLENI,,sec. II - IV p. Chr.
@@ -23,7 +24,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 23,GL-I-m-B-02977.02,Aşezare,sat BĂNEASA; comuna BĂNEASA,La confluenţa pâraielor Chineja Băneasa,"şi sec. IV p. Chr., Epoca migraţiilor"
 24,GL-I-m-B-02977.03,Aşezare,sat BĂNEASA; comuna BĂNEASA,La confluenţa pâraielor Chineja Băneasa,"şi sec. II p. Chr., Hallstatt"
 25,GL-I-m-B-02977.04,Aşezare,sat BĂNEASA; comuna BĂNEASA,La confluenţa pâraielor Chineja Băneasa,"şi sec. XIII - XII a. Chr., Epoca bronzului târziu, Cultura Noua"
-26,GL-I-m-B-02977.05,Aşezare,sat BĂNEASA; comuna BĂNEASA,"La confluenţa pâraielor Chineja Băneasa Bereşti-Pleşa-Bârlad, la NV de oraş","şi mil. IV a. Chr., Eneolitic, Cultura Gumelniţa, aspectul Stoicani - Aldeni Neolitic, Cultura"
+26,GL-I-m-B-02977.05,Aşezare,sat BĂNEASA; comuna BĂNEASA,La confluenţa pâraielor Chineja Băneasa,"şi mil. IV a. Chr., Eneolitic, Cultura Gumelniţa, aspectul Stoicani - Aldeni"
+27,GL-I-s-B-02978,Aşezare,oraş BEREŞTI,"""Dealul Bulgarului”, lângă drumul Bereşti-Pleşa-Bârlad, la NV de oraş","3500 - 3300 a. Chr., Neolitic, Cultura Cucuteni, faza AIII"
 28,GL-I-s-B-02979,"Situl arheologic de la Bereşti, punct ""La Bâzan""",oraş BEREŞTI,"""La Bâzan”, la 2 km V de oraş",
 29,GL-I-m-B-02979.01,Aşezare,oraş BEREŞTI,"""La Bâzan”, la 2 km V de oraş",sec. XV - XVI
 30,GL-I-m-B-02979.02,Aşezare,oraş BEREŞTI,"""La Bâzan”, la 2 km V de oraş","sec. IV p. Chr., Epoca migraţiilor"
@@ -34,7 +36,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 35,GL-I-m-A-02975.02,Valul lui Atanaric,sat BUCIUMENI; comuna BUCIUMENI,,"sec. II - IV p. Chr., Epoca migraţiilor"
 36,GL-I-s-B-02981,"Situl arheologic de la Cavadineşti, punct ""Râpa Glodului”",sat CAVADINEŞTI; comuna CAVADINEŞTI,"""Râpa Glodului”, la 4 km SV de sat",
 37,GL-I-m-B-02981.01,Aşezare daco-romană,sat CAVADINEŞTI; comuna CAVADINEŞTI,"""Râpa Glodului”, la 4 km SV de sat","sec. IV - III a. Chr., Latène"
-38,GL-I-m-B-02981.02,Aşezare,sat CAVADINEŞTI; comuna CAVADINEŞTI,"""Râpa Glodului”, la 4 km SV de sat","sec. XIII - XII a. Chr., Epoca bronzului târziu, cultura Noua, Cultura"
+38,GL-I-m-B-02981.02,Aşezare,sat CAVADINEŞTI; comuna CAVADINEŞTI,"""Râpa Glodului”, la 4 km SV de sat","sec. XIII - XII a. Chr., Epoca bronzului târziu, cultura Noua, Cultura Noua"
 39,GL-I-s-B-02982,Fortificaţia de la Căuieşti,sat CĂUIEŞTI; comuna DRĂGUŞENI,"""Cetăţuia”, la 500 m SE de sat","sec. IV - III a. Chr., Latène"
 40,GL-I-m-A-02974.01,Valul lui Traian,sat CIŞMELE; comuna SMÂRDAN,,"sec. II - III p. Chr., Epoca romană"
 41,GL-I-m-A-02975.04,Valul lui Atanaric,sat COROD; comuna COROD,,"sec. II - IV p. Chr., Epoca migraţiilor"
@@ -45,7 +47,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 46,GL-I-s-A-02984,Aşezare,sat FOLTEŞTI; comuna FOLTEŞTI,"""La Ruptură”, în terasa Prutului, 1,5 km S de sat","la 2500 - 1800 a. Chr., Epoca bronzului timpuriu, Cultura Horodiştea - Folteşti"
 47,GL-I-s-B-02985,Aşezare,sat GÂRBOVĂŢ; comuna GHIDIGENI,"""La Zahareasca”, la 1,5 km SE de","sat sec. XIII - XII a. Chr., Epoca bronzului târziu, Cultura Noua"
 48,GL-I-s-B-02986,Situl arheologic de la Ijdileni,sat IJDILENI; comuna FRUMUŞIŢA,,
-49,GL-I-m-B-02986.01,Aşezare,sat IJDILENI; comuna FRUMUŞIŢA FRUMUŞIŢA,La 200 m S de sediul CAP Ijdileni,"sec. XIV - XVII, Epoca medievală medievală timpurie"
+49,GL-I-m-B-02986.01,Aşezare,sat IJDILENI; comuna FRUMUŞIŢA,La 200 m S de sediul CAP Ijdileni,"sec. XIV - XVII, Epoca medievală"
+50,GL-I-m-B-02986.02,Aşezare,sat IJDILENI; comuna FRUMUŞIŢA,La 200 m S de sediul CAP Ijdileni,"sec. IX - XI, Epoca medievală timpurie"
 51,GL-I-m-B-02986.03,Aşezare,sat IJDILENI; comuna FRUMUŞIŢA,La 200 m S de sediul CAP Ijdileni,"sec. IV p. Chr., Epoca migraţiilor"
 52,GL-I-m-B-02986.04,Aşezare,sat IJDILENI; comuna FRUMUŞIŢA,La 200 m S de sediul CAP Ijdileni,"sec. XI - X a. Chr., Hallstatt"
 53,GL-I-s-B-02987,Necropolă,sat LUNCA; comuna JORĂŞTI,"""Râpa cu oale” (""Râpa Grozeşti”), 300 m N de sat","la sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana de Mureş - Cerneahov"
@@ -56,7 +59,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 58, GL-I-m-B-02988.01, Aşezare, sat NEGRILEŞTI; comuna NEGRILEŞTI, În curtea şcolii generale Negrileşti," sec. XVI, Epoca medievală"
 59,GL-I-m-B-02988.02,Aşezare,sat NEGRILEŞTI; comuna NEGRILEŞTI,În curtea şcolii generale Negrileşti,"sec. IV p. Chr., Epoca romană"
 60,GL-I-m-B-02988.03,Aşezare,sat NEGRILEŞTI; comuna NEGRILEŞTI,În curtea şcolii generale Negrileşti,"Epoca bronzului târziu, Cultura Noua"
-61,GL-I-m-B-02988.04,Aşezare,sat NEGRILEŞTI; comuna NEGRILEŞTI,În curtea şcolii generale Negrileşti,"mil. IV a. Chr., Eneolitic, Cultura Gumelniţa, aspectul Stoicani -"
+61,GL-I-m-B-02988.04,Aşezare,sat NEGRILEŞTI; comuna NEGRILEŞTI,În curtea şcolii generale Negrileşti,"mil. IV a. Chr., Eneolitic, Cultura Gumelniţa, aspectul Stoicani - Aldeni"
 62,GL-I-m-A-02974.02,Valul lui Traian,sat ODAIA MANOLACHE; comuna TULUCEŞTI,,"sec. II - III p. Chr., Epoca romană"
 63,GL-I-m-A-02975.10,Valul lui Atanaric,sat PLEVNA; comuna REDIU,,"sec. II - IV p. Chr., Epoca migraţiilor"
 64,GL-I-s-A-02989,"Situl arheologic de la Poiana, punct ""Piroboridava""",sat POIANA; comuna POIANA,"""Cetăţuia de la mal”, ""Piroboridava”",
@@ -67,7 +70,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 69, GL-I-s-B-02990," Situl arheologic de la Puricani, punct ""Poarta Bâzanului”", sat PURICANI; comuna BEREŞTI-MERIA," ""Poarta Bâzanului”, la 2 km V de", sat
 70,GL-I-m-B-02990.01,Aşezare,sat PURICANI; comuna BEREŞTI-MERIA,"""Poarta Bâzanului”, la 2 km V de","sat sec. XI - X a. Chr., Hallstatt"
 71,GL-I-m-B-02990.02,Aşezare,sat PURICANI; comuna BEREŞTI-MERIA,"""Poarta Bâzanului”, la 2 km V de","sat 10000 a. Chr., Paleolitic"
-72,GL-I-m-A-02975.11,Valul lui Atanaric,sat SCÂNTEIEŞTI; comuna SCÂNTEIEŞTI FOLTEŞTI,,"sec. II - IV p. Chr., Epoca migraţiilor migraţiilor"
+72,GL-I-m-A-02975.11,Valul lui Atanaric,sat SCÂNTEIEŞTI; comuna SCÂNTEIEŞTI,,"sec. II - IV p. Chr., Epoca migraţiilor"
+73,GL-I-m-A-02975.12,Valul lui Atanaric,sat STOICANI; comuna FOLTEŞTI,,"sec. II - IV p. Chr., Epoca migraţiilor"
 74,GL-I-s-A-02991,Necropolă,sat STOICANI; comuna FOLTEŞTI,"""Dealul de pe Râpă”, în vatra satului, la 150 m V de ""Cetăţuia""","sec. XI - X a. Chr., Hallstatt"
 75,GL-I-s-A-02992,"Situl arheologic de la Stoicani, punct ""Cetăţuia""",sat STOICANI; comuna FOLTEŞTI,"""Cetăţuia”, la marginea de E a satului, 100 m V de halta CFR Stoicani",
 76,GL-I-m-A-02992.01,Necropolă,sat STOICANI; comuna FOLTEŞTI,"""Cetăţuia”, la marginea de E a satului, 100 m V de halta CFR Stoicani","1800 - 800 a. Chr., Epoca bronzului"
@@ -76,7 +80,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 79,GL-I-m-A-02975.13,Valul lui Atanaric,sat SUHURLUI; comuna SUHURLUI,,"sec. II - IV p. Chr., Epoca migraţiilor"
 80,GL-I-s-B-02994,Aşezare,sat ŞENDRENI; comuna ŞENDRENI,"""Casa lui Secan”, pe malul de V bălţii Mălina, la 2 km S de sat Smârdan","al sec. X - XI, Epoca migraţiilor"
 81,GL-I-s-B-02995,Situl arheologic de la Şendreni,sat ŞENDRENI; comuna ŞENDRENI,"Lângă Fabrica de cherestea, pe stâng al Siretului",malul
-82,GL-I-m-B-02995.01,Aşezare,sat ŞENDRENI; comuna ŞENDRENI ŞENDRENI,"Lângă Fabrica de cherestea, pe stâng al Siretului stâng al Siretului","malul sec. X - XI, Epoca migraţiilor"
+82,GL-I-m-B-02995.01,Aşezare,sat ŞENDRENI; comuna ŞENDRENI,"Lângă Fabrica de cherestea, pe stâng al Siretului","malul sec. X - XI, Epoca migraţiilor"
+83,GL-I-m-B-02995.02,Aşezare,sat ŞENDRENI; comuna ŞENDRENI,"Lângă Fabrica de cherestea, pe stâng al Siretului",malul Epoca romană
 84,GL-I-m-A-02974.03,Valul lui Traian,sat ŞERBEŞTII VECHI; comuna ŞENDRENI,,"sec. II - III p. Chr., Epoca romană"
 85,GL-I-m-A-02974.04,Valul lui Traian,sat TRAIAN; comuna BRANIŞTEA,,"sec. II - III p. Chr., Epoca romană"
 86,GL-I-m-A-02974.05,Valul lui Traian,sat TULUCEŞTI; comuna TULUCEŞTI,,"sec. II - III p. Chr., Epoca romană"
@@ -87,7 +92,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 91,GL-I-m-B-02997.01,Aşezare,sat VÂNĂTORI; comuna VÂNĂTORI,"""La Jorical”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad","sec. II - III p. Chr., Epoca romană"
 92,GL-I-m-B-02997.02,Aşezare,sat VÂNĂTORI; comuna VÂNĂTORI,"""La Jorical”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad","sec. XII - XI a. Chr., Hallstatt"
 93,GL-I-s-B-02998,"Situl arheologic de la Vânători, punct ""Amiral”",sat VÂNĂTORI; comuna VÂNĂTORI,"""Amiral”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad",
-94,GL-I-m-B-02998.01,Aşezare,sat VÂNĂTORI; comuna VÂNĂTORI VÂNĂTORI,"""Amiral”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad ferată Galaţi-Bârlad","sec. XVI, Epoca medievală migraţiilor"
+94,GL-I-m-B-02998.01,Aşezare,sat VÂNĂTORI; comuna VÂNĂTORI,"""Amiral”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad","sec. XVI, Epoca medievală"
+95,GL-I-m-B-02998.02,Aşezare,sat VÂNĂTORI; comuna VÂNĂTORI,"""Amiral”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad","sec. X - XI, Epoca migraţiilor"
 96,GL-I-m-B-02998.03,Aşezare,sat VÂNĂTORI; comuna VÂNĂTORI,"""Amiral”, între km 10 şi 11 pe calea ferată Galaţi-Bârlad","sec. IV p. Chr., Epoca daco-romană"
 97,GL-II-m-B-02999,Cavoul dr. Aristide Serfioti,municipiul GALAŢI,"Cartier Fileşti, în curtea bisericii Treime""","""Sf. 1880"
 98,GL-II-a-B-03000,"Ansamblul urban ""Str. Nicolae Bălcescu""",municipiul GALAŢI,"Str. Bălcescu Nicolae, pe partea stângă de la nr. 19 la nr. 61 (până str. Gării), pe partea dreaptă de str. Eroilor până la str. Gării.",sec. XIX la la
@@ -97,7 +103,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 102,GL-II-m-B-03004,"Şcoala tip ""Spiru Haret”, azi Şcoala Normală ""Costache Negri""",municipiul GALAŢI,Str. Brăilei 134,1898 - 1900
 103,GL-II-m-B-03005,"Biserica ""Sf. Nicolae”",municipiul GALAŢI,Str. Creangă Ion 15,1845
 104,GL-II-m-B-03006,Casa Stavru Mantu,municipiul GALAŢI,Str. Cuza Alexandru Ioan 46,sf. sec. XIX
-105,GL-II-m-B-03007,"Casa Cuza Vodă, azi Muzeul Judeţean de Istorie",municipiul GALAŢI,Str. Cuza Alexandru Ioan 80 Alecsandri,1937 - 1939
+105,GL-II-m-B-03007,"Casa Cuza Vodă, azi Muzeul Judeţean de Istorie",municipiul GALAŢI,Str. Cuza Alexandru Ioan 80,1937 - 1939
+106,GL-II-s-B-03008,Grădina publică,municipiul GALAŢI,"Str. Domnească, colţ cu str. V. Alecsandri",mijl. sec. XIX
 107,GL-II-s-B-03009,"Parcul municipal ""Mihai Eminescu”",municipiul GALAŢI,"Str. Domnească, colţ cu str. G-ral Iacob Lahovary",mijl. sec. XIX
 108,GL-II-a-B-03010,"Ansamblul urban ""Str. Domnească""",municipiul GALAŢI,"Str. Domnească, pe partea dreaptă de la nr. 24 până la Grădina Publică; pe partea stângă de la str. G-ral Iacob Lahovary (parcul municipal Mihai Eminescu) până la nr. 141, Palatul Episcopal.",sec. XIX
 109,GL-II-m-B-03011,Casa Simion Gheorghiu,municipiul GALAŢI,Str. Domnească 24,1923 - 1925
@@ -108,6 +115,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 114,GL-II-m-A-03016,"Palatul Administrativ, azi Prefectura Judeţului Galaţi",municipiul GALAŢI,Str. Domnească 56,1904 - 1905
 115,GL-II-m-B-03017,Casă,municipiul GALAŢI,Str. Domnească 58,1872
 116,GL-II-m-B-03018,"Societatea Culturală V.A. Urechia, azi Teatrul Dramatic",municipiul GALAŢI,Str. Domnească 59,1930 - 1949
+117,GL-II-m-B-03019,Casa Damian Drăgănescu,municipiul GALAŢI,Str. Domnească 60,înc. sec. XX
 118,GL-II-m-B-03020,Casa Gheorghiade,municipiul GALAŢI,Str. Domnească 61,1880
 119,GL-II-m-B-03021,Casa Georgel Plesnilă,municipiul GALAŢI,Str. Domnească 64,înc. sec. XX
 120,GL-II-m-B-03022,Casă,municipiul GALAŢI,Str. Domnească 65,înc. sec. XX
@@ -120,6 +128,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 127,GL-II-m-B-03029,Biserica romano-catolică,municipiul GALAŢI,Str. Domnească 88,1844
 128,GL-II-m-B-03030,"Casă, azi Policlinică",municipiul GALAŢI,Str. Domnească 90,1910
 129,GL-II-m-B-03031,Casa Bănică Grigorescu,municipiul GALAŢI,Str. Domnească 100,sf. sec. XIX
+130,GL-II-m-B-21101,"Clădirea W, corp CI",municipiul GALAŢI,Str. Domnească 102,
 131,GL-II-m-B-03032,"Catedrala ortodoxă ""Sf. Ierarh Nicolae”",municipiul GALAŢI,Str. Domnească 104,1906 - 1917
 132,GL-II-m-B-03033,"Casa Helman, azi reşedinţă episcopală",municipiul GALAŢI,Str. Domnească 106,înc. sec. XX
 133,GL-II-m-B-03034,"Institutul ""Notre Dame de Sion”, azi Facultatea de Mecanică",municipiul GALAŢI,Str. Domnească 111,sf. sec. XIX
@@ -131,6 +140,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 139,GL-II-a-B-03040,"Ansamblul urban ""Str. Eroilor""",municipiul GALAŢI,"Str. Eroilor, pe ambele părţi, de str. Domnească, numerele 3 şi 6, până la str. Nicolae Bălcescu, nr. şi 34.",la sec. XIX 33
 140,GL-II-m-B-03041,Fostul consulat cehoslovac,municipiul GALAŢI,Str. Eroilor 7,înc. sec. XX
 141,GL-II-m-B-03042,Casă,municipiul GALAŢI,Str. Eroilor 8,înc. sec. XX
+142,GL-II-m-B-03043,Casă,municipiul GALAŢI,Str. Eroilor 10,înc. sec. XX
 143,GL-II-m-B-03044,Casa Armatei,municipiul GALAŢI,Str. Eroilor 40,1920 - 1926
 144,GL-II-m-B-03045,Farmacia Ţinc,municipiul GALAŢI,Str. Eroilor 64,1900
 145,GL-II-m-B-03046,"Casa Cavalioti, azi Muzeul de Istorie Galați",municipiul GALAŢI,"Str. Fotea Iancu, maior 2",1911
@@ -142,7 +152,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 151,GL-II-m-B-03052,Siloz pentru cereale,municipiul GALAŢI,"Str. Griviţei 38, în Portul Comercial",1884 - 1889
 152, GL-II-m-B-03053, Casa Gheorghe Florea, municipiul GALAŢI," Str. Holban Nicolae, col. 12", înc. sec. XX
 153,GL-II-m-B-03054,Palatul Poştei,municipiul GALAŢI,"Str. Lahovary Iacob, general 6",1906 - 1908
-154,GL-II-a-B-03055,"Ansamblul bisericii ""Adormirea Maicii Domnului” - Mavromol Domnului” - Mavromol",municipiul GALAŢI,Aleea Mavromol 12,1702
+154,GL-II-a-B-03055,"Ansamblul bisericii ""Adormirea Maicii Domnului” - Mavromol",municipiul GALAŢI,Aleea Mavromol 12,1702
+155,GL-II-m-B-03055.01,"Biserica ""Adormirea Maicii Domnului” - Mavromol",municipiul GALAŢI,Aleea Mavromol 12,1702
 156,GL-II-m-B-03055.02,Şcoala grecească,municipiul GALAŢI,Aleea Mavromol 12,1765
 157,GL-II-a-B-03056,"Ansamblul urban ""Str. Mihai Bravu""",municipiul GALAŢI,"Str. Mihai Bravu, pe ambele părţi la str. Gării până la str. Vasile Alecsandrii – de la numerele 1 şi numerele 43 şi 50.",de sec. XIX 2 la
 158,GL-II-m-B-03057,"Palatul Comisiei Europene a Dunării, azi Biblioteca ""V.A.Urechia""",municipiul GALAŢI,Str. Mihai Bravu 16,1896
@@ -153,7 +164,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 163,GL-II-m-B-03062,Casa Costache Negri,municipiul GALAŢI,Str. Mihai Bravu 46,sf. sec. XIX
 164,GL-II-m-B-03063,"Şcoala tip ""Spiru Haret”, azi Seminarul ""Sf. Apostol Andrei""",municipiul GALAŢI,Str. Mihai Bravu 48,1920 - 1929
 165,GL-II-m-B-03064,Gara Fluvială Galaţi - Palatul Navigaţiei,municipiul GALAŢI,Str. Portului 34,1912 - 1914
-166,GL-II-m-B-03065,"Pescăriile Statului ""Precista""",municipiul GALAŢI,Str. Portului 56,1912 - 1915
+166,GL-II-m-B-03065,Pescăriile Statului,municipiul GALAŢI,Str. Portului 56,1912 - 1915
+167,GL-II-a-A-03066,"Ansamblul bisericii fortificate ""Precista""",municipiul GALAŢI,Str. Roşiori 2,1647
 168,GL-II-m-A-03066.01,"Biserica cu turn fortificat ""Adormirea Maicii Domnului” Precista",municipiul GALAŢI -,Str. Roşiori 2,1647
 169,GL-II-m-A-03066.02,Zid incintă (fundaţii),municipiul GALAŢI,Str. Roşiori 2,1829
 170,GL-II-m-B-03067,"Biserica ""Sf. Spiridon”",municipiul GALAŢI,Str. Sf. Spiridon 13,1817 - 1828
@@ -165,7 +177,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 176,GL-II-m-B-03072,"Spitalul Municipal ""Elisabeta Doamna”",municipiul GALAŢI,Str. Traian 290,1877 - 1878
 177,GL-II-m-B-03073,"Biserica ""Adormirea Maicii Domnului”",sat ADAM; comuna DRĂGUŞENI,,1652
 178,GL-II-m-B-03074,Moară de apă,sat BRĂHĂŞEŞTI; comuna BRĂHĂŞEŞTI,"La marginea satului, la S de pârâul Hanului",sec. XIX
-179,GL-II-m-B-03075,"Biserica ""Sf. Treime”",sat BUCIUMENI; comuna BUCIUMENI GRIVIŢA,"La 4 km N de sat, în pădurea Buciumeni",1800
+179,GL-II-m-B-03075,"Biserica ""Sf. Treime”",sat BUCIUMENI; comuna BUCIUMENI,"La 4 km N de sat, în pădurea Buciumeni",1800
+180,GL-II-m-B-03076,Conacul Tache Anastasiu,sat CĂLMĂŢUI; comuna GRIVIŢA,"Lângă biserica ""Sf. Gheorghe""",sf. sec. XIX
 181,GL-II-m-B-03077,"Biserica ""Sf. Gheorghe”",sat CĂLMĂŢUI; comuna GRIVIŢA,,"1809, ref. 1862-1865"
 182,GL-II-m-B-03078,"Biserica de lemn ""Adormirea Maicii Domnului”",sat CERŢEŞTI; comuna CERŢEŞTI,În cimitirul satului,1776
 183,GL-II-m-B-03079,"Biserica ""Sf. Voievozi”",sat CHIRAFTEI; comuna MĂSTĂCANI,,1828
@@ -177,7 +190,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 189,GL-II-m-B-03082.02,Construcţii anexe,sat GHIDIGENI; comuna GHIDIGENI,Lângă primărie,sf. sec. XIX
 190,GL-II-m-B-03083,Cavoul familiei Crissoveloni,sat GHIDIGENI; comuna GHIDIGENI,Pe malul drept al râului Bârlad,sf. sec. XIX
 191,GL-II-m-B-03084,"Şcoala tip ""Spiru Haret”",sat INDEPENDENŢA; comuna INDEPENDENŢA,Lângă primărie,1908 - 1910
-192,GL-II-m-B-03085,"Şcoala tip ""Spiru Haret” Domnului” - Negustori",sat LUNCA; comuna JORĂŞTI NICOREŞTI,,1901
+192,GL-II-m-B-03085,"Şcoala tip ""Spiru Haret”",sat LUNCA; comuna JORĂŞTI,,1901
+193,GL-II-m-B-03086,"Biserica ""Naşterea Maicii Domnului” - Negustori",sat NICOREŞTI; comuna NICOREŞTI,În centrul satului,1728
 194,GL-II-a-B-03087,"Ansamblul bisericii ""Adormirea Maicii Domnului” - Serdaru",sat NICOREŞTI; comuna NICOREŞTI,În centrul satului,1780
 195,GL-II-m-B-03087.01,"Biserica ""Adormirea Maicii Domnului” - Serdaru",sat NICOREŞTI; comuna NICOREŞTI,În centrul satului,1780
 196,GL-II-m-B-03087.02,Turn clopotniţă,sat NICOREŞTI; comuna NICOREŞTI,În centrul satului,1780
@@ -189,7 +203,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 202,GL-II-m-B-03091,Casa Subofiţerilor,municipiul TECUCI,Str. 1 Decembrie 1918 27,sf. sec. XIX
 203,GL-II-m-A-03092,"Casa Teodor Cincu, azi Muzeul Mixt Tecuci",municipiul TECUCI,Str. 1 Decembrie 1918 36,sf. sec. XIX
 204, GL-II-m-B-03093," Hanul Goleri, azi B.C.R. - Tecuci", municipiul TECUCI, Str. 1 Decembrie 1918 55, sf. sec. XIX
-205,GL-II-m-B-03094,Vila Maria Şendrea Casa de Cultură,municipiul TECUCI,Str. 1 Decembrie 1918 57,1900
+205,GL-II-m-B-03094,Vila Maria Şendrea,municipiul TECUCI,Str. 1 Decembrie 1918 57,1900
+206,GL-II-m-B-03095,"Clădirea Primăriei Vechi, azi Casa de Cultură",municipiul TECUCI,Str. 1 Decembrie 1918 62,1887
 207,GL-II-m-B-03096,"Casa Tache Anastasiu, azi Camera de Comerț, Industrie Agricultură",municipiul TECUCI și,Str. 1 Decembrie 1918 64,sf. sec. XIX
 208,GL-II-m-B-03097,Casa Cruceanu,municipiul TECUCI,Str. 1 Decembrie 1918 80,sf. sec. XIX
 209,GL-II-m-B-03098,Fostul Tribunal Judeţean Tecuci,municipiul TECUCI,Str. 1 Decembrie 1918 81,sf. sec. XIX
@@ -201,7 +216,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 215,GL-II-m-B-03104,Casă,municipiul TECUCI,Str. Galaţi 2,1887 - 1888
 216,GL-II-m-B-03105,Casa Meran-Manoliu,municipiul TECUCI,Str. Galaţi 7,sf. sec. XIX
 217,GL-II-m-B-03106,"Fosta Prefectură a Judeţului Tecuci, azi Clubul Copiilor",municipiul TECUCI,Str. Galaţi 15,1900
-218,GL-II-m-B-03107,Casa Ioniţă Hrisanti Tecuci,municipiul TECUCI,Str. Hrisanti Ioniţă 8,sf. sec. XIX
+218,GL-II-m-B-03107,Casa Ioniţă Hrisanti,municipiul TECUCI,Str. Hrisanti Ioniţă 8,sf. sec. XIX
+219,GL-II-m-B-03109,"Banca de Scont, azi Parchetul Tecuci",municipiul TECUCI,Str. Petrovici Ioan 2,înc. sec. XX
 220,GL-II-m-B-03108,Casa Vornicul Tiron,municipiul TECUCI,Aleea Plopilor 2,sec. XIX
 221,GL-II-m-B-03110,Casa Hulea,municipiul TECUCI,Str. Popa Şapcă 2,mijl. sec. XIX
 222,GL-II-m-B-03112,"Fostul sediu al Administraţiei Financiare, azi Tribunalul Tecuci",municipiul TECUCI,Str. Racovitz George 28,înc. sec. XX
@@ -214,6 +230,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 229,GL-II-m-B-03119,Casă,municipiul TECUCI,Str. Victoriei 14,înc. sec. XX
 230,GL-II-m-B-03120,Casa Şerban Neniţă,municipiul TECUCI,Str. Victoriei 16,înc. sec. XX
 231,GL-II-m-B-03121,Casă,municipiul TECUCI,Str. Victoriei 19,înc. sec. XX
+232,GL-II-m-B-03122,Casă,municipiul TECUCI,Str. Victoriei 29,înc. sec. XX
 233,GL-II-m-B-03123,Poarta conacului poetului Costache Conachi,sat ŢIGĂNEŞTI; comuna MUNTENI,La 1 km NE de conac Cincu,înc. sec. XIX
 234,GL-II-a-B-03124,Ansamblul conacului Nestor Cincu,sat ŢIGĂNEŞTI; comuna MUNTENI,"Şos. Tecuci-Bârlad, km. 7, vis-a-vis gara Frunzeasca",de sf. sec. XIX
 235,GL-II-m-B-03124.01,Conacul Nestor Cincu,sat ŢIGĂNEŞTI; comuna MUNTENI,"Şos. Tecuci-Bârlad, km. 7, vis-a-vis gara Frunzeasca",de sf. sec. XIX
@@ -225,7 +242,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 241,GL-III-m-B-03128,Statuia lui Costache Negri,municipiul GALAŢI,"Str. Domnească, lângă Hotel Galaţi",1912
 242,GL-III-m-B-03129,Monumentul lui Alexandru Ioan Cuza,municipiul GALAŢI,"Str. Domnească, în rotonda din Grădina Publice",faţa 1927
 243, GL-III-m-B-03130, Bustul lui George Enescu, municipiul GALAŢI," Str. Domnească, în Grădina Publică", 1956
-244,GL-III-m-B-03131,Bustul lui Ion Luca Caragiale,municipiul GALAŢI,"Str. Domnească, în Grădina Publică ""Mihai Eminescu""",1956
+244,GL-III-m-B-03131,Bustul lui Ion Luca Caragiale,municipiul GALAŢI,"Str. Domnească, în Grădina Publică",1956
+245,GL-III-m-B-03132,Monumentul lui Mihai Eminescu,municipiul GALAŢI,"Str. Domnească, Parcul municipal ""Mihai Eminescu""",1911
 246,GL-III-m-B-03133,Statuia lui Ion C. Brătianu,municipiul GALAŢI,"Str. Domnească, pe faleza Dunării",1926
 247,GL-III-m-B-20526,Monument comemorativ al răscoalei din 1907,municipiul GALAŢI,Str. Domnească 66,1957
 248,GL-III-m-B-03135,Bustul lui Mihail Kogălniceanu,municipiul GALAŢI,Str. Domnească 111,1893
@@ -238,6 +256,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 255,GL-III-m-B-03141,Statuia lui Ioan Vodă cel Viteaz,sat ROŞCANI; comuna BĂNEASA,Pe şoseaua între Roşcani-Băneasa,
 256,GL-III-m-B-03142,Bustul lui Calistrat Hogaş,municipiul TECUCI,"Str. 1 Decembrie 1918 62, în faţa Casei de Cultură",
 257,GL-III-m-B-03143,Bustul Domnitorului Alexandru Ioan Cuza,municipiul TECUCI,"Str. 1 Decembrie 1918 64, în parc",1959
+258,GL-III-m-B-03144,Bustul lui Spiru Haret,municipiul TECUCI,"Str. Victoriei 12, Liceul ""Spiru Haret""",1934
 259,GL-IV-m-B-03145,Fosta şcoală bulgară,municipiul GALAŢI,Str. Bălcescu Nicolae 33,sf. sec. XIX
 260,GL-IV-m-B-03146,"Casa memorială ""Nicolae Mantu""",municipiul GALAŢI,Str. Cuza Alexandru Ioan 44,sf. sec. XIX
 261,GL-IV-m-B-03147,"Casa memorială ""Costache Negri”",sat COSTACHE NEGRI; comuna COSTACHE NEGRI,Vis-a-vis de primărie,1836

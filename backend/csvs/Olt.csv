@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,OT-I-s-B-08478,"Situl arheologic de la Slatina, punct ""Sălişte”",municipiul SLATINA,"Str. Cireaşov, punct ""Sălişte”",
 2,OT-I-m-B-08478.01,Așezare,municipiul SLATINA,"Str. Cireaşov, punct ""Sălişte”",sec. IV p. Chr.
 3,OT-I-m-B-08478.02,Așezare,municipiul SLATINA,"Str. Cireaşov, punct ""Sălişte”","sec. II - I a. Chr., Latène"
 4,OT-I-s-B-08479,Situl arheologic de la Slatina,municipiul SLATINA,Str. Piteşti,
@@ -7,7 +8,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 7,OT-I-m-B-08479.03,Așezare,municipiul SLATINA,Str. Piteşti,"Epoca bronzului, Cultura Verbicioara"
 8,OT-I-m-B-08479.04,Așezare,municipiul SLATINA,Str. Piteşti,"Epoca bronzului timpuriu, Cultura Glina"
 9,OT-I-m-B-08479.05,Așezare,municipiul SLATINA,Str. Piteşti,"Neolitic, Cultura Sălcuţa"
-10,OT-I-s-A-08480,Castru roman pe limes Transalutanus,sat ALBEŞTI; comuna POBORU comuna IZVOARELE,,"sec. III p. chr., Epoca romană"
+10,OT-I-s-A-08480,Castru roman pe limes Transalutanus,sat ALBEŞTI; comuna POBORU,,"sec. III p. chr., Epoca romană"
+11,OT-I-s-A-08481,Necropolă tumulară,sat ALIMĂNEŞTI; comuna IZVOARELE,,Epoca bronzului
 12,OT-I-s-B-08482,Aşezare,sat BĂLĂNEŞTI; comuna MĂRUNŢEI,"""La izvor”","sec. VI - V a. Chr., Hallstatt târziu"
 13,OT-I-s-B-08483,Aşezare,sat BĂRCĂNEŞTI; comuna VÂLCELE,"""Dealul Căpriorii”","sec. VI - V a. Chr., Hallstatt târziu"
 14,OT-I-s-B-08484,Aşezare,sat BERIA; comuna OPORELU,"""Dealul Carantinei”","sec. IV - II a. Chr., Latène"
@@ -19,7 +21,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 20,OT-I-m-B-08487,Tell,sat BREBENI-SÂRBI; comuna BREBENI,,"Neolitic, Cultura Sălcuţa"
 21,OT-I-s-A-08488,Așezare fortificată,sat BUICEŞTI; comuna PRISEACA,"""Valea Ailaltă”","sec. II - I a. Chr., Latène, Cultura geto - dacică"
 22,OT-I-m-A-08489,Ruinele curţii domneşti a lui Mihai Viteazul,municipiul CARACAL,Str. Mihai Viteazul 3,sec. XVI
-23,OT-I-s-B-08490,Așezare Sucidava,sat CÂRLOGANI; comuna CÂRLOGANI,"""Botul Stârcului”","Epoca bronzului timpuriu, Cultura Glina"
+23,OT-I-s-B-08490,Așezare,sat CÂRLOGANI; comuna CÂRLOGANI,"""Botul Stârcului”","Epoca bronzului timpuriu, Cultura Glina"
+24,OT-I-s-A-08491,Aşezarea romană Sucidava,oraş CORABIA,,sec. II - III p. Chr.
 25,OT-I-s-A-08492,Cetatea romano- bizantină Sucidava,oraş CORABIA,,sec. II - III p. Chr.
 26,OT-I-s-B-08493,Fântână,oraş CORABIA,,"sec. II p. Chr., Epoca romană"
 27,OT-I-s-B-08494,Așezare,oraş CORABIA,,"sec. XIV - XVI, Epoca medievală"
@@ -31,7 +34,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 33,OT-I-s-B-08498,Tell-ul eneolitic de la Crâmpoia,sat CRÂMPOIA; comuna CRÂMPOIA,"""Rentea”","Eneolitic, Cultura Gumelniţa"
 34,OT-I-s-B-08499,Așezare,sat CRUŞOVU; comuna BRASTAVĂŢU,,"Neolitic, Cultura Vădastra"
 35,OT-I-s-B-08500,Așezare,sat DĂNEASA; comuna DĂNEASA,,"Neolitic, Cultura Sălcuţa"
-36, OT-I-s-B-08501, Aşezarea daco-romană de la Drăgăneşti-Olt, oraş DRĂGĂNEŞTI-OLT," ""Sălişte”"," sec. II - IV p. Chr. timpuriu, Cultura Glina,"
+36, OT-I-s-B-08501, Aşezarea daco-romană de la Drăgăneşti-Olt, oraş DRĂGĂNEŞTI-OLT," ""Sălişte”", sec. II - IV p. Chr.
+37,OT-I-s-B-08502,Aşezare,oraş DRĂGĂNEŞTI-OLT,"""Cişmeaua lui Stoenică”","Epoca bronzului timpuriu, Cultura Glina, faza III"
 38,OT-I-s-B-08503,Situl arheologic de la Drăgăneşti -Olt,oraş DRĂGĂNEŞTI-OLT,,
 39,OT-I-m-B-08503.01,Aşezare,oraş DRĂGĂNEŞTI-OLT,,"Epoca bronzului timpuriu, Cultura Glina"
 40,OT-I-m-B-08503.02,Aşezare,oraş DRĂGĂNEŞTI-OLT,,"Neolitic, Cultura Sălcuţa"
@@ -43,7 +47,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 46,OT-I-m-B-08506.03,Așezare,sat GĂNEASA; comuna GĂNEASA,"""Vâlcea”","Epoca bronzului, Cultura Verbicioara"
 47,OT-I-m-B-08506.04,Așezare,sat GĂNEASA; comuna GĂNEASA,"""Vâlcea”","Epoca bronzului timpuriu, Cultura Glina"
 48,OT-I-s-B-08507,Așezare fortificată,sat GÂLMEIE; comuna SPRÂNCENATA,"""La Cetate”","sec. II a. Chr. - sec. I p. Chr., Latène"
-49,OT-I-s-B-08508,Aşezarea romană de la Gârcov Ghimpeţeni,sat GÂRCOV; comuna GÂRCOV comuna GHIMPEŢENI,,"sec. II - III p. Chr. epoca bronzului,"
+49,OT-I-s-B-08508,Aşezarea romană de la Gârcov,sat GÂRCOV; comuna GÂRCOV,,sec. II - III p. Chr.
+50,OT-I-s-B-08509,Aşezarea de la Ghimpeţeni,sat GHIMPEŢENI; comuna GHIMPEŢENI,"""Ghioroc”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 51,OT-I-s-B-08510,Castrul roman de la Ghioca,sat GHIOCA; comuna CRÂMPOIA,,sec. II - III p. Chr.
 52,OT-I-s-B-08511,Castrul de la Ghioca,sat GHIOCA; comuna CRÂMPOIA,,sec. III p. Chr.
 53,OT-I-s-B-08512,Situl arheologic de la Gropşani,sat GROPŞANI; comuna VULPENI,"""Gura Gurgotei”",
@@ -54,7 +59,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 58,OT-I-m-A-08514.01,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI,"""La Conac”",sec. XIV - XVI
 59, OT-I-m-A-08514.02, Necropolă, sat IPOTEŞTI; comuna IPOTEŞTI," ""La Conac”", sec. XIV - XVI
 60,OT-I-m-A-08514.03,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI,"""La Conac”",sec. IV - VIII
-61,OT-I-m-A-08514.04,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI IPOTEŞTI,"""La Conac”","sec. II - I a. Chr., Latène Cultura Verbicioara"
+61,OT-I-m-A-08514.04,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI,"""La Conac”","sec. II - I a. Chr., Latène"
+62,OT-I-m-A-08514.05,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI,"""La Conac”","Epoca bronzului, Cultura Verbicioara"
 63,OT-I-m-A-08514.06,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI,"""La Conac”","Neolitic, Cultura Boian"
 64,OT-I-s-A-08515,Aşezare,sat IPOTEŞTI; comuna IPOTEŞTI,,"sec. VI - VII, Cultura Ipoteşti - Cândeşti"
 65,OT-I-s-B-08516,Aşezarea romană de la Maldăr,sat MALDĂR; comuna COLONEŞTI,"""Terasa Letiţei”",
@@ -66,7 +72,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 71,OT-I-s-A-08520,Așezare fortificată,sat MILCOVU DIN VALE; comuna MILCOV,"""Islaz”","sec. I a. Chr. - I p. Chr., Latène"
 72,OT-I-s-B-08521,Situl arheologic de la Optaşi,sat OPTAŞI; comuna OPTAŞI,,
 73,OT-I-m-B-08521.01,Așezare,sat OPTAŞI; comuna OPTAŞI,,"sec. II - I a. Chr., Latène, Cultura geto - dacică"
-74,OT-I-m-B-08521.02,Așezare,sat OPTAŞI; comuna OPTAŞI OPTAŞI,,"Epoca bronzului, Cultura Verbicioara"
+74,OT-I-m-B-08521.02,Așezare,sat OPTAŞI; comuna OPTAŞI,,"Epoca bronzului, Cultura Verbicioara"
+75,OT-I-m-B-08521.03,Așezare,sat OPTAŞI; comuna OPTAŞI,,"Neolitic, Cultura Sălcuţa"
 76,OT-I-s-B-08522,Așezare,sat ORLEA; comuna ORLEA,"""Orliţa”",sec. II - III p. Chr.
 77,OT-I-s-B-08523,Situl arheologic de la Orlea,sat ORLEA; comuna ORLEA,"""La Grinduri”",
 78,OT-I-m-B-08523.01,Așezare,sat ORLEA; comuna ORLEA,"""La Grinduri”",Hallstatt
@@ -78,7 +85,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 84,OT-I-m-B-08525.01,Așezare,oraş PIATRA-OLT,,"sec. IV - II a. Chr., Latène"
 85,OT-I-m-B-08525.02,Așezare,oraş PIATRA-OLT,,"Epoca bronzului, Cultura Verbicioara"
 86,OT-I-m-B-08525.03,Așezare,oraş PIATRA-OLT,,"Neolitic, Cultura Vădastra"
-87,OT-I-s-A-08526,"Aşezarea şi castrul de la Acidava, Piatra Olt Acidava",oraş PIATRA-OLT,,sec. II - III p. Chr.
+87,OT-I-s-A-08526,"Aşezarea şi castrul de la Acidava, Piatra Olt",oraş PIATRA-OLT,,sec. II - III p. Chr.
+88,OT-I-m-A-08526.01,Aşezarea romană Acidava,oraş PIATRA-OLT,,sec. II - III p. Chr.
 89,OT-I-m-A-08526.02,Castrul Acidava,oraş PIATRA-OLT,,sec. II - III p. Chr.
 90,OT-I-s-A-08527,"Situl arheologic de la Reşca-Romula, punct ""Dâmbul Morii""",sat REŞCA-ROMULA; comuna DOBROSLOVENI,"""Dâmbul Morii”",
 91,OT-I-m-A-08527.01,Cimitir,sat REŞCA-ROMULA; comuna DOBROSLOVENI,"""Dâmbul Morii”",sec. XIV - XVI
@@ -87,7 +95,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 94,OT-I-s-A-08528,Necropola plană a oraşului Romula,sat REŞCA-ROMULA; comuna DOBROSLOVENI,,sec. II - III p. Chr.
 95,OT-I-s-A-08529,Necropola tumulară a oraşului Romula,sat REŞCA-ROMULA; comuna DOBROSLOVENI,,sec. II - III p. Chr.
 96,OT-I-s-B-08530,Situl arheologic de la Roşieni,sat ROŞIENI; comuna DOBRUN,"""La viile lui Brătăşanu”",
-97,OT-I-m-B-08530.01,Așezare,sat ROŞIENI; comuna DOBRUN DOBRUN,"""La viile lui Brătăşanu”","sec. IV - VII, Cultura Ipoteşti - Cândeşti Neolitic, Cultura Sălcuţa"
+97,OT-I-m-B-08530.01,Așezare,sat ROŞIENI; comuna DOBRUN,"""La viile lui Brătăşanu”","sec. IV - VII, Cultura Ipoteşti - Cândeşti"
+98,OT-I-m-B-08530.02,Așezare,sat ROŞIENI; comuna DOBRUN,"""La viile lui Brătăşanu”","mil. IV - III a. Chr., Neolitic, Cultura Sălcuţa"
 99,OT-I-s-B-08531,Aşezarea romană de la Slăveni,sat SLĂVENI; comuna GOSTAVĂŢU,,"sec. II - III p. Chr., Epoca romană"
 100,OT-I-s-A-08532,Necropola tumulară de la Slăveni,sat SLĂVENI; comuna GOSTAVĂŢU,"""La Movilă”","sec. II - III p. Chr., Epoca romană"
 101,OT-I-s-A-08533,Castrul de la Slăveni,sat SLĂVENI; comuna GOSTAVĂŢU,"""La Cetate”",sec. II - IV p. Chr.
@@ -97,7 +106,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 105,OT-I-s-B-08535,"Situl arheologic de la Stoicăneşti, punct ""Coandă""",sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Coandă”",
 106,OT-I-m-B-08535.01,Așezare,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Coandă”","sec. IV - VIII, Cultura Ipoteşti - Cândeşti"
 107,OT-I-m-B-08535.02,Așezare,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Coandă”","sec. II - I a. Chr., Latène"
-108,OT-I-m-B-08535.03,"Așezare Stoicăneşti, punct ""Valea",sat STOICĂNEŞTI; comuna STOICĂNEŞTI comuna STOICĂNEŞTI,"""Coandă”","Neolitic, Cultura Sălcuţa"
+108,OT-I-m-B-08535.03,Așezare,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Coandă”","Neolitic, Cultura Sălcuţa"
+109,OT-I-s-B-08536,"Situl arheologic de la Stoicăneşti, punct ""Valea Dracului”",sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Valea Dracului”",
 110,OT-I-m-B-08536.01,Aşezare,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Valea Dracului”",sec. VI - VII
 111,OT-I-m-B-08536.02,Aşezare,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,"""Valea Dracului”","sec. II a. Chr. - sec. I p. Chr., Latène"
 112,OT-I-s-B-08537,Situl arheologic de la Teslui,sat TESLUI; comuna TESLUI,,
@@ -108,7 +118,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 117,OT-I-m-B-08539.01,Aşezare,sat VÂLCELELE DE SUS; comuna VÂLCELE,"""Dealul Cişmelelor”",Latène
 118, OT-I-m-B-08539.02, Aşezare, sat VÂLCELELE DE SUS; comuna VÂLCELE," ""Dealul Cişmelelor”"," Epoca bronzului, Cultura Verbicioara"
 119,OT-I-m-B-08539.03,Aşezare,sat VÂLCELELE DE SUS; comuna VÂLCELE,"""Dealul Cişmelelor”","3700 - 1800 a. Chr., Neolitic, Cultura Sălcuţa"
-120,OT-I-s-B-08540,Situl arheologic de la Verguleasa,sat VERGULEASA; comuna VERGULEASA comuna VERGULEASA,, bronzului
+120,OT-I-s-B-08540,Situl arheologic de la Verguleasa,sat VERGULEASA; comuna VERGULEASA,,
+121,OT-I-m-B-08540.01,Aşezare,sat VERGULEASA; comuna VERGULEASA,,"1800 a. Chr., Epoca bronzului"
 122,OT-I-m-B-08540.02,Aşezare,sat VERGULEASA; comuna VERGULEASA,,"5500 - 4500 a. Chr., Neolitic timpuriu, Cultura Starèevo - Criş"
 123,OT-I-s-B-08541,Situl arheologic de la Vlădila,sat VLĂDILA; comuna VLĂDILA,"""La Pepinieră”",
 124,OT-I-m-B-08541.01,Așezare,sat VLĂDILA; comuna VLĂDILA,"""La Pepinieră”",sec. XV - XVI
@@ -120,6 +131,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 130,OT-I-m-B-08544.02,Așezare,sat VULTUREŞTI; comuna VULTUREŞTI,"""Ogrăzi”","Epoca bronzului, Cultura Verbicioara"
 131,OT-II-m-B-08575,Ansamblu urban,municipiul SLATINA,"Str. Ionaşcu, Poboran George, Eminescu Mihai, Lipatti Dinu, Grădiniţei, Kogălniceanu Mihail, Moroşan Ioan, Ionaşcu",
 132,OT-II-m-B-08545,"Biserica ""Adormirea Maicii Domnului”, ""Maica Precista”",municipiul SLATINA,Str. 1 Decembrie 1918 2,1736
+133,OT-II-m-B-08546,"Liceul ""Radu Greceanu""",municipiul SLATINA,Str. Bălcescu Nicolae 8,1891
 134,OT-II-m-B-08547,"Biserica ""Sf. Voievozi”",municipiul SLATINA,Str. Cireaşov,1802 - 1806
 135,OT-II-m-B-08548,Bancă,municipiul SLATINA,Str. Eminescu Mihai 16,1908
 136,OT-II-m-B-21052,Casa Fântâneanu,municipiul SLATINA,Str. Eminescu Mihai 17,1846
@@ -132,6 +144,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 143, OT-II-m-B-08553, Casa Ştefănescu, municipiul SLATINA, Str. Eminescu Mihai 35, 1890
 144,OT-II-m-B-08554,Casa Nicolae Tologea,municipiul SLATINA,Str. Eminescu Mihai 36,1860
 145,OT-II-m-B-08555,Casa Nicolae,municipiul SLATINA,Str. Eminescu Mihai 37,1885
+146,OT-II-m-B-08556,Casa Nicolae Tologea,municipiul SLATINA,Str. Eminescu Mihai 38,1890
 147,OT-II-m-B-08557,Casă,municipiul SLATINA,Str. Eminescu Mihai 39,1890
 148,OT-II-m-B-08558,Casa Ivanovici,municipiul SLATINA,Str. Eminescu Mihai 40,1890
 149,OT-II-m-B-08559,Casa Eltin,municipiul SLATINA,Str. Eminescu Mihai 44,1884
@@ -144,6 +157,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 156, OT-II-m-B-08566, Casă, municipiul SLATINA, Str. Fraţii Buzeşti 10, sf. sec. XIX
 157,OT-II-m-B-08567,"Biserica ""Sf. Treime”",municipiul SLATINA,Str. Grădiniţei 2,"1641 - 1645, ref. 1784"
 158,OT-II-m-B-08568,"Biserica ""Sf. Ioan Botezătorul”",municipiul SLATINA,Str. Grădişte 7,1796
+159,OT-II-m-B-08569,Casă,municipiul SLATINA,Str. Griviţei 1,1840
 160,OT-II-m-B-08570,Casă,municipiul SLATINA,Str. Horea 3,1901
 161,OT-II-m-B-08571,Casă,municipiul SLATINA,Str. Horea 5,1893
 162,OT-II-m-B-08572,Casă,municipiul SLATINA,Str. Horea 5bis,1902
@@ -156,6 +170,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 169, OT-II-m-B-08580," Biserica ""Sf. Gheorghe”", municipiul SLATINA, Str. Ionaşcu 62, 1872 - 1877
 170,OT-II-m-B-08581,Muzeul Judeţean de Etnografie,municipiul SLATINA,Str. Ionaşcu 73,înc. sec. XIX
 171,OT-II-m-B-08582,Muzeul Judeţean Olt,municipiul SLATINA,Str. Ipătescu Ana 1,1887
+172,OT-II-m-B-08583,Primărie,municipiul SLATINA,Str. Kogălniceanu Mihail 1,1905
 173,OT-II-m-B-08585,Casă,municipiul SLATINA,Str. Lipscani 2,1935
 174,OT-II-m-B-08586,Casa Baltag,municipiul SLATINA,Str. Lipscani 3,1895
 175,OT-II-m-B-08587,Casa de cultură,municipiul SLATINA,Str. Lipscani 4,1903
@@ -168,6 +183,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 182, OT-II-m-B-08594, Casa Rădulescu, municipiul SLATINA, Str. Lipscani 13, 1890
 183,OT-II-m-B-08595,Casa Ticu,municipiul SLATINA,Str. Lipscani 14,1920
 184,OT-II-m-B-08596,Casa Marinescu,municipiul SLATINA,Str. Lipscani 16,1902
+185,OT-II-m-B-08597,Casa Dobrescu,municipiul SLATINA,Str. Lipscani 17,1915
 186,OT-II-m-B-08598,Casa Smarandache,municipiul SLATINA,Str. Lipscani 18,1895
 187,OT-II-m-B-08599,Casa Vişinescu,municipiul SLATINA,Str. Lipscani 19,1885
 188,OT-II-m-B-08600,Casa Diaconescu,municipiul SLATINA,Str. Lipscani 20,1897
@@ -180,6 +196,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 195, OT-II-m-B-08607, Casă, municipiul SLATINA, Str. Lipscani 32, 1910
 196,OT-II-m-B-08608,"Centrul de Creaţie, Şcoala Populară de Artă",municipiul SLATINA,Str. Lipscani 33,1900
 197,OT-II-m-B-08609,Casa Damian,municipiul SLATINA,Str. Lipscani 35,1890
+198,OT-II-m-B-08610,Casa Ştefan,municipiul SLATINA,Str. Lipscani 37,1890
 199,OT-II-m-B-08611,Casă,municipiul SLATINA,Str. Lipscani 42,1900
 200,OT-II-m-B-08612,Casă,municipiul SLATINA,Str. Lipscani 42bis,1933
 201,OT-II-m-B-08613,Casa Bulbea,municipiul SLATINA,Str. Lipscani 43,1900
@@ -192,6 +209,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 208, OT-II-m-A-08619.01," Biserica ""Sf. Arhangheli”", municipiul SLATINA, Str. Mănăstirii Clocociov," sec. XVI, ref.1593 -1601 şi 1645"
 209,OT-II-m-A-08619.02,Casele stăreţiei,municipiul SLATINA,Str. Mănăstirii Clocociov,sec. XVII
 210,OT-II-m-A-08619.03,Turn clopotniţă,municipiul SLATINA,Str. Mănăstirii Clocociov,sec. XVII
+211,OT-II-m-A-08619.04,Zid de incintă,municipiul SLATINA,Str. Mănăstirii Clocociov,sec. XVII
 212,OT-II-m-B-20147,Casă,municipiul SLATINA,Str. Pieţei 2,1880
 213,OT-II-m-B-08620,"Biserica ""Sf. Împăraţi”",municipiul SLATINA,Str. Piteşti 16,"sec. XVIII, ref. 1793"
 214,OT-II-m-B-08621,Registrul Comerţului,municipiul SLATINA,Str. Poboran George 2,1896
@@ -204,6 +222,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 221, OT-II-m-B-08627, Casă, municipiul SLATINA, Str. Poboran George 32, 1938
 222,OT-II-m-B-08628,Casa Fiera,municipiul SLATINA,Str. Poboran George 34,1938
 223,OT-II-m-B-08629,Ruinele castelului de apă,municipiul SLATINA,Str. Prelungirea Tunari,sf. sec. XIX
+224,OT-II-m-B-08630,Atelier,municipiul SLATINA,Str. Prelungirea Tunari 6,sf. sec. XIX
 225,OT-II-a-B-08631,Schitul Strehareţ,municipiul SLATINA,Str. Strehareţ 154,1671
 226,OT-II-m-B-08631.01,"Biserica ""Adormirea Maicii Domnului”",municipiul SLATINA,Str. Strehareţ 154,"1664 - 1668, ref. 1844"
 227,OT-II-m-B-08631.02,Ruine zid de incintă,municipiul SLATINA,Str. Strehareţ 154,1672
@@ -214,7 +233,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 232,OT-II-m-B-08636,"Biserica ""Sf. Nicolae (din coastă)”",municipiul SLATINA,Str. Vintilă Vodă,"1700, ref. 1889"
 233,OT-II-m-B-08637,"Biserica ""Adormirea Maicii Domnului”",sat AFUMAŢI; comuna LELEASCA,,1857
 234,OT-II-m-B-08638,"Biserica ""Sf. Nicolae”",sat ALBEŞTI; comuna POBORU,Valea Secii,1800
-235,OT-II-m-B-08639,"Biserica ""Sf. Nicolae” ""Cuvioasa Paraschiva”",sat ALIMĂNEŞTI; comuna IZVOARELE SPINENI,,1821
+235,OT-II-m-B-08639,"Biserica ""Sf. Nicolae”",sat ALIMĂNEŞTI; comuna IZVOARELE,,1821
+236,OT-II-m-B-08640,"Biserica de lemn ""Cuvioasa Paraschiva”",sat ALUNIŞU; comuna SPINENI,,1812 - 1813
 237,OT-II-m-B-08641,"Biserica ""Sf. Nicolae”",sat BACEA; comuna MOVILENI,,"1801 - 1815, reclădită 1859 - 1860"
 238,OT-II-m-B-08642,"Biserica de lemn ""Sf. Nicolae”",sat BALDOVINEŞTI; comuna BALDOVINEŞTI,,"1739, ref. parţial 1860"
 239,OT-II-m-B-08643,Conac,sat BALDOVINEŞTI; comuna BALDOVINEŞTI,,sf. sec. XVIII
@@ -226,6 +246,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 245,OT-II-m-B-08651,Bibliotecă,oraş BALŞ,Str. Bălcescu Nicolae 9,sf. sec. XIX
 246,OT-II-m-B-08652,Casă (fost pavilion administrativ Jiul),oraş BALŞ,Str. Bălcescu Nicolae 110,sf. sec. XIX
 247,OT-II-m-B-08649,Spitalul vechi,oraş BALŞ,Str. Bălcescu Nicolae 115,sf. sec. XIX
+248,OT-II-m-B-08653,Restaurant,oraş BALŞ,Str. Bălcescu Nicolae 115,mijl. sec. XX
 249,OT-II-m-B-08654,Casă,oraş BALŞ,Str. Cireşului 19,sf. sec. XIX
 250,OT-II-m-B-08655,Casă,oraş BALŞ,Str. Cireşului 32,sf. sec. XIX
 251,OT-II-m-B-08656,Casă,oraş BALŞ,Str. Cireşului 35,sf. sec. XIX
@@ -237,7 +258,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 257,OT-II-m-B-08662,Casă,oraş BALŞ,Str. Titulescu Nicolae 2bis,înc. sec. XX
 258, OT-II-m-B-08663, Casă, oraş BALŞ, Str. Titulescu Nicolae 8bis, înc. sec. XX
 259,OT-II-m-B-08664,"Biserica ""Sf. Dumitru"" şi ""Sf. Ştefan”",oraş BALŞ,Str. Vasilescu Gheorghe 10,"1753, adăugat pridvor 1913"
-260,OT-II-m-B-08665,"Biserica ""Sf. Dumitru”",sat BĂBICIU; comuna BĂBICIU BĂBICIU,,1808
+260,OT-II-m-B-08665,"Biserica ""Sf. Dumitru”",sat BĂBICIU; comuna BĂBICIU,,1808
+261,OT-II-m-B-08666,"Biserica ""Sf. Voievozi”",sat BĂBICIU; comuna BĂBICIU,,1833
 262,OT-II-m-B-08667,Şcoala veche,sat BĂLĂNEŞTI; comuna MĂRUNŢEI,,1900
 263,OT-II-m-B-08668,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat BĂLĂNEŞTI; comuna MĂRUNŢEI,,1820
 264,OT-II-m-B-08669,Conac,sat BĂLĂNEŞTI; comuna MĂRUNŢEI,,sf. sec. XVIII - înc. sec. XIX
@@ -248,7 +270,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 269,OT-II-m-B-08674,"Biserica ""Adormirea Maicii Domnului”",sat BĂRĂŞTII DE CEPTURI; comuna BĂRĂŞTI,,1820
 270,OT-II-m-B-08675,"Biserica ""Sf. Nicolae”",sat BĂRĂŞTII DE VEDE; comuna BĂRĂŞTI,,1900
 271,OT-II-m-B-08676,"Biserica ""Cuvioasa Paraschiva"" şi ""Sf. Nicolae”",sat BĂRBĂLĂI; comuna TĂTULEŞTI,,1864
-272,OT-II-m-B-08677,Casa Diaconeasa Paraschiva”,sat BĂRCĂNEŞTI; comuna VÂLCELE comuna COLONEŞTI,,1930
+272,OT-II-m-B-08677,Casa Diaconeasa,sat BĂRCĂNEŞTI; comuna VÂLCELE,,1930
+273,OT-II-m-B-08678,"Biserica ""Cuvioasa Paraschiva”",sat BĂTĂRENI; comuna COLONEŞTI,,1831 - 1833
 274,OT-II-m-B-08679,"Biserica ""Sf. Nicolae”",sat BÂRZA; comuna BÂRZA,,1856
 275,OT-II-m-B-08680,"Biserica ""Sf. Împăraţi”",sat BERIA; comuna OPORELU,,1842 - 1843
 276,OT-II-a-B-08681,Ansamblul Comăneanu,sat BERINDEI; comuna DĂNEASA,,înc. sec. XX
@@ -260,7 +283,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 282,OT-II-m-B-08685,"Biserica ""Sf. Nicolae”",sat BOROEŞTI; comuna BĂRĂŞTI,,1819 - 1822
 283,OT-II-a-B-08686,Ruinele Curţii Domneşti,sat BRÂNCOVENI; comuna BRÂNCOVENI,,sec. XVI - XVIII
 284,OT-II-m-B-08686.01,"Biserica ""Sf. Nicolae”",sat BRÂNCOVENI; comuna BRÂNCOVENI,,"1634, ref. 1881"
-285, OT-II-m-B-08686.02, Ruine zid de incintă, sat BRÂNCOVENI; comuna BRÂNCOVENI comuna BRÂNCOVENI,, 1634
+285, OT-II-m-B-08686.02, Ruine zid de incintă, sat BRÂNCOVENI; comuna BRÂNCOVENI,, 1634
+286,OT-II-a-A-08687,Mănăstirea Brâncoveni,sat BRÂNCOVENI; comuna BRÂNCOVENI,,1699
 287,OT-II-m-A-08687.01,"Biserica ""Adormirea Maicii Domnului”",sat BRÂNCOVENI; comuna BRÂNCOVENI,,1699
 288,OT-II-m-A-08687.02,"Bolniţa ""Sf. Arhangheli”",sat BRÂNCOVENI; comuna BRÂNCOVENI,,1699
 289,OT-II-m-A-08687.03,Stăreţie,sat BRÂNCOVENI; comuna BRÂNCOVENI,,sec. XVII
@@ -272,7 +296,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 295,OT-II-m-B-08689,Conac,sat BREBENI; comuna BREBENI,,înc. sec. XX
 296,OT-II-m-B-08690,Crama lui Buzescu,sat BUICEŞTI; comuna PRISEACA,,sec. XVIII
 297,OT-II-m-B-08691,"Biserica ""Sf. Nicolae”",sat BUICEŞTI; comuna VALEA MARE,,1770
-298, OT-II-m-B-08692," Biserica ""Cuvioasa Paraschiva”", sat BURDULEŞTI; comuna CORBU MIHĂEŞTI,, 1837
+298, OT-II-m-B-08692," Biserica ""Cuvioasa Paraschiva”", sat BURDULEŞTI; comuna CORBU,, 1837
+299,OT-II-m-B-08696,Conacul Pipile Popescu,sat BUŞCA; comuna MIHĂEŞTI,,sf. sec. XIX
 300,OT-II-m-B-08697,"Biserica ""Sf. Nicolae”",sat BUŞCA; comuna MIHĂEŞTI,,1847
 301,OT-II-m-B-08694,Casa Viorel Iordan,sat BUŞCA; comuna MIHĂEŞTI,128,1911
 302,OT-II-m-B-08695,Casa Gheorghe Popescu,sat BUŞCA; comuna MIHĂEŞTI,356,sf. sec. XIX
@@ -285,6 +310,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 309,OT-II-m-B-08703,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 4,sf. sec. XIX
 310,OT-II-m-B-08704,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 6,înc. sec. XX
 311,OT-II-m-B-08705,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 9,înc. sec. XX
+312,OT-II-m-B-08706,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 10,înc. sec. XX
 313,OT-II-m-B-08707,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 12,înc. sec. XX
 314,OT-II-m-B-08709,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 18,înc. sec. XX
 315,OT-II-m-B-08710,Casă,municipiul CARACAL,Str. 1 Decembrie 1918 32,înc. sec. XX
@@ -297,6 +323,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 322, OT-II-m-B-08718, Comenduirea garnizoanei, municipiul CARACAL, Str. Bicaz 17,
 323,OT-II-m-B-08719,Casă,municipiul CARACAL,Str. Bicaz 18,înc. sec. XX
 324,OT-II-m-B-08720,Casă,municipiul CARACAL,Str. Bicaz 20,înc. sec. XX
+325,OT-II-m-B-08721,Casă,municipiul CARACAL,Str. Bicaz 41,1910
 326,OT-II-m-B-08722,Casă,municipiul CARACAL,Calea Bucureşti 5,sf. sec. XIX
 327,OT-II-m-B-08723,Casă,municipiul CARACAL,Calea Bucureşti 10,sf. sec. XIX
 328,OT-II-m-B-08724,Casă,municipiul CARACAL,Calea Bucureşti 16,1894
@@ -309,6 +336,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 335, OT-II-m-A-08731, Teatrul Naţional, municipiul CARACAL, Str. Cuza Vodă 10, 1900 - 1901
 336,OT-II-m-B-08732,Casă,municipiul CARACAL,Str. Cuza Vodă 40,sf. sec. XIX
 337,OT-II-m-B-08733,Foişorul de Foc,municipiul CARACAL,"Str. Dobrogeanu Gherea, Constantin",sf. sec. XIX
+338,OT-II-m-B-08734,Casă,municipiul CARACAL,"Str. Dobrogeanu Gherea, Constantin 2",înc. sec. XX
 339,OT-II-m-B-08735,Casă,municipiul CARACAL,"Str. Dobrogeanu Gherea, Constantin 4",1894
 340,OT-II-m-B-08736,Casă,municipiul CARACAL,Str. Eminescu Mihai 10,înc. sec. XX
 341,OT-II-m-B-08737,Casă,municipiul CARACAL,Str. Eminescu Mihai 22,1905
@@ -321,6 +349,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 348,OT-II-m-B-08743,Casă,municipiul CARACAL,Str. Iancu Jianu 19,sf. sec. XIX
 349,OT-II-m-B-08744,Casă,municipiul CARACAL,Str. Iancu Jianu 20-A,sf. sec. XIX
 350,OT-II-m-B-08745,Casă,municipiul CARACAL,Str. Iancu Jianu 21,sf. sec. XIX
+351,OT-II-m-B-08746,Casă,municipiul CARACAL,Str. Iancu Jianu 23,sf. sec. XIX
 352,OT-II-m-B-08747,Muzeul Romanaţiului,municipiul CARACAL,Str. Iancu Jianu 24,sf. sec. XIX
 353,OT-II-m-B-08748,Casă,municipiul CARACAL,Str. Iancu Jianu 26,sf. sec. XIX
 354,OT-II-m-B-08749,"Casa Nicolae Titulescu, azi Oficiul forţelor de muncă",municipiul CARACAL,Str. Iancu Jianu 27,1890 - 1893
@@ -332,7 +361,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 360,OT-II-m-B-08756,Casă,municipiul CARACAL,Str. Mieilor 6,1885
 361,OT-II-m-B-08757,Casă,municipiul CARACAL,Str. Mieilor 10-A,1885
 362,OT-II-m-B-08758,Casă,municipiul CARACAL,Str. Mieilor 10-B,1900
-363,OT-II-m-B-08759,"Biserica ""Intrarea în biserică a Maicii Domneşti",municipiul CARACAL,Str. Mihai Viteazul 3,"1817, 1890"
+363,OT-II-m-B-08759,"Biserica ""Intrarea în biserică a Maicii Domnului"" a fostei Curţi",municipiul CARACAL,Str. Mihai Viteazul 3,"1817, 1890"
 364,OT-II-m-B-08760,Casă,municipiul CARACAL,Str. Negru Vodă 6-8,sf. sec. XIX
 365,OT-II-m-B-08761,Casă,municipiul CARACAL,Str. Negru Vodă 7,1903
 366,OT-II-m-B-08762,Casă,municipiul CARACAL,Str. Negru Vodă 14,1906
@@ -345,6 +374,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 373, OT-II-m-B-08769, Casă, municipiul CARACAL, Str. Negru Vodă 34, înc. sec. XX
 374,OT-II-m-B-08770,"Biserica ""Adormirea Maicii Domnului”",municipiul CARACAL,Str. Parângului 21,1800
 375,OT-II-m-B-08771,Casă,municipiul CARACAL,Str. Plevnei 1,sf. sec. XIX
+376,OT-II-m-B-08772,Casă,municipiul CARACAL,Str. Plevnei 2,înc. sec. XX
 377,OT-II-m-B-08773,"Şcoala primară de băieţi ""Constantin Filipescu”",municipiul CARACAL,Str. Plevnei 15,1911
 378,OT-II-m-B-08774,"Biserica ""Sf. Nicolae”",municipiul CARACAL,Str. Plevnei 16,1863
 379,OT-II-m-B-08775,Magazin,municipiul CARACAL,"Str. Plevnei 22, colţ cu str. Vasile Alecsandri",1913
@@ -357,6 +387,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 386, OT-II-m-B-08782, Casă, municipiul CARACAL, Str. Ruşcă Toma 21, înc. sec. XX
 387,OT-II-m-B-08783,"Biserica ""Sf. Apostoli”",municipiul CARACAL,Bd. Titulescu Nicolae,"1832, ref. 1863"
 388,OT-II-a-B-08784,"Ansamblul urban ""Str. Nicolae Titulescu""",municipiul CARACAL,"Bd. Titulescu Nicolae de la nr. 6 la nr. 39, ambele părţi, str. Ioniţă Asan de la nr. 6 nr. 39, pe ambele părţi",pe la
+389,OT-II-m-B-08785,Casă,municipiul CARACAL,Bd. Titulescu Nicolae 5,sf. sec. XIX
 390,OT-II-m-B-08786,Casă,municipiul CARACAL,Bd. Titulescu Nicolae 6,sf. sec. XIX
 391,OT-II-m-B-08787,Casă,municipiul CARACAL,Bd. Titulescu Nicolae 8,sf. sec. XIX
 392,OT-II-m-B-08788,Casă,municipiul CARACAL,Bd. Titulescu Nicolae 11-B,sf. sec. XIX
@@ -369,6 +400,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 399, OT-II-m-B-08795, Casă, municipiul CARACAL, Bd. Titulescu Nicolae 34, sf. sec. XIX
 400,OT-II-m-B-08796,Casă,municipiul CARACAL,Bd. Titulescu Nicolae 39,sf. sec. XIX
 401,OT-II-m-B-08797,Casă,municipiul CARACAL,Bd. Titulescu Nicolae 97,sf. sec. XIX
+402,OT-II-m-B-08798,Casă,municipiul CARACAL,Bd. Traian 2,înc. sec. XX
 403,OT-II-m-B-08799,"Biserica ""Sf. Ioan Botezătorul”",municipiul CARACAL,Piața Victoriei,1768
 404,OT-II-m-B-08800,"Biserica ""Sf. Treime”",municipiul CARACAL,Piaţa Victoriei,sec. XVIII
 405,OT-II-m-B-08801,Casa Popescu,municipiul CARACAL,Piaţa Victoriei 2,1896
@@ -380,7 +412,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 411,OT-II-m-B-08807,Casa Andreescu,sat CĂLINEŞTI; comuna RADOMIREŞTI,,1910
 412,OT-II-a-A-08808,Mănăstirea Călui,sat CĂLUI; comuna CĂLUI,,1588
 413,OT-II-m-A-08808.01,"Biserica ""Sf. Nicolae”",sat CĂLUI; comuna CĂLUI,,1588
-414,OT-II-m-A-08808.02,Casele stăreţiei,sat CĂLUI; comuna CĂLUI CĂLUI,,1588
+414,OT-II-m-A-08808.02,Casele stăreţiei,sat CĂLUI; comuna CĂLUI,,1588
+415,OT-II-m-A-08808.03,Arhondaric,sat CĂLUI; comuna CĂLUI,,sec. XIX
 416,OT-II-m-A-08808.04,Chilii,sat CĂLUI; comuna CĂLUI,,1902
 417,OT-II-m-A-08808.05,Turn clopotniţă,sat CĂLUI; comuna CĂLUI,,1588
 418,OT-II-m-A-08808.06,Zid de incintă,sat CĂLUI; comuna CĂLUI,,1588
@@ -391,7 +424,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 423,OT-II-m-B-08812,"Biserica ""Cuvioasa Paraschiva”",sat CÂMPU MARE; comuna DOBROTEASA,,1843 - 1845
 424, OT-II-m-B-08813, Ruinele mănăstirii Zătreşti, sat CÂRLOGANI; comuna CÂRLOGANI,, 1812
 425,OT-II-m-B-08814,"Biserica ""Sf. Treime”",sat CEPARI; comuna CÂRLOGANI,,1750
-426,OT-II-m-B-08815,Conac,sat CEZIENI; comuna CEZIENI CEZIENI,,sf. sec. XVIII
+426,OT-II-m-B-08815,Conac,sat CEZIENI; comuna CEZIENI,,sf. sec. XVIII
+427,OT-II-m-B-08816.01,"Biserica ""Sf. Dumitru”",sat CEZIENI; comuna CEZIENI,,1849
 428,OT-II-m-B-08816.02,Conac Colet Brâncoveanu (Spital de recuperare),sat CEZIENI; comuna CEZIENI,,sf. sec. XVIII
 429,OT-II-m-B-08817,"Biserica ""Adormirea Maicii Domnului"", ""Sf. Nicolae”",sat CHILIA; comuna FĂGEŢELU,,1830
 430,OT-II-m-B-08818,"Biserica ""Sf. Nicolae”",sat CILIENI; comuna CILIENI,,1847
@@ -403,6 +437,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 436, OT-II-m-B-08824," Biserica ""Adormirea Maicii Domnului”", sat COLIBAŞI; comuna STREJEŞTI,, 1859
 437,OT-II-m-B-08825,"Biserica ""Sf. Nicolae”",sat COMANCA; comuna DEVESELU,,"1786 - 1798, ref. 1824"
 438,OT-II-m-B-08826,"Biserica ""Sf. Nicolae”",sat COMĂNIŢA; comuna TESLUI,,1835
+439,OT-II-m-B-08827,Hotel,oraş CORABIA,Str. Carpaţi 104,1890
 440,OT-II-m-B-08828,Policlinică,oraş CORABIA,Str. Carpaţi 105,1898
 441,OT-II-m-B-08829,Hotel OJT,oraş CORABIA,Str. Carpaţi 116,1910
 442,OT-II-a-B-08830,"Ansamblul urban ""Str. Cuza Vodă""",oraş CORABIA,"Str. Cuza Vodă, începând de la nr. 65, pe ambele părţi",
@@ -415,6 +450,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 449,OT-II-m-B-08837,Casă,oraş CORABIA,Str. Fraţii Goleşti 67,1905
 450,OT-II-m-B-08838,Casă,oraş CORABIA,Str. Fraţii Goleşti 71,1930
 451,OT-II-m-B-08839,Casă,oraş CORABIA,Str. Fraţii Goleşti 80,1912
+452,OT-II-m-B-08840,Casă,oraş CORABIA,Str. Fraţii Goleşti 82,1912
 453,OT-II-m-B-08841,Grădiniţa Nr.1,oraş CORABIA,Str. Rosetti C.A. 42,1900
 454,OT-II-m-B-08842,Casa de copii,oraş CORABIA,Str. Rosetti C.A. 59,1900
 455,OT-II-m-B-08843,Casă,oraş CORABIA,Str. Rosetti C.A. 63,1890
@@ -426,7 +462,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 461,OT-II-m-B-08849,Casă,oraş CORABIA,Str. Vladimirescu Tudor 89,1912
 462, OT-II-m-B-08850," Biserica ""Cuvioasa Paraschiva”", sat CORBU; comuna CORBU,, 1831
 463,OT-II-m-B-08851,"Biserica de lemn ""Sf. Arhangheli”",sat CORNĂŢELU; comuna POBORU,,1812
-464,OT-II-m-B-08852,"Biserica ""Adormirea Maicii Domnului”",sat COTEANA; comuna COTEANA comuna CRÂMPOIA,,"1845, ref. din zid în 1868"
+464,OT-II-m-B-08852,"Biserica ""Adormirea Maicii Domnului”",sat COTEANA; comuna COTEANA,,"1845, ref. din zid în 1868"
+465,OT-II-a-B-08853,Ansamblul Stember,sat CRÂMPOIA; comuna CRÂMPOIA,,1900
 466,OT-II-m-B-08853.01,Conac,sat CRÂMPOIA; comuna CRÂMPOIA,,1900
 467,OT-II-m-B-08853.02,Dependințe,sat CRÂMPOIA; comuna CRÂMPOIA,,1900
 468,OT-II-m-B-08853.03,Magazii,sat CRÂMPOIA; comuna CRÂMPOIA,,1900
@@ -438,7 +475,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 474,OT-II-m-B-08859,"Biserica ""Sf. Voievozi”",sat DEJEŞTI; comuna VITOMIREŞTI,,1855
 475,OT-II-m-B-08860.01,"Biserica ""Sf. Treime”",sat DELENI; comuna TESLUI,,1767
 476,OT-II-m-B-08860.02,Turn clopotniță,sat DELENI; comuna TESLUI,,1767
-477, OT-II-m-B-08861," Biserica ""Sf. Voievozi”", sat DELENI; comuna TESLUI TESLUI,," 1802, modif. 1904"
+477, OT-II-m-B-08861," Biserica ""Sf. Voievozi”", sat DELENI; comuna TESLUI,," 1802, modif. 1904"
+478,OT-II-a-B-08862,Fostul schit Deleni,sat DELENI; comuna TESLUI,,1767
 479,OT-II-m-B-08862.01,"Biserica ""Sf. Troiţă” a fostului schit Deleni",sat DELENI; comuna TESLUI,,1767
 480,OT-II-m-B-08862.02,Zid de incintă,sat DELENI; comuna TESLUI,,sec. XVIII
 481,OT-II-m-B-08862.03,Turn clopotniţă,sat DELENI; comuna TESLUI,,1767
@@ -450,7 +488,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 487,OT-II-m-B-08867.01,"Biserica ""Adormirea Maicii Domnului”",sat DOBROTINEŢ; comuna CURTIŞOARA,,1647
 488,OT-II-m-B-08867.02,Chilii,sat DOBROTINEŢ; comuna CURTIŞOARA,,1647
 489,OT-II-m-B-08868,Conac,sat DOBROTINEŢ; comuna CURTIŞOARA,,sf. sec. XIX
-490,OT-II-m-B-08869,"Biserica ""Sf. Nicolae” Maicii Domnului”",sat DOBRUN; comuna DOBRUN VITOMIREŞTI,,1846
+490,OT-II-m-B-08869,"Biserica ""Sf. Nicolae”",sat DOBRUN; comuna DOBRUN,,1846
+491,OT-II-m-B-08870,"Biserica ""Adormirea Maicii Domnului”",sat DONEŞTI; comuna VITOMIREŞTI,,1785
 492,OT-II-m-B-08871,"Ruinele bisericii ""Cuvioasa Paraschiva”",oraş DRĂGĂNEŞTI-OLT,Cartier Comani (Comanii de Sus),"ante 1697, ref. 1832"
 493,OT-II-m-B-08873,Banca Populară,oraş DRĂGĂNEŞTI-OLT,,1905
 494,OT-II-m-B-08874,Pretura Plăşii Drăgăneşti- Olt,oraş DRĂGĂNEŞTI-OLT,,1885
@@ -462,7 +501,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 500,OT-II-m-B-08879,Casa Olaru,oraş DRĂGĂNEŞTI-OLT,Str. Foişor,1910
 501,OT-II-m-B-08880,"Biserica ""Adormirea Maicii Domnului”",oraş DRĂGĂNEŞTI-OLT,Str. Oltului,sec. XVIII
 502, OT-II-m-B-20151, Casă, oraş DRĂGĂNEŞTI-OLT, Str. Teiului 12 A, 1920
-503,OT-II-a-B-08881,"Gospodăria Nucu Iliescu Nicolae Titulescu""",oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 187 la 239,sf. sec. XIX
+503,OT-II-a-B-08881,Gospodăria Nucu Iliescu,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae,sf. sec. XIX
+504,OT-II-a-B-08882,"Ansamblul urban ""Str. Nicolae Titulescu""",oraş DRĂGĂNEŞTI-OLT,"Str. Titulescu Nicolae, începând de la nr. 187 la 239",
 505,OT-II-m-B-08883,Școală,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 24,1925
 506,OT-II-m-B-08884,Casă,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 60,înc. sec. XX
 507,OT-II-m-B-08885,Primăria Drăgăneşti-Olt,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 150,1890
@@ -475,6 +515,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 514, OT-II-m-B-08892, Casă, oraş DRĂGĂNEŞTI-OLT, Str. Titulescu Nicolae 225, înc. sec. XX
 515,OT-II-m-B-08893,Farmacie,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 228,sf. sec. XIX
 516,OT-II-m-B-08894,Casă,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 231,înc. sec. XX
+517,OT-II-m-B-08895,Casă,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 263,sf. sec. XIX
 518,OT-II-m-B-08896,Casă,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 342,sf. sec. XIX
 519,OT-II-m-B-08897,Muzeul Câmpiei Boianului,oraş DRĂGĂNEŞTI-OLT,Str. Titulescu Nicolae 360,sec. XVIII
 520,OT-II-m-B-08898,"Biserica ""Adormirea Maicii Domnului”",sat DUMITREŞTI; comuna VERGULEASA,,"1608, adăugat pridvor 1836"
@@ -485,7 +526,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 525,OT-II-m-B-08903,Conacul Marin Dinu,sat FĂLCOIU; comuna FĂLCOIU,,sf. sec. XIX
 526,OT-II-m-B-08904,"Biserica ""Sf. Împăraţi"", ""Sf. Dumitru”",sat FLORU; comuna ICOANA,,1814
 527,OT-II-m-B-08905,"Biserica ""Adormirea Maicii Domnului”",sat FRUNZARU; comuna SPRÂNCENATA,,"1795, ref. 1890"
-528,OT-II-m-B-08906,"Biserica ""Adormirea Maicii Domnului”",sat GĂVĂNEŞTI; comuna BALDOVINEŞTI comuna,,1820
+528,OT-II-m-B-08906,"Biserica ""Adormirea Maicii Domnului”",sat GĂVĂNEŞTI; comuna BALDOVINEŞTI,,1820
+529,OT-II-m-B-08907,Conac,sat GĂVĂNEŞTI; comuna BALDOVINEŞTI,,sf. sec. XVIII
 530,OT-II-m-B-08908,"Biserica ""Sf. Nicolae”",sat GÂRCOV; comuna GÂRCOV,,1845
 531,OT-II-m-B-08909,"Biserica ""Cuvioasa Paraschiva”",sat GHIMPEŢENI; comuna GHIMPEŢENI,,1863
 532,OT-II-m-B-08910,"Biserica ""Sf. Nicolae”",sat GIUVĂRĂŞTI; comuna GIUVĂRĂŞTI,,1857
@@ -496,7 +538,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 537,OT-II-m-B-08915,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat GRECI; comuna OSICA DE SUS,,1830
 538,OT-II-m-B-08916,"Biserica ""Sf. Nicolae”",sat GRECI; comuna SCHITU,,"1593 - 1601, ref. 1810"
 539,OT-II-m-B-08917,"Biserica ""Sf. Grigore Decapolitul şi Sf. Haralambie”",sat GROJDIBODU; comuna GROJDIBODU,,1863
-540,OT-II-m-B-08918,"Biserica ""Sf. Gheorghe”",sat GROPŞANI; comuna VULPENI comuna,,1857
+540,OT-II-m-B-08918,"Biserica ""Sf. Gheorghe”",sat GROPŞANI; comuna VULPENI,,1857
+541,OT-II-m-B-08919,"Biserica ""Sf. Ilie”",sat GUBANDRU; comuna BALDOVINEŞTI,,1835
 542,OT-II-m-B-08920,"Biserica ""Cuvioasa Paraschiva”",sat GUEŞTI; comuna COLONEŞTI,,1860
 543,OT-II-m-B-08922,Turn de observaţie,sat HOTĂRANI; comuna FĂRCAŞELE,La 500 m NV de mănăstire,1708
 544,OT-II-a-B-08923,Fosta mănăstire Hotărani,sat HOTĂRANI; comuna FĂRCAŞELE,,1588
@@ -508,7 +551,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 550,OT-II-m-B-08926,"Biserica ""Sf. Dumitru”",sat IANCU JIANU; comuna IANCU JIANU,,1900
 551,OT-II-m-B-08927,Casa Mihai Andronache,sat IANCU JIANU; comuna IANCU JIANU,66,1922
 552,OT-II-m-B-08928,"Biserica de lemn ""Cuvioasa Paraschiva”",sat IBĂNEŞTI; comuna CUNGREA,,1785
-553,OT-II-m-B-08929,"Biserica ""Sf. Treime” Paraschiva”",sat IZVOARELE; comuna IZVOARELE GĂNEASA,,1872
+553,OT-II-m-B-08929,"Biserica ""Sf. Treime”",sat IZVOARELE; comuna IZVOARELE,,1872
+554,OT-II-m-B-08930,"Biserica ""Cuvioasa Paraschiva”",sat IZVORU; comuna GĂNEASA,,1862
 555,OT-II-m-B-08931,Conac,sat IZVORU; comuna GĂNEASA,,înc. sec. XX
 556,OT-II-m-B-08932,Școală,sat IZVORU; comuna GĂNEASA,,1926
 557,OT-II-m-B-08933,Casă,sat IZVORU; comuna GĂNEASA,184,înc. sec. XX
@@ -520,7 +564,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 563,OT-II-m-B-08939,"Biserica ""Adormirea Maicii Domnului”",sat LELEASCA; comuna LELEASCA,Mijlocu-Ştefăneşti,1807
 564,OT-II-m-B-08940,"Biserica ""Adormirea Maicii Domnului”",sat LIICENI; comuna DRĂGHICENI,,"1590, ref. în sec. XVIII"
 565,OT-II-m-B-08941,Conac,sat LIICENI; comuna DRĂGHICENI,,mijl. sec. XX
-566,OT-II-m-B-08942,"Biserica ""Sf. Nicolae”",sat MALDĂR; comuna COLONEŞTI comuna STREJEŞTI,,1833
+566,OT-II-m-B-08942,"Biserica ""Sf. Nicolae”",sat MALDĂR; comuna COLONEŞTI,,1833
+567,OT-II-m-B-08943,"Biserica ""Sf. Apostoli”",sat MAMURA; comuna STREJEŞTI,,1852 - 1858
 568,OT-II-m-B-08944,"Biserica de lemn ""Adormirea Maicii Domnului”",sat MĂGURA; comuna PERIEŢI,,"1732, reparată în 1798"
 569,OT-II-m-B-08945,Şcoala veche,sat MĂNDINEŞTI; comuna VÂLCELE,,1903
 570,OT-II-m-B-08946,"Biserica ""Sf. Voievozi”",sat MĂRGĂRITEŞTI; comuna VOINEASA,,"1743, rezidită din temelie în 1907"
@@ -532,7 +577,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 576,OT-II-m-B-08952,"Biserica ""Sf. Dumitru”",sat MILCOV -DEAL; comuna MILCOV,,"1781 - 1823, cu adăugiri 1831"
 577,OT-II-m-B-08953,"Biserica ""Adormirea Maicii Domnului”",sat MILCOVENI; comuna CORBU,,1802
 578,OT-II-m-B-08954,"Biserica ""Cuvioasa Paraschiva”",sat MIRCEŞTI; comuna TĂTULEŞTI,,1859 - 1862
-579,OT-II-m-B-08955,"Biserica de lemn ""Cuvioasa Paraschiva”",sat MOMAIU; comuna TĂTULEŞTI comuna MORUNGLAV,,sec. XVIII
+579,OT-II-m-B-08955,"Biserica de lemn ""Cuvioasa Paraschiva”",sat MOMAIU; comuna TĂTULEŞTI,,sec. XVIII
+580,OT-II-m-B-08956,Ruinele casei Morunglav,sat MORUNGLAV; comuna MORUNGLAV,,sec. XVII
 581,OT-II-m-B-08957,"Biserica ""Sf. Ioan Botezătorul”",sat MOŞTENI; comuna SCHITU,,1860
 582,OT-II-m-B-08958,"Biserica ""Sf. Gheorghe”",sat NICOLAE TITULESCU; comuna NICOLAE TITULESCU,,1897
 583,OT-II-m-B-08959,"Ruinele bisericii ""Sf. Nicolae”",sat NICOLAE TITULESCU; comuna NICOLAE TITULESCU,,1835
@@ -543,7 +589,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 588,OT-II-m-B-08964,"Biserica ""Sf. Nicolae”",sat OBOGA DE SUS; comuna OBOGA,,"1808, adăugiri 1846"
 589,OT-II-m-B-08965,Casă,sat OBOGA DE SUS; comuna OBOGA,22,înc. sec. XX
 590,OT-II-m-B-08966,Conacul Neamţu,sat OLARI; comuna PÂRŞCOVENI,,sf. sec. XIX
-591,OT-II-m-B-08967,"Biserica ""Sf. Nicolae”",sat OLARI; comuna PÂRŞCOVENI PÂRŞCOVENI,,1821
+591,OT-II-m-B-08967,"Biserica ""Sf. Nicolae”",sat OLARI; comuna PÂRŞCOVENI,,1821
+592,OT-II-m-B-08968,Moara veche,sat OLARI; comuna PÂRŞCOVENI,,înc. sec. XX
 593,OT-II-m-B-08969,"Ruinele bisericii ""Sf. Dumitru”",sat OLTIŞORU; comuna GĂNEASA,,sec. XIX
 594,OT-II-m-B-08970,Casă,sat OLTIŞORU; comuna GĂNEASA,23,1930
 595,OT-II-m-B-08971,"Biserica ""Sf. Voievozi”",sat OPORELU; comuna OPORELU,,înc. sec. XIX
@@ -555,7 +602,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 601,OT-II-m-B-08977,"Biserica ""Sf. Voievozi”",sat OSICA DE SUS; comuna OSICA DE SUS,,1841
 602,OT-II-m-B-08978,"Biserica ""Sf. Nicolae”, ""Sf. Grigore”",sat OSTROV; comuna OSICA DE SUS,,1787
 603,OT-II-m-B-08979,"Biserica ""Sf. Împăraţi”",sat OTEŞTII DE JOS; comuna CUNGREA,,1838
-604, OT-II-m-B-20153," Biserica ""Adormirea Maicii Domnului” Maicii Domnului”", sat OTEŞTII DE SUS; comuna CUNGREA comuna CUNGREA,," 1802 - 1810, adăugat pridvor în 1902"
+604, OT-II-m-B-20153," Biserica ""Adormirea Maicii Domnului”", sat OTEŞTII DE SUS; comuna CUNGREA,," 1802 - 1810, adăugat pridvor în 1902"
+605,OT-II-m-B-20154,"Biserica ""Adormirea Maicii Domnului”",sat OTEŞTII DE SUS; comuna CUNGREA,,1802 - 1810
 606,OT-II-a-B-08980,"Ansamblul bisericii ""Sf. Nicolae”",sat PÂRŞCOVENI; comuna PÂRŞCOVENI,,"înc. sec. XVIII, ref. 1909"
 607,OT-II-m-B-08980.01,"Biserica ""Sf. Nicolae”",sat PÂRŞCOVENI; comuna PÂRŞCOVENI,,1909
 608,OT-II-m-B-08980.02,Zid de incintă,sat PÂRŞCOVENI; comuna PÂRŞCOVENI,,sec. XVIII
@@ -567,7 +615,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 614,OT-II-m-B-08986,Conacul Argeşanu,oraş PIATRA-OLT,Cartier Criva de Sus,sf. sec. XIX
 615,OT-II-m-B-08987,Cula Căleţeanu,oraş PIATRA-OLT,Cartier Enoşeşti,prima jum. sec. XIX
 616,OT-II-m-B-08988,"Biserica ""Sf. Voievozi”",sat PLEŞOIU; comuna PLEŞOIU,,"1734, ref. 1808 şi adăugat pridvor în 1899"
-617,OT-II-m-B-08989,"Biserica ""Sf. Treime”",sat POBORU; comuna POBORU POBORU,,1866
+617,OT-II-m-B-08989,"Biserica ""Sf. Treime”",sat POBORU; comuna POBORU,,1866
+618,OT-II-m-B-08990,"Biserica ""Sf. Nicolae”",sat POBORU; comuna POBORU,,sec. XVIII
 619,OT-II-m-B-08991,"Biserica de lemn ""Cuvioasa Paraschiva"", ""Intrarea Maicii Domnului în Biserică”",sat POGANU; comuna VERGULEASA,,sf. sec. XIX
 620,OT-II-a-B-08992,Ansamblul conacului Brătăşanu,sat POIANA; comuna RADOMIREŞTI,61,sf. sec. XIX
 621,OT-II-m-B-08992.01,Conacul Brătăşanu,sat POIANA; comuna RADOMIREŞTI,61,sf. sec. XIX
@@ -578,7 +627,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 626,OT-II-m-B-08992.06,Castel de apă,sat POIANA; comuna RADOMIREŞTI,61,înc. sec. XX
 627, OT-II-m-B-08993, Casă, sat POIANA; comuna RADOMIREŞTI, 61, 1901 - 1911
 628,OT-II-m-B-08994,Casă,sat POIANA; comuna RADOMIREŞTI,84,înc. sec. XX
-629,OT-II-m-B-08995,"Biserica ""Cuvioasa Paraschiva”",sat POIANA MARE; comuna MORUNGLAV VĂLENI,,1833
+629,OT-II-m-B-08995,"Biserica ""Cuvioasa Paraschiva”",sat POIANA MARE; comuna MORUNGLAV,,1833
+630,OT-II-m-B-08996,"Biserica ""Sf. Nicolae”",sat POPEŞTI; comuna VĂLENI,,1830
 631,OT-II-m-B-08997,"Biserica ""Sf. Nicolae”",sat POTCOAVA - FĂLCOENI; comuna POTCOAVA,,1879
 632,OT-II-m-B-08998,"Biserica ""Adormirea Maicii Domnului”",sat POTELU; comuna IANCA,,1843
 633,OT-II-m-B-08999,"Biserica ""Sf. Nicolae”",sat POTLOGENI; comuna TIA MARE,,"ante 1845 din lemn, 1863 - zid"
@@ -589,7 +639,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 638,OT-II-m-B-09004,"Biserica ""Sf. Gheorghe”",sat RĂDEŞTI; comuna OPORELU,,sf. sec. XVIII
 639, OT-II-a-B-09005, Ansamblu rural, sat RĂDEŞTI; comuna OPORELU, Satul în întregime, sec. XIX
 640,OT-II-m-B-09006,"Biserica ""Sf. Nicolae”",sat REDEA; comuna REDEA,,"1721, refăcută 1802- 1804 şi 1886"
-641,OT-II-m-B-09007,"Biserica ""Sf. Ioan Botezătorul” Domnului în Biserică”",sat REDEA; comuna REDEA REDEA,,1834
+641,OT-II-m-B-09007,"Biserica ""Sf. Ioan Botezătorul”",sat REDEA; comuna REDEA,,1834
+642,OT-II-m-B-09008,"Biserica ""Intrarea Maicii Domnului în Biserică”",sat REDEA; comuna REDEA,,1830
 643,OT-II-m-B-09009,Conacul Gălăţeanu,sat REDEA; comuna REDEA,,sf. sec. XIX
 644,OT-II-m-B-09010,"Biserica ""Sf. Nicolae”",sat REŞCA; comuna DOBROSLOVENI,,1781
 645,OT-II-m-B-09011,"Biserica ""Sf. Gheorghe”",sat RUNCU MARE; comuna GRĂDINARI,,"1577, refăcută 1957"
@@ -601,7 +652,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 651,OT-II-m-B-09014.03,Ruina casei boiereşti,sat SÂMBUREŞTI; comuna SÂMBUREŞTI,La sud-est de biserică,sf. sec. XVII
 652,OT-II-m-B-09015,"Ruinele Bisericii ""Sf. Haralambie”",oraş SCORNICEŞTI,Cartier Constantineşti,1818
 653,OT-II-m-B-09016,"Biserica ""Cuvioasa Paraschiva”",oraş SCORNICEŞTI,Cartier Mihăileşti-Popeşti,1854
-654,OT-II-m-B-09017,"Ruinele Bisericii ""Sf. Nicolae” ""Cuvioasa Paraschiva”",oraş SCORNICEŞTI,Cartier Negreni,1871
+654,OT-II-m-B-09017,"Ruinele Bisericii ""Sf. Nicolae”",oraş SCORNICEŞTI,Cartier Negreni,1871
+655,OT-II-m-B-09018,"Biserica de lemn ""Cuvioasa Paraschiva”",oraş SCORNICEŞTI,Cartier Rusciori,1885
 656,OT-II-m-B-09019,"Biserica ""Cuvioasa Paraschiva”",oraş SCORNICEŞTI,Cartier Şuica de Sus,1810
 657,OT-II-m-B-09020,"Biserica ""Intrarea în Biserică”",oraş SCORNICEŞTI,Cartier Şuica de Jos,1830
 658,OT-II-m-B-09021,"Biserica ""Cuvioasa Paraschiva”",oraş SCORNICEŞTI,Cartier Tătărei,1817
@@ -613,7 +665,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 664,OT-II-m-B-09025,"Biserica de lemn ""Sf. Troiţă”",sat SEACA; comuna SEACA,,1856
 665,OT-II-m-B-09026,Casa Bican,sat SEACA; comuna SEACA,,1935
 666,OT-II-m-B-09027,Casa preotului Gheorghe Săiculescu,sat SEACA; comuna SEACA,,1823
-667, OT-II-m-B-09028," Biserica ""Sf. Împăraţi” Maicii Domnului”", sat SINEŞTI; comuna POTCOAVA GOSTAVĂŢU,, 1798
+667, OT-II-m-B-09028," Biserica ""Sf. Împăraţi”", sat SINEŞTI; comuna POTCOAVA,, 1798
+668,OT-II-m-B-09029,"Biserica ""Adormirea Maicii Domnului”",sat SLĂVENI; comuna GOSTAVĂŢU,,1841
 669,OT-II-m-B-09030,"Biserica de lemn ""Adormirea Maicii Domnului”",sat SPĂTARU; comuna CUNGREA,,1900
 670,OT-II-m-B-09031,"Biserica ""Duminica Tuturor Sfinţilor”",sat SPINENI; comuna SPINENI,,1880 - 1886
 671,OT-II-m-B-09032,Conacul Zisu,sat SPRÂNCENATA; comuna SPRÂNCENATA,,1900
@@ -623,7 +676,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 675,OT-II-m-B-09036,"Biserica ""Sf. Dumitru”",sat STĂNULEASA; comuna SÂMBUREŞTI,,1831
 676,OT-II-m-B-09037,"Biserica de lemn ""Sf. Nicolae”",sat STOBORĂŞTI; comuna TUFENI,,1829
 677,OT-II-m-B-09038,Ruine biserică,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,,1780
-678,OT-II-m-B-09039,Şcoala veche,sat STOICĂNEŞTI; comuna STOICĂNEŞTI comuna STOICĂNEŞTI,,1890
+678,OT-II-m-B-09039,Şcoala veche,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,,1890
+679,OT-II-m-B-09040,Conac,sat STOICĂNEŞTI; comuna STOICĂNEŞTI,,sf. sec. XIX
 680,OT-II-m-B-09041,Casa Ungurelu,sat STOICĂNEŞTI; comuna STOICĂNESTI,,1920
 681,OT-II-m-B-09042,"Biserica ""Sf. Împăraţi”",sat STOICĂNEŞTI; comuna STOICĂNEŞTI,,1888 - 1889
 682,OT-II-m-B-09043,"Biserica ""Sf. Treime”",sat STREJEŞTII DE JOS; comuna STREJEŞTI,,1733
@@ -635,7 +689,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 688,OT-II-m-B-09046,Conacul Buzescu-Darvari,sat STREJEŞTII DE SUS; comuna STREJEŞTI,,1830
 689,OT-II-m-B-09047,"Biserica ""Adormirea Maicii Domnului”",sat STUDINA; comuna STUDINA,,1896
 690,OT-II-m-B-09048,"Biserica ""Sf. Ioan Botezătorul”",sat ŞERBĂNEŞTI; comuna ŞERBĂNEŞTI,,1874
-691, OT-II-m-B-09049," Biserica ""Adormirea Maicii Domnului” Treime”", sat ŞERBĂNEŞTII DE SUS; comuna ŞERBĂNEŞTI comuna ŞOPÂRLIŢA,, 1853
+691, OT-II-m-B-09049," Biserica ""Adormirea Maicii Domnului”", sat ŞERBĂNEŞTII DE SUS; comuna ŞERBĂNEŞTI,, 1853
+692,OT-II-m-B-09050,"Clopotniţa bisericii ""Sf. Treime”",sat ŞOPÂRLIŢA; comuna ŞOPÂRLIŢA,,1859
 693,OT-II-m-B-09051,Ruine de biserică,sat ŞOPÂRLIŢA; comuna ŞOPÂRLIŢA,"""La Zăpălie”",1580
 694,OT-II-m-B-09052,"Biserica ""Adormirea Maicii Domnului”",sat TOPANA; comuna TOPANA,,1857
 695,OT-II-m-B-09053,"Biserica ""Sf. Gheorghe”, ""Sf. Arhangheli”",sat TREPTENI; comuna VITOMIREŞTI,,1854
@@ -647,7 +702,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 701,OT-II-m-B-09059,"Biserica ""Sf. Voievozi”",sat URSOAIA; comuna ICOANA,,1841
 702,OT-II-m-B-09060,"Biserica ""Sf. Nicolae”",sat URSOAIA; comuna ICOANA,,1848
 703,OT-II-m-B-09061,"Biserica ""Adormirea Maicii Domnului”",sat URŞI; comuna LELEASCA,,1814
-704, OT-II-m-B-09062," Biserica ""Adormirea Maicii Domnului” Biserică”", sat VALEA MARE; comuna VALEA MARE comuna VĂDĂSTRIŢA,, 1845
+704, OT-II-m-B-09062," Biserica ""Adormirea Maicii Domnului”", sat VALEA MARE; comuna VALEA MARE,, 1845
+705,OT-II-m-B-09063,"Biserica ""Intrarea în Biserică”",sat VĂDĂSTRIŢA; comuna VĂDĂSTRIŢA,,1860
 706,OT-II-a-B-09064,Ansamblul Lekemann,sat VĂLENI; comuna BRÂNCOVENI,,1910
 707,OT-II-m-B-09065,Moara Cuţulescu,sat VĂLENI; comuna VĂLENI,,1921
 708,OT-II-a-B-09066,Ansamblul Colibăşanu,sat VĂLENI; comuna VĂLENI,,1912
@@ -659,7 +715,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 714,OT-II-m-B-09069,Casa Coman Dumitru,sat VÂLCELE; comuna VÂLCELE,,1937
 715,OT-II-m-B-09070,"Biserica ""Sf. Împăraţi”",sat VERGULEASA; comuna VERGULEASA,,1808
 716,OT-II-m-B-09071,"Biserica ""Cuvioasa Paraschiva”",sat VINEŢI; comuna SPINENI,,1820 - 1822
-717, OT-II-m-B-09072," Biserica ""Adormirea Maicii Domnului” Maicii Domnului”", sat VINEŢI JOS; comuna SPINENI comuna SPINENI,, 1812
+717, OT-II-m-B-09072," Biserica ""Adormirea Maicii Domnului”", sat VINEŢI JOS; comuna SPINENI,, 1812
+718,OT-II-m-B-09073,"Biserica ""Adormirea Maicii Domnului”",sat VINEŢI SUS; comuna SPINENI,,1847
 719,OT-II-m-B-09074,"Biserica ""Adormirea Maicii Domnului”",sat VITĂNEŞTI; comuna OPTAŞI- MĂGURA,,1889
 720,OT-II-m-B-09075,"Biserica de lemn ""Cuvioasa Paraschiva”",sat VITOMIREŞTI; comuna VITOMIREŞTI,,1870
 721,OT-II-m-B-20155,"Biserica ""Sf. Nicolae”",sat VLAICI; comuna COLONEŞTI,,1842
@@ -671,7 +728,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 727,OT-III-m-B-09082,Casa Poboran,municipiul SLATINA,Str. Lipscani 15,1890
 728,OT-III-m-B-09083,"Monumentul ""Slatina 600”",municipiul SLATINA,"Str. Piteşti 1, în parcul oraşului",
 729,OT-III-m-B-09084,Bustul lui Enescu George,municipiul CARACAL,În faţa liceului Ioniţă Asan,1965
-730,OT-III-m-B-09085,Bustul lui Haralambie Lecca Vladimirescu,municipiul CARACAL,"Aleea Fruntaşilor, în Parcul Poporului",
+730,OT-III-m-B-09085,Bustul lui Haralambie Lecca,municipiul CARACAL,"Aleea Fruntaşilor, în Parcul Poporului",
+731,OT-III-m-B-09086,Bustul lui Tudor Vladimirescu,municipiul CARACAL,"Aleea Fruntaşilor, în Parcul Poporului",
 732,OT-III-m-B-09087,Bustul lui Mihai Eminescu,municipiul CARACAL,"Aleea Fruntaşilor, în Parcul Poporului",1965
 733,OT-III-m-B-09088,"Statuia ""Susurul”",municipiul CARACAL,"Aleea Fruntaşilor, în Parcul Poporului",1938
 734,OT-III-m-B-09089,Monumentul lui Toma Ruşcă,municipiul CARACAL,Str. Ruşcă Toma,1947
@@ -683,7 +741,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 740,OT-IV-m-B-09096,Monumentul funerar al familiei Cesianu,municipiul CARACAL,"Str. Carpaţi, în cimitir",1895
 741,OT-IV-m-B-09097,Monumentul funerar Stamatoiu,municipiul CARACAL,"Str. Carpaţi, în cimitir",1907
 742, OT-IV-m-B-09098, Monumentul Eroului necunoscut, municipiul CARACAL," Str. Carpaţi, în cimitir", 1928
-743,OT-IV-m-B-09099,Monumentul funerar Ştefan Caracaş Mihai Bibianu,municipiul CARACAL,Str. Carpaţi 1,
+743,OT-IV-m-B-09099,Monumentul funerar Ştefan Caracaş,municipiul CARACAL,Str. Carpaţi 1,
+744,OT-IV-m-B-09100,Monumentul funerar Mihai Bibianu,municipiul CARACAL,Str. Carpaţi 1,1890
 745,OT-IV-m-B-09101,Monumentul funerar Mihai Bibianu,municipiul CARACAL,Str. Carpaţi 1,1911
 746,OT-IV-m-B-09102,Monumentul funerar al căpitanului Pleşoianu,municipiul CARACAL,Str. Carpaţi 1,
 747,OT-IV-m-B-09103,Troiţă de lemn,sat FĂGEŢEL; comuna FĂGEŢEL,36,sec. XIX
@@ -694,6 +753,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 752,OT-IV-m-A-09108,Casa memorială Nicolae Titulescu,sat NICOLAE TITULESCU; comuna NICOLAE TITULESCU,,1912
 753,OT-IV-m-B-09109,Cruce de piatră,sat OBOGA MIJLOC; comuna OBOGA,"În curtea bisericii ""Sf. Nicolae""",sec. XIX
 754,OT-IV-s-B-09110,Monumentele funerare ale familiilor boiereşti Berindeanu şi Ciofleanu,sat PESTRA; comuna DĂNEASA,Lângă biserică,sf. sec. XIX
-755,OT-IV-s-B-09111,Cimitirul de troiţe,sat PETRIŞ; comuna DĂNEASA comuna,,
+755,OT-IV-s-B-09111,Cimitirul de troiţe,sat PETRIŞ; comuna DĂNEASA,,
+756,OT-IV-m-B-09112,Cruce de piatră,sat POTOPINU; comuna DOBROSLOVENI,În curtea bisericii,sec. XIX
 757,OT-IV-s-B-09113,Cimitirul de troiţe,sat ROMÂNĂ; comuna OBOGA,,
 758,OT-IV-s-B-09114,Monumentele funerare ale familiei Brătășanu,sat ŞOPÂRLIŢA; comuna ŞOPÂRLIŢA,,sf. sec. XIX

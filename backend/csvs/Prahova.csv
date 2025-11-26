@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,PH-I-s-B-16113,"Situl arheologic de la Ploieşti, punct ""Bloc 122""",municipiul PLOIEŞTI,"""Bloc 122”, cartier Nord",
 2,PH-I-m-B-16113.01,Aşezare,municipiul PLOIEŞTI,"""Bloc 122”, cartier Nord",sec. VI - VII p. Chr.
 3,PH-I-m-B-16113.02,Aşezare,municipiul PLOIEŞTI,"""Bloc 122”, cartier Nord",Latène
 4,PH-I-m-B-16113.03,Aşezare,municipiul PLOIEŞTI,"""Bloc 122”, cartier Nord","Epoca bronzului, Cultura Tei"
@@ -6,7 +7,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,PH-I-s-B-16114,Aşezare,municipiul PLOIEŞTI,"""Str. Cuptoarelor - Str. Zăvoiului”",sec. IV - VII p. Chr.
 7,PH-I-s-B-16115,"Situl arheologic de la Ploieşti, punct ""Lotul Stelian Marinescu""",municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari",
 8,PH-I-m-B-16115.01,Aşezare,municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari",sec. V - VII p. Chr.
-9,PH-I-m-B-16115.02,Aşezare,municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari Dâmbului, cartier Pielari",sec. IV - V p. Chr.
+9,PH-I-m-B-16115.02,Aşezare,municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari",sec. IV - V p. Chr.
+10,PH-I-m-B-16115.03,Aşezare,municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari",Latène
 11,PH-I-m-B-16115.04,Aşezare,municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari",Epoca bronzului
 12,PH-I-m-B-16115.05,Necropolă,municipiul PLOIEŞTI,"Lotul Stelian Marinescu, pe dreapta Dâmbului, cartier Pielari",Epoca bronzului
 13,PH-I-m-B-16117,Aşezare,municipiul PLOIEŞTI,"La est de Vinalcool (azi S. C. Cramele Prahova S.A.), cartier Polux, Bariera Găgeni",sec. V - VII p. Chr.
@@ -18,6 +20,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 19,PH-I-m-B-16122.01,Aşezare,municipiul PLOIEŞTI,Str. Bădeşti,sec. II - III p. Chr.
 20,PH-I-m-B-16122.02,Necropolă,municipiul PLOIEŞTI,Str. Bădeşti,sec. II - III p. Chr.
 21,PH-I-s-B-16123,Castru,municipiul PLOIEŞTI,Str. Bădeşti,sec. II p. Chr.
+22,PH-I-s-B-16124,Aşezare,municipiul PLOIEŞTI,Str. Clopoţei,sec. IX – X
 23,PH-I-s-B-16125,"Situl arheologic de la Ploieşti, punct ""Str. Cornăţel""",municipiul PLOIEŞTI,Str. Cornăţel,
 24,PH-I-m-B-16125.01,Aşezare,municipiul PLOIEŞTI,Str. Cornăţel,sec. V - VII p. Chr.
 25,PH-I-m-B-16125.02,Aşezare,municipiul PLOIEŞTI,Str. Cornăţel,sec. IV - V p. Chr.
@@ -29,6 +32,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 31,PH-I-s-B-16129,"Situl arheologic de la Ploieşti, punct ""Str. Lucernei""",municipiul PLOIEŞTI,"Str. Lucernei, colţ cu str. Trifoiului",
 32,PH-I-m-B-16129.01,Aşezare,municipiul PLOIEŞTI,"Str. Lucernei, colţ cu str. Trifoiului",sec. VIII - X
 33,PH-I-m-B-16129.02,Aşezare,municipiul PLOIEŞTI,"Str. Lucernei, colţ cu str. Trifoiului",sec. VI - VII p. Chr.
+34,PH-I-m-B-16129.03,Aşezare,municipiul PLOIEŞTI,"Str. Lucernei, colţ cu str. Trifoiului",Epoca bronzului
 35,PH-I-s-B-16130,Şanţ de apărare,municipiul PLOIEŞTI,Str. Luminişului,sec. II p. Chr.
 36,PH-I-s-A-16131,Târg,municipiul PLOIEŞTI,Str. Matei Basarab,sec. XVI - XVII
 37,PH-I-s-B-16132,Necropolă,municipiul PLOIEŞTI,"Str. Mihai Bravu, ""Biserica Sf. Nicolae Vechi”",sec. XVI - XVII
@@ -41,6 +45,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 44,PH-I-s-B-16139,Limes,municipiul PLOIEŞTI,"Str. Râpelor, Cartier Malu Roşu",sec. IV p. Chr.
 45,PH-I-m-B-16141,"Situl arheologic de la Ploieşti, punct ""Str. Rozmarin""",municipiul PLOIEŞTI,Str. Rozmarin,
 46,PH-I-m-B-16141.01,Aşezare,municipiul PLOIEŞTI,Str. Rozmarin,sec. XI - XII
+47,PH-I-m-B-16141.02,Aşezare,municipiul PLOIEŞTI,Str. Rozmarin,sec. IV p. Chr.
 48,PH-I-m-B-16141.03,Aşezare,municipiul PLOIEŞTI,Str. Rozmarin,Hallstatt
 49,PH-I-m-B-16141.04,Aşezare,municipiul PLOIEŞTI,Str. Rozmarin,Epoca bronzului
 50,PH-I-m-B-16141.05,Aşezare,municipiul PLOIEŞTI,Str. Rozmarin,Eneolitic
@@ -50,7 +55,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 54,PH-I-s-B-16145,Situl arheologic de la Albeşti Muru,sat ALBEŞTI MURU; comuna ALBEŞTI PALEOLOGU,"""DN 1B” şi ""Podul CFR”",
 55,PH-I-m-B-16145.01,Necropolă,sat ALBEŞTI MURU; comuna ALBEŞTI PALEOLOGU,"""DN 1B” şi ""Podul CFR”",Epoca medievală
 56,PH-I-m-B-16145.02,Aşezare,sat ALBEŞTI MURU; comuna ALBEŞTI PALEOLOGU,"""DN 1B” şi ""Podul CFR”",sec. VI - V a. Chr.
-57,PH-I-m-B-16145.03,Aşezare,sat ALBEŞTI MURU; comuna ALBEŞTI PALEOLOGU PALEOLOGU; comuna,"""DN 1B” şi ""Podul CFR”",Epoca bronzului
+57,PH-I-m-B-16145.03,Aşezare,sat ALBEŞTI MURU; comuna ALBEŞTI PALEOLOGU,"""DN 1B” şi ""Podul CFR”",Epoca bronzului
+58,PH-I-s-B-16146,Aşezare,sat ALBEŞTI PALEOLOGU; comuna ALBEŞTI PALEOLOGU,La 5 km nord de satul Cioceni,Epoca bronzului
 59,PH-I-s-B-16147,Situl arheologic de la Apostolache,sat APOSTOLACHE; comuna APOSTOLACHE,"283, ""La Mănăstire”",
 60,PH-I-m-B-16147.01,Aşezare,sat APOSTOLACHE; comuna APOSTOLACHE,"283, ""La Mănăstire”",sec. V - VII p. Chr.
 61,PH-I-m-B-16147.02,Aşezare,sat APOSTOLACHE; comuna APOSTOLACHE,"283, ""La Mănăstire”",Hallstatt
@@ -60,7 +66,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 65,PH-I-s-B-16150,Aşezare,sat BĂTEŞTI; comuna BRAZI,"""Cantonul CFR 50 A”",sec. V - VII p. Chr.
 66,PH-I-s-B-16151,Situl arheologic de la Bătrâni,sat BĂTRÂNI; comuna BĂTRÂNI,"""Coada Malului”, la marginea de sud-est a satului, pe deal, în stânga pârâului Bătrâneanca",
 67,PH-I-m-B-16151.01,Aşezare,sat BĂTRÂNI; comuna BĂTRÂNI,"""Coada Malului”, la marginea de sud-est a satului, pe deal, în stânga pârâului Bătrâneanca",sec. IV - VI p. Chr.
-68,PH-I-m-B-16151.02,Aşezare,sat BĂTRÂNI; comuna BĂTRÂNI,"""Coada Malului”, la marginea de sud-est a satului, pe deal, în stânga",sec. IV - I a. Chr.
+68,PH-I-m-B-16151.02,Aşezare,sat BĂTRÂNI; comuna BĂTRÂNI,"""Coada Malului”, la marginea de sud-est a satului, pe deal, în stânga pârâului Bătrâneanca",sec. IV - I a. Chr.
 69,PH-I-s-B-16152,Aşezare,sat BĂTRÂNI; comuna BĂTRÂNI,"""Slobozia”, la intrarea în sat, pe dreapta, între şosea şi malul drept al pârâului Bătrâneanca",sec. V p. Chr.
 70,PH-I-s-B-16153,Situl arheologic de la Boboci,sat BOBOCI; comuna JUGURENI,"""La Biserică"", lângă satul de vacanţă",
 71,PH-I-m-B-16153.01,Necropolă,sat BOBOCI; comuna JUGURENI,"""La Biserică"", lângă satul de vacanţă",Epoca medievală
@@ -71,7 +77,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 76,PH-I-m-B-16154,Aşezare,sat BOLDEŞTI; comuna BOLDEŞTI-GRĂDIŞTEA,"""Popina Mare”",sec. II - III p. Chr.
 77,PH-I-s-B-16155,Necropolă,sat BOLDEŞTI; comuna BOLDEŞTI-GRĂDIŞTEA,"""La Cărămidărie”",sec. II - III p. Chr.
 78,PH-I-s-B-16156,Necropolă,sat BOLDEŞTI; comuna BOLDEŞTI-GRĂDIŞTEA,În zona Dispensarului şi a Magazinului Universal,sec. IV - V p. Chr.
-79,PH-I-s-B-16157,Aşezare,sat BOZIENI; comuna FÂNTÂNELE BUCOV,"În vatra satului, în cimitirul vechi",sec. V - VII p. Chr.
+79,PH-I-s-B-16157,Aşezare,sat BOZIENI; comuna FÂNTÂNELE,"În vatra satului, în cimitirul vechi",sec. V - VII p. Chr.
+80,PH-I-s-B-16158,Aşezare,sat BUCOV; comuna BUCOV,"""La Tioca”, ""Rotari”",sec. IX - X
 81,PH-I-s-B-16159,Tumuli,sat BUDA; comuna ARICEŞTII RAHTIVANI,"""La Movilă”",Latène
 82,PH-I-s-B-16160,Aşezare,sat CĂLUGĂRENI; comuna CĂLUGĂRENI,"""Pe izvor"", spre Afina Galeş, la Puţu Popii, pe pârâului Pucioasa",Latène
 83,PH-I-s-B-16161,"Situl arheologic de la Ceptura de Jos, punct ""Sub arie""",sat CEPTURA DE JOS; comuna CEPTURA,”Sub arie”,
@@ -82,7 +89,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 88,PH-I-m-B-16164.01,Necropolă,sat CEPTURA DE SUS; comuna CEPTURA,"""Locul lui Dăncescu”",sec. XVI
 89,PH-I-m-B-16164.02,Necropolă,sat CEPTURA DE SUS; comuna CEPTURA,"""Locul lui Dăncescu”",sec. V - VII p. Chr.
 90,PH-I-m-B-16164.03,Aşezare,sat CEPTURA DE SUS; comuna CEPTURA,"""Locul lui Dăncescu”",Latène
-91,PH-I-s-B-16165,Aşezare fortificată,sat CERNEŞTI; comuna IZVOARELE comuna CHIOJDEANCA,"""La Cetăţuie” veche","Epoca bronzului, Cultura Monteoru"
+91,PH-I-s-B-16165,Aşezare fortificată,sat CERNEŞTI; comuna IZVOARELE,"""La Cetăţuie”","Epoca bronzului, Cultura Monteoru"
+92,PH-I-s-B-16166,Aşezare,sat CHIOJDEANCA; comuna CHIOJDEANCA,"În centrul satului, lângă biserica veche",Hallstatt
 93,PH-I-s-B-16167,Aşezare,sat CHIOJDEANCA; comuna CHIOJDEANCA,"""Magazia lui Nicu Savu”",Epoca medievală
 94,PH-I-s-B-16168,Situl arheologic de la Chiţorani,sat CHIŢORANI; comuna BUCOV,"""Ferma 11”",
 95,PH-I-m-B-16168.01,Aşezare,sat CHIŢORANI; comuna BUCOV,"""Ferma 11”",sec. V - VII p. Chr.
@@ -94,7 +102,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 101,PH-I-m-B-16169.03,Aşezare,sat CIORANII DE SUS; comuna CIORANI,"""Movila Dărâmată”, în curtea societăţii agricole ""20 Mai”",sec. III - IV p. Chr.
 102,PH-I-m-B-16169.04,Aşezare,sat CIORANII DE SUS; comuna CIORANI,"""Movila Dărâmată”, în curtea societăţii agricole ""20 Mai”",Epoca bronzului
 103,PH-I-m-B-16169.05,Aşezare,sat CIORANII DE SUS; comuna CIORANI,"""Movila Dărâmată”, în curtea societăţii agricole ""20 Mai”","Eneolitic, Cultura Gumelniţa"
-104,PH-I-m-B-16169.06,Aşezare Cireşanu,sat CIORANII DE SUS; comuna CIORANI BABA ANA,"""Movila Dărâmată”, în curtea societăţii agricole ""20 Mai”","Neolitic, Cultura Boian"
+104,PH-I-m-B-16169.06,Aşezare,sat CIORANII DE SUS; comuna CIORANI,"""Movila Dărâmată”, în curtea societăţii agricole ""20 Mai”","Neolitic, Cultura Boian"
+105,PH-I-s-B-16170,Situl arheologic de la Cireşanu,sat CIREŞANU; comuna BABA ANA,"""La Grajduri”, ferma zootehnică",
 106,PH-I-m-B-16170.01,Necropolă,sat CIREŞANU; comuna BABA ANA,"""La Grajduri”, ferma zootehnică",Epoca medievală
 107,PH-I-m-B-16170.02,Aşezare,sat CIREŞANU; comuna BABA ANA,"""La Grajduri”, ferma zootehnică",sec. IV - V p. Chr.
 108,PH-I-s-B-16171,Aşezare,sat CIREŞANU; comuna BABA ANA,"""Eforie”",sec. IV - V p. Chr.
@@ -106,7 +115,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 114,PH-I-s-B-16177,Situl arheologic de la Fântânele,sat FÂNTÂNELE; comuna FÂNTÂNELE,"""Pe Vâlcele”",
 115,PH-I-m-B-16177.01,Aşezare,sat FÂNTÂNELE; comuna FÂNTÂNELE,"""Pe Vâlcele”",Epoca medievală
 116,PH-I-m-B-16177.02,Aşezare,sat FÂNTÂNELE; comuna FÂNTÂNELE,"""În cimitir”",sec. IX - XI
-117,PH-I-m-B-16177.03,Aşezare,sat FÂNTÂNELE; comuna FÂNTÂNELE comuna FÂNTÂNELE,"""Pe Vâlcele”","Neolitic, Cultura Boian Starčevo - Criş"
+117,PH-I-m-B-16177.03,Aşezare,sat FÂNTÂNELE; comuna FÂNTÂNELE,"""Pe Vâlcele”","Neolitic, Cultura Boian"
+118,PH-I-m-B-16177.04,Aşezare,sat FÂNTÂNELE; comuna FÂNTÂNELE,"""Pe Vâlcele”","Neolitic timpuriu, Cultura Starčevo - Criş"
 119,PH-I-s-A-16179,Situl arheologic de la Gherghiţa,sat GHERGHIŢA; comuna GHERGHIŢA,"""La Târg”, în vatra satului",
 120,PH-I-m-B-16179.01,Aşezare,sat GHERGHIŢA; comuna GHERGHIŢA,"""La Târg”, în vatra satului",sec. IX - X
 121,PH-I-m-B-16179.02,Aşezare,sat GHERGHIŢA; comuna GHERGHIŢA,"""La Târg”, în vatra satului",Neolitic
@@ -118,7 +128,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 127,PH-I-m-B-16181.01,Aşezare,sat GHINOAICA; comuna VADU SĂPAT,"""Valea Rea”, pe dreapta văii",sec. V - VII p. Chr.
 128,PH-I-m-B-16181.02,Aşezare,sat GHINOAICA; comuna VADU SĂPAT,"""Valea Rea”, pe dreapta văii",Latène
 129,PH-I-s-B-16182,Situl arheologic de la Ghinoaica,sat GHINOAICA; comuna VADU SĂPAT,"În partea de sud a văii Scheii, la confluenţa văii Liciului cu Scheianca",
-130,PH-I-m-B-16182.01,Necropolă,sat GHINOAICA; comuna VADU SĂPAT comuna VADU SĂPAT,"În partea de sud a văii Scheii, la confluenţa văii Liciului cu Scheianca confluenţa văii Liciului cu Scheianca",Epoca bronzului
+130,PH-I-m-B-16182.01,Necropolă,sat GHINOAICA; comuna VADU SĂPAT,"În partea de sud a văii Scheii, la confluenţa văii Liciului cu Scheianca",Epoca bronzului
+131,PH-I-m-B-16182.02,Aşezare,sat GHINOAICA; comuna VADU SĂPAT,"În partea de sud a văii Scheii, la confluenţa văii Liciului cu Scheianca","Eneolitic, Cultura Gumelniţa"
 132,PH-I-m-B-16182.03,Aşezare,sat GHINOAICA; comuna VADU SĂPAT,"În partea de sud a văii Scheii, la confluenţa văii Liciului cu Scheianca","Neolitic, Cultura Boian"
 133,PH-I-s-B-20210,Aşezare,sat GHINOAICA; comuna VADU SĂPAT,"""La Persu”","Neolitic timpuriu, Cultura Starčevo - Criş"
 134,PH-I-m-B-16183,Aşezare,sat HĂTCĂRĂU; comuna DRĂGĂNEŞTI,"Pe drumul spre satul Tufani, pe terasa de pe malul stâng al râului Prahova până la pod",sec. VIII - X
@@ -128,7 +139,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 138,PH-I-m-B-16184.03,Aşezare,sat INDEPENDENŢA; comuna GHERGHIŢA,”Pe maidan”,Hallstatt
 139,PH-I-s-B-16185,"Situl arheologic de la Independenţa, punct ""Malul Roşu""",sat INDEPENDENŢA; comuna GHERGHIŢA,"""Malul Roşu”",
 140,PH-I-m-B-16185.01,Aşezare,sat INDEPENDENŢA; comuna GHERGHIŢA,"""Malul Roşu”",sec. XIV
-141,PH-I-m-B-16185.02,Aşezare,sat INDEPENDENŢA; comuna GHERGHIŢA PROVIŢA DE SUS,"""Malul Roşu”",sec. X - XI
+141,PH-I-m-B-16185.02,Aşezare,sat INDEPENDENŢA; comuna GHERGHIŢA,"""Malul Roşu”",sec. X - XI
+142,PH-I-s-B-16186,Aşezare,sat IZVORU; comuna PROVIŢA DE SUS,"33, în vatra satului",Epoca bronzului
 143,PH-I-s-B-16187,Situl arheologic de la Jercălăi,localitatea JERCĂLĂI; oraş URLAŢI,"""La Mănăstire”",
 144,PH-I-m-B-16187.01,Aşezare,localitatea JERCĂLĂI; oraş URLAŢI,"""La Mănăstire”",sec. V - VII p. Chr.
 145,PH-I-m-B-16187.02,Aşezare,localitatea JERCĂLĂI; oraş URLAŢI,"""La Mănăstire”",sec. IV a. Chr. - sec. I p. Chr.
@@ -138,7 +150,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 149,PH-I-s-B-16189,Aşezare,sat LAPOŞ; comuna LAPOŞ,"""Poiana lui Roman”",Paleolitic
 150,PH-I-m-B-16190,Aşezare,sat MĂNEŞTI; comuna MĂNEŞTI,"""Movila Mare”",Epoca bronzului
 151,PH-I-s-B-16217,Cetate,sat MÂRLOGEA; comuna APOSTOLACHE,Pe drumul spre Mârlogea,sec. IV a. Chr. - sec. I p. Chr.
-152,PH-I-s-B-16191,"Aşezare punct ""Podul de ciment""",sat MEHEDINŢA; comuna PODENII NOI,"""Valea Ciuciurului” cartier Fefelei","Epoca bronzului, Cultura Tei"
+152,PH-I-s-B-16191,Aşezare,sat MEHEDINŢA; comuna PODENII NOI,"""Valea Ciuciurului”","Epoca bronzului, Cultura Tei"
+153,PH-I-s-B-16178,"Situl arheologic de la Fefelei, punct ""Podul de ciment""",oraş MIZIL,"""La crucile de la podul de ciment”- cartier Fefelei",
 154,PH-I-m-B-16178.01,Aşezare,oraş MIZIL,"""La crucile de la podul de ciment”- cartier Fefelei",sec. IX - X
 155,PH-I-m-B-16178.02,Aşezare,oraş MIZIL,"""La crucile de la podul de ciment”- cartier Fefelei",sec. IV - V p. Chr.
 156,PH-I-m-B-16178.03,Aşezare,oraş MIZIL,"""La crucile de la podul de ciment”- cartier Fefelei",Epoca bronzului
@@ -150,7 +163,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 162,PH-I-m-B-16193.02,Aşezare,oraş MIZIL,"""Casa de Cultură”",Epoca bronzului
 163,PH-I-s-B-16194,Aşezare,oraş MIZIL,"""La Vinalcool”",sec. IV p. Chr.
 164,PH-I-s-B-16195,Aşezare,oraş MIZIL,Str. Mihai Bravu 102,Latène
-165,PH-I-s-B-16196,"Necropolă de înhumaţie punct ""La Cetăţuie""",oraş MIZIL PUCHENII MARI,Str. Ţepeş Vodă,sec. IV - V p. Chr.
+165,PH-I-s-B-16196,Necropolă de înhumaţie,oraş MIZIL,Str. Ţepeş Vodă,sec. IV - V p. Chr.
+166,PH-I-s-B-16197,"Situl arheologic de la Odăile, punct ""La Cetăţuie""",sat ODĂILE; comuna PUCHENII MARI,"""La Cetăţuie”",
 167,PH-I-m-B-16197.01,Cetate,sat ODĂILE; comuna PUCHENII MARI,"""La Cetăţuie”",Latène
 168,PH-I-m-B-16197.02,Aşezare,sat ODĂILE; comuna PUCHENII MARI,"""La Cetăţuie”",Latène
 169,PH-I-s-B-16198,Situl arheologic de la Păuleşti,sat PĂULEŞTI; comuna PĂULEŞTI,"""Tabăra de vacanţă a elevilor”",
@@ -160,7 +174,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 173,PH-I-m-B-16198.04,Aşezare,sat PĂULEŞTI; comuna PĂULEŞTI,"""Tabăra de vacanţă a elevilor”",Neolitic
 174,PH-I-s-B-16199,Situl arheologic de la Perşunari,sat PERŞUNARI; comuna GURA VADULUI,"""Drumul Bordarilor”",
 175,PH-I-m-B-16199.01,Aşezare,sat PERŞUNARI; comuna GURA VADULUI,"""Drumul Bordarilor”",sec. IX - X
-176,PH-I-m-B-16199.02,Aşezare,sat PERŞUNARI; comuna GURA VADULUI comuna GURA,"""Drumul Bordarilor”",sec. V - I a. Chr.
+176,PH-I-m-B-16199.02,Aşezare,sat PERŞUNARI; comuna GURA VADULUI,"""Drumul Bordarilor”",sec. V - I a. Chr.
+177,PH-I-m-B-16199.03,Aşezare,sat PERŞUNARI; comuna GURA VADULUI,"""Drumul Bordarilor”",Epoca bronzului
 178,PH-I-s-B-16200,Cetate,oraş PLOPENI,"Poiana ""La Cetate” (""Cetatea Fetii"")",sec. VI - V a. Chr.
 179,PH-I-s-B-16201,Necropolă,sat PODENII VECHI; comuna BĂLŢEŞTI,În vatra satului,Latène
 180,PH-I-s-B-16202,Situl arheologic de la Poseştii-Pământeni,sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI,"""La Silişte”",
@@ -170,7 +185,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 184,PH-I-s-B-16204,Situl arheologic de la Potigrafu,sat POTIGRAFU; comuna GORGOTA,"""Canalul pădurii”, ""La Podişcă”",
 185,PH-I-m-B-16204.01,Aşezare,sat POTIGRAFU; comuna GORGOTA,"""Canalul pădurii”, ""La Podişcă”",sec. V - VII p. Chr.
 186,PH-I-m-B-16204.02,Aşezare,sat POTIGRAFU; comuna GORGOTA,"""Canalul pădurii”, ""La Podişcă”",sec. IV - V p. Chr.
-187,PH-I-s-B-16205,Necropolă de incineraţie,sat ROMÂNEŞTI; comuna BĂRCĂNEŞTI SĂLCIILE,La fostul CAP,"Hallstatt târziu, Cultura Ferigile - Bârseşti"
+187,PH-I-s-B-16205,Necropolă de incineraţie,sat ROMÂNEŞTI; comuna BĂRCĂNEŞTI,La fostul CAP,"Hallstatt târziu, Cultura Ferigile - Bârseşti"
+188,PH-I-s-B-16206,Tumuli,sat SĂLCIILE; comuna SĂLCIILE,"""Movila Gemenea”",Epoca bronzului
 189,PH-I-s-B-16207,Aşezare,localitatea SECIU; oraş BOLDEŞTI SCĂENI,"131A, ""La Pompieri”","Eneolitic, Cultura Gumelniţa, aspectul Stoicani - Aldeni, faza II"
 190,PH-I-s-A-16208,Castrul de la Mălăieşti,sat SFÂRLEANCA; comuna DUMBRĂVEŞTI,"""La Cetate”",101 - 118 p. Chr.
 191,PH-I-s-A-16209,Cetate,sat SLON; comuna CERAŞU,"""La Ciugă”, ""La Comoară”",sec. IX - XI
@@ -181,7 +197,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 196,PH-I-s-B-20211,Aşezare,sat STARCHIOJD; comuna STARCHIOJD,"""La crucea lui Benea”",sec. V - VII p. Chr.
 197,PH-I-s-B-16212,Aşezare,sat STRĂOŞTI; comuna IORDĂCHEANU,"""Ferma Plavia”",sec. V - VII p. Chr.
 198,PH-I-s-A-16213,Situl arheologic de la Şirna,sat ŞIRNA; comuna ŞIRNA,"""La fântâna lui Hârţu”",
-199,PH-I-m-A-16213.01,Aşezare,sat ŞIRNA; comuna ŞIRNA ŞIRNA,"""La fântâna lui Hârţu”",sec. VII - VIII p. Chr.
+199,PH-I-m-A-16213.01,Aşezare,sat ŞIRNA; comuna ŞIRNA,"""La fântâna lui Hârţu”",sec. VII - VIII p. Chr.
+200,PH-I-m-A-16213.02,Aşezare,sat ŞIRNA; comuna ŞIRNA,"""La fântâna lui Hârţu”",sec. V - VII p. Chr.
 201,PH-I-m-A-16213.03,Aşezare,sat ŞIRNA; comuna ŞIRNA,"""La fântâna lui Hârţu”",sec. III p. Chr.
 202,PH-I-m-A-16213.04,Aşezare,sat ŞIRNA; comuna ŞIRNA,"""La fântâna lui Hârţu”",Latène
 203,PH-I-m-A-16213.05,Aşezare,sat ŞIRNA; comuna ŞIRNA,"""La fântâna lui Hârţu”",Epoca bronzului
@@ -191,7 +208,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 207,PH-I-s-B-16215,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"540B, ""La fosta moară”, 500 m vest de moară","Epoca bronzului, Cultura Tei"
 208,PH-I-s-A-16216,Situl arheologic de la Târgşoru Vechi,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”",
 209,PH-I-m-A-16216.01,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”",sec. XV - XVII
-210,PH-I-m-A-16216.02,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI comuna TÂRGŞORU,"1, ""La Mănăstire”",sec. V - VII p. Chr.
+210,PH-I-m-A-16216.02,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”",sec. V - VII p. Chr.
+211,PH-I-m-A-16216.03,Necropolă,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”",sec. IV p. Chr.
 212,PH-I-m-A-16216.04,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”",sec. II p. Chr.
 213,PH-I-m-A-16216.05,Necropolă,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”",sec. II - III p. Chr.
 214,PH-I-m-A-16216.06,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”","Hallstatt târziu, Cultura Ferigile - Bârseşti"
@@ -199,7 +217,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 216,PH-I-m-A-16216.08,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”","Epoca bronzului, Cultura Tei"
 217,PH-I-m-A-16216.09,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”","Neolitic, Cultura Boian"
 218,PH-I-m-A-16216.10,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”","Neolitic timpuriu, Cultura Starčevo - Criş"
-219,PH-I-m-A-16216.11,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI TOMŞANI,"1, ""La Mănăstire”","Eneolitic, Cultura Gumelniţa"
+219,PH-I-m-A-16216.11,Aşezare,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, ""La Mănăstire”","Eneolitic, Cultura Gumelniţa"
+220,PH-I-s-B-16218,Aşezare,sat TOMŞANI; comuna TOMŞANI,"""Staţia CFR”","Neolitic, Cultura Boian"
 221,PH-I-s-B-16219,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""Spre şapte plopi - La Misica”",sec. IV - I a. Chr.
 222,PH-I-s-B-16220,Situl arheologic de la Vadu Săpat,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Floreasca”",
 223,PH-I-m-B-16220.01,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Floreasca”",Epoca bronzului
@@ -211,7 +230,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 229,PH-I-m-A-16221.04,Necropolă,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",sec. V - VII p. Chr.
 230,PH-I-m-A-16221.05,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",sec. II - III p. Chr.
 231,PH-I-m-A-16221.06,Necropolă,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",sec. IV - V p. Chr.
-232,PH-I-m-A-16221.07,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu” Burciu”",sec. V - II a. Chr.
+232,PH-I-m-A-16221.07,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",sec. V - II a. Chr.
+233,PH-I-m-A-16221.08,Necropolă,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",Epoca bronzului
 234,PH-I-m-A-16221.09,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",Neolitic
 235,PH-I-m-A-16221.10,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Silişte” şi ""Hulă” şi ""Puţul lui Burciu”",Epoca bronzului
 236,PH-I-s-B-16222,Situl arheologic de la Vadu Săpat,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Dovîncescu”",
@@ -222,7 +242,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 241,PH-I-m-B-16223.02,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""Cotul Malului”",sec. V - VII p. Chr.
 242,PH-I-s-B-16224,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""Combinatul de vinificaţie”",sec. II a. Chr. - sec. I p. Chr.
 243,PH-I-s-B-16225,Aşezare,sat VADU SĂPAT; comuna VADU SĂPAT,"""La Stănescu”","Epoca bronzului, Cultura Monteoru"
-244,PH-I-s-B-16226,Aşezare,sat VALEA CĂLUGĂREASCĂ; comuna VALEA CĂLUGĂREASCĂ comuna IORDĂCHEANU,În livada Grupului Şcolar Agricol Valea Călugărească,Hallstatt
+244,PH-I-s-B-16226,Aşezare,sat VALEA CĂLUGĂREASCĂ; comuna VALEA CĂLUGĂREASCĂ,În livada Grupului Şcolar Agricol Valea Călugărească,Hallstatt
+245,PH-I-s-B-16227,Aşezare,sat VALEA CUCULUI; comuna IORDĂCHEANU,"""Biserica Veche”",sec. IV - V p. Chr.
 246,PH-I-s-B-16228,Aşezare,sat VALEA SCHEILOR; comuna CĂLUGĂRENI,"""Valea Scheilor”",sec. IV - VI p. Chr.
 247,PH-I-s-B-16229,Situl arheologic de la Valea Scheilor,sat VALEA SCHEILOR; comuna CĂLUGĂRENI,"""La crucile de piatră ale Doamnei Neaga”",
 248,PH-I-m-B-16229.01,Aşezare,sat VALEA SCHEILOR; comuna CĂLUGĂRENI,"""La crucile de piatră ale Doamnei Neaga”",Hallstatt
@@ -234,7 +255,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 254,PH-I-s-B-16231,Situl arheologic de la Zalhanaua,sat ZALHANAUA; comuna MĂNEŞTI,"""La Turnuri”",
 255,PH-I-m-B-16231.01,Aşezare,sat ZALHANAUA; comuna MĂNEŞTI,"""La Turnuri”",sec. X p. Chr.
 256,PH-I-m-B-16231.02,Aşezare,sat ZALHANAUA; comuna MĂNEŞTI,"""La Turnuri”",sec. III - IV p. Chr.
-257,PH-I-m-B-16231.03,Aşezare,sat ZALHANAUA; comuna MĂNEŞTI comuna MĂNEŞTI,"""La Turnuri”",Epoca romană
+257,PH-I-m-B-16231.03,Aşezare,sat ZALHANAUA; comuna MĂNEŞTI,"""La Turnuri”",Epoca romană
+258,PH-I-m-B-16231.04,Aşezare,sat ZALHANAUA; comuna MĂNEŞTI,"""La Turnuri”",Latène
 259,PH-II-m-B-16232,Casa George Papp,municipiul PLOIEŞTI,Str. Armoniei 1,1880
 260,PH-II-m-A-16233,"Biserica ""Maica Prescista”",municipiul PLOIEŞTI,Str. Armoniei 3,1820
 261,PH-II-m-A-16234,Casa Gogălniceanu,municipiul PLOIEŞTI,Str. Armoniei 12,sf. sec. XVIII - înc. sec. XIX
@@ -245,7 +267,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 266,PH-II-m-A-16239,Casa compozitorului Paul Constantinescu,municipiul PLOIEŞTI,Str. Bălcescu Nicolae 15,1873
 267,PH-II-m-B-16240,"Casa Manolescu, azi sediu S.C. IPIP S.A.",municipiul PLOIEŞTI,Str. Bălcescu Nicolae 19,sf. sec. XIX
 268,PH-II-m-B-16241,"Casa Mănciulescu, azi Restaurantul ""Prestij""",municipiul PLOIEŞTI,Str. Bobâlna 1,sf. sec. XIX
-269,PH-II-m-B-16242,"Casa Narcis Dăscălescu Spitalului Județean Boldescu""",municipiul PLOIEŞTI,Str. Bobâlna 4,1895
+269,PH-II-m-B-16242,Casa Narcis Dăscălescu,municipiul PLOIEŞTI,Str. Bobâlna 4,1895
+270,PH-II-m-B-16243,"Secţia de maxilo-faciale a Spitalului Județean Boldescu""",municipiul PLOIEŞTI,Str. Boldescu 1,1831
 271,PH-II-m-B-16244,Casa Amira,municipiul PLOIEŞTI,Str. Buna Vestire 36,mijl. sec. XIX
 272,PH-II-m-B-16245,Casa Jilescu,municipiul PLOIEŞTI,Str. Caragiale Ion Luca 5,înc. sec. XIX
 273,PH-II-m-A-16246,"Primul Gimnaziu din Ploieşti ""Sf. Petru şi Pavel"", azi Muzeul Judeţean de Istorie Arheologie",municipiul PLOIEŞTI şi,Str. Caragiu Toma 10,1865
@@ -256,7 +279,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 278,PH-II-m-B-16251,Casa av. Marinela Păunescu,municipiul PLOIEŞTI,Str. Constanţei 12,1889
 279,PH-II-m-A-16252,Casa cu prăvălie Ilie Lumânăraru,municipiul PLOIEŞTI,Str. Coşbuc George 16,1830 - 1840
 280,PH-II-m-A-16253,Casa dr. Ion Popescu,municipiul PLOIEŞTI,Str. Decebal 9,1905
-281,PH-II-m-B-16254,Casa Gheorghe şi Margareta Teodorescu Prodan,municipiul PLOIEŞTI,Str. Decebal 25,1900
+281,PH-II-m-B-16254,Casa Gheorghe şi Margareta Teodorescu,municipiul PLOIEŞTI,Str. Decebal 25,1900
+282,PH-II-m-A-16255,Casa de târgoveţ Hagi Ivan Prodan,municipiul PLOIEŞTI,Str. Democraţiei 2,1785
 283,PH-II-m-B-16256,"Casă, azi sediul Centrului Teritorial Ploieşti al Universităţii ""Spiru Haret""",municipiul PLOIEŞTI,Str. Democraţiei 17,sf. sec. XIX
 284,PH-II-m-B-16257,"Casă, azi sediul Organizaţiei Umanitare ""Alexandra""",municipiul PLOIEŞTI,Str. Democraţiei 19,1890
 285,PH-II-m-B-16258,Casa Viorel Voiculescu,municipiul PLOIEŞTI,Str. Democraţiei 23,sf. sec. XIX
@@ -266,7 +290,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 289,PH-II-m-B-20206,"Fostă cramă (beci, gârlici şi scara spre etaj)",municipiul PLOIEŞTI,Aleea Gladiolelor 2,sf. sec. XIX - înc. sec. XX
 290,PH-II-m-B-16263,"Casa dr. I. Cloaje, azi Restaurantul ""Bulevard”",municipiul PLOIEŞTI,Str. Goleşti 25,sf. sec. XIX
 291,PH-II-m-A-16264,"Casa Hârlea Dragomira şi Iliescu Roxana, azi Hotel- Restaurant ""Star""",municipiul PLOIEŞTI,Str. Hasdeu Petriceicu Bogdan 1,înc. sec. XX
-292,PH-II-m-B-16265,Casa Radu Constantin,municipiul PLOIEŞTI,Str. Iaşiului 7 PUG avizat,1850
+292,PH-II-m-B-16265,Casa Radu Constantin,municipiul PLOIEŞTI,Str. Iaşiului 7,1850
+293,PH-II-s-B-16266,"Situl urban ""Centrul istoric""",municipiul PLOIEŞTI,"Bd. Independenţei, Delimitare cf. PUG avizat",sec. XVIII - înc. sec. XX
 294,PH-II-m-A-16267,"Casa Ghiţă Ionescu, azi Muzeul Judeţean de Artă ""Ion Ionescu-Quintus""",municipiul PLOIEŞTI,Bd. Independenţei 1,1885
 295,PH-II-m-B-16268,Casa dr. Constantin Vasiliu,municipiul PLOIEŞTI,Bd. Independenţei 3,1900
 296,PH-II-m-A-16269,"Turnul clopotniţă al bisericii ""Sf. Gheorghe""-Vechi",municipiul PLOIEŞTI,Bd. Independenţei 4,1831 - 1832
@@ -275,7 +300,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 299,PH-II-m-B-16272,"Casa Alexandru Radovici, azi Clinica Medicală HIPOCRAT 2000",municipiul PLOIEŞTI,Bd. Independenţei 14,sf. sec. XIX
 300,PH-II-m-A-16273,"Casa Radu Stanian, ulterior casa N. Constantinescu Bordeni",municipiul PLOIEŞTI,Bd. Independenţei 15,"1850, 1930"
 301,PH-II-m-B-16274,"Casa C.G. Angelini, azi Serviciul Public Finanţe Locale şi Administrarea Patrimoniului Ploieşti",municipiul PLOIEŞTI,Bd. Independenţei 16,sf. sec. XIX
-302,PH-II-m-A-16275,"Casa Scarlat Sc. Orăscu, azi Policlinica de copii a Spitalului de Pediatrie Ploiesti ulterior casa Provian, azi",municipiul PLOIEŞTI,Bd. Independenţei 18,"sf. sec. XIX, ref. 1920"
+302,PH-II-m-A-16275,"Casa Scarlat Sc. Orăscu, azi Policlinica de copii a Spitalului de Pediatrie Ploiesti",municipiul PLOIEŞTI,Bd. Independenţei 18,"sf. sec. XIX, ref. 1920"
+303,PH-II-m-B-16276,"Casa Toma Rucăreanu, ulterior casa Provian, azi Restaurant ""Mon Jardin""",municipiul PLOIEŞTI,Bd. Independenţei 19,sf. sec. XIX
 304,PH-II-m-B-16277,"Casa Grigore Scorţeanu, Dimitrie Sfetescu, ulterior sediul Societăţii Petroliere ""Concordia"", azi Administraţie Primăria Ploieşti",municipiul PLOIEŞTI,Bd. Independenţei 21,sf. sec. XIX
 305,PH-II-m-A-16278,"Casa Ghiţă Stoenescu, azi clinica Alfa Medical Center",municipiul PLOIEŞTI,Bd. Independenţei 27,1900 - 1910
 306,PH-II-m-A-16279,"Casa Gheorghe Iosifescu, azi ""VigoHotel""",municipiul PLOIEŞTI,Bd. Independenţei 28,1935
@@ -283,7 +309,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 308,PH-II-m-B-16281,"Casă, azi Restaurantul ""Vienna Cafe""",municipiul PLOIEŞTI,Str. Ipătescu Ana 3,sf. sec. XIX
 309,PH-II-m-A-21010,"Casa Ştefan Z. Ghica Ghiculescu, cu împrejmuirea dinspre stradă",municipiul PLOIEŞTI,Str. Italiană 4,"1927, sec. XX, Epoca contemporană"
 310,PH-II-m-A-16282,"Casa Avram Ergas Mamaciu, azi Teatrul pentru copii ""Ciufulici"" - secţia Teatrului ""Toma Caragiu""",municipiul PLOIEŞTI,Str. Kogălniceanu Mihail 52,1869 - 1870
-311,PH-II-m-A-16283,"Casa C.C. Dobrescu, azi Muzeul Memorial ""I.L. Caragiale"" Tribunalul Judeţean Prahova",municipiul PLOIEŞTI,Str. Kutuzov 1,sf. sec. XVIII - înc. sec. XIX
+311,PH-II-m-A-16283,"Casa C.C. Dobrescu, azi Muzeul Memorial ""I.L. Caragiale""",municipiul PLOIEŞTI,Str. Kutuzov 1,sf. sec. XVIII - înc. sec. XIX
+312,PH-II-m-A-16284,"Administraţia Financiară, azi Tribunalul Judeţean Prahova",municipiul PLOIEŞTI,Str. Lazăr Gheorghe 6,înc. sec. XX
 313,PH-II-m-B-16285,"Han, ulterior locuinţă",municipiul PLOIEŞTI,Str. Maniu Iuliu 10,prima jum. sec. XIX
 314,PH-II-m-B-16286,"Casă, azi sediu Secţia Drumuri Naţionale Prahova",municipiul PLOIEŞTI,Str. Maramureş 8,înc. sec. XX
 315,PH-II-m-B-16287,"Casă, fost sediu bancă, azi Hotel Angelo D'oro",municipiul PLOIEŞTI,Str. Maramureş 9,înc. sec. XX
@@ -295,7 +322,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 321,PH-II-a-B-20992,Biserică,municipiul PLOIEŞTI,Str. Neagoe Basarab 12,1875-1880
 322,PH-II-m-B- 20992.01,"Biserica ""Sf. Vineri""",municipiul PLOIEŞTI,Str. Neagoe Basarab 12,"1875 - 1880, sec. XIX, Epoca modernă"
 323,PH-II-m-B- 20992.02,Turn clopotniță,municipiul PLOIEŞTI,Str. Neagoe Basarab 12,1875-1880
-324,PH-II-m-B-16290,"Casa Tulea, azi sediu Administraţia Serviciilor",municipiul PLOIEŞTI,Str. Poştei 4-6,1853
+324,PH-II-m-B-16290,"Casa Tulea, azi sediu Administraţia Serviciilor Sociale Comunitare",municipiul PLOIEŞTI,Str. Poştei 4-6,1853
 325,PH-II-m-B-16291,"Casa N. Pârvulescu, azi cabinete medicale particulare",municipiul PLOIEŞTI,Str. Romană 35,1870
 326,PH-II-m-B-16292,"Casa dr. Dan Georgescu, azi sediu birouri firmă",municipiul PLOIEŞTI,Str. Romană 41,1850
 327,PH-II-m-B-16293,Casa Tiseanu,municipiul PLOIEŞTI,Str. Romană 43,a doua jum. sec. XIX
@@ -306,7 +333,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 332,PH-II-m-B-16298,"Casa Istrate Negulescu, azi secţie M. Ap. N.",municipiul PLOIEŞTI,Str. Stadionului 1,a doua jum. sec. XIX
 333,PH-II-m-B-16299,Casa Cantilli,municipiul PLOIEŞTI,"Str. Stadionului 3, 3A",a doua jum. sec. XIX
 334,PH-II-m-B-16300,Casa Mareş Şerbănescu,municipiul PLOIEŞTI,Str. Stadionului 14,1847
-335,PH-II-m-B-16301,"Căminul Învăţătorilor Prahoveni, azi sediu birouri hramurile ""Sf. Arhangheli",municipiul PLOIEŞTI,Str. Ştefan cel Mare 8,1925
+335,PH-II-m-B-16301,"Căminul Învăţătorilor Prahoveni, azi sediu birouri",municipiul PLOIEŞTI,Str. Ştefan cel Mare 8,1925
+336,PH-II-m-B-16302,"Biserica ""Sf. Voievozi"" cu hramurile ""Sf. Arhangheli Mihail şi Gavriil"" şi ""Sf. Antonie cel Mare""",municipiul PLOIEŞTI,Str. Ştefan cel Mare 23,"1820 - 1827, ref. 1929 - 1931"
 337,PH-II-m-B-16303,Casa Cacip,municipiul PLOIEŞTI,Str. Ulierului 4,prima jum. sec. XIX
 338,PH-II-m-B-16304,Casa Petre Ulieru,municipiul PLOIEŞTI,Str. Ulierului 7,înc. sec. XIX
 339,PH-II-m-A-16305,"""Şcoala de Arte şi Meserii"", azi Direcţia Administraţia Domeniului Public şi Privat",municipiul PLOIEŞTI,Str. Văleni 32,1886
@@ -316,7 +344,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 343,PH-II-m-B-16309,Prăvălie şi cârciumă,sat ALUNIŞ; comuna ALUNIŞ,361,sf. sec. XIX
 345,PH-II-a-A-16311,Fosta mănăstire Apostolache,sat APOSTOLACHE; comuna APOSTOLACHE,283,1645 - 1652
 346,PH-II-m-A- 16311.01,"Biserica ""Naşterea Maicii Domnului”",sat APOSTOLACHE; comuna APOSTOLACHE,283,1645 - 1652
-347,PH-II-m-A- 16311.02 16311.03,Arhondaric,sat APOSTOLACHE; comuna APOSTOLACHE comuna APOSTOLACHE,283,"1645 - 1652, ref. 1992 - 2000"
+347,PH-II-m-A- 16311.02,Arhondaric,sat APOSTOLACHE; comuna APOSTOLACHE,283,"1645 - 1652, ref. 1992 - 2000"
+348,PH-II-m-A- 16311.03,Turn clopotniţă,sat APOSTOLACHE; comuna APOSTOLACHE,283,"1645 - 1652, ref. 1992 - 1994"
 349,PH-II-m-A- 16311.04,Zid de incintă,sat APOSTOLACHE; comuna APOSTOLACHE,283,1645 - 1652
 350,PH-II-m-A-16312,"Biserica ""Sf. Ilie"", ""Sf. Nicolae”",sat ARICEŞTII RAHTIVANI; comuna ARICEŞTII RAHTIVANI,587,1777
 351,PH-II-m-B-16313,"Casă, azi birouri A.D.P.",oraş AZUGA,Str. Brânduşei 1,sf. sec. XIX
@@ -328,6 +357,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 357,PH-II-m-B-16319,"Casă cu prăvălie, azi casă parohială",oraş AZUGA,Str. Independenţei 27,înc. sec. XX
 358,PH-II-m-B-16320,"Căşeria lui Ghimbăşanu, azi locuinţă",oraş AZUGA,Str. Muncii 29,1878
 359,PH-II-m-B-16321,Casa Ion Seu,oraş AZUGA,Str. Parcului 9,înc. sec. XX
+360,PH-II-m-B-16322,Casa Nicolae Irimia,oraş AZUGA,Str. Parcului 15,înc. sec. XX
 361,PH-II-m-A-16324,"Biserica veche ""Adormirea Maicii Domnului"" - din cimitir",sat BABA ANA; comuna BABA ANA,100bis,1815
 362,PH-II-m-B-16325,Casa Lina Gheorghe,sat BABA ANA; comuna BABA ANA,313,înc. sec. XX
 363,PH-II-m-A-16326,Casa Ileana Costache,sat BABA ANA; comuna BABA ANA,463,înc. sec. XX
@@ -338,7 +368,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 368,PH-II-m-A-16331,"Biserica ""Sf. Nicolae”",sat BĂLTIŢA; comuna MĂNEŞTI,253,1716
 369,PH-II-a-B-16332,Ansamblu rural I,sat BĂTRÂNI; comuna BĂTRÂNI,Delimitare cf. PUG avizat,sf. sec. XIX
 370,PH-II-a-B-16333,Ansamblu rural II,sat BĂTRÂNI; comuna BĂTRÂNI,Delimitare cf. PUG avizat,sf. sec. XIX
-371,PH-II-a-B-16334,Ansamblu rural III,sat BĂTRÂNI; comuna BĂTRÂNI BĂTRÂNI,Delimitare cf. PUG avizat,sf. sec. XIX
+371,PH-II-a-B-16334,Ansamblu rural III,sat BĂTRÂNI; comuna BĂTRÂNI,Delimitare cf. PUG avizat,sf. sec. XIX
+372,PH-II-m-B-16335,Ziduri de sprijin din piatră,sat BĂTRÂNI; comuna BĂTRÂNI,226-231,înc. sec. XX
 373,PH-II-m-B-16336,Casa Ion Dumitrache Soare,sat BĂTRÂNI; comuna BĂTRÂNI,255,mijl. sec. XIX
 374,PH-II-m-B-16337,Casa Dumitru Gh. Ene,sat BĂTRÂNI; comuna BĂTRÂNI,364,înc. sec. XX
 375,PH-II-m-B-16338,Casa Nicolae Goicea,sat BĂTRÂNI; comuna BĂTRÂNI,371,înc. sec. XX
@@ -350,7 +381,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 381,PH-II-m-B-16345,Casa Dobriţa Răducu,sat BĂTRÂNI; comuna BĂTRÂNI,582,1900
 382,PH-II-m-B-16343,Casa Dumitru şi Gheorghe Iordache,sat BĂTRÂNI; comuna BĂTRÂNI,591,sf. sec. XIX
 383,PH-II-m-B-16346,Casa Constantin Palavescu,sat BĂTRÂNI; comuna BĂTRÂNI,593,înc. sec. XX
-384,PH-II-m-B-16347,Casa Gheorghe D. T. Ene,sat BĂTRÂNI; comuna BĂTRÂNI BĂTRÂNI,594,înc. sec. XX
+384,PH-II-m-B-16347,Casa Gheorghe D. T. Ene,sat BĂTRÂNI; comuna BĂTRÂNI,594,înc. sec. XX
+385,PH-II-m-B-16588,Casa Cleopatra Goicea,sat BĂTRÂNI; comuna BĂTRÂNI,695,mijl. sec. XIX
 386,PH-II-m-B-16348,Casa Constantin Tănase,sat BERTEA; comuna BERTEA,62,1889 - 1911
 387,PH-II-m-A-16349,"Biserica ""Sf. Petru şi Pavel""",sat BERTEA; comuna BERTEA,165,mijl. sec. XIX
 388,PH-II-m-B-16350,Casa Ioana Boghici,sat BERTEA; comuna BERTEA,498,sf. sec. XIX
@@ -362,7 +394,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 394,PH-II-m-B-16356,Casa Ioana Petrescu,sat BERTEA; comuna BERTEA,684,sf. sec. XIX
 395,PH-II-m-B-16357,Casa Gheorghe Ştefan,sat BERTEA; comuna BERTEA,723,sf. sec. XIX
 396,PH-II-m-B-16358,Vila Constantin Comăneanu,sat BLEJOI; comuna BLEJOI,16,1909
-397,PH-II-m-A-16359,"Biserica de lemn ""Sf. Nicolae"", ""Adormirea Maicii",sat BLEJOI; comuna BLEJOI,449A,sec. XVIII
+397,PH-II-m-A-16359,"Biserica de lemn ""Sf. Nicolae"", ""Adormirea Maicii Domnului"" (din cimitir)",sat BLEJOI; comuna BLEJOI,449A,sec. XVIII
 398,PH-II-m-B-16360,Casa Veronica Bodoiu,sat BODEŞTI; comuna POSEŞTI,55,înc. sec. XX
 399,PH-II-m-B-16361,Casa Vasile D. Berciu,sat BODEŞTI; comuna POSEŞTI,107,sf. sec. XIX
 400,PH-II-m-B-16362,"Ruinele bisericii ""Sf. Arhangheli Mihail şi Gavriil”",oraş BOLDEŞTI-SCĂENI,Calea Unirii 58A,1812
@@ -375,6 +407,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 407,PH-II-m-A-16367,"Biserica ""Sf. Nicolae”",oraş BREAZA,Str. Republicii 13,1777
 408,PH-II-m-B-16368,Casa Virgil Neagoe,oraş BREAZA,Str. Republicii 51,1840
 409,PH-II-m-B-16369,Casa cu prăvălie Alexandru Bondoc,oraş BREAZA,Str. Republicii 72,sf. sec. XIX
+410,PH-II-m-B-16371,Casa Popa,oraş BREAZA,Str. Republicii 189,sf. sec. XIX
 411,PH-II-m-A-16374,Casa g-ral Ceauşu,oraş BREAZA,Str. Victoriei 5,înc. sec. XX
 412,PH-II-a-A-16375,Fosta mănăstire Brebu,sat BREBU MĂNĂSTIREI; comuna BREBU,803,1640 - 1650
 413,PH-II-m-A- 16375.01,"Biserica ""Sf. Mihail şi Gavriil”",sat BREBU MĂNĂSTIREI; comuna BREBU,803,1640 - 1650
@@ -383,7 +416,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 416,PH-II-m-A- 16375.04,Turn clopotniţă,sat BREBU MĂNĂSTIREI; comuna BREBU,803,1640 - 1650
 417,PH-II-m-A- 16375.05,Zid de incintă,sat BREBU MĂNĂSTIREI; comuna BREBU,803,1640 - 1650
 418,PH-II-m-B-16376,Casa Vasile C. Topală,sat BREBU MEGIEŞESC; comuna BREBU,284,sf. sec. XIX
-419,PH-II-m-B-16377,"Casa Constantin Stere, azi sediu fundaţie culturală Orăşenească, azi Casa de",sat BUCOV; comuna BUCOV,"În Parcul de agrement ""Constantin Stere""-Bucov",1900
+419,PH-II-m-B-16377,"Casa Constantin Stere, azi sediu fundaţie culturală",sat BUCOV; comuna BUCOV,"În Parcul de agrement ""Constantin Stere""-Bucov",1900
+420,PH-II-m-B-16378,"Şcoala, ulterior Biblioteca Orăşenească, azi Casa de Cultură",oraş BUŞTENI,Bd. Libertăţii 93,"1887, reconstruită 1986"
 421,PH-II-m-B-16379,Casa Alexandru Popescu,oraş BUŞTENI,Bd. Libertăţii 236,înc. sec. XX
 422,PH-II-m-B-16380,"Casă, azi Casa de Odihnă a Preoților",oraş BUŞTENI,Bd. Libertăţii 250,înc. sec. XX
 423,PH-II-m-B-21108,Casa Gheorghe Țițeica,oraș BUȘTENI,Str. Paltinului 7,1890 - 1900
@@ -394,7 +428,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 428,PH-II-m-B- 16383.01,"Hale de producţie, azi ateliere mecanice",oraş BUŞTENI,Str. Telecabinei 47,1880
 429,PH-II-m-B- 16383.02,"Hale de producţie, azi săli de sport",oraş BUŞTENI,Str. Telecabinei 49,1920 - 1940
 430,PH-II-m-B- 16383.03,"Case de serviciu în incinta fabricii, azi locuinţe şi spaţii comerciale",oraş BUŞTENI,Str. Telecabinei 49,1920
-431,PH-II-m-B- 16383.06 16383.05,Anexe gospodăreşti ale coloniei Fabricii de Hârtie,oraş BUŞTENI,Str. Telecabinei 50,1900
+431,PH-II-m-B- 16383.06,Anexe gospodăreşti ale coloniei Fabricii de Hârtie,oraş BUŞTENI,Str. Telecabinei 50,1900
+432,PH-II-m-B- 16383.05,Blocuri muncitoreşti,oraş BUŞTENI,Str. Telecabinei 51,1880
 433,PH-II-m-B- 16383.04,Colonia muncitorească a Fabricii de Hârtie,oraş BUŞTENI,Str. Telecabinei 59,1900
 434,PH-II-m-B-16384,Vila Aura Buzescu,oraş BUŞTENI,Str. Victoriei 7,1920
 435,PH-II-a-A-16386,Ansamblul castelului Cantacuzino,oraş BUŞTENI,Str. Zamora 1,1910
@@ -405,7 +440,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 440,PH-II-a-A-16389,"Ansamblul curţii boiereşti Mavros - Cantacuzino, azi Centru de recuperare şi reabilitare neuro-psihiatrică",sat CĂTINA; comuna FLOREŞTI,153,1840 - 1842
 441,PH-II-m-A- 16389.01,Conacul Mavros-Cantacuzino,sat CĂTINA; comuna FLOREŞTI,153,1840 - 1842
 442,PH-II-m-A- 16389.02,Capelă romano-catolică,sat CĂTINA; comuna FLOREŞTI,153,1840 - 1842
-443,PH-II-m-A- 16389.03 16389.04,Turn de apă,sat CĂTINA; comuna FLOREŞTI FLOREŞTI,153,1840 - 1842
+443,PH-II-m-A- 16389.03,Turn de apă,sat CĂTINA; comuna FLOREŞTI,153,1840 - 1842
+444,PH-II-m-A- 16389.04,Parc,sat CĂTINA; comuna FLOREŞTI,153,1840 - 1842
 445,PH-II-m-B-16556,Casa Victor Boştina,sat CĂTUNU; comuna DRAJNA,,înc. sec XX
 446,PH-II-m-B-16391,Beciul casei,municipiul CÂMPINA,"Str. 1 Decembrie 1918 15, suprapus de blocuri",1861
 447,PH-II-m-B-16390,Beciul casei,municipiul CÂMPINA,"Bd. Carol I 71A, suprapus de blocuri",sf. sec. XVIII
@@ -415,7 +451,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 451,PH-II-m-A-16395,"Castelul Iulia Hasdeu, azi Muzeul Memorial ""B.P. Hasdeu""",municipiul CÂMPINA,Bd. Carol I 199,1893-1896
 452,PH-II-m-A-16396,"Vila Ştefănescu - ""Casa cu grifoni”, azi Primăria",municipiul CÂMPINA,Bd. Culturii 18,1928
 453,PH-II-m-B-16400,"Şcoala Domnească, azi anexă a Colegiului Naţional ""Nicolae Grigorescu""",municipiul CÂMPINA,Calea Doftanei 4,sf. sec. XVIII
-454,PH-II-m-B-16397,"Vila Steensballe Otto, ulterior sediul Primăriei, azi locuinţă fostului schit Slobozia",municipiul CÂMPINA,Str. Mărăşeşti 18,prima jum.sec. XX
+454,PH-II-m-B-16397,"Vila Steensballe Otto, ulterior sediul Primăriei, azi locuinţă",municipiul CÂMPINA,Str. Mărăşeşti 18,prima jum.sec. XX
+455,PH-II-m-B-16398,"Biserica ""Sf. Nicolae” a fostului schit Slobozia",municipiul CÂMPINA,Aleea Nucilor 9,"1714, ref. 1858"
 456,PH-II-m-A-16399,"Stăreţia schitului ""Slobozia”, azi casa parohială a bis. ""Sf. Nicolae""",municipiul CÂMPINA,Aleea Nucilor 9,1840
 457,PH-II-m-B-16401,Casa Lina Bărbuceanu,sat CEPTURA DE JOS; comuna CEPTURA,237,înc. sec. XIX
 458,PH-II-a-B-16403,Ansamblul rural,sat CERAŞU; comuna CERAŞU,Delimitare cf. P.U.G. avizat,sf. sec. XIX
@@ -426,7 +463,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 463,PH-II-m-B-16408,Casa Elena Gh. Macovei,sat CERAŞU; comuna CERAŞU,258,sf. sec. XIX
 464,PH-II-m-B-16409,Casa Elena Oncioiu,sat CERAŞU; comuna CERAŞU,260,sf. sec. XIX
 465,PH-II-m-B-16410,Casa Maria Manolache,sat CERAŞU; comuna CERAŞU,263,sf. sec. XIX
-466,PH-II-m-B-16411,Casa cu prăvălie Mihai I. Dobrogeanu,sat CERAŞU; comuna CERAŞU MĂNECIU,306A,1926
+466,PH-II-m-B-16411,Casa cu prăvălie Mihai I. Dobrogeanu,sat CERAŞU; comuna CERAŞU,306A,1926
+467,PH-II-a-A-16412,Mănăstirea Cheia,sat CHEIA; comuna MĂNECIU,118,1782
 468,PH-II-m-A- 16412.01,"Biserica ""Sf. Treime”",sat CHEIA; comuna MĂNECIU,118,1835 - 1839
 469,PH-II-m-A- 16412.02,"Paraclisul ""Adormirea Maicii Domnului”",sat CHEIA; comuna MĂNECIU,118,mijl. sec. XIX
 470,PH-II-m-A- 16412.03,Stăreţie,sat CHEIA; comuna MĂNECIU,118,1882
@@ -438,7 +476,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 476,PH-II-m-A- 16414.01,"Biserica ""Sf. Stelian”",sat CHIŢORANI; comuna BUCOV,f.n.,1797
 477,PH-II-m-B- 16414.02,Turn clopotniţă,sat CHIŢORANI; comuna BUCOV,f.n.,"1797, ref. sec. XIX"
 478,PH-II-m-B-16415,Casa Zenobia Pătârnac,sat COLCEAG; comuna COLGEAG,202,înc. sec. XX
-479,PH-II-m-B-16416,Casa Radu Oprea,sat COLCEAG; comuna COLGEAG,"271 Republicii, Podul Vârtos, Str.",înc. sec. XX
+479,PH-II-m-B-16416,Casa Radu Oprea,sat COLCEAG; comuna COLGEAG,271,înc. sec. XX
+480,PH-II-a-B-16417,Ansamblul urban,oraş COMARNIC,"Delimitare cf. P.U.G. avizat, Str. Republicii, Podul Vârtos, Str. Secăriei, Intrarea Gârliciului",mijl. sec. XIX - înc. sec. XX
 481,PH-II-m-B-16418,Casa Emilian Piciorea,oraş COMARNIC,"7, Cartier Ghioşeşti",1900
 482,PH-II-m-B-16419,Casa Elena Buliga,oraş COMARNIC,"22, Cartier Ghioşeşti",1910
 483,PH-II-m-B-16420,Casa George Valentin Bibescu,oraş COMARNIC,Str. Gârlici 4,1890
@@ -449,7 +488,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 488,PH-II-m-B-16424,Casa Paraschiva Creţu,oraş COMARNIC,Str. Republicii 38,1924
 489,PH-II-m-B-16425,Casa cu parter comercial Ticu,oraş COMARNIC,Str. Republicii 42-44,1890
 490,PH-II-m-B-16426,Casa cu parter comercial Bădiceanu,oraş COMARNIC,Str. Republicii 50,sf. sec. XIX
-491,PH-II-m-B-16427,Casa cu parter comercial Ion Voiculescu Marin Voiculescu,oraş COMARNIC,Str. Republicii 52,sf. sec. XIX
+491,PH-II-m-B-16427,Casa cu parter comercial Ion Voiculescu,oraş COMARNIC,Str. Republicii 52,sf. sec. XIX
+492,PH-II-m-B-16428,Casa cu parter comercial Marin Voiculescu,oraş COMARNIC,Str. Republicii 52,1920
 493,PH-II-m-B-16429,Casa cu parter comercial Iancu Comşescu,oraş COMARNIC,Str. Republicii 64,1890
 494,PH-II-m-B-16430,Casa Elena Nicolae,oraş COMARNIC,Str. Republicii 70,sf. sec. XIX
 495,PH-II-m-B-16431,Casa Elena Dumitrescu,oraş COMARNIC,Str. Republicii 72,1895
@@ -460,7 +500,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 500,PH-II-m-B-16437,Casa Al. Machedon,oraş COMARNIC,Str. Secăriei 1,sf. sec. XIX
 501,PH-II-m-B-16438,Casa dr. Constantin Crăsan,oraş COMARNIC,Str. Secăriei 14,1930
 502,PH-II-a-A-16439,"Ansamblul bisericii ""Sf. Nicolae”, ""Sf. Eustaţie Plachida”",sat CORLĂTEŞTI; comuna BERCENI,152A,1792
-503,PH-II-m-A- 16439.01 16439.02,"Biserica ""Sf. Nicolae”, ""Sf. Eustaţie Plachida”",sat CORLĂTEŞTI; comuna BERCENI comuna BERCENI,152A,1792
+503,PH-II-m-A- 16439.01,"Biserica ""Sf. Nicolae”, ""Sf. Eustaţie Plachida”",sat CORLĂTEŞTI; comuna BERCENI,152A,1792
+504,PH-II-m-A- 16439.02,Turn clopotniţă,sat CORLĂTEŞTI; comuna BERCENI,152A,1792
 505,PH-II-m-B-16440,Casa Ana Burlacu,sat CORNU DE JOS; comuna CORNU,Str. Malul Vadului 998,1900
 506,PH-II-m-B-16441,Casa Vasile Marinescu,sat CORNU DE JOS; comuna CORNU,Str. Provinceanu 419,1920
 507,PH-II-m-B-16443,Casa Paraschiva Istrate,sat CORNU DE SUS; comuna CORNU,Str. Independenţei 150,1919
@@ -471,7 +512,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 512,PH-II-m-B-16449,Casa cu prăvălie Zamfira Stănescu,sat COSMINA DE SUS; comuna COSMINELE,81,1932
 513,PH-II-m-B-16450,Casa Viorel Sultan,sat COSMINA DE SUS; comuna COSMINELE,110,1931
 514,PH-II-m-B-16452,Casa cu demisol comercial Mihail Alexandrescu,sat COSMINA DE SUS; comuna COSMINELE,159,sf. sec. XIX
-515,PH-II-m-B-16451,Casa Anica Simache,sat COSMINA DE SUS; comuna COSMINELE comuna COSMINELE,200,înc. sec. XX
+515,PH-II-m-B-16451,Casa Anica Simache,sat COSMINA DE SUS; comuna COSMINELE,200,înc. sec. XX
+516,PH-II-m-B-16454,Casa Ecaterina Peneş,sat COSMINA DE SUS; comuna COSMINELE,203,înc. sec. XX
 517,PH-II-m-B-16455,Casa Maria Săndulescu,sat COSMINA DE SUS; comuna COSMINELE,205,înc. sec. XX
 518,PH-II-m-B-16446,Casa Ion Dima,sat COSMINA DE SUS; comuna COSMINELE,217,1909
 519,PH-II-m-B-16456,Casa Niculina Manolache,sat CURCUBEU; comuna BALTA DOAMNEI,21,sf. sec. XIX
@@ -482,7 +524,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 524,PH-II-m-B-16463,Casa Nicolae Burduşel,sat DRAJNA DE SUS; comuna DRAJNA,Str. Neagoe Basarab 213,1919
 525,PH-II-m-B-16462,"Casa Aritina Lupea, azi sediu firmă",sat DRAJNA DE SUS; comuna DRAJNA,Str. Negoiță Pântea 1,1909
 526,PH-II-m-B-16461,Casa Elisabeta Pântea,sat DRAJNA DE SUS; comuna DRAJNA,Str. Negoiță Pântea 5,sf. sec. XIX - corp A; 1937 - corp B
-527,PH-II-m-B-16460,Casa Ileana Pântea,sat DRAJNA DE SUS; comuna DRAJNA comuna DRAJNA,Str. Negoiță Pântea 15,sf. sec. XIX
+527,PH-II-m-B-16460,Casa Ileana Pântea,sat DRAJNA DE SUS; comuna DRAJNA,Str. Negoiță Pântea 15,sf. sec. XIX
+528,PH-II-m-B-16467,Casa Stelian Tănăsescu,sat DRAJNA DE SUS; comuna DRAJNA,Str. Tărgului 10,1928
 529,PH-II-m-B-16466,Casa Ion Tiţa,sat DRAJNA DE SUS; comuna DRAJNA,Str. Târgului 14,1909
 530,PH-II-m-A-16468,Conacul Şerban Cantacuzino,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,f.n.,"1658, transf. sec. XIX"
 531,PH-II-m-B-16469,Casa Ştefan Savu,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,85,1916
@@ -494,7 +537,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 537,PH-II-m-B-16475,Casa Nicolae Croitoru,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,265,1925
 538,PH-II-m-B-20207,Casa Constantin Nicodim,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,277,1930
 539,PH-II-m-B-16476,Casa Ion Mirică,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,280,1920
-540,PH-II-m-B-16477,Casa Mihail Cioabă,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI comuna DRĂGĂNEŞTI,317,1928
+540,PH-II-m-B-16477,Casa Mihail Cioabă,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,317,1928
+541,PH-II-m-B-16478,Casa Virginia Nicodim,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,380,1920
 542,PH-II-m-B-16479,Anexă gospodărească (fânar) Ion Călugăru,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,396,1938
 543,PH-II-m-B-16480,Casa Dumitra Cristea,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,398,1930
 544,PH-II-a-B-16481,Gospodăria Dănuţ Ursu,sat DRĂGĂNEŞTI; comuna DRĂGĂNEŞTI,399,1926
@@ -506,7 +550,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 550,PH-II-m-B- 16482.03,Zid de incintă (ruină),sat FĂGETU; comuna GURA VITIOAREI,388,sec. XVIII
 551,PH-II-m-B-16484,"Ruinele bisericii ""Adormirea Maicii Domnului"" a Mazililor",sat FÂNTÂNELE; comuna FÂNTÂNELE,145,1786
 552,PH-II-m-B-16483,"Biserica ""Adormirea Maicii Domnului"" a Ungurenilor",sat FÂNTÂNELE; comuna FÂNTÂNELE,639K,1735 - 1750
-553,PH-II-m-A-16485,"Biserica ""Sf. Trei Ierarhi”",sat FILIPEŞTII DE PĂDURE; comuna,156,1688
+553,PH-II-m-A-16485,"Biserica ""Sf. Trei Ierarhi”",sat FILIPEŞTII DE PĂDURE; comuna FILIPEŞTII DE PĂDURE,156,1688
 554,PH-II-m-A-16486,Ruinele conacului Matei şi Toma Cantacuzino,sat FILIPEŞTII DE PĂDURE; comuna FILIPEŞTII DE PĂDURE,342,1680 - 1690
 555,PH-II-m-B-16488,Moara veche de apă (ruine),sat FILIPEŞTII DE TÂRG; comuna FILIPEŞTII DE TÂRG,832A,sf. sec. XVIII
 556,PH-II-a-A-16489,Curtea boierească a lui Pană Filipescu,sat FILIPEŞTII DE TÂRG; comuna FILIPEŞTII DE TÂRG,838,1650
@@ -515,7 +559,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 559,PH-II-m-A-16487,Ruinele Palatului postelnicului Constantin Cantacuzino,sat FILIPEŞTII DE TÂRG; comuna FILIPEŞTII DE TÂRG,825,1633 - 1641
 560,PH-II-a-A-16490,Curtea lui Gheorghe Grigore Cantacuzino-Nababul,sat FLOREŞTI; comuna FLOREŞTI,342A,1910 - 1916
 561,PH-II-m-A- 16490.01,"Palatul ""Micul Trianon”-ruine",sat FLOREŞTI; comuna FLOREŞTI,342B,1910 - 1916
-562,PH-II-m-A- 16490.02 16490.03,Turn de apă,sat FLOREŞTI; comuna FLOREŞTI FLOREŞTI,342A,1910 - 1916
+562,PH-II-m-A- 16490.02,Turn de apă,sat FLOREŞTI; comuna FLOREŞTI,342A,1910 - 1916
+563,PH-II-m-A- 16490.03,Parc,sat FLOREŞTI; comuna FLOREŞTI,342A,1910 - 1916
 564,PH-II-m-A- 16490.04,Zid de incintă,sat FLOREŞTI; comuna FLOREŞTI,342A,1910 - 1916
 565,PH-II-m-A-16491,"Biserica ""Sf. Treime”, ""Naşterea Domnului”, cu cripta familiei vornicului Grigore Cantacuzino",sat FLOREŞTI; comuna FLOREŞTI,342,1887
 566,PH-II-m-B-16493,Casa Siţa Mustăţea Pufulete,sat FULGA DE JOS; comuna FULGA,188,înc. sec. XX
@@ -526,7 +571,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 571,PH-II-m-B-16497,Casa Ion Baciu,sat GHEABA; comuna MĂNECIU,505,sf. sec. XIX - înc. sec. XX
 572,PH-II-m-B-16498,Casa Elena Cârstocea,sat GHEABA; comuna MĂNECIU,654,sf. sec. XIX - înc. sec. XX
 573,PH-II-m-B-16500,Casa cu prăvălie Nicolae Matei,sat GHEABA; comuna MĂNECIU,Str. Gării 416,1916
-574,PH-II-m-B-16501,Casa Eugenia Prunuţă Piatră,sat GHEABA; comuna MĂNECIU comuna GHERGHIŢA,Str. Tabla Buţii 477,sf. sec. XIX - înc. sec. XX
+574,PH-II-m-B-16501,Casa Eugenia Prunuţă,sat GHEABA; comuna MĂNECIU,Str. Tabla Buţii 477,sf. sec. XIX - înc. sec. XX
+575,PH-II-m-A-16502,"Biserica ""Sf. Dumitru”- de Piatră",sat GHERGHIŢA; comuna GHERGHIŢA,126,"1705, ref. 1802 şi 1888"
 576,PH-II-m-A-16503,"Biserica ""Sf. Procopie”- Domnească",sat GHERGHIŢA; comuna GHERGHIŢA,230,"1641, ref. 1895"
 577,PH-II-a-A-16504,Mănăstirea Ghighiu,sat GHIGHIU; comuna BĂRCĂNEŞTI,1A,"1817, 1856 - 1866"
 578,PH-II-m-A- 16504.01,"Biserica Mare ""Izvorul Tămăduirii”",sat GHIGHIU; comuna BĂRCĂNEŞTI,1A,1866
@@ -538,7 +584,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 584,PH-II-m-B-16506,"Casa Rosine Stănescu, prima şcoală din Slănic",localitate componentă GROŞANI; oraş SLĂNIC,Str. Caragiale Ion Luca 51,1883 - 1884
 585,PH-II-m-B-16507,Casa cu prăvălie Anişoara Drăgoi,localitate componentă GROŞANI; oraş SLĂNIC,Str. Caragiale Ion Luca 53,1918
 586,PH-II-m-B-16508,Casa cu prăvălie Valeriu Popescu,localitate componentă GROŞANI; oraş SLĂNIC,Str. Caragiale Ion Luca 75,înc. sec. XX
-587,PH-II-m-B-16510,Casa Alexandru Ciurilă,sat HOMORÂCIU; comuna IZVOARELE comuna IZVOARELE,65,sf. sec. XIX
+587,PH-II-m-B-16510,Casa Alexandru Ciurilă,sat HOMORÂCIU; comuna IZVOARELE,65,sf. sec. XIX
+588,PH-II-m-B-16511,Casa Gheorghe O. Ene,sat HOMORÂCIU; comuna IZVOARELE,126,sf. sec. XIX
 589,PH-II-m-B-16512,"Casa Dumitru Ionescu, azi Muzeu Sătesc",sat HOMORÂCIU; comuna IZVOARELE,158,prima jum. sec. XIX
 590,PH-II-m-A-16513,"Biserica ""Adormirea Maicii Domnului”",sat HOMORÂCIU; comuna IZVOARELE,181,"1743 - 1744, 1877- abside laterale"
 591,PH-II-m-B-16509,Casa Anghel Ciocea,sat HOMORÂCIU; comuna IZVOARELE,611,sf. sec. XIX
@@ -549,7 +596,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 596,PH-II-m-B-16518,Casa Maria Ciobanu,sat IZVOARELE; comuna IZVOARELE,502,sf. sec. XIX
 597,PH-II-m-B-16519,Casa Sevasta Zârnă,sat IZVOARELE; comuna IZVOARELE,570,înc. sec. XX
 598,PH-II-m-B-16520,Casa Ana Onea,sat IZVOARELE; comuna IZVOARELE,584,înc. sec. XX
-599,PH-II-m-A-16521,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil” schitului Jercălăi",localitatea JERCĂLĂI; a oraş URLAŢI JUGURENI,1,"1731, strămutări 1928, 1954"
+599,PH-II-m-A-16521,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil” schitului Jercălăi",localitatea JERCĂLĂI; a oraş URLAŢI,1,"1731, strămutări 1928, 1954"
+600,PH-II-m-B-16522,Casa Ana Mihai,sat JUGURENI; comuna JUGURENI,45,prima jum. sec. XIX
 601,PH-II-m-B-16523,Casa Elena Constantinescu,sat JUGURENI; comuna JUGURENI,45,înc. sec. XX
 602,PH-II-m-A-16524,"Biserica de lemn ""Sf. Gheorghe”",sat LĂPOŞEL; comuna LAPOŞ,În cimitir,1823
 603,PH-II-m-B-16526,Casa Aurica Iancu,sat LUNCA MARE; comuna ŞOTRILE,6,1920
@@ -559,7 +607,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 607,PH-II-m-B-16530,Casa Petre Crăciun,sat MARGINEA PĂDURII; comuna JUGURENI,114,sf. sec. XIX
 608,PH-II-m-A-16531,"Biserica ""Sf. Treime”",sat MĂGURENI; comuna MĂGURENI,939,"1671-1674, ref. mijl. sec. XIX, 1839, 1995"
 609,PH-II-m-A-16532,Ruinele conacului Drăghici Cantacuzino,sat MĂGURENI; comuna MĂGURENI,967-978,1663 - 1670
-610,PH-II-a-A-16533,Mănăstirea Suzana,sat MĂNĂSTIREA SUZANA; comuna,1-24,"1740, ref. 1840, 1880 - 1882"
+610,PH-II-a-A-16533,Mănăstirea Suzana,sat MĂNĂSTIREA SUZANA; comuna MĂNECIU,1-24,"1740, ref. 1840, 1880 - 1882"
 611,PH-II-m-A- 16533.01,"Biserica ""Sf. Nicolae”",sat MĂNĂSTIREA SUZANA; comuna MĂNECIU,1-24,"1840, 1880 - 1882"
 612,PH-II-m-A- 16533.02,"Paraclisul ""Acoperământul Maicii Domnului”",sat MĂNĂSTIREA SUZANA; comuna MĂNECIU,1-24,1880 - 1882
 613,PH-II-m-A- 16533.03,Chilii în incintă,sat MĂNĂSTIREA SUZANA; comuna MĂNECIU,1-24,cca. 1840
@@ -567,7 +615,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 615,PH-II-m-B-16534,Casa Gheorghe Angelescu,sat MĂNECIU PĂMÂNTENI; comuna MĂNECIU,Str. Principală 172,sf. sec. XIX
 616,PH-II-m-B-16535,Casa Ion Popescu,sat MĂNECIU PĂMÂNTENI; comuna MĂNECIU,Str. Principală 216,sf. sec. XIX - înc.sec. XX
 617,PH-II-m-B-16536,Casa Maria Ionescu,sat MĂNECIU UNGURENI; comuna MĂNECIU,Str. Costeşti 307,înc. sec. XX
-618,PH-II-m-B-16537,Casa Ioana Badea,sat MĂNECIU UNGURENI; comuna MĂNECIU UNGURENI; comuna,Str. Tabla Buţii 15,sf. sec. XIX - înc. sec. XX
+618,PH-II-m-B-16537,Casa Ioana Badea,sat MĂNECIU UNGURENI; comuna MĂNECIU,Str. Tabla Buţii 15,sf. sec. XIX - înc. sec. XX
+619,PH-II-m-B-16538,Casa Neonila Pisu,sat MĂNECIU UNGURENI; comuna MĂNECIU,Str. Tabla Buţii 269,sf. sec. XIX - înc. sec. XX
 620,PH-II-m-A-16540,"Biserica ""Adormirea Maicii Domnului ”",sat MĂNEŞTI; comuna MĂNEŞTI,341,1892
 621,PH-II-a-A-16539,Curtea Văcărescu-Calimachi,sat MĂNEŞTI; comuna MĂNEŞTI,342,1882 - 1892
 622,PH-II-m-A- 16539.01,Castelul Văcărescu-Calimachi,sat MĂNEŞTI; comuna MĂNEŞTI,342,1882 - 1892
@@ -578,7 +627,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 627,PH-II-a-A-16542,Fosta mănăstire Mislea,sat MISLEA; comuna SCORŢENI,Str. Radu Paisie 14,sec. XVI
 628,PH-II-m-A- 16542.01,Casa domnească (beciuri),sat MISLEA; comuna SCORŢENI,Str. Radu Paisie 14,sec. XVI
 629,PH-II-m-A- 16542.02,Ruine chilii de pe latura de est a incintei,sat MISLEA; comuna SCORŢENI,Str. Radu Paisie 14,sec. XVI
-630,PH-II-m-A- 16542.03,Zidurile celor două incinte Dumitru”,sat MISLEA; comuna SCORŢENI CHIOJDEANCA,Str. Radu Paisie 14,sec. XVI
+630,PH-II-m-A- 16542.03,Zidurile celor două incinte,sat MISLEA; comuna SCORŢENI,Str. Radu Paisie 14,sec. XVI
+631,PH-II-m-A-16543,"Biserica de lemn ""Sf. Dumitru”",sat NUCET; comuna CHIOJDEANCA,145,1774
 632,PH-II-a-B-16545,Ansamblul rural,sat NUCŞOARA DE JOS; comuna POSEŞTI,Delimitare cf. PUG avizat,a doua jum. a sec. XIX - înc. sec. XX
 633,PH-II-m-B-16546,Casa Ilie Stoica,sat NUCŞOARA DE JOS; comuna POSEŞTI,95,1918
 634,PH-II-m-B-16547,Casa Nicolae Corcodel,sat NUCŞOARA DE JOS; comuna POSEŞTI,212,1910
@@ -590,7 +640,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 640,PH-II-m-A-16552,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat ODĂILE; comuna PUCHENII MARI,"144, în cimitirul ""Odăi""",1742
 641,PH-II-a-B-16554,Ansamblul rural,sat OGRETIN; comuna DRAJNA,Delimitare cf. PUG avizat,înc. sec. XIX - înc. sec. XX
 642,PH-II-m-B-16562,Casa Eduard Tănase,sat OGRETIN; comuna DRAJNA,Str. Lumini 1,1907
-643,PH-II-m-B-16561,"Casa Olimpia Apostolescu Dumitru"", ""Sf. Paraschiva”",sat OGRETIN; comuna DRAJNA DRAJNA,Str. Lumini 17,sf. sec. XIX
+643,PH-II-m-B-16561,Casa Olimpia Apostolescu,sat OGRETIN; comuna DRAJNA,Str. Lumini 17,sf. sec. XIX
+644,PH-II-m-B-16553,"Ruinele bisericii ""Sf. Dumitru"", ""Sf. Paraschiva”",sat OGRETIN; comuna DRAJNA,"Str. Sf. Dimitrie 1, , în cimitir",1817
 645,PH-II-m-B-16555,Casa Genţiana Mihăilescu,sat OGRETIN; comuna DRAJNA,Str. Stroe Buzescu 54,mijl. sec. XIX
 646,PH-II-m-B-16563,Casa Aneta Rădulescu,sat OGRETIN; comuna DRAJNA,Str. Stroe Buzescu 57,înc. sec. XX
 647,PH-II-m-B-16560,Casa Alexandrina Tatai,sat OGRETIN; comuna DRAJNA,Str. Stroe Buzescu 103,sf. sec. XVIII
@@ -602,7 +653,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 653,PH-II-m-B-16566,Casa Mihai Petrache,sat OSTROVU; comuna ALUNIŞ,180,sf. sec. XIX
 654,PH-II-m-B-16567,Casa Ioana D. Crăciun,sat OSTROVU; comuna ALUNIŞ,267,înc. sec. XX
 655,PH-II-m-B-16568,Casa Constantin Savu,sat OSTROVU; comuna ALUNIŞ,275,înc. sec. XX
-656,PH-II-m-A-16569,"Biserica ""Schimbarea la Faţă”, "" Sf. Dumitru”",sat PAREPA; comuna COLCEAG PĂULEŞTI,În cimitir,"înc. sec. XVIII, ref. 1884"
+656,PH-II-m-A-16569,"Biserica ""Schimbarea la Faţă”, "" Sf. Dumitru”",sat PAREPA; comuna COLCEAG,În cimitir,"înc. sec. XVIII, ref. 1884"
+657,PH-II-m-B-16570,Casa Toma T. Socolescu,sat PĂULEŞTI; comuna PĂULEŞTI,507,înc. sec. XX
 658,PH-II-m-B-16571,"Ruinele bisericii ""Sf. Visarion”",sat PLOIEŞTIORI; comuna BLEJOI,"În câmp, la est de bis. ""Sf. Dumitru"", lângă conacul Cantilli, fost CAP",sec. XVII - XVIII
 659,PH-II-m-B-16572,"Biserica de lemn ""Sf. Atanasie şi Chiril”",sat PLOPU; comuna PLOPU,"180, în cimitir",prima jum. sec. XIX
 660,PH-II-m-A-16573,"Schitul rupestru ""La Chilii”",sat PODGORIA; comuna TĂTARU,Pe Valea Sărăţica,sf. sec. XVI - înc. sec. XVII
@@ -612,7 +664,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 664,PH-II-m-B-16577,Casa Aurel Petrache,sat PODGORIA; comuna TĂTARU,137,1927
 665,PH-II-m-B-16578,"Fostul schit ""Poiana""",sat POIANA CÂMPINA; comuna POIANA CÂMPINA,236,sec. XVII - XVIII
 666,PH-II-m-B- 16578.03,Turn clopotniţă,sat POIANA CÂMPINA; comuna POIANA CÂMPINA,236,sec. XVII - XVIII
-667,PH-II-m-B- 16578.04,Zid de incintă,sat POIANA CÂMPINA; comuna POIANA CÂMPINA comuna BĂTRÂNI,236,sec. XVII - XVIII
+667,PH-II-m-B- 16578.04,Zid de incintă,sat POIANA CÂMPINA; comuna POIANA CÂMPINA,236,sec. XVII - XVIII
+668,PH-II-m-B-16579,Casa Sultana Palavescu,sat POIANA MARE; comuna BĂTRÂNI,6,înc. sec. XX
 669,PH-II-m-B-16580,Casa Stelian Ceapă,sat POIANA MARE; comuna BĂTRÂNI,9,înc. sec. XX
 670,PH-II-m-B-16581,Casa Vasile Tiu,sat POIANA MARE; comuna BĂTRÂNI,38,înc. sec. XX
 671,PH-II-m-B-16582,Casa Ion Mâzgoiu,sat POIANA MARE; comuna BĂTRÂNI,43,înc. sec. XX
@@ -623,7 +676,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 676,PH-II-m-B-16587,Ziduri de sprijin din piatră,sat POIANA MARE; comuna BĂTRÂNI,71-73,înc. sec. XX
 677,PH-II-m-A-16589,"Biserica ""Sf. Treime” a fostului schit Lespezi",localitatea POSADA; oraş COMARNIC,f.n. sector Cartier Podul lui Neag,"1661 - 1675, refaceri 1798, 1819"
 678,PH-II-m-B-16590,Casa cu prăvălie Alexandru Andreescu,sat POSEŞTII UNGURENI; comuna POSEŞTI,104,1880
-679,PH-II-m-B-16591,Casa cu prăvălie Victoria Drăgulinescu,sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI PĂMÂNTENI; comuna,18,1910
+679,PH-II-m-B-16591,Casa cu prăvălie Victoria Drăgulinescu,sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI,18,1910
+680,PH-II-m-B-16592,Casa Vasile P. Marcu,sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI,25,1890
 681,PH-II-m-B-16594,Casa Alexandru I. Borş,sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI,52,1918
 682,PH-II-m-B-16595,Casa Nicolae Sersea,sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI,58,sf. sec. XIX
 683,PH-II-m-A-16596,"Biserica de lemn ""Sf. Voievozi”- din Vârf",sat POSEŞTII- PĂMÂNTENI; comuna POSEŞTI,70,1732
@@ -632,7 +686,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 686,PH-II-m-B-16599,Casa Safta Rusu,localitate componentă PRĂJANI; oraş SLĂNIC,Calea Ploieşti 234,sf. sec. XIX
 687,PH-II-m-B-16600,Casa cu prăvălie Maria Alexe,localitate componentă PRĂJANI; oraş SLĂNIC,Calea Ploieşti 236,1925 - 1926
 688,PH-II-m-A-16601,"Biserica ""Adormirea Maicii Domnului” a fostului schit Proviţa",sat PROVIŢA DE SUS; comuna PROVIŢA DE SUS,75,"1620 - 1629, ref. 1787, 1835"
-689,PH-II-m-A-16602,"Biserica ""Sf. Gheorghe”",sat PUCHENII MARI; comuna PUCHENII,403,1855 - 1861
+689,PH-II-m-A-16602,"Biserica ""Sf. Gheorghe”",sat PUCHENII MARI; comuna PUCHENII MARI,403,1855 - 1861
 690,PH-II-m-A-16603,"Biserica ""Sf. Nicolae”",sat PUCHENII MOŞNENI; comuna PUCHENII MARI,"429, în cimitir",1818
 691,PH-II-m-A-16604,"Biserica ""Sf. Nicolae”",sat RÂFOV; comuna RÂFOV,22,1742
 692,PH-II-m-A-16605,Conacul Costache Cantacuzino,sat RÂFOV; comuna RÂFOV,30,1750
@@ -643,7 +697,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 697,PH-II-m-A- 16606.04,Zid de incintă,sat SÂNGERU; comuna SÂNGERU,85,1793
 698,PH-II-a-A-16607,Schitul Crasna,sat SCHIULEŞTI; comuna IZVOARELE,282A,"înc. sec. XVIII, 1824 -1828"
 699,PH-II-m-A- 16607.01,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat SCHIULEŞTI; comuna IZVOARELE,282A,1824 - 1828
-700,PH-II-m-A- 16607.02 16607.03,Turn clopotniţă,sat SCHIULEŞTI; comuna IZVOARELE comuna IZVOARELE,282A,1824 - 1828
+700,PH-II-m-A- 16607.02,Turn clopotniţă,sat SCHIULEŞTI; comuna IZVOARELE,282A,1824 - 1828
+701,PH-II-m-A- 16607.03,Fântână,sat SCHIULEŞTI; comuna IZVOARELE,282A,1824 - 1828
 702,PH-II-m-A-16608,"Biserica ""Cuvioasa Paraschiva”",sat SCORŢENI; comuna SCORŢENI,Str. Valea Scorţii 9,"1730, reconstruită 1802"
 703,PH-II-m-A-16610,"Biserica de lemn ""Naşterea Maicii Domnului”",sat SCURTEŞTI; comuna ŞTEFEŞTI,"142A, în cimitir",1780
 704,PH-II-m-B-16622,Casa Aurelia Mărgărit,sat SECĂRIA; comuna SECĂRIA,Str. Bisericii 1,sf. sec. XIX - înc. sec. XX
@@ -655,7 +710,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 710,PH-II-m-B-16611,Casa Dumitru Păişan,sat SECĂRIA; comuna SECĂRIA,Str. Valea Paisului 2,1924
 711,PH-II-m-B-16616,Casa Gheorghe Stoica,sat SECĂRIA; comuna SECĂRIA,Str. Valea Paisului 5,înc. sec. XIX
 712,PH-II-m-A-16624,Casa Rusescu,localitatea SECIU; oraş BOLDEŞTI SCĂENI,67,1826
-713,PH-II-m-B-16625,"Biserica ""Sf. Treime”",localitatea SECIU; oraş BOLDEŞTI SCĂENI ŞOTRILE,375,"sec. XVIII, ref. 1802"
+713,PH-II-m-B-16625,"Biserica ""Sf. Treime”",localitatea SECIU; oraş BOLDEŞTI SCĂENI,375,"sec. XVIII, ref. 1802"
+714,PH-II-m-B-16626,Casa Steliana Stanciu,sat SECIURI; comuna ŞOTRILE,39,1920
 715,PH-II-m-B-16627,Casa Vasile Diaconu,sat SECIURI; comuna ŞOTRILE,117,1940
 716,PH-II-m-B-16630,Anexa gospodărească Gheorghe Buzeţeanu,sat SECIURI; comuna ŞOTRILE,137,sf. sec. XIX
 717,PH-II-m-B-16629,Casa Antim Buzăţeanu,sat SECIURI; comuna ŞOTRILE,138,1931
@@ -668,6 +724,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 724,PH-II-m-B-16637,Vila Petre Negulescu,oraş SINAIA,Str. Aosta 16,înc. sec. XX
 725,PH-II-m-B-16638,Vila Gheorghe Enescu,oraş SINAIA,Str. Aosta 17,înc. sec. XX
 726,PH-II-m-B-16639,"Vila ""Doina Peleşului""",oraş SINAIA,Str. Aosta 27,înc. sec. XX
+727,PH-II-m-B-16640,Casa Dimitrie Sfetescu,oraş SINAIA,Aleea Arinilor 2,1890
 728,PH-II-m-B-16641,"Casa Ion Bălan, azi birouri Primărie",oraş SINAIA,Aleea Arinilor 2A,1920
 729,PH-II-m-B-16642,Casa Paraschiva Demetrescu,oraş SINAIA,Str. Avram Iancu 8,sf. sec. XIX
 730,PH-II-m-B-16643,Vila Filippo Dozzi,oraş SINAIA,Str. Avram Iancu 35,sf. sec. XIX
@@ -680,6 +737,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 737,PH-II-m-B-16650,Casa Dumitru Economu,oraş SINAIA,Str. Avram Iancu 50,sf. sec. XIX
 738,PH-II-m-B-16651,Casa Vlad Bădulescu,oraş SINAIA,Str. Avram Iancu 52,sf. sec. XIX
 739,PH-II-m-B-16652,Casa Constantin Drăghici,oraş SINAIA,Str. Avram Iancu 54B,sf. sec. XIX
+740,PH-II-m-B-16653,Vila Dumitru Juncu,oraş SINAIA,Str. Avram Iancu 57,înc. sec. XX
 741,PH-II-m-B-16654,Casa Constantin Dobrogeanu- Gherea,oraş SINAIA,Str. Caragiale Ion Luca 3,sf. sec. XIX - înc. sec. XX
 742,PH-II-m-A-16655,Cazinoul Sinaia,oraş SINAIA,Bd. Carol I 2,1912 - 1913
 743,PH-II-m-A-16656,Hotel Caraiman,oraş SINAIA,Bd. Carol I 4,1911
@@ -690,7 +748,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 748,PH-II-m-B-16661,"Casa Albert Litman, azi Club Sportiv ""Voinţa""",oraş SINAIA,Bd. Carol I 42,1890
 749,PH-II-m-B-16662,Casa George Ionescu,oraş SINAIA,Bd. Carol I 43,1881
 750,PH-II-m-B-16663,Casa Radu Mavrodineanu,oraş SINAIA,Bd. Carol I 44,sf. sec. XIX
-751,PH-II-m-B-16664,"Casa Slătineanu, azi B.C.R. filiala Sinaia Copii Sinaia",- oraş SINAIA,Bd. Carol I 49,sf. sec. XIX
+751,PH-II-m-B-16664,"Casa Slătineanu, azi B.C.R. filiala Sinaia",- oraş SINAIA,Bd. Carol I 49,sf. sec. XIX
+752,PH-II-m-B-16665,"Casă, azi secţie a Spitalului Copii Sinaia",de oraş SINAIA,Str. Cuza Vodă 1,1910
 753,PH-II-m-B-16666,"Casa Pencovici, azi Spitalul Copii Sinaia",de oraş SINAIA,Str. Cuza Vodă 1,înc. sec. XX
 754,PH-II-m-B-16667,Casa Viorica Kogălniceanu,oraş SINAIA,Str. Cuza Vodă 5,sf. sec. XIX
 755,PH-II-m-B-16668,Casa Boteanu,oraş SINAIA,Str. Cuza Vodă 14,înc. sec. XX
@@ -703,6 +762,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 762,PH-II-m-A- 16673.02,Gara Sinaia,oraş SINAIA,Piaţa Democraţiei 2,1930 - 1940
 763,PH-II-m-A-16674,Casa istoricului Nicolae Iorga,oraş SINAIA,Str. Doja Gheorghe 1,1918
 764,PH-II-m-B-16675,"Vila ""Cerbul""",oraş SINAIA,Str. Doja Gheorghe 28,înc. sec. XX
+765,PH-II-m-B-16694,"Vila ""1 Mai”, azi Hotel ""Intim""",oraş SINAIA,Str. Furnica 1,înc. sec. XX
 766,PH-II-m-B-16676,"Casa Ion Drosescu, azi Casa de Copii",oraş SINAIA,Str. Furnica 5,înc. sec. XX
 767,PH-II-m-B-16677,Vila Vasilescu-Duca,oraş SINAIA,Str. Furnica 18,înc. sec. XX
 768,PH-II-m-B-16678,Vila Vasilescu-Duca,oraş SINAIA,Str. Furnica 20,1920
@@ -715,6 +775,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 775,PH-II-m-B-16685,"Vila Nicolae Angelescu - Vila ""Stejarul""",oraş SINAIA,Str. Kogălniceanu Mihail 11,1930
 776,PH-II-m-B-16686,Vila Statie Ciortan,oraş SINAIA,Str. Kogălniceanu Mihail 16,1920
 777,PH-II-m-B-16687,Vila Alexandrina Angelescu,oraş SINAIA,Str. Kogălniceanu Mihail 22A,1900
+778,PH-II-m-B-16688,Casa Nicolae Cristescu,oraş SINAIA,Str. Kogălniceanu Mihail 24,înc. sec. XX
 779,PH-II-m-B-16689,Vila Rudolf Knopp,oraş SINAIA,Str. Kogălniceanu Mihail 32,1930
 780,PH-II-m-B-16690,"Vila Simu - Vila ""Retezat""",oraş SINAIA,Str. Kogălniceanu Mihail 68,1903 – 1911
 781,PH-II-a-A-16691,Mănăstirea Sinaia,oraş SINAIA,Str. Mănăstirii 2A,1690 - 1695
@@ -726,7 +787,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 787,PH-II-m-B-16692,"Vila Elena Mironescu, azi Casa de copii Sinaia",oraş SINAIA,Str. Mănăstirii 11A,1895
 788,PH-II-m-B-16693,"Vila ""Constantin Buşilă""",oraş SINAIA,Str. Mănăstirii 13,înc. sec. XX
 789,PH-II-m-A-16695,"Casa compozitorului George Enescu - Vila ""Luminiş”",oraş SINAIA,Aleea Menuhin Yehudi 2,1923 - 1926
-790,PH-II-a-A-16696 16696.01,Ansamblul Castelului Peleş,oraş SINAIA,Aleea Peleşului 2,"1873 - 1883(etapa I), 1896 1914 (etapa II) 1914 (etapa II)"
+790,PH-II-a-A-16696,Ansamblul Castelului Peleş,oraş SINAIA,Aleea Peleşului 2,"1873 - 1883(etapa I), 1896 1914 (etapa II)"
+791,PH-II-m-A- 16696.01,Castelul Peleş,oraş SINAIA,Aleea Peleşului 2,"1873 - 1883 (etapa I), 1896 1914 (etapa II)"
 792,PH-II-m-A- 16696.02,Castelul Pelişor,oraş SINAIA,Aleea Peleşului 2,1899 - 1903
 793,PH-II-m-A- 16696.03,Castelul Foişor (Casa de vânătoare),oraş SINAIA,Aleea Peleşului 2,1896 - 1914
 794,PH-II-m-A- 16696.04,Vila Economat (locuinţe personal),oraş SINAIA,Aleea Peleşului 2,1899 - 1903
@@ -739,6 +801,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 801,PH-II-m-A- 16696.11,Vila Casa Nouă,oraş SINAIA,Aleea Peleşului 2,1896 - 1914
 802,PH-II-m-A- 16696.12,"Vilele A, B, C (Reşedinţa corpului de gardă)",oraş SINAIA,Aleea Peleşului 2,1899 - 1903
 803,PH-II-m-A- 16696.13,Parc,oraş SINAIA,Aleea Peleşului 2,1896 - 1914
+804,PH-II-m-B-16697,Casa Dan Trif,oraş SINAIA,Str. Schiorilor 14,1885
 805,PH-II-m-B-16698,"Vila Crainic, azi anexă a Spitalului de Copii",oraş SINAIA,Str. Telecabinei 3,înc. sec. XX
 806,PH-II-m-B-16699,Capelă romano-catolică,oraş SINAIA,Str. Telecabinei 5,sf. sec. XIX
 807,PH-II-m-B-16700,Casa Vasile Boerescu,oraş SINAIA,Str. Vlahuţă Alexandru 1,sf. sec. XIX
@@ -751,6 +814,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 814,PH-II-m-A-16707,"Casa Cămărăşiei (Cancelaria Salinei), azi Muzeul Sării",oraş SLĂNIC,Str. 23 August 19,înc. sec. XIX
 815,PH-II-m-B-16708,Casa cu prăvălie Ştefan R. Anghel - Poşta veche,oraş SLĂNIC,Str. 23 August 29,sf. sec. XIX
 816,PH-II-m-B-16710,Casa cu prăvălie Gheorghe Ştefănescu,oraş SLĂNIC,Str. Caragiale Ion Luca 1,sf. sec. XIX
+817,PH-II-m-A-16711,Casa cu prăvălie Elena Mosor,oraş SLĂNIC,Str. Coşbuc George 1,sf. sec. XIX
 818,PH-II-m-B-16712,Conacul Teoharescu,oraş SLĂNIC,Str. Coşbuc George 6,sf. sec. XIX
 819,PH-II-m-B-16713,Casa Cristina Nestorescu,oraş SLĂNIC,Piaţa Cuza Vodă 8,1924
 820,PH-II-m-B-16714,Casa Andreea Patou,oraş SLĂNIC,Piaţa Cuza Vodă 10,1924
@@ -762,7 +826,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 826,PH-II-m-B-16720,Casa Ştefania Cristescu,oraş SLĂNIC,Str. Slănicului 19,1900
 827,PH-II-m-B-16721,Casa Vasilica Pătraşcu,oraş SLĂNIC,Str. Vladimirescu Tudor 5,prima jum. a sec. XIX
 828,PH-II-s-B-16722,Ansamblu rural,sat SLON; comuna CERAŞU,Delimitare cf. PUG avizat,mijl. sec. XIX - mijl. sec. XX
-829,PH-II-m-B-16723,Casa Nicolae Duca,sat SLON; comuna CERAŞU CERAŞU,30C,1924
+829,PH-II-m-B-16723,Casa Nicolae Duca,sat SLON; comuna CERAŞU,30C,1924
+830,PH-II-m-B-16724,Casa Ion Crăciun,sat SLON; comuna CERAŞU,88,sf. sec. XIX
 831,PH-II-m-B-16725,Casa Eugenia Duca,sat SLON; comuna CERAŞU,155,1933
 832,PH-II-m-B-16726,Casa Floarea Frâncu,sat SLON; comuna CERAŞU,181,sf. sec. XIX
 833,PH-II-m-B-16727,Casa Ion V. Perţea,sat SLON; comuna CERAŞU,187,1919
@@ -774,7 +839,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 839,PH-II-m-B-16731,Casa Ion St. Cursaru,sat SLON; comuna CERAŞU,325,înc. sec. XX
 840,PH-II-m-B-16732,Casa Elena Ogrezeanu,sat SLON; comuna CERAŞU,419,sf. sec. XIX
 841,PH-II-m-B-16733,Casa cu prăvălie Gheorghe Staicu,sat SLON; comuna CERAŞU,425,1918
-842,PH-II-m-B-16734,Casa Valerica David,sat SLON; comuna CERAŞU CERAŞU,433C,înc. sec. XX
+842,PH-II-m-B-16734,Casa Valerica David,sat SLON; comuna CERAŞU,433C,înc. sec. XX
+843,PH-II-m-B-16735,Casa Aurelian Popa,sat SLON; comuna CERAŞU,434,1908
 844,PH-II-m-B-16736,Casa Georgeta Barbu,sat SLON; comuna CERAŞU,438,1921
 845,PH-II-m-B-16737,Casa Aurelian Cătunescu,sat SLON; comuna CERAŞU,511,1920
 846,PH-II-a-B-16742,Ansamblul rural I,sat STARCHIOJD; comuna STARCHIOJD,Delimitare cf. PUG avizat,mijl. sec. XVIII - înc. sec. XX
@@ -786,7 +852,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 852,PH-II-m-B-16747,Casa Dumitru N. Fofircă,sat STARCHIOJD; comuna STARCHIOJD,152,sf. sec. XIX
 853,PH-II-m-B-16748,Casa Eleonora Stan,sat STARCHIOJD; comuna STARCHIOJD,192,înc. sec. XX
 854,PH-II-m-B-16749,Casa Constantin Gârbea,sat STARCHIOJD; comuna STARCHIOJD,225,înc. sec. XX
-855,PH-II-m-B-16750,Casa Dudică (ruine),sat STARCHIOJD; comuna STARCHIOJD comuna STARCHIOJD,232,înc. sec. XX
+855,PH-II-m-B-16750,Casa Dudică (ruine),sat STARCHIOJD; comuna STARCHIOJD,232,înc. sec. XX
+856,PH-II-m-B-16751,Casa Maria Mihalache,sat STARCHIOJD; comuna STARCHIOJD,377,înc. sec. XX
 857,PH-II-m-B-16752,Casa Ion Diaconu,sat STARCHIOJD; comuna STARCHIOJD,721,sf. sec. XIX - înc. sec. XX
 858,PH-II-m-B-16753,Casa Haralambie Lupescu,sat STARCHIOJD; comuna STARCHIOJD,761,înc. sec. XX
 859,PH-II-m-A-16738,"Biserica de lemn ""Cuvioasa Paraschiva”-Gârbească (Biserica Mică)",sat STARCHIOJD; comuna STARCHIOJD,789,1780
@@ -797,7 +864,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 864,PH-II-m-A-16756,"Ruinele casei Cheşca Pantazi, ulterior ""Muzeul Satului""",sat STARCHIOJD; comuna STARCHIOJD,Str. Partizani 449,a doua jumătate a sec. XVIII
 865,PH-II-m-A-16757,"Biserica de lemn ""Sf. Treime”",sat STEJARU; comuna BRAZI,"Str. Pintea Haiducul 17, în cimitir, strămutată din pădurea Misleanca",sec. XVIII
 866,PH-II-m-B-16760,Casa Steliana Cheluş,sat ŞOTRILE; comuna ŞOTRILE,30,sf. sec. XIX - înc. sec. XX
-867,PH-II-m-B-16761,Casa Elena Dan,sat ŞOTRILE; comuna ŞOTRILE ŞOTRILE,155,1900
+867,PH-II-m-B-16761,Casa Elena Dan,sat ŞOTRILE; comuna ŞOTRILE,155,1900
+868,PH-II-m-B-20209,Casa Ion I. Dăscăleciu,sat ŞOTRILE; comuna ŞOTRILE,170,1910
 869,PH-II-m-B-16764,Casa Silvia Bârsan,sat ŞOTRILE; comuna ŞOTRILE,271,1920
 870,PH-II-m-B-16758,Casa Dan Gh. Ion,sat ŞOTRILE; comuna ŞOTRILE,315,mijl. sec. XIX
 871,PH-II-m-B-16762,Casa Ana Stănică,sat ŞOTRILE; comuna ŞOTRILE,339,1907
@@ -809,7 +877,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 877,PH-II-m-B-16765,Casa Maria State,sat ŞTEFEŞTI; comuna ŞTEFEŞTI,197,înc. sec. XX
 878,PH-II-m-B-16770,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Gheorghe”",sat TĂRICENI; comuna ŞIRNA,67,"1739 cf. pisanie, ref. 1843"
 879,PH-II-m-A-16771,Ruinele conacului Brâncoveanu-Mavrocordat,sat TĂTĂRANI; comuna BĂRCĂNEŞTI,f.n.,sec. XVIII - XIX
-880,PH-II-m-A-16772,"Biserica ""Sf. Voievozi” a fostei mănăstiri Târgşoru Nou",sat TÂRGŞORU NOU; comuna ARICEŞTII,121,"1857, dărâmată în 1940, ref. în 1942"
+880,PH-II-m-A-16772,"Biserica ""Sf. Voievozi” a fostei mănăstiri Târgşoru Nou",sat TÂRGŞORU NOU; comuna ARICEŞTII RAHTIVANI,121,"1857, dărâmată în 1940, ref. în 1942"
 881,PH-II-m-B-16773,"Biserica ""Sf. Arhangheli Mihail şi Gavriil"" şi ""Sf. Ierarh Nicolae"" a Mănăstirii Turnu a lui Antonie Vodă",sat TÂRGŞORU VECHI; comuna TÂRGŞORU - VECHI,"1, În situl arheologic Târgşor","1669-1672, reconstruită pe ruine 1997 - 2001"
 882,PH-II-m-A-16774,Ruinele Bisericii Albe,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, În situl arheologic Târgşor",1570
 883,PH-II-m-A-16775,Ruinele bisericii lui Mihnea Turcitul-Biserica Roşie,sat TÂRGŞORU VECHI; comuna TÂRGŞORU VECHI,"1, În situl arheologic Târgşor",sf. sec. XVI
@@ -819,7 +887,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 887,PH-II-m-B-16779,Casa Floarea Vişan,sat TÂRLEŞTI; comuna POSEŞTI,182,prima jum. a sec. XIX
 888,PH-II-m-B-16780,Casa Ion Soare,sat TÂRLEŞTI; comuna POSEŞTI,255,1895
 889,PH-II-m-B-16781,Casa Constantin Mihalcea,sat TÂRLEŞTI; comuna POSEŞTI,259,1915
-890,PH-II-m-B-16782,Casa Vasile Ivănescu,sat TÂRLEŞTI; comuna POSEŞTI TELEGA,336,sf. sec. XIX
+890,PH-II-m-B-16782,Casa Vasile Ivănescu,sat TÂRLEŞTI; comuna POSEŞTI,336,sf. sec. XIX
+891,PH-II-m-B-16786,Casa Maria Turcu,sat TELEGA; comuna TELEGA,171,sf. sec. XIX
 892,PH-II-m-B-16787,Casa Joiţa Ţinteanu,sat TELEGA; comuna TELEGA,176,1894 - 1898
 893,PH-II-m-B-16788,Casa Virginia Stăncioiu,sat TELEGA; comuna TELEGA,268,1902
 894,PH-II-m-B-16783,Casa Nicolae Bucătaru,sat TELEGA; comuna TELEGA,1340,1920
@@ -831,7 +900,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 900,PH-II-m-B-16791,Casa Marioara Cernea,sat TINOSU; comuna TINOSU,420,1919
 901,PH-II-m-B-16792,"Biserica ""Intrarea în Biserică Maicii Domnului”",a sat TOHANI; comuna GURA VADULUI,121,1816
 902,PH-II-a-B-16798,Ansamblul rural,sat TRĂISTENI; comuna VALEA DOFTANEI,Delimitare cf. PUG avizat,sf. sec. XIX - înc. sec. XX
-903,PH-II-m-B-16795,Casa Ibrian Gh. Pompiliu,sat TRĂISTENI; comuna VALEA DOFTANEI VALEA DOFTANEI,133,1928
+903,PH-II-m-B-16795,Casa Ibrian Gh. Pompiliu,sat TRĂISTENI; comuna VALEA DOFTANEI,133,1928
+904,PH-II-m-B-16799,Casa Constantin Bran,sat TRĂISTENI; comuna VALEA DOFTANEI,348,1868
 905,PH-II-m-B-20328,Casa Ion Poşchina,sat TRĂISTENI; comuna VALEA DOFTANEI,866,1900
 906,PH-II-m-B-16793,Casa Maria Cârstea,sat TRĂISTENI; comuna VALEA DOFTANEI,921,1928
 907,PH-II-a-B-16800,Gospodăria de oier Frusina Roşca,sat TRĂISTENI; comuna VALEA DOFTANEI,Str. Negraş 582,sf. sec. XIX
@@ -843,7 +913,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 913,PH-II-m-A-16804,"Biserica Galbenă ""Sf. Dimitrie"", ""Sf. Nicolae""",oraş URLAŢI,Str. Nuferilor 28,1759 - 1761
 914,PH-II-a-A-16805,Curtea lui Alexandru şi Radu Bellu,oraş URLAŢI,Str. Orzoaia de Sus 12,mijl.sec. XIX
 915,PH-II-m-A- 16805.01,"Conacul Bellu, azi Muzeul de Etnografie",oraş URLAŢI,Str. Orzoaia de Sus 12,mijl. sec. XIX
-916,PH-II-m-A- 16805.02 16805.03,Fundaţii conac mare,oraş URLAŢI,Str. Orzoaia de Sus 12,mijl. sec. XIX
+916,PH-II-m-A- 16805.02,Fundaţii conac mare,oraş URLAŢI,Str. Orzoaia de Sus 12,mijl. sec. XIX
+917,PH-II-m-A- 16805.03,Pavilionul porţii,oraş URLAŢI,Str. Orzoaia de Sus 12,mijl. sec. XIX
 918,PH-II-m-A- 16805.04,Ruine anexe (Bucătăria),oraş URLAŢI,Str. Orzoaia de Sus 12,mijl. sec. XIX
 919,PH-II-m-A- 16805.05,Parc,oraş URLAŢI,Str. Orzoaia de Sus 12,mijl. sec. XIX
 920,PH-II-m-B-16819,Puţul Frumos,oraş URLAŢI,Str. Valea Mieilor 24A,1862
@@ -855,7 +926,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 926,PH-II-m-B-16808,Casa Dumitru Biţă,sat VALEA ANEI; comuna STARCHIOJD,66,sf. sec. XIX
 927,PH-II-m-B-16809,Casa Victoria Nedelcu,sat VALEA ANEI; comuna STARCHIOJD,74,înc. sec. XX
 928,PH-II-m-B-16810,Casa Elena Moinea,sat VALEA BORULUI; comuna CERAŞU,100,1927
-929,PH-II-m-B-16811,Casa Filofteia Onea,sat VALEA BORULUI; comuna CERAŞU CRÂNGULUI; oraş,102,1894
+929,PH-II-m-B-16811,Casa Filofteia Onea,sat VALEA BORULUI; comuna CERAŞU,102,1894
+930,PH-II-m-B-16812,Casa Domnească cu cramă,localitatea VALEA CRÂNGULUI; oraş URLAŢI,66,"sec. XVII, reconstruit 1982"
 931,PH-II-m-B-16815,Casa Mihai Blaga,sat VALEA LESPEZII; comuna CERAŞU,31,1930
 932,PH-II-m-B-16816,Casa Stelian Constantinescu,sat VALEA LESPEZII; comuna CERAŞU,70B,sf. sec. XIX
 933,PH-II-m-B-16817,Casa Floarea Pasăre Marin,sat VALEA LESPEZII; comuna CERAŞU,72,1900
@@ -865,7 +937,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 937,PH-II-m-B-16822,"Biserica ""Buna Vestire"" şi ""Sf.Treime” - ""Zidul Doamnei Neaga""",sat VALEA SCHEILOR; comuna CĂLUGĂRENI,f.n.,1784
 938,PH-II-m-B-16823,Casa Olimpia Bunescu,sat VALEA SCHEILOR; comuna CĂLUGĂRENI,6,sf. sec. XIX
 939,PH-II-m-B-16824,Casa Nicolae Iacob,sat VALEA SCHEILOR; comuna CĂLUGĂRENI,7,1920
-940,PH-II-m-B-16827,"Biserica ""Adormirea Maicii Domnului” - a fostei mănăstiri Văleni Populare ""Nicolae Iorga"", azi",oraş VĂLENII DE MUNTE MUNTE,Str. Berevoieşti 2,1680
+940,PH-II-m-B-16827,"Biserica ""Adormirea Maicii Domnului” - a fostei mănăstiri Văleni",oraş VĂLENII DE MUNTE,Str. Berevoieşti 2,1680
+941,PH-II-m-B-16828,"Sediul fostei Universităţi Populare ""Nicolae Iorga"", azi Muzeul Natura Văii Teleajenului",oraş VĂLENII DE MUNTE,Str. Berevoieşti 14,sf. sec. XIX
 942,PH-II-m-B-16826,Casa Paraschiva Chivulescu,oraş VĂLENII DE MUNTE,Str. Berevoieşti 27,1914
 943,PH-II-m-B-16829,Casa Vartan,oraş VĂLENII DE MUNTE,Str. Berevoieşti 31,1928
 944,PH-II-m-B-16830,Casa Ghioca,oraş VĂLENII DE MUNTE,Str. Berevoieşti 37,1914 - 1915
@@ -876,7 +949,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 949,PH-II-m-B-16835,Casa Elisabeta Nestorescu,oraş VĂLENII DE MUNTE,Str. Berevoieşti 57,sf. sec. XIX
 950,PH-II-a-A-16837,"Ansamblul bisericii ""Sf. Nicolae”-Tabaci",oraş VĂLENII DE MUNTE,Aleea Bisericii 9,1833
 951,PH-II-m-A- 16837.01,"Biserica ""Sf. Nicolae”-Tabaci",oraş VĂLENII DE MUNTE,Aleea Bisericii 9,1833
-952,PH-II-m-A- 16837.02 16837.03,Turn clopotniţă,oraş VĂLENII DE MUNTE MUNTE,Aleea Bisericii 9,1833
+952,PH-II-m-A- 16837.02,Turn clopotniţă,oraş VĂLENII DE MUNTE,Aleea Bisericii 9,1833
+953,PH-II-m-A- 16837.03,Zid de incintă,oraş VĂLENII DE MUNTE,Aleea Bisericii 9,1833
 954,PH-II-m-B-16838,"Fosta casă parohială a Bisericii ""Sf. Spiridon”- Berevoieşti",oraş VĂLENII DE MUNTE,Str. Cismari 1,mijl. sec. XIX
 955,PH-II-m-B-16839,Casa Octavian Călinescu,oraş VĂLENII DE MUNTE,Str. Eminescu Mihai 29,1900
 956,PH-II-m-B-16840,Casa Mircea Deac,oraş VĂLENII DE MUNTE,Str. Eminescu Mihai 32,1900
@@ -885,7 +959,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 959,PH-II-m-A- 16841.02,Corp C-Anexă,oraş VĂLENII DE MUNTE,Str. Enescu George 1,înc. sec. XIX - înc. sec. XX
 960,PH-II-m-A- 16841.03,Zid de incintă cu poartă,oraş VĂLENII DE MUNTE,Str. Enescu George 1,înc. sec. XIX - înc. sec. XX
 961,PH-II-a-A-16842,"Ansamblul Şcolii de Misionare ""Regina Maria""",oraş VĂLENII DE MUNTE,Str. Enescu George 1,"mijl.sec. XVIII, (1922- organizarea şcolii)"
-962,PH-II-m-A- 16842.01 16842.02,"Casa de târgoveţ Zănescu, ulterior Şcoala de Misionare ""Regina Maria"", azi Muzeul de Artă Religioasă ""Nicolae Iorga"" Muzeul de Etnografie al Văii",oraş VĂLENII DE MUNTE MUNTE,Str. Enescu George 1,"mijl.sec. XVIII, (1922- organizarea şcolii)"
+962,PH-II-m-A- 16842.01,"Casa de târgoveţ Zănescu, ulterior Şcoala de Misionare ""Regina Maria"", azi Muzeul de Artă Religioasă ""Nicolae Iorga""",oraş VĂLENII DE MUNTE,Str. Enescu George 1,"mijl.sec. XVIII, (1922- organizarea şcolii)"
+963,PH-II-m-A- 16842.02,"Anexa Şcolii de Misionare, Muzeul de Etnografie al Văii Teleajenului şi Biblioteca Orăşenească",azi oraş VĂLENII DE MUNTE,Str. Enescu George 1,1922
 964,PH-II-m-B-16843,Casa cu atelier de croitorie,oraş VĂLENII DE MUNTE,Str. Enescu George 2,1912
 965,PH-II-m-B-16845,Casa Mircea Haier şi Iuliu Soltescu,oraş VĂLENII DE MUNTE,Str. Enescu George 23,sf. sec. XIX
 966,PH-II-m-B-16847,Casa de negustor Dănilă Veroniu,oraş VĂLENII DE MUNTE,Bd. Iorga Nicolae 189,1866
@@ -896,7 +971,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 971,PH-II-m-B-16852,"Poşta, ulterior casa Mihail Gerea",oraş VĂLENII DE MUNTE,Str. Progresului 27,1914 - 1915
 972,PH-II-m-B-16853,Casa Elena Comănescu,oraş VĂLENII DE MUNTE,Str. Progresului 54,1901 - 1915
 973,PH-II-a-A-16854,Fosta mănăstire Vărbila,sat VĂRBILA; comuna IORDĂCHEANU,154,"1535, ref. sec. XVII, sec. XIX"
-974,PH-II-m-A- 16854.01 16854.02,"Biserica ""Adormirea Maicii Domnului”",sat VĂRBILA; comuna IORDĂCHEANU IORDĂCHEANU,154,"1539, ref. sec. XVII, sec. XIX"
+974,PH-II-m-A- 16854.01,"Biserica ""Adormirea Maicii Domnului”",sat VĂRBILA; comuna IORDĂCHEANU,154,"1539, ref. sec. XVII, sec. XIX"
+975,PH-II-m-A- 16854.02,Ruine stăreţie,sat VĂRBILA; comuna IORDĂCHEANU,154,mijl. sec. XVII
 976,PH-II-m-A- 16854.03,Turn clopotniţă,sat VĂRBILA; comuna IORDĂCHEANU,154,mijl. sec. XVII
 977,PH-II-m-A- 16854.04,Zid de incintă,sat VĂRBILA; comuna IORDĂCHEANU,154,mijl. sec. XVII
 978,PH-II-m-B-16856,"Casa cu prăvălie Ion Filipescu, azi proprietate Romtelecom",sat VĂRBILĂU; comuna VĂRBILĂU,"f.n., tarla 5, parcela CC 358, vizavi de Primărie",înc. sec. XX
@@ -907,7 +983,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 983,PH-II-m-A- 16860.02,"Biserica ""Sf. Treime” - din cimitir",sat ZAMFIRA; comuna LIPĂNEŞTI,"90, în cimitir",1743
 984,PH-II-m-B-16861,"Biserica ""Sf. Împăraţi”",sat ZĂNOAGA; comuna DUMBRAVA,65,"sec. XVIII, ref. 1885"
 985,PH-II-m-B-16862,Ruinele podului peste Teleajen,sat ZĂNOAGA; comuna DUMBRAVA,"209, Pe malul stâng al Teleajenului",sec. XVI - XVII
-986,PH-III-m-A-16863,Monumentul Vânătorilor din Războiul de Independenţă eroilor din primul război,municipiul PLOIEŞTI,"Piaţa 1 Decembrie 1918, Gara de Sud",1897
+986,PH-III-m-A-16863,Monumentul Vânătorilor din Războiul de Independenţă,municipiul PLOIEŞTI,"Piaţa 1 Decembrie 1918, Gara de Sud",1897
+987,PH-III-m-B-16864,Monumentul comemorativ eroilor din primul război mondial,al municipiul PLOIEŞTI,"Str. Eroilor 2, în cimitirul Bolovani",1957
 988,PH-III-m-B-16865,Bustul scriitorului Ion Luca Caragiale,municipiul PLOIEŞTI,"Bd. Independenţei, în parcul din faţa Colegiului Naţional ""Mihai Viteazul""",1952
 989,PH-III-m-A-16866,"Statuia ""Maternitate”",municipiul PLOIEŞTI,"Bd. Independenţei, în spaţiul verde de pe flancul estic al bulevardului",1960
 990,PH-III-m-B-16867,Bustul lui Radu Stanian (fost primar al Ploieştiului),municipiul PLOIEŞTI,"Bd. Independenţei, La intersecţia cu str. Bobâlna",1902
@@ -917,7 +994,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 994,PH-III-m-A-16871,"Statuia ""Ultima grenadă” - caporalului Constantin Muşat",a oraş BUŞTENI,"Bd. Libertăţii, în faţa gării",1928
 995,PH-III-m-B-16872,Monumentul Eroilor din Primul Război Mondial,municipiul CÂMPINA,La intersecţia Bd. Carol I cu Bd. Culturii,1929
 996,PH-III-m-B-16873,Bustul pictorului Nicolae Grigorescu,municipiul CÂMPINA,"Bd. Carol I 108, în curtea Muzeului Memorial ""Nicolae Grigorescu""",1957
-997,PH-III-m-A- 16395.02,Bustul savantului B. P. Hasdeu,municipiul CÂMPINA comuna FULGA,"Bd. Carol I 199, în curtea Muzeului Memorial ""B. P. Hasdeu""",1937
+997,PH-III-m-A- 16395.02,Bustul savantului B. P. Hasdeu,municipiul CÂMPINA,"Bd. Carol I 199, în curtea Muzeului Memorial ""B. P. Hasdeu""",1937
+998,PH-III-m-B-16874,Monument,sat FULGA DE SUS; comuna FULGA,,sec. XIX
 999,PH-III-m-A-16875,Bustul actorului Ion Iancu Brezieanu,oraş SINAIA,"În Parcul central ""Dimitrie Ghica""",1935
 1000,PH-III-m-A-16876,Bustul lui Nicolae Iorga,oraş VĂLENII DE MUNTE,"Str. Berceni 42, în curtea Liceului ""Nicolae Iorga""",1936
 1001,PH-III-m-A- 16841.04,Bustul lui Nicolae Iorga,oraş VĂLENII DE MUNTE,Str. Enescu George 1,1923
@@ -928,7 +1006,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1006,PH-IV-a-A-16881,Cimitirul Eroilor din Primul Război Mondial (1916 - 1918),oraş AZUGA,"Pe DN1, la cca 1km nord localitate",1920
 1007,PH-IV-m-A-16882,Monumentul lui Aurel Vlaicu,sat BĂNEŞTI; comuna BĂNEŞTI,"DN1, Tarla 23/1, P 987/246/1",1930
 1008,PH-IV-m-B-16883,Cruce de pomenire (de drum) din piatră,sat BERTEA; comuna BERTEA,În faţa salonului de dans,1598
-1009,PH-IV-m-A-16884,Cruce de piatră,sat BOLDEŞTI; comuna BOLDEŞTI-GRĂDIŞTEA,"""La Arman” ""Adormirea Maicii Domnului""",1731
+1009,PH-IV-m-A-16884,Cruce de piatră,sat BOLDEŞTI; comuna BOLDEŞTI-GRĂDIŞTEA,"""La Arman”",1731
+1010,PH-IV-m-B-16885,Cruce de pomenire din piatră,oraş BOLDEŞTI-SCĂENI,"Str. Primăverii 3, în curtea bisericii ""Adormirea Maicii Domnului""",1710
 1011,PH-IV-m-B-16886,Casa actorului Ion Manolescu,oraş BREAZA,Str. Gării 5,1926
 1012,PH-IV-m-A-16887,Crucea comemorativă a eroilor români din Primul Război mondial,oraş BUŞTENI,Pe Vârful Caraiman,1926 – 1928
 1013,PH-IV-a-B-16888,"Ansamblu de trei cruci de pomenire (de drum), din piatră",sat CĂLUGĂRENI; comuna CĂLUGĂRENI,La intrarea în localitate,"1692, 1742"
@@ -937,7 +1016,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1016,PH-IV-m-A- 16394.02,Piatră funerară,municipiul CÂMPINA,"Bd. Carol I 133A, în incinta bisericii ""Adormirea Maicii Domnului""-de Han",1600 la
 1017,PH-IV-a-B-16890,Ansamblu de două cruci de pomenire,sat CEPTURA DE JOS; comuna CEPTURA,În incinta bisericii „Sf. Ioan Evanghelistul”,"1692, 1836"
 1018,PH-IV-m-B-16891,Cruce de pomenire,sat CEPTURA DE JOS; comuna CEPTURA,Punct „Fendu”,1834
-1019,PH-IV-m-B-16892,Cruce de pomenire,sat CHIOJDEANCA; comuna CHIOJDEANCA comuna CHIOJDEANCA,"La 100 m nord de biserica ""Cuvioasa Paraschiva"", pe culmea dealului Paraschiva""",1719
+1019,PH-IV-m-B-16892,Cruce de pomenire,sat CHIOJDEANCA; comuna CHIOJDEANCA,"La 100 m nord de biserica ""Cuvioasa Paraschiva"", pe culmea dealului",1719
+1020,PH-IV-m-B-16893,Cruce de pomenire,sat CHIOJDEANCA; comuna CHIOJDEANCA,"În incinta bisericii de lemn ""Sf. Paraschiva""",sec. XIX
 1021,PH-IV-m-B-16894,Cruce de pomenire (de drum),sat CHIŢORANI; comuna BUCOV,"Pe valea Orlei, în dreptul casei Graţiela Ţintea",1709
 1022,PH-IV-m-B-16895,Cruce de mormânt,sat CHIŢORANI; comuna BUCOV,"În cimitirul vechi al bisericii ""Sf. Stelian""",1843
 1023,PH-IV-m-B-16896,Cruce de pomenire,sat CIOCENI; comuna ALBEŞTI PALEOLOGU,"La limita de vest a satului, spre Trestieni",1832
@@ -947,7 +1027,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1027,PH-IV-m-B-16900,Pisania bisericii vechi de la Filipeştii de Târg,sat FILIPEŞTII DE TÂRG; comuna FILIPEŞTII DE TÂRG,"832, în zidul pridvorului bisericii ""Adormirea Maicii Domnului""",1642
 1028,PH-IV-m-B-16902,"Cruce de pomenire, din piatră",sat GHERGHIŢA; comuna GHERGHIŢA,În curtea lui Ion Giuroiu,"1630, 1675"
 1029,PH-IV-m-B-16903,"Cruce de pomenire, din piatră",sat GHINOAICA; comuna VADU SĂPAT,"Lângă intrarea în biserica ""Cuvioasa Paraschiva""",1742
-1030,PH-IV-m-B-16904,"Cruce de pomenire, din piatră piatră",sat GHINOAICA; comuna VADU SĂPAT comuna GURA,La marginea de nord-vest a satului de stat,1722
+1030,PH-IV-m-B-16904,"Cruce de pomenire, din piatră",sat GHINOAICA; comuna VADU SĂPAT,La marginea de nord-vest a satului,1722
+1031,PH-IV-m-B-16905,"Cruce de pomenire, din piatră",sat GURA VADULUI; comuna GURA VADULUI,Lângă fântâna din faţa magazinului de stat,sec. XVIII
 1032,PH-IV-m-B-16906,"Cruce de pomenire, din piatră",sat GURA VADULUI; comuna GURA VADULUI,Lângă podul peste Tohăneanca,1696
 1033,PH-IV-m-B-16907,"Cruce memorială, de piatră",sat GURA VADULUI; comuna GURA VADULUI,"La 1,5 km vest de sat, pe şoseaua spre Călugăreni",1792
 1034,PH-IV-m-B-16908,"Cruce de pomenire, din piatră",localitatea JERCĂLĂI; oraş URLAŢI,"Lângă biserică, în incinta schitului ""Sf. Maria"" - Jercălăi",sec. XVI
@@ -957,7 +1038,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1038,PH-IV-m-B-16912,"Cruce de pomenire, din piatră",sat NEDELEA; comuna ARICEŞTII RAHTIVANI,"47, în curtea Grupului Şcolar Special",sec. XIX
 1039,PH-IV-m-B-16913,"Cruce de pomenire, din piatră",sat NUCŞOARA; comuna POSEŞTI,Pe drumul Nucşoara-Valea Plopului,1804
 1040,PH-IV-m-B-16915,Casa Ştefan Gheorghiu,sat OLTENI; comuna TEIŞANI,Str. Vladimirescu Tudor 5,sec. XIX
-1041,PH-IV-m-B-16916,"Cruce de pomenire, din piatră piatră",sat PLAVIA; comuna IORDĂCHEANU TĂTARU,În curtea bisericii Podgoria şi Udreşti,1826
+1041,PH-IV-m-B-16916,"Cruce de pomenire, din piatră",sat PLAVIA; comuna IORDĂCHEANU,În curtea bisericii,1826
+1042,PH-IV-m-B-16917,"Cruce de pomenire, din piatră",sat PODGORIA; comuna TĂTARU,La jumătatea distanţei dintre satele Podgoria şi Udreşti,
 1043,PH-IV-m-B-16918,"Cruce de pomenire, din piatră",sat PODGORIA; comuna TĂTARU,"În centrul satului, la răspântia drumului spre Udreşti",1830
 1044,PH-IV-m-B-16919,Casa esteticianului şi filozofului Tudor Vianu,localitatea POIANA ŢAPULUI; oraş BUŞTENI,"Str. Aluniş 11, Cartier Zamora",sec. XIX
 1045,PH-IV-m-B-16920,"Cruce de pomenire, din piatră",localitatea POSADA; oraş COMARNIC,La marginea şoselei spre Sinaia,1741
@@ -968,7 +1050,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1050,PH-IV-m-B-16925,"Cruce de pomenire, din piatră",sat SÂNGERU; comuna SÂNGERU,"În partea de est a satului, pe marginea drumului spre Salcia şi Lapoş",1847
 1051,PH-IV-m-B-16926,Crucea de mormânt a lui Badea Cârţan,oraş SINAIA,"Cimitir, cartier Izvoru Rece",1911
 1052,PH-IV-a-A-16929,Cimitirul ostaşilor căzuţi în Primul Război Mondial,oraş SINAIA,"Str. Eroilor, lângă Cazinou",înc. sec. XX
-1053,PH-IV-m-A- 16691.06,Cavoul lui Take Ionescu Război Mondial (1916 - 1918),oraş SINAIA CERAŞU,"Str. Mănăstirii 2A, în incinta veche a Mănăstirii Sinaia",1922
+1053,PH-IV-m-A- 16691.06,Cavoul lui Take Ionescu,oraş SINAIA,"Str. Mănăstirii 2A, în incinta veche a Mănăstirii Sinaia",1922
+1054,PH-IV-m-A-16930,Cimitirul Eroilor din Primul Război Mondial (1916 - 1918),sat SLON; comuna CERAŞU,"""Tabla Buţii”",înc. sec. XX
 1055,PH-IV-m-A-16931,"Cruce de pomenire, din piatră",sat STARCHIOJD; comuna STARCHIOJD,"În incinta bisericii ""Sf. Nicolae""",1698 - 1699
 1056,PH-IV-m-B-16932,"Cruce de pomenire, din piatră",sat STARCHIOJD; comuna STARCHIOJD,"În faţa bisericii ""Cuvioasa Paraschiva""",1781
 1057,PH-IV-m-B-16933,"Cruce de pomenire, din piatră",sat STARCHIOJD; comuna STARCHIOJD,"Str. Principală 3, la intrarea în sat, în dreptul drumului spre Valea Anei, pe proprietatea lui Roger Stănescu",1797
@@ -979,7 +1062,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 1062,PH-IV-m-B-16939,"Cruce de pomenire, din piatră",sat UNGURENI; comuna VADU SĂPAT,"381, în grădina lui Nicolae Cătescu",sec. XIX
 1063,PH-IV-m-B-16940,"Cruce de pomenire, din piatră",sat UNGURENI; comuna VADU SĂPAT,"381, în grădina lui Nicolae Cătescu",1732
 1064,PH-IV-m-B-16941,"Cruce de pomenire, din piatră",oraş URLAŢI,"Pe terenul S.C. Videlmar Urlaţi S.A., Ferma 6",1698
-1065,PH-IV-m-B-16942,"Cruce de pomenire, din piatră piatră",oraş URLAŢI comuna VADU SĂPAT,"Str. Socului 1A, în via lui Petrică Nicolae Nicolae Guţu, la cramă",1735
+1065,PH-IV-m-B-16942,"Cruce de pomenire, din piatră",oraş URLAŢI,"Str. Socului 1A, în via lui Petrică Nicolae",1735
+1066,PH-IV-m-B-16943,"Cruce de pomenire, din piatră",sat VADU SĂPAT; comuna VADU SĂPAT,"Strămutată pe proprietatea lui Nicolae Guţu, la cramă",1694
 1067,PH-IV-m-B-16944,"Cruce de pomenire, din piatră",sat VADU SĂPAT; comuna VADU SĂPAT,"""La Greci”",1635
 1068,PH-IV-m-B-16945,"Cruce de pomenire, din piatră",sat VALEA SCHEILOR; comuna CĂLUGĂRENI,"""La Perşu""",1692
 1069,PH-IV-m-B-16946,"Cruce de pomenire, din piatră",sat VALEA SCHEILOR; comuna CĂLUGĂRENI,"La 200 m sud-vest de biserica ""Buna Vestire""",1698

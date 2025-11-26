@@ -1,11 +1,12 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,CS-I-a-A-10770,"Ansamblul medieval de la Reşiţa, cartier Moroasa, punct ""Ogăşele""",municipiul REŞIŢA,"Str. Petru Maior, ""Ogăşele”, Cartier Moroasa",sec. XIV - XV
 2,CS-I-m-A-10770.01,Biserică tip sală,municipiul REŞIŢA,"Str. Petru Maior, ""Ogăşele”, Cartier Moroasa",sec. XIV - XV
 3,CS-I-m-A-10770.02,Necropolă medievală,municipiul REŞIŢA,"Str. Petru Maior, ""Ogăşele”, Cartier Moroasa",sec. XIV - XV
 4,CS-I-s-B-10771,"Situl roman de la Băile Herculane, punct ""Zona Cazino, Parc Central""",oraş BĂILE HERCULANE,"""Zona Cazino, Parc Central”, între Vila săracilor/Locuinţe grănicereşti (str. Castanilor 33) şi zona ""7 Izvoare"", în amonte de Hotelul Roman",
 5,CS-I-m-B-10771.01,Amfiteatru,oraş BĂILE HERCULANE,"""Zona Cazino, Parc Central”, zona cuprinsă între hotel Cerna, parcul Central și hotel Roman","sec. II - III p. Chr., Epoca romană"
 6, CS-I-m-B-10771.02, Sanctuar, oraş BĂILE HERCULANE," ""Zona Cazino, Parc Central”, zona cuprinsă între hotel Cerna, parcul Central şi hotel Roman"," sec. II - III p. Chr., Epoca romană"
 7,CS-I-m-B-10771.03,Necropolă,oraş BĂILE HERCULANE,"""Zona Cazino, Parc Central”, zona cuprinsă între hotel Cerna, parcul Central şi hotel Roman","sec. II - III p. Chr., Epoca romană"
-8,CS-I-s-B-10772,"Situl arheologic de la Băile Herculane, punct ""Peştera",oraş BĂILE HERCULANE,"""Peştera Hoţilor”",
+8,CS-I-s-B-10772,"Situl arheologic de la Băile Herculane, punct ""Peştera Hoţilor""",oraş BĂILE HERCULANE,"""Peştera Hoţilor”",
 9,CS-I-m-B-10772.01,Aşezare,oraş BĂILE HERCULANE,"""Peştera Hoţilor”, pe versantul drept al Cernei, în spatele hotelului Roman, la 500 m N de localitate",Epoca medievală
 10,CS-I-m-B-10772.02,Aşezare,oraş BĂILE HERCULANE,"""Peştera Hoţilor”, pe versantul drept al Cernei, în spatele hotelului Roman, la 500 m N de localitate",Epoca daco-romană
 11,CS-I-m-B-10772.03,Aşezare,oraş BĂILE HERCULANE,"""Peştera Hoţilor”, pe versantul drept al Cernei, în spatele hotelului Roman, la 500 m N de localitate",Hallstatt
@@ -15,7 +16,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 15,CS-I-s-B-10773,"Situl arheologic de la Băile Herculane, punct ""Peştera Tatarczy”",oraş BĂILE HERCULANE,"""Peştera Tatarczy”, la 4 km NE de Cartier Pecinişca, în rezervaţia Domogled",Eneolitic mijlociu
 16,CS-I-s-B-10774,Aşezare,oraş BĂILE HERCULANE,"""Sălişte”, Cartier Pecinişca",Epoca medievală timpurie
 17,CS-I-s-B-10775,Aşezare,oraş BĂILE HERCULANE,"""Gura Ungurului” (peșteră), Cartier Pecinişca",Hallstatt
-18,CS-I-s-B-10776,"Situl arheologic de la Bănia, punct ""Cracul Otara”",sat BĂNIA; comuna BĂNIA BĂNIA,"""Cracul Otara” localitate", migraţiilor
+18,CS-I-s-B-10776,"Situl arheologic de la Bănia, punct ""Cracul Otara”",sat BĂNIA; comuna BĂNIA,"""Cracul Otara”",
+19,CS-I-m-B-10776.01,Aşezare,sat BĂNIA; comuna BĂNIA,"""Cracul Otara”, la cca. 2 km SE de localitate","sec. XI - XII, Epoca migraţiilor"
 20,CS-I-m-B-10776.02,Aşezare,sat BĂNIA; comuna BĂNIA,"""Cracul Otara”, la cca. 2 km SE de localitate","sec. II - III p. Chr., Epoca romană"
 21,CS-I-m-B-10776.03,Aşezare,sat BĂNIA; comuna BĂNIA,"""Cracul Otara”, la cca. 2 km SE de localitate",Eneolitic
 22,CS-I-s-B-10777,"Situl arheologic de la Bănia, punct ""Cioaca cu bani”",sat BĂNIA; comuna BĂNIA,"""Cioaca cu bani”",
@@ -27,7 +29,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 28,CS-I-m-B-10778.01,Aşezare,sat BĂNIA; comuna BĂNIA,"""Arie”, la SE de localitate",Epoca migraţiilor
 29,CS-I-m-B-10778.02,Aşezare,sat BĂNIA; comuna BĂNIA,"""Arie”, la SE de localitate",Epoca romană
 30,CS-I-m-B-10778.03,Aşezări preistorice,sat BĂNIA; comuna BĂNIA,"""Arie”, la SE de localitate",
-31,CS-I-s-B-10779,"Situl arheologic de la Bănia, punct ""Sălişte”",sat BĂNIA; comuna BĂNIA BĂNIA,"""Sălişte”",
+31,CS-I-s-B-10779,"Situl arheologic de la Bănia, punct ""Sălişte”",sat BĂNIA; comuna BĂNIA,"""Sălişte”",
+32,CS-I-m-B-10779.01,Aşezare,sat BĂNIA; comuna BĂNIA,"""Sălişte”, la intrarea în localitate",Epoca migraţiilor
 33,CS-I-m-B-10779.02,Aşezare,sat BĂNIA; comuna BĂNIA,"""Sălişte”, la intrarea în localitate",Epoca romană
 34,CS-I-s-B-10780,Fortificaţie de pământ,sat BERZASCA; comuna BERZASCA,"""Cetăţuia”, la 2 km N de Berzasca",
 35,CS-I-s-B-10781,"Aşezarea medievală de la Berzasca, punct ""Sălişte - Valea Dragoselea”",sat BERZASCA; comuna BERZASCA,"""Sălişte - Valea Dragoselea”",sec. XI - XIV
@@ -38,7 +41,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 40,CS-I-m-B-10782.02,Aşezare,sat BERZASCA; comuna BERZASCA,"""Spit I”, la 1,5 km de sat, sub apă",Neolitic
 41,CS-I-s-B-10783,Aşezare,sat BERZASCA; comuna BERZASCA,"""Spit II”, la 150 m de punctul „Spit I”, la 1,5 km de sat, sub apă",Epoca bronzului
 42,CS-I-s-A-10784,Aşezare,sat BERZASCA; comuna BERZASCA,"""Spit III” (Ogaşul Neamţului), în apropiere de satul Liubcova, pe malul Dunării",sec. XIII - XIV
-43,CS-I-s-A-10785,Castrul şi aşezarea romană de la Berzovia,sat BERZOVIA; comuna BERZOVIA comuna BERZOVIA,"Intravilan sătesc, primărie, dispensar şi malul", romană
+43,CS-I-s-A-10785,Castrul şi aşezarea romană de la Berzovia,sat BERZOVIA; comuna BERZOVIA,Intravilan,
+44,CS-I-m-A-10785.01,Castru,sat BERZOVIA; comuna BERZOVIA,"Intravilan, zona dintre magazinul sătesc, primărie, dispensar şi malul râului Berzasca","sec. II - III p. Chr., Epoca romană"
 45,CS-I-m-A-10785.02,Aşezare,sat BERZOVIA; comuna BERZOVIA,"Zona dintre magazinul sătesc, primărie, dispensar şi malul râului Berzasca",Epoca romană
 46,CS-I-s-B-10786,"Situl arheologic de la Berzovia, punct ""Pătruiene""",sat BERZOVIA; comuna BERZOVIA,"""Pătruiene”",
 47,CS-I-m-B-10786.01,Aşezare,sat BERZOVIA; comuna BERZOVIA,"""Pătruiene”, la 2 km N de sat",sec. XIII - XIV
@@ -48,7 +52,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 51,CS-I-s-B-10788,Aşezare fortificată,oraş BOCŞA,"""Gruniul Cetăţii”, pe valea Smidei, în spatele cantonului, în Cartierul Bocşa Montană",Epoca bronzului
 52,CS-I-s-B-10789,"Situl arheologic de la Bocşa, punct ""Cariera Colţani”",oraş BOCŞA,"""Cariera Colţani”",
 53,CS-I-m-B-10789.01,Aşezare,oraş BOCŞA,"""Cariera Colţani”, lângă Halta CFR Colţan, la SE de Cartierul Bocşa Montană",Eneolitic
-54,CS-I-m-B-10789.02,Aşezare,oraş BOCŞA,"""Cariera Colţani”, lângă Halta CFR Colţan, la SE de Cartierul Bocşa Montană Vernieşului, între ogaşele Cătuna Mică",Epoca bronzului
+54,CS-I-m-B-10789.02,Aşezare,oraş BOCŞA,"""Cariera Colţani”, lângă Halta CFR Colţan, la SE de Cartierul Bocşa Montană",Epoca bronzului
+55,CS-I-s-B-10790,Aşezare fortificată,oraş BOCŞA,"""Gruniul Cetăţuia”, pe valea Vernieşului, între ogaşele Cătuna Mică şi Cătuna Mare, în Cartierul Bocşa Română",Epoca bronzului
 56,CS-I-s-B-10791,"Situl arheologic de la Bocşa, punct ""Dealul Mare”",oraş BOCŞA,"""Dealul Mare”",Hallstatt
 57,CS-I-m-B-10791.01,Aşezare fortificată,oraş BOCŞA,"""Dealul Mare”, la 4 km N de oraş, la dreapta drumului ce duce spre comuna Ramna, în Cartierul Bocşa Română",Hallstatt
 58,CS-I-m-B-10791.02,Necropolă de incineraţie,oraş BOCŞA,"""Dealul Mare”, la 4 km N de oraş, la dreapta drumului ce duce spre comuna Ramna, în Cartierul Bocşa Română",Hallstatt
@@ -56,7 +61,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 60,CS-I-s-B-10793,Aşezare fortificată,sat BORLOVENII VECHI; comuna PRIGOR,"""Leu”, pe malul stâng al Nerei, la 2 km N de sat",Hallstatt
 61,CS-I-s-B-10794,Construcţie romană de tip mansio,sat BREBU; comuna BREBU,"""Gura Văii - Valea Motrului”, la 3 km NE de sat","sec. II - III p. Chr., Epoca romană"
 62,CS-I-s-B-10795,Construcţie romană,sat BUCOŞNIŢA; comuna BUCOŞNIŢA,"""Sălişte”, la cca. 300 m de gară şi la 50 m de şosea","sec. II - III p. Chr., Epoca romană"
-63,CS-I-s-B-10796,"Situl arheologic de la Bucova, punct ""Poarta de Fier a Transilvaniei""",sat BUCOVA; comuna BĂUŢAR comuna BĂUŢAR,"""Poarta de Fier a Transilvaniei” km E de localitate",
+63,CS-I-s-B-10796,"Situl arheologic de la Bucova, punct ""Poarta de Fier a Transilvaniei""",sat BUCOVA; comuna BĂUŢAR,"""Poarta de Fier a Transilvaniei”",
+64,CS-I-m-B-10796.01,Fortificaţie,sat BUCOVA; comuna BĂUŢAR,"""Poarta de Fier a Transilvaniei”, la 2 km E de localitate",Epoca medievală
 65,CS-I-m-B-10796.02,Val,sat BUCOVA; comuna BĂUŢAR,"""Poarta de Fier a Transilvaniei”, la 2 km E de localitate",Epoca medievală
 66,CS-I-m-B-10796.03,Val,sat BUCOVA; comuna BĂUŢAR,"""Poarta de Fier a Transilvaniei”, la 2 km E de localitate","Latène, Cultura geto - dacică"
 67,CS-I-s-B-10797,"Situl arheologic de la Caransebeş, cartierul Balta Sărată- ""Câmpul lui Andrei""",municipiul CARANSEBEŞ,"""Câmpul lui Andrei”",
@@ -66,7 +72,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 71,CS-I-m-B-10797.04,Aşezare,municipiul CARANSEBEŞ,"""Câmpul lui Andrei”, Cartier Balta Sărată, la cca. 150 m E de şoseaua Caransebeş - Orşova",Neolitic
 72,CS-I-s-B-10798,Situl arheologic de la Caransebeş,municipiul CARANSEBEŞ,,
 73,CS-I-m-B-10798.01,Aşezare,municipiul CARANSEBEŞ,"Cartier Balta Sărată, la 4 km de oraş",Epoca bronzului
-74,CS-I-m-B-10798.02,"Aşezare Caransebeş, punct ""Mehala""",municipiul CARANSEBEŞ CARANSEBEŞ,"Cartier Balta Sărată, la 4 km de oraş",Neolitic
+74,CS-I-m-B-10798.02,Aşezare,municipiul CARANSEBEŞ,"Cartier Balta Sărată, la 4 km de oraş",Neolitic
+75,CS-I-s-B-10799,"Situl arheologic de la Caransebeş, punct ""Mehala""",municipiul CARANSEBEŞ,"""Mehala”",
 76,CS-I-m-B-10799.01,Necropolă,municipiul CARANSEBEŞ,"""Mehala”, lângă complexul zootehnic, pe partea stângă a râului Sebeş, la 1,5 km de şosea",sec. XIV
 77,CS-I-m-B-10799.02,Villa rustica,municipiul CARANSEBEŞ,"""Mehala”, lângă complexul zootehnic, pe partea stângă a râului Sebeş, la 1,5 km de şosea","sec. II - III p. Chr., Epoca romană"
 78,CS-I-s-A-10805,Castrul roman de la Tibiscum,municipiul CARANSEBEŞ,"""Peste ziduri”, Cartier Jupa","sec. II - IV p. Chr., Epoca romană"
@@ -76,7 +83,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 82,CS-I-s-B-10807,Biserică de tip romanic,municipiul CARANSEBEŞ,"Piaţa Revoluţiei, la 50 m de Biserica romano-catolică",sec. XIII - XIV
 83,CS-I-s-B-10808,Cetate,sat CARAŞOVA; comuna CARAŞOVA,"""Cetate”, la 2 km NE de intrarea în sat, deasupra cheilor Caraşului",sec. XIII - XIV
 84,CS-I-s-B-10809,Construcţie romană,sat CĂRBUNARI; comuna CĂRBUNARI,"""Boişte”, la 5 km SE de sat, pe malul stâng al pârâului Boişte","sec. II - III p. Chr., Epoca romană"
-85,CS-I-s-B-10810,"Situl arheologic de la Cărbunari, punct ""Peştera",sat CĂRBUNARI; comuna,"""Peştera Urzicari”",
+85,CS-I-s-B-10810,"Situl arheologic de la Cărbunari, punct ""Peştera Urzicari""",sat CĂRBUNARI; comuna CĂRBUNARI,"""Peştera Urzicari”",
 86,CS-I-m-B-10810.01,Urme de locuire,sat CĂRBUNARI; comuna CĂRBUNARI,"""Peştera Urzicari”",Neolitic
 87,CS-I-m-B-10810.02,Urme de locuire,sat CĂRBUNARI; comuna CĂRBUNARI,"""Peştera Urzicari”",Paleolitic
 88,CS-I-s-B-10811,Necropolă,sat CICLOVA ROMÂNĂ; comuna CICLOVA ROMÂNĂ,"""La Morminţi”, pe malul stâng al pârâului Vraniul Mare, la cca. 2 km de sat","sec. XIV, Epoca medievală"
@@ -84,7 +91,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 90,CS-I-s-B-10813,Aşezare,sat CORNEREVA; comuna CORNEREVA,"""Piatra Ilişovei”, la 3 km N de sat, pe muntele Cerna; vârf lângă „Stâna lui Grecu”.","Epoca bronzului timpuriu, Cultura Coţofeni"
 91,CS-I-s-B-10814,"Situl arheologic de la Cornuţel, punct ""Dealul Cozlari""",sat CORNUŢEL; comuna PĂLTINIŞ,"""Dealul Cozlari”",sec. II - III p. Chr.
 92,CS-I-m-B-10814.01,Aşezare civilă,sat CORNUŢEL; comuna PĂLTINIŞ,"""Dealul Cozlari”, la 1 km SV de gara C.F.R. şi la 500 m N de şoseaua Reşiţa - Caransebeş.","sec. II - III p. Chr., Epoca romană"
-93,CS-I-m-B-10814.02,"Castru Coronini, punct ""Cula""",sat CORNUŢEL; comuna PĂLTINIŞ comuna CORONINI,"""Dealul Cozlari”, la 1 km SV de gara C.F.R. şi la 500 m N de şoseaua Reşiţa - Caransebeş.","sec. II - III p. Chr., Epoca romană"
+93,CS-I-m-B-10814.02,Castru,sat CORNUŢEL; comuna PĂLTINIŞ,"""Dealul Cozlari”, la 1 km SV de gara C.F.R. şi la 500 m N de şoseaua Reşiţa - Caransebeş.","sec. II - III p. Chr., Epoca romană"
+94,CS-I-s-A-10815,"Situl arheologic de la Coronini, punct ""Cula""",sat CORONINI; comuna CORONINI,"""Cula”",
 95,CS-I-m-A-10815.01,Cetatea Ladislau (Donjonul de la Coronini),sat CORONINI; comuna CORONINI,"""Cula”, la 600 m SE de sat",sec. XV
 96,CS-I-m-A-10815.02,Fortificaţie,sat CORONINI; comuna CORONINI,"""Cula”, la 600 m SE de sat","Latène, Cultura geto - dacică"
 97,CS-I-m-A-10815.03,Aşezare,sat CORONINI; comuna CORONINI,"""Cula”, la 600 m SE de sat",Epoca bronzului
@@ -95,7 +103,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 102,CS-I-m-B-10816.03,Picturi rupestre,sat CORONINI; comuna CORONINI,"""Gaura Chindiei I si II”, la 4 km E de sat, peşteră",Epoca bronzului
 103,CS-I-m-B-10816.04,Aşezare,sat CORONINI; comuna CORONINI,"""Gaura Chindiei I si II”, la 4 km E de sat, peşteră",Epoca bronzului
 104,CS-I-s-B-10817,"Situl arheologic de la Coronini, punct ""Gaura cu muscă”",sat CORONINI; comuna CORONINI,"""Gaura cu muscă”",
-105,CS-I-m-B-10817.01,Aşezare,sat CORONINI; comuna CORONINI comuna CORONINI,"""Gaura cu muscă”, la 3 km E de sat, în peşteră peşteră",Epoca medievală epoca bronzului
+105,CS-I-m-B-10817.01,Aşezare,sat CORONINI; comuna CORONINI,"""Gaura cu muscă”, la 3 km E de sat, în peşteră",Epoca medievală
+106,CS-I-m-B-10817.02,Aşezare,sat CORONINI; comuna CORONINI,"""Gaura cu muscă”, la 3 km E de sat, în peşteră",Perioada de tranziţie la epoca bronzului
 107,CS-I-m-B-10817.03,Aşezare,sat CORONINI; comuna CORONINI,"""Gaura cu muscă”, la 3 km E de sat, în peşteră",Epoca migraţiilor
 108,CS-I-m-A-10818,Aşezare,sat CORONINII; comuna CORONINI,"""Cula”, la 600 m SE de sat",Epoca medievală
 109,CS-I-s-B-10819,"Situl arheologic de la Cuptoare, punct ""Dealul Sfogea""",sat CUPTOARE; comuna CORNEA,"""Dealul Sfogea”",
@@ -106,7 +115,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 114,CS-I-s-A-10821,Cetatea şi aşezarea dacică la Divici,de sat DIVICI; comuna POJEJENA,"""Grad”, la 2,5 km de sat",
 115,CS-I-m-A-10821.01,Aşezare,sat DIVICI; comuna POJEJENA,"""Grad”, la 2,5 km V de sat","Latène, Cultura geto - dacică"
 116,CS-I-m-A-10821.02,Cetate,sat DIVICI; comuna POJEJENA,"""Grad”, la 2,5 km V de sat","sec.II a. Chr. - sec.I p. Chr., Latène, Cultura geto - dacică"
-117,CS-I-s-B-10822,Aşezare,sat DOMAŞNEA; comuna DOMAŞNEA comuna,"""Coveiul lui Ioşca”, la 1 km S de sat, spre Orşova","sec. II - IV p. Chr., Epoca romană"
+117,CS-I-s-B-10822,Aşezare,sat DOMAŞNEA; comuna DOMAŞNEA,"""Coveiul lui Ioşca”, la 1 km S de sat, spre Orşova","sec. II - IV p. Chr., Epoca romană"
+118,CS-I-s-B-10823,Fortificaţie de pământ,sat DOMAŞNEA; comuna DOMAŞNEA,"""Potoc”, la 3 km NV de sat",sec. XI - XII
 119,CS-I-s-B-10824,Situl arheologic de la Drencova,sat DRENCOVA; comuna BERZASCA,"""La Cetatea de pământ”",sec. XII - XIII
 120,CS-I-m-B-10824.01,Fortificaţie de pământ,sat DRENCOVA; comuna BERZASCA,"""La Cetatea de Pământ”, la 1,5 km spre Cozla, pe malul Dunării",sec. XII - XIII
 121,CS-I-m-B-10824.02,Necropolă,sat DRENCOVA; comuna BERZASCA,"""La Cetatea de pământ”, la 1,5 km spre Cozla, pe malul Dunării",sec. XII - XIII
@@ -116,7 +126,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 125,CS-I-s-B-10826,"Situl arheologic de la Duleu, punct ""Cornet Cetate""",sat DULEU; comuna FÂRLIUG,"""Cornet Cetate”",sec. II - IV p. Chr.
 126,CS-I-m-B-10826.01,Castru de pământ,sat DULEU; comuna FÂRLIUG,"""Cornet Cetate”, pe malul drept al pârâului Pogăniş, la 2 km NE de sat","sec. II - IV p. Chr., Epoca romană"
 127,CS-I-m-B-10826.02,Necropolă,sat DULEU; comuna FÂRLIUG,"""Cornet Cetate”, pe malul drept al pârâului Pogăniş, la 2 km NE de sat","sec. II - IV p. Chr., Epoca romană"
-128,CS-I-s-B-10827,"Situl arheologic de la Duleu, punct ""Odăi”",sat DULEU; comuna FÂRLIUG comuna FÂRLIUG,"""Odăi” mijlocie a pârâului Pogăniş, în zona",sec. II - III p. Chr. romană
+128,CS-I-s-B-10827,"Situl arheologic de la Duleu, punct ""Odăi”",sat DULEU; comuna FÂRLIUG,"""Odăi”",sec. II - III p. Chr.
+129,CS-I-m-B-10827.01,Aşezare civilă,sat DULEU; comuna FÂRLIUG,"""Odăi”, la 1 km NV de sat, pe terasa mijlocie a pârâului Pogăniş, în zona Spilaşului","sec. II - III p. Chr., Epoca romană"
 130,CS-I-m-B-10827.02,Castru de piatră,sat DULEU; comuna FÂRLIUG,"""Odăi”, la 1 km NV de sat, pe terasa mijlocie a pârâului Pogăniş, în zona Spilaşului","sec. II - III p. Chr., Epoca romană"
 131,CS-I-s-B-10828,Aşezare,sat FOROTIC; comuna FOROTIC,"""Valea Iepii”, la 800 m NE de localitate, între Forotic şi Brezov","sec. VIII - IX, Epoca migraţiilor"
 132,CS-I-s-A-10829,"Situl arheologic de la Gornea- Sicheviţa, punct ""Dealul Păzărişte”",sat GORNEA; comuna SICHEVIŢA,"""Dealul Păzărişte”",
@@ -126,14 +137,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 136,CS-I-s-B-10830,"Situl arheologic de la Gornea- Sicheviţa, punct ""Ţărmuri”",sat GORNEA; comuna SICHEVIŢA,"""Ţărmuri”",
 137,CS-I-m-B-10830.01,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Ţărmuri”, pe terasa joasă a Dunării, cuprinsă între şosea şi malul fluviului, la cca. 2,5 km de sat",Epoca medievală timpurie
 138,CS-I-m-B-10830.02,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Ţărmuri”, pe terasa joasă a Dunării, cuprinsă între şosea şi malul fluviului, la cca. 2,5 km de sat",Hallstatt
-139,CS-I-m-B-10830.03,"Aşezare Sicheviţa, punct ""Căuniţa de",sat GORNEA; comuna SICHEVIŢA comuna SICHEVIŢA,"""Ţărmuri”, pe terasa joasă a Dunării, cuprinsă între şosea şi malul fluviului, la cca. 2,5 km de sat",Neolitic
+139,CS-I-m-B-10830.03,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Ţărmuri”, pe terasa joasă a Dunării, cuprinsă între şosea şi malul fluviului, la cca. 2,5 km de sat",Neolitic
+140,CS-I-s-B-10831,"Situl arheologic Gornea - Sicheviţa, punct ""Căuniţa de Sus”",sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Sus”",
 141,CS-I-m-B-10831.01,Necropolă,sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Sus”, pe terasa mijlocie a Dunării cuprinsă între Dealul Căuniţa şi Dunăre, între valea Gornea şi Ogaşul Căuniţei",Epoca medievală timpurie
 142,CS-I-m-B-10831.02,Villa rustica,sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Sus”, pe terasa mijlocie a Dunării cuprinsă între Dealul Căuniţa şi Dunăre, între valea Gornea şi Ogaşul Căuniţei","sec. II - III p. Chr., Epoca romană"
 143,CS-I-m-B-10831.03,Cuptor de ars cărămizi,sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Sus”, pe terasa mijlocie a Dunării cuprinsă între Dealul Căuniţa şi Dunăre, între valea Gornea şi Ogaşul Căuniţei","sec. II - III p. Chr., Epoca romană"
 144,CS-I-m-B-10831.04,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Sus”, pe terasa mijlocie a Dunării cuprinsă între Dealul Căuniţa şi Dunăre, între valea Gornea şi Ogaşul Căuniţei",Hallstatt
 145,CS-I-m-B-10831.05,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Sus”, pe terasa mijlocie a Dunării cuprinsă între Dealul Căuniţa şi Dunăre, între valea Gornea şi Ogaşul Căuniţei","Neolitic, Cultura Vinča"
 146,CS-I-s-B-10832,Castellum,sat GORNEA; comuna SICHEVIŢA,"""Căuniţa de Jos”, pe 4,5 km SV de sat, terasa inferioară a Dunării, la stânga Ogaşului Căuniţei","sec. IV - V, Epoca romano- bizantină"
-147,CS-I-s-B-10833,"Situl arheologic de la Gornea, punct ""Locurile lungi""",sat GORNEA; comuna SICHEVIŢA comuna SICHEVIŢA,"""Locurile lungi” între valea Cameniţei şi Liubcova",
+147,CS-I-s-B-10833,"Situl arheologic de la Gornea, punct ""Locurile lungi""",sat GORNEA; comuna SICHEVIŢA,"""Locurile lungi”",
+148,CS-I-m-B-10833.01,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Locurile lungi”, pe terasa inferioară, între valea Cameniţei şi Liubcova",Eneolitic
 149,CS-I-m-B-10833.02,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Locurile lungi”, pe terasa inferioară, între valea Cameniţei şi Liubcova",Neolitic
 150,CS-I-s-B-10834,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Bişteg”, pe dealul situat în stânga văii satului",Eneolitic
 151,CS-I-m-B-10835,Necropolă,sat GORNEA; comuna SICHEVIŢA,"""Tirchevişte”, la 3 km de sat, la capătul estic al terasei Căuniţa de Sus",sec. XIV - XV
@@ -144,7 +157,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 156, CS-I-m-B-10838.02, Necropolă, sat GORNEA; comuna SICHEVIŢA," ""Zomoniţa”, la 3 km S de sat pe terasa Dunării, dinspre podul Păzărişte"," sec. IX - XII, Epoca medievală timpurie"
 157,CS-I-m-B-10838.03,Aşezare,sat GORNEA; comuna SICHEVIŢA,"""Zomoniţa”, la 3 km S de sat pe terasa Dunării, dinspre podul Păzărişte","sec. VIII - IX, Epoca migraţiilor"
 158,CS-I-s-B-10839,Situl arheologic de la Greoni,sat GREONI; comuna GRĂDINARI,"""Sălişte”",
-159,CS-I-m-B-10839.01,Aşezare rurală,sat GREONI; comuna GRĂDINARI comuna,"""Sălişte”, la 1 km SV de sat, pe malul râului Caraş râului Caraş","sec. III - IV p. Chr., Epoca daco -romană"
+159,CS-I-m-B-10839.01,Aşezare rurală,sat GREONI; comuna GRĂDINARI,"""Sălişte”, la 1 km SV de sat, pe malul râului Caraş","sec. III - IV p. Chr., Epoca daco -romană"
+160,CS-I-m-B-10839.02,Aşezare rurală,sat GREONI; comuna GRĂDINARI,"""Sălişte”, la 1 km SV de sat, pe malul râului Caraş",Epoca romană
 161,CS-I-s-B-10840,Situl arheologic de la Iabalcea,sat IABALCEA; comuna CARAŞOVA,"""Peştera Ţapului”",
 162,CS-I-m-B-10840.01,Aşezare,sat IABALCEA; comuna CARAŞOVA,"""Peştera Ţapului”, la 3 km SV de sat, pe malul drept al Caraşului",Hallstatt
 163,CS-I-m-B-10840.02,Aşezare,sat IABALCEA; comuna CARAŞOVA,"""Peştera Ţapului”, la 3 km SV de sat, pe malul drept al Caraşului",Perioada de tranziţie la epoca bronzului
@@ -153,7 +167,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 166,CS-I-m-B-10801.01,Necropolă,sat IAZ; comuna OBREJA,"""Iaz - Şuşară”, la cca. 1 - 2 km SE de castrul roman şi la cca. 300 - 400 m SE de oraşul roman",Epoca romană
 167,CS-I-m-B-10801.02,Aşezare,sat IAZ; comuna OBREJA,"""Iaz - Şuşară”, la cca. 1 - 2 km SE de castrul roman şi la cca. 300 - 400 m SE de oraşul roman",Hallstatt
 168,CS-I-m-B-10801.03,Aşezare,sat IAZ; comuna OBREJA,"""Iaz - Şuşară”, la cca. 1 - 2 km SE de castrul roman şi la cca. 300 - 400 m SE de oraşul roman",Eneolitic
-169,CS-I-m-B-10801.04,Aşezare,sat IAZ; comuna OBREJA,"""Iaz - Şuşară”, la cca. 1 - 2 km SE de castrul roman şi la cca. 300 - 400 m SE",Epoca bronzului
+169,CS-I-m-B-10801.04,Aşezare,sat IAZ; comuna OBREJA,"""Iaz - Şuşară”, la cca. 1 - 2 km SE de castrul roman şi la cca. 300 - 400 m SE de oraşul roman",Epoca bronzului
 170,CS-I-s-A-10802,"Municipiul roman Tibiscum, punct ""Iaz - Traianu"", lunca Timişului",sat IAZ; comuna OBREJA,"""Iaz - Traianu”, în lunca Timişului, pe malul drept, la 1 km E de castrul roman","sec. II - IV p. Chr., Epoca romană"
 171,CS-I-s-A-10803,Municipiul Tibiscum,sat IAZ; comuna OBREJA,"""Iaz - Traianu”, la cca. 700 m E de castru, pe malul drept al Timişului","sec. II - IV p. Chr., Epoca romană"
 172,CS-I-s-B-10804,Necropolă,sat IAZ; comuna OBREJA,"""Satu Bătrân”, la 500 m S de municipiul roman","sec. II - III p. Chr., Epoca romană"
@@ -164,7 +178,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 177,CS-I-s-B-10843,"Situl arheologic de la Ilidia, punct ""Sălişte”",sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Sălişte”",
 178,CS-I-m-B-10843.01,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Sălişte”, în marginea vestică a satului, spre intrarea în localitate","sec. XIII - XIV, Epoca medievală timpurie"
 179,CS-I-m-B-10843.02,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Sălişte”, în marginea vestică a satului, spre intrarea în localitate","sec. VIII - IX, Epoca migraţiilor"
-180,CS-I-s-A-10844,"Situl arheologic de la Ilidia, punct ""Dealul Obliţa""",sat ILIDIA; comuna CICLOVA ROMÂNĂ CICLOVA ROMÂNĂ,"""Dealul Obliţa” intrarea în localitate",
+180,CS-I-s-A-10844,"Situl arheologic de la Ilidia, punct ""Dealul Obliţa""",sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Dealul Obliţa”",
+181,CS-I-m-A-10844.01,Biserică de tip rotondă,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Dealul Obliţa”, la SV de sat, la intrarea în localitate",sec. XIII - XV
 182,CS-I-m-A-10844.02,Donjon,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Dealul Obliţa”, la SV de sat, la intrarea în localitate","sec. XII, Epoca medievală"
 183,CS-I-m-A-10844.03,Necropolă,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Dealul Obliţa”, la SV de sat, la intrarea în localitate",sec. XIII - XV
 184,CS-I-m-A-10844.04,Necropolă,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Dealul Obliţa”, la SV de sat, la intrarea în localitate",Hallstatt
@@ -174,7 +189,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 188,CS-I-m-B-10845.03,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Moara Gherghinii”, în zona „Funi” la 1 km SV de sat, pe dreapta drumului de intrare în localitate","sec. VIII - IX, Epoca migraţiilor"
 189,CS-I-m-B-10845.04,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Moara Gherghinii”, în zona „Funi” la 1 km SV de sat, pe dreapta drumului de intrare în localitate","sec. III - IV p. Chr., Epoca daco-romană"
 190,CS-I-m-B-10845.05,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Moara Gherghinii”, în zona „Funi” la 1 km SV de sat, pe dreapta drumului de intrare în localitate",Eneolitic
-191,CS-I-m-B-10845.06,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ CICLOVA ROMÂNĂ,"""Moara Gherghinii”, în zona „Funi” la 1 km SV de sat, pe dreapta drumului de intrare în localitate pârâului Măscăşeni",Hallstatt
+191,CS-I-m-B-10845.06,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Moara Gherghinii”, în zona „Funi” la 1 km SV de sat, pe dreapta drumului de intrare în localitate",Hallstatt
+192,CS-I-s-B-10846,Aşezare,sat ILIDIA; comuna CICLOVA ROMÂNĂ,"""Măscăşeni”, la N de sat, pe malul pârâului Măscăşeni","sec. VIII, Epoca migraţiilor"
 193,CS-I-s-B-10847,Construcţie romană - statio,sat LĂPUŞNICEL; comuna LĂPUŞNICEL,"""Cetate - La Barbu”, la 2 km N de sat, pe terasa dealului Vineşti","sec. II - III p. Chr., Epoca romană"
 194,CS-I-s-B-10848,"Situl arheologic de la Liubcova, punct ""Stenca Liubcovei”",sat LIUBCOVA; comuna BERZASCA,"""Stenca Liubcovei”",
 195,CS-I-m-B-10848.01,Cetate,sat LIUBCOVA; comuna BERZASCA,"""Stenca Liubcovei”, la 2 km E de sat, pe malul Dunării, în stânga şoselei","Latène, Cultura geto - dacică"
@@ -185,7 +201,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 200,CS-I-m-B-10851.01,Aşezare,sat MEHADIA; comuna MEHADIA,"""Zidina”, la 3 km N de localitate","sec. II - IV p. Chr., Epoca romană"
 201,CS-I-m-B-10851.02,Castru,sat MEHADIA; comuna MEHADIA,"""Zidina”, la 3 km N de localitate","sec. II - IV p. Chr., Epoca romană"
 202,CS-I-s-B-10852,Necropolă,sat MEHADIA; comuna MEHADIA,"""Valea Bolvaşniţei”, la 3 km N de localitate, lângă castrul roman","sec. XI - XIII, Epoca medievală timpurie"
-203,CS-I-s-A-10853,"Fortificaţie Mehadia, punct ""Dealul",sat MEHADIA; comuna MEHADIA comuna MEHADIA,"Pe malul râului Belareca, intravilan",sec. XIV - XV
+203,CS-I-s-A-10853,Fortificaţie,sat MEHADIA; comuna MEHADIA,"Pe malul râului Belareca, intravilan",sec. XIV - XV
+204,CS-I-s-A-10854,"Cetatea medievală de la Mehadia, punct ""Dealul Grad""",sat MEHADIA; comuna MEHADIA,"""Dealul Grad”, la NE de sat, la 1 km",sec. XIII - XIV
 205,CS-I-s-B-10855,"Situl arheologic de la Mehadia, punct ""Ulici”",sat MEHADIA; comuna MEHADIA,"""Ulici”",sec. XIII - XIV
 206,CS-I-m-B-10855.01,Biserică,sat MEHADIA; comuna MEHADIA,"""Ulici”, la 3 km N de sat",sec. XIII - XIV
 207,CS-I-m-B-10855.02,Aşezare,sat MEHADIA; comuna MEHADIA,"""Ulici”, la 3 km N de sat",sec. XIII - XIV
@@ -195,17 +212,20 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 211,CS-I-m-B-10857.02,Necropolă,oraş MOLDOVA NOUĂ,"""Sălişte”, la 1 km NE de localitate","sec. II - III p. Chr., Epoca romană"
 212,CS-I-s-B-10861,Peşteră cu locuire preistorică,oraş MOLDOVA NOUĂ,"""Valea Mare”",Preistorie
 213,CS-I-s-B-30500,Aşezare minieră,oraş MOLDOVA NOUĂ,"""Ogaşul Băieşului” şi ""Cânepişte""","sec. II - III p. Chr., Epoca romană"
-214,CS-I-s-B-10858,"Situl arheologic de la Moldova Nouă, punct ""Ostrovul Decebal""",localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ componentă,"""Ostrovul Decebal” teritoriale ale Dunării",
+214,CS-I-s-B-10858,"Situl arheologic de la Moldova Nouă, punct ""Ostrovul Decebal""",localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”",
+215,CS-I-m-B-10858.01,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării",Epoca medievală
 216,CS-I-m-B-10858.02,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”",Eneolitic
 217,CS-I-m-B-10858.03,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării",Hallstatt
 218,CS-I-m-B-10858.04,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării","Latène, Cultura geto - dacică"
 219,CS-I-m-B-10858.05,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării",Epoca bronzului
-220,CS-I-m-B-10858.06,Necropolă,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ componentă,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării teritoriale ale Dunării",Epoca bronzului
+220,CS-I-m-B-10858.06,Necropolă,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării",Epoca bronzului
+221,CS-I-m-B-10858.07,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Ostrovul Decebal”, insulă în apele teritoriale ale Dunării",Eneolitic
 222,CS-I-s-B-10859,"Situl arheologic de la Moldova Nouă, punct ""Rât""",localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Rât”",
 223,CS-I-m-B-10859.01,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Rât”, pe malul Dunării, la intrarea în localitate",Neolitic
 224,CS-I-m-B-10859.02,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Rât”","sec. VII - VIII, Epoca migraţiilor"
 225,CS-I-s-B-10860,"Situl arheologic de la Moldova Nouă, punct ""Vinograda - Vlaskikraj""",localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Vinograda - Vlaskikraj”",
-226,CS-I-m-B-10860.01,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ componentă,"""Vinograda - Vlaskikraj”, la capătul estic al localităţii, pe malul Dunării estic al localităţii, pe malul Dunării","sec. IX - X, Epoca medievală timpurie târziu"
+226,CS-I-m-B-10860.01,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Vinograda - Vlaskikraj”, la capătul estic al localităţii, pe malul Dunării","sec. IX - X, Epoca medievală timpurie"
+227,CS-I-m-B-10860.02,Aşezare,localitate componentă MOLDOVA VECHE; oraş MOLDOVA NOUĂ,"""Vinograda - Vlaskikraj”, la capătul estic al localităţii, pe malul Dunării","sec. III - IV p. Chr., Neolitic târziu"
 228,CS-I-s-B-10862,Biserică,sat NAIDĂŞ; comuna NAIDĂŞ,"""Valea Călugărei”, la 500 m în spatele balastierei, pe valea râului Nera",Epoca medievală
 229,CS-I-s-B-10863,Aşezare rurală,sat PĂLTINIŞ; comuna PĂLTINIŞ,"""Dâmbul bisericii”, la NV de sat","sec. VIII - XIII, Epoca medievală timpurie"
 230,CS-I-s-B-10864,Aşezare,sat PĂTAŞ; comuna PRIGOR,"""Sălişte”, la 1 km N de sat","sec. II - III p. Chr., Epoca romană"
@@ -213,7 +233,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 232,CS-I-s-A-10866,"Castrul de la Pojejena, punct ""Via Bogdanovici - Sitarniţa”",sat POJEJENA; comuna POJEJENA,"""Via Bogdanovici - Sitarniţa”","sec. II - IV p. Chr., Epoca romană"
 233,CS-I-m-A-10866.01,Castru,sat POJEJENA; comuna POJEJENA,"""Via Bogdanovici - Sitarniţa”, pe platoul din spatele bisericii, la cca. 1 km de ţărm, între DN 57 şi limita de N a comunei, pe terasa superioară a Dunării","sec. II - IV p. Chr., Epoca romană"
 234,CS-I-m-A-10866.02,Canabae,sat POJEJENA; comuna POJEJENA,"""Via Bogdanovici - Sitarniţa”, pe platoul din spatele bisericii, la cca. 1 km de ţărm, între DN 57 şi limita de N a comunei, pe terasa superioară a Dunării","sec. II - IV p. Chr., Epoca romană"
-235,CS-I-s-B-10867,"Situl arheologic de la Pojejena, punct ""Zidina”",sat POJEJENA; comuna POJEJENA comuna POJEJENA,"""Zidina” inundat al Dunării",sec. XIII - XIV
+235,CS-I-s-B-10867,"Situl arheologic de la Pojejena, punct ""Zidina”",sat POJEJENA; comuna POJEJENA,"""Zidina”",sec. XIII - XIV
+236,CS-I-m-B-10867.01,Cetate,sat POJEJENA; comuna POJEJENA,"""Zidina”, la 500 m SE de sat, pe malul inundat al Dunării",sec. XIII - XIV
 237,CS-I-m-B-10867.02,Necropolă,sat POJEJENA; comuna POJEJENA,"""Zidina”, la 500 m SE de sat, pe malul inundat al Dunării",sec. XIII - XIV
 238,CS-I-s-B-10868,"Situl arheologic de la Pojejena, punct ""Nucet""",sat POJEJENA; comuna POJEJENA,"""Nucet”",
 239,CS-I-m-B-10868.01,Necropolă,sat POJEJENA; comuna POJEJENA,"""Nucet”, la 200 m E de sat, pe malul Dunării",sec. XIII - XIV
@@ -223,7 +244,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 243,CS-I-m-B-10869.02,Necropolă,sat PRILIPEŢ; comuna BOZOVICI,"""Spânzurătoare - Comoara”, la 2 km de sat, la intersecţia drumului ce duce spre Rudăria, pe panta dealului şi pe terasa dinspre pârâul Rudăria","sec. II - III p. Chr., Epoca romană"
 244,CS-I-m-B-10870,Aşezare,sat RAMNA; comuna RAMNA,"""Berari”, la 3 km de sat","sec. II - III p. Chr., Epoca romană"
 245,CS-I-s-B-10871,"Situl arheologic de la Ramna, punct ""Ibrilont""",sat RAMNA; comuna RAMNA,"""Ibrilont”",
-246,CS-I-m-B-10871.01,Aşezare,sat RAMNA; comuna RAMNA,"""Ibrilont”, în lunca râului Bârzava spre rama nordică a dealurilor dintre Ramna şi Berzovia, pe aliniamentul","sec. III - IV p. Chr., Epoca daco-romană"
+246,CS-I-m-B-10871.01,Aşezare,sat RAMNA; comuna RAMNA,"""Ibrilont”, în lunca râului Bârzava spre rama nordică a dealurilor dintre Ramna şi Berzovia, pe aliniamentul liniei de înaltă tensiune","sec. III - IV p. Chr., Epoca daco-romană"
 247,CS-I-m-B-10871.02,Instalaţie de reducere a minereului,sat RAMNA; comuna RAMNA,"""Ibrilont”, în lunca râului Bârzava spre rama nordică a dealurilor dintre Ramna şi Berzovia, pe aliniamentul liniei de înaltă tensiune","sec. III - IV p. Chr., Epoca daco-romană"
 248,CS-I-s-B-10872,Fortificaţie de pământ,sat REMETEA - POGĂNICI; comuna FÂRLIUG,"""Pascoane”, la 3 km NE de sat, pe platforma dealului din stânga drumului spre satul Scăiuş",Hallstatt
 249,CS-I-s-B-10873,Exploatare minieră,sat SASCA MONTANĂ; comuna SASCA ROMÂNĂ,"""Dealul Tecla”, la N de localitate, spre Cărbunari","sec. II - III p. Chr., Epoca romană"
@@ -231,7 +252,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 251,CS-I-m-B-10874.01,Aşezare,sat SLATINA-TIMIŞ; comuna SLATINA- TIMIŞ,"""Sas”, în zona gării C.F.R., pe stânga şoselei","Eneolitic, Cultura Tiszapolgár"
 252,CS-I-m-B-10874.02,Aşezare,sat SLATINA-TIMIŞ; comuna SLATINA- TIMIŞ,"""Sas”, în zona gării C.F.R., pe stânga şoselei","Neolitic, Cultura Sălcuţa"
 253,CS-I-s-B-10875,Aşezare fortificată,sat SOCOL; comuna SOCOL,"""Palanacki Breg”, la 2,5 km SE de sat","Latène, Cultura geto - dacică"
-254,CS-I-s-B-10876,Cetatea medievală de la Socolari Mare,sat SOCOLARI; comuna CICLOVA ROMÂNĂ MARE; comuna,"""Cetatea Beiului”, la 3 km SE de sat","sec. XIV - XV, Epoca medievală romană"
+254,CS-I-s-B-10876,Cetatea medievală de la Socolari,sat SOCOLARI; comuna CICLOVA ROMÂNĂ,"""Cetatea Beiului”, la 3 km SE de sat","sec. XIV - XV, Epoca medievală"
+255,CS-I-s-B-10877,Situl arheologic de la Surducu Mare,sat SURDUCU MARE; comuna FOROTIC,"""Rovină”","sec. II - III p. Chr., Epoca romană"
 256,CS-I-m-B-10877.01,Aşezare,sat SURDUCU MARE; comuna FOROTIC,"""Rovină”, la 500 m NV de sat, în zona fostelor anexe C.A.P.","sec. II - III p. Chr., Epoca romană"
 257,CS-I-m-B-10877.02,Castru,sat SURDUCU MARE; comuna FOROTIC,"""Rovină”, la 500 m NV de sat, în zona fostelor anexe C.A.P.","sec. II - III p. Chr., Epoca romană"
 258,CS-I-s-B-10878,"Situl arheologic de la Şopotu Nou, punct ""Peştera Rolului""",sat ŞOPOTU NOU; comuna ŞOPOTU NOU,"""Peştera Rolului”",
@@ -240,7 +262,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 261,CS-I-m-B-10878.03,Locuire,sat ŞOPOTU NOU; comuna ŞOPOTU NOU,"""Peştera Rolului”, la 5 km V de sat, în cheile Nerei",Epoca bronzului
 262,CS-I-s-B-10879,Aşezare,sat ŞOPOTU VECHI; comuna DALBOŞEȚ,"""Sălişte”, la 1 km N de sat","sec. II - III p. Chr., Epoca daco-romană"
 263,CS-I-s-B-10880,Necropolă,sat ŞOPOTU VECHI; comuna DALBOŞEȚ,"""Mirvila”, la 500 m N de sat","sec. XII - XIII, Epoca medievală"
-264,CS-I-s-B-10881,"Villa rustica Vechi, punct ""Siul lui",sat ŞOPOTU VECHI; comuna DALBOŞEȚ comuna DALBOŞEȚ,"""Dragomireana”, la 1 km NE de intrarea în satul Dalboşeț","sec. II - III p. Chr., Epoca romană romană"
+264,CS-I-s-B-10881,Villa rustica,sat ŞOPOTU VECHI; comuna DALBOŞEȚ,"""Dragomireana”, la 1 km NE de intrarea în satul Dalboşeț","sec. II - III p. Chr., Epoca romană"
+265,CS-I-s-B-10882,"Situl arheologic de la Şopotu Vechi, punct ""Siul lui Bădescu""",sat ŞOPOTU VECHI; comuna DALBOŞEȚ,"""Siul lui Bădescu”","sec. II - III p. Chr., Epoca romană"
 266,CS-I-m-B-10882.01,Construcţie,sat ŞOPOTU VECHI; comuna DALBOŞEȚ,"""Siul lui Bădescu”, pe malul stâng al Nerei, la 400 m de Dragomireana","sec. II - III p. Chr., Epoca romană"
 267,CS-I-m-B-10882.02,Drum,sat ŞOPOTU VECHI; comuna DALBOŞEȚ,"""Siul lui Bădescu”, pe malul stâng al Nerei, la 400 m de Dragomireana","sec. II - III p. Chr., Epoca romană"
 268,CS-I-s-B-10883,"Situl arheologic de la Şoşdea, punctele ""Zgurile Mari”, ""Zgurile Mici”, ""Islaz”,""Munteanu”",sat ŞOŞDEA; comuna MĂURENI,"""Zgurile Mari”, ""Zgurile Mici”, ""Islaz”,""Munteanu”",
@@ -248,7 +271,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 270,CS-I-m-B-10883.02,Aşezare,sat ŞOŞDEA; comuna MĂURENI,"""Zgurile Mari”, ""Zgurile Mici”, ""Islaz”,""Munteanu”, la E de sat, la 800 m spre vechiul drum spre Berzovia, pe malul drept al Bârzavei, în dreptul saivanelor din punctul „Islaz”",Eneolitic
 271,CS-I-s-B-10884,Mină de exploatare a fierului,sat ŞTINĂPARI; comuna CĂRBUNARI,"""Dealul Chelu”, la 3 km NE de sat","sec. II - III p. Chr., Epoca romană"
 272,CS-I-s-A-10885,Situl arheologic de la Teregova,sat TEREGOVA; comuna TEREGOVA,"""Znamen”",
-273,CS-I-m-A-10885.01,Aşezare,sat TEREGOVA; comuna TEREGOVA,"""Znamen”, lângă pârâul Hideg, la confluenţa sa cu Timişul, la 2 km N de","sec. II - IV p. Chr., Epoca romană"
+273,CS-I-m-A-10885.01,Aşezare,sat TEREGOVA; comuna TEREGOVA,"""Znamen”, lângă pârâul Hideg, la confluenţa sa cu Timişul, la 2 km N de sat","sec. II - IV p. Chr., Epoca romană"
 274,CS-I-m-A-10885.02,Castru,sat TEREGOVA; comuna TEREGOVA,"""Znamen”, lângă pârâul Hideg, la confluenţa sa cu Timişul, la 2 km N de sat","sec. II - IV p. Chr., Epoca romană"
 275,CS-I-m-A-10886,Fortificaţie,sat TICVANIU MARE; comuna TICVANIU MARE,"""Andru”, la 500 m NE de sat, la intrarea în localitate, pe partea stângă a DN 57",Hallstatt
 276,CS-I-s-B-10887,Necropolă,sat TICVANIU MARE; comuna TICVANIU MARE,"""Ferma II”, la 1 km NE de sat, pe partea dreaptă a şoselei",Hallstatt
@@ -257,7 +280,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 279,CS-I-s-B-10890,Situl arheologic de la Valea Timişului,sat VALEA TIMIŞULUI; comuna BUCHIN,"""Rovina”",
 280,CS-I-m-B-10890.01,Aşezare,sat VALEA TIMIŞULUI; comuna BUCHIN,"""Rovina”, la 2,5 km de sat","Hallstatt, Cultura Basarabi"
 281,CS-I-m-B-10890.02,Aşezare,sat VALEA TIMIŞULUI; comuna BUCHIN,"""Rovina”, la 2,5 km de sat","Eneolitic, Cultura Tiszapolgár"
-282,CS-I-m-B-10890.03,Aşezare,sat VALEA TIMIŞULUI; comuna BUCHIN comuna,"""Rovina”, la 2,5 km de sat aliniamentul de înaltă tensiune",Epoca bronzului romană
+282,CS-I-m-B-10890.03,Aşezare,sat VALEA TIMIŞULUI; comuna BUCHIN,"""Rovina”, la 2,5 km de sat",Epoca bronzului
+283,CS-I-s-B-10891,Aşezare,sat VĂLIŞOARA; comuna BUCOŞNIŢA,"La 500 m N de gara C.F.R., pe aliniamentul de înaltă tensiune","sec. II - III p. Chr., Epoca romană"
 284,CS-I-s-A-10892,"Situl arheologic de la Vărădia, punct ""Rovina”",sat VĂRĂDIA; comuna VĂRĂDIA,"""Rovina”","sec. II - III p. Chr., Epoca romană"
 285,CS-I-m-A-10892.01,Aşezare,sat VĂRĂDIA; comuna VĂRĂDIA,"""Rovina”, la 500 m E de sat, pe malul stâng al Caraşului","sec. II - III p. Chr., Epoca romană"
 286,CS-I-m-A-10892.02,Castru,sat VĂRĂDIA; comuna VĂRĂDIA,"""Rovina”, la 500 m E de sat, pe malul stâng al Caraşului","sec. II - III p. Chr., Epoca romană"
@@ -269,7 +293,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 292,CS-I-s-B-10895,Situl arheologic de la Voislova,sat VOISLOVA; comuna ZĂVOI,,"sec. II - III p. Chr., Epoca romană"
 293,CS-I-m-B-10895.01,Castru,sat VOISLOVA; comuna ZĂVOI,"Intravilan, la 200 m în spatele gării C.F.R.","sec. II - III p. Chr., Epoca romană"
 294,CS-I-m-B-10895.02,Aşezare,sat VOISLOVA; comuna ZĂVOI,"Intravilan, la 200 m în spatele gării C.F.R.","sec. II - III p. Chr., Epoca romană"
-295,CS-I-s-B-10896,"Situl arheologic de la Vrani, punct ""Dâmbul Morişchii""",sat VRANI; comuna VRANI VRANI,"""Dâmbul Morişchii” Caraşului, la NV de sat",
+295,CS-I-s-B-10896,"Situl arheologic de la Vrani, punct ""Dâmbul Morişchii""",sat VRANI; comuna VRANI,"""Dâmbul Morişchii”",
+296,CS-I-m-B-10896.01,Aşezare,sat VRANI; comuna VRANI,"""Dâmbul Morişchii”, pe malul stâng al Caraşului, la NV de sat",sec. XIII - XIV
 297,CS-I-m-B-10896.02,Necropolă,sat VRANI; comuna VRANI,"""Dâmbul Morişchii”, pe malul stâng al Caraşului, la NV de sat",sec. XIII - XIV
 298,CS-I-m-B-10896.03,Aşezare,sat VRANI; comuna VRANI,"""Dâmbul Morişchii”, pe malul stâng al Caraşului, la NV de sat","Hallstatt, Cultura geto - dacică"
 299,CS-I-m-B-10896.04,Aşezare,sat VRANI; comuna VRANI,"""Dâmbul Morişchii”, pe malul stâng al Caraşului, la NV de sat",Neolitic
@@ -279,7 +304,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 303,CS-I-m-B-10898.01,Aşezare,sat ZĂVOI; comuna ZĂVOI,"La km 22+200 pe şoseaua Caransebeş - Haţeg, în zona cimitirului din localitate","sec. II - III p. Chr., Epoca romană"
 304,CS-I-m-B-10898.02,Castru,sat ZĂVOI; comuna ZĂVOI,"La km 22+200 pe şoseaua Caransebeş - Haţeg, în zona cimitirului din localitate","sec. II - III p. Chr., Epoca romană"
 305,CS-I-s-B-10899,Aşezare,sat ZORLENŢU MARE; comuna ZORLENŢU MARE,"""Icrelişte”, la 5 km NV de sat","Neolitic, Cultura Vinča"
-306,CS-II-m-B-10901,Vila Veche,municipiul REŞIŢA,"Parcul de pe Dealul Golului - incinta SC UCM Reşiţa SA, Cartier Reşiţa",1893 - 1894
+306,CS-II-m-B-10901,Vila Veche,municipiul REŞIŢA,"Parcul de pe Dealul Golului - incinta SC UCM Reşiţa SA, Cartier Reşiţa Română",1893 - 1894
 307,CS-II-m-B-10902,"Vila Roşie, azi Policlinica uzinală",municipiul REŞIŢA,"Parcul de pe Dealul Golului - incinta SC UCM Reşiţa SA, Cartier Reşiţa Română",1900 - 1933
 308,CS-II-m-B-10903,Podul peste Bârzava,municipiul REŞIŢA,"Str. Castanilor - Str. Zimbrului; Cartier Stavila, peste râul Bârzava",1931
 309,CS-II-m-B-10904,"Fabrica de locomotive, cu depou, azi hală motoare Diesel",municipiul REŞIŢA,Incinta SC UCM Reşiţa SA - zona halei Motoare Diesel,1918 - 1941
@@ -289,7 +314,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 313,CS-II-m-B-10912,Casă,municipiul REŞIŢA,"Str. Beethoven 41-43, Cartier Reşiţa Română",1900 - 1925
 314,CS-II-m-B-10913,"Vila Koch, azi Casa Corpului Didactic",municipiul REŞIŢA,"Str. Bega 1, Cartier Reşiţa Română",1900
 315,CS-II-m-B-10914,"Casa Bügler, azi locuinţă",municipiul REŞIŢA,"Str. Castanilor 12, Cartier Reşiţa Română",1900 - 1925
-316,CS-II-m-B-10915,"Şcoala de beton, azi Şcoala clasele I-VIII nr. 1 de zi ""Maria""",cu municipiul REŞIŢA,"Str. Castanilor 72, Cartier Reşiţa Română",1907
+316,CS-II-m-B-10915,"Şcoala de beton, azi Şcoala clasele I-VIII nr. 1",cu municipiul REŞIŢA,"Str. Castanilor 72, Cartier Reşiţa Română",1907
+317,CS-II-m-B-10916,"Azilul de bătrâni, azi Centrul de zi ""Maria""",municipiul REŞIŢA,"Str. Cireşului 75, Cartierul Lend",înc. sec. XX
 318,CS-II-m-B-10917,"Casa Al. Popovici, azi locuinţă",municipiul REŞIŢA,"Str. Daicoviciu Constantin 4, Cartier Reşiţa Montană",1900 - 1950
 319,CS-II-m-B-10918,"Şcoala civilă (Şcoala Pittner), azi locuinţe",municipiul REŞIŢA,"Str. Furnalelor 13B, Cartier Reşiţa Montană",mijl. sec. XIX
 320,CS-II-m-B-10919,"Locuinţe gemene (""Fraţii Blăjiţa”)",municipiul REŞIŢA,"Str. Golului 8-9, Cartier Reşiţa Română",1902 - 1903
@@ -300,7 +326,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 325, CS-II-m-B-10924," Casa Friedmann, azi Biblioteca judeţeană ""Paul Iorgovici""", municipiul REŞIŢA," Str. Iorgovici Paul 50, Cartier Reşiţa Montană", 1875 - 1900
 326,CS-II-m-B-10925,"Şcoala siderurgică, azi sediul O.C.P.I.",municipiul REŞIŢA,"Str. Lalescu Traian 11, Cartier Reşiţa Montană",înc. sec. XX
 327,CS-II-m-B-10926,"Casa Neff fiul, cu tipografie, azi locuinţe şi spaţii comerciale",municipiul REŞIŢA,"Str. Lalescu Traian 16, Cartier Reşiţa Montană",1875 - 1900
-328,CS-II-m-B-10927,"Casa Neff I, cu baia publică, azi locuinţe şi sediu firme Inspectotatului Teritorial de",municipiul REŞIŢA,"Str. Lalescu Traian 18, Cartier Reşiţa Montană Montană",1875 - 1900
+328,CS-II-m-B-10927,"Casa Neff I, cu baia publică, azi locuinţe şi sediu firme",municipiul REŞIŢA,"Str. Lalescu Traian 18, Cartier Reşiţa Montană",1875 - 1900
+329,CS-II-m-B-10928,"Poşta, azi sediul Inspectotatului Teritorial de Muncă al judeţului",municipiul REŞIŢA,"Str. Lalescu Traian 22, Cartier Reşiţa Montană",1912
 330,CS-II-m-B-10929,"Cazinoul german, azi Direcţia Generală de Muncă şi Protecţie Socială şi Casa de Pensii",municipiul REŞIŢA,"Str. Lalescu Traian 27, Cartier Reşiţa Montană",1862
 331,CS-II-m-B-10930,"Casa oficiali UDR, azi locuinţe",municipiul REŞIŢA,"Str. Lalescu Traian 28, Cartier Reşiţa Montană",1875 - 1900
 332,CS-II-m-B-10931,"Casa directorului superior UDR (Müller), azi sediu SC ""Omniasig"" şi locuinţe",municipiul REŞIŢA,"Str. Lalescu Traian 30, Cartier Reşiţa Montană",1900 - 1925
@@ -308,7 +335,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 334,CS-II-m-B-10932.01,"Biserica romano-catolică ""Maria Zăpezii""",municipiul REŞIŢA,"Str. Lalescu Traian 34, Cartier Reşiţa Montană",1848
 335,CS-II-m-B-10932.02,Casa parohială,municipiul REŞIŢA,"Str. Lalescu Traian 34, Cartier Reşiţa Montană",1848
 336,CS-II-m-A-10900,Furnal (nr. 2),municipiul REŞIŢA,"Str. Lalescu Traian 36, în incinta SC TMK SA Reşiţa, pe vatra cuptoarelor înalte (furnale)","vatra cuptoarelor înalte (furnale) - 1771, modificări tehnologice succesive - 1771 -1923, 1961 - 1989"
-337,CS-II-a-B-10907,"Ansamblul fostului atelier pudlaj şi laminare cu abur (Hala cuptoare adânci, Centrala Ilgner, două hale pentru laminoare, Atelierul electric, Hala XV) birouri",de municipiul REŞIŢA,"Str. Lalescu Traian 36, în incinta SC TMK SA Reșița Montană",1845 - 1926
+337,CS-II-a-B-10907,"Ansamblul fostului atelier pudlaj şi laminare cu abur (Hala cuptoare adânci, Centrala Ilgner, două hale pentru laminoare, Atelierul electric, Hala XV)",de municipiul REŞIŢA,"Str. Lalescu Traian 36, în incinta SC TMK SA Reșița",1845 - 1926
+338,CS-II-m-B-10935,"Casă de raport, azi locuinţe birouri",şi municipiul REŞIŢA,"Str. Laminoarelor 5, Cartier Reşiţa Montană",1875 - 1900
 339,CS-II-m-B-10936,"Casa Crăciun, azi locuinţe",municipiul REŞIŢA,"Str. Laminoarelor 8, Cartier Reşiţa Montană",1875 - 1900
 340,CS-II-m-B-10937,"Administraţia Comunală a Reşiţei Române - Gemeindehaus, azi sediul Oficiului Registrului Comerţului",municipiul REŞIŢA,"Str. Libertăţii 21, Cartier Reşiţa Montană",1896
 341,CS-II-m-B-10938,Sinagogă,municipiul REŞIŢA,"Str. Mihai Viteazu 8, Cartier Reşiţa Montană",1907
@@ -317,7 +345,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 344,CS-II-m-A-10939.02,"Castelul de apă, în amonte (de uzina hidroelectrică ""Grebla"")",municipiul REŞIŢA,"Str. Primăverii f.n., Cartier Stavila",1903 - 1904
 345,CS-II-m-A-10939.03,Sistem de captare şi transport apă,municipiul REŞIŢA,"Str. Primăverii f.n., Cartier Stavila",1903 - 1904
 346,CS-II-a-B-10940,Ansamblu de trei case tip CFR,municipiul REŞIŢA,"Str. Rândul I 21, 21 A, 21 B, Cartier Reşiţa Montană",1876
-347,CS-II-m-B-10940.01,"Casă tip CFR, azi locuinţă",municipiul REŞIŢA,"Str. Rândul I 21, Cartier Reşiţa Montană Montană",1876
+347,CS-II-m-B-10940.01,"Casă tip CFR, azi locuinţă",municipiul REŞIŢA,"Str. Rândul I 21, Cartier Reşiţa Montană",1876
+348,CS-II-m-B-10940.02,"Casă tip CFR, azi locuinţă",municipiul REŞIŢA,"Str. Rândul I 21A, Cartier Reşiţa Montană",1876
 349,CS-II-m-B-10940.03,"Casă tip CFR, azi locuinţă",municipiul REŞIŢA,"Str. Rândul I 21B, Cartier Reşiţa Montană",1876
 350,CS-II-m-B-10941,"Biserica ""Adormirea Maicii Domnului""-Reşiţa Montană",municipiul REŞIŢA,"Piaţa Republicii 1, Cartier Reşiţa Montană",1938 - 1941
 351,CS-II-m-B-10942,"Casa Mäerz, azi locuinţe",municipiul REŞIŢA,"Piaţa Republicii 35, Cartier Reşiţa Montană",1875 - 1900
@@ -328,7 +357,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 356,CS-II-a-A-10905,Muzeul locomotivelor cu abur,municipiul REŞIŢA,"Calea Timişoarei f.n., zona Triaj",1972
 357,CS-II-m-B-10946,"Distileria lemnului, azi clădire-anexă",municipiul REŞIŢA,"Str. Văliugului 1, Cartier Marginea, în incinta S.C. Plastomet S.R.L.",1903
 358,CS-II-a-B-10947,Ansamblu de case tip pentru silvicultori,municipiul REŞIŢA,"Str. Văliugului 75, 77, Cartier Marginea",1880
-359,CS-II-m-B-10947.01,"Casă tip pentru silvicultori, azi locuinţe azi locuinţe",municipiul REŞIŢA,"Str. Văliugului 75, Cartier Marginea",1880
+359,CS-II-m-B-10947.01,"Casă tip pentru silvicultori, azi locuinţe",municipiul REŞIŢA,"Str. Văliugului 75, Cartier Marginea",1880
+360,CS-II-m-B-10947.02,"Casă tip pentru silvicultori, azi locuinţe",municipiul REŞIŢA,"Str. Văliugului 77, Cartier Marginea",1880
 361,CS-II-m-B-10948,"Moara Juracek, azi locuinţe sociale",municipiul REŞIŢA,"Str. Zimbrului 42, Cartier Stavila",sec. XIX
 362,CS-II-s-A-10949,"Situl ""Calea ferată Baziaş- Oraviţa-Anina"", cu componente de artă inginerească şi arhitectură",***,"Iam, Milcoveni, Bârlişte, Vrăniuţi, Răcăşdia, Oraviţa, Brădişoru de Jos, Dobrei, Lişava, Ciudanoviţa, Gârlişte, Anina",1847 - 1863
 363,CS-II-a-A-10949.01,"Porţiunea de cale ferată Baziaş-Oraviţa - 34,5 km (viaduct, 7 poduri, 17 podeţe)",***,"Iam, Milcoveni, Bârlişte, Vrăniuţi, Răcăşdia, Oraviţa",1847 - 1854
@@ -338,6 +368,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 367,CS-II-a-B-10958,Sistem de canalizare,oraş ANINA,"Grota Buhui, Valea Morii",1886 - 1889
 368,CS-II-m-B-10958.01,Canale de aducţiune apă,oraş ANINA,"Grota Buhui, Valea Morii",1886 - 1889
 369,CS-II-m-B-10958.02,"Canalizare oraş, cu gurile Grota Buhui şi Valea Morii",oraş ANINA,"Grota Buhui, Valea Morii",1886 - 1889
+370,CS-II-m-A-10959,Gara CFR Anina,oraş ANINA,,1848 - 1863
 371,CS-II-a-B-10960,"Ansamblul urban ""Zona Celnic""",oraş ANINA,"Străzile Cerna, Eminescu Mihai, Teilor, Alecsandri Vasile, Colonia Roşie, Uzinei, Cartier Celnic","sec. XIX, modific. 1900 - 1950"
 372,CS-II-a-B-10961,Ansamblul urban I,oraş ANINA,"Străzile Oltului, Hammer Matthias, Mureşianu A., Policlinicii, Sadoveanu M., Birou Virgil, Stadionului","sec. XIX, modific. 1900 - 1950"
 373,CS-II-a-B-10967,Ansamblul staţiunii Sommerfrische,oraş ANINA,"Colonia Sommerfrische, Cartier Steierdorf",1893 - 1895
@@ -348,13 +379,15 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 378,CS-II-a-B-10950,"Ansamblu 16 case oficiali UDR, azi locuinţe",oraş ANINA,Str. Eminescu Mihai 1-16,1900 - 1925
 379,CS-II-a-B-10954,"Ansamblu case tip pentru mineri, azi locuinţe",oraş ANINA,Str. Horia,1864
 380,CS-II-a-B-10955,"Ansamblu case tip pentru mineri, azi locuinţe",oraş ANINA,Str. Mureşianu Andrei,1891 - 1900
+381,CS-II-a-A-10962,Ansamblul Puţului I,oraş ANINA,Str. Mureşianu Andrei f.n.,1874
 382,CS-II-m-A-10962.01,"Puţul I (Casa Turnului de extracţie cu aburi, Turnul cu molete, lămpărie, construcţii şi instalaţii de extracţie şi manevrare minereu, ateliere şi servicii tehnice de exploatare şi servicii sociale)",oraş ANINA,Str. Mureşianu Andrei f.n.,1874
 383,CS-II-m-A-10962.02,"Maşină de extracţie cu aburi (Casa pentru maşina de extracţie cu aburi, maşina extracţie cu aburi, cu imobile, dotări de circuit tehnic şi pentru personal şi utilaje anexe)",oraş ANINA de,Str. Mureşianu Andrei f.n.,1874
 384,CS-II-m-B-10963,Farmacie,oraş ANINA,Str. Policlinicii 7,1875 - 1900
 385,CS-II-m-B-10964,Biserică romano-catolică,oraş ANINA,Str. Sadoveanu Mihail 2,1901
 386,CS-II-m-B-10965,"Cazinoul muncitoresc, azi Casa orăşenească de cultură Sf. Varvara",oraş ANINA,Str. Sf. Varvara 7,1920 - 1922
 387,CS-II-m-B-10966,"Direcţia Minelor, azi sediul Primăriei",oraş ANINA,Str. Sf. Varvara 49,sf. sec. XIX
-388,CS-II-m-B-10968,"Spital oficiali STEG, azi locuinţe",oraş ANINA,Str. Spitalului 1,1913
+388,CS-II-m-B-10968,Spital,oraş ANINA,Str. Spitalului 1,1913
+389,CS-II-a-B-10956,"Ansamblu 3 case pentru oficiali STEG, azi locuinţe",oraş ANINA,Str. Stadionului 1-7,sec. XIX
 390,CS-II-m-B-10967.02,Vilă (fosta vilă 2),oraş ANINA,"Str. Traian 2, Colonia Sommerfrische Cartier Steierdorf",1893 - 1895
 391,CS-II-a-A-10969,Uzinele de fier Anina,oraş ANINA,"Str. Uzinei, Str. Oltului, Str. Hammer M.",1858 - 1927
 392,CS-II-m-A-10969.01,"Centrala termoelectrică, cu turbinele",oraş ANINA,"Str. Uzinei, Str. Oltului, Str. Hammer M.","1897, cu transf. în 1927"
@@ -366,7 +399,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 398,CS-II-a-B-10957,"Ansamblu 2 vile UDR, azi locuinţe",oraş ANINA,Str. Uzinei 1-3,1900 - 1925
 399,CS-II-m-B-10970,"Vila Direcţiunii UDR, azi sediu secţie poliţie",oraş ANINA,Str. Uzinei 5,1875 - 1900
 400,CS-II-m-B-10971,"Vilă administrativă, azi locuinţă",oraş ANINA,Str. Uzinei 12,1875 - 1900
-401,CS-II-m-B-11205,"Şcoală Steierdorf, azi dezafectat",oraş ANINA,"Str. Victoriei 1, Cartier Steierdorf","1786, refăcută 1909-1911"
+401,CS-II-m-B-11205,Şcoală,oraş ANINA,"Str. Victoriei 1, Cartier Steierdorf","1786, refăcută 1909-1911"
+402,CS-II-a-B-11206,"Ansamblul spitalului din Steierdorf, azi dezafectat",oraş ANINA,"Str. Victoriei 8, Cartier Steierdorf",1800 - 1850
 403,CS-II-m-B-11206.01,"Spital, azi dezafectat",oraş ANINA,"Str. Victoriei 8, Cartier Steierdorf",1800 - 1850
 404,CS-II-m-B-11206.02,Casa medicului,oraş ANINA,"Str. Victoriei 8, Cartier Steierdorf",1800 - 1850
 405,CS-II-m-B-11207,"Casa Oficiului, azi hotel",oraş ANINA,"Str. Victoriei 41, Cartier Steierdorf",1800 - 1850
@@ -378,7 +412,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 411,CS-II-a-A-10972,"Mănăstirea sârbească ""Sf. Sava""",sat BAZIAŞ; comuna SOCOL,"În centrul localităţii, cu acces din DN 57B",sec. XVIII
 412,CS-II-m-A-10972.01,"Biserica sârbească ""Sf. Sava""",sat BAZIAŞ; comuna SOCOL,"În centrul localităţii, cu acces din DN 57B",1774
 413,CS-II-m-A-10972.02,Chilii (ruine),sat BAZIAŞ; comuna SOCOL,"În centrul localităţii, cu acces din DN 57B",sec. XVIII
-414,CS-II-m-A-10972.03,Zid de incintă cu galeria acoperită,sat BAZIAŞ; comuna SOCOL HERCULANE,"În centrul localităţii, cu acces din DN 57B",sec. XVIII galeria acoperită
+414,CS-II-m-A-10972.03,Zid de incintă,sat BAZIAŞ; comuna SOCOL,"În centrul localităţii, cu acces din DN 57B",sec. XVIII
+415,CS-II-m-A-10973,"Podul de piatră peste Cerna, cu galeria acoperită",oraş BĂILE HERCULANE,Între str. Cerna şi Piaţa Hercules,"1864 - podul, 1850 - 1900 - galeria acoperită"
 416,CS-II-m-B-10974,"Lucrări de sistematizare, regularizare drumuri şi zid sprjin",oraş BĂILE HERCULANE,Spre Hotelul Roman şi izvorul Hygeea,1881
 417,CS-II-m-B-10975,Îndiguire râu Cerna,oraş BĂILE HERCULANE,"Porţiunea cuprinsă între Baia ""Apollo"" şi Hotel ""Cerna"" (mal stâng), Podul de piatră şi Hotel ""Hercules"" (mal drept)",1808
 418,CS-II-m-A-10976,Podul din fontă peste Cerna,oraş BĂILE HERCULANE,"Între străzile Cerna şi Izvor, în faţa Băii ""Neptun""",înc. sec. XX
@@ -388,7 +423,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 422,CS-II-a-B-10980,Ansamblul de arhitectură balneară II,oraş BĂILE HERCULANE,Zona cuprinsă între Baia Neptun şi Podul Roşu,sec. XIX
 423,CS-II-a-A-10981,"Ansamblul de arhitectură balneară ""Strada Cerna""",oraş BĂILE HERCULANE,"Str. Cerna, zona cuprinsă între Podul de piatră peste Cerna şi Pavilionul de hidroterapie cu bazin termal deschis",sec. XIX
 424,CS-II-a-B-10982,Ansamblul de arhitectură balneară III,oraş BĂILE HERCULANE,Zona cuprinsă între Biserica ortodoxă şi Podul Roşu,sec. XIX - 1900 - 1950
-425,CS-II-a-B-10984,"Ansamblul urban ""Străzile Uzinei şi Romană""",oraş BĂILE HERCULANE,"Zona cuprinsă între Uzina electrică şi Biserica romano-catolică, pe Str. Grota Haiducilor la Uzina electrică",sec. XIX
+425,CS-II-a-B-10984,"Ansamblul urban ""Străzile Uzinei şi Romană""",oraş BĂILE HERCULANE,"Zona cuprinsă între Uzina electrică şi Biserica romano-catolică, pe Str. Uzinei şi Romană, de la Restaurantul",sec. XIX
 426,CS-II-m-B-10985,"Hotel ""Cerna""",oraş BĂILE HERCULANE,Piaţa 1 Mai 1,1936
 427,CS-II-m-B-11006,"Vila ""Feneşan"" (""Casino""), fost Hotel ""Ganz"", azi locuinţe, cu parter comercial",oraş BĂILE HERCULANE,Piaţa 1 Mai 2,1875 - 1900
 428,CS-II-m-B-10986,"Vilă, azi dispensar",oraş BĂILE HERCULANE,Str. Abatorului 4,1900 - 1925
@@ -399,7 +434,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 433,CS-II-m-B-10991,"Vila ""Miramonte""",oraş BĂILE HERCULANE,Str. Castanilor 14,1900 - 1925
 434,CS-II-m-B-10992,"Vila ""Emilia""",oraş BĂILE HERCULANE,Str. Castanilor 16,sf. sec. XIX - înc. sec. XX
 435,CS-II-m-B-10993,"Vilă, azi sediu Ocol Silvic Băile Herculane",oraş BĂILE HERCULANE,Str. Castanilor 20,1900 - 1925
-436,CS-II-m-B-10994,Vilă,oraş BĂILE HERCULANE HERCULANE,"Str. Castanilor 23, în incinta Poştei în incinta camping „Sera”",înc. sec. XX
+436,CS-II-m-B-10994,Vilă,oraş BĂILE HERCULANE,"Str. Castanilor 23, în incinta Poştei",înc. sec. XX
+437,CS-II-m-B-10995,Vila Kuriatko,oraş BĂILE HERCULANE,"Str. Castanilor 27, lângă vechile sere, în incinta camping „Sera”",înc. sec. XX
 438,CS-II-a-B-10996,"Locuinţe grănicereşti, cu anexe, azi locuinţe, cu anexe, remiză pompieri",oraş BĂILE HERCULANE,Str. Castanilor 33,sec. XIX
 439,CS-II-m-B-10997,"Vila Săracilor, azi locuinţe",oraş BĂILE HERCULANE,"Str. Castanilor 33C, în curtea pavilionului nr. 7",1840
 440,CS-II-m-B-10998,"Băile ""Venera”, azi locuinţe",oraş BĂILE HERCULANE,Str. Castanilor 35,"ante 1724, prima refacere 1724 -1736, a doua refacere 1838"
@@ -408,7 +444,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 443,CS-II-m-B-11001,"Pavilionul de hidroterapie, bazin termal deschis",cu oraş BĂILE HERCULANE,Str. Cerna 2,1869
 444,CS-II-m-A-11002,"Hotel ""Traian"", fost Hotel ""Carol"", fost Pavilionul 1, azi parţial dezafectat, locuinţe sociale, farmacie şi cabinet medical",oraş BĂILE HERCULANE,Str. Cerna 4,1869 - 1871
 445,CS-II-m-B-11003,"Vila Elisabeta, azi Casa orăşenească de cultură, bibliotecă şi farmacie",oraş BĂILE HERCULANE,Str. Cerna 5-7,1875
-446,CS-II-a-A-11004,"Ansamblul Cazinoului spectacole, spaţii comerciale,",oraş BĂILE HERCULANE HERCULANE,Str. Cerna 6-18,1850 - 1900 - înc. sec. XX
+446,CS-II-a-A-11004,Ansamblul Cazinoului,oraş BĂILE HERCULANE,Str. Cerna 6-18,1850 - 1900 - înc. sec. XX
+447,CS-II-m-A-11004.01,"Cazinou, azi muzeu, sală de spectacole, spaţii comerciale, restaurant",oraş BĂILE HERCULANE,Str. Cerna 6-18,1862
 448,CS-II-m-A-11004.02,Parcul Cazinoului,oraş BĂILE HERCULANE,"Str. Cerna 6-18, în faţa Cazinoului",1850 - 1900
 449,CS-II-m-A-11004.03,Chioşcul pentru fanfară,oraş BĂILE HERCULANE,"Str. Cerna 6-18, în faţa Cazinoului",înc. sec. XX
 450,CS-II-m-A-11005,"Hotel ""Decebal"", fost Hotel ""Ferdinand""",oraş BĂILE HERCULANE,Str. Cerna 20,1860 - 1862
@@ -416,7 +453,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 452,CS-II-m-B-11008,"Direcţiunea Băilor, ulterior Administraţia Băilor, apoi sediul IBTH",oraş BĂILE HERCULANE,Piaţa Hercules 2,1811
 453,CS-II-m-B-11009,"Fosta Ospătăria cea mare, apoi Hotel ""Arhiducele Franz Joseph"", Pavilionul 6, Hotel ""Dacia""",oraş BĂILE HERCULANE,Piaţa Hercules 3,"1812 - 1824, modificări radicale 1906"
 454,CS-II-m-B-11010,"Fostul Spital pentru trupă şi subofiţeri, fost Hotel ""Domogled"" (Pavilionul 5), dezafectat",oraş BĂILE HERCULANE azi,Piaţa Hercules 4,1808 - 1810
-455,CS-II-m-B-11011,"Biserica romano-catolică ""Sf. Maria""",oraş BĂILE HERCULANE HERCULANE,Piaţa Hercules 5,1838 1926
+455,CS-II-m-B-11011,"Biserica romano-catolică ""Sf. Maria""",oraş BĂILE HERCULANE,Piaţa Hercules 5,1838
+456,CS-II-a-B-11012,Ansamblul balnear Apollo,I oraş BĂILE HERCULANE,"Piaţa Hercules 6, 7","sec. XVIII - XIX, modificări 1926"
 457,CS-II-m-B-11012.01,"Fosta ""Baie comună"", ""Baia cea mare"", apoi Baia ""Apollo”",oraş BĂILE HERCULANE,Piaţa Hercules 6,"sec. XVIII, modificări 1926"
 458,CS-II-m-B-11012.02,"Fostul ""Sanatoriul ofiţeresc"", fost Hotel ""Severin""",oraş BĂILE HERCULANE,Piaţa Hercules 7,"1846, modificări 1926"
 459,CS-II-a-B-11013,Ansamblul balnear Apollo,II oraş BĂILE HERCULANE,Piaţa Hercules 8,"sec. XIX, refaceri 1926"
@@ -426,7 +464,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 463,CS-II-a-A-10983,"Ansamblul de arhitectură balneară ""Strada Izvorului""",oraş BĂILE HERCULANE,"Str. Izvorului, zona cuprinsă între Podul de piatră peste Cerna şi Baia Neptun",sec. XIX
 464,CS-II-m-B-11014,"Baia ""Diana”, anterior Baia termală ""Elisabeta"", iniţial ""Baia pentru dureri de oase""",oraş BĂILE HERCULANE,Str. Izvorului 1,"1810, cu modernizări 1859 şi refaceri 1929"
 465,CS-II-m-A-11015,"Băile ""Neptun"", foste Baia ""Szapary"", Baia ""Regina Maria"", ""Băile termale cu bazine şi cabine""",oraş BĂILE HERCULANE,Str. Izvorului 3-5,1883 - 1886
-466,CS-II-m-B-11016,"Vila funcţionarilor, azi Pavilion 11",oraş BĂILE HERCULANE HERCULANE,Str. Izvorului 6,1875 - 1900
+466,CS-II-m-B-11016,"Vila funcţionarilor, azi Pavilion 11",oraş BĂILE HERCULANE,Str. Izvorului 6,1875 - 1900
+467,CS-II-m-B-11017,"Izvorul Hygeea, cu edicul",oraş BĂILE HERCULANE,Str. Romană f.n.,sec. XVIII
 468,CS-II-m-B-11018,"Baia romană, cu basorelieful lui Hercules",oraş BĂILE HERCULANE,"Str. Romană 1, la demisolul şi subsolul Hotelului ""Roman""","sec. XVIII - clădirea băii, Epoca romană (basorelieful lui Hercules)"
 469,CS-II-m-B-11019,Vilă,oraş BĂILE HERCULANE,Str. Stoica de Haţeg Nicolae 2,1897
 470,CS-II-m-B-11020,"Vila ""Dora"", azi locuinţă",oraş BĂILE HERCULANE,Str. Stoica de Haţeg Nicolae 3,1900 - 1925
@@ -437,7 +476,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 475,CS-II-m-A-11025,"Gara, cu clădirea anexă",oraş BĂILE HERCULANE,"Str. Trandafirilor 101, în apropierea punctului de confluenţă al râurilor Cerna şi Belareca, pe DN 6",1886
 476,CS-II-m-B-11026,"Uzina electrică, cu turbine panou manevrare Ganz",şi oraş BĂILE HERCULANE,Str. Uzinei 3,1892 - 1894
 477,CS-II-m-B-11027,"Vila Băncii, fostă Vila ""Livia""",oraş BĂILE HERCULANE,Str. Zăvoi 38,1888
-478,CS-II-m-B-11028,"Biserica ""Naşterea Maicii Domnului""",sat BĂNIA; comuna BĂNIA comuna BERZASCA,125,"1779, modificări 1840 şi 1881"
+478,CS-II-m-B-11028,"Biserica ""Naşterea Maicii Domnului""",sat BĂNIA; comuna BĂNIA,125,"1779, modificări 1840 şi 1881"
+479,CS-II-m-B-11029,"Biserica ""Sf. Arhangheli""",sat BERZASCA; comuna BERZASCA,,1836
 480,CS-II-m-B-11030,"Biserică romano-catolică ""Imaculata Concepţiune""",oraş BOCŞA,"Str. 1 Decembrie 1918 2, Cartier Bocşa Montană","1738, reconstruită 1840"
 481,CS-II-m-B-11031,"Şcoală, azi Şcoala cu clasele VIII nr. 1",I- oraş BOCŞA,"Str. 1 Decembrie 1918 4, Cartier Bocşa Montană",1840
 482,CS-II-m-B-11032,Primărie,oraş BOCŞA,"Str. 1 Decembrie 1918 22, Cartier Bocşa Montană",sec. XIX
@@ -449,6 +489,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 488,CS-II-m-B-11036,"Biserica ortodoxă ""Naşterea Maicii Domnului""",oraş BOCŞA,"Str. Frunzei 1, Cartier Bocşa Montană",1808
 489,CS-II-m-B-11037,Turn de alimentare furnal,oraş BOCŞA,"Str. Gării f.n., Cartier Bocşa Montană, lângă gara CFR, în subsolul microhidrocentralei",1719
 490,CS-II-a-B-11038,Ansamblu stăvilar şi canal aducţiune apă (pentru furnale),oraş BOCŞA,"Str. Gării f.n., Cartier Bocşa Montană",1723 - 1725
+491,CS-II-m-B-11039,Gara CFR Bocşa Vasiova,oraş BOCŞA,"Str. Gării 1, Cartier Bocşa Vasiova",sec. XIX
 492,CS-II-a-B-11040,Ansamblul gării Bocşa Montană,oraş BOCŞA,"Str. Gării 5, Cartier Bocşa Montană",sec. XIX
 493,CS-II-m-B-11040.01,Gara Bocşa Montană,oraş BOCŞA,"Str. Gării 5, Cartier Bocşa Montană",sec. XIX
 494,CS-II-m-B-11040.02,Parc,oraş BOCŞA,"Str. Gării 5, Cartier Bocşa Montană",sec. XIX
@@ -459,7 +500,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 499,CS-II-a-B-11045,Ansamblul de mori din Borlovenii Noi,sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
 500,CS-II-m-B-11045.01,"Moara ""din sat""",sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
 501,CS-II-m-B-11045.02,Moara de la Truică,sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
-502,CS-II-m-B-11045.03,Moara din Cheie,sat BORLOVENII NOI; comuna,Pe valea râului Brezoviţa,înc. sec. XX
+502,CS-II-m-B-11045.03,Moara din Cheie,sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
 503,CS-II-m-B-11045.04,Moara din Furci,sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
 504,CS-II-m-B-11045.05,Moara de la Basu,sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
 505,CS-II-m-B-11045.06,Moara de la Zăvoi,sat BORLOVENII NOI; comuna PRIGOR,Pe valea râului Brezoviţa,înc. sec. XX
@@ -470,7 +511,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 510,CS-II-m-B-11046.04,Moara mică,sat BOZOVICI; comuna BOZOVICI,În valea râului Miniş,1897
 511,CS-II-m-B-11047,"Biserica ""Înălţarea Domnului""",sat BOZOVICI; comuna BOZOVICI,219,1798
 512,CS-II-m-B-11048,"Biserica ""Înălţarea Domnului""",sat BREBU; comuna BREBU,23,1791
-513,CS-II-m-B-11049,"Biserica ""Adormirea Maicii Domnului""",sat aparţinător BROŞTENI; oraş,,1778
+513,CS-II-m-B-11049,"Biserica ""Adormirea Maicii Domnului""",sat aparţinător BROŞTENI; oraş ORAVIŢA,,1778
 514,CS-II-m-B-11050,Casa de lemn Gheorghe Ilincar,sat BUCOVA; comuna BĂUŢAR,,sec. XIX
 515,CS-II-m-B-11051,Casa de lemn Ilin Adămuţ,sat BUCOVA; comuna BĂUŢAR,,sec. XIX
 516,CS-II-m-B-11052,Casa de lemn Romulus Ilienca,sat BUCOVA; comuna BĂUŢAR,,sec. XIX
@@ -479,7 +520,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 519,CS-II-m-B-11055,Vila Gheorghe Baba,municipiul CARANSEBEŞ,Cartier Teiuş,sec. XVIII
 520,CS-II-a-B-11056,Ansamblul Pieţei Revoluţiei,municipiul CARANSEBEŞ,"Delimitat de străzile Alecsandri V., Ardealului, Episcopiei (pietonal), Mihai Viteazul (pietonal), până la Piaţa Dragalina Ion general",sec. XIX - 1900 - 1925
 521,CS-II-a-B-11057,"Ansamblul urban ""Piaţa General Ion Dragalina""",municipiul CARANSEBEŞ,"Piaţa Dragalina Ion general, marcată de începutul străzilor Bălcescu N., Cazărmii, Racoviţă E., Groza M. general, Tribunalului",sec. XIX - 1900 - 1925
-522,CS-II-a-B-11058,Ansamblul urban I,municipiul CARANSEBEŞ CARANSEBEŞ,"Străzile Popea Nicolae episcop; Calea Orşovei; Str. Libertăţii, până la Str. Horea; străzile Bălcescu N., Traian, Cazărmii, Şcolii",sec. XIX - 1900 - 1925
+522,CS-II-a-B-11058,Ansamblul urban I,municipiul CARANSEBEŞ,"Străzile Popea Nicolae episcop; Calea Orşovei; Str. Libertăţii, până la Str. Horea; străzile Bălcescu N., Traian, Cazărmii, Şcolii",sec. XIX - 1900 - 1925
+523,CS-II-s-B-11059,"Situl urban ""Cartierul Teiuş""",municipiul CARANSEBEŞ,Cartierul Teiuş,sec. XIX
 524,CS-II-m-B-11086,"Primăria veche (fost Prefectura Caransebeş), azi spaţiu şcolar pentru Seminarul Ortodox Ion Popasu",municipiul CARANSEBEŞ,Str. Ardealului 29,1800 - 1850
 525,CS-II-m-B-11061,"Palatul Korongy, azi spaţii firme, locuinţe, amenajare hotelieră",municipiul CARANSEBEŞ,Str. Doda Traian 1,"1877, 1912"
 526,CS-II-m-B-11062,"Pavilionul ofiţerilor, azi spaţii firme, amenajare hotelieră, locuinţe",municipiul CARANSEBEŞ,"Piaţa Dragalina Ion, general 1",1874
@@ -487,7 +529,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 528,CS-II-m-B-11068,Palatul Comunităţii de Avere,municipiul CARANSEBEŞ,Str. Episcopiei 1,1901
 529,CS-II-m-B-11070,"Judecătoria Caransebeş, azi judecătorie, notariat, birou carte funciară",municipiul CARANSEBEŞ,Str. Episcopiei 4,1905 - 1906
 530,CS-II-m-B-11071,"Locuinţă, cu sală de dans, azi Casa municipală de cultură ""George Suru""",municipiul CARANSEBEŞ,Str. Episcopiei 6,1886
-531,CS-II-m-B-11072,"Sediul Comitatului de Severin, azi grădiniţă azi restaurant şi sedii firme",municipiul CARANSEBEŞ CARANSEBEŞ,Str. Episcopiei 7,"sec. XVIII, modificări 1909"
+531,CS-II-m-B-11072,"Sediul Comitatului de Severin, azi grădiniţă",municipiul CARANSEBEŞ,Str. Episcopiei 7,"sec. XVIII, modificări 1909"
+532,CS-II-m-B-11073,"Restaurantul ""Pomul Verde”, azi restaurant şi sedii firme",municipiul CARANSEBEŞ,Str. Episcopiei 8,"1740, modificări 1850"
 533,CS-II-m-B-11074,"Casa grănicerilor, azi sediul Protopopiatului Ortodox Român",municipiul CARANSEBEŞ,Str. Episcopiei 9,"mijl. sec. XVIII, refaceri 1891"
 534,CS-II-m-B-11075,"Hotel, azi sediu firme, locuinţe",municipiul CARANSEBEŞ,Str. Episcopiei 10,1750 - 1800
 535,CS-II-m-B-11076,"Prima farmacie română din Banat, atelier foto, magazin, azi locuinţe, cu parter comercial",municipiul CARANSEBEŞ,Str. Episcopiei 12,"1750 - 1800, modificări 1900"
@@ -497,7 +540,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 539,CS-II-m-B-11078.02,Claustru (ruine),municipiul CARANSEBEŞ,Str. Episcopiei 22,1725
 540,CS-II-m-B-11064,"Şcoala de Matematică şi Subofiţeri a Regimentului de Graniţă, azi proprietate a Comunităţii de Avere",municipiul CARANSEBEŞ,"Str. Groza Moise, general 2",1868
 541,CS-II-m-B-11065,Poştă,municipiul CARANSEBEŞ,Str. Libertăţii 12,1900 - 1925
-542,CS-II-m-B-11066,"Şcoală, azi Şcoala Normală ""C. D. Loga"", Colegiul de Vest-Timişoara, grădiniţă",municipiul CARANSEBEŞ,Str. Loga C. D. 12,1900 - 1925
+542,CS-II-m-B-11066,"Şcoală, azi Şcoala Normală ""C. D. Loga"", Colegiul de institutori al Universităţii de",municipiul CARANSEBEŞ,Str. Loga C. D. 12,1900 - 1925
 543,CS-II-a-B-11067,"Ansamblul urban ""Str. Mihai Viteazul-II"" (8 case macedonene)",municipiul CARANSEBEŞ,"Str. Mihai Viteazul , între nr. 24-34, 38-40",sec. XVIII; modificări sec. XIX
 544,CS-II-a-B-11079,"Ansamblul urban ""Str. Mihai Viteazul-I"" (casele Ostoia, Vasilevici, Laboncz, Banca Banatului, casă fronton circular)",municipiul CARANSEBEŞ,"Str. Mihai Viteazul 27-33, Str. Trapşa M, nr. 1",sec. XVIII
 545,CS-II-m-B-11079.01,Casa Ostoia,municipiul CARANSEBEŞ,Str. Mihai Viteazul 27,sec. XVIII
@@ -507,7 +550,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 549,CS-II-m-B-11080,"Locuinţă negustori macedoneni, azi sediu firme şi locuinţe",municipiul CARANSEBEŞ,Str. Mihai Viteazul 36,sec. XVIII; modificări sec. XIX
 550,CS-II-m-B-11081,"Magazine şi restaurant, azi Biblioteca municipală ""M. Halici""",municipiul CARANSEBEŞ,Str. Mihai Viteazul 39,sf. sec. XIX
 551,CS-II-m-B-11082,"Noua Casă de păstrare, azi spaţii comerciale şi locuinţe",municipiul CARANSEBEŞ,Str. Mihai Viteazul 42,1900 - 1925
-552,CS-II-m-B-11083,"Banca Graniţei, azi Banca Comercială Română, Agenţia",municipiul CARANSEBEŞ,Str. Mihai Viteazul 44,1810
+552,CS-II-m-B-11083,"Banca Graniţei, azi Banca Comercială Română, Agenţia Caransebeş",municipiul CARANSEBEŞ,Str. Mihai Viteazul 44,1810
 553,CS-II-m-B-11084,"Biserica ""Sf. Ioan Botezătorul""",municipiul CARANSEBEŞ,Str. Muntele Mic 40,1780
 554,CS-II-m-B-11085,Sinagogă,municipiul CARANSEBEŞ,Str. Orşovei 2,1893 - 1894
 555,CS-II-m-B-11087,"Sală de spectacole, fost Cinematograful ""Tineretului"" (azi dezafectat)",municipiul CARANSEBEŞ,Piaţa Revoluţiei 1,1927
@@ -518,13 +561,14 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 560,CS-II-m-B-11079.05,Casă,municipiul CARANSEBEŞ,Str. Trapşa M. 1,sec. XVIII
 561,CS-II-m-B-11069,"Tribunal militar şi închisoare, azi sediul Parchetului Caransebeş",municipiul CARANSEBEŞ,Str. Tribunalului 2,1700 - 1750
 562,CS-II-m-B-11091,"Liceul ""Traian Doda”",municipiul CARANSEBEŞ,Str. Zăcan Efrem 3,1915
-563,CS-II-m-B-11092,"Biserică romano-catolică Pavel""",sat CARAŞOVA; comuna CARAŞOVA componentă,272,"1726, transf. 1822"
+563,CS-II-m-B-11092,Biserică romano-catolică,sat CARAŞOVA; comuna CARAŞOVA,272,"1726, transf. 1822"
+564,CS-II-m-B-11093,"Biserica ""Sf. Apostoli Petru Pavel""",şi localitate componentă CÂLNIC; municipiul REŞIŢA,Calea Grădişte 67,"1799, turn 1803"
 565,CS-II-m-B-11094,"Biserica ""Adormirea Maicii Domnului""",sat CÂRNECEA; comuna TICVANIU MARE,,1834
 566,CS-II-m-B-11095,Biserica mănăstirii Călugăra,localitate componentă CICLOVA MONTANĂ; oraş ORAVIŢA,Cartier Ciclova Montană,sec. XlX
 567,CS-II-m-B-11096,Beciurile fostei Fabrici de bere (ruine),localitate componentă CICLOVA MONTANĂ; oraş ORAVIŢA,,1750 - 1800
 568,CS-II-m-B-11097,Biserică ortodoxă,localitate componentă CICLOVA MONTANĂ; oraş ORAVIŢA,,1783
 569,CS-II-m-B-11098,"Biserica romano-catolică ""Sf. Maria""",localitate componentă CICLOVA MONTANĂ; oraş ORAVIŢA,,1777
-570,CS-II-m-B-11099,Forjă (ruine),sat CICLOVA ROMÂNĂ; comuna,,1746
+570,CS-II-m-B-11099,Forjă (ruine),sat CICLOVA ROMÂNĂ; comuna CICLOVA ROMÂNĂ,,1746
 571,CS-II-m-B-11100,"Biserica ""Sf. Arhangheli""",localitate componentă CIREŞA; oraş OŢELU ROŞU,Str. Haţegului 66,1830
 572,CS-II-a-B-11101,Ansamblul de mori din Cornereva,comuna CORNEREVA,"Văile râurilor Belareca, Camena, Ramna, Znogotin, Obiţa",înc. sec. XX
 573,CS-II-m-B-11101.01,Moara lui Lazăr Boască,comuna CORNEREVA,Valea râului Belareca,înc. sec. XX
@@ -535,7 +579,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 578,CS-II-m-B-11101.06,Moara lui Nistor Gherescu,comuna CORNEREVA,Valea râului Znogotin,înc. sec. XX
 579,CS-II-m-B-11101.07,Moara lui Nicolae Brânzei,comuna CORNEREVA,Valea râului Znogotin,înc. sec. XX
 580,CS-II-m-B-11101.08,Moara lui Adam Gherescu,comuna CORNEREVA,Confluenţa râurilor Camena cu Znogotin,înc. sec. XX
-581,CS-II-m-B-11101.09,Moara Poloieştilor,comuna CORNEREVA CORNEREVA,Valea râului Obiţa,înc. sec. XX
+581,CS-II-m-B-11101.09,Moara Poloieştilor,comuna CORNEREVA,Valea râului Obiţa,înc. sec. XX
+582,CS-II-m-B-11101.10,Vâltoarea Poloieştilor,comuna CORNEREVA,Valea râului Obiţa,înc. sec. XX
 583,CS-II-m-B-11102,"Biserica ""Cuvioasa Paraschiva""",sat CRUŞOVĂŢ; comuna CORNEA,144,1805
 584,CS-II-m-B-11103,"Biserica ""Înălţarea Domnului""",sat CUPTOARE; comuna CORNEA,7,1810
 585,CS-II-a-A-11104,"Barajul şi lacul de acumulare ""Lacul Mic""",sat DOGNECEA; comuna DOGNECEA,"La intrarea în sat, dinspre Reşiţa",cca. 1724
@@ -544,7 +589,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 588,CS-II-m-B-11107,Biserică romano-catolică,sat DOGNECEA; comuna DOGNECEA,698,1741
 589,CS-II-m-B-11108,"Locuinţe UDR, azi locuinţe",localitate componentă DOMAN; municipiul REŞIŢA,"Colonia ""Slamina""",1900 - 1925
 590,CS-II-m-B-11109,Casa Puţului,localitate componentă DOMAN; municipiul REŞIŢA,,sec. XIX
-591,CS-II-m-B-11110,"Galeria ""Erarială"" Franz Joseph (azi închisă)",localitate componentă municipiul REŞIŢA,,sec. XIX
+591,CS-II-m-B-11110,"Galeria ""Erarială"" Franz Joseph (azi închisă)",localitate componentă DOMAN;,,sec. XIX
 592,CS-II-m-B-11111,"Biserica ""Sf. Atanasie""",sat DOMAŞNEA; comuna DOMAŞNEA,261,"1808, modificări 1881"
 593,CS-II-a-A-11112,Ansamblul de mori din Eftimie Murgu,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
 594,CS-II-m-A-11112.01,Moara Măxinoanea,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
@@ -553,7 +598,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 597,CS-II-m-A-11112.04,Moara Popească,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
 598,CS-II-m-A-11112.05,Moara Firizoane,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
 599,CS-II-m-A-11112.06,"Moara ""Îndărătnica Nouă""",sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
-600,CS-II-m-A-11112.07,"Moara"" Îndărătnica Mică""",sat EFTIMIE MURGU; comuna,Valea râului Rudăria,înc. sec. XX
+600,CS-II-m-A-11112.07,"Moara"" Îndărătnica Mică""",sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
 601,CS-II-m-A-11112.08,Moara Paţaoanea,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
 602,CS-II-m-A-11112.09,"Moara ""Îndărătnica Bătrână""",sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
 603,CS-II-m-A-11112.10,Moara Trăiloanea,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,Valea râului Rudăria,înc. sec. XX
@@ -563,7 +608,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 607,CS-II-m-B-11114,"Biserica ""Naşterea Maicii Domnului""",sat FÂRLIUG; comuna FÂRLIUG,36,1783
 608,CS-II-a-B-11115,Gospodării tipice germane colonizare,de sat GĂRÂNA; comuna BREBU NOU,,1812 - 1813
 609,CS-II-a-B-11116,Ansamblul de mori din Gârlişte,sat GÂRLIŞTE; comuna GORUIA,Valea râului Gârlişte,înc. sec. XX
-610,CS-II-m-B-11116.01,Moara lui Păun Iorgovan,sat GÂRLIŞTE; comuna GORUIA comuna GORUIA,Valea râului Gârlişte,înc. sec. XX
+610,CS-II-m-B-11116.01,Moara lui Păun Iorgovan,sat GÂRLIŞTE; comuna GORUIA,Valea râului Gârlişte,înc. sec. XX
+611,CS-II-m-B-11116.02,Moara Branilor,sat GÂRLIŞTE; comuna GORUIA,Valea râului Gârlişte,înc. sec. XX
 612,CS-II-m-B-11116.03,Moara Andrisonilor,sat GÂRLIŞTE; comuna GORUIA,Valea râului Gârlişte,înc. sec. XX
 613,CS-II-a-B-11117,Ansamblul de mori din Gârnic,sat GÂRNIC; comuna GÂRNIC,Valea râului Gramensca,înc. sec. XX
 614,CS-II-m-B-11117.01,Moara lui Tilindar,sat GÂRNIC; comuna GÂRNIC,Valea râului Gramensca,înc. sec. XX
@@ -575,7 +621,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 620,CS-II-a-B-11119,Ansamblul de mori de apă din Gornea,sat GORNEA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
 621,CS-II-m-B-11119.01,Moara de la Cioacă,sat GORNEA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
 622,CS-II-m-B-11119.02,Moara lui Codreanu,sat GORNEA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
-623,CS-II-m-B-11119.03,Moara de sub Bişteg,sat GORNEA; comuna SICHEVIŢA comuna,Valea râului Cameniţa,înc. sec. XX
+623,CS-II-m-B-11119.03,Moara de sub Bişteg,sat GORNEA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
+624,CS-II-m-B-11120,Turnul de pe Deal,sat GRĂDINARI; comuna GRĂDINARI,Dealul Cuca,1731
 625,CS-II-m-B-11121,"Podul turcesc, Podul Maria Thereza",sat GRĂDINARI; comuna GRĂDINARI,"Pe râul Caraş, înspre satul Greoni",sec. XVIII
 626,CS-II-m-B-11122,"Biserica ""Sf. Ioan Botezătorul""",sat IABLANIŢA; comuna IABLANIŢA,92B,1825
 627,CS-II-m-B-11123,"Biserica ""Pogorârea Sf. Duh""",sat ILIDIA; comuna CICLOVA ROMÂNĂ,,1797
@@ -586,7 +633,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 632,CS-II-m-B-11125.03,Moara Zaica,sat LIBORAJDEA; comuna SICHEVIŢA,Valea râului Liborajdea,înc. sec. XX
 633,CS-II-m-B-11125.04,Moara lui Brăila,sat LIBORAJDEA; comuna SICHEVIŢA,Valea râului Liborajdea,înc. sec. XX
 634,CS-II-m-B-11125.05,Moara lui Cocoş,sat LIBORAJDEA; comuna SICHEVIŢA,Valea râului Liborajdea,înc. sec. XX
-635,CS-II-m-B-11125.06,Moara lui Martinovăţ,sat LIBORAJDEA; comuna SICHEVIŢA comuna SICHEVIŢA,Valea râului Liborajdea,înc. sec. XX
+635,CS-II-m-B-11125.06,Moara lui Martinovăţ,sat LIBORAJDEA; comuna SICHEVIŢA,Valea râului Liborajdea,înc. sec. XX
+636,CS-II-m-B-11125.07,Moara la Vălăria,sat LIBORAJDEA; comuna SICHEVIŢA,Valea râului Liborajdea,înc. sec. XX
 637,CS-II-m-B-11126,"Biserica ""Sf. Prooroc Ilie""",sat MARGA; comuna MARGA,202,1830
 638,CS-II-m-B-11127,"Biserica ""Pogorârea Sf. Duh""",sat MĂRU; comuna ZĂVOI,291,"1792, transf. 1939"
 639,CS-II-a-B-11128,Ansamblul de mori din Mehadica,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
@@ -595,7 +643,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 642,CS-II-m-B-11128.03,Moara de la Piatra Surului,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
 643,CS-II-m-B-11128.04,Moara Vegeasca,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
 644,CS-II-m-B-11128.05,Moara Gherghineasa,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
-645,CS-II-m-B-11128.06,Moara de la Ştiubei,sat MEHADICA; comuna MEHADICA comuna,Valea pârâului Mehadica,înc. sec. XX
+645,CS-II-m-B-11128.06,Moara de la Ştiubei,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
+646,CS-II-m-B-11128.07,Moara Găiceasca,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
 647,CS-II-m-B-11128.08,Moara Chiceasca,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
 648,CS-II-m-B-11128.09,Moara Mică,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
 649,CS-II-m-B-11128.10,Moara din Sălciile Late,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
@@ -604,7 +653,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 652,CS-II-m-B-11128.13,Moara Giurceasca,sat MEHADICA; comuna MEHADICA,Valea pârâului Mehadica,înc. sec. XX
 653,CS-II-m-B-11129,"Biserica ortodoxă ""Naşterea Născătoarei de Dumnezeu""",sat MEHADICA; comuna MEHADICA,332,1769
 654,CS-II-m-B-11130,Biserică romano-catolică,oraş MOLDOVA NOUĂ,Str. Bălcescu Nicolae 4,"1780, transf. 1791"
-655,CS-II-m-B-11131,Moara lui Mustăcilă (cu roată verticală),sat aparţinător MONIOM;,"În valea râului Bârzava, în amonte de Registrul Auto Român",înc. sec. XX
+655,CS-II-m-B-11131,Moara lui Mustăcilă (cu roată verticală),sat aparţinător MONIOM; municipiul REŞIŢA,"În valea râului Bârzava, în amonte de Registrul Auto Român",înc. sec. XX
 656,CS-II-m-B-11132,"Biserica ""Sf. Apostoli""",sat OBREJA; comuna OBREJA,,"1780, modificări 1832"
 657,CS-II-m-B-11133,"Capela romano-catolică, prima biserică a minerilor Oraviţa",oraş ORAVIŢA din,"Cartier Risz, în capătul străzii Izlazului, în apropiere de străzile Oituz şi Ştefan cel Mare",1707
 658,CS-II-a-B-11134,Ansamblul urban Oraviţa,oraş ORAVIŢA,"Străzile Eminescu Mihai, Bojincă D., Valea Aurului, ambele fronturi ale străzilor principale de la fosta piaţă agro-alimentară până la Lacul Mic",sec. XIX - XX
@@ -614,7 +663,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 662,CS-II-m-B-11138,Casă,oraş ORAVIŢA,Str. 1 Decembrie 1918 5,sec. XVIII
 663,CS-II-m-B-11139,"Casa ""Mâţa Neagră"", azi locuinţe",oraş ORAVIŢA,Str. 1 Decembrie 1918 11,"1746, modificări şi refaceri 1804, 1829"
 664,CS-II-m-B-11140,"Farmacia Knoblauch, azi locuinţă",oraş ORAVIŢA,Str. 1 Decembrie 1918 17,1796
-665,CS-II-m-B-11141,"Hotel Coroana, cu pasaj boltit peste Str. Aurului, azi Centru vârstnice",oraş ORAVIŢA,Str. 1 Decembrie 1918 22,1733
+665,CS-II-m-B-11141,"Hotel Coroana, cu pasaj boltit peste Str. Aurului, azi Centru de îngrijire persoane",oraş ORAVIŢA,Str. 1 Decembrie 1918 22,1733
 666,CS-II-m-B-11142,"Casa Avocaţilor, azi Biblioteca orăşenească ""Simeon Mangiuca"", cabinete medicale şi locuinţe",oraş ORAVIŢA,Str. 1 Decembrie 1918 24,"1777, modificări 1836"
 667,CS-II-m-B-11143,"Casa Tinichigiului, cu poarta, azi locuinţe",oraş ORAVIŢA,Str. 1 Decembrie 1918 30,1700 - 1750
 668,CS-II-m-B-11144,"Clădire, azi policlinică",oraş ORAVIŢA,Str. 1 Decembrie 1918 41,1896
@@ -625,7 +674,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 673,CS-II-m-B-11149,"Gimnaziul de fete ""Regina Maria"", azi Casa Copiilor şi Tinerilor",oraş ORAVIŢA a,Str. 1 Decembrie 1918 62,1873
 674,CS-II-m-B-11150,Casă,oraş ORAVIŢA,"Str. Bojincă Damaschin 26, colţ cu str. Valea Aurului",sec. XVIII
 675,CS-II-m-B-11151,Casa Vichentie Stângu,oraş ORAVIŢA,Str. Ciclovei 4,1890
-676,CS-II-m-B-11153,Moară (cu motoare Ganz- Danubius),oraş ORAVIŢA,"Str. Eminescu Mihai 7, în incinta fostei Şcoli de călugăriţe teatru",1880
+676,CS-II-m-B-11153,Moară (cu motoare Ganz- Danubius),oraş ORAVIŢA,"Str. Eminescu Mihai 7, în incinta fostei Şcoli de călugăriţe",1880
+677,CS-II-m-B-11152,"Garaje UDR, azi clădire-anexă",oraş ORAVIŢA,"Str. Eminescu Mihai 13A, vis-à-vis de teatru",1875 - 1900
 678,CS-II-m-A-11154,"Teatrul vechi, azi Teatrul ""Mihai Eminescu”",oraş ORAVIŢA,Str. Eminescu Mihai 18,"1817, renovat şi modificat 1893, restaurat 1997"
 679,CS-II-m-B-11155,Casă,oraş ORAVIŢA,Str. Eminescu Mihai 20,sec. XVIII
 680,CS-II-m-B-11156,"Şcoala Normală, azi Liceul ""Ion Dragalina""; corpul central - A",oraş ORAVIŢA,Piaţa Ferdinand 1,1873
@@ -636,7 +686,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 685,CS-II-m-A-11159,"Barajul ""Lacul Mic”",oraş ORAVIŢA,Str. Gojdu Emanuil f.n.,1724 - 1733
 686,CS-II-m-B-11160,"Baia comunală, azi locuinţă",oraş ORAVIŢA,Str. Gojdu Emanuil 25,1874
 687,CS-II-m-B-11161,Casă,oraş ORAVIŢA,Str. Gojdu Emanuil 43,sec. XIX
-688,CS-II-m-B-11162,"Casă, azi Centrul de studii bănăţene ""Sim Sam Moldovan"" Pita Bujor",oraş ORAVIŢA,Str. Gojdu Emanuil 46,sec. XIX
+688,CS-II-m-B-11162,"Casă, azi Centrul de studii bănăţene ""Sim Sam Moldovan""",oraş ORAVIŢA,Str. Gojdu Emanuil 46,sec. XIX
+689,CS-II-m-B-11163,"Casa Maderspach, azi Casa Pita Bujor",oraş ORAVIŢA,Str. Gojdu Emanuil 48,sec. XIX
 690,CS-II-m-B-11164,"""Casă oficialităţi"", azi locuinţă",oraş ORAVIŢA,Str. Gojdu Emanuil 50,sec. XIX
 691,CS-II-m-B-11165,"Şcoala de călugăriţe (ordinul Notre Dame), cu closter (internat)",oraş ORAVIŢA,Str. Gojdu Emanuil 52,1781
 692,CS-II-m-B-11166,"Casă, cu spaţiu comercial (restaurant, cu terasă), azi locuinţe",oraş ORAVIŢA,Str. Gojdu Emanuil 56,sec. XIX
@@ -648,6 +699,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 698,CS-II-m-B-11179,"Restaurantul şi cabana ""7 Brazi”",oraş ORAVIŢA,Str. Nucilor 39,sec. XX
 699,CS-II-m-B-11172,"Tribunal, azi Judecătoria Oraviţa şi birou carte funciară",oraş ORAVIŢA,Piaţa Revoluţiei 2,"1721; modificări 1788, 1838"
 700,CS-II-m-B-11173,"Casă, azi Grădiniţa nr. 3",oraş ORAVIŢA,Piaţa Revoluţiei 3,sec. XIX
+701,CS-II-m-B-11174,"Clădire, fost sediu SETTPPL",oraş ORAVIŢA,Piaţa Revoluţiei 5,1837
 702,CS-II-m-B-11175,"Biserica ""Sf. Ilie""",oraş ORAVIŢA,"Str. Şaguna Andrei 5, Cartier Oraviţa Română","1755, coloane 1838, turla 1896"
 703,CS-II-m-B-11177,Biserică romano-catolică,oraş ORAVIŢA,Piaţa Unirii 1,1713
 704,CS-II-m-B-11176,"Casa Konkz, azi locuinţă şi spaţiu comercial",oraş ORAVIŢA,Piaţa Unirii 2,1840
@@ -659,7 +711,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 710,CS-II-m-B-11181.01,"Biserica ""Sf. Gheorghe""",oraş OŢELU ROŞU,"Str. Cuza Alexandru Ioan 40, Cartier Ohaba Bistrei",1840
 711,CS-II-m-B-11183,Şcoala cu troiţă,oraş OŢELU ROŞU,Str. Republicii 28,sec. XIX
 712,CS-II-m-B-11182,"Casa fotografului Norbert Taugner, azi locuinţă",oraş OŢELU ROŞU,Str. Republicii 67,înc. sec. XX
-713,CS-II-m-B-11184,Casa Pavel Milasevici Păltiniş,oraş OŢELU ROŞU,Str. Revoluţiei 186,sf. sec. XIX
+713,CS-II-m-B-11184,Casa Pavel Milasevici,oraş OŢELU ROŞU,Str. Revoluţiei 186,sf. sec. XIX
+714,CS-II-a-B-11185,Ansamblul de mori din Păltiniş,comuna PĂLTINIŞ,Valea râului Pogăniş,înc. sec. XX
 715,CS-II-m-B-11185.01,Moara lui Gheorghe Petru,comuna PĂLTINIŞ,Valea râului Pogăniş,înc. sec. XX
 716,CS-II-m-B-11185.02,Moara lui Ilie,comuna PĂLTINIŞ,Valea râului Pogăniş,înc. sec. XX
 717,CS-II-m-B-11185.03,Moara lui Mihai,comuna PĂLTINIŞ,Valea râului Pogăniş,înc. sec. XX
@@ -671,7 +724,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 723,CS-II-m-B-11186.04,Moara Popii,sat PĂTAŞ; comuna PRIGOR,Valea râului Nera,înc. sec. XX
 724,CS-II-m-B-11186.05,Moara Mergionilor,sat PĂTAŞ; comuna PRIGOR,Valea râului Nera,înc. sec. XX
 725,CS-II-m-B-11186.06,Moara dintre Ierugi,sat PĂTAŞ; comuna PRIGOR,Valea râului Nera,înc. sec. XX
-726,CS-II-m-B-11187,"Biserica ""Sf. Sava"" a fostei Mănăstiri sârbeşti Zlatiţa",sat PÂRNEAURA; comuna SOCOL comuna PRIGOR,,"sec. XVI, reclădită 1760 - 1770"
+726,CS-II-m-B-11187,"Biserica ""Sf. Sava"" a fostei Mănăstiri sârbeşti Zlatiţa",sat PÂRNEAURA; comuna SOCOL,,"sec. XVI, reclădită 1760 - 1770"
+727,CS-II-a-B-11188,Ansamblul de mori din Prigor,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
 728,CS-II-m-B-11188.01,Moara din Ţarină,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
 729,CS-II-m-B-11188.02,Moara din Vama I,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
 730,CS-II-m-B-11188.03,Moara din Vama II,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
@@ -683,7 +737,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 736,CS-II-m-B-11188.09,Moara din Lunci II,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
 737,CS-II-m-B-11188.10,Moara Ibilcina I,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
 738,CS-II-m-B-11188.11,Moara Ibilcina II,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
-739,CS-II-m-B-11188.12,Vâltoarea de la Seabicerin,sat PRIGOR; comuna PRIGOR comuna PRIGOR,Valea râului Putna,înc. sec. XX
+739,CS-II-m-B-11188.12,Vâltoarea de la Seabicerin,sat PRIGOR; comuna PRIGOR,Valea râului Putna,înc. sec. XX
+740,CS-II-a-B-11189,Ansamblul de mori din Putna,sat PUTNA; comuna PRIGOR,Valea râului Putna,sec. XVIII - XIX
 741,CS-II-m-B-11189.01,Moara mică,sat PUTNA; comuna PRIGOR,Valea râului Putna,sec. XVIII
 742,CS-II-m-B-11189.02,"Moara ""din capăt""",sat PUTNA; comuna PRIGOR,Valea râului Putna,sec. XVIII - XIX
 743,CS-II-m-B-11189.03,"Moara ""de pe vale""",sat PUTNA; comuna PRIGOR,Valea râului Putna,sec. XVIII - XIX
@@ -692,7 +747,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 746,CS-II-m-B-11191,Biserică romano-catolică,sat RUSCA MONTANĂ; comuna RUSCA MONTANĂ,,1807
 747,CS-II-m-B-11192,Topitorie,sat RUȘCHIŢA; comuna RUSCA MONTANĂ,"Valea Lozne, la 1 km NV de localitate",jum. sec. XIX
 748,CS-II-m-B-11193,"Biserica greco-catolică ""Sf. Apostoli""",sat SASCA MONTANĂ; comuna SASCA MONTANĂ,,"1777, refaceri 1862"
-749,CS-II-m-B-11194,"Biserica ""Naşterea Maicii Domnului""",sat SASCA MONTANĂ; comuna SASCA MONTANĂ comuna TICVANIU,,1771
+749,CS-II-m-B-11194,"Biserica ""Naşterea Maicii Domnului""",sat SASCA MONTANĂ; comuna SASCA MONTANĂ,,1771
+750,CS-II-m-B-11195,"Biserica ""Sf. Arhangheli""",sat SECĂŞENI; comuna TICVANIU MARE,,"sf. sec. XVIII, transf. 1838"
 751,CS-II-m-B-11196,"Clădirea conducerii minei Secu, azi locuinţă",localitate componentă SECU; municipiul REŞIŢA,,sec. XIX
 752,CS-II-m-B-11197,"Casa Puţului, azi locuinţă",localitate componentă SECU; municipiul REŞIŢA,,1878
 753,CS-II-a-A-11198,"Ansamblu tunel, pod și apeduct",localitate componentă SECU; municipiul REŞIŢA,Canton CSR,1903
@@ -701,7 +757,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 756,CS-II-m-A-11198.03,Apeduct,localitate componentă SECU; municipiul REŞIŢA,Canton CSR,1903
 757,CS-II-a-B-11199,"Ansamblul de mori din Sicheviţa, valea râului Cameniţa",sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
 758,CS-II-m-B-11199.01,Moara din Luncă,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
-759,CS-II-m-B-11199.02,Moara Zasloane,sat SICHEVIŢA; comuna SICHEVIŢA comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
+759,CS-II-m-B-11199.02,Moara Zasloane,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
+760,CS-II-m-B-11199.03,Moara Creta Nouă,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
 761,CS-II-m-B-11199.04,Moara lui Stoican,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
 762,CS-II-m-B-11199.05,Moara de sub Cârşie,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Cameniţa,înc. sec. XX
 763,CS-II-a-B-11200,"Ansamblul de mori din Sicheviţa, valea râului Gramensca",sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Gramensca,înc. sec. XX
@@ -712,7 +769,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 768,CS-II-m-B-11200.05,Moara de la Firiz,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Gramensca,înc. sec. XX
 769,CS-II-m-B-11200.06,Moara de la Jgheab,sat SICHEVIŢA; comuna SICHEVIŢA,Valea râului Gramensca,înc. sec. XX
 770,CS-II-m-B-11201,"Biserica ""Adormirea Maicii Domnului""",sat SLATINA-NERA; comuna SASCA MONTANĂ,,1750 - 1800
-771,CS-II-m-B-11202,"Biserică romano-catolică Maicii Domnului""",sat SLATINA-TIMIŞ; comuna SLATINA- TIMIŞ MARE; comuna,199,1739
+771,CS-II-m-B-11202,Biserică romano-catolică,sat SLATINA-TIMIŞ; comuna SLATINA- TIMIŞ,199,1739
+772,CS-II-m-B-11210,"Biserica de lemn ""Naşterea Maicii Domnului""",sat SURDUCU MARE; comuna FOROTIC,,1721
 773,CS-II-m-B-11211,Instalaţii metalurgice,sat TÂRNOVA; comuna TÂRNOVA,"""Săliştiuţa”",sec. XVIII - XIX
 774,CS-II-m-B-11212,"Biserica ""Sf. Dumitru""",sat TEREGOVA; comuna TEREGOVA,,"1783, modificări 1930"
 775,CS-II-m-B-11213,"Biserica greco-catolică ""Învierea Domnului""",sat TICVANIU MARE; comuna TICVANIU MARE,,1772
@@ -723,7 +781,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 780,CS-II-m-B-11217.01,Moara de la Pod,sat TOPLEŢ; comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
 781,CS-II-m-B-11217.02,Moara lui Dămşescu,sat TOPLEŢ; comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
 782,CS-II-m-B-11217.03,Moara lui Haşca,sat TOPLEŢ; comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
-783,CS-II-m-B-11217.04,Moara lui Şandru,sat TOPLEŢ; comuna TOPLEŢ comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
+783,CS-II-m-B-11217.04,Moara lui Şandru,sat TOPLEŢ; comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
+784,CS-II-m-B-11217.05,Moara lui Jargea,sat TOPLEŢ; comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
 785,CS-II-m-B-11217.06,Moara lui Ion Boartă,sat TOPLEŢ; comuna TOPLEŢ,Valea râului Bigăr,înc. sec. XX
 786,CS-II-m-B-11218,"Donjonul ""Turnul lui Ovidiu” (ruine)",sat TURNU RUIENI; comuna TURNU RUIENI,"La 2 km de localitate, pe dealul Turnului",1457
 787,CS-II-m-B-11219,"Biserica ""Sf. Arhangheli Mihail şi Gavril""",sat VALEA MARE; comuna FÂRLIUG,,"1800, reclădită 1893"
@@ -734,7 +793,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 792,CS-II-m-B-11224,"Vila Klauss, azi tabără şcolară",sat VĂLIUG; comuna VĂLIUG,"În afara satului, spre Crivaia","1808, refaceri 1853"
 793,CS-II-a-A-11225,Ansamblul amenajărilor hidroenergetice Văliug,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1901 - 1959
 794,CS-II-m-A-11225.01,Hidrocentrala Breazova,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1916
-795,CS-II-m-A-11225.02,Baraj Breazova,sat VĂLIUG; comuna VĂLIUG comuna VĂLIUG,Pe râul Bârzava,1901
+795,CS-II-m-A-11225.02,Baraj Breazova,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1901
+796,CS-II-m-A-11225.03,Tunele,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1901 - 1904
 797,CS-II-m-A-11225.04,Canale,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1901 - 1904
 798,CS-II-m-A-11225.05,Apeducte,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1901 - 1904
 799,CS-II-m-A-11225.06,Poduri,sat VĂLIUG; comuna VĂLIUG,Pe râul Bârzava,1901 - 1904
@@ -745,7 +805,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 804, CS-II-m-B-11227.02, Chilii (ruine), sat VĂRĂDIA; comuna VĂRĂDIA,, sec. XVIII
 805,CS-II-m-B-11228,"Conacul ""Juhasz”, azi centru pentru minori",sat ZĂGUJENI; comuna CONSTANTIN DAICOVICIU,,1896
 806,CS-II-m-B-11229,Biserica sârbească Cusici,sat ZLATIŢA; comuna SOCOL,"La intrarea dinspre Lescoviţa spre Zlatiţa, în partea dreaptă a şoselei",sf. sec. XVI
-807,CS-III-m-B-11230,Bustul generalului Nicolae Vicol,oraş BĂILE HERCULANE HERCULANE,"Str. Cerna, vis-à-vis de Hotel ""Traian"" ""Decebal""",1936
+807,CS-III-m-B-11230,Bustul generalului Nicolae Vicol,oraş BĂILE HERCULANE,"Str. Cerna, vis-à-vis de Hotel ""Traian""",1936
+808,CS-III-m-B-11231,Bustul lui Mihai Eminescu,oraş BĂILE HERCULANE,"Str. Cerna, vis-à-vis de Hotelul ""Decebal""",1926
 809,CS-III-m-A-11232,Statuia lui Hercules,oraş BĂILE HERCULANE,Piaţa Hercules,1847
 810,CS-III-m-B-11233,Statuia zeiţei Hebe,oraş BĂILE HERCULANE,"Piaţa Hercules 8, în incinta Băii Hebe",sec. XIX
 811,CS-III-m-B-11234,Statuia zeiţei Diana,oraş BĂILE HERCULANE,"Str. Izvorului 1, în incinta Băii Diana",sec. XIX
@@ -758,6 +819,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 818,CS-III-m-B-11241,Bustul episcopului Ioan Popasu,municipiul CARANSEBEŞ,Piaţa Sf. Gheorghe,1935
 819,CS-III-m-B-11242,"Statuia ""Pro Patria”",municipiul CARANSEBEŞ,"Str. Zăcan Efrem 3, în faţa Liceului ""Traian Doda""",1918
 820,CS-III-m-B-11243,Bustul lui Damaschin Bojincă,oraş ORAVIŢA,"Parcul ""Ferdinand""",1932
+821,CS-III-m-B-11244,Bustul lui Mihai Eminescu,oraş ORAVIŢA,"Parcul ""Ferdinand""",1932
 822,CS-IV-m-B-11255,"Cruce comemorativă pentru primul serviciu religios al coloniştilor germani, sosiţi 1773",oraş ANINA în,"Str. Şcolii 2, Cartier Steierdorf, în curtea imobilului",1873
 823,CS-IV-m-B-11245,Cruce de hotar,municipiul CARANSEBEŞ,Cartier Mehală,sec. XVIII - XIX
 824,CS-IV-m-B-11246,"Casa generalului Ion Dragalina, azi locuinţă",municipiul CARANSEBEŞ,Str. Ardealului 6,sec. XIX
@@ -766,5 +828,6 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 827,CS-IV-m-B-11250,Mormântul etnografului Iuliu Vuia,municipiul CARANSEBEŞ,"Str. Muntele Mic 40, Cimitirul bisericii ortodoxe ""Adormirea Maicii Domnului""",prima jum. a sec. XX
 828,CS-IV-s-B-11251,Cimitir,localitate componentă DOMAN; municipiul REŞIŢA,,sec. XIX
 829,CS-IV-m-B-11252,Casa istoricului Ion Sârbu,sat EFTIMIE MURGU; comuna EFTIMIE MURGU,,sec. XIX
-830,CS-IV-m-B-11253,"Piatra de mormânt a cronicarului Nicolae Stoica Haţeg pictorilor Dimitrie Popovici,",sat MEHADIA; de comuna MEHADIA,"în curtea bisericii ortodoxe ""Adormirea Maicii Domnului""",1833
+830,CS-IV-m-B-11253,Piatra de mormânt a cronicarului Nicolae Stoica Haţeg,sat MEHADIA; de comuna MEHADIA,în curtea bisericii ortodoxe,1833
+831,CS-IV-m-B-11254,"Cripta cu mormintele pictorilor Dimitrie Popovici, Nicolae Haşca şi al istoricului Sim Sam Moldovan",oraş ORAVIŢA,"În cimitirul bisericii ortodoxe ""Adormirea Maicii Domnului""",sf. sec. XIX
 832,CS-IV-m-B-11181.02,Troiţa Eroilor (1914-1918),oraş OŢELU ROŞU,"Str. Cuza Alexandru Ioan 40, Cartier Ohaba Bistrei",1922 - 1925

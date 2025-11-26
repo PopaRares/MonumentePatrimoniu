@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,NT-I-s-A-10479,Cetate,municipiul PIATRA NEAMŢ,"Aleea Trei Căldări, ''Dealul Cozla”",sec. II a. Chr. - sec. I p. Chr.
 2,NT-I-s-A-10480,"Situl arheologic de la Piatra Neamţ, punct ""Dealul Bâtca Doamnei""",municipiul PIATRA NEAMŢ,"""Dealul Bâtca Doamnei”",
 3,NT-I-m-A-10480.01,Aşezare,municipiul PIATRA NEAMŢ,"""Dealul Bâtca Doamnei”",sec. XI - XIII
 4,NT-I-m-A-10480.02,Aşezare fortificată,municipiul PIATRA NEAMŢ,"""Dealul Bâtca Doamnei”",sec. II a. Chr. - sec. I p. Chr.
@@ -7,7 +8,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 7,NT-I-s-B-10483,"Situl arheologic de la Bârgăuani ""Dealul Coşăriei""",sat BÂRGĂUANI; comuna BÂRGĂUANI,"""Dealul Coşăriei”, la N-V de şcoală generală",
 8,NT-I-m-B-10483.01,Aşezare,sat BÂRGĂUANI; comuna BÂRGĂUANI,"""Dealul Coşăriei”, la N-V de şcoală generală",Epoca bronzului
 9,NT-I-m-B-10483.02,Aşezare,sat BÂRGĂUANI; comuna BÂRGĂUANI,"""Dealul Coşăriei”, la N-V de şcoală generală",Neolitic
-10,NT-I-s-B-10484,Aşezare,sat BICAZ-CHEI; comuna BICAZ-CHEI comuna BODEŞTI,"""Munticelu”","Paleolitic superior, Cultura Gravettian Cucuteni, fazele A, A-B,"
+10,NT-I-s-B-10484,Aşezare,sat BICAZ-CHEI; comuna BICAZ-CHEI,"""Munticelu”","Paleolitic superior, Cultura Gravettian"
+11,NT-I-s-B-10485,Aşezare,sat BODEŞTII DE JOS; comuna BODEŞTI,"""Cetăţuia Frumuşica”","Neolitic, Cultura Cucuteni, fazele A, A-B,"
 12,NT-I-s-B-10486,Aşezare,sat BORNIŞ; comuna DRAGOMIREŞTI,"""Silişte”",sec. XIV - XVII
 13,NT-I-s-B-10487,"Situl arheologic de la Bozieni, punct ""La Cenuşărie""",sat BOZIENI; comuna BOZIENI,"""La Cenuşărie”",
 14,NT-I-m-B-10487.01,Aşezare,sat BOZIENI; comuna BOZIENI,"""La Cenuşărie”",sec. XV - XVII
@@ -18,7 +20,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 19, NT-I-m-B-10490.01, Necropolă, sat BUTNĂREŞTI; comuna SECUIENI," ""La Chiuaru”", sec. II - III p. Chr.
 20,NT-I-m-B-10490.02,Aşezare,sat BUTNĂREŞTI; comuna SECUIENI,"""La Chiuaru”",sec. II - III p. Chr.
 21,NT-I-m-B-10490.03,Aşezare,sat BUTNĂREŞTI; comuna SECUIENI,"""La Chiuaru”",Hallstatt
-22,NT-I-s-B-10491,"Situl arheologic de la Căşăria, punct ""Dealul Mătăhuia""",sat CĂŞĂRIA; comuna DOBRENI DOBRENI,"""Dealul Mătăhuia”"," Cucuteni, faza A"
+22,NT-I-s-B-10491,"Situl arheologic de la Căşăria, punct ""Dealul Mătăhuia""",sat CĂŞĂRIA; comuna DOBRENI,"""Dealul Mătăhuia”",
+23,NT-I-m-B-10491.01,Aşezare,sat CĂŞĂRIA; comuna DOBRENI,"""Dealul Mătăhuia”","Neolitic, Cultura Cucuteni, faza A"
 24,NT-I-m-B-10491.02,Aşezare,sat CĂŞĂRIA; comuna DOBRENI,"""Dealul Mătăhuia”","Neolitic, Cultura Cucuteni, fazele A, B"
 25,NT-I-s-B-10492,Aşezare,sat CÂNDEŞTI; comuna CÂNDEŞTI,"""Dealul Cetăţuia”",sec. II - III p. Chr.
 26,NT-I-s-B-10493,Aşezare,sat CORNI; comuna BODEŞTI,"""Strâmbi”",sec. XV - XVII
@@ -28,7 +31,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 30,NT-I-s-B-10495,Necropolă,sat DAVID; comuna VĂLENI,"""La Ţarinî”",sec. II - III p. Chr.
 31,NT-I-s-B-10496,"Situl arheologic de la Davideni, punct ""La Izvoare - Spieşti""",sat DAVIDENI; comuna ŢIBUCANI,"""La Izvoare - Spieşti”",
 32,NT-I-m-B-10496.01,Aşezare,sat DAVIDENI; comuna ŢIBUCANI,"""La Izvoare - Spieşti”","sec. VI - VIII, Epoca migraţiilor"
-33,NT-I-m-B-10496.02,Aşezare,sat DAVIDENI; comuna ŢIBUCANI ŢIBUCANI,"""La Izvoare - Spieşti”",Hallstatt
+33,NT-I-m-B-10496.02,Aşezare,sat DAVIDENI; comuna ŢIBUCANI,"""La Izvoare - Spieşti”",Hallstatt
+34,NT-I-m-B-10496.03,Aşezare,sat DAVIDENI; comuna ŢIBUCANI,"""La Izvoare - Spieşti”",Latène târziu
 35,NT-I-m-B-10496.04,Aşezare,sat DAVIDENI; comuna ŢIBUCANI,"""La Izvoare - Spieşti”","Epoca bronzului târziu, Cultura Noua"
 36,NT-I-s-B-10497,Cetate,sat DOCHIA; comuna DOCHIA,"""Cetăţuia Sărăţica”",Hallstatt
 37,NT-I-s-B-10498,Morminte,sat DOCHIA; comuna DOCHIA,"""La Perdele”","sec. II-III p. Chr., Cultura carpică"
@@ -38,7 +42,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 41,NT-I-m-B-10500.02,Aşezare,sat DULCEŞTI; comuna DULCEŞTI,"""La Grădinărie”, la 2 km V de sat, pe terasa nordică a pârâului Valea Neagră",Hallstatt
 42,NT-I-s-B-10501,Aşezare,sat DUŞEŞTI; comuna ŞTEFAN CEL MARE,"""La Velniţă”, în vatra satului, între pârâul Velniţa şi biserică",sec. II - III p. Chr.
 43,NT-I-s-A-10502,Cetatea Nouă a Romanului,sat GÂDINŢI; comuna GÂDINŢI,Str. Poganului 1,1466 - 1675
-44,NT-I-s-B-10503,"Situl arheologic de la Ghelăieşti, punct „Dealul Nedeea” Gherăieşti, punct ""La",sat GHELĂIEŞTI; comuna BÂRGĂUANI GHERĂEŞTI,"""Dealul Nedeea”","Eneolitic, Cultura Cucuteni, fazele A, A-B,"
+44,NT-I-s-B-10503,"Situl arheologic de la Ghelăieşti, punct „Dealul Nedeea”",sat GHELĂIEŞTI; comuna BÂRGĂUANI,"""Dealul Nedeea”","Eneolitic, Cultura Cucuteni, fazele A, A-B,"
+45,NT-I-s-B-10504,"Situl arheologic de la Gherăieşti, punct ""La Biserică""",sat GHERĂEŞTI; comuna GHERĂEŞTI,"""La Biserică”",
 46,NT-I-m-B-10504.01,Necropolă,sat GHERĂEŞTI; comuna GHERĂEŞTI,"""La Biserică”",sec. XV - XVIII
 47,NT-I-m-B-10504.02,Aşezare,sat GHERĂEŞTI; comuna GHERĂEŞTI,"""La Biserică”",sec. II - I a. Chr.
 48,NT-I-s-B-10505,"Situl arheologic de la Ghigoieşti, punct ""Podul Trudeştilor""",sat GHIGOIEŞTI; comuna ŞTEFAN CEL MARE,"""Podul Trudeştilor”",
@@ -49,7 +54,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 53, NT-I-m-B-10506.02, Aşezare, sat GOŞMANI; comuna ROMANI," ""La Moară”", Epoca bronzului
 54,NT-I-s-B-10507,Aşezare,sat GRUMĂZEŞTI; comuna GRUMĂZEŞTI,"""Deleni”","Neolitic timpuriu, Cultura Starčevo - Criş"
 55,NT-I-s-B-10508,Aşezare,sat HLĂPEŞTI; comuna DRAGOMIREŞTI,"""La Dejugătoare”","Eneolitic, Cultura Cucuteni"
-56,NT-I-s-B-10509,"Situl arheologic de la Homiceni, punct ""Dealul Davidului""",sat HOMICENI; comuna BÂRGĂOANI BÂRGĂUANI,"""Dealul Davidului”",
+56,NT-I-s-B-10509,"Situl arheologic de la Homiceni, punct ""Dealul Davidului""",sat HOMICENI; comuna BÂRGĂOANI,"""Dealul Davidului”",
+57,NT-I-m-B-10509.01,Aşezare,sat HOMICENI; comuna BÂRGĂUANI,"""Dealul Davidului”",sec. XV - XVI
 58,NT-I-m-B-10509.02,Aşezare,sat HOMICENI; comuna BÂRGĂUANI,"""Dealul Davidului”","sec. V - VI, Epoca migraţiilor"
 59,NT-I-m-B-10509.03,Aşezare,sat HOMICENI; comuna BÂRGĂUANI,"""Dealul Davidului""",sec. II - III p. Chr.
 60,NT-I-s-B-10533,Aşezare,sat ICUŞEŞTI; comuna ICUŞEŞTI,"""Ceţăţuie""",sec. II - III p. Chr.
@@ -60,7 +66,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 65,NT-I-m-B-10512.01,Aşezare,sat IZVOARE; comuna BAHNA,"""La Cioate”",sec. II - III p. Chr.
 66,NT-I-m-B-10512.02,Necropolă,sat IZVOARE; comuna BAHNA,"""La Cioate”",sec. II - III p. Chr.
 67,NT-I-s-B-10513,Aşezare,sat IZVOARE; comuna BAHNA,"""Hărmăneşti”",sec. VI - VII
-68,NT-I-s-B-10514,"Situl arheologic de la Izvoare, punct ""La Izvoare Ferma Plantavorel""",sat IZVOARE; comuna - DUMBRAVA ROŞIE DUMBRAVA ROŞIE,"""La Izvoare - Ferma Plantavorel”",
+68,NT-I-s-B-10514,"Situl arheologic de la Izvoare, punct ""La Izvoare Ferma Plantavorel""",sat IZVOARE; comuna - DUMBRAVA ROŞIE,"""La Izvoare - Ferma Plantavorel”",
+69,NT-I-m-B-10514.01,Necropolă,sat IZVOARE; comuna DUMBRAVA ROŞIE,"""La Izvoare - Ferma Plantavorel”",sec. XIII - XIV
 70,NT-I-m-B-10514.02,Necropolă,sat IZVOARE; comuna DUMBRAVA ROŞIE,"""La Izvoare - Ferma Plantavorel”",sec. IV p. Chr.
 71,NT-I-m-B-10514.03,Aşezare,sat IZVOARE; comuna DUMBRAVA ROŞIE,"""La Izvoare - Ferma Plantavorel”","Neolitic, Cultura Precucuteni, fazele II, III"
 72,NT-I-s-B-10515,"Situl arheologic de la Lunca, punct ""Poiana Slatinii""",sat LUNCA; comuna VÂNĂTORI-NEAMŢ,"""Poiana Slatinii”",
@@ -72,7 +79,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 78,NT-I-m-B-10515.06,Aşezare,sat LUNCA; comuna VÂNĂTORI-NEAMŢ,"""Poiana Slatinii”","Neolitic mijlociu, Cultura ceramicii liniare"
 79,NT-I-m-B-10515.07,Aşezare,sat LUNCA; comuna VÂNĂTORI-NEAMŢ,"""Poiana Slatinii”","Neolitic, Cultura Precucuteni"
 80,NT-I-m-B-10515.08,Aşezare,sat LUNCA; comuna VÂNĂTORI-NEAMŢ,"""Poiana Slatinii”","Neolitic timpuriu, Cultura Starčevo - Criş"
-81,NT-I-m-B-10515.09,Aşezare,sat LUNCA; comuna VÂNĂTORI-NEAMŢ BORLEŞTI,"""Poiana Slatinii”","Epoca bronzului, Cultura Costişa; Cultura Noua; Cultura Coslogeni carpică"
+81,NT-I-m-B-10515.09,Aşezare,sat LUNCA; comuna VÂNĂTORI-NEAMŢ,"""Poiana Slatinii”","Epoca bronzului, Cultura Costişa; Cultura Noua; Cultura Coslogeni"
+82,NT-I-s-B-10516,Necropolă,sat MASTACĂN; comuna BORLEŞTI,,"sec. II - III p. Chr., Cultura carpică"
 83,NT-I-s-B-10517,Situl arheologic de la Mănoaia,sat MĂNOAIA; comuna COSTIŞA,"în vatra satului, pe terasa din stânga râului Bistriţa",
 84,NT-I-m-B-10517.01,Aşezare,sat MĂNOAIA; comuna COSTIŞA,"În vatra satului, pe terasa din stânga râului Bistriţa",sec. X - XI
 85,NT-I-m-B-10517.02,Aşezare,sat MĂNOAIA; comuna COSTIŞA,"În vatra satului, pe terasa din stânga râului Bistriţa",sec. IV - VI
@@ -83,7 +91,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 90,NT-I-s-B-10520,"Situl arheologic de la Neguleşti, punct ""Deleni""",sat NEGULEŞTI; comuna PIATRA ŞOIMULUI,Str. Deleni,
 91,NT-I-m-B-10520.01,Aşezare,sat NEGULEŞTI; comuna PIATRA ŞOIMULUI,Str. Deleni,"Neolitic, Cultura Starčevo-Criş"
 92,NT-I-m-B-10520.02,Aşezare,sat NEGULEŞTI; comuna PIATRA ŞOIMULUI,Str. Deleni,"Epoca bronzului timpuriu, Cultura amforelor sferice"
-93,NT-I-s-B-10521,"Necropolă tumulară Netezi, punct ""Brătuleţ""",sat NEMŢIŞOR; comuna VÂNĂTORI-NEAMŢ GRUMĂZEŞTI,"""Branişte”",sec. III - IV p. Chr.
+93,NT-I-s-B-10521,Necropolă tumulară,sat NEMŢIŞOR; comuna VÂNĂTORI-NEAMŢ,"""Branişte”",sec. III - IV p. Chr.
+94,NT-I-s-A-10522,"Ruinele curţii boiereşti de Netezi, punct ""Brătuleţ""",la sat NETEZI; comuna GRUMĂZEŞTI,"""Brătuleţ”",sec. XIV - XVI
 95,NT-I-m-A-10522.01,Biserică,sat NETEZI; comuna GRUMĂZEŞTI,"""Brătuleţ”",sec. XIV - XVI
 96,NT-I-m-A-10522.02,Aşezare,sat NETEZI; comuna GRUMĂZEŞTI,"""Brătuleţ”",sec. XIII - XIV
 97,NT-I-m-A-10522.03,Necropolă,sat NETEZI; comuna GRUMĂZEŞTI,"""Brătuleţ”",sec. XV - XVI
@@ -94,7 +103,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 102,NT-I-s-B-10526,"Situl arheologic de la Petricani, punct ""Râpa lui Ravaru""",sat PETRICANI; comuna PETRICANI,"""Râpa lui Ravaru”",
 103,NT-I-m-B-10526.01,Necropolă,sat PETRICANI; comuna PETRICANI,"""Râpa lui Ravaru”",sec. IV p. Chr.
 104,NT-I-m-B-10526.02,Aşezare,sat PETRICANI; comuna PETRICANI,"""Râpa lui Ravaru”","Eneolitic, Cultura Cucuteni, faza A"
-105,NT-I-s-B-10527,"Situl arheologic de la Piatra Şoimului, punct ""Dealu Calu""",sat PIATRA ŞOIMULUI; comuna PIATRA ŞOIMULUI comuna PIATRA ŞOIMULUI,"""Dealul Horodiştea - Calu”"," Cucuteni, faza A"
+105,NT-I-s-B-10527,"Situl arheologic de la Piatra Şoimului, punct ""Dealu Calu""",sat PIATRA ŞOIMULUI; comuna PIATRA ŞOIMULUI,"""Dealul Horodiştea - Calu”",
+106,NT-I-m-B-10527.01,Aşezare,sat PIATRA ŞOIMULUI; comuna PIATRA ŞOIMULUI,"""Dealul Horodiştea - Calu”","Eneolitic, Cultura Cucuteni, faza A"
 107,NT-I-m-B-10527.02,Cetate,sat PIATRA ŞOIMULUI; comuna PIATRA ŞOIMULUI,"""Dealul Horodiştea - Calu”",sec. I a. Chr. - I p. Chr.
 108,NT-I-s-B-10528,Ruinele fostei mănăstiri Bociuleşti,sat PODOLENI; comuna PODOLENI,"""La Ruine”",sec. XVII - XIX
 109,NT-I-s-B-10529,"Situl arheologic de la Poiana, punct ""Siliştea""",sat POIANA; comuna DULCEŞTI,"""Siliştea”",
@@ -107,6 +117,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 116,NT-I-s-B-10531,Aşezare,sat RĂUCEŞTI; comuna RĂUCEŞTI,"""Dealul Munteni”","Eneolitic, Cultura Cucuteni, faza B"
 117,NT-I-s-B-10532,"Situl arheologic de la Rediu, punct ""La Cetate""",sat REDIU; comuna BIRA,"""La Cetate”",
 118,NT-I-m-B-10532.01,Cetate de pământ,sat REDIU; comuna BIRA,"""La Cetate”",sec. XVIII
+119,NT-I-m-B-10532.02,Aşezare,sat REDIU; comuna BIRA,"""La Cetate”",sec. IV p. Chr.
 120,NT-I-m-B-10532.03,Aşezare,sat REDIU; comuna BIRA,"""La Cetate”",Hallstatt
 121,NT-I-m-B-10532.04,Aşezare,sat REDIU; comuna BIRA,"""La Cetate”","Eneolitic, Cultura Cucuteni"
 122,NT-I-s-A-10534,Cetatea Muşatină a Romanului,municipiul ROMAN,"Str. Alexandru cel Bun 5, ""Parcul Zoologic”",1392 - înc. sec. XV.
@@ -118,7 +129,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 128,NT-I-m-B-10536.05,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Bisericuţă”",Epoca bronzului
 129,NT-I-m-B-10536.06,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Bisericuţă”","Eneolitic, Cultura Cucuteni"
 130,NT-I-s-B-10537,"Situl arheologic de la Săbăoani, punct ""La Islaz""",sat SĂBĂOANI; comuna SĂBĂOANI,"""La Izlaz”, la 2 km E de sat",
-131,NT-I-m-B-10537.01,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI SĂBĂOANI,"""La Izlaz”",sec. XIV - XV
+131,NT-I-m-B-10537.01,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Izlaz”",sec. XIV - XV
+132,NT-I-m-B-10537.02,Necropolă,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Izlaz”, la 2 km E de sat",sec. IV - VII
 133,NT-I-m-B-10537.03,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Izlaz”, la 2 km E de sat",sec. IV - VII
 134,NT-I-m-B-10537.04,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Izlaz”",sec. II - III p. Chr.
 135,NT-I-m-B-10537.05,Aşezare,sat SĂBĂOANI; comuna SĂBĂOANI,"""La Izlaz”",Hallstatt
@@ -130,7 +142,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 141,NT-I-s-B-10539,"Aşezare, punct "" La Lutărie""",sat SLOBOZIA; oraş ROZNOV,"""La Lutărie”",sec. II - III p. Chr.
 142,NT-I-s-B-10540,"Situl arheologic de la Tămăşeni, punct ""La Silişte""",sat TĂMĂŞENI; comuna TĂMĂŞENI,"""La Silişte”",
 143,NT-I-m-B-10540.01,Aşezare,sat TĂMĂŞENI; comuna TĂMĂŞENI,"""La Silişte”",sec. XIV - XVII
-144,NT-I-m-B-10540.02,Aşezare,sat TĂMĂŞENI; comuna TĂMĂŞENI TĂMĂŞENI,"""La Silişte”",sec. II - III p. Chr.
+144,NT-I-m-B-10540.02,Aşezare,sat TĂMĂŞENI; comuna TĂMĂŞENI,"""La Silişte”",sec. II - III p. Chr.
+145,NT-I-m-B-10540.03,Aşezare,sat TĂMĂŞENI; comuna TĂMĂŞENI,"""La Silişte”",Epoca bronzului
 146,NT-I-s-B-10541,"Situl arheologic de la Târpeşti, punct ""La Râpa Bodai""",sat TÂRPEŞTI; comuna lui PETRICANI,"""La Râpa lui Bodai”",
 147,NT-I-m-B-10541.01,Aşezare,sat TÂRPEŞTI; comuna PETRICANI,"""La Râpa lui Bodai”",sec. VI - VII
 148,NT-I-m-B-10541.02,Aşezare,sat TÂRPEŞTI; comuna PETRICANI,"""La Râpa lui Bodai”",sec. II - III p. Chr.
@@ -142,7 +155,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 154,NT-I-s-B-10543,Aşezare,sat TÂRZIA; comuna BRUSTURI,"""La Izlaz”","Neolitic, Cultura Cucuteni, faza A"
 155,NT-I-s-B-10544,"Situl arheologic de la Traian, punct ""La Izvoare""",sat TRAIAN; comuna SĂBĂOANI,"""La Izvoare”",
 156,NT-I-m-B-10544.01,Aşezare,sat TRAIAN; comuna SĂBĂOANI,"""La Izvoare”",sec. XIV - XV
-157,NT-I-m-B-10544.02,"Aşezare punct ""Dealul Fântînilor""",sat TRAIAN; comuna SĂBĂOANI ZĂNEŞTI,"""La Izvoare”",sec. II - III p. Chr.
+157,NT-I-m-B-10544.02,Aşezare,sat TRAIAN; comuna SĂBĂOANI,"""La Izvoare”",sec. II - III p. Chr.
+158,NT-I-s-B-10545,"Situl arheologic de la Traian, punct ""Dealul Fântînilor""",sat TRAIAN; comuna ZĂNEŞTI,"""Dealul Fântânilor”",
 159,NT-I-m-B-10545.01,Aşezare,sat TRAIAN; comuna ZĂNEŞTI,"""Dealul Fântânilor”","Eneolitic, Cultura Cucuteni, faza AB"
 160,NT-I-m-B-10545.02,Aşezare,sat TRAIAN; comuna ZĂNEŞTI,"""Dealul Fântânilor”","Neolitic mijlociu, Cultura ceramicii liniare"
 161,NT-I-s-B-10546,"Situl arheologic de la Văleni, punct ""La Morişca""",localitatea VĂLENI; comuna VĂLENI,"""La Morişca”",
@@ -154,7 +168,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 167,NT-I-s-B-10548,"Situl arheologic de la Vlădiceni, punct ""La Cânechişte""",sat VLĂDICENI; comuna BÂRGĂUANI,"""La Cânechişte”",
 168,NT-I-m-B-10548.01,Aşezare,sat VLĂDICENI; comuna BÂRGĂUANI,"""La Cânechişte”",sec. VI - VII
 169,NT-I-m-B-10548.02,Aşezare,sat VLĂDICENI; comuna BÂRGĂUANI,"""La Cânechişte”",sec. II - III p. Chr.
-170,NT-II-m-B-10549,"Biserica de lemn ""Buna Vestire”",municipiul PIATRA NEAMŢ,"Cartier Dărmăneşti, dealul Cozla (strămutată în 1999, pe locul",1779 - 1787
+170,NT-II-m-B-10549,"Biserica de lemn ""Buna Vestire”",municipiul PIATRA NEAMŢ,"Cartier Dărmăneşti, dealul Cozla (strămutată în 1999, pe locul schitului Draga)",1779 - 1787
 171,NT-II-m-B-10550,"Biserica ""Buna Vestire”",municipiul PIATRA NEAMŢ,"Str. 1 Decembrie 1918, 118",1740
 172,NT-II-a-B-10551,"Ansamblu urban ""Str. Alexandru cel Bun""",municipiul PIATRA NEAMŢ,Str. Alexandru cel Bun 1-23,sf. sec. XIX - înc. sec. XX
 173,NT-II-m-B-10552,Liceul de Artă,municipiul PIATRA NEAMŢ,Str. Alexandru cel Bun 2,1862
@@ -166,6 +180,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 179,NT-II-m-B-10558,Casă de lemn Ivaşcu,municipiul PIATRA NEAMŢ,Str. Alexandru cel Bun 23,înc. sec. XIX
 180,NT-II-a-B-10559,"Ansamblul bisericii ""Adormirea Maicii Domnului""",municipiul PIATRA NEAMŢ,Str. Doja Gheorghe 12,sec. XVIII - XX
 181,NT-II-m-B-10559.01,"Biserica de lemn ""Adormirea Maicii Domnului”",municipiul PIATRA NEAMŢ,Str. Doja Gheorghe 12,1776
+182,NT-II-m-B-10559.02,Turn clopotniţă,municipiul PIATRA NEAMŢ,Str. Doja Gheorghe 12,înc. sec. XVIII
 183,NT-II-m-B-10560,"Pretura, azi Complexul Muzeal Judeţean",municipiul PIATRA NEAMŢ,Str. Eminescu Mihai 10,înc. sec. XX
 184,NT-II-m-B-10561,Casa Corbu,municipiul PIATRA NEAMŢ,Str. Eminescu Mihai 28,1898
 185,NT-II-m-B-10562,"Tribunal judeţean, azi casă",municipiul PIATRA NEAMŢ,Str. Eminescu Mihai 30,1911
@@ -176,6 +191,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 190,NT-II-a-A-10567,Ansamblul Curţii Domneşti,municipiul PIATRA NEAMŢ,Piaţa Libertăţii 2,sec. XV - XVI
 191,NT-II-m-A-10567.01,"Biserica domnească ""Naşterea Sf. Ioan Botezătorul”",municipiul PIATRA NEAMŢ,Piaţa Libertăţii 2,1498
 192,NT-II-m-A-10567.03,Turn clopotniţă,municipiul PIATRA NEAMŢ,Piaţa Libertăţii 2,1499
+193,NT-II-m-A-10567.04,Ruine zid de incintă,municipiul PIATRA NEAMŢ,Piaţa Libertăţii 2,sec. XV - XVII
 194,NT-II-m-B-10568,"Casă, azi Muzeul de Etnografie",municipiul PIATRA NEAMŢ,Piaţa Libertăţii 3,1931
 195,NT-II-a-A-10730,"Fosta mănăstire ""Peste Vale""",municipiul PIATRA NEAMŢ,"Str. Magnoliei 1, Cartier Văleni",sec. XVIII-XX
 196,NT-II-m-B-10614,"Biserica ""Sf. Apostoli”",municipiul PIATRA NEAMŢ,Str. Nucului 5,1790
@@ -187,6 +203,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 202,NT-II-m-A-10567.02,"Ruine beci, azi muzeu",municipiul PIATRA NEAMŢ,"Str. Ştefan cel Mare 4, în faţa Colegiului Naţional ""Petru Rareş""",sec. XV
 203,NT-II-m-B-10574,"Colegiul Naţional ""Petru Rareş""",municipiul PIATRA NEAMŢ,Str. Ştefan cel Mare 4,1890 - 1892
 204,NT-II-m-A-10567.05,Muzeul Curții Domnești,municipiul PIATRA NEAMŢ,Str. Ștefan cel Mare 6-8,sec. XV - XVII
+205,NT-II-m-B-10575,Casa cu amfore,municipiul PIATRA NEAMŢ,Str. Ştefan cel Mare 14,sec. XIX
 206,NT-II-m-B-10576,"Vila Eliza, azi sediul S.C. ""Moldavia"" S. A.",municipiul PIATRA NEAMŢ,Str. Ştefan cel Mare 18,1929
 207,NT-II-m-B-10577,"Spital, azi fundaţia ""Îngrijiri Comunitare""",municipiul PIATRA NEAMŢ,Str. Ştefan cel Mare 23,1860 - 1866
 208,NT-II-m-B-10578,Casă,municipiul PIATRA NEAMŢ,Str. Ştefan cel Mare 28,1896
@@ -198,7 +215,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 214,NT-II-m-B-10584.02,"Biserica de lemn ""Schimbarea la Faţă”",sat AGAPIA; comuna AGAPIA,697,1763
 215,NT-II-a-A-10627,Mănăstirea Agapia,sat AGAPIA; comuna AGAPIA,,sec. XVII - XIX
 216,NT-II-m-A-10627.01,"Biserica ""Sf. Voievozi”",sat AGAPIA; comuna AGAPIA,,1642 - 1647
-217,NT-II-m-A-10627.02,"Paraclisul ""Naşterea Maicii Domnuluii”",sat AGAPIA; comuna AGAPIA AGAPIA,,1864
+217,NT-II-m-A-10627.02,"Paraclisul ""Naşterea Maicii Domnuluii”",sat AGAPIA; comuna AGAPIA,,1864
+218,NT-II-m-A-10627.05,Construcţii din incintă,sat AGAPIA; comuna AGAPIA,,sec. XIX - XX
 219,NT-II-m-A-10627.04,Case monahale,sat AGAPIA; comuna AGAPIA,551-652,sec. XIX - XX
 220,NT-II-m-A-10627.03,"Biserica de lemn ""Sf. Ioan Bogoslov”",sat AGAPIA; comuna AGAPIA,563,1821
 221,NT-II-m-B-10628,Casa scriitorului Alexandru Vlahuţă,sat AGAPIA; comuna AGAPIA,594,1885
@@ -211,6 +229,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 228,NT-II-m-B-10586,"Biserica ""Adormirea Maicii Domnului”",sat BĂLĂNEŞTI; comuna BÎRGĂOANI,Str. Spre Biserică,1768 - 1775
 229,NT-II-m-B-10587,Fostul cazino,sat BĂLŢĂTEŞTI; comuna BĂLŢĂTEŞTI,Str. Florilor 63,mij. sec. XIX
 230,NT-II-m-B-10588,"Teatrul Sătesc ""Ion Kalinderu"", azi muzeu",oraş BICAZ,Str. Barajului 1,1908 - 1912
+231,NT-II-m-B-10589,"Casa regală, azi primărie",oraş BICAZ,Str. Barajului 4,1912
 232,NT-II-m-A-10591,"Biserica ""Buna Vestire” a fostei mănăstiri Bisericani",sat BISERICANI; comuna ALEXANDRU CEL BUN,14,1512
 233,NT-II-m-B-10592,"Biserica de lemn ""Sf. Voievozi”",sat BISTRICIOARA; comuna CEAHLĂU,,sec. XVIII
 234,NT-II-a-A-10593,Mănăstirea Bistriţa,sat BISTRIŢA; comuna ALEXANDRU CEL BUN,672,sec. XIV - XIX
@@ -222,7 +241,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 240,NT-II-m-A-10593.06,Ruine case domneşti,sat BISTRIŢA; comuna ALEXANDRU CEL BUN,672,sec. XV
 241,NT-II-m-A-10593.09,Zid de incintă,sat BISTRIŢA; comuna ALEXANDRU CEL BUN,672,sec. XVIII
 242,NT-II-m-B-10594,"Biserica ""Sf. Voievozi”",sat BODEŞTII DE JOS; comuna BODEŞTI,,sec. XVII
-243,NT-II-m-B-10596,"Casa administratorului Domeniului Coroanei, azi",sat BORCA; comuna BORCA,,1898
+243,NT-II-m-B-10596,"Casa administratorului Domeniului Coroanei, azi Internat şcolar",sat BORCA; comuna BORCA,,1898
 244,NT-II-m-B-10597,"Ocolul Silvic, azi Şcoală",sat BORCA; comuna BORCA,,1898
 245,NT-II-a-B-10598,"Ansamblul bisericii ""Înălţarea Domnului”",sat BOZIENII DE SUS; comuna RUGINOASA,,sec. XVII - XIX
 246,NT-II-m-B-10598.01,"Biserica ""Înălţarea Domnului”",sat BOZIENII DE SUS; comuna RUGINOASA,,sec. XVII
@@ -234,7 +253,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 252,NT-II-a-B-10603,"Ansamblul bisericii ""Sf. Trei Ierarhi”",sat CÂRLIGI; comuna ŞTEFAN CEL MARE,,sec. XVII - XVIII
 253,NT-II-m-B-10603.01,"Biserica ""Sfinţii Trei Ierarhi""",sat CÂRLIGI; comuna ŞTEFAN CEL MARE,,1660
 254,NT-II-m-B-10603.02,Clopotniţă,sat CÂRLIGI; comuna ŞTEFAN CEL MARE,,1796
-255,NT-II-m-B-10604,Conacul Dimitrie Sturdza,sat CÂRLIGI; comuna ŞTEFAN CEL MARE ŞTEFAN CEL MARE,,sec. XVII - XVIII
+255,NT-II-m-B-10604,Conacul Dimitrie Sturdza,sat CÂRLIGI; comuna ŞTEFAN CEL MARE,,sec. XVII - XVIII
+256,NT-II-m-B-10605,"Hanul Caragea, azi casă",sat CÂRLIGI; comuna ŞTEFAN CEL MARE,,sec. XIX
 257,NT-II-a-A-10606,"Ansamblul schitului ""Sf. Ana”",sat CEAHLĂU; comuna CEAHLĂU,,sec. XVIII - XIX
 258,NT-II-m-A-10606.01,"Biserica de lemn ""Sf. Ana""",sat CEAHLĂU; comuna CEAHLĂU,,1730
 259,NT-II-m-A-10606.02,Turn clopotniţă,sat CEAHLĂU; comuna CEAHLĂU,,sf. sec. XIX
@@ -246,7 +266,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 265,NT-II-m-B-10607.05,Clopotniţă de zid,sat CEAHLĂU; comuna CEAHLĂU,,sec. XX
 266,NT-II-m-B-10607.06,Clopotniţă de lemn,sat CEAHLĂU; comuna CEAHLĂU,,1830 - 1835
 267,NT-II-a-B-10608,Ansamblul fostului schit Hangu,sat CEAHLĂU; comuna CEAHLĂU,,sec. XVII - XIX
-268,NT-II-m-B-10608.01,"Biserica ""Pogorârea Sf. Duh”",sat CEAHLĂU; comuna CEAHLĂU CEAHLĂU,,1639
+268,NT-II-m-B-10608.01,"Biserica ""Pogorârea Sf. Duh”",sat CEAHLĂU; comuna CEAHLĂU,,1639
+269,NT-II-m-B-10608.02,Ruinele palatului cnejilor,sat CEAHLĂU; comuna CEAHLĂU,,sec. XVII - XVIII
 270,NT-II-m-B-10608.03,Zid de incintă,sat CEAHLĂU; comuna CEAHLĂU,,1676
 271,NT-II-a-B-10609,"Ansamblul bisericii ""Sf. Nicolae""",sat CHIRIŢENI; comuna HANGU,,sec. XIX
 272,NT-II-m-B-10609.01,"Biserica de lemn ""Sf. Nicolae”",sat CHIRIŢENI; comuna HANGU,,1829
@@ -258,7 +279,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 278,NT-II-m-B-10612,"Biserica de lemn ""Cuvioasa Paraschiva”",sat CRĂIEŞTI; comuna BOZIENI,Str. Eternităţii,1680
 279,NT-II-a-B-10613,"Ansamblul bisericii ""Tăierea Capului Sf. Ioan Botezătorul”",sat DAVIDENI; comuna ŢIBUCANI,,sec. XVIII - XIX
 280,NT-II-m-B-10613.01,"Biserica ""Tăierea Capului Ioan Botezătorul”",Sf. sat DAVIDENI; comuna ŢIBUCANI,,1774
-281,NT-II-m-B-10613.02,Turn clopotniţă,sat DAVIDENI; comuna ŢIBUCANI DOLJEŞTI,,sec. XIX
+281,NT-II-m-B-10613.02,Turn clopotniţă,sat DAVIDENI; comuna ŢIBUCANI,,sec. XIX
+282,NT-II-a-B-10615,Fosta mănăstire Doljeşti,sat DOLJEŞTI; comuna DOLJEŞTI,,sec. XVIII - XX
 283,NT-II-m-B-10615.01,"Biserica ""Sf.Treime”",sat DOLJEŞTI; comuna DOLJEŞTI,,"1765 - 1774, adăugiri 1884"
 284,NT-II-m-B-10615.02,Turn clopotniţă,sat DOLJEŞTI; comuna DOLJEŞTI,,1884
 285,NT-II-m-B-10616,Moară,sat DULCEŞTI; comuna DULCEŞTI,14,1929
@@ -270,7 +292,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 291,NT-II-a-B-10620,"Ansamblul bisericii ""Sf. Dumitru”",sat GÂDINŢI; comuna GÂDINŢI,Str. Bisericii 2,sec. XIX
 292,NT-II-m-B-10621,"Conacul Bogdan, azi Spital de bolnavi psihic",sat GÂDINŢI; comuna GÂDINŢI,Str. Bisericii 2,sec. XIX
 293,NT-II-m-B-10623,"Biserica de lemn ""Sf. Nicolae”",sat GIROV-CONTEŞTI; comuna GIROV,,1828
-294,NT-II-m-B-10622,"Biserica ""Pogorârea Sf. Duh” Tuturor Sfinţilor”",sat GÎRCINA; comuna GÎRCINA GRINŢIEŞ,Str. Principală,1668
+294,NT-II-m-B-10622,"Biserica ""Pogorârea Sf. Duh”",sat GÎRCINA; comuna GÎRCINA,Str. Principală,1668
+295,NT-II-m-B-10624,"Bisericia de lemn ""Duminica Tuturor Sfinţilor”",sat GRINŢIEŞ; comuna GRINŢIEŞ,,sec. XVIII - XIX
 296,NT-II-m-A-10625,"Biserica de lemn ""Sf. Voievozi”",sat GROŞI; comuna BRUSTURI,,1806
 297,NT-II-a-B-10626,"Ansamblul bisericii ""Tăierea Capului Sf. Ioan Botezătorul”",sat GURA VĂII; comuna GIROV,,sec. XIX
 298,NT-II-m-B-10626.01,"Biserica de lemn ""Tăierea Capului Sf. Ioan Botezătorul""",sat GURA VĂII; comuna GIROV,,1817 - 1822
@@ -279,7 +302,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 301,NT-II-a-B-10630,"Ansamblul bisericii ""Sf. Ioan Bogoslov Evanghelistul”",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,,sec. XIX
 302,NT-II-m-B-10630.01,"Biserica ""Sf. Ioan Bogoslov Evanghelistul”",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,,1834
 303,NT-II-m-B-10630.02,Clopotniţă,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,,1861
-304,NT-II-m-B-10631.01,"Biserica ""Intrarea în Biserică”",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ comuna VÂNĂTORI-,Str. Sadoveanu Mihail 84,1849 - 1857
+304,NT-II-m-B-10631.01,"Biserica ""Intrarea în Biserică”",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Sadoveanu Mihail 84,1849 - 1857
+305,NT-II-m-B-10631.02,Case monahale,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Sadoveanu Mihail 84,sec. XIX - XX
 306,NT-II-m-B-10632.01,"Biserica de lemn ""Acoperământul Maicii Domnului”",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Sadoveanu Mihail 83,1714
 307,NT-II-m-B-10632.02,Turn clopotniţă din lemn,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Sadoveanu Mihail 83,1714
 308,NT-II-m-A-10629.04,"Turn clopotniţă de poartă cu paraclisul "" Buna Vestire"" (V)",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,1821
@@ -287,7 +311,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 310,NT-II-m-A-10629.06,"Paraclisul ""Sf. Pantelimon"" (S)",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,"1820, refaceri 1843"
 311,NT-II-m-A-10629.07,Turnul Pârgului,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,"sec. XV, modif. 1745"
 312,NT-II-m-A-10629.09,Agheazmatar,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,1836
-313,NT-II-m-A-10629.12,Casele monahale Domnului”,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ comuna VÂNĂTORI-,Str. Arhiereul Chiriac Nicolau 40,sec. XVIII - XX
+313,NT-II-m-A-10629.12,Casele monahale,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,sec. XVIII - XX
+314,NT-II-m-A-10629.01,"Biserica ""Înălţarea Domnului”",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,1497
 315,NT-II-m-A-10629.02,Vestigiile bisericilor I şi II,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,sf. sec. XIV- juma. sec. XV
 316,NT-II-m-A-10629.03,"Biserica ""Sf. Gheorghe"" (E)",sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,1826
 317,NT-II-m-A-10629.08,Clădiri incintă,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,1796
@@ -295,7 +320,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 319,NT-II-m-A-10629.11,Casa Nicodim,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,1846
 320,NT-II-a-A-10629,Mănăstirea Neamţ,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Arhiereul Chiriac Nicolau 40,"1393 - 1960, sec. XIV - XIX"
 321,NT-II-a-B-10632,Ansamblul Schitului Pocrov,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Sadoveanu Mihail 83,sec. XVIII - XIX
-322,NT-II-a-B-10631,Ansamblul schitului Vovidenia,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI-,Str. Sadoveanu Mihail 84,sec. XVII - XVIII
+322,NT-II-a-B-10631,Ansamblul schitului Vovidenia,sat MĂNĂSTIREA NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Sadoveanu Mihail 84,sec. XVII - XVIII
 323,NT-II-m-B-10633,"Biserica ""Adormirea Maicii Domnului”",sat MĂRGINENI; comuna MĂRGINENI,,"1769, reparaţii 1926"
 324,NT-II-m-A-10634,"Biserica ""Duminica Tuturor Sfinţilor”",sat MIRON COSTIN; comuna TRIFEŞTI,,"1520, adăugiri 1700 şi 1894"
 325,NT-II-a-B-10635,Ansamblu de case de lemn,sat NEGULEŞTI; comuna PIATRA ŞOIMULUI,,sec. XVIII - XIX
@@ -306,7 +331,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 330,NT-II-m-A-10637.03,Zid de incintă,sat PÂNGĂRAŢI; comuna PÂNGĂRAŢI,,sec. XIX
 331,NT-II-m-A-10637.04,Fundaţii turn clopotniţă,sat PÂNGĂRAŢI; comuna PÂNGĂRAŢI,,"sec. XVI, transf. 1857. Peste fundaţiile vechi s-a ridicat turnul actual în 2008."
 332,NT-II-m-A-10637.05,Turn de nord-est,sat PÂNGĂRAŢI; comuna PÂNGĂRAŢI,,"sec. XVI, transf. sec. XIX- XX"
-333,NT-II-a-B-10638,"Ansamblul bisericii ""Sf. Gheorghe”",sat PETRU VODĂ; comuna POIANA TEIULUI POIANA TEIULUI,,sec. XVIII - XIX
+333,NT-II-a-B-10638,"Ansamblul bisericii ""Sf. Gheorghe”",sat PETRU VODĂ; comuna POIANA TEIULUI,,sec. XVIII - XIX
+334,NT-II-m-B-10638.01,"Biserica ""Sf. Gheorghe""",sat PETRU VODĂ; comuna POIANA TEIULUI,,1762 - 1783
 335,NT-II-m-B-10638.02,Turn clopotniţă de lemn,sat PETRU VODĂ; comuna POIANA TEIULUI,,1832
 336,NT-II-m-A-10730.02,Turn clopotniţă,municipiul PIATRA NEAMŢ,Cartier Văleni,sec. XVIII
 337,NT-II-m-A-10730.01,"Biserica de lemn ""Schimbarea la Faţă” a fostei mănăstiri ""Peste Vale”",municipiul PIATRA NEAMŢ,"Str. Magnoliei 1, Cartier Văleni","1560, adăugiri sec. XVIII"
@@ -317,7 +343,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 342, NT-II-m-B-10641.01, Conacul Krupenski, sat PODOLENI; comuna PODOLENI, Str. Podoleanu Alexandru 904, sec. XVIII
 343,NT-II-m-B-10641.02,Parc dendrologic,sat PODOLENI; comuna PODOLENI,Str. Podoleanu Alexandru 904,"sf. sec. XVIII, transf. cca. 1810"
 344,NT-II-a-B-10641,Ansamblul conacului Krupenski,sat PODOLENI; comuna PODOLENI,Str. Podoleanu Alexandru 904,1789 - 1800
-345,NT-II-m-B-10642,"Biserica de lemn ""Sf. Ioan Botezătorul”",sat POIANA; comuna BRUSTURI comuna CRĂCĂOANI,,1924
+345,NT-II-m-B-10642,"Biserica de lemn ""Sf. Ioan Botezătorul”",sat POIANA; comuna BRUSTURI,,1924
+346,NT-II-a-B-10643,Mănăstirea Horaiţa,sat POIANA CRĂCĂOANI; comuna CRĂCĂOANI,,sec. XVII - XX
 347,NT-II-m-B-10643.01,"Biserica ""Botezul Domnului”",sat POIANA CRĂCĂOANI; comuna CRĂCĂOANI,,1824
 348,NT-II-m-B-10643.02,"Paraclisul ""Sf. Nicolae”",sat POIANA CRĂCĂOANI; comuna CRĂCĂOANI,,sec. XVII
 349,NT-II-m-B-10643.03,Stăreţie,sat POIANA CRĂCĂOANI; comuna CRĂCĂOANI,,înc. sec. XX
@@ -329,7 +356,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 355,NT-II-m-B-10645.02,Turn clopotniţă,sat POIANA LARGULUI; comuna POIANA TEIULUI,,sec. XIX
 356,NT-II-m-B-10646,"Biserica de lemn ""Buna Vestire”",sat POLOBOC; comuna REDIU,54,1730
 357,NT-II-m-B-20193,Ansamblu de case de lemn,sat POPEŞTI; comuna FĂRCAŞA,,sec. XVIII - XIX
-358,NT-II-a-A-10647,Mănăstirea Războieni,sat RĂZBOIENI; comuna RĂZBOIENI RĂZBOIENI,,sec. XV-XX
+358,NT-II-a-A-10647,Mănăstirea Războieni,sat RĂZBOIENI; comuna RĂZBOIENI,,sec. XV-XX
+359,NT-II-m-A-10647.01,"Biserica ""Sf. Voievozi”",sat RĂZBOIENI; comuna RĂZBOIENI,,1496
 360,NT-II-m-A-10647.02,Turn clopotniţă,sat RĂZBOIENI; comuna RĂZBOIENI,,1862
 361,NT-II-m-A-10647.03,Stăreţie,sat RĂZBOIENI; comuna RĂZBOIENI,,sec. XX
 362,NT-II-m-A-10647.04,Case monahale,sat RĂZBOIENI; comuna RĂZBOIENI,,sec. XIX - XX
@@ -341,7 +369,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 368,NT-II-m-B-10665.02,Capela episcopului M. Ştefănescu,municipiul ROMAN,Str. Alexandru cel Bun 4,1938
 369,NT-II-m-B-10665.03,Şcoala de cântăreţi bisericeşti,municipiul ROMAN,Str. Alexandru cel Bun 4,1911
 370, NT-II-m-B-10665.04, Grădiniţa de copii, municipiul ROMAN, Str. Alexandru cel Bun 4, 1915
-371,NT-II-a-A-10652,Episcopia Romanului Paraschiva”,municipiul ROMAN,Str. Alexandru cel Bun 5,sec. XVI - XIX
+371,NT-II-a-A-10652,Episcopia Romanului,municipiul ROMAN,Str. Alexandru cel Bun 5,sec. XVI - XIX
+372,NT-II-m-A-10652.01,"Catedrala episcopală ""Sf. Paraschiva”",municipiul ROMAN,Str. Alexandru cel Bun 5,1542 - 1550
 373,NT-II-m-A-10652.02,Casa Veniamin Costachi,municipiul ROMAN,Str. Alexandru cel Bun 5,sec. XIX
 374,NT-II-m-A-10652.03,Palat episcopal,municipiul ROMAN,Str. Alexandru cel Bun 5,1870
 375,NT-II-m-A-10652.04,Turn clopotniţă,municipiul ROMAN,Str. Alexandru cel Bun 5,1786
@@ -353,7 +382,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 381,NT-II-m-B-10656,Poşta,municipiul ROMAN,Str. Cuza Vodă 3,1910
 382,NT-II-m-B-10658,"Casă, azi Grădiniţă cu program normal",municipiul ROMAN,Str. Cuza Vodă 9bis,sec. XIX
 383,NT-II-m-B-10657,"Şcoala armenească, azi Clubul elevilor",municipiul ROMAN,Str. Cuza Vodă 12,sec. XIX
-384,NT-II-m-B-10659,"Casa Fălcoianu, azi Muzeul de istorie de istorie",municipiul ROMAN,Str. Cuza Vodă 19,cca. 1900
+384,NT-II-m-B-10659,"Casa Fălcoianu, azi Muzeul de istorie",municipiul ROMAN,Str. Cuza Vodă 19,cca. 1900
+385,NT-II-m-B-10660,"Casa Nevruzzi, azi Muzeul de istorie",municipiul ROMAN,Str. Cuza Vodă 26,sec. XIX
 386,NT-II-m-B-10661,Şcoala Generală nr. 3,municipiul ROMAN,Str. Cuza Vodă 84,1900
 387,NT-II-m-B-10662,"Casa general Iliescu, azi Grădiniţa nr. 2",municipiul ROMAN,Str. Dobrogeanu Gherea Constantin 26,sec. XIX
 388,NT-II-m-B-10663,"Casa Robu, azi Muzeul de Artă",municipiul ROMAN,Str. Eminescu Mihai 3,1900
@@ -364,7 +394,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 393,NT-II-m-A-10666,"Fosta biserică armenească, azi biserica ""Adormirea Maicii Domnului”",municipiul ROMAN,Str. Micle Veronica 13,1609
 394,NT-II-m-B-10668,"Casa sameşului Iancu Teodoru, azi cămin de bătrâni",municipiul ROMAN,Str. Micle Veronica 21,1850
 395,NT-II-m-B-10667,"Biserica ""Sf. Voievozi”, Biserica ""Albă Domnească""",municipiul ROMAN,Str. Micle Veronica 22,1611 - 1615
-396,NT-II-a-B-10669,"Ansamblul bisericii ""Adormirea Maicii Domnului"" Domnului”",municipiul ROMAN,Str. Roman Muşat 22,sec. XVI - XIX
+396,NT-II-a-B-10669,"Ansamblul bisericii ""Adormirea Maicii Domnului""",municipiul ROMAN,Str. Roman Muşat 22,sec. XVI - XIX
+397,NT-II-m-B-10669.01,"Biserica ""Adormirea Maicii Domnului”",municipiul ROMAN,Str. Roman Muşat 22,1569
 398,NT-II-m-B-10669.02,Turn clopotniţă,municipiul ROMAN,Str. Roman Muşat 22,1753
 399,NT-II-m-B-10655,"Casa Rollrich, azi Administraţia pieţelor",municipiul ROMAN,Str. Petrodava 8,sec. XIX
 400,NT-II-m-B-10670,"Biserica ""Sf. Gheorghe”",municipiul ROMAN,"Str. Porojan, soldat 8",1847
@@ -377,6 +408,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 407,NT-II-m-B-10676.02,Casa Iohan Simeon Bruckner - Spiţerul,municipiul ROMAN,Str. Speranţei 11,sec. XIX
 408, NT-II-m-B-10677," Hala alimentară, azi hala centrală", municipiul ROMAN, Str. Sucidava 127, 1929
 409,NT-II-m-B-10678,"Biserica ""Intrarea în Biserică”, ""Precista Mică”",municipiul ROMAN,Str. Sucidava 143,1791 - 1826
+410,NT-II-a-B-10680,Centru istoric urban,municipiul ROMAN,Str. Ştefan cel Mare 181-292,mijl.sec. XIX - înc. sec. XX
 411,NT-II-m-B-10679,"Hanul Viţig, azi locuinţe",municipiul ROMAN,Str. Ştefan cel Mare 186,sec. XIX
 412,NT-II-m-B-10681,"Casa Romaşcană, azi restaurant",municipiul ROMAN,Str. Ştefan cel Mare 200,sec. XIX
 413,NT-II-m-B-10682,Casă,municipiul ROMAN,Str. Ştefan cel Mare 213,sec. XIX
@@ -389,6 +421,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 420,NT-II-m-B-10688,Casa Cristea Ştefănescu,municipiul ROMAN,Str. Ştefan cel Mare 259,1910
 421,NT-II-m-B-10690,Gara Roman,municipiul ROMAN,Str. Ştefan cel Mare 271,1869
 422,NT-II-m-B-10691,"Şcoală normală, azi Grup Şcolar Industrial - Construcţii de Maşini",municipiul ROMAN,Str. Ştefan cel Mare 274,sec. XIX
+423,NT-II-m-B-10692,Casă primar Brăescu,municipiul ROMAN,Str. Tineretului 20,sec. XIX
 424,NT-II-a-B-10693,"Ansamblul Liceului ""Roman Vodă""",municipiul ROMAN,Str. Tineretului 24,sec. XIX - XX
 425,NT-II-m-B-10693.01,Liceul Roman Vodă (corp,B) municipiul ROMAN,Str. Tineretului 24,1920
 426,NT-II-m-B-10693.02,Casa Cantacuzino,municipiul ROMAN,Str. Tineretului 24,sec. XIX
@@ -400,7 +433,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 432,NT-II-m-B-10698,Şcoala veche,sat SABASA; comuna BORCA,,1929
 433,NT-II-m-B-10699,"Biserica de lemn ""Sf. Nicolae”",sat SAGNA; comuna SAGNA,,1530
 434,NT-II-m-B-10700,"Biserica de lemn ""Sf. Dumitru”",sat SĂRATA; comuna DOBRENI,Str. Sărătura 68,"1752, adăugiri 1933"
-435,NT-II-a-A-10701,Mănăstirea Sihăstria Tarcăului Tuturor Sfinţilor”,sat SCHITU TARCĂU; comuna TARCĂU comuna TARCĂU,,sec. XIX - XX
+435,NT-II-a-A-10701,Mănăstirea Sihăstria Tarcăului,sat SCHITU TARCĂU; comuna TARCĂU,,sec. XIX - XX
+436,NT-II-m-A-10701.01,"Biserica de lemn ""Duminica Tuturor Sfinţilor”",sat SCHITU TARCĂU; comuna TARCĂU,,1828 - 1833
 437,NT-II-m-A-10701.02,Case monahale,sat SCHITU TARCĂU; comuna TARCĂU,,sec. XIX
 438,NT-II-m-A-10701.03,Turn clopotniţă,sat SCHITU TARCĂU; comuna TARCĂU,,1868
 439,NT-II-m-B-10702,"Biserica ""Cuvioasa Paraschiva”",sat SECUIENI; comuna SECUIENI,,sec. XVIII - XIX
@@ -411,7 +445,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 444,NT-II-m-A-10706.02,"Ruine palat, ruine beci, ruine trapeză",sat TAZLĂU; comuna TAZLĂU,Str. Ştefan cel Mare 188,sec. XVI
 445,NT-II-m-A-10706.05,Turn clopotniţă,sat TAZLĂU; comuna TAZLĂU,Str. Ştefan cel Mare 188,sec. XVI
 446,NT-II-m-A-10706.06,Turn de pază,sat TAZLĂU; comuna TAZLĂU,Str. Ştefan cel Mare 188,"sec. XV, adăugiri sec XVIII"
-447,NT-II-m-A-10706.07,Zid de incintă,sat TAZLĂU; comuna TAZLĂU TAZLĂU,Str. Ştefan cel Mare 188,sec. XV
+447,NT-II-m-A-10706.07,Zid de incintă,sat TAZLĂU; comuna TAZLĂU,Str. Ştefan cel Mare 188,sec. XV
+448,NT-II-a-A-10706,Mănăstirea Tazlău,sat TAZLĂU; comuna TAZLĂU,Str. Ştefan cel Mare 188,sec. XV - XIX
 449,NT-II-m-A-10707,Cetatea Neamţului,oraş TÂRGU NEAMŢ,"Str. Aleea Cetăţii 1, pe dealul Cetăţii, pe stânca Timuş, muntele Pleşu",sec. XIV - XVII
 450,NT-II-m-B-10708,Casă,oraş TÂRGU NEAMŢ,Str. Mărăşeşti 103,sec. XIX
 451,NT-II-m-B-10709,"Casă, azi Clubul elevilor",oraş TÂRGU NEAMŢ,Str. Mărăşeşti 107,sec. XIX
@@ -422,7 +457,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 456,NT-II-m-B-10714,"Pretura, azi biblioteca orăşenească",oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 66,sf. sec. XIX
 457,NT-II-m-B-10715,"Casă, azi fundaţia ""Omenia""",oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 72A,cca.1900
 458,NT-II-m-B-10716,Casa Cristescu,oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 79,cca.1900
-459,NT-II-m-B-10717,Casă Club sportiv,oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 85,sf. sec. XIX
+459,NT-II-m-B-10717,Casă,oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 85,sf. sec. XIX
+460,NT-II-m-B-10719,"Gimnaziul Regina Maria, Club sportiv",azi oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 88,1918
 461,NT-II-a-B-10718,Centru istoric urban,oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 60-79,mijl. sec. XIX-înc. sec XX
 462,NT-II-m-B-20192,"Biserica de lemn ""Înălţarea Sf. Cruci”",sat TELEC; comuna BICAZU ARDELEAN,,sec. XVIII-XX
 463,NT-II-m-A-10590,"Biserica de lemn ""Sf. Dumitru”",sat TELEC; comuna BICAZU ARDELEAN,Str. Pârâul Caprei,1829
@@ -433,7 +469,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 468, NT-II-m-B-10723.01, Casa Catargi, sat TUPILAŢI; comuna TUPILAŢI,, 1842
 469,NT-II-m-B-10723.02,Zid de incintă,sat TUPILAŢI; comuna TUPILAŢI,,sec. XVII
 470,NT-II-m-B-10724,Hanul Ancuţei,sat TUPILAŢI; comuna TUPILAŢI,,sec. XVIII
-471,NT-II-m-B-10725,"Biserica de lemn ""Adormirea Maicii Domnului”",sat TURTUREŞTI; comuna GIROV GIROV,,"1825, adăugiri 1930"
+471,NT-II-m-B-10725,"Biserica de lemn ""Adormirea Maicii Domnului”",sat TURTUREŞTI; comuna GIROV,,"1825, adăugiri 1930"
+472,NT-II-m-B-10726,Pod de piatră,sat TURTUREŞTI; comuna GIROV,,1475
 473,NT-II-a-B-10727,Ansamblul schitului Ţibucani,sat ŢIBUCANI; comuna ŢIBUCANI,,1701 - 1900
 474,NT-II-m-B-10727.01,"Biserica de lemn ""Maria Magdalena”",sat ŢIBUCANI; comuna ŢIBUCANI,,"1774, adăugiri 1859"
 475,NT-II-m-B-10727.02,Turn clopotniţă,sat ŢIBUCANI; comuna ŢIBUCANI,,1855
@@ -445,7 +482,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 481,NT-II-m-B-10731,Casa Lahovari,sat VĂRATEC; comuna AGAPIA,,sf. sec. XIX
 482,NT-II-a-A-10732,Mănăstirea Văratic,sat VĂRATEC; comuna AGAPIA,,sec. XVIII-XX
 483,NT-II-m-A-10732.01,"Biserica ""Adormirea Maicii Domnului”",sat VĂRATEC; comuna AGAPIA,,1807 - 1808
-484,NT-II-m-A-10732.02,Turn clopotniţă de poartă Botezătorul”,sat VĂRATEC; comuna AGAPIA AGAPIA,,sec. XIX
+484,NT-II-m-A-10732.02,Turn clopotniţă de poartă,sat VĂRATEC; comuna AGAPIA,,sec. XIX
+485,NT-II-m-A-10732.03,"Biserica ""Sf. Ioan Botezătorul”",sat VĂRATEC; comuna AGAPIA,,"1844, adăugiri cca. 1880"
 486,NT-II-m-A-10732.04,"Biserica ""Schimbarea la Faţă”",sat VĂRATEC; comuna AGAPIA,,1847
 487,NT-II-m-A-10732.05,Case monahale,sat VĂRATEC; comuna AGAPIA,,sec. XIX - XX
 488,NT-II-m-B-10733,Şcoală,sat VĂRATEC; comuna AGAPIA,,înc. sec. XX
@@ -454,7 +492,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 491,NT-II-m-A-10735.03,"Paraclisul ""Adormirea Maicii Domnului” (SE)",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1496,1844
 492,NT-II-m-A-10735.04,"Biserica ""Naşterea Sf. Ioan Botezătorul”",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1496,1832
 493,NT-II-m-A-10735.05,Chilii,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1496,1825
-494,NT-II-m-A-10735.06,Turn clopotniţă,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ comuna VÂNĂTORI-,Str. Secu 1496,sec. XVII
+494,NT-II-m-A-10735.06,Turn clopotniţă,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1496,sec. XVII
+495,NT-II-m-A-10735.07,Incintă fortificată,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1496,sec. XVII
 496,NT-II-m-A-10736.01,"Biserica ""Naşterea Maicii Domnului”",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1510,1824
 497,NT-II-m-A-10736.02,"Biserica de lemn ""Sf. Voievozi”",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1510,"1740, strămutată din satul Hlăpeşti"
 498,NT-II-m-A-10736.03,"Paraclisul ""Sf. Ioachim şi Ana”",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1510,1840
@@ -462,7 +501,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 500,NT-II-m-A-10736.05,Chilii,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1510,sec. XIX
 501,NT-II-m-A-10736.06,Turn clopotniţă,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1510,1825
 502,NT-II-a-A-10735,Mănăstirea Secu,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1496,sec. XVI - XIX
-503,NT-II-a-A-10736,"Mănăstirea Sihăstria Secului Voievozi” şi ""Tăierea",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ comuna VÂNĂTORI-,Str. Secu 1510,sec. XV - XX
+503,NT-II-a-A-10736,Mănăstirea Sihăstria Secului,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Secu 1510,sec. XV - XX
+504,NT-II-m-B-10737,"Biserica de lemn ""Sf. Voievozi” şi ""Tăierea Capului Sf. Ioan Botezătorul""",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Ştefan cel Mare 113,1740
 505,NT-II-m-B-10734,"Şcoală, azi Muzeu sătesc",sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Ştefan cel Mare 222,1864
 506,NT-III-m-B-10738,Statuia lui Mihail Kogălniceanu,municipiul PIATRA NEAMŢ,Piaţa Kogălniceanu Mihail,1913
 507,NT-III-m-B-10739,Statuia lui Ştefan cel Mare,municipiul PIATRA NEAMŢ,Piaţa Ştefan cel Mare,1974
@@ -472,7 +512,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 511,NT-III-m-B-10743,Bustul agronomului Ion Ionescu de la Brad,municipiul ROMAN,"Str. Ştefan cel Mare, în parcul municipal",1968
 512,NT-III-m-B-10744,Obelisc al Eroilor din Războiul pentru Independenţă,oraş ROZNOV,În parcul oraşului,1908
 513,NT-III-m-B-10745,Monumentul Eroilor din războiul 1916-1918,sat TAZLĂU; comuna TAZLĂU,Str. Ştefan cel Mare 130,1925
-514,NT-III-m-B-10746,Monumentul Eroilor din primul război mondial (Vânătorilor de munte),oraş TÂRGU NEAMŢ AGAPIA,Str. Aleea Vânătorilor de Munte pe dealul Plăieşului,"1, 1939"
+514,NT-III-m-B-10746,Monumentul Eroilor din primul război mondial (Vânătorilor de munte),oraş TÂRGU NEAMŢ,Str. Aleea Vânătorilor de Munte pe dealul Plăieşului,"1, 1939"
+515,NT-III-m-B-10747,Statuia Saftei Brâncoveanu,sat VĂRATEC; comuna AGAPIA,În incinta mănăstirii Văratic,1939
 516,NT-III-m-B-10748,Obelisc al Eroilor din Războiul pentru Independenţă,sat VÂNĂTORI-NEAMŢ; comuna VÂNĂTORI- NEAMŢ,Str. Ştefan cel Mare 222,1884
 517,NT-IV-m-B-10749,"Monument funerar din piatră - ""Familia senator V. Ciornei""",municipiul PIATRA NEAMŢ,"Str. Eroilor 17, în cimitirul ""Eternitatea""",1902
 518,NT-IV-m-B-10750,Mormântul scriitorului Calistrat Hogaş,municipiul PIATRA NEAMŢ,"Str. Eroilor 17, în cimitirul ""Eternitatea""",sec. XX
@@ -483,7 +524,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 523, NT-IV-m-B-10755, Monument funerar din marmură - Sculy Logothetes, municipiul PIATRA NEAMŢ," Str. Eroilor 17, în cimitirul ""Eternitatea""", 1875
 524,NT-IV-m-B-10756,Casa horticultorului E.M.Brudariu,municipiul PIATRA NEAMŢ,Str. Margaretelor 4,1898
 525,NT-IV-m-B-10757,Obeliscul Eroilor din Războiul de Independenţă,sat BARATCA; comuna BÂRGĂUANI,DN 15 D Piatra Neamţ- Roman,1913
-526,NT-IV-m-B-10758,Monumentul Eroilor din Primul Război Mondial Războiul de Independenţă,sat BISTRIŢA; comuna ALEXANDRU CEL BUN CRĂCĂOANI,,1926
+526,NT-IV-m-B-10758,Monumentul Eroilor din Primul Război Mondial,sat BISTRIŢA; comuna ALEXANDRU CEL BUN,,1926
+527,NT-IV-m-B-10759,Obeliscul Eroilor din Războiul de Independenţă,sat CRĂCĂOANI; comuna CRĂCĂOANI,,1904
 528,NT-IV-m-B-10760,Mormintele istoricilor Constantin şi Alexandru Hurmuzachi,sat DULCEŞTI; comuna DULCEŞTI,"38, în incinta Bisericii „Pogorârea Sf. Duh""",sec. XIX
 529,NT-IV-m-B-10761,Cruce memorială închinată Eroilor din Primul Război Mondial,sat DULCEŞTI; comuna DULCEŞTI,"38, în incinta Bisericii „Pogorârea Sf. Duh""",1920
 530,NT-IV-m-B-10762,"Casa entomologului Arisitide Karadja, azi Muzeul de Etnografie",sat GRUMĂZEŞTI; comuna GRUMĂZEŞTI,,1896
@@ -492,4 +534,5 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 533,NT-IV-m-B-10766,Casa agronomului Ion Ionescu de la Brad,municipiul ROMAN,Str. Ionescu Ion de la Brad 8,sec. XIX
 534,NT-IV-m-B-10765,Monumentul Eroilor din primul război mondial,municipiul ROMAN,"Str. Mihai Viteazul, în cimitirul municipal",1920
 535,NT-IV-m-B-10767,Mormântul arhimandritului Vartolomeu Măzăreanu,municipiul ROMAN,"Str. Roman Muşat 22, în incinta bisericii ""Adormirea Maicii Domnului""",sec. XX
-536,NT-IV-m-B-10768,Mormântul episcopului Melchisedec Ştefănescu Veronica Micle,municipiul ROMAN,"Str. Roman Muşat 22, în incinta bisericii ""Adormirea Maicii Domnului""",sec. XIX
+536,NT-IV-m-B-10768,Mormântul episcopului Melchisedec Ştefănescu,municipiul ROMAN,"Str. Roman Muşat 22, în incinta bisericii ""Adormirea Maicii Domnului""",sec. XIX
+537,NT-IV-m-B-10769,Muzeu - casă memorială Veronica Micle,oraş TÂRGU NEAMŢ,Str. Ştefan cel Mare 30,sec. XIX

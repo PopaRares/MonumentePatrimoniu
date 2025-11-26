@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,SM-I-s-B-05158,Fragment zid incintă cetate medievală,municipiul SATU MARE,"La intersecţia străzilor Aurel Popp H. Coandă, lângă podul Decebal",cu sec. XVI - XVIII
 2,SM-I-s-A-05159,"Situl arheologic de la Satu Mare, punct ""Cuptoare”",municipiul SATU MARE,"""Cuptoare” (la fermele fostului IAS Dorolţ)",sec. II - IV p. Chr.
 3,SM-I-s-B-05160,"Situl arheologic de la Acâş punct ""Moară""",- sat ACÂŞ; comuna ACÂŞ,"""Moară"", La 300 m sud de moară pe malul stâng al râului Crasna",
 4,SM-I-m-B-05160.01,Aşezare,sat ACÂŞ; comuna ACÂŞ,"""Moară"", La 300 m sud de moară pe malul stâng al râului Crasna",sec. VIII
@@ -7,7 +8,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 7,SM-I-m-B-05160.04,Aşezare,sat ACÂŞ; comuna ACÂŞ,"""Moară"", La 300 m sud de moară pe malul stâng al râului Crasna","Epoca bronzului, Cultura Otomani"
 8,SM-I-s-B-05161,Aşezare,sat ACÂŞ; comuna ACÂŞ,"""Moară"", La 1 km sud de moară pe malul stâng al râului Crasna",sec. I - IV p. Chr.
 9,SM-I-s-B-05162,Aşezare,sat ANDRID; comuna ANDRID,"""Bika Domb”",Epoca bronzului
-10,SM-I-s-B-05163,"Aşezare punct ""Sanislău""",sat ANDRID; comuna ANDRID SANISLĂU,"""Curtea C.A.P.” S.M.A.",Epoca bronzului
+10,SM-I-s-B-05163,Aşezare,sat ANDRID; comuna ANDRID,"""Curtea C.A.P.”",Epoca bronzului
+11,SM-I-s-B-05164,"Situl arheologic de la Berea, punct ""Sanislău""",sat BEREA; comuna SANISLĂU,La 1 km vest de sat în curtea fostului S.M.A.,
 12,SM-I-m-B-05164.01,Aşezare,sat BEREA; comuna SANISLĂU,La 1 km vest de sat în curtea fostului S.M.A.,Epoca medievală
 13,SM-I-m-B-05164.02,Aşezare,sat BEREA; comuna SANISLĂU,La 1 km vest de sat în curtea fostului S.M.A.,Epoca bronzului
 14,SM-I-m-B-05164.03,Aşezare,sat BEREA; comuna SANISLĂU,La 1 km vest de sat în curtea fostului S.M.A.,Neolitic
@@ -18,7 +20,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 19,SM-I-s-B-05167,Aşezare,sat BIXAD; comuna BIXAD,"""Lutariu""",Paleolitic
 20,SM-I-s-B-05168,Aşezare,sat BIXAD; comuna BIXAD,"""Fartati""",Paleolitic
 21,SM-I-s-B-05169,Aşezare,sat aparţinător BLAJA; oraş TĂŞNAD,"""Zolta”",Neolitic
-22,SM-I-s-B-05170,"Cetate medievală Boineşti, punct ”Belovar”",sat BOGDAND; comuna BOGDAND comuna BIXAD,"""Culmea Pietroasa”",Epoca medievală
+22,SM-I-s-B-05170,Cetate medievală,sat BOGDAND; comuna BOGDAND,"""Culmea Pietroasa”",Epoca medievală
+23,SM-I-s-A-05171,"Situl arheologic de la Boineşti, punct ”Belovar”",sat BOINEŞTI; comuna BIXAD,”Belovar”,
 24,SM-I-m-B-05171.01,Aşezare,sat BOINEŞTI; comuna BIXAD,”Belovar”,"Epoca bronzului, Cultura Suciu de Sus"
 25,SM-I-m-A-05171.02,Aşezare,sat BOINEŞTI; comuna BIXAD,”Belovar”,Paleolitic (gravettian)
 26,SM-I-m-A-05171.03,Aşezare,sat BOINEŞTI; comuna BIXAD,”Belovar”,Paleolitic (aurignacian)
@@ -30,7 +33,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 32,SM-I-m-B-05172.04,Aşezare,oraş CAREI,"""Bobald”",Epoca migraţiilor
 33,SM-I-m-B-05172.05,Aşezare,oraş CAREI,"""Bobald”",Latène
 34,SM-I-m-B-05172.06,Aşezare,oraş CAREI,"""Bobald”",Epoca bronzului
-35,SM-I-m-B-05172.07,Aşezare punct ”Cozard”,oraş CAREI,"""Bobald”",Neolitic
+35,SM-I-m-B-05172.07,Aşezare,oraş CAREI,"""Bobald”",Neolitic
+36,SM-I-s-B-05173,"Situl arheologic de la Carei, punct ”Cozard”",oraş CAREI,"""Cozard”",
 37,SM-I-m-B-05173.01,Aşezare,oraş CAREI,"""Cozard”",sec. XIV - XV
 38,SM-I-m-B-05173.02,Aşezare,oraş CAREI,"""Cozard”","Eneolitic, Cultura Tiszapolgár"
 39,SM-I-s-B-05174,"Situl arheologic de la Cămin, punct ” Podul Crasnei”",sat CĂMIN; comuna CĂMIN,”Podul Crasnei”,
@@ -42,7 +46,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 45,SM-I-m-B-05176.02,Aşezare,sat CĂUAŞ; comuna CĂUAŞ,"""La Sighetiu”",Epoca bronzului
 46,SM-I-s-A-05177,Aşezare fortificată,sat CHEGEA; comuna SĂCĂŞENI,"""La Cetate”",Epoca bronzului
 47,SM-I-s-B-05178,Aşezare fortificată,sat CRUCIŞOR; comuna CRUCIŞOR,"""Dealu Pinţii”",Epoca medievală timpurie
-48,SM-I-s-B-05179,"Aşezare Mic, punct ""La gropi de",sat CULCIU MARE; comuna CULCIU siloz” comuna CULCIU,"""Sub grădini”","Epoca bronzului, Cultura Suciu de Sus"
+48,SM-I-s-B-05179,Aşezare,sat CULCIU MARE; comuna CULCIU,"""Sub grădini”","Epoca bronzului, Cultura Suciu de Sus"
+49,SM-I-s-B-05180,"Situl arheologic de la Culciu Mic, punct ""La gropi de",sat CULCIU MIC; siloz” comuna CULCIU,"""La gropi de siloz”",
 50,SM-I-m-B-05180.01,Aşezare,sat CULCIU MIC; comuna CULCIU,"""La gropi de siloz”",sec. VIII - IX
 51,SM-I-m-B-05180.02,Aşezare,sat CULCIU MIC; comuna CULCIU,"""La gropi de siloz”",sec. II - IV p. Chr.
 52,SM-I-m-B-05180.03,Aşezare,sat CULCIU MIC; comuna CULCIU,"""La gropi de siloz”",Epoca bronzului
@@ -53,7 +58,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 57,SM-I-s-A-05188,"Situl arheologic de la Dumbrava, punct ""La Leşu”",sat DUMBRAVA; comuna MEDIEŞU AURIT,"""La Leşu”",sec. II - IV p. Chr.
 58,SM-I-s-A-05188.01,"Situl arheologic de la Dumbrava, punct ""La Leşu”",sat DUMBRAVA; comuna MEDIEŞU AURIT,"""La Leşu”",sec. II - IV p. Chr.
 59,SM-I-s-A-05188.02,"Situl arheologic de la Dumbrava, punct ""La Leşu”",sat DUMBRAVA; comuna MEDIEŞU AURIT,"""La Leşu”",sec. II - IV p. Chr.
-60,SM-I-m-A-05188.03,"Necropola aşezării punct ""Nisipăria veche""",sat DUMBRAVA; comuna MEDIEŞU AURIT comuna FOIENI,"""La Leşu”",sec. II - IV p. Chr.
+60,SM-I-m-A-05188.03,Necropola aşezării,sat DUMBRAVA; comuna MEDIEŞU AURIT,"""La Leşu”",sec. II - IV p. Chr.
+61,SM-I-s-B-05183,"Situl arheologic de la Foieni, punct ""Nisipăria veche""",sat FOIENI; comuna FOIENI,"""Nisipăria veche”",
 62,SM-I-m-B-05183.01,Aşezare,sat FOIENI; comuna FOIENI,"""Nisipăria veche”",Epoca medievală timpurie
 63,SM-I-m-B-05183.02,Aşezare,sat FOIENI; comuna FOIENI,"""Nisipăria veche”",Hallstatt
 64,SM-I-m-B-05183.03,Aşezare,sat FOIENI; comuna FOIENI,"""Nisipăria veche”",Eneolitic
@@ -65,7 +71,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 70,SM-I-s-A-05186,"Aşezarea fortificată de la Lucăceni, punct ”Pe deal”",sat LUCĂCENI; comuna BERVENI,”Pe deal”,
 71,SM-I-m-A-05186.01,Aşezare fortificată,sat LUCĂCENI; comuna BERVENI,"""Pe deal”","sec. XIII - XIV, Epoca medievală"
 72,SM-I-m-A-05186.02,Aşezare fortificată,sat LUCĂCENI; comuna BERVENI,"""Pe deal”",sec. II - III p. Chr.
-73,SM-I-m-A-05186.03,Aşezare fortificată,sat LUCĂCENI; comuna BERVENI AURIT; comuna,"""Pe deal”",Epoca bronzului
+73,SM-I-m-A-05186.03,Aşezare fortificată,sat LUCĂCENI; comuna BERVENI,"""Pe deal”",Epoca bronzului
+74,SM-I-s-B-05187,Cetatea Medieşu Aurit,sat MEDIEŞU AURIT; comuna MEDIEŞU AURIT,,
 75,SM-I-m-B-05187.01,Aşezare fortificată cu zid incintă din piatră,de sat MEDIEŞU AURIT; comuna MEDIEŞU AURIT,,"sec. XIII - XIV, Epoca medievală"
 76,SM-I-m-B-05187.02,Aşezare fortificată cu val pământ,de sat MEDIEŞU AURIT; comuna MEDIEŞU AURIT,,sec. IX - X
 77,SM-I-s-A-05331,Ansamblul bisericii romano catolice Medieşu Aurit,- sat MEDIEŞU AURIT; comuna MEDIEŞU AURIT,Str. Principală 537,sec. XV
@@ -76,7 +83,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 82,SM-I-m-A-05189.02,Necropolă,sat PIR; comuna PIR,La sud-est de centrul localităţii,"Epoca bronzului, Cultura Otomani"
 83,SM-I-s-A-05190,"Situl arheologic de la Pişcolţ, punct ""Nisipărie”",sat PIŞCOLT; comuna PIŞCOLT,"""Nisipărie”",sec.IV - III a. Chr.
 84,SM-I-m-A-05190.01,Aşezare,sat PIŞCOLT; comuna PIŞCOLT,"""Nisipărie”",sec.IV - III a. Chr.
-85,SM-I-m-A-05190.02,Necropolă,sat PIŞCOLT; comuna PIŞCOLT comuna PIŞCOLT,"""Nisipărie”",sec.IV - III a. Chr.
+85,SM-I-m-A-05190.02,Necropolă,sat PIŞCOLT; comuna PIŞCOLT,"""Nisipărie”",sec.IV - III a. Chr.
+86,SM-I-s-B-05191,Aşezare,sat PIŞCOLT; comuna PIŞCOLT,"""Lutărie”",sec. II - IV p. Chr.
 87,SM-I-s-B-05192,Aşezare fortificată,sat POTĂU; comuna MEDIEŞU AURIT,"""La Ciuncaş”","Epoca bronzului, Cultura Otomani"
 88,SM-I-s-A-05193,"Situl arheologic de la Remetea Oaşului, punct ""Malu Turului”",sat REMETEA OAŞULUI; comuna ORAŞU NOU,"""Malu Turului”",
 89,SM-I-m-A-05193.01,Aşezare,sat REMETEA OAŞULUI; comuna ORAŞU NOU,"""Malu Turului”",Paleolitic (gravettian)
@@ -87,7 +95,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 94,SM-I-m-B-05194.02,Aşezare,sat SANISLĂU; comuna SANISLĂU,În grădina fostului SMA,"Epoca bronzului, Cultura Baden"
 95,SM-I-m-B-05194.03,Aşezare,oraş SANISLĂU,În grădina fostului SMA,Epoca neolitică
 96,SM-I-s-B-05195,"Situl arheologic de la Săcăşeni, punct ""Cetate""",sat SĂCĂŞENI; comuna SĂCĂŞENI,La 3 km sud de biserica din Huta Chegii,
-97,SM-I-m-B-05195.01,Aşezare fortificată,sat SĂCĂŞENI; comuna SĂCĂŞENI comuna SĂCĂŞENI,La 3 km sud de biserica din Huta Chegii Chegii,Epoca medievală timpurie
+97,SM-I-m-B-05195.01,Aşezare fortificată,sat SĂCĂŞENI; comuna SĂCĂŞENI,La 3 km sud de biserica din Huta Chegii,Epoca medievală timpurie
+98,SM-I-m-B-05195.02,Aşezare fortificată,sat SĂCĂŞENI; comuna SĂCĂŞENI,La 3 km sud de biserica din Huta Chegii,Epoca migraţiilor
 99,SM-I-s-B-05196,Fortificaţie cu zid de incintă din piatră,sat TĂMĂŞENI; comuna BATARCI,"Platoul ""Cetate (Varhegy)”",sec. XIII - XV
 100,SM-I-s-B-05197,Aşezare,oraş TĂŞNAD,"""La Sere”","Neolitic, Cultura Starčevo- Criş"
 101,SM-I-s-B-05198,"Situl arheologic de la Turulung, punct ”Dealu pustiu, Turulung""",sat TURULUNG; comuna TURULUNG,"”Dealu pustiu""",
@@ -98,7 +107,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 106,SM-I-s-B-05200,"Situl arheologic de la Urziceni, punct ""Vade Ret”",sat URZICENI; comuna URZICENI,"""Vade Ret”",
 107,SM-I-m-B-05200.01,Necropolă,sat URZICENI; comuna URZICENI,"""Vade Ret”",sec. XIII - XIV
 108,SM-I-m-B-05200.02,Aşezare,sat URZICENI; comuna URZICENI,"""Vade Ret”",Perioada de tranziţie la epoca bronzului
-109,SM-I-m-B-05200.03,Aşezare catolice,sat URZICENI; comuna URZICENI MARE,"""Vade Ret”","Neolitic 1858, 1892"
+109,SM-I-m-B-05200.03,Aşezare,sat URZICENI; comuna URZICENI,"""Vade Ret”",Neolitic
+110,SM-II-m-A-05201,Palatul Episcopiei romano- catolice,municipiul SATU MARE,Str. 1 Decembrie 1918 2,"1805 - 1851, adăugiri 1858, 1892"
 111,SM-II-m-B-05202,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",municipiul SATU MARE,Str. 1 Decembrie 1918 4,1932 - 1937
 112,SM-II-m-B-05203,"Biserica - capelă ""Aurel","Popp"" municipiul SATU MARE",Str. Cimitirului 2,1935 - 1936
 113,SM-II-m-B-05204,Spitalul de boli contagioase,municipiul SATU MARE,Str. Corvinilor 45,1879
@@ -110,7 +120,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 119,SM-II-m-B-05208,"Convictul episcopal, azi ""Unio” şi Liceul nr.7",Liceul municipiul SATU MARE,Str. Eminescu Mihai 1,"1842, adăugiri 1916"
 120,SM-II-m-B-05209,"Biserica ""Calvaria”",municipiul SATU MARE,Str. Eminescu Mihai 3,1907 - 1909
 121,SM-II-m-B-05210,"Colegiul ""Mihai Eminescu”",municipiul SATU MARE,Str. Eminescu Mihai 5,1912
-122,SM-II-m-B-05211,"Spitalul călugăriţelor misericordiene, azi secţia psihiatrie a Spitaluilui",municipiul SATU MARE,Piaţa Eroilor Revoluţiei 2,1833 - 1838
+122,SM-II-m-B-05211,"Spitalul călugăriţelor misericordiene, azi secţia psihiatrie a Spitaluilui Municipal",municipiul SATU MARE,Piaţa Eroilor Revoluţiei 2,1833 - 1838
 123,SM-II-m-B-05212,Spitalul Lükö Béla,municipiul SATU MARE,Piaţa Eroilor Revoluţiei 3,înc. sec. XX
 124,SM-II-m-B-05213,"Internatul Pázmany, azi Grădiniţa cultului catolic",municipiul SATU MARE,Str. Georgescu Gabriel 12,1909
 125,SM-II-m-B-05215,Gara Satu Mare,municipiul SATU MARE,Str. Griviţa 1,1899
@@ -122,7 +132,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 131,SM-II-m-A-05221,Hotel Dacia,municipiul SATU MARE,Piaţa Libertăţii 8,1902
 132,SM-II-m-B-05222,Casa Albă,municipiul SATU MARE,Piaţa Libertăţii 17,1911 - 1912
 133,SM-II-m-B-05223,Casa breslei cizmarilor,municipiul SATU MARE,Piaţa Libertăţii 18,1830
-134,SM-II-m-A-05224,"Casa Vécsey, azi Muzeul Artă ""Înălţarea Domnului""",de municipiul SATU MARE MARE,Piaţa Libertăţii 21,1798 - 1842
+134,SM-II-m-A-05224,"Casa Vécsey, azi Muzeul Artă",de municipiul SATU MARE,Piaţa Libertăţii 21,1798 - 1842
+135,SM-II-m-A-05225,"Catedrala romano-catolică ""Înălţarea Domnului""",municipiul SATU MARE,Piaţa Libertăţii 24,1837
 136,SM-II-m-B-05226,"Biserica ""Adormirea Maicii Domnului”",municipiul SATU MARE,Bd. Lucaciu Vasile Parc,1937 - 1938
 137,SM-II-m-B-05227,Palatul CFR,municipiul SATU MARE,Bd. Lucaciu Vasile 1,1905
 138,SM-II-a-B-05228,"Ansamblul urban ""Bulevardul Vasile Lucaciu""",municipiul SATU MARE,"Bd. Lucaciu Vasile 3-19 şi 23-29; 37,43-49; 57",sec.XIX - XX
@@ -134,7 +145,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 144,SM-II-m-B-05234,"Fosta Cazarmă a Pompierilor, azi locuinţe şi spaţii pentru birouri",municipiul SATU MARE,Str. Mihai Viteazul 1,1906
 145,SM-II-a-B-05235,"Ansamblul urban ""Strada Mihai Viteazul""",municipiul SATU MARE,"Str. Mihai Viteazul 1-12, 14-18, 20- 23, 28-30",sec. XIX
 146,SM-II-m-B-05236,"Poştă, azi Oficiul poştal",nr.1 municipiul SATU MARE,Str. Mihai Viteazul 2,1907
-147,SM-II-m-B-05237,"Cazino, azi restaurantul ""Mioriţa”",municipiul SATU MARE MARE,Str. Mihai Viteazul 5,sf. sec. XIX
+147,SM-II-m-B-05237,"Cazino, azi restaurantul ""Mioriţa”",municipiul SATU MARE,Str. Mihai Viteazul 5,sf. sec. XIX
+148,SM-II-m-B-05238,Palatul Justiţiei,municipiul SATU MARE,Str. Mihai Viteazul 8,1896 - 1897
 149,SM-II-m-B-05239,"Banca Naţională, azi Inspectoratul de Poliţie",municipiul SATU MARE,Str. Mihai Viteazul 11,1910
 150,SM-II-m-B-05240,Casa Soós,municipiul SATU MARE,Str. Mircea cel Bătrân 6,sf. sec. XIX
 151,SM-II-m-B-05241,Casa Alexandru Ferenţiu,municipiul SATU MARE,Str. Mircea cel Bătrân 8,sec. XIX
@@ -146,7 +158,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 157,SM-II-m-B-20252,Casă de locuit,municipiul SATU MARE,Str. Slavici Ioan 4,sec. XIX
 158,SM-II-a-B-05246,"Ansamblul urban ""Strada Ştefan cel Mare""",municipiul SATU MARE,"Str. Ştefan cel Mare 1-27, 2-24",sec. XIX
 159,SM-II-a-B-05249,"Ansamblul urban ""Bulevardul Traian""",municipiul SATU MARE,Bd. Traian 1-4,sec.XIX - XX
-160,SM-II-m-B-05247,Casă,municipiul SATU MARE MARE,Calea Traian 14,înc. sec. XX
+160,SM-II-m-B-05247,Casă,municipiul SATU MARE,Calea Traian 14,înc. sec. XX
+161,SM-II-m-B-05248,"Grădiniţa ""Samus”",municipiul SATU MARE,Calea Traian 16,înc. sec. XX
 162,SM-II-m-B-05250,Sinagogă,municipiul SATU MARE,Str. Țibleşului 7,sec. XIX
 163,SM-II-m-B-05251,Şcoala generală nr. 5,municipiul SATU MARE,Str. Wolfenbüttel 6,1903
 164,SM-II-a-A-05252,"Ansamblul bisericii ""Hildegarda""",municipiul SATU MARE,Str. Wolfenbüttel 40,"1856, adăugiri 1902 - 1903"
@@ -159,6 +172,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 171,SM-II-m-B-05257,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat AMAŢI; comuna PĂULEŞTI,Str. Principală 210,1880
 172,SM-II-m-B-05258,"Biserica ""Pogorârea Sf.",Duh” sat APA; comuna APA,Str. De Sus 441,sec.XIX
 173,SM-II-m-B-05259,Biserica reformată,sat APA; comuna APA,Str. Florilor 80,1640
+174,SM-II-a-A-05261,Ruinele cetăţii Károlyi,oraş ARDUD,Str. Cetăţii 32,"1481, reconstruit 1730"
 175,SM-II-m-B-05262,"Biserica romano - catolică ""Fecioara Maria""",oraş ARDUD,Str. Ştefan cel Mare 74,"1482, ref. 1860"
 176,SM-II-m-B-05263,Biserica reformată,sat ATEA; comuna DOROLŢ,Str. Principală 43,sec. XV
 177,SM-II-m-B-05264,"Biserica ""Naşterea Maicii Domnului”",sat BÂRSĂUL DE SUS; comuna BÂRSĂU,Str. Deal 123,1828
@@ -170,7 +184,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 183,SM-II-m-B-05268,"Casă ţărănească, azi Muzeul Vasile Şipoş",sat BOGDAND; comuna BOGDAND,Str. Principală 85,sec. XIX
 184,SM-II-m-B-05269,Ruinele falansterului familiei Pásztory,sat BOINEŞTI; comuna BIXAD,extravilan,sec. XVIII
 185,SM-II-m-B-05270,"Biserica de lemn ""Adormirea Maicii Domnului”",sat BOLDA; comuna BELTIUG,Str. Principală 31,sec. XVIII
-186,SM-II-m-B-05347,"Biserica romano - catolică ""Sf. Vasile” Mihail şi Gavriil”",sat BORLEŞTI; comuna POMI comuna POMI,Str. Principală 162,1847
+186,SM-II-m-B-05347,"Biserica romano - catolică ""Sf. Vasile”",sat BORLEŞTI; comuna POMI,Str. Principală 162,1847
+187,SM-II-m-B-05348,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat BORLEŞTI; comuna POMI,Str. Principală 197,1800
 188,SM-II-m-B-05271,"Curia Kallay Antal, azi motel",sat BOTIZ; comuna BOTIZ,Str. Mioriţei 98,sec. XVIII
 189,SM-II-a-B-05272,"Ansamblul urban ""Bulevardul 1 Decembrie 1918""",oraş CAREI,Bd. 1 Decembrie 1918 1- 56,sec. XIX
 190,SM-II-m-B-05274,"Casă, azi spaţiu comercial",oraş CAREI,Bd. 1 Decembrie 1918 12,1890 - 1900
@@ -182,6 +197,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 196,SM-II-m-A-05273.02,Claustrul surorilor piariste,oraş CAREI,Str. 1 Decembrie 1918 54,1846 - 1848
 197,SM-II-m-A-05273.01,"Biserica mănăstirii, azi biserica romano-catolică Iosif de Calasanz""","oraş CAREI ""Sf.",Str. 1 Decembrie 1918 56,"1769 - 1778, ref.1857 - 1860"
 198,SM-II-a-A-05280,Ansamblul castelului Károlyi,oraş CAREI,Piaţa 25 Octombrie 1,"1794, ref.1894"
+199,SM-II-m-A-05280.01,Castelul Károlyi,oraş CAREI,Piaţa 25 Octombrie 1,"1794, ref. 1894"
 200,SM-II-s-A-05280.02,Parc dendrologic,oraş CAREI,Piaţa 25 Octombrie 1,sec. XVIII
 201,SM-II-a-B-05281,"Ansamblul urban ""Strada Culturii""",oraş CAREI,"Str. Culturii 1, 2, 20, 15-27",sec. XIX
 202,SM-II-m-B-05279,Tipografie,oraş CAREI,Str. Doina 1,1880 - 1890
@@ -193,7 +209,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 208,SM-II-a-A-05287,"Ansamblul urban ""Strada Avram Iancu""",oraş CAREI,"Str. Iancu Avram 2-36, 11, 17",sec. XIX
 209,SM-II-m-B-05288,Inspectoratul de Poliţie,oraş CAREI,Str. Independenţei 1,1880 - 1885
 210,SM-II-m-B-05289,Casa Kaffka Margit,oraş CAREI,Str. Kaffka Margit 4,1905
-211,SM-II-a-B-05290,"Ansamblul urban ""Strada Vasile Lucaciu"" Mare, azi Grup şcolar ""Iuliu",oraş CAREI,"Str. Lucaciu Vasile 12-16, 19-41",sec. XIX
+211,SM-II-a-B-05290,"Ansamblul urban ""Strada Vasile Lucaciu""",oraş CAREI,"Str. Lucaciu Vasile 12-16, 19-41",sec. XIX
+212,SM-II-m-B-05291,"Reşedinţa comitatului Satu Mare, azi Grup şcolar ""Iuliu Maniu""",oraş CAREI,Str. Maniu Iuliu 20,1848
 213,SM-II-m-B-05294,Biserica reformată,oraş CAREI,Str. Rakoczi Ferenc 16,"1746 - 1752, 1792 - 1800"
 214,SM-II-m-B-05292,"Casa Comunitară romano catolică ""Sf. Ladislau""",- oraş CAREI,Str. Someş 14,1910 - 1912
 215,SM-II-m-B-05293,Biserica luterană,oraş CAREI,Str. Tireamului 11,1823
@@ -204,7 +221,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 220,SM-II-m-B-05297,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat CĂRĂŞEU; comuna CULCIU,Str. Românească 314,1895 - 1896
 221,SM-II-m-B-05298,Casa în care s-a născut pictorul Aurel Popp (1879- 1960),sat CĂUAŞ; comuna CĂUAŞ,Str. Principală 8,sf. sec. XIX
 222,SM-II-m-B-05299,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat CERTEZE; comuna CERTEZE,Str. Principală 380,1817
-223,SM-II-m-B-05300,"Casa muzeu a zonei Codru ""Sf. Ştefan”",sat CHILIA; comuna HOMOROADE comuna SANISLĂU,Str. Principală 110,sf.sec.XIX - înc.sec.XX
+223,SM-II-m-B-05300,Casa muzeu a zonei Codru,sat CHILIA; comuna HOMOROADE,Str. Principală 110,sf.sec.XIX - înc.sec.XX
+224,SM-II-m-B-05301,"Biserica romano - catolică ""Sf. Ştefan”",sat CIUMEŞTI; comuna SANISLĂU,Str. Bisericii 316,1856
 225,SM-II-m-B-05302,Biserica reformată,sat CIUMEŞTI; comuna SANISLĂU,Str. Mare 345,sec. XV
 226,SM-II-m-B-05303,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat CORUND; comuna BOGDAND,Str. Principală 165,1723
 227,SM-II-m-B-05304,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat CRAIDOROLŢ; comuna CRAIDOROLŢ,Str. Principală 42,1770
@@ -215,7 +233,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 232,SM-II-m-B-05309,"Biserica romano-catolică Arhanghel Mihail""","""Sf. sat FOIENI; comuna FOIENI",Str. Principală 470,1785
 233,SM-II-m-B-05310,"Biserica ""Naşterea Maicii Domnului”",sat GHERŢA MICĂ; comuna GHERŢA MICĂ,Str. Principală 598,1873
 234,SM-II-m-B-05311,Biserica reformată,sat HALMEU; comuna HALMEU,Str. Eliberării 85,sec. XV
-235,SM-II-m-B-05312,"Biserica romano-catolică Iosif"" Wesselényi","""Sf. sat HALMEU; comuna HALMEU comuna HODOD",Str. Eliberării 87,sec. XVIII
+235,SM-II-m-B-05312,"Biserica romano-catolică Iosif""","""Sf. sat HALMEU; comuna HALMEU",Str. Eliberării 87,sec. XVIII
+236,SM-II-a-B-05313,Ansamblul conacului Wesselényi,sat HODOD; comuna HODOD,Str. Principală 164,sec. XVIII
 237,SM-II-m-B-05313.01,Conacul Wesselényi,sat HODOD; comuna HODOD,Str. Principală 164,1763 - 1776
 238,SM-II-m-B-05313.02,"Anexă, azi Cămin cultural spaţii comerciale",şi sat HODOD; comuna HODOD,Str. Principală 164,sec. XIX
 239,SM-II-a-B-05314,Conacul Degenfeld,sat HODOD; comuna HODOD,Str. Principală 199,sec. XVIII
@@ -227,7 +246,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 245,SM-II-m-B-05318,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat HUREZU MARE; comuna SUPUR,Str. Românească 138,1700
 246,SM-II-m-B-05319,Biserica reformată,sat LAZURI; comuna LAZURI,Str. Principală 201,"sec. XVI, transf. sec. XIX"
 247,SM-II-m-B-05321,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat LELEI; comuna HODOD,277,sec. XVIII
-248,SM-II-m-B-05322,Clopotniţa de lemn a bisericii reformate Mihail şi Gavriil”,sat LELEI; comuna HODOD CULCIU,Str. Principală 51,sec. XVIII
+248,SM-II-m-B-05322,Clopotniţa de lemn a bisericii reformate,sat LELEI; comuna HODOD,Str. Principală 51,sec. XVIII
+249,SM-II-m-B-05323,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat LIPĂU; comuna CULCIU,Str. Bisericii 205,1836
 250,SM-II-m-B-05324,"Biserica ucraineană ""Acoperământul Maicii Domnului”",oraş LIVADA,Str. 23 August 14,1700
 251,SM-II-m-B-05325,Biserica reformată,oraş LIVADA,Str. 23 August 40,"1457, modif. 1779"
 252,SM-II-m-B-05326,"Castelul Vecsey, azi tabără şcolară",oraş LIVADA,Str. Oaşului 5,1760
@@ -238,7 +258,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 257,SM-II-m-B-05333,Biserica reformată,sat MICULA; comuna MICULA,Str. Principală 49,1832
 258,SM-II-m-B-05334,"Biserica ""Maica Domnului”",sat MOFTINU MARE; comuna MOFTIN,Str. Principală 58,1793 - 1797
 259,SM-II-m-B-05335,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat MOIŞENI; comuna CERTEZE,Str. Principală 336,1936
-260,SM-II-m-B-05336,Biserica reformată,sat NADIŞU HODODULUI;,Str. Principală 99,sec. XV
+260,SM-II-m-B-05336,Biserica reformată,sat NADIŞU HODODULUI; comuna HODOD,Str. Principală 99,sec. XV
 261,SM-II-a-A-05337,Muzeul Etnografic al Ţării Oaşului (secţia în aer liber),oraş NEGREŞTI OAŞ,Str. Livezilor 3-5,sec. XIX
 262,SM-II-m-B-05338,"Biserica ""Naşterea Maicii Domnului”",oraş NEGREŞTI- OAŞ,Str. Livezilor 2,1848
 263,SM-II-m-B-05339,Biserica reformată,sat NISIPENI; comuna LAZURI,Str. Principală 108,sec. XVI
@@ -250,7 +270,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 269,SM-II-m-B-05345,Biserica reformată,sat PIR; comuna PIR,212,sec. XV
 270,SM-II-m-B-05346,Biserica reformată,sat PIŞCOLT; comuna PIŞCOLT,Str. Libertăţii 328,sec. XV
 271,SM-II-m-B-05349,"Biserica ""Naşterea Maicii Domnului”",sat PORUMBEŞTI; comuna HALMEU,Str. Principală 480,1831
-272,SM-II-m-B-05350,"Biserica ""Naşterea Maicii Domnului” Domnului”",sat PRILOG; comuna ORAŞU NOU ORAŞU NOU,Str. Bisericii 260,1864
+272,SM-II-m-B-05350,"Biserica ""Naşterea Maicii Domnului”",sat PRILOG; comuna ORAŞU NOU,Str. Bisericii 260,1864
+273,SM-II-m-B-05351,"Biserica ""Adormirea Maicii Domnului”",sat RACŞA; comuna ORAŞU NOU,Str. Principală 340,1858
 274,SM-II-m-B-05352,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat SANISLĂU; comuna SANISLĂU,Str. Ogorului,sec. XVIII
 275,SM-II-m-B-05353,Biserica reformată,sat SĂCĂŞENI; comuna SĂCĂŞENI,Str. Mare 480,1760
 276,SM-II-m-B-05354,"Biserica ""Sf. Grigore Teologul”",loc aparţinătoare SĂRĂUAD; oraş TĂŞNAD,Str. Bisericii 343,1777
@@ -261,7 +282,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 281,SM-II-m-B-05359,"Castelul Cserey - Fischer, Muzeul orăşenesc Tăşnad",azi oraş TĂŞNAD,Str. Lăcrămioarelor 14,1771
 282,SM-II-m-B-05360,Biserica reformată,oraş TĂŞNAD,Str. Ştefan cel Mare 2,"1476, modif. 1776, 1867"
 283,SM-II-m-B-05361,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat TĂTĂREŞTI; comuna VIILE SATU MARE,Str. Bisericii 5,1814
-284,SM-II-m-B-05362,Casa Egli Maria,sat TIREAM; comuna TIREAM TUR; oraş,479,sec. XIX
+284,SM-II-m-B-05362,Casa Egli Maria,sat TIREAM; comuna TIREAM,479,sec. XIX
+285,SM-II-m-B-05363,"Biserica ""Sf. Dumitru”",loc aparţinătoare TUR; oraş NEGREŞTI OAŞ,Str. Principală 546,1850
 286,SM-II-m-B-05364,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat TURŢ; comuna TURŢ,Str. Călineţe 240,1836
 287,SM-II-m-B-05365,"Castelul Perényi, azi şcoală generală",sat TURULUNG; comuna TURULUNG,Str. Podului 23,"sec. XVIII, transf. 1848"
 288,SM-II-m-B-05366,"Biserica ""Maica Domnului”",sat TURULUNG; comuna TURULUNG,Str. Principală 17,sec. XVIII
@@ -272,7 +294,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 293,SM-II-m-B-05371,"Biserica Romano - Catolică ""Aflarea Sfintei Cruci”",sat URZICENI; comuna URZICENI,Str. Cămin 180,1751
 294,SM-II-m-B-05372,Casa Aloisie Tăutu,sat VALEA VINULUI; comuna VALEA VINULUI,Str. Principală 303,sec. XIX
 295,SM-II-m-B-05373,"Biserica ""Sf. Arhangheli Mihail şi Gavriil”",sat VAMA; comuna VAMA,Str. Principală 709,1840
-296,SM-II-m-B-05374,"Biserica reformată ""Schimbarea la faţă""",sat VETIŞ; comuna VETIŞ comuna TIREAM,Str. Principală 89,1460
+296,SM-II-m-B-05374,Biserica reformată,sat VETIŞ; comuna VETIŞ,Str. Principală 89,1460
+297,SM-II-m-B-05375,"Biserica ortodoxă ""Schimbarea la faţă""",sat VEZENDIU; comuna TIREAM,Str. Principală 231,1700
 298,SM-II-m-B-05376,"Biserica ortodoxă "" Sf. Arh. Mihail şi Gavriil""",sat VIILE SATU MARE; comuna VIILE SATU MARE,Str. Codrului 105,1839 - 1862
 299,SM-III-m-B-05377,Bustul lui Ioan Slavici,municipiul SATU MARE,"Bd. Coandă Henri, în faţa Liceului economic",1968
 300,SM-III-m-B-05378,Bustul lui Mihai Eminescu,municipiul SATU MARE,Str. Eminescu Mihai 5,1958
@@ -284,4 +307,5 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 306,SM-IV-m-B-05383,Monumentul ostaşului român,municipiul SATU MARE,Piaţa Lucaciu Vasile,1963
 307,SM-IV-m-B-05386,Casa şi atelierul pictorului Aurel Popp,municipiul SATU MARE,Str. Popp Aurel 11,înc. sec. XX
 308,SM-IV-m-B-05385,Atelierul graficianului Erdős Paul,municipiul SATU MARE,Pasajul Ruha Istvan,înc. sec. XX
-309,SM-IV-m-B-05387,"Casa dr .Vasile Lucaciu Kölcsey Ferenc, azi casa",sat APA; comuna APA comuna SĂUCA,Str. Principală 246,sec. XIX
+309,SM-IV-m-B-05387,Casa dr .Vasile Lucaciu,sat APA; comuna APA,Str. Principală 246,sec. XIX
+310,SM-IV-m-B-05388,"Casa în care s-a născut poetul Kölcsey Ferenc, azi casa parohială",sat SĂUCA; comuna SĂUCA,Str. Principală 38,a doua jum. sec. XVIII

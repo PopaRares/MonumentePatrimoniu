@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,MH-I-s-B-10044,Oraşul roman Drobeta,municipiul DROBETA TURNU SEVERIN,"Între str. Călăraşi, Calomfirescu, Smârdan, parcul Liceului „Traian” şi malul Dunării","sec. II - VI p. Chr., Epoca romană"
 2,MH-I-s-B-10045,"Situl arheologic de la Drobeta Turnu Severin, punct ""Schela Cladovei""",municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, de la șantierul naval până la ștrand, pe o fâșie de-a lungul Dunării până la calea ferată",
 3,MH-I-m-B-10045.01,Aşezare,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare","sec. XVII - XVIII, Epoca medievală"
 4,MH-I-m-B-10045.02,Necropolă,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare","sec. II - III p. Chr., Epoca romană"
@@ -6,7 +7,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,MH-I-m-B-10045.04,Aşezare,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare","sec. I a. Chr. - I p. Chr., Latène, Cultura geto - dacică"
 7,MH-I-m-B-10045.05,Aşezare,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare","sec. VIII - VI a. Chr., Hallstatt"
 8,MH-I-m-B-10045.06,Aşezare,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare","Epoca bronzului, Cultura Gârla Mare"
-9,MH-I-m-B-10045.07,Aşezare,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare IAS”, lângă staţia de pompare","Neolitic timpuriu, Cultura Starčevo - Criş"
+9,MH-I-m-B-10045.07,Aşezare,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare","Neolitic timpuriu, Cultura Starčevo - Criş"
+10,MH-I-m-B-10045.08,Aşezare,municipiul DROBETA TURNU SEVERIN,"Cartier Schela Cladovei, „Conducta IAS”, lângă staţia de pompare",Epipaleolitic
 11,MH-I-m-A-10046,Ruinele bisericii medievale de la Drobeta Turnu Severin,municipiul DROBETA TURNU SEVERIN,"Str. Carol I 6, în parcul ,,Liceului „Traian”",sec. XIII - XIV
 12,MH-I-s-A-10047,Situl arheologic de la Drobeta Turnu Severin,municipiul DROBETA TURNU SEVERIN,"Str. Independenţei 2, în curtea Muzeului Regiunii „Porţilor de Fier”",
 13,MH-I-m-A-10047.01,Fortificaţie,municipiul DROBETA TURNU SEVERIN,"Str. Independenţei 2, în curtea Muzeului Regiunii „Porţilor de Fier”",sec. XIII - XV
@@ -18,7 +20,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 19,MH-I-s-B-10049,Situl arheologic de la Almăjel,sat ALMĂJEL; comuna VLĂDAIA,"""Fântânele Mari”, în vatra satului, la 500 m sud de biserică",
 20,MH-I-m-B-10049.01,Aşezare,sat ALMĂJEL; comuna VLĂDAIA,"""Fântânele Mari”, în vatra satului, la 500 m sud de biserică","sec. IX - VIII a. Chr., Hallstatt"
 21,MH-I-m-B-10049.02,Aşezare,sat ALMĂJEL; comuna VLĂDAIA,"""Fântânele Mari”, în vatra satului, la 500 m sud de biserică","Epoca bronzului, Cultura Gârla Mare"
-22,MH-I-m-B-10049.03,Aşezare,sat ALMĂJEL; comuna VLĂDAIA comuna BALA,"""Fântânele Mari”, în vatra satului, la 500 m sud de biserică","Eneolitic, Cultura Sălcuţa Latène"
+22,MH-I-m-B-10049.03,Aşezare,sat ALMĂJEL; comuna VLĂDAIA,"""Fântânele Mari”, în vatra satului, la 500 m sud de biserică","Eneolitic, Cultura Sălcuţa"
+23,MH-I-s-B-10050,Aşezare,sat BALA DE SUS; comuna BALA,"""La Fântână”, la 500 m V de sat","sec. I a. Chr. - I p. Chr., Latène"
 24,MH-I-s-B-10051,Ruinele cetăţii Grădeţului,sat BALOTEŞTI; comuna IZVORU BÂRZII,la 2 km E de sat,sec. XIII
 25,MH-I-s-B-10052,Aşezare,sat BALTA; comuna BALTA,"""Peştera Mare”, la intrarea în peşteră şi în jurul acesteia, la 500 m de drumul Balta-Sfodea","sec. IV - III a. Chr., Latène"
 26,MH-I-s-B-10053,Aşezarea romană de la Gogoşu,sat BALTA VERDE; comuna GOGOŞU,"""Câmpul Deciului”, între satul Balta Verde şi satul Izvoarele",sec. II - III p. Chr.
@@ -29,7 +32,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 31,MH-I-m-B-10054.04,Aşezare,sat BATOŢI; comuna DEVESEL,lângă grajdurile fostului CAP,Neolitic
 32, MH-I-s-B-10055, Brazda lui Novac, sat BĂLĂCIŢA; comuna BĂLĂCIŢA," se continuă spre Şimian, Livezile, Hinova şi Oreviţa Mare", sec. IV
 33,MH-I-s-B-10056,Situl arheologic de la Bistreţ,sat BISTREŢ; comuna DEVESEL,"""La Punţi”, la 1 km NE de sat",
-34,MH-I-m-B-10056.01,Aşezare,sat BISTREŢ; comuna DEVESEL DEVESEL,"""La Punţi”, la 1 km NE de sat",Epoca bronzului Bodrogkeresztur
+34,MH-I-m-B-10056.01,Aşezare,sat BISTREŢ; comuna DEVESEL,"""La Punţi”, la 1 km NE de sat",Epoca bronzului
+35,MH-I-m-B-10056.02,Aşezare,sat BISTREŢ; comuna DEVESEL,"""La Punţi”, la 1 km NE de sat","Eneolitic, Cultura Bodrogkeresztur"
 36,MH-I-s-B-10057,Aşezare,sat BISTRIŢA; comuna HINOVA,"""Ursoaica”, pe valea pârâului Bistriţa",sec. II - IV p. Chr.
 37,MH-I-s-B-10058,Cetatea dacică de pământ de la Bobaiţa,sat BOBAIŢA; comuna MALOVĂŢ,"""La Cetate"", într-o zonă de deal împădurit la N de satul Colibaşi","sec. I a. Chr., Latène"
 38,MH-I-s-B-10059,Situl arheologic de la Brezniţa-Ocol,sat BREZNIŢA-OCOL; comuna BREZNIŢA- OCOL,"în spatele Poliţiei, pe malul pârâului",
@@ -39,7 +43,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 42,MH-I-s-B-10060,Situl arheologic de la Bucura,sat BUCURA; oraş VÂNJU MARE,pe drumul Bucura-Oprişor,
 43,MH-I-m-B-10060.01,Aşezare,sat BUCURA; oraş VÂNJU MARE,pe drumul Bucura-Oprişor,"sec. VII a. Chr., Hallstatt"
 44,MH-I-m-B-10060.02,Aşezare,sat BUCURA; oraş VÂNJU MARE,la 1 km E de sat,"sec. XVIII - XVII a. Chr., Epoca bronzului, Cultura Verbicioara, faza III"
-45,MH-I-s-B-10061,Necropola hallstattiană de la Cerneţi de la Cerneţi,sat CERNEŢI; comuna ŞIMIAN comuna ŞIMIAN,lângă serele fostului CAP râului Topolniţa,"sec. VIII - VII a. Chr., Hallstatt"
+45,MH-I-s-B-10061,Necropola hallstattiană de la Cerneţi,sat CERNEŢI; comuna ŞIMIAN,lângă serele fostului CAP,"sec. VIII - VII a. Chr., Hallstatt"
+46,MH-I-s-B-10062,Ruine de ziduri romane de la Cerneţi,sat CERNEŢI; comuna ŞIMIAN,"""Moara Mănescului”, pe malul stâng al râului Topolniţa",sec. II - III p. Chr.
 47,MH-I-s-B-10063,Situl arheologic de la Cireşu,sat CIREŞU; comuna CIREŞU,"""La Răchiţi”, ""Ogaşul cu nuci”, la 500 m N de drumul Cireşu-Bunoaica",
 48,MH-I-s-B-10063.01,Aşezare,sat CIREŞU; comuna CIREŞU,"""La Răchiţi”, la intrarea în sat",
 49,MH-I-s-B-10063.02,Cuptoare dacice pentru reducerea minereului de fier,sat CIREŞU; comuna CIREŞU,"""La Răchiţi”, la intrarea în sat","sec. IV - II a. Chr., Latène, Cultura geto - dacică"
@@ -49,7 +54,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 53,MH-I-s-B-10066,Situl arheologic de la Crivina,sat CRIVINA; comuna BURILA MARE,"""Km fluvial 894"", lângă pichetul de grăniceri",
 54,MH-I-m-B-10066.01,Aşezare,sat CRIVINA; comuna BURILA MARE,"""Km fluvial 894"", lângă pichetul de grăniceri",sec. X - XII
 55,MH-I-m-B-10066.02,Aşezare,sat CRIVINA; comuna BURILA MARE,"""Km fluvial 894"", lângă pichetul de grăniceri","sec. VII - VI a. Chr., Hallstatt"
-56,MH-I-m-B-10066.03,Necropolă,sat CRIVINA; comuna BURILA MARE comuna BURILA,"""Km fluvial 894"", lângă pichetul de grăniceri grăniceri",Epoca bronzului Gârla Mare
+56,MH-I-m-B-10066.03,Necropolă,sat CRIVINA; comuna BURILA MARE,"""Km fluvial 894"", lângă pichetul de grăniceri",Epoca bronzului
+57,MH-I-m-B-10066.04,Aşezare,sat CRIVINA; comuna BURILA MARE,"""Km fluvial 894"", lângă pichetul de grăniceri","Epoca bronzului, Cultura Gârla Mare"
 58,MH-I-m-B-10067,Aşezare fortificată,sat DÂRVARI; comuna DÂRVARI,"""Cetăţuia”, la 3 km E de sat",Epoca bronzului
 59,MH-I-s-B-10068,"Situl arheologic de la Devesel, punct ""Ochiuri""",sat DEVESEL; comuna DEVESEL,"""La Ochiuri”, în stânga podului de pe şoseaua Devesel - Bistreţ",
 60,MH-I-m-B-10068.01,Aşezare,sat DEVESEL; comuna DEVESEL,"""La Ochiuri”, în stânga podului de pe şoseaua Devesel - Bistreţ",sec. VII - VI a. Chr.
@@ -60,14 +66,16 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 65,MH-I-s-B-10071,Aşezare,sat GÂRBOVĂŢU DE JOS; comuna CORCOVA,"pe malul pârâului, lângă casa familiei Cioabă","Epoca bronzului, Cultura Verbicioara"
 66, MH-I-s-A-10072, Aşezare, sat GÂRLA MARE; comuna GÂRLA MARE," ""La Gârloacă”, pe malul Dunării, la 200 m S de sat, în luncă"," Epoca bronzului, Cultura Gârla Mare"
 67,MH-I-s-B-10073,Situl arheologic de la Gruia,sat GRUIA; comuna GRUIA,"""La Carieră”, pe malul Dunării, lângă port",
-68,MH-I-m-B-10073.01,Aşezare,sat GRUIA; comuna GRUIA GRUIA,"""La Carieră”, pe malul Dunării, lângă port port","sec. II - I a. Chr., Latène, Cultura geto - dacică târziu"
+68,MH-I-m-B-10073.01,Aşezare,sat GRUIA; comuna GRUIA,"""La Carieră”, pe malul Dunării, lângă port","sec. II - I a. Chr., Latène, Cultura geto - dacică"
+69,MH-I-m-B-10073.02,Aşezare hallstattiană,sat GRUIA; comuna GRUIA,"""La Carieră”, pe malul Dunării, lângă port","sec. VI a. Chr., Hallstatt târziu"
 70,MH-I-s-B-10074,"Situl arheologic de la Gura Văii, punct ""Insula Banului""",localitatea GURA VĂII; municipiul DROBETA-TURNU SEVERIN,"""Insula Banului”",
 71,MH-I-m-B-10074.01,Fortificaţie medievală,localitatea GURA VĂII; municipiul DROBETA-TURNU SEVERIN,"""Insula Banului”",sec. XIV - XV
 72,MH-I-m-B-10074.02,Fortificaţia romano- bizantină,localitatea GURA VĂII; municipiul DROBETA-TURNU SEVERIN,"""Insula Banului”",sec. IV - VI
 73,MH-I-m-B-10074.03,Fortificaţia romană târzie,localitatea GURA VĂII; municipiul DROBETA-TURNU SEVERIN,"""Insula Banului”",sec. IV p. Chr.
 74,MH-I-m-B-10074.04,Aşezare,localitatea GURA VĂII; municipiul DROBETA-TURNU SEVERIN,"""Insula Banului”","sec. X - IX a. Chr., Hallstatt"
 75,MH-I-s-B-10075,Aşezare,sat HALÂNGA; comuna IZVORU BÂRZII,"""La Poligon”",sec. II - III p. Chr.
-76,MH-I-s-A-10076,Castrul roman de la Hinova,sat HINOVA; comuna HINOVA HINOVA,Lângă pichetul grănicerilor Bălăciţa şi Oreviţa Mare,sec. IV - V
+76,MH-I-s-A-10076,Castrul roman de la Hinova,sat HINOVA; comuna HINOVA,Lângă pichetul grănicerilor,sec. IV - V
+77,MH-I-m-B-10077,Brazda lui Novac,sat HINOVA; comuna HINOVA,"se continuă spre Livezile, Şimian, Bălăciţa şi Oreviţa Mare",sec. IV p. Chr.
 78,MH-I-s-B-10078,Situl arheologic de la Izimşa,sat IZIMŞA; comuna OBÂRŞIA DE CÂMP,"""Fântânele”, ""La Cazan”, la marginea dinspre E a satului",
 79,MH-I-m-B-10078.01,Aşezare,sat IZIMŞA; comuna OBÂRŞIA DE CÂMP,"""Fântânele”, ""La Cazan”, la marginea dinspre E a satului",sec. II - III p. Chr.
 80,MH-I-m-B-10078.02,Aşezare,sat IZIMŞA; comuna OBÂRŞIA DE CÂMP,"""Fântânele”, ""La Cazan”, la marginea dinspre E a satului","sec. XV - XII a. Chr., Epoca bronzului, Cultura Gârla Mare"
@@ -78,7 +86,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 85,MH-I-m-B-10079.04,Aşezare,sat IZVOARELE; comuna GRUIA,,"sec. I a. Chr., Latène, Cultura geto - dacică"
 86,MH-I-m-B-10079.05,Aşezare,sat IZVOARELE; comuna GRUIA,,"sec. IX - VII a. Chr., Hallstatt"
 87,MH-I-m-B-10079.06,Aşezare,sat IZVOARELE; comuna GRUIA,,"Epoca bronzului, Cultura Gârla Mare"
-88,MH-I-s-B-10080,Situl arheologic de la Izvoru Frumos,sat IZVORU FRUMOS; comuna BURILA MARE FRUMOS; comuna,"pe malul Dunării, la km fluvial 881",
+88,MH-I-s-B-10080,Situl arheologic de la Izvoru Frumos,sat IZVORU FRUMOS; comuna BURILA MARE,"pe malul Dunării, la km fluvial 881",
+89,MH-I-m-B-10080.01,Aşezare,sat IZVORU FRUMOS; comuna BURILA MARE,"pe malul Dunării, la km fluvial 881",sec. XI - XIV
 90,MH-I-m-B-10080.02,Aşezare,sat IZVORU FRUMOS; comuna BURILA MARE,"pe malul Dunării, la km fluvial 881",Epoca romană
 91,MH-I-m-B-10080.03,Necropolă,sat IZVORU FRUMOS; comuna BURILA MARE,"pe malul Dunării, la km fluvial 881",Epoca romană
 92,MH-I-m-B-10080.04,Aşezare,sat IZVORU FRUMOS; comuna BURILA MARE,"pe malul Dunării, la km fluvial 881","sec. VIII - VI a. Chr., Hallstatt"
@@ -87,7 +96,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 95, MH-I-m-B-10083, Brazda lui Novac, sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE," se continuă spre Hinova, Șimian și Bălăcița"," sec. IV p. Chr., Epoca romană"
 96,MH-I-s-B-10084,Aşezare,sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE,"""Păuleşti"", la 2 km E de sat, pe dealul Măroiu","Epoca bronzului, Cultura Verbicioara"
 97,MH-I-s-B-10085,Situl arheologic de la Oreviţa Mare,sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE,"""Dealul Cetăţii”, ""La Gaura Babei""",
-98,MH-I-m-B-10085.01,Aşezare,sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE OREVIŢA MARE; oraş,"""Dealul Cetăţii” satului","sec. I - II p. Chr., Latène"
+98,MH-I-m-B-10085.01,Aşezare,sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE,"""Dealul Cetăţii”","sec. I - II p. Chr., Latène"
+99,MH-I-m-B-10085.02,Aşezare fortificată,sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE,"""Dealul Cetăţii”, pe panta din faţa satului","sec. VII - VI a. Chr., Hallstatt"
 100,MH-I-s-B-10086,Situl arheologic de la Ostrovu Corbului,sat OSTROVU CORBULUI; comuna HINOVA,"""Botu Piscului"", în capătul din amonte al insulei",
 101,MH-I-m-B-10086.01,Aşezare,sat OSTROVU CORBULUI; comuna HINOVA,"""Botu Piscului”, în capătul din amonte al insulei","sec. VIII - VI a. Chr., Hallstatt, Cultura Basarabi"
 102,MH-I-m-B-10086.02,Necropolă,sat OSTROVU CORBULUI; comuna HINOVA,"""Botu Piscului”, în capătul din amonte al insulei","sec. VIII - VI a. Chr., Hallstatt, Cultura Basarabi"
@@ -97,7 +107,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 106,MH-I-s-B-10089,Situl arheologic de la Ostrovu Mare,sat OSTROVU MARE; comuna GOGOŞU,"Pe malul Dunării, la km fluvial 875",
 107,MH-I-m-B-10089.01,Necropolă medievală,sat OSTROVU MARE; comuna GOGOŞU,"Pe malul Dunării, la km fluvial 875",sec. XIII - XIV
 108,MH-I-m-B-10089.02,Aşezare,sat OSTROVU MARE; comuna GOGOŞU,"Pe malul Dunării, la km fluvial 875",Epipaleolitic
-109,MH-I-s-B-10090,Situl arheologic de la Pristol,sat PRISTOL; comuna PRISTOL PRISTOL,"Pe malul Dunării, lângă staţia de pompare, la km fluvial 847 pompare, la km fluvial 847",
+109,MH-I-s-B-10090,Situl arheologic de la Pristol,sat PRISTOL; comuna PRISTOL,"Pe malul Dunării, lângă staţia de pompare, la km fluvial 847",
+110,MH-I-m-B-10090.01,Aşezare,sat PRISTOL; comuna PRISTOL,"Pe malul Dunării, lângă staţia de pompare, la km fluvial 847",sec. IX - XI
 111,MH-I-m-B-10090.02,Aşezare,sat PRISTOL; comuna PRISTOL,"Pe malul Dunării, lângă staţia de pompare, la km fluvial 847","sec. VI a. Chr., Hallstatt mijlociu"
 112,MH-I-m-B-10090.03,Aşezare,sat PRISTOL; comuna PRISTOL,"Pe malul Dunării, lângă staţia de pompare, la km fluvial 847","Neolitic timpuriu, Cultura Starčevo - Criş"
 113,MH-I-s-B-10091,Castrul roman de la Puţinei - Izvoru Bârzii,sat PUŢINEI; comuna IZVORU BÂRZII,"""La Cetatea lui Negru Vodă”, în partea de SE a satului, vis-à-vis de incinta Combinatului de apă grea ROMAG",sec. IV - V p. Chr.
@@ -108,7 +119,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 118,MH-I-s-B-10094,"Situl arheologic de la Rogova I, punct ""La Cazărmi""",sat ROGOVA; comuna ROGOVA,"""La Cazărmi”, pe malul râului Blahniţa",
 119, MH-I-m-B-10094.01, Aşezare romană, sat ROGOVA; comuna ROGOVA," ""La Cazărmi”, pe malul râului Blahniţa", sec. II - III p. Chr.
 120,MH-I-m-B-10094.02,Fortificaţie romană,sat ROGOVA; comuna ROGOVA,"""La Cazărmi”, pe malul râului Blahniţa",sec. II - III p. Chr.
-121,MH-I-s-B-10095,Situl arheologic de la Rogova II,sat ROGOVA; comuna ROGOVA comuna ROGOVA,"""La Cazărmi”",
+121,MH-I-s-B-10095,Situl arheologic de la Rogova II,sat ROGOVA; comuna ROGOVA,"""La Cazărmi”",
+122,MH-I-m-B-10095.01,Aşezare,sat ROGOVA; comuna ROGOVA,"""La Cazărmi”",sec. X - XI
 123,MH-I-m-B-10095.02,Aşezare,sat ROGOVA; comuna ROGOVA,"""La Cazărmi”, la 2 km E de sat, pe malurile pârâului Blahniţa",Hallstatt
 124,MH-I-m-B-10095.03,Mormânt,sat ROGOVA; comuna ROGOVA,"""La Cazărmi”",Hallstatt
 125,MH-I-m-B-10095.04,Aşezare,sat ROGOVA; comuna ROGOVA,"""La Cazărmi”",Latène
@@ -120,7 +132,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 131,MH-I-m-B-10103.03,Aşezare,sat ŞIMIAN; comuna ŞIMIAN,"""Ostrovul Şimian”","Epoca bronzului timpuriu, Cultura Coţofeni"
 132,MH-I-m-B-10103.04,Aşezare,sat ŞIMIAN; comuna ŞIMIAN,"""Ostrovul Şimian”","Eneolitic, Cultura Sălcuţa"
 133,MH-I-s-B-10104,Situl arheologic de la Şimian,sat ŞIMIAN; comuna ŞIMIAN,"În viile IAS, în partea de E a satului, lângă Brazda lui Novac",
-134,MH-I-m-B-10104.01,Aşezare,sat ŞIMIAN; comuna ŞIMIAN ŞIMIAN,"În viile IAS, în partea de E a satului, lângă Brazda lui Novac lângă Brazda lui Novac",sec. II - IV p. Chr.
+134,MH-I-m-B-10104.01,Aşezare,sat ŞIMIAN; comuna ŞIMIAN,"În viile IAS, în partea de E a satului, lângă Brazda lui Novac",sec. II - IV p. Chr.
+135,MH-I-m-B-10104.02,Necropolă,sat ŞIMIAN; comuna ŞIMIAN,"În viile IAS, în partea de E a satului, lângă Brazda lui Novac",sec. II - IV p. Chr.
 136,MH-I-s-B-10097,Ruinele turnului roman de la Șviniţa,sat ŞVINIŢA; comuna ŞVINIŢA,"”Dealul Râjişte"", la 5 km V de sat, pe malul Dunării",sec. II p. Chr.
 137,MH-I-s-B-10098,Situl arheologic de la Șviniţa,sat ŞVINIŢA; comuna ŞVINIŢA,"""La Islaz”, pe malul Dunării, aproape de km fluvial 1005",
 138,MH-I-m-B-10098.01,Aşezare medievală,sat ŞVINIŢA; comuna ŞVINIŢA,"""La Islaz”, pe malul Dunării, aproape de km fluvial 1005",sec. XVII - XVIII
@@ -131,7 +144,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 143,MH-I-s-B-10100,Ruine de construcţii romane,sat ŞVINIŢA; comuna ŞVINIŢA,"""Tri-Kule”, la S de punctul ""Tri-Kule""",Epoca romană
 144,MH-I-s-B-10101,Situl arheologic de la Șviniţa,sat ŞVINIŢA; comuna ŞVINIŢA,"La 7 km N de comună, pe terasa mijlocie a Dunării, aproape de km fluvial 1004",
 145,MH-I-m-B-10101.01,Necropolă,sat ŞVINIŢA; comuna ŞVINIŢA,"La 7 km N de comună, pe terasa mijlocie a Dunării, aproape de km fluvial 1004",sec. XII - XIII
-146,MH-I-m-B-10101.02,Aşezare romană,sat ŞVINIŢA; comuna ŞVINIŢA ŞVINIŢA,"La 7 km N de comună, pe terasa mijlocie a Dunării, aproape de km fluvial 1004 mijlocie a Dunării, aproape de km","sec. I - II p. Chr., Epoca romană"
+146,MH-I-m-B-10101.02,Aşezare romană,sat ŞVINIŢA; comuna ŞVINIŢA,"La 7 km N de comună, pe terasa mijlocie a Dunării, aproape de km fluvial 1004","sec. I - II p. Chr., Epoca romană"
+147,MH-I-m-B-10101.03,Aşezare,sat ŞVINIŢA; comuna ŞVINIŢA,"La 7 km N de comună, pe terasa mijlocie a Dunării, aproape de km fluvial 1004","sec. VIII - VI a. Chr., Hallstatt"
 148,MH-I-s-B-10102,Situl arheologic de la Șviniţa,sat ŞVINIŢA; comuna ŞVINIŢA,"Pe malul Dunării, în dreptul km fluvial 1007",
 149,MH-I-m-B-10102.01,Aşezare medievală,sat ŞVINIŢA; comuna ŞVINIŢA,"Pe malul Dunării, în dreptul km fluvial 1007",sec. IX - XI
 150,MH-I-m-B-10102.02,Aşezare hallstattiană,sat ŞVINIŢA; comuna ŞVINIŢA,"Pe malul Dunării, în dreptul km fluvial 1007","sec. VIII - VI a. Chr., Hallstatt"
@@ -142,7 +156,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 155,MH-I-m-B-10105.03,Aşezare,sat TISMANA; comuna DEVESEL,"Pe malul Dunării, în dreptul km fluvial 906","sec. III a. Chr. - I p. Chr., Latène"
 156,MH-I-s-B-10106,Situl arheologic de la Ţigănaşi,sat ŢIGĂNAŞI; comuna BURILA MARE,"""La Pompe”, lângă Stația de pompare",
 157,MH-I-m-B-10106.01,Aşezare,sat ŢIGĂNAŞI; comuna BURILA MARE,"""La Pompe”, lângă Staţia de pompare","sec. III - I a. Chr., Latène, Cultura geto - dacică"
-158,MH-I-m-B-10106.02,Aşezare,sat ŢIGĂNAŞI; comuna BURILA,"""La Pompe”, lângă Staţia de pompare","Epoca bronzului, Cultura Gârla Mare"
+158,MH-I-m-B-10106.02,Aşezare,sat ŢIGĂNAŞI; comuna BURILA MARE,"""La Pompe”, lângă Staţia de pompare","Epoca bronzului, Cultura Gârla Mare"
 159,MH-I-m-B-10106.03,Aşezare,sat ŢIGĂNAŞI; comuna BURILA MARE,"""La Pompe”, lângă Staţia de pompare","Eneolitic, Cultura Sălcuţa"
 160,MH-I-s-B-10107,Aşezare,sat VALEA ANILOR; comuna CORLĂŢEL,"""La Glămie”, pe malul pârâului Drincea, la 2 km E de sat","Eneolitic, Cultura Sălcuţa"
 161,MH-I-s-B-10108,Aşezare,sat VRANCEA; comuna BURILA MARE,"Pe malul Dunării, în dreptul km fluvial 905",sec. II - III p. Chr.
@@ -152,7 +166,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 165,MH-II-a-B-10202,Centrul istoric al oraşului Drobeta Turnu Severin,municipiul DROBETA TURNU SEVERIN,"Delimitat de: Str. Serpentina Roşiori, Traian, A. Saligny, şi fluviul Dunărea, cuprinzând și str. Aurelian, Decebal, Portului şi Bd. Carol I","sec. II - III, XIX - XX, Epoca daco-romană; Epoca modernă"
 166,MH-II-m-B-10111,Casa Armaşu Victor,municipiul DROBETA TURNU SEVERIN,Str. Adrian 33A,1899
 167,MH-II-m-B-10112,Casa Dunăriţiu Alexandru,municipiul DROBETA TURNU SEVERIN,Str. Adrian 139,prima jum. a sec. XX
-168,MH-II-m-B-10113,Casa Roşca Nicolae şi Maria,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Adrian 143,înc. sec. XX
+168,MH-II-m-B-10113,Casa Roşca Nicolae şi Maria,municipiul DROBETA TURNU SEVERIN,Str. Adrian 143,înc. sec. XX
+169,MH-II-m-B-10114,Casă Ursulescu M. Crişan,municipiul DROBETA TURNU SEVERIN,Str. Adrian 147,prima jum. a sec. XX
 170,MH-II-m-B-10115,Casă Vâlcu Teodoru Dorel,municipiul DROBETA TURNU SEVERIN,Str. Adrian 149,prima jum. a sec. XX
 171,MH-II-m-B-10116,Uzina de Apă,municipiul DROBETA TURNU SEVERIN,Str. Aeroportului,sec. XX
 172,MH-II-m-B-10117,"Biserica romano-catolică ""Înălţarea Maicii Domnului”",municipiul DROBETA TURNU SEVERIN,Str. Aurelian 24,1875 - 1885
@@ -164,7 +179,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 178,MH-II-m-B-10123,Casă Cioclov Viorel,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 73,prima jum. a sec. XX
 179,MH-II-m-B-10125,Casă Broşteanu Maria,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 76,prima jum. a sec. XX
 180,MH-II-m-B-10126,Casă Popescu Alexandru,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 81,prima jum. a sec. XX
-181,MH-II-m-B-10127,Casa Iulian Zaraf; Nica Florea,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Aurelian 90,1930
+181,MH-II-m-B-10127,Casa Iulian Zaraf; Nica Florea,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 90,1930
+182,MH-II-m-B-10128,Casă Udrea Gh.,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 91,1878
 183,MH-II-m-B-10129,Casă Groşanu Mircea,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 100,prima jum. a sec. XX
 184,MH-II-m-B-10130,Casa Sârboiu Gheorghe,municipiul DROBETA TURNU SEVERIN,Str. Aurelian 116,1879
 185,MH-II-m-B-10138,Sinagogă,municipiul DROBETA TURNU SEVERIN,"Str. Averescu Ion, mareşal 3",sf. sec. XIX
@@ -176,7 +192,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 191,MH-II-m-B-10136,Casă Grigore Olimpia Doina,municipiul DROBETA TURNU SEVERIN,"Str. Averescu Ion, mareşal 50",prima jum. a sec. XX
 192,MH-II-m-B-10137,Casă Beze Hermina,municipiul DROBETA TURNU SEVERIN,"Str. Averescu Ion, mareşal 103",prima jum. a sec. XX
 193,MH-II-m-B-10173,Casa Mihail Brătuianu,municipiul DROBETA TURNU SEVERIN,Str. Bărcăcilă Alexandru 13,1908
-194,MH-II-m-B-10139,"Casa Bibicescu, sediul Episcopiei Severinului şi Strehaiei Tudor”",municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Bibicescu I. Gh. 6,1927
+194,MH-II-m-B-10139,"Casa Bibicescu, sediul Episcopiei Severinului şi Strehaiei",municipiul DROBETA TURNU SEVERIN,Str. Bibicescu I. Gh. 6,1927
+195,MH-II-m-B-10208,"Grupul Şcolar ""Domnul Tudor”",municipiul DROBETA TURNU SEVERIN,Str. Brătianu I. C. 7,1921
 196,MH-II-m-B-10209,Casa Ciobanu Marinela,municipiul DROBETA TURNU SEVERIN,Str. Brătianu I. C. 14,înc. sec. XX
 197,MH-II-m-B-10140,Casă Badea Minodora şi Victor,municipiul DROBETA TURNU SEVERIN,Str. Cantemir Dimitrie 6,prima jum. a sec. XX
 198,MH-II-m-B-10151,Clubul Copiilor,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 24,1908
@@ -188,7 +205,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 204,MH-II-m-B-10157,Casa Daia Alexandru,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 37,prima jum. a sec. XX
 205,MH-II-m-B-10158,Casa Roşu Gheorghe,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 39,prima jum. a sec. XX
 206,MH-II-m-B-10159,Casă,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 53,prima jum. a sec. XX
-207,MH-II-m-B-10160,Casa Giuhat Aurica (fostă Măldărăscu),municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Bd. Carol I 57,1934
+207,MH-II-m-B-10160,Casa Giuhat Aurica (fostă Măldărăscu),municipiul DROBETA TURNU SEVERIN,Bd. Carol I 57,1934
+208,MH-II-m-B-10161,Casă,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 61,prima jum. a sec. XX
 209,MH-II-m-B-10162,Casa Popescu Grigore,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 67,prima jum. a sec. XX
 210,MH-II-m-B-10163,Policlinică cu plată,municipiul DROBETA TURNU SEVERIN,Bd. Carol I 71,prima jum. a sec. XX
 211,MH-II-m-B-10164,"Casă, sediul S.C.Ortoptimed",municipiul DROBETA TURNU SEVERIN,Bd. Carol I 73,prima jum. a sec. XIX
@@ -200,7 +218,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 217,MH-II-m-B-10144,Casa Ursulescu Valentin,municipiul DROBETA TURNU SEVERIN,Str. Carol I 8,sec. XIX
 218,MH-II-m-B-10145,Casa Buga Mihaela,municipiul DROBETA TURNU SEVERIN,Str. Carol I 12,1911
 219,MH-II-m-B-10146,Tribunalul judeţean,municipiul DROBETA TURNU SEVERIN,Str. Carol I 14,înc. sec. XX
-220,MH-II-m-B-10147,Centrul Hematologic Impozite,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Carol I 16,înc. sec. XX
+220,MH-II-m-B-10147,Centrul Hematologic,municipiul DROBETA TURNU SEVERIN,Str. Carol I 16,înc. sec. XX
+221,MH-II-m-B-10148,Direcţia de Taxe şi Impozite,municipiul DROBETA TURNU SEVERIN,Str. Carol I 17,înc. sec. XX
 222,MH-II-m-B-10149,"Casă, sediul PD-L",municipiul DROBETA TURNU SEVERIN,Str. Carol I 19,1894
 223,MH-II-m-B-10150,Casa de Ajutor Reciproc a pensionarilor,municipiul DROBETA TURNU SEVERIN,Str. Carol I 29,înc. sec. XX
 224,MH-II-m-B-10167,Clădire Poliade Ion şi Angela,municipiul DROBETA TURNU SEVERIN,Str. Carol I 111A,1898
@@ -212,7 +231,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 230,MH-II-m-B-10175,Casă,municipiul DROBETA TURNU SEVERIN,Str. Costescu T. 1,sf. sec. XIX
 231,MH-II-m-B-10176,Casă,municipiul DROBETA TURNU SEVERIN,Str. Costescu T. 3,1881
 232,MH-II-m-B-10177,Casă,municipiul DROBETA TURNU SEVERIN,Str. Costescu T. 5,sf. sec. XIX
-233,MH-II-m-B-10174,Casă,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Coşbuc George 3,prima jum. a sec. XX
+233,MH-II-m-B-10174,Casă,municipiul DROBETA TURNU SEVERIN,Str. Coşbuc George 3,prima jum. a sec. XX
+234,MH-II-m-B-10178,Casa Averescu,municipiul DROBETA TURNU SEVERIN,Str. Dealul Viilor 1,înc. sec. XX
 235,MH-II-a-A-10179,Ansamblul Grecescu,municipiul DROBETA TURNU SEVERIN,Str. Decebal 2,sec. XIX
 236,MH-II-m-A-10179.01,"Biserica ""Sf. Ioan Botezătorul”",municipiul DROBETA TURNU SEVERIN,Str. Decebal 2,1873
 237,MH-II-m-B-10180,Casa Galbenu Gh.,municipiul DROBETA TURNU SEVERIN,Str. Decebal 27,înc. sec. XX
@@ -224,7 +244,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 243,MH-II-m-A-10184.02,Ruina capelei,municipiul DROBETA TURNU SEVERIN,"Bd. Dunării, în parcul ""General Dragalina""",sec. XIII - XV
 244,MH-II-m-A-10184.03,Zid de incintă cu turnuri şi şanţ de apărare,municipiul DROBETA TURNU SEVERIN,"Bd. Dunării, în parcul ""General Dragalina""",sec. XIII - XV
 245,MH-II-m-B-10185,Casa Burdescu Andreina,municipiul DROBETA TURNU SEVERIN,Str. Eroii de la Cerna 4,1885
-246,MH-II-m-A-10179.02,Spitalul Grecescu de Fier,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Grecescu Dimitrie 1,sf. sec. XIX
+246,MH-II-m-A-10179.02,Spitalul Grecescu,municipiul DROBETA TURNU SEVERIN,Str. Grecescu Dimitrie 1,sf. sec. XIX
+247,MH-II-m-B-10187,Muzeul Regiunii Porţilor de Fier,municipiul DROBETA TURNU SEVERIN,Str. Independenţei 2,înc. sec. XX
 248,MH-II-m-B-10189,"Casa cu atlanţi, azi Casă de protocol a Prefecturii Drobeta Turnu Severin",municipiul DROBETA TURNU SEVERIN,Str. Kiseleff Pavel D. 5,înc. sec. XX
 249,MH-II-m-B-10190,Complex alimentar,municipiul DROBETA TURNU SEVERIN,Piaţa Mică,înc. sec. XX
 250,MH-II-m-B-10191,Casa Pais Tudor,municipiul DROBETA TURNU SEVERIN,Str. Odobleja Ştefan 66,prima jum. a sec. XX
@@ -235,7 +256,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 255,MH-II-m-B-10196,Casa Georgescu Ilie,municipiul DROBETA TURNU SEVERIN,Str. Odobleja Ştefan 86,prima jum. a sec. XX
 256,MH-II-m-B-10110,Hala Radu Negru,municipiul DROBETA TURNU SEVERIN,Str. Piaţa Decebal 1,1904
 257,MH-II-m-B-10197,Baia comunală azi Inspectoratul pentru Situaţii de Urgenţă,municipiul DROBETA TURNU SEVERIN,Str. Portului 2,înc. sec. XX
-258,MH-II-m-B-10199,"Şantier naval Portului, azi Autoritatea",municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Portului 4,sec. XIX
+258,MH-II-m-B-10199,Şantier naval,municipiul DROBETA TURNU SEVERIN,Str. Portului 4,sec. XIX
+259,MH-II-m-B-10198,"Fosta Administraţia Portului, azi Autoritatea Navală Română (NFR), Vama Portului, A.F.D.J.A.C.N.",municipiul DROBETA TURNU SEVERIN,"Str. Portului 3, 5, 9",sec. XIX
 260,MH-II-m-A-10200,Muzeul de Artă,municipiul DROBETA TURNU SEVERIN,Str. Rahovei 3,1890
 261,MH-II-m-B-10201,Şcoala Generală nr. 3,municipiul DROBETA TURNU SEVERIN,Str. Saidac Dr. 23,1900
 262,MH-II-m-B-10203,"Biserica ""Adormirea Maicii Domnului” (""Biserica Maioreasa"")",municipiul DROBETA TURNU SEVERIN,Str. Smârdan 2,1856
@@ -245,7 +267,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 266,MH-II-m-B-10207,Casa Chircu Marius,municipiul DROBETA TURNU SEVERIN,Str. Smârdan 20,1930
 267,MH-II-m-B-10210,Şcoala Generală nr. 1,municipiul DROBETA TURNU SEVERIN,Str. Traian 18,1884
 268,MH-II-m-B-10211,Internat Grup Şcolar Industrial Auto,municipiul DROBETA TURNU SEVERIN,Str. Traian 34,înc. sec. XX
-269,MH-II-m-B-10212,"Casa Moşneanu Adrian, azi Depozit veterinar",municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Traian 43,1910
+269,MH-II-m-B-10212,"Casa Moşneanu Adrian, azi Depozit veterinar",municipiul DROBETA TURNU SEVERIN,Str. Traian 43,1910
+270,MH-II-m-B-10213,Casa Ţandara Cristian,municipiul DROBETA TURNU SEVERIN,Str. Traian 50,prima jum. a sec. XX
 271,MH-II-m-B-10214,Casa Turlacu Aurel,municipiul DROBETA TURNU SEVERIN,Str. Traian 67,înc. sec. XX
 272,MH-II-m-B-10215,Casa Brâncuş Rozaria,municipiul DROBETA TURNU SEVERIN,Str. Traian 69,înc. sec. XX
 273,MH-II-m-B-10216,Casă de negustor,municipiul DROBETA TURNU SEVERIN,Str. Traian 78,înc. sec. XIX
@@ -257,7 +280,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 279,MH-II-m-B-10222,Casa Coica Cosmin,municipiul DROBETA TURNU SEVERIN,Str. Traian 129,sf. sec. XIX
 280,MH-II-m-B-10223,Casa Boştenaru Elisabeta Mihalaiche Isam,municipiul DROBETA TURNU SEVERIN,Str. Traian 141,înc. sec. XX
 281,MH-II-m-B-10224,Casa Marinescu Liviu,municipiul DROBETA TURNU SEVERIN,Str. Traian 173,prima jum. a sec. XX
-282,MH-II-m-B-10225,Casa Osman Ecaterina,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Str. Unirii 22,1900
+282,MH-II-m-B-10225,Casa Osman Ecaterina,municipiul DROBETA TURNU SEVERIN,Str. Unirii 22,1900
+283,MH-II-m-B-10226,Casa Coravu Violeta,municipiul DROBETA TURNU SEVERIN,Str. Unirii 58,prima jum. a sec. XX
 284,MH-II-m-B-10227,Casa Popescu Marieta,municipiul DROBETA TURNU SEVERIN,Str. Unirii 77,1890
 285,MH-II-m-B-10228,Casa Almăjeanu Aurora,municipiul DROBETA TURNU SEVERIN,Str. Unirii 78,1910
 286,MH-II-m-B-10229,Casa Buşoi Emanuela,municipiul DROBETA TURNU SEVERIN,Str. Unirii 89,prima jum. a sec. XX
@@ -269,7 +293,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 292,MH-II-m-B-10235,Casa Mucioniu Florentin,municipiul DROBETA TURNU SEVERIN,Str. Vasilescu Matei 18C,prima jum. a sec. XX
 293,MH-II-m-B-10237,Casa Dobrescu Maresi Mihai,municipiul DROBETA TURNU SEVERIN,Str. Vasilescu Matei 22,prima jum. a sec. XX
 294,MH-II-m-B-10236,Casa Licră Aneta,municipiul DROBETA TURNU SEVERIN,Str. Vasilescu Matei 49,prima jum. a sec. XX
-295,MH-II-m-B-10238,"Casa Balu, Tatucu Sever",municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Bd. Vladimirescu Tudor 73,1930
+295,MH-II-m-B-10238,"Casa Balu, Tatucu Sever",municipiul DROBETA TURNU SEVERIN,Bd. Vladimirescu Tudor 73,1930
+296,MH-II-m-B-10239,Casa Pleniceanu Dan,municipiul DROBETA TURNU SEVERIN,Bd. Vladimirescu Tudor 77,prima jum. a sec. XX
 297,MH-II-m-B-10240,Casa Ghiculescu Nicoletti,municipiul DROBETA TURNU SEVERIN,Bd. Vladimirescu Tudor 79,prima jum. a sec. XX
 298,MH-II-m-B-10241,Casa Taflan Margareta,municipiul DROBETA TURNU SEVERIN,Bd. Vladimirescu Tudor 89,prima jum. a sec. XX
 299,MH-II-m-B-10242,Banca Pireus,municipiul DROBETA TURNU SEVERIN,Bd. Vladimirescu Tudor 101,prima jum. a sec. XX
@@ -281,7 +306,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 305,MH-II-m-B-10248,Casa Maria Ghiţă,sat BAHNA; comuna ILOVIŢA,Str. Principală 130,1880
 306,MH-II-a-A-10249,Mănăstirea Baia de Aramă,oraş BAIA DE ARAMĂ,"În centrul oraşului, lângă piaţă",1699 - 1703
 307,MH-II-m-A-10249.01,"Biserica ""Sf. Voievozi”",oraş BAIA DE ARAMĂ,"În centrul oraşului, lângă piaţă",1699 - 1703
-308,MH-II-m-A-10249.02,Chilii,oraş BAIA DE ARAMĂ ARAMĂ,"În centrul oraşului, lângă piaţă",1699 - 1703
+308,MH-II-m-A-10249.02,Chilii,oraş BAIA DE ARAMĂ,"În centrul oraşului, lângă piaţă",1699 - 1703
+309,MH-II-m-A-10249.03,Zid de incintă,oraş BAIA DE ARAMĂ,"În centrul oraşului, lângă piaţă",1699 - 1703
 310,MH-II-m-B-10250,Casa Vasilescu,oraş BAIA DE ARAMĂ,Str. Minelor 54,sf. sec. XIX
 311,MH-II-m-B-10251,Casă,oraş BAIA DE ARAMĂ,Str. Republicii 3,1901
 312,MH-II-m-B-10252,Casă,oraş BAIA DE ARAMĂ,Str. Republicii 5,1901
@@ -293,7 +319,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 318,MH-II-m-B-10258,Casa de lemn Maria Sitaru,sat BALTA; comuna BALTA,,1910
 319,MH-II-a-B-10259,Ansamblu rural Balta,sat BALTA; comuna BALTA,,sec. XVIII - XIX
 320,MH-II-m-B-10261,Casa de lemn Ion Stănchescu,sat BALTA; comuna BALTA,67,
-321,MH-II-m-B-10260,Casa Ion Nicolescu,sat BALTA; comuna BALTA comuna BĂLĂCIŢA,68,1890
+321,MH-II-m-B-10260,Casa Ion Nicolescu,sat BALTA; comuna BALTA,68,1890
+322,MH-II-m-B-10262,"Biserica ""Sf. Împăraţi”",sat BĂLĂCIŢA; comuna BĂLĂCIŢA,"17, în centrul satului",1898
 323,MH-II-m-B-10263,Casa de lemn Ion Bora,sat BÂRLOGENI; comuna STÂNGĂCEAUA,142,1910
 324,MH-II-m-B-10264,Casa de lemn Ion Grecescu,sat BÂRLOGENI; comuna STÂNGĂCEAUA,238,1890
 325,MH-II-m-B-10265,Casa de lemn Ştefan Proorocu,sat BÂRLOGENI; comuna STÂNGĂCEAUA,239,1840
@@ -302,7 +329,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 328,MH-II-m-B-10268,"Biserica ""Sf. Voievozi”",sat BRANIŞTEA; comuna BRANIŞTEA,În centrul satului,"1807, 1884, 1960, reparată în 1884 şi 1960"
 329,MH-II-m-B-10269,"Biserica de lemn ""Sf. Apostoli”",sat aparţinător BREBINA; oraş BAIA DE ARAMĂ,În cimitir,"1757, ref. 1835"
 330,MH-II-m-B-10270,Casa Petre Tomescu,sat BREZNIŢA-OCOL; comuna BREZNIŢA- OCOL,Str. Principală,1800
-331,MH-II-m-A-10271,"Biserica ""Sf. Împăraţi” a fostei mănăstiri a Cuţuieştilor",sat BROŞTENI; comuna BROŞTENI comuna BROŞTENI,"La intrarea în sat, la 300 m de culă",1836
+331,MH-II-m-A-10271,"Biserica ""Sf. Împăraţi” a fostei mănăstiri a Cuţuieştilor",sat BROŞTENI; comuna BROŞTENI,"La intrarea în sat, la 300 m de culă",1836
+332,MH-II-m-A-10272,Cula Cuţui,sat BROŞTENI; comuna BROŞTENI,"La marginea satului, spre Motru",1815
 333,MH-II-m-B-10273,"Biserica ""Cuvioasa Paraschiva”",sat BUICEŞTI; comuna BUTOIEŞTI,În centrul satului,1892
 334,MH-II-m-B-10275,Casa de lemn Andrei Dumitru,sat BUNOAICA; comuna CIREŞU,94,1850
 335,MH-II-m-B-10276,Casa de lemn Gheorghe Epuran,sat BUNOAICA; comuna CIREŞU,102,1870
@@ -313,7 +341,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 340,MH-II-m-B-10280,"Biserica ""Sf. Voievozi”",sat CEARÂNGU; comuna PUNGHINA,În centrul satului,1882
 341, MH-II-m-B-10281," Biserica ""Sf. Nicolae”", sat CERNAIA; comuna CORCOVA, În centrul satului," 1808 - 1835, pictură 1843"
 342,MH-II-m-B-10282,Casa de lemn Aurora Căpăţână,sat CERNEŢI; comuna ŞIMIAN,În incinta culei Tudor Vladimirescu (muzeu),1912
-343,MH-II-a-A-10283,Fosta mănăstire Cerneţi,sat CERNEŢI; comuna ŞIMIAN comuna ŞIMIAN,În centrul satului,1662
+343,MH-II-a-A-10283,Fosta mănăstire Cerneţi,sat CERNEŢI; comuna ŞIMIAN,În centrul satului,1662
+344,MH-II-m-A-10283.01,"Biserica ""Sf. Treime”",sat CERNEŢI; comuna ŞIMIAN,În centrul satului,"1662, transf. 1784 - 1794"
 345,MH-II-m-A-10283.02,Zid de incintă,sat CERNEŢI; comuna ŞIMIAN,În centrul satului,1662
 346,MH-II-a-A-10284,"Ansamblul bisericii ""Sf. Nicolae""",sat CERNEŢI; comuna ŞIMIAN,În centrul satului,1784 - 1794
 347,MH-II-m-A-10284.01,"Biserica ""Sf. Nicolae”",sat CERNEŢI; comuna ŞIMIAN,În centrul satului,1784 - 1794
@@ -324,7 +353,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 352,MH-II-m-B-10288,Cula Nistor,sat CERNEŢI; comuna ŞIMIAN,"""Dealul Gârdanului”, în fostul sat înglobat Piatra Albă",1812
 353,MH-II-m-B-10289,Şcoala veche,sat CERNEŢI; comuna ŞIMIAN,"În incinta bisericii ""Sf. Nicolae""",sec. XVIII
 354,MH-II-m-B-10290,"Biserica ""Înălţarea Domnului"" şi ""Intrarea în Biserică”",sat CIOVÂRNĂŞANI; comuna ŞIŞEŞTI,În centrul satului,1837
-355,MH-II-m-B-10291,Casa de lemn Drăgolici Nae,sat CIOVÂRNĂŞANI; comuna ŞIŞEŞTI comuna ŞIŞEŞTI,,1890
+355,MH-II-m-B-10291,Casa de lemn Drăgolici Nae,sat CIOVÂRNĂŞANI; comuna ŞIŞEŞTI,,1890
+356,MH-II-m-B-10292,Cârciumă,sat CIOVÂRNĂŞANI; comuna ŞIŞEŞTI,,1938
 357,MH-II-m-B-10293,Casa de lemn Petolea Paraschiva,sat CIREŞU; comuna CIREŞU,176,1900
 358,MH-II-m-B-10294,Casa de lemn Ion Bădinoiu,sat COLIBAŞI; comuna MALOVĂŢ,,1886
 359,MH-II-m-B-10295,Moara,sat COLIBAŞI; comuna MALOVĂŢ,Pe malul râului Plesuva,1900
@@ -335,7 +365,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 364,MH-II-m-B-10299.02,Zid de incintă,sat CORCOVA; comuna CORCOVA,În centrul satului,1752
 365, MH-II-m-B-10300, Conacul Anton Bibescu, sat CORCOVA; comuna CORCOVA, Sediul fostei Primării, sec. XIX
 366,MH-II-a-B-10299,"Ansamblul bisericii ""Sf. Voievozi""",sat CORCOVA; comuna CORCOVA,"292, în centrul satului",1752
-367,MH-II-m-B-10301,"Biserica ""Sf. Nicolae”, ""Pogorârea Sf. Duh” rurală ""Costeşti""",sat CORLĂŢEL; comuna CORLĂŢEL comuna BALTA,În centrul satului,1837
+367,MH-II-m-B-10301,"Biserica ""Sf. Nicolae”, ""Pogorârea Sf. Duh”",sat CORLĂŢEL; comuna CORLĂŢEL,În centrul satului,1837
+368,MH-II-a-B-10304,"Ansamblul de arhitectură rurală ""Costeşti""",sat COSTEŞTI; comuna BALTA,,sec. XIX
 369,MH-II-m-A-10303,"Biserica de lemn ""Sf. Nicolae”",sat COSTEŞTI; comuna BALTA,"4, în centrul satului",1835
 370,MH-II-m-B-10302,"Biserica ""Adormirea Maicii Domnului”",sat COŞOVĂŢ; comuna BREZNIŢA- MOTRU,În centrul satului,1845
 371,MH-II-m-B-10305,"Biserica ""Sf. Nicolae”",sat COTOROAIA; comuna VOLOIAC,În centrul satului,1888
@@ -347,7 +378,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 377,MH-II-m-B-10311,Casa Gh. I. Buzatu,sat DĂNCEU; comuna JIANA,105,1920
 378,MH-II-m-B-10312,Casa Ion Rogoveanu,sat DĂNCEU; comuna JIANA,280,1898
 379,MH-II-m-B-10313,Casa Polina Nicolescu,sat DÂLBOCIŢA; comuna ILOVĂŢ,,1900
-380,MH-II-m-B-10315,"Moara cu cat rurală ""Dâlbociţa""",sat DÂLBOCIŢA; comuna ILOVĂŢ comuna ILOVĂŢ, Cosuşte,1912
+380,MH-II-m-B-10315,Moara cu cat,sat DÂLBOCIŢA; comuna ILOVĂŢ,,1912
+381,MH-II-a-B-10316,"Ansamblul de arhitectură rurală ""Dâlbociţa""",sat DÂLBOCIŢA; comuna ILOVĂŢ,Zona de pe malul stâng al râului Cosuşte,sec. XVII - XIX
 382,MH-II-m-B-10314,Casa Elena Vreja,sat DÂLBOCIŢA; comuna ILOVĂŢ,575,1880
 383,MH-II-m-B-10318,"Biserica ""Sf. Nicolae”",sat DELENI; comuna BREZNIŢA-MOTRU,În centrul satului,1895
 384,MH-II-m-B-10319,"Biserica ""Sf. Nicolae”",sat DOBRA; comuna BĂLĂCIŢA,În centrul satului,1872
@@ -358,7 +390,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 389,MH-II-m-B-10325,"Biserica de lemn ""Sf. Calinic”",sat FÂNTÂNA DOMNEASCĂ; comuna PRUNIŞOR,La intrarea în sat,sec. XIX
 390, MH-II-m-B-10326, Casa de lemn Grosu Aurelian, sat FÂNTÂNA DOMNEASCĂ; comuna PRUNIŞOR, 164, 1920
 391,MH-II-m-B-10327,Casa de lemn Ioana Cârstoc,sat FIRIZU; comuna ILOVĂŢ,,1897
-392,MH-II-m-B-10328,Moară cu butoi,sat FIRIZU; comuna ILOVĂŢ comuna PONOARELE,"În centrul satului, pe malul râului Coşuştea",1906
+392,MH-II-m-B-10328,Moară cu butoi,sat FIRIZU; comuna ILOVĂŢ,"În centrul satului, pe malul râului Coşuştea",1906
+393,MH-II-m-B-10329,"Biserica ""Sf. Treime”",sat GĂRDĂNEASA; comuna PONOARELE,În centrul satului,1887
 394,MH-II-m-B-10330,"Biserica de lemn ""Sf. Toma”",sat GÂRBOVĂŢU DE SUS; comuna CĂZĂNEŞTI,În centrul satului,1740
 395,MH-II-m-B-10331,"Biserica ""Pogorârea Sf. Duh”",sat GÂRLA MARE; comuna GÂRLA MARE,În centrul satului,1838
 396,MH-II-m-B-10332,"Biserica de lemn ""Sf. Voievozi”",sat GODEANU; comuna GODEANU,"70, în centrul satului",1783 - 1786
@@ -369,7 +402,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 401,MH-II-m-B-10338,Casa Maria Neamţu,sat GROZEŞTI; comuna GROZEŞTI,Principală 16,1915
 402, MH-II-m-B-10337, Casa de lemn Dumitru Mardare, sat GROZEŞTI; comuna GROZEŞTI, Principală 114, 1920
 403,MH-II-m-B-10339,"Biserica de lemn şi zid ""Adormirea Maicii Domnului”",sat GRUIA; comuna GRUIA,În centrul satului,1834 - 1837
-404,MH-II-a-A-10340,Mănăstirea Gura Motrului,sat GURA MOTRULUI; comuna,,"sec. XVI, ref. 1653 şi modif. 1841 - 1852"
+404,MH-II-a-A-10340,Mănăstirea Gura Motrului,sat GURA MOTRULUI; comuna BUTOIEŞTI,,"sec. XVI, ref. 1653 şi modif. 1841 - 1852"
 405,MH-II-m-A-10340.01,"Biserica ""Cuvioasa Paraschiva”",sat GURA MOTRULUI; comuna BUTOIEŞTI,,"1653, ref. 1841 - 1852"
 406,MH-II-m-A-10340.02,Stăreţie,sat GURA MOTRULUI; comuna BUTOIEŞTI,,1652 - 1653
 407,MH-II-m-A-10340.03,Corp chilii,sat GURA MOTRULUI; comuna BUTOIEŞTI,,"sec. XVII, XX"
@@ -378,7 +411,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 410,MH-II-m-B-10341,"Biserica ""Sf. Apostoli”",sat GUTU; comuna PRUNIŞOR,La intrarea în sat,1863
 411,MH-II-m-B-10342,"Biserica ""Sf. Nicolae”",sat GVARDINIŢA; comuna BĂLĂCIŢA,"33, în centrul satului",1804
 412,MH-II-m-B-10343,"Biserica ""Sf. Mucenic Gheorghe”",sat HINOVA; comuna HINOVA,În centrul satului,1892 - 1894
-413,MH-II-m-B-10402,"Biserica de lemn ""Sf. Voievozi”",sat HUSNICIOARA; comuna HUSNICIOARA ILOVĂŢ,În centrul satului,1785
+413,MH-II-m-B-10402,"Biserica de lemn ""Sf. Voievozi”",sat HUSNICIOARA; comuna HUSNICIOARA,În centrul satului,1785
+414,MH-II-m-B-10344,"Biserica ""Sf. Nicolae”",sat ILOVĂŢ; comuna ILOVĂŢ,În centrul satului,1846 - 1847
 415,MH-II-m-B-10345,Casa Radu Bărbacioru,sat ILOVĂŢ; comuna ILOVĂŢ,297,sec. XIX
 416,MH-II-m-B-10346,Casa de lemn Lungu Ghiţă,sat ILOVIŢA; comuna ILOVIŢA,422,1880
 417,MH-II-m-B-10347,"Biserica de lemn ""Sf. Voievozi”",sat ILOVU; comuna CĂZĂNEŞTI,În centrul satului,"1750, ref. în 1890"
@@ -388,7 +422,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 421,MH-II-m-B-10351,Casa Nicolae Moşurlea,sat IZVORU BÂRZII; comuna IZVORU BÂRZII,Cartierul Pătulani,1890
 422,MH-II-m-B-10352,Moară cu două ciuturi,sat JIDOŞTIŢA; comuna BREZNIŢA- OCOL,,1925
 423,MH-II-m-B-10353,Casa Ilie Ungureanu,sat JIDOŞTIŢA; comuna BREZNIŢA- OCOL,Str. Principală,1908
-424,MH-II-m-B-10355,Pivniţă,sat JIROV; comuna CORCOVA CORCOVA,24,sec. XX
+424,MH-II-m-B-10355,Pivniţă,sat JIROV; comuna CORCOVA,24,sec. XX
+425,MH-II-m-B-10356,Casa Ion Boiangiu,sat JIROV; comuna CORCOVA,206,1889
 426,MH-II-m-B-10354,"Biserica ""Sf. Nicolae”, ""Pogorârea Sf. Duh”",sat JIROV; comuna CORCOVA,"313, în centrul satului",1837
 427,MH-II-m-B-10357,Pivniţă,sat JIROV; comuna CORCOVA,397,sec. XIX
 428,MH-II-m-B-10358,Casa de lemn Popescu,sat JUPÂNEŞTI; comuna CIREŞU,56,1940
@@ -399,7 +434,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 433,MH-II-m-B-10362,Casa Paraschiva Dârpeş,sat MALARIŞCA; comuna PODENI,11,1917
 434,MH-II-m-B-10364,"Biserica de lemn ""Sf. Nicolae”",sat MERIŞ; comuna BROŞTENI,În centrul satului,1795; ref. 1878
 435,MH-II-m-A-10365,"Biserica de lemn ""Sf. Dumitru”",sat aparţinător NEGOEŞTI; oraş BAIA DE ARAMĂ,În centrul satului,sf. sec. XVIII
-436,MH-II-m-B-10366,"Biserica ""Sf. Nicolae” Pleşa",sat OBÂRŞIA DE CÂMP; comuna OBÂRŞIA DE CÂMP CÂMP; comuna,În centrul satului,"1802, ref. în 1853, 1913, 1956"
+436,MH-II-m-B-10366,"Biserica ""Sf. Nicolae”",sat OBÂRŞIA DE CÂMP; comuna OBÂRŞIA DE CÂMP,În centrul satului,"1802, ref. în 1853, 1913, 1956"
+437,MH-II-m-A-10367,Palatul neoclasic Gh. Pleşa,sat OBÂRŞIA DE CÂMP; comuna OBÂRŞIA DE CÂMP,În centrul satului,1892
 438,MH-II-m-B-10368,Casa N. Ion Lungulescu,sat OBÂRŞIA- CLOŞANI; comuna OBÂRŞIA-CLOŞANI,,1887
 439,MH-II-m-B-10369,"Biserica ""Sf. Nicolae”",sat OPRIŞOR; comuna OPRIŞOR,În centrul satului,1890
 440,MH-II-m-B-10370,"Biserica ""Sf. Nicolae”",oraş ORŞOVA,,1746
@@ -409,7 +445,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 444,MH-II-m-B-10374,"Biserica de lemn ""Sf. Dimitrie”",sat PĂUNEŞTI; comuna GODEANU,În centrul satului,"1835, rep. 1884"
 445,MH-II-m-B-10375,"Biserica de lemn ""Intrarea Maicii Domnului în Biserică”",sat PEŞTENUŢA; comuna FLOREŞTI,"23, în cimitir","1777, ref. 1820"
 446,MH-II-m-B-10376,"Biserica ""Adormirea Maicii Domnului”",sat aparţinător PISTRIŢA; oraş BAIA DE ARAMĂ,În cimitir,1819
-447,MH-II-m-B-10377,"Biserica ""Sf. Ilie” Domnului”",sat PODENI; comuna PODENI CĂZĂNEŞTI,În centrul satului,1859
+447,MH-II-m-B-10377,"Biserica ""Sf. Ilie”",sat PODENI; comuna PODENI,În centrul satului,1859
+448,MH-II-m-B-10378,"Biserica ""Naşterea Maicii Domnului”",sat POIANA; comuna CĂZĂNEŞTI,În centrul satului,1836
 449,MH-II-m-B-10379,"Biserica de lemn ""Sf. Nicolae”",sat PONOARELE; comuna PONOARELE,,1766
 450,MH-II-m-A-10380,Moara Crăcucenilor (moară de lemn cu ciutură),sat PONOARELE; comuna PONOARELE,Pe valea râului Ponoarele,sec. XIX
 451,MH-II-m-B-10381,"Biserica ""Sf. Apostoli”",sat POROINA; comuna ŞIMIAN,În centrul satului,1815 - 1841
@@ -420,7 +457,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 456,MH-II-m-B-10386,"Biserica ""Sf. Nicolae”",sat PRISTOL; comuna PRISTOL,În centrul satului,ante 1892
 457,MH-II-m-B-10387,"Biserica de lemn ""Sf. Îngeri”",sat PROIETEŞTI; comuna PONOARELE,În centrul satului,1792
 458,MH-II-m-B-10388,"Biserica ""Sf. Nicolae”",sat PRUNIŞOR; comuna PRUNIŞOR,În centrul satului,1842 - 1889
-459,MH-II-m-B-10389,"Biserica de lemn ""Sf. Nicolae”",sat RACOVA; comuna ILOVĂŢ comuna ILOVĂŢ,În centrul satului,1876
+459,MH-II-m-B-10389,"Biserica de lemn ""Sf. Nicolae”",sat RACOVA; comuna ILOVĂŢ,În centrul satului,1876
+460,MH-II-m-B-10390,"Biserica ""Sf. Nicolae”",sat RACOVA; comuna ILOVĂŢ,,prima jum. sec. XIX
 461,MH-II-m-B-10391,"Biserica ""Intrarea Maicii Domnului în Biserică”",sat ROCŞORENI; comuna DUMBRAVA,În centrul satului,"1787, ref. 1892"
 462,MH-II-m-B-10392,"Biserica ""Sf. Nicolae”",sat ROGOVA; comuna ROGOVA,Cartier Mahalaua de Sus,1832
 463,MH-II-m-B-10393,"Biserica de lemn ""Sf. Gheorghe”",sat RUNCUŞOR; comuna BALA,"În fostul sat înglobat Rudina, în mijlocul satului, în cimitir","1834, ref. 1895"
@@ -430,13 +468,15 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 467,MH-II-m-B-10397,"Biserica de lemn ""Naşterea Domnului”",sat SĂLĂTRUC; comuna GRECI,În cimitir,"1704, ref. din zid 1864"
 468,MH-II-m-B-10398,Moară,sat SCHITU DE JOS; comuna IZVORU BÂRZII,,1860
 469,MH-II-m-B-10399,Ruina casei de lemn Maria Moacă,sat SCHITU DE SUS; comuna IZVORU BÂRZII,63,1860
-470,MH-II-a-A-10400,"Mănăstirea ""Schitul Topolniţa"" Sf. Ioan Botezătorul”",sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII TOPOLNIŢEI;,La capătul satului,1600 - 1611 sec. XVI
+470,MH-II-a-A-10400,"Mănăstirea ""Schitul Topolniţa""",sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,1600 - 1611
+471,MH-II-m-A-10400.01,"Biserica ""Tăierea Capului Sf. Ioan Botezătorul”",sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,"1645 - 1646, pe ruine de sec. XVI"
 472,MH-II-m-A-10400.02,Stăreţie,sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,"sec. XVII, cu modif. ulterioare"
 473,MH-II-m-A-10400.03,Arhondaric,sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,sec. XVII
 474,MH-II-m-A-10400.04,Chilii,sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,sec. XVII
 475,MH-II-m-A-10400.05,Turn clopotniţă,sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,sec. XVII
 476,MH-II-m-A-10400.06,Zid de incintă,sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,La capătul satului,sec. XVII
-477,MH-II-m-A-10400.07,"Biserica de lemn ""Sf. Împăraţi Constantin şi Elena"" Voievozi”",sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII comuna ISVERNA,,1832
+477,MH-II-m-A-10400.07,"Biserica de lemn ""Sf. Împăraţi Constantin şi Elena""",sat SCHITU TOPOLNIŢEI; comuna IZVORU BÂRZII,,1832
+478,MH-II-m-B-10401,"Biserica de lemn ""Sf. Voievozi”",sat SELIŞTEA; comuna ISVERNA,În centrul satului,"1763, ref. 1820"
 479,MH-II-m-B-10403,"Biserica de lemn ""Sf. Arhangheli”",sat SFODEA; comuna BALTA,În centrul satului,1853 - 1854
 480,MH-II-m-B-10404,Casa Ion Chircu,sat SPERLEŞTI; comuna VOLOIAC,,1910
 481,MH-II-m-B-10405,"Biserica ""Adormirea Maicii Domnului”",sat STÂNGĂCEAUA; comuna STÂNGĂCEAUA,În centrul satului,1869
@@ -448,7 +488,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 487,MH-II-a-B-10407,Ansamblu de arhitectură urbană,oraş STREHAIA,Zona din sudul mănăstirii Strehaia,sec. XIX
 488,MH-II-m-B-10408,Casă,oraş STREHAIA,Str. Cuza Vodă 29,sec. XIX
 489,MH-II-m-B-10409,Fostul han,oraş STREHAIA,Str. Unirii 15,înc. sec. XX
-490,MH-II-a-A-10411,Complexul arhitectonic Ada- Kaleh,sat ŞIMIAN; comuna ŞIMIAN ŞIMIAN,Pe insula Şimian,sec. XVIII
+490,MH-II-a-A-10411,Complexul arhitectonic Ada- Kaleh,sat ŞIMIAN; comuna ŞIMIAN,Pe insula Şimian,sec. XVIII
+491,MH-II-m-A-10411.01,Cetatea bastionară,sat ŞIMIAN; comuna ŞIMIAN,Pe insula Şimian,sec. XVIII
 492,MH-II-m-B-10413,"Biserica ""Sf. Grigore Decapolitul”",sat ŞIŞEŞTI; comuna ŞIŞEŞTI,În centrul satului,1835
 493,MH-II-m-B-10414,Casa de lemn Eugenia Tudor,sat ŞIŞEŞTI; comuna ŞIŞEŞTI,85,1900
 494,MH-II-a-B-10415,Casa cu pivniţă Ghiţă Brehui,sat ŞIŞEŞTI; comuna ŞIŞEŞTI,135,1880
@@ -460,7 +501,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 500,MH-II-m-B-10418,"Biserica ""Sf. Nicolae”",sat ŞOVARNA DE JOS; comuna ŞOVARNA,În centrul satului,1891
 501,MH-II-m-B-10419,Moară de lemn,sat ŞUŞIŢA; comuna GROZEŞTI,,1912
 502,MH-II-m-B-10420,Casa Popescu Gheorghe,sat ŞUŞIŢA; comuna GROZEŞTI,,1832
-503,MH-II-m-B-10421,"Biserica de lemn ""Sf. Nicolae”",sat ŞUŞIŢA; comuna GROZEŞTI ŞVINIŢA,În centrul satului,1704
+503,MH-II-m-B-10421,"Biserica de lemn ""Sf. Nicolae”",sat ŞUŞIŢA; comuna GROZEŞTI,În centrul satului,1704
+504,MH-II-m-A-10410,Ruinele cetăţii Tri-Kule,sat ŞVINIŢA; comuna ŞVINIŢA,Pe clisura Dunării,1429
 505,MH-II-m-B-10422,"Biserica ""Sf. Nicolae”",sat TÂMNA; comuna TÂMNA,Lângă fosta primărie,1808
 506,MH-II-m-B-10423,Casa Ţânţaru Dina,sat TISMANA; comuna DEVESEL,57,1906
 507,MH-II-m-B-10424,"Biserica ""Sf. Voievozi”",sat aparţinător TITERLEŞTI; oraş BAIA DE ARAMĂ,În centrul satului,1862 - 1863
@@ -472,7 +514,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 513,MH-II-m-B-10429,Casa de lemn Vasile Păunescu,sat TURTABA; comuna ISVERNA,68,sec. XIX
 514,MH-II-m-B-10430,"Biserica ""Sf. Nicolae”",sat ŢÂNŢARU; comuna BUTOIEŞTI,În centrul satului,"1784, ref. 1846"
 515,MH-II-m-B-10431,"Biserica de lemn ""Sf. Voievozi”",sat VALEA BUNĂ; comuna VOLOIAC,În centrul satului,1818
-516,MH-II-m-B-10432,Casa Ion Nica Turcu,sat VALEA BUNĂ; comuna VOLOIAC comuna VOLOIAC,În centrul satului,1900
+516,MH-II-m-B-10432,Casa Ion Nica,sat VALEA BUNĂ; comuna VOLOIAC,În centrul satului,1900
+517,MH-II-m-B-10433,Casa de lemn Vasile Turcu,sat VALEA BUNĂ; comuna VOLOIAC,În centrul satului,1901
 518,MH-II-m-B-10434,"Biserica de lemn ""Sf. Nicolae”",sat VALEA COŞUŞTEI; comuna CĂZĂNEŞTI,În fostul sat înglobat Valea Rea - în centrul satului,1764
 519,MH-II-m-B-10435,"Biserica de lemn ""Sf. Gheorghe”",sat VALEA URSULUI; comuna TÂMNA,,1776
 520,MH-II-m-B-10436,"Biserica de lemn ""Sf. Mihail şi Gavril”",sat VÂNĂTORI; comuna VÂNĂTORI,În cimitir,1884
@@ -480,7 +523,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 522,MH-II-m-A-10437.01,Ruina bisericii,localitatea VÂRCIOROVA; municipiul DROBETA-TURNU SEVERIN,Pe Valea Vodiţei,"1370 - 1375, ref. cca. 1500, 1689"
 523,MH-II-m-A-10437.02,Ruinele clădirilor - anexe,localitatea VÂRCIOROVA; municipiul DROBETA-TURNU SEVERIN,Pe Valea Vodiţei,1370 - 1375
 524,MH-II-m-B-10438,"Biserica ""Sf. Petru şi Pavel”",sat VIAŞU; comuna PĂTULELE,În centrul satului,1835
-525,MH-II-m-B-10439,"Biserica de lemn ""Sf. Nicolae”",sat VIDIMIREŞTI; comuna BALA comuna VLĂDAIA,În centrul satului,1895
+525,MH-II-m-B-10439,"Biserica de lemn ""Sf. Nicolae”",sat VIDIMIREŞTI; comuna BALA,În centrul satului,1895
+526,MH-II-m-B-10440,"Biserica ""Sf. Nicolae”",sat VLĂDAIA; comuna VLĂDAIA,În centrul satului,1859
 527,MH-II-m-B-10441,"Biserica ""Înălţarea Domnului”",sat VOLOIAC; comuna VOLOIAC,În centrul satului,1808
 528,MH-II-m-B-10442,Casa Dumitru Turcu,sat VOLOIAC; comuna VOLOIAC,,1870
 529,MH-II-m-B-10443,Casa Dumitru Hârşovoiu,sat VOLOIAC; comuna VOLOIAC,,1870
@@ -491,7 +535,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 534,MH-III-m-B-10446,Bustul lui Decebal,municipiul DROBETA TURNU SEVERIN,În Parcul Central,
 535,MH-III-m-B-10447,Monumentul împăratului Traian,municipiul DROBETA TURNU SEVERIN,În Parcul Central,1906
 536,MH-III-m-B-10448,Monumentul eroilor din primul război mondial,municipiul DROBETA TURNU SEVERIN,"Bd. Carol I, în Parcul Rozelor",1933
-537,MH-III-m-B-10449,Bustul prof. I. Şt. Paulian Damasc,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,"Str. Crişan, în faţa Liceului de Artă „I. Şt. Paulian"" Muzeului Regiunii Porţilor de Fier",1932 - 1946
+537,MH-III-m-B-10449,Bustul prof. I. Şt. Paulian,municipiul DROBETA TURNU SEVERIN,"Str. Crişan, în faţa Liceului de Artă „I. Şt. Paulian""",1932 - 1946
+538,MH-III-m-B-10450,Bustul lui Apolodor din Damasc,municipiul DROBETA TURNU SEVERIN,"Str. Independenţei 2, în curtea Muzeului Regiunii Porţilor de Fier",
 539,MH-III-m-B-10451,Statuia lui Teodor Costescu,municipiul DROBETA TURNU SEVERIN,"Str. Republicii 6, în curtea Colegiului Naţional Traian",
 540,MH-III-m-B-10452,Monumentul lui Mihai Eminescu,municipiul DROBETA TURNU SEVERIN,"Str. Republicii 6, în curtea Colegiului Naţional Traian",
 541,MH-III-m-A-10249.04,Fântână,oraş BAIA DE ARAMĂ,"În centrul oraşului, lângă piaţă",1699 - 1703
@@ -502,7 +547,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 546,MH-IV-m-B-10457,Monumentul lui Alexandru Bărcăcilă,municipiul DROBETA TURNU SEVERIN,Cimitirul ortodox,
 547,MH-IV-m-B-10458,Bustul lui Al. Burileanu,municipiul DROBETA TURNU SEVERIN,Cimitirul ortodox,1889
 548,MH-IV-m-B-10459,Cimitirul comemorativ pentru ostaşii români căzuţi în războaiele balcanice (1912-1913),municipiul DROBETA TURNU SEVERIN,,
-549,MH-IV-m-B-10460,Monumentul lui Ştefan Odobleja şi A. Sârbulescu,municipiul DROBETA TURNU SEVERIN TURNU SEVERIN,Cimitirul ortodox,
+549,MH-IV-m-B-10460,Monumentul lui Ştefan Odobleja,municipiul DROBETA TURNU SEVERIN,Cimitirul ortodox,
+550,MH-IV-m-B-10461,Mormântul lui C. Sorescu şi A. Sârbulescu,municipiul DROBETA TURNU SEVERIN,Cimitirul ortodox,1941
 551,MH-IV-m-B-10462,Troiţă de piatră,municipiul DROBETA TURNU SEVERIN,Cimitirul ortodox,1916 - 1918
 552,MH-IV-m-A-10463,Casa sculptorului Gheorghe Anghel,municipiul DROBETA TURNU SEVERIN,Str. Calomfirescu 155,1895
 553,MH-IV-m-B-10464,Monumentul Aristiţei Burileanu,municipiul DROBETA TURNU SEVERIN,"Calea Târgu Jiu, Cimitirul ortodox",
@@ -514,7 +560,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 559,MH-IV-m-B-10468,Troiţă de lemn,sat GODEANU; comuna GODEANU,La intrarea în sat,
 560,MH-IV-m-B-10469,Cruce de piatră,sat IZVORU BÂRZII; comuna IZVORU BÂRZII,În curtea bisericii,1873
 561,MH-IV-m-B-10470,Troiţă de lemn,sat MARGA; comuna GODEANU,,
-562,MH-IV-m-B-10471,Cimitir,sat NOAPTEŞA; comuna ŞIŞEŞTI comuna OPRIŞOR,,
+562,MH-IV-m-B-10471,Cimitir,sat NOAPTEŞA; comuna ŞIŞEŞTI,,
+563,MH-IV-m-B-10472,Cruci de piatră,sat OPRIŞOR; comuna OPRIŞOR,,sec. XIX
 564,MH-IV-m-B-10473,Cruci de piatră,sat aparţinător OREVIŢA MARE; oraş VÂNJU MARE,În curtea bisericii,sec. XIX
 565,MH-IV-m-B-10474,Cruce de piatră,sat POROINIŢA; comuna ROGOVA,În curtea bisericii,sec. XIX
 566,MH-IV-m-B-10476,Troiţă de lemn,sat PREJNA; comuna BALTA,La marginea satului,

@@ -120,7 +120,7 @@ def import_pdf(pdf_path: Path, db_session, county: str):
             errors += 1
             error_rows.append(row)
     
-    print(f"  Imported: {imported}, Errors: {errors}")
+    print(f"  Imported: {imported}" + (f", Errors: {errors}" if errors > 0 else ""))
     if error_rows:
         print(f"{RED}  Error rows:{RESET}")
         for error_row in error_rows:

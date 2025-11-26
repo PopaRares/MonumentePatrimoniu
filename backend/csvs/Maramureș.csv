@@ -1,4 +1,5 @@
 Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+1,MM-I-s-B-04364,"Cetatea din Baia Mare, punct ""Valea Borcutului""",municipiul BAIA MARE,"""Dealul Cetăţii"", la 500 m de staţia de exploziv, în cartierul Valea Borcutului",sec. XI - XV
 2,MM-I-s-B-04365,"Situl arheologic de la Ardusat, punct “Sub pădure”",sat ARDUSAT; comuna ARDUSAT,“Sub pădure”,
 3,MM-I-m-B-04365.01,Aşezare,sat ARDUSAT; comuna ARDUSAT,"""Sub pădure”",sec. II- IV p. Chr.
 4,MM-I-m-B-04365.02,Aşezare,sat ARDUSAT; comuna ARDUSAT,"""Sub pădure”","Epoca bronzului, Cultura Suciu de Sus"
@@ -6,7 +7,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 6,MM-I-s-B-04367,"Situl arheologic de la Bârsana, punct “Cetăţuia”",sat BÂRSANA; comuna BÂRSANA,“Cetăţuia”,
 7,MM-I-m-B-04367.01,Aşezare,sat BÂRSANA; comuna BÂRSANA,"""Cetăţuia”","Hallstatt, Cultura Gáva"
 8,MM-I-m-B-04367.02,Aşezare,sat BÂRSANA; comuna BÂRSANA,"""Cetăţuia”","Epoca bronzului, Cultura Suciu de Sus"
-9,MM-I-s-B-04368,Aşezare,sat BÂRSANA; comuna BÂRSANA comuna REMETEA,"""Podul Miresei”","Epoca bronzului, Cultura Suciu de Sus"
+9,MM-I-s-B-04368,Aşezare,sat BÂRSANA; comuna BÂRSANA,"""Podul Miresei”","Epoca bronzului, Cultura Suciu de Sus"
+10,MM-I-s-A-04369,Cetatea Chioarului,sat BERCHEZOAIA; comuna REMETEA CHIOARULUI,,sec. XIII - XVIII
 11,MM-I-s-B-04370,Aşezare,sat BICAZ; comuna BICAZ,"""Corbuţu”",sec. II - IV p. Chr.
 12,MM-I-s-B-04371,"Situl arheologic de la Bicaz, punct ""Igoaie""",sat BICAZ; comuna BICAZ,“Igoaie”,
 13,MM-I-m-B-04371.01,Aşezare,sat BICAZ; comuna BICAZ,"""Igoaie”",sec. II - IV p. Chr.
@@ -17,7 +19,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 18,MM-I-s-A-04373,Necropolă tumulară,sat BICAZ; comuna BICAZ,"""Togul nemţilor”","Epoca bronzului, Cultura Suciu de Sus şi grupul Lăpuş"
 19,MM-I-s-B-04374,Aşezare,sat BOGDAN VODĂ; comuna BOGDAN VODĂ,"""La Podeţ”",Epoca bronzului
 20,MM-I-s-B-04375,Aşezare fortificată,sat BOGDAN VODĂ; comuna BOGDAN VODĂ,"""Grădina lui Cârlig”",sec. XIII - XIV
-21,MM-I-s-A-04376,Mănăstirea Cuhea,sat BOGDAN VODĂ; comuna BOGDAN,“La Mănăstirea Cuhea”,sec. XIII - XIV
+21,MM-I-s-A-04376,Mănăstirea Cuhea,sat BOGDAN VODĂ; comuna BOGDAN VODĂ,“La Mănăstirea Cuhea”,sec. XIII - XIV
 22,MM-I-m-A-04376.01,Biserică de piatră,sat BOGDAN VODĂ; comuna BOGDAN VODĂ,"""La Mănăstirea Cuhea”",sec. XIII - XIV
 23,MM-I-m-A-04376.02,Necropolă medievală,sat BOGDAN VODĂ; comuna BOGDAN VODĂ,"""La Mănăstirea Cuhea”",sec. XIII - XIV
 24,MM-I-s-B-04377,Aşezare,sat BOIU MARE; comuna BOIU MARE,"""Pe pusta”",sec. VII - VIII
@@ -27,7 +29,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 28,MM-I-s-B-04380,"Situl arheologic de la Călineşti, punct ""Rogoaze""",sat CĂLINEŞTI; comuna CĂLINEŞTI,“Rogoaze”,
 29,MM-I-m-B-04380.01,Aşezare,sat CĂLINEŞTI; comuna CĂLINEŞTI,"""Rogoaze”",sec. II - IV p. Chr.
 30,MM-I-m-B-04380.02,Aşezare,sat CĂLINEŞTI; comuna CĂLINEŞTI,"""Rogoaze”","Epoca bronzului, Cultura Suciu de Sus"
-31,MM-I-s-B-04381,Aşezare,sat COPALNIC- MĂNĂŞTUR; comuna COPALNIC-MĂNĂŞTUR MĂNĂŞTUR; comuna,"""Poiana”","Epoca bronzului, Cultura Suciu de Sus de Sus"
+31,MM-I-s-B-04381,Aşezare,sat COPALNIC- MĂNĂŞTUR; comuna COPALNIC-MĂNĂŞTUR,"""Poiana”","Epoca bronzului, Cultura Suciu de Sus"
+32,MM-I-s-B-04382,Aşezare,sat COPALNIC- MĂNĂŞTUR; comuna COPALNIC-MĂNĂŞTUR,"""Pe mal”","Epoca bronzului, Cultura Suciu de Sus"
 33,MM-I-s-B-04383,Aşezare,sat CRĂCIUNEŞTI; comuna BOCICOIU MARE,"""La Mohelcă”, lângă Halta CFR",sec. VI
 34,MM-I-s-B-04384,Aşezare,sat aparţinător DĂMĂCUŞENI; oraş TÂRGU LĂPUŞ,"""La Obreja”","Epoca bronzului, Cultura Suciu de Sus"
 35,MM-I-s-A-04385,Ruinele bisericii cneziale de la Giuleşti,sat GIULEŞTI; comuna GIULEŞTI,"359, ""La Biserică”","sec. XIV, Epoca medievală"
@@ -37,6 +40,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 39,MM-I-m-B-04387.02,Aşezare,sat GROŞII ŢIBLEŞULUI; comuna GROŞII ŢIBLEŞULUI,"""Tăuşor”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 40,MM-I-s-B-04388,"Situl arheologic de la Ieud, punct “La Mănăstire”",sat IEUD; comuna IEUD,“La Mănăstire”,
 41,MM-I-m-B-04388.01,Biserică de lemn,sat IEUD; comuna IEUD,"""La Mănăstire”",sec. XVIII
+42,MM-I-m-B-04388.02,Aşezare,sat IEUD; comuna IEUD,"""La Mănăstire”",Epoca bronzului
 43,MM-I-s-A-04389,Necropolă,sat LĂPUŞ; comuna LĂPUŞ,"""Podul Hotarului"", ""Podanc"", ""Podancul Mare""","Epoca bronzului, Cultura Suciu de Sus şi grupul Lăpuş"
 44,MM-I-s-A-04390,Necropolă,sat LĂPUŞ; comuna LĂPUŞ,"""Gruiul Târgului”","Epoca bronzului, Cultura Suciu de Sus şi grupul Lăpuş"
 45,MM-I-s-B-04391,"Situl arheologic de la Lăpuşel, punct “Ciurgău""",sat LĂPUŞEL; comuna RECEA,"“Ciurgău""",
@@ -47,7 +51,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 50,MM-I-m-B-04392.02,Aşezare,sat LĂPUŞEL; comuna RECEA,"""Mociar”","Epoca bronzului, Cultura Suciu de Sus"
 51,MM-I-s-B-04393,Aşezare,sat LIBOTIN; comuna CUPŞENI,"""Dâmbul Crucii”","Epoca bronzului, Cultura Suciu de Sus şi grupul Lăpuş"
 52,MM-I-s-B-04394,Aşezare,sat LIBOTIN; comuna CUPŞENI,"""Podoroiul Mare”","Epoca bronzului, Cultura Suciu de Sus"
-53,MM-I-s-B-04395,"Situl arheologic de la Valea Chioarului, punct “La Parhon” (“Valea Caselor”,""Mesteacăn"")",sat MESTEACĂN; comuna VALEA CHIOARULUI comuna VALEA,"“La Parhon”, “Valea Caselor”",
+53,MM-I-s-B-04395,"Situl arheologic de la Valea Chioarului, punct “La Parhon” (“Valea Caselor”,""Mesteacăn"")",sat MESTEACĂN; comuna VALEA CHIOARULUI,"“La Parhon”, “Valea Caselor”",
+54,MM-I-m-B-04395.01,Aşezare,sat MESTEACĂN; comuna VALEA CHIOARULUI,"""La Parhon”, ""Valea Caselor”","sec. VII - IX, Cultura Suciu de Sus"
 55,MM-I-m-B-04395.02,Aşezare,sat MESTEACĂN; comuna VALEA CHIOARULUI,"""La Parhon”, ""Valea Caselor”",sec. III - IV p. Chr.
 56,MM-I-m-B-04395.03,Aşezare,sat MESTEACĂN; comuna VALEA CHIOARULUI,"""La Parhon”, ""Valea Caselor”","Epoca bronzului, Cultura Suciu de Sus"
 57,MM-I-s-B-04396,"Situl arheologic de la Oarţa de Jos, punct “Vâlceaua Rusului”",sat OARŢA DE JOS; comuna OARŢA DE JOS,“Vâlceaua Rusului”,
@@ -57,7 +62,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 61,MM-I-s-B-04397,Aşezare,sat OARŢA DE JOS; comuna OARŢA DE JOS,"""Alac”","Epoca bronzului, Cultura Suciu de Sus"
 62,MM-I-s-A-04398,"Situl arheologic de la Oarţa de Sus, punct “Ghiile Botii”",sat OARŢA DE SUS; comuna OARŢA DE JOS,“Ghiile Botii”,
 63,MM-I-m-A-04398.01,Aşezare,sat OARŢA DE SUS; comuna OARŢA DE JOS,"""Ghiile Botii”","Epoca bronzului, Cultura Wietenberg"
-64,MM-I-m-A-04398.02,"Complex de cult Oarţa de Sus, punct “Oul",sat OARŢA DE SUS; comuna OARŢA DE JOS comuna OARŢA DE JOS,"""Ghiile Botii”","Epoca bronzului, Cultura Wietenberg"
+64,MM-I-m-A-04398.02,Complex de cult,sat OARŢA DE SUS; comuna OARŢA DE JOS,"""Ghiile Botii”","Epoca bronzului, Cultura Wietenberg"
+65,MM-I-s-A-04399,"Situl arheologic de la Oarţa de Sus, punct “Oul Făgetului”",sat OARŢA DE SUS; comuna OARŢA DE JOS,“Oul Făgetului”,
 66,MM-I-m-A-04399.01,Aşezare,sat OARŢA DE SUS; comuna OARŢA DE JOS,"""Oul Făgetului”",Epoca bronzului
 67,MM-I-m-A-04399.02,Aşezare,sat OARŢA DE SUS; comuna OARŢA DE JOS,"""Oul Făgetului”","Perioada de tranziţie la epoca bronzului, grupul cultural Iclod"
 68,MM-I-m-A-04399.03,Aşezare,sat OARŢA DE SUS; comuna OARŢA DE JOS,“Oul Făgetului”,Neolitic
@@ -68,7 +74,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 73, MM-I-m-B-04402.02, Aşezare, sat OARŢA DE SUS; comuna OARŢA DE JOS," ""Măgura”"," Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
 74,MM-I-m-B-04402.03,Aşezare,sat OARŢA DE SUS; comuna OARŢA DE JOS,"""Măgura”","Eneolitic, grupul cultural Iclod"
 75,MM-I-m-B-04402.04,Aşezare,sat OARŢA DE SUS; comuna OARŢA DE JOS,"""Măgura”","Neolitic, grupul cultural Iclod"
-76,MM-I-s-B-04403,Aşezare,sat ONCEŞTI; comuna ONCEŞTI ONCEŞTI,"""Pe Corni/Pe Mocira”","Epoca bronzului, Cultura Suciu de Sus"
+76,MM-I-s-B-04403,Aşezare,sat ONCEŞTI; comuna ONCEŞTI,"""Pe Corni/Pe Mocira”","Epoca bronzului, Cultura Suciu de Sus"
+77,MM-I-s-B-04404,Aşezare,sat ONCEŞTI; comuna ONCEŞTI,"""Bolteni”","Hallstatt, Cultura Gáva"
 78,MM-I-s-B-04405,"Situl arheologic de la Onceşti, punct ""Cetăţeaua”",sat ONCEŞTI; comuna ONCEŞTI,"""Cetăţeaua”",
 79,MM-I-m-B-04405.01,Fortificaţie,sat ONCEŞTI; comuna ONCEŞTI,"""Cetăţeaua”",Epoca medievală
 80,MM-I-m-B-04405.02,Aşezare,sat ONCEŞTI; comuna ONCEŞTI,"""Cetăţeaua”",Latène
@@ -80,7 +87,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 86,MM-I-s-A-04409,"Situl arheologic de la Sarasău, punct “Zăpodie”",sat SARASĂU; comuna SARASĂU,“Zăpodie”,
 87,MM-I-m-B-04409.01,Aşezare,sat SARASĂU; comuna SARASĂU,"""Zăpodie”",sec. IX - XIII
 88,MM-I-m-A-04409.02,Aşezare,sat SARASĂU; comuna SARASĂU,"""Zăpodie”",sec. IV - V p. Chr.
-89,MM-I-m-A-04409.03,Aşezare,sat SARASĂU; comuna SARASĂU SARASĂU,"""Zăpodie”",sec. V - IV a. Chr. de Sus
+89,MM-I-m-A-04409.03,Aşezare,sat SARASĂU; comuna SARASĂU,"""Zăpodie”",sec. V - IV a. Chr.
+90,MM-I-s-B-04410,Aşezare,sat SARASĂU; comuna SARASĂU,"""La moară”","Epoca bronzului, Cultura Suciu de Sus"
 91,MM-I-s-B-04411,"Situl arheologic de la Sarasău, punct “Lazul Mare”",sat SARASĂU; comuna SARASĂU,“Lazul Mare”,
 92,MM-I-m-B-04411.01,Aşezare,sat SARASĂU; comuna SARASĂU,"""Lazul Mare”",sec. X - XIII
 93,MM-I-m-B-04411.02,Aşezare,sat SARASĂU; comuna SARASĂU,"""Lazul Mare”","Epoca bronzului, Cultura Suciu de Sus"
@@ -93,6 +101,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 100,MM-I-s-B-04416,"Situl arheologic de la Seini, punct ""Berenaş”",oraş SEINI,"""Berenaş”",
 101,MM-I-m-B-04416.01,Aşezare,oraş SEINI,"""Berenaş”","Epoca bronzului, Cultura Suciu de Sus"
 102,MM-I-m-B-04416.02,Aşezare,oraş SEINI,"""Berenaş”",Neolitic
+103,MM-I-s-B-04417,Cetatea de la Seini,oraş SEINI,"""Dealul Cetăţii”",Epoca medievală
 104,MM-I-s-A-04418,Aşezare fortificată,municipiul SIGHETU MARMAŢIEI,"""Dealul Solovan”","Hallstatt, Cultura Gáva"
 105,MM-I-s-B-04419,Aşezare,municipiul SIGHETU MARMAŢIEI,"""Valea Mare”",sec. XII - XIII
 106,MM-I-s-B-04420,Aşezare,sat SUCIU DE JOS; comuna SUCIU DE SUS,"""Izvorişte”","Epoca bronzului, Cultura Suciu de Sus"
@@ -104,7 +113,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 112,MM-I-s-B-04424,Aşezare,oraş TÂRGU LĂPUŞ,"""Eghereş”","Epoca bronzului, Cultura Suciu de Sus şi grupul Lăpuş"
 113,MM-I-s-B-04425,"Situl arheologic de la Tisa, punct “Lazuri”",sat TISA; comuna BOCICOIU MARE,“Lazuri”,
 114,MM-I-m-B-04425.01,Aşezare,sat TISA; comuna BOCICOIU MARE,"""Lazuri”",Epoca migraţiilor
-115,MM-I-m-B-04425.02,Aşezare,sat TISA; comuna BOCICOIU MARE BOCICOIU MARE,"""Lazuri”","sec. VII a. Chr., Hallstatt bronzului"
+115,MM-I-m-B-04425.02,Aşezare,sat TISA; comuna BOCICOIU MARE,"""Lazuri”","sec. VII a. Chr., Hallstatt"
+116,MM-I-m-B-04425.03,Aşezare,sat TISA; comuna BOCICOIU MARE,"""Lazuri”",Perioada de tranziţie la epoca bronzului
 117,MM-I-s-B-04426,"Situl arheologic de la Vad, punct “Poduri”",sat VAD; comuna COPALNIC MĂNĂŞTUR,“Poduri”,
 118,MM-I-m-B-04426.01,Aşezare,sat VAD; comuna COPALNIC-MĂNĂŞTUR,"""Poduri”","Hallstatt, Cultura Gáva"
 119,MM-I-m-B-04426.02,Aşezare,sat VAD; comuna COPALNIC-MĂNĂŞTUR,"""Poduri”","Epoca bronzului, Cultura Suciu de Sus"
@@ -115,7 +125,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 124,MM-I-m-B-04429.02,Aşezare,sat VĂLENII ŞOMCUTEI; oraş ŞOMCUTA MARE,"""Ograda Budenilor”","Epoca bronzului, Cultura Suciu de Sus"
 125,MM-I-s-B-04430,"Situl arheologic de la Vălenii Şomcutei, punct “Valea lui Ştefan”",sat VĂLENII ŞOMCUTEI; oraş ŞOMCUTA MARE,“Valea lui Ştefan”,
 126,MM-I-m-B-04430.01,Aşezare,sat VĂLENII ŞOMCUTEI; oraş ŞOMCUTA MARE,"""Valea lui Ştefan”",Epoca migraţiilor
-127,MM-I-m-B-04430.02,Aşezare municipiului Baia Mare,sat VĂLENII ŞOMCUTEI; oraş ŞOMCUTA MARE,"""Valea lui Ştefan” str. Horea, str. Pintea Viteazul,","Epoca bronzului, Cultura Suciu de Sus"
+127,MM-I-m-B-04430.02,Aşezare,sat VĂLENII ŞOMCUTEI; oraş ŞOMCUTA MARE,"""Valea lui Ştefan”","Epoca bronzului, Cultura Suciu de Sus"
+128,MM-II-a-A-04432,Centrul istoric al municipiului Baia Mare (Oraşul medieval Rivulus Dominarum),municipiul BAIA MARE,"Zona delimitată: str. Olarilor, str. Horea, str. Pintea Viteazul, str. Mureşanu Andrei, str. Tineretului, str. Pietrosului, str. Rodnei şi râul Săsar",sec. XV - XIX
 129,MM-II-m-A-04434,"Oficiul Salinelor, azi Muzeul de Artă",municipiul BAIA MARE,Str. 1 Mai 8,1748
 130,MM-II-m-B-04443,Rezervorul de apă al vechiului apeduct,municipiul BAIA MARE,Str. 8 Martie 32 A,1910
 131,MM-II-m-B-04435,"Abatorul vechi, azi Intreprinderea de produse zaharoase",municipiul BAIA MARE,Str. Băii 5,1889 - 1900
@@ -126,6 +137,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 136,MM-II-m-B-04438,Casa Schönherr,municipiul BAIA MARE,Str. Cloşca 11,sec. XIX
 137,MM-II-m-B-04439,"Judecătoria de plasă, azi locuinţă",municipiul BAIA MARE,Str. Crişan 3,1889 - 1900
 138,MM-II-m-B-04440,Casă,municipiul BAIA MARE,Str. Crişan 9,1889 - 1900
+139,MM-II-m-B-04441,Casă,municipiul BAIA MARE,Str. Crişan 13,1889 - 1900
 140,MM-II-m-B-04442,Restaurant - Casino,municipiul BAIA MARE,Str. Crişan 18,1834
 141,MM-II-a-A-04433,"Ansamblul de arhitectură şi tehnică populară ""Dealul florilor"", Secţie Muzeului Judeţean Maramureş",municipiul BAIA MARE a,Str. Dealul Florilor 1,sec. XVIII - XX
 142,MM-II-m-B-04444,Şcoala nr. 3,municipiul BAIA MARE,Str. Garibaldi 2,1908
@@ -135,7 +147,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 146,MM-II-m-B-04447,Casă,municipiul BAIA MARE,Piaţa Libertăţii 2,sec. XVI - XVIII
 147,MM-II-m-B-04448,Casă,municipiul BAIA MARE,Piaţa Libertăţii 3,sec. XVI - XVIII
 148,MM-II-m-B-04449,Casă,municipiul BAIA MARE,"Piaţa Libertăţii 4, str. Turnului 1",sec. XVI - XVIII
-149,MM-II-m-B-04450,"Casa Degenfeld Minoriţilor, azi internat",municipiul BAIA MARE,"Piaţa Libertăţii 5, str.Turnului nr. 2, Piaţa Cetăţii nr. 3, Str. Crişan nr. 1 2",sec. XVI - XVIII
+149,MM-II-m-B-04450,Casa Degenfeld,municipiul BAIA MARE,"Piaţa Libertăţii 5, str.Turnului nr. 2, Piaţa Cetăţii nr. 3, Str. Crişan nr. 1",sec. XVI - XVIII
+150,MM-II-a-A-04451,"Claustrul mănăstirii Minoriţilor, azi internat şcolar",municipiul BAIA MARE,"Piaţa Libertăţii 6, Str. Crişan nr. 2",1734
 151,MM-II-a-A-04452,"Complex hotel - restaurant ""Minerul"", fost Sf. Ştefan",municipiul BAIA MARE,"Piaţa Libertăţii 7, Piaţa Păcii nr. 7",1911
 152,MM-II-m-B-04453,Casă,municipiul BAIA MARE,Piaţa Libertăţii 8,sec. XVI - XVIII
 153,MM-II-m-B-04454,Casa Teleky,municipiul BAIA MARE,Piaţa Libertăţii 9,sec. XV - XVIII
@@ -146,7 +159,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 158,MM-II-m-B-04459,Casă,municipiul BAIA MARE,Piaţa Libertăţii 14,sec. XVI - XVIII
 159,MM-II-m-B-04460,Casa Lendvay,municipiul BAIA MARE,Piaţa Libertăţii 15,sec. XVI - XVIII
 160,MM-II-m-B-04461,Casa Husovski - Petrescu,municipiul BAIA MARE,Piaţa Libertăţii 16,sec. XVI - XVIII
-161,MM-II-m-B-04462,Casă,municipiul BAIA MARE,"Piaţa Libertăţii 17 Viteazu nr. 2A, 2C",sec. XVI - XVIII
+161,MM-II-m-B-04462,Casă,municipiul BAIA MARE,Piaţa Libertăţii 17,sec. XVI - XVIII
+162,MM-II-m-A-04463,Casa Iancu de Hunedoara,municipiul BAIA MARE,"Piaţa Libertăţii 18, Str. Mihai Viteazu nr. 2A, 2C",sf. sec. XV - sec. XVIII
 163,MM-II-m-A-04464,Casa Schreiber,municipiul BAIA MARE,Piaţa Libertăţii 19,sec. XVI - XVIII
 164,MM-II-m-A-04465,Casa Bay,municipiul BAIA MARE,Piaţa Libertăţii 20,sec. XVI - XVIII
 165,MM-II-m-B-04466,Casă,municipiul BAIA MARE,Str. Lucaciu Vasile 1,sec. XVI - XVIII
@@ -158,7 +172,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 171,MM-II-m-B-04472,"Fostul palat episcopal, azi Întreprinderea de tricotaje",municipiul BAIA MARE,Str. Lucaciu Vasile 61,1891 - 1892
 172,MM-II-m-B-04473,Casa Teleky Sandor,municipiul BAIA MARE,Str. Minerilor 5,1883 - 1885
 173,MM-II-m-B-04474,Casa Revesz,municipiul BAIA MARE,Str. Minerilor 7,înc. sec XX
-174,MM-II-m-B-04475,Casă oraşului medieval Baia,municipiul BAIA MARE,"Str. Minerilor 11 2, Str. Podul Viilor 19",sec. XX
+174,MM-II-m-B-04475,Casă,municipiul BAIA MARE,Str. Minerilor 11,sec. XX
+175,MM-II-a-A-04431,Sistemul de fortificaţii al oraşului medieval Baia Mare,municipiul BAIA MARE,"Str. Monetăriei, Str.Izvoarelor 2, Str. Podul Viilor 19",sec. XV
 176,MM-II-m-A-04431.01,Zidul de apărare al cetăţii Baia Mare (fragment)- sistemul de fortificaţii medievale ale oraşului,municipiul BAIA MARE,Str. Monetăriei,sec. XV
 177,MM-II-m-A-04477,"Monetăria, azi Muzeul Judeţean de Istorie",municipiul BAIA MARE,Str. Monetăriei 1-3,1734 - 1739
 178,MM-II-m-B-04478,Casă,municipiul BAIA MARE,Str. Paris 11,1926
@@ -168,7 +183,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 182,MM-II-m-B-04482,Casă,municipiul BAIA MARE,Str. Petöfi Sándor 10,1930
 183,MM-II-m-B-04483,Casa Paşca,municipiul BAIA MARE,Str. Plaiului 38,1938 - 1939
 184,MM-II-m-A-04484,Biserica reformată,municipiul BAIA MARE,Str. Podul Viilor 10,1792
-185,MM-II-m-A-04431.03,Zidul de apărare al cetăţii Baia Mare (fragment)- sistemul de fortificaţii medievale ale oraşului Şcoala ajutătoare nr. 1,municipiul BAIA MARE,Str. Podul Viilor 19,sec. XV
+185,MM-II-m-A-04431.03,Zidul de apărare al cetăţii Baia Mare (fragment)- sistemul de fortificaţii medievale ale oraşului,municipiul BAIA MARE,Str. Podul Viilor 19,sec. XV
+186,MM-II-m-B-04485,"Şcoala confesională, azi Şcoala ajutătoare nr. 1",municipiul BAIA MARE,Str. Podul Viilor 19,1860
 187,MM-II-m-B-04486,Sinagogă,municipiul BAIA MARE,Str. Someşului 3,1885
 188,MM-II-m-A-04487,"Magazinul ""Central""",municipiul BAIA MARE,Str. Şincai Gheorghe 2,înc. sec. XX
 189,MM-II-m-B-04488,"Colegiul Naţional ""Gh.Şincai""",municipiul BAIA MARE,Str. Şincai Gheorghe 25,1903 - 1906
@@ -180,7 +196,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 195,MM-II-a-A-04495,Ansamblul bisericii reformate de la Arduzel,sat aparţinător ARDUZEL; oraş ULMENI,143,1726
 196,MM-II-m-A-04495.01,Biserica reformată,sat aparţinător ARDUZEL; oraş ULMENI,143,sec. XV
 197,MM-II-m-A-04495.02,Clopotniţa bisericii reformate,sat aparţinător ARDUZEL; oraş ULMENI,143,1726
-198,MM-II-m-A-04496,"Biserica de lemn ""Sf. Arhangheli” Împăraţi”",sat aparţinător ARDUZEL; oraş ULMENI VIMA MICĂ,"228, ""În cimitir”",1650
+198,MM-II-m-A-04496,"Biserica de lemn ""Sf. Arhangheli”",sat aparţinător ARDUZEL; oraş ULMENI,"228, ""În cimitir”",1650
+199,MM-II-m-B-04497,"Biserica de lemn ""Sf. Împăraţi”",sat ASPRA; comuna VIMA MICĂ,24,1892
 200,MM-II-a-A-04498,Centrul istoric al oraşului Baia Sprie,oraş BAIA SPRIE,"Zona delimitată de străzile: N.Iorga, 23 August, Săsarului, Dragoş Vodă şi râul Săsar",sec. XVIII - XIX
 201,MM-II-a-B-04499,Ansamblul de locuinţe de mineri din Baia Sprie,oraş BAIA SPRIE,"Str. Coşbuc George 9, 11, 13, 15",sec. XIX
 202,MM-II-m-B-04500,"Casa de lemn Csaszi, azi casă de rugăciune, cult baptist",oraş BAIA SPRIE,Str. Gutinului 21,1754
@@ -191,7 +208,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 207, MM-II-m-B-04505, Oficiul Minelor, oraş BAIA SPRIE, Piaţa Libertăţii 18, sec. XVIII
 208,MM-II-m-B-04506,Casa parohială a bisericii reformate,oraş BAIA SPRIE,Piaţa Libertăţii 21,1836
 209,MM-II-m-B-04507,Biserica reformată,oraş BAIA SPRIE,Piaţa Libertăţii 22,1889 - 1890
-210,MM-II-m-B-04508,"Biserica romano-catolică ""Sf. Maria"" romano-catolice",oraş BAIA SPRIE,Piaţa Libertăţii 30,1846 - 1858
+210,MM-II-m-B-04508,"Biserica romano-catolică ""Sf. Maria""",oraş BAIA SPRIE,Piaţa Libertăţii 30,1846 - 1858
+211,MM-II-m-A-04509,Casa parohială a bisericii romano-catolice,oraş BAIA SPRIE,Piaţa Libertăţii 36,1773
 212,MM-II-m-B-04510,Casa Füstös,oraş BAIA SPRIE,Str. Săsar 1,sf. sec. XVIII
 213,MM-II-m-B-04511,Casa Ceauş,oraş BAIA SPRIE,Str. Săsar 3,1833
 214,MM-II-m-B-04512,"Casa Stancsek, azi Administraţia financiară Baia Sprie",oraş BAIA SPRIE,Str. Săsar 11,sec. XVIII
@@ -202,7 +220,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 219, MM-II-m-B-04519, Biserica reformată, sat BERCHEZ; comuna REMETEA CHIOARULUI, 67, sec. XV - XIX
 220,MM-II-m-B-04520,"Biserica ""Sf. Ioan Botezătorul”",sat BERCHEZ; comuna REMETEA CHIOARULUI,126,sec. XIX
 221,MM-II-m-B-04521,"Ruinele bisericii ""Cuvioasa Paraschiva”",sat BERINŢA; comuna COPALNIC-MĂNĂŞTUR,Cimitirul satului,1807
-222,MM-II-m-B-04522,"Biserica ""Sf. Nicolae” Arhangheli Mihail şi",sat BERINŢA; comuna COPALNIC-MĂNĂŞTUR BICAZ,"32, în cimitirul dinspre Cărpiniş",sf. sec. XVIII
+222,MM-II-m-B-04522,"Biserica ""Sf. Nicolae”",sat BERINŢA; comuna COPALNIC-MĂNĂŞTUR,"32, în cimitirul dinspre Cărpiniş",sf. sec. XVIII
+223,MM-II-m-A-04523,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat BICAZ; comuna BICAZ,89,1723
 224,MM-II-m-A-04524,"Biserica de lemn ""Sf. Nicolae”",sat BOGDAN VODĂ; comuna BOGDAN VODĂ,367,1718
 225,MM-II-m-A-04525,Casa de lemn Deac Vasile Moşu,sat BOGDAN VODĂ; comuna BOGDAN VODĂ,578,1780
 226,MM-II-m-B-04526,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător BOIERENI; oraş TÂRGU LĂPUŞ,77,sec. XVIII
@@ -212,7 +231,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 230,MM-II-a-A-04529,"Ansamblul ""Sf. Arhangheli"", Breb",sat BREB; comuna OCNA ŞUGATAG,26-27,sec. XVI - XVII
 231,MM-II-m-B-04529.02,Casa parohială ortodoxă,sat BREB; comuna OCNA ŞUGATAG,26,sec. XVIII
 232,MM-II-m-A-04529.01,"Biserica de lemn ""Sf. Arhangheli”",sat BREB; comuna OCNA ŞUGATAG,27,sec. XVI
-233,MM-II-m-A-04530,"Biserica de lemn ""Sf. Nicolae”, Josani Nicolae”, Susani",sat BUDEŞTI; comuna BUDEŞTI BUDEŞTI,135,1643
+233,MM-II-m-A-04530,"Biserica de lemn ""Sf. Nicolae”, Josani",sat BUDEŞTI; comuna BUDEŞTI,135,1643
+234,MM-II-m-A-04531,"Biserica de lemn ""Sf. Nicolae”, Susani",sat BUDEŞTI; comuna BUDEŞTI,544,1760
 235,MM-II-m-B-04532,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător BUTEASA; oraş ŞOMCUTA MARE,23,1800
 236,MM-II-m-A-04533,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat BUZEŞTI; comuna FĂRCAŞA,Str. Şcolii 5,1799
 237,MM-II-m-B-04534,"Biserica de zid ""Sf. Varvara”",oraş CAVNIC,Str. Eliberării,1812
@@ -221,7 +241,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 240,MM-II-m-B-04537,Ruinele topitoriei pentru extragerea aurului,oraş CAVNIC,"Str. Minerilor, ""La Roata”",sec. XVIII
 241,MM-II-m-A-04538,"Biserica de lemn ""Adormirea Maicii Domnului” (Susani)",sat CĂLINEŞTI; comuna CĂLINEŞTI,35A,1758
 242,MM-II-m-A-04539,"Biserica de lemn ""Naşterea Maicii Domnului”, Josani (Căieni)",sat CĂLINEŞTI; comuna CĂLINEŞTI,451A,"ante 1663, extinsă în sec. XIX"
-243,MM-II-m-B-04540,"Biserica ""Naşterea Maicii Domnului” ""Adormirea Maicii",sat CĂRBUNARI; comuna DUMBRĂVIŢA COPALNIC-MĂNĂŞTUR,122,1888
+243,MM-II-m-B-04540,"Biserica ""Naşterea Maicii Domnului”",sat CĂRBUNARI; comuna DUMBRĂVIŢA,122,1888
+244,MM-II-m-A-04541,"Biserica de lemn ""Adormirea Maicii Domnului”",sat CĂRPINIŞ; comuna COPALNIC-MĂNĂŞTUR,35A,1757
 245,MM-II-m-B-04542,Biserica reformată,sat CÂMPULUNG LA TISA; comuna CÂMPULUNG LA TISA,242,1793
 246,MM-II-a-B-04543,"Ansamblul bisericii ""Cuvioasa Paraschiva”",sat CETĂŢELE; comuna ŞIŞEŞTI,164,
 247,MM-II-m-B-04543.01,"Biserica ""Cuvioasa Paraschiva”",sat CETĂŢELE; comuna ŞIŞEŞTI,164,1794
@@ -231,7 +252,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 251,MM-II-m-A-04544.01,Biserică,sat COAŞ; comuna COAŞ,271,1730
 252,MM-II-m-A-04544.02,Clopotniţa de lemn,sat COAŞ; comuna COAŞ,271,1730
 253,MM-II-m-B-04545,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător CODRU BUTESII; oraş ŞOMCUTA MARE,25,sec. XIX
-254,MM-II-a-A-04446,Castelul Teleki Mihail şi Gavril”,sat COLTĂU; comuna COLTĂU COPALNIC-MĂNĂŞTUR,35,1740 - 1780
+254,MM-II-a-A-04446,Castelul Teleki,sat COLTĂU; comuna COLTĂU,35,1740 - 1780
+255,MM-II-m-B-04547,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat COPALNIC; comuna COPALNIC-MĂNĂŞTUR,126,1735
 256,MM-II-m-B-04548,Casa Anca,sat COPALNIC- MĂNĂŞTUR; comuna COPALNIC-MĂNĂŞTUR,150,1910
 257,MM-II-m-B-04549,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat COPALNIC- MĂNĂŞTUR; comuna COPALNIC-MĂNĂŞTUR,212,sec. XIX
 258,MM-II-m-A-04551,"Biserica de lemn ""Sf. Nicolae”",sat CORNEŞTI; comuna CĂLINEŞTI,133,1800
@@ -242,7 +264,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 263, MM-II-m-B-04554," Biserica de lemn ""Sf. Nicolae”", sat COSTENI; comuna CUPŞENI, 25, 1870
 264,MM-II-m-B-04555,"Biserica de lemn ""Sf. Apostoli Petru şi Pavel”",sat COSTENI; comuna CUPŞENI,141,1885
 265,MM-II-m-B-04556,"Biserica ""Sf. Cruce""",sat COŞTIUI; comuna RONA DE SUS,71,sec. XIX
-266,MM-II-m-A-04557,Castelul Apaffi Crucii”,sat COŞTIUI; comuna RONA DE SUS RONA DE SUS,85,sec. XV - XVIII
+266,MM-II-m-A-04557,Castelul Apaffi,sat COŞTIUI; comuna RONA DE SUS,85,sec. XV - XVIII
+267,MM-II-m-B-04558,"Capelele din ""Calea Crucii”",sat COŞTIUI; comuna RONA DE SUS,"182, Cimitirul romano catolic",
 268,MM-II-m-B-04559,Biserica ucraineană,sat COŞTIUI; comuna RONA DE SUS,224,sec. XIX
 269,MM-II-m-B-04560,"Absida bisericii de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător CUFOAIA; oraş TÂRGU LĂPUŞ,59,1850
 270,MM-II-m-A-04561,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat CULCEA; comuna SĂCĂLĂŞENI,Str. Stadionului 1,1720
@@ -252,7 +275,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 274,MM-II-m-B-04565,"Biserica ""Adormirea Maicii Domnului”",sat DĂNEŞTI; comuna ŞIŞEŞTI,80,1820
 275,MM-II-m-A-04566,"Biserica de lemn ""Cuvioasa Paraschiva”",sat DESEŞTI; comuna DESEŞTI,88,1770
 276,MM-II-m-B-04567,"Biserica de lemn ""Intrarea în Biserică”",sat aparţinător DOBRICU LĂPUŞULUI; oraş TÂRGU LĂPUŞ,31,sec. XVIII
-277,MM-II-m-A-04568,"Biserica de lemn ""Sf. Arhangheli Mihail şi",sat aparţinător DOBRICU LĂPUŞULUI;,"157, ""În coastă”",sec. XVIII
+277,MM-II-m-A-04568,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător DOBRICU LĂPUŞULUI; oraş TÂRGU LĂPUŞ,"157, ""În coastă”",sec. XVIII
 278,MM-II-m-B-04570,"Fosta prefectură, azi Spitalul Vişeu (secţia externă)",oraş DRAGOMIREŞTI,83,sec. XX
 279,MM-II-m-A-04569,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat DRĂGHIA; comuna COROIENI,39,1706
 280,MM-II-m-B-04571,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător DUMBRAVA; oraş TÂRGU LĂPUŞ,74,sec. XVIII
@@ -261,7 +284,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 283,MM-II-m-A-04574,"Biserica de lemn ""Sf. Nicolae”",sat FEREŞTI; comuna GIULEŞTI,136,1700
 284,MM-II-m-B-04575,"Biserica ""Sf. Paraschiva”",sat FERICEA; comuna VALEA CHIOARULUI,30,1887
 285,MM-II-m-B-04576,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",localitate componentă FIRIZA; municipiul BAIA MARE,Str. Firiza 99,1824
-286,MM-II-m-A-04577,"Biserica de lemn ""Sf. Nicolae” Casa de copii",sat FRÂNCENII BOIULUI; comuna BOIU MARE GÂRDANI,41A,1757
+286,MM-II-m-A-04577,"Biserica de lemn ""Sf. Nicolae”",sat FRÂNCENII BOIULUI; comuna BOIU MARE,41A,1757
+287,MM-II-m-B-04578,"Castelul Blomberg, azi Casa de copii",sat GÂRDANI; comuna GÂRDANI,457,sec. XIX
 288,MM-II-m-B-04579,"Biserica ""Adormirea Maicii Domnului”",sat GIULEŞTI; comuna GIULEŞTI,359,sec. XIX
 289,MM-II-m-A-04581,"Biserica de lemn ""Sf. Nicolae”",sat GLOD; comuna STRÂMTURA,214,1700
 290,MM-II-s-B-04580,Cimitir evreiesc,sat GLOD; comuna STRÂMTURA,231,sec. XVIII
@@ -272,6 +296,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 295,MM-II-s-B-04586,Cimitir evreiesc,sat IEUD; comuna IEUD,,sec. XVIII
 296,MM-II-a-A-04587,"Ansamblul bisericii ""Naşterea Maicii Domnului""",sat IEUD; comuna IEUD,"236, ""Din vale”",1717
 297,MM-II-m-A-04587.01,Biserică de lemn,sat IEUD; comuna IEUD,"236, ""Din vale”",1717
+298,MM-II-m-A-04587.02,Clopotniţă de lemn,sat IEUD; comuna IEUD,"236, ""Din vale”",sec. XIX
 299,MM-II-m-A-04588,"Biserica de lemn ""Naşterea Maicii Domnului”",sat IEUD; comuna IEUD,"957, ""Din deal”",sec. XVII
 300,MM-II-m-A-04589,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător INĂU; oraş TÂRGU LĂPUŞ,107,1689
 301,MM-II-m-B-04590,"Biserica de lemn ""Sf. Ioan Evanghelistul”",sat IZVOARELE; comuna CERNEŞTI,"3, ""Pe secătură""",1803
@@ -281,7 +306,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 305,MM-II-m-A-04594,"Biserica de lemn ""Sf. Dumitru”",sat LARGA; comuna SUCIU DE SUS,118,1771
 306,MM-II-m-A-04595,"Biserica de lemn ""Naşterea Maicii Domnului”",sat LASCHIA; comuna COPALNIC-MĂNĂŞTUR,133,1868
 307,MM-II-m-A-04811,"Biserica de lemn ""Adormirea Maicii Domnului”",sat LĂPUŞ; comuna LĂPUŞ,"820, ""În dâmb”",1697
-308,MM-II-m-A-04596,"Biserica de lemn ""Sf. Arhangheli Mihail şi",sat LIBOTIN; comuna CUPŞENI,65,1671
+308,MM-II-m-A-04596,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat LIBOTIN; comuna CUPŞENI,65,1671
 309,MM-II-m-A-04597,"Biserica de lemn ""Sf. Arhangheli”",sat MĂNĂSTIREA; comuna GIULEŞTI,18,sec. XVII
 310,MM-II-m-B-04598,Şcoala generală,sat MOCIRA; comuna RECEA,Str. Şcolii 7,1930
 311,MM-II-a-A-04599,"Ansamblul bisericii ""Adormirea Maicii Domnului""",sat MOISEI; comuna MOISEI,203,cca 1600
@@ -291,7 +316,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 315,MM-II-m-B-04601,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat ORŢIŢA; comuna OARŢA DE JOS,22,1832
 316,MM-II-m-B-04602,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat PETERITEA; comuna VIMA MICĂ,16,sec. XVIII
 317,MM-II-m-B-04603,Casa Mihalca,sat PETROVA; comuna PETROVA,793,sf. sec. XVIII
-318,MM-II-m-A-04604,"Biserica de lemn ""Sf. Arhangheli Mihail şi",sat PLOPIŞ; comuna ŞIŞEŞTI,109,1798
+318,MM-II-m-A-04604,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat PLOPIŞ; comuna ŞIŞEŞTI,109,1798
 319,MM-II-m-A-04515,"Biserica de lemn ""Sf. Apostoli”",sat POIANA BOTIZII; comuna BĂIUŢ,84,1830
 320,MM-II-m-A-04812,"Biserica de lemn ucraineană ""Schimbarea la faţă”",sat POIENILE DE SUB MUNTE; comuna POIENILE DE SUB MUNTE,Str. Bisericii 547,1788
 321,MM-II-m-A-04605,"Biserica de lemn ""Cuvioasa Paraschiva”",sat POIENILE IZEI; comuna POIENILE IZEI,210,1700
@@ -301,7 +326,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 325,MM-II-m-B-04608,"Biserica ""Sf. Nicolae”",sat PRELUCA VECHE; comuna COPALNIC- MĂNĂŞTUR,57,1750
 326,MM-II-m-A-04609,Castelul Geza Teleki,sat PRIBILEŞTI; comuna SATULUNG,57,sf. sec. XIX
 327,MM-II-m-B-04611,"Biserica de lemn ""Sf. Dumitru”",sat aparţinător RĂZOARE; oraş TÂRGU LĂPUŞ,49,sec. XVIII
-328,MM-II-m-A-04610,"Biserica de lemn ""Sf. Arhangheli Mihail şi",sat aparţinător RĂZOARE; oraş TÂRGU,215,1731
+328,MM-II-m-A-04610,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător RĂZOARE; oraş TÂRGU LĂPUŞ,215,1731
 329,MM-II-m-B-04612,"Biserica de lemn ""Naşterea Preacuratei”",sat REMECIOARA; comuna REMETEA CHIOARULUI,62,sec. XIX
 330,MM-II-m-B-04613,Casa Maria Pop,sat REMETEA CHIOARULUI; comuna REMETEA CHIOARULUI,60,1875
 331,MM-II-a-A-04614,"Ansamblul bisericii ""Sf. Arhangheli Mihail şi Gavril”",sat REMETEA CHIOARULUI; comuna REMETEA CHIOARULUI,127,sec. XVIII
@@ -310,7 +335,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 334,MM-II-m-B-04615,Capelă,sat REMETEA CHIOARULUI; comuna REMETEA CHIOARULUI,142,sec. XVIII
 335,MM-II-m-A-04616,"Biserica veche ucrainiană ""Sf. Petru şi Pavel""",sat REMEŢI; comuna REMEŢI,413,sec. XV
 336,MM-II-m-A-04617,"Biserica de lemn ""Cuvioasa Paraschiva”",sat aparţinător ROGOZ; oraş TÂRGU LĂPUŞ,273,sec. XVIII
-337,MM-II-m-A-04618,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător ROGOZ; oraş TÂRGU LĂPUŞ oraş TÂRGU LĂPUŞ,282,1661
+337,MM-II-m-A-04618,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător ROGOZ; oraş TÂRGU LĂPUŞ,282,1661
+338,MM-II-m-B-04619,Casă de lemn,sat aparţinător ROHIA; oraş TÂRGU LĂPUŞ,152,1820
 339,MM-II-m-A-04620,"Biserica de lemn ""Adormirea Maicii Domnului”",sat RONA DE JOS; comuna RONA DE JOS,67,sec. XVIII
 340,MM-II-a-A-04621,"Ansamblul bisericii ""Sf. Arhangheli Mihail şi Gavril”",sat ROZAVLEA; comuna ROZAVLEA,396,1716
 341,MM-II-m-A-04621.01,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat ROZAVLEA; comuna ROZAVLEA,396,1716
@@ -320,7 +346,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 345,MM-II-m-A-04624,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat SARASĂU; comuna SARASĂU,166A,1600
 346,MM-II-m-B-04625,Casa Iurca,sat SARASĂU; comuna SARASĂU,202,sf. sec. XIX
 347,MM-II-m-B-04626,"Casa Man, Azi Cămin Cultural",sat SARASĂU; comuna SARASĂU,203,sec. XIX
-348,MM-II-m-A-04627,"Biserica de lemn ""Cuvioasa Paraschiva” Mihail şi Gavril”",sat SAT-ŞUGATAG; comuna OCNA ŞUGATAG NOU DE SUS; oraş BAIA,86,1642
+348,MM-II-m-A-04627,"Biserica de lemn ""Cuvioasa Paraschiva”",sat SAT-ŞUGATAG; comuna OCNA ŞUGATAG,86,1642
+349,MM-II-m-B-04628,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător SATU NOU DE SUS; oraş BAIA SPRIE,221,1775
 350,MM-II-a-A-04629,Ansamblul castelului Teleki,sat SATULUNG; comuna SATULUNG,379,1740 - 1780
 351,MM-II-m-A-04629.01,Castel,sat SATULUNG; comuna SATULUNG,379,1740 - 1780
 352,MM-II-m-B-04629.02,Anexe,sat SATULUNG; comuna SATULUNG,379,1740 - 1780
@@ -331,7 +358,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 357, MM-II-m-A-04635," Biserica de lemn ""Sf. Nicolae” (a Bulenilor)", oraş SĂLIŞTEA DE SUS, Str. Bâleni 47, 1736
 358,MM-II-m-B-04634,Casă,oraş SĂLIŞTEA DE SUS,Str. Bindea Doru Liviu 132,1740 - 1750
 359,MM-II-m-A-04633,"Biserica de lemn ""Sf. Nicolae” (a Nistoreştilor)",oraş SĂLIŞTEA DE SUS,Str. Dr. Iuga Gavrilă 65,1680
-360,MM-II-s-B-04636,Cimitir evreiesc tehnică populară -,sat SĂPÂNŢA; comuna SĂPÂNŢA SĂPÂNŢA,,sec. XVIII
+360,MM-II-s-B-04636,Cimitir evreiesc,sat SĂPÂNŢA; comuna SĂPÂNŢA,,sec. XVIII
+361,MM-II-a-B-04637,Ansamblul de arhitectură tehnică populară - complex de vâltori,sat SĂPÂNŢA; comuna SĂPÂNŢA,,sec. XIX
 362,MM-II-a-B-04638,Ansamblu de arhitectură tehnică populară,sat SÂRBI; comuna BUDEŞTI,,sec. XIX
 363,MM-II-m-A-04639,"Biserica de lemn ""Sf. Nicolae” - Josani",sat SÂRBI; comuna BUDEŞTI,28,1665
 364,MM-II-m-A-04640,"Biserica de lemn ""Cuvioasa Paraschiva” - Susani",sat SÂRBI; comuna BUDEŞTI,59,1667
@@ -343,6 +371,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 370,MM-II-m-A-04646,Casa Bay,oraş SEINI,Str. Cetăţii 1,sf. sec. XIX
 371,MM-II-m-B-04647,Intreprinderea de drojdie seineană,oraş SEINI,Str. Cuza Vodă 12,1875
 372,MM-II-m-B-04647.01,Aripa veche a secţiei Drojdie,oraş SEINI,Str. Cuza Vodă 12,1875
+373,MM-II-m-B-04647.02,Atelier mecanic,oraş SEINI,Str. Cuza Vodă 12,1875
 374,MM-II-m-B-04647.03,Birouri,oraş SEINI,Str. Cuza Vodă 12,1875
 375,MM-II-m-B-04649,Sinagogă,oraş SEINI,Str. Cuza Vodă 25,1904
 376,MM-II-m-B-04650,Casă cu sculpturi,oraş SEINI,Str. Cuza Vodă 73,sec. XIX
@@ -355,6 +384,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 383,MM-II-m-B-04657,"Casa Keller-Kepes, azi S.C.Gitamic (ateliere confecţii)",oraş SEINI,Str. Eminescu Mihai 47,sec. XIX
 384,MM-II-m-B-04658,Biserica calvină,oraş SEINI,Str. Libertăţii 3,1796
 385,MM-II-a-B-04659,Moară,oraş SEINI,Str. Morii 6,1875
+386,MM-II-m-B-04659.01,Oloiniţă,oraş SEINI,Str. Morii 6,1875
 387,MM-II-m-A-04661,"Biserica romano-catolică ""Neprihănita Zămislire""",oraş SEINI,Piaţa Unirii 3,"1421, cu transf.ulterioare"
 388,MM-II-m-B-04662,Casa Bajnoczky,oraş SEINI,Piaţa Unirii 4,1885
 389,MM-II-m-B-04660,"Şcoala confesională romano-catolică, actualmente Scoala nr.",oraş SEINI 2,Piaţa Unirii 7,sf. sec. XVIII
@@ -364,7 +394,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 393,MM-II-a-B-04667,"Ansamblul urban ""Cămara Sării”",municipiul SIGHETU MARMAŢIEI,"""Zona gării”",sec. XV - XIX
 394,MM-II-a-B-04668,Ansamblu de arhitectură şi tehnică populară,municipiul SIGHETU MARMAŢIEI,"""Dealul Doboieş”",sec. XVII - XIX
 395,MM-II-m-B-04669,"Vechea ""Direcţie a pădurilor"", azi liceul Leowey Klara",municipiul SIGHETU MARMAŢIEI,Str. 22 Decembrie 1989 2,sec. XVIII
-396,MM-II-m-B-04670,Liceul Pedagogic Armatei,municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. 22 Decembrie 1989 5,1802
+396,MM-II-m-B-04670,Liceul Pedagogic,municipiul SIGHETU MARMAŢIEI,Str. 22 Decembrie 1989 5,1802
+397,MM-II-m-B-04671,"Primăria, azi Casa Armatei",municipiul SIGHETU MARMAŢIEI,Str. Alecsandri Vasile 2,sec. XIX
 398,MM-II-m-B-04672,"Casă, azi sediul comunităţii evreieşti",municipiul SIGHETU MARMAŢIEI,Str. Basarabia 8,sec. XIX
 399,MM-II-m-B-04673,Sinagogă,municipiul SIGHETU MARMAŢIEI,Str. Basarabia 10,1902
 400,MM-II-m-B-04676,Casă,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 1,sec. XIX
@@ -376,7 +407,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 406,MM-II-m-B-04682,Casă cu spaţii comerciale la parter,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 6,sec. XIX
 407,MM-II-m-B-04683,Casa Clericală Ucraineană,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 7,sec. XIX
 408,MM-II-m-B-04684,Casa Keszter,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 8,sec. XIX
-409,MM-II-m-B-04685,Casă parter Librăria,municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. Bogdan Vodă 9,sec. XIX
+409,MM-II-m-B-04685,Casă,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 9,sec. XIX
+410,MM-II-m-B-04686,"Casa cu cariatide, la parter Librăria ""Luceafărul""",municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 10,1890
 411,MM-II-m-B-04687,Casă,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 11,sec. XX
 412,MM-II-m-B-04688,Vicariatul ortodox ucrainean,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 12,sec. XIX
 413,MM-II-m-A-04689,"Tribunalul vechi, azi Primăria şi Judecătoria municipiului Sighetu Marmaţiei",municipiul SIGHETU MARMAŢIEI,"Str. Bogdan Vodă 14, Str. Coposu Corneliu 2",1893 - 1895
@@ -387,7 +419,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 418,MM-II-m-B-04694,Casă cu spaţii comerciale la parter,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 28,1872
 419,MM-II-m-A-04695,Casă,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 30,sec. XIX
 420,MM-II-m-B-04696,Casă,municipiul SIGHETU MARMAŢIEI,Str. Bogdan Vodă 32,1870
-421,MM-II-m-B-04674,Casă cu magazine la parter victimelor comunismului,municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. Coposu Corneliu nr. 1,sec. XIX
+421,MM-II-m-B-04674,Casă cu magazine la parter,municipiul SIGHETU MARMAŢIEI,Str. Coposu Corneliu nr. 1,sec. XIX
+422,MM-II-m-A-04675,"Închisoare, azi Muzeul victimelor comunismului şi rezistenţei anticomuniste Sighet",municipiul SIGHETU MARMAŢIEI,Str. Coposu Corneliu 4,1897
 423,MM-II-m-B-04697,Curtea Kahan,municipiul SIGHETU MARMAŢIEI,Str. Doja Gheorghe 67,înc. sec. XX
 424,MM-II-a-A-04698,"Ansamblul bisericii ""Adormirea Maicii Domnului”",municipiul SIGHETU MARMAŢIEI,Str. Dragoş Vodă 1-3,
 425,MM-II-m-A-04698.02,Casa parohială,municipiul SIGHETU MARMAŢIEI,Str. Dragoş Vodă 1,1892
@@ -397,7 +430,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 429,MM-II-m-B-04701,Casă Groedel,municipiul SIGHETU MARMAŢIEI,Str. Dragoş Vodă 41,1887
 430,MM-II-m-B-04702,"Casa Florian Mihaly de Apşa, azi protopopiatul greco-catolic",municipiul SIGHETU MARMAŢIEI,Str. Eminescu Mihai 1,sec. XIX
 431,MM-II-m-B-04703,Casa Darvay,municipiul SIGHETU MARMAŢIEI,Str. Eminescu Mihai 12,1932
-432,MM-II-m-B-04704,Gara CFR secţie a Facultăţii Babeş-,municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. Gării 2,1893 - 1897
+432,MM-II-m-B-04704,Gara CFR,municipiul SIGHETU MARMAŢIEI,Str. Gării 2,1893 - 1897
+433,MM-II-m-B-04705,"Fosta Şcolă Normală, azi secţie a Facultăţii Babeş- Bolyai Cluj",municipiul SIGHETU MARMAŢIEI,Str. Iancu Avram 6,sec. XIX
 434,MM-II-m-B-04706,"Vechea ""Fabrică de perii Părplast"", cu spaţii comerciale şi birouri la parter",municipiul SIGHETU MARMAŢIEI,Str. Iancu Avram 20,înc. sec. XX
 435,MM-II-a-B-04707,Pavilioanele vechi ale Spitalului municipal,municipiul SIGHETU MARMAŢIEI,Str. Iancu Avram 22,sec. XIX
 436,MM-II-m-B-04708,"Vila Szöllössyi, azi laboratorul spitalului municipal",municipiul SIGHETU MARMAŢIEI,Str. Iancu Avram 22,sec. XIX
@@ -406,7 +440,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 439,MM-II-m-A-04711,"Hotel-restaurant, azi Muzeul Maramureşan şi cinematograf",municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 1,sec. XIX
 440,MM-II-a-A-20246,"Ansamblul urban ""Piaţa Libertăţii""",municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 1-36,sec. XVIII - XIX
 441,MM-II-m-B-04712,Cabinete Stomatologice,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 2,sec. XIX
-442,MM-II-m-A-04713,Casă,municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Piaţa Libertăţii 3,sec. XIX
+442,MM-II-m-A-04713,Casă,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 3,sec. XIX
+443,MM-II-m-B-04714,Casă,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 4,sec. XIX
 444,MM-II-m-B-04715,Casă,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 5,sec. XIX
 445,MM-II-m-B-04716,Casă,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 6,sec. XIX
 446,MM-II-m-B-04717,Farmacia Nagy,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 7,sec. XIX
@@ -418,7 +453,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 452,MM-II-m-B-04723,Casă,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 13,sec. XIX
 453,MM-II-a-A-04724,Mănăstirea Piariştilor,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 15,1730 - 1806
 454,MM-II-m-A-04724.01,"Biserica ""Sf. Carol de Borromeo""",municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 17,1730 - 1806
-455,MM-II-m-B-04724.02,"Casă parohială Maramureşeană"", azi",municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Piaţa Libertăţii 19,1730 - 1806
+455,MM-II-m-B-04724.02,Casă parohială,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 19,1730 - 1806
+456,MM-II-m-A-04725,"""Banca Maramureşeană"", azi Consim SA şi spaţii comerciale",municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 20,sec. XIX
 457,MM-II-m-B-04726,"""Banca economică"", azi locuinţe şi sediu IMM",municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 21,sec. XIX
 458,MM-II-m-B-04727,Liceul ucrainian şi Liceul sportiv,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 22,1901
 459,MM-II-m-B-04728,Farmacia Buzath,municipiul SIGHETU MARMAŢIEI,Piaţa Libertăţii 23,1875
@@ -427,7 +463,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 462,MM-II-a-B-04731,"Ansamblul urban ""Str. Iuliu Maniu""",municipiul SIGHETU MARMAŢIEI,Str. Maniu Iuliu 1-67,sec. XIX
 463,MM-II-m-A-04732,Palatul Cultural,municipiul SIGHETU MARMAŢIEI,Str. Maniu Iuliu 31,1913
 464,MM-II-m-A-04733,"Banca Naţională, azi sediu BCR",municipiul SIGHETU MARMAŢIEI,Str. Maniu Iuliu 32,sf. sec. XIX
-465,MM-II-m-B-04734,"Sediul Lojei francmasonice, azi şcoală generală",municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. Maniu Iuliu 67,1890 - 1910
+465,MM-II-m-B-04734,"Sediul Lojei francmasonice, azi şcoală generală",municipiul SIGHETU MARMAŢIEI,Str. Maniu Iuliu 67,1890 - 1910
+466,MM-II-m-A-04735,"Liceul ""Dragoş Vodă”",municipiul SIGHETU MARMAŢIEI,Str. Mihai Viteazul 14,1913
 467,MM-II-m-B-04736,Casă cu spaţii comericale la parter,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 1,sec. XIX
 468,MM-II-m-B-04737,"Fosta Prefectură a comitatului Maramureş, azi restaurant ""Curtea Veche"" şi locuinţe",municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 2,1692
 469,MM-II-m-B-04738,Casă cu spaţii comerciale la parter,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 3,sec. XIX
@@ -438,7 +475,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 474, MM-II-m-B-04742, Casă, municipiul SIGHETU MARMAŢIEI, Str. Mihaly Ioan de Apşa 13, sec. XIX
 475,MM-II-m-B-04744,Casa Junger,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 19,sec. XIX
 476,MM-II-m-B-04745,Casă,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 21,sec. XIX
-477,MM-II-m-B-04746,"Poşta Veche, azi casă",municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. Mihaly Ioan de Apşa 39,sec. XX
+477,MM-II-m-B-04746,"Poşta Veche, azi casă",municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 39,sec. XX
+478,MM-II-m-B-04747,Casă,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 41,sf. sec. XIX
 479,MM-II-m-B-04748,Casa Cornelia Prielle,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 43,sec. XX
 480,MM-II-s-B-04665,Cimitir evreiesc,municipiul SIGHETU MARMAŢIEI,Str. Sylaghi Istvan 37,sec. XVIII
 481,MM-II-m-B-04749,Şcoala generală nr. 2,municipiul SIGHETU MARMAŢIEI,Str. Şincai Gheorghe 1,1902
@@ -449,7 +487,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 486,MM-II-m-A-04754,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat aparţinător STOICENI; oraş TÂRGU LĂPUŞ,126,1860
 487,MM-II-m-A-04755,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat STRÂMTURA; comuna STRÂMTURA,113,1661
 488,MM-II-m-A-04756,"Biserica de lemn ""Adormirea Maicii Domnului”",sat ŞIEU; comuna ROZAVLEA,103,1760
-489,MM-II-a-A-04757,"Ansamblul bisericii ""Adormirea Maicii",sat ŞIŞEŞTI; comuna ŞIŞEŞTI,250,1675 - 1890
+489,MM-II-a-A-04757,"Ansamblul bisericii ""Adormirea Maicii Domnului” Şişeşti",sat ŞIŞEŞTI; comuna ŞIŞEŞTI,250,1675 - 1890
 490,MM-II-m-A-04757.01,"Biserica Unirii Tuturor Românilor ""Adormirea Maicii Domnului”",sat ŞIŞEŞTI; comuna ŞIŞEŞTI,250,1890
 491,MM-II-m-A-04757.02,Absida bisericii de lemn,sat ŞIŞEŞTI; comuna ŞIŞEŞTI,250,1675
 492,MM-II-m-B-04757.03,Pavilionul Unirii Tuturor Românilor,sat ŞIŞEŞTI; comuna ŞIŞEŞTI,250,sec. XIX
@@ -461,7 +499,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 498,MM-II-m-B-04762.01,Casa curiei,oraş ŞOMCUTA MARE,Str. Horea 4,prima jum. sec. XIX
 499,MM-II-m-B-04762.02,Anexe,oraş ŞOMCUTA MARE,Str. Horea 4,mijl. sec. XIX
 500,MM-II-s-B-04762.03,Parc,oraş ŞOMCUTA MARE,Str. Horea 5,mijl. sec. XIX
-501,MM-II-m-B-04763,"Biserica romano - catolică ""Sf. Vasile"" azi Unitate militară de",oraş ŞOMCUTA MARE,Str. Republicii 1,1895
+501,MM-II-m-B-04763,"Biserica romano - catolică ""Sf. Vasile""",oraş ŞOMCUTA MARE,Str. Republicii 1,1895
+502,MM-II-m-B-04764,"Sediul Districtului Chioar, azi Unitate militară de jandarmi",oraş ŞOMCUTA MARE,Str. Republicii 26,1861
 503,MM-II-m-B-04765,"Cazino, azi B.C.R.- filiala Şomcuta Mare",oraş ŞOMCUTA MARE,Str. Someş 1,sf. sec. XIX
 504,MM-II-m-B-04766,"Tribunalul de plasă, azi Judecătoria şi Parchetul Şomcuta Mare",oraş ŞOMCUTA MARE,Str. Someş 19,sf. sec. XIX
 505,MM-II-m-B-04767,Curia familiei Tibil,oraş ŞOMCUTA MARE,Str. Spitalului 7,sf. sec. XIX
@@ -470,7 +509,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 508,MM-II-m-A-04769.01,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavril”",sat ŞURDEŞTI; comuna ŞIŞEŞTI,145,1766
 509,MM-II-m-A-04770,"Biserica romano catolică ""Tăierea Capului Sf. Ioan""",sat aparţinător TĂUŢII DE SUS; oraş BAIA SPRIE,Str. Forestierului 4,sec. XIV
 510,MM-II-m-A-04771,"Biserica de piatră ""Sf. Apostoli Petru şi Pavel""",sat aparţinător TĂUŢII DE SUS; oraş BAIA SPRIE,Str. Forestierului 16,1773
-511,MM-II-m-B-04772,"Biserica ortodoxă ""Sf. Apostoli Petru şi Pavel” ""Sf. Lorinc""",oraş TĂUŢII MĂGHERĂUŞ MĂGHERĂUŞ,"Str. 1, 134",1560 - 1830
+511,MM-II-m-B-04772,"Biserica ortodoxă ""Sf. Apostoli Petru şi Pavel”",oraş TĂUŢII MĂGHERĂUŞ,"Str. 1, 134",1560 - 1830
+512,MM-II-m-B-04773,"Biserica romano-catolică ""Sf. Lorinc""",oraş TĂUŢII MĂGHERĂUŞ,"Str. 1, 202",1875
 513,MM-II-m-A-04774,Biserica reformată,oraş TĂUŢII MĂGHERĂUŞ,"Str. 1, 210",sec. XIV - XV
 514,MM-II-m-B-04779,Noua casă parohială reformată,oraş TĂUŢII MĂGHERĂUŞ,"Str. 1, 221",1930 - 1940
 515,MM-II-m-B-04778,Vechea casă parohială a bisericii reformate,oraş TĂUŢII MĂGHERĂUŞ,"Str. 1, 223",sec. XVIII
@@ -480,7 +520,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 519,MM-II-m-B-04780,Biserica reformată,oraş TÂRGU LĂPUŞ,Piaţa Eroilor 12,sec XVIII
 520,MM-II-m-B-04781,Şcoala Veche,oraş TÂRGU LĂPUŞ,Piaţa Eroilor 17,1858
 521,MM-II-m-B-04783,Biserica romano-catolică,oraş TÂRGU LĂPUŞ,Piaţa Eroilor 19,1831
-522,MM-II-m-B-04782,"Primăria Veche, azi Poliţia Tg.Lăpuş Zoltan, azi şcoală",oraş TÂRGU LĂPUŞ BOCICOIU MARE,Piaţa Eroilor 25,sec. XIX
+522,MM-II-m-B-04782,"Primăria Veche, azi Poliţia Tg.Lăpuş",oraş TÂRGU LĂPUŞ,Piaţa Eroilor 25,sec. XIX
+523,MM-II-m-B-04784,"Conacul Szaploncsay Zoltan, azi şcoală",sat TISA; comuna BOCICOIU MARE,350,1848 - 1849
 524,MM-II-m-B-04786,"Biserica ""Sf. Arhangheli”",sat TRESTIA; comuna CERNEŞTI,163,1868
 525,MM-II-m-B-20247,Curie,sat aparţinător ŢICĂU; oraş ULMENI,23,sec. XIX
 526,MM-II-m-A-04787,"Biserica de lemn ""Sf. Arhangheli”",oraş ULMENI,Str. Dulfu Petre 36,1720
@@ -489,7 +530,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 529,MM-II-m-A-04790,"Biserica de lemn ""Sf. Nicolae”",sat VALEA CHIOARULUI; comuna VALEA CHIOARULUI,38,sec. XVIII
 530,MM-II-m-A-04791,"Biserica de lemn ""Cuvioasa Paraschiva”",sat VALEA STEJARULUI; comuna VADU IZEI,37,1806
 531,MM-II-m-B-04792,"Biserica ""Naşterea Sf. Maria”",sat VĂLENII LĂPUŞULUI; comuna COROIENI,72,1813
-532,MM-II-m-A-04793,"Biserica de lemn ""Sf. Arhangheli” Arhangheli”",sat VĂLENII ŞOMCUTEI; comuna ŞOMCUTA MARE VALEA CHIOARULUI,202,sec. XVII
+532,MM-II-m-A-04793,"Biserica de lemn ""Sf. Arhangheli”",sat VĂLENII ŞOMCUTEI; comuna ŞOMCUTA MARE,202,sec. XVII
+533,MM-II-m-B-04794,"Biserica de lemn ""Sf. Arhangheli”",sat VĂRAI; comuna VALEA CHIOARULUI,26,1846
 534,MM-II-m-A-04795,"Biserica de lemn ""Sf. Arhangheli”",sat VIMA MICĂ; comuna VIMA MICĂ,65,sec. XVII
 535,MM-II-a-B-21017,"Calea ferată forestieră îngustă ""Valea Vaserului""",oraş VIȘEU DE SUS,,1933
 536,MM-II-m-B-21017.01,Clădirea de călători - Gara Vişeu de Sus,oraş VIȘEU DE SUS,La km 3+035,1933
@@ -500,7 +542,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 541,MM-II-m-B-21017.06,Linia ferată forestieră îngustă Vişeu de Sus - Comanu,,De la km 3+020 la km 43+500,1933
 542,MM-II-m-B-21017.07,Clădirea Haltei Ihoasa - Delta Novat,,La km 5+700,1933
 543,MM-II-m-B-21017.08,Racord Novat - Betigi,,"La km 0 (12+201) - 6,8",1933
-544,MM-II-m-B-21017.09,Podul de beton Novat - 25 ml Roşu - 22 ml,,La km 12+648,1933
+544,MM-II-m-B-21017.09,Podul de beton Novat - 25 ml,,La km 12+648,1933
+545,MM-II-m-B-21017.10,Podul de beton/metal Roşu - 22 ml,,La km 17+025,1933
 546,MM-II-m-B-21017.11,Clădirea Haltei Cozia,,La km 18+547,1933
 547,MM-II-m-B-21017.12,Pod de fier beton/metalic - 23 ml,,La km 19+071,1933
 548,MM-II-m-B-21017.13,Podul de beton Novicior - 23 ml,,La km 20+699,1933
@@ -513,6 +556,7 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 555,MM-II-m-B-21017.20,Clădirea Haltei Suligu,,La km 29+300,1933
 556, MM-II-m-B-21017.21, Clădirea Haltei Faina,, La km 31+660, 1933
 557,MM-II-m-B-21017.22,Dormitor personal - Halta Faina,,La km 31+660,1933
+558,MM-II-m-B-21017.23,Clădirea Haltei Lostun,,La km 33+764,1933
 559,MM-II-m-B-21017.24,Clădirea Haltei Miraj,,La km 35+740,1933
 560,MM-II-m-B-21017.25,Racordul Gura Ştevioara - Ştevioara,,La km 0 (37+600) - 3,1933
 561,MM-II-m-B-21017.26,Pod de beton/metalic Gura Ştevioara - 20 ml,,La km 37+986,1933
@@ -523,7 +567,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 566, MM-II-m-B-04800," Fostul Spital Public ""Irina"", azi atelier meşteşugăresc", oraş VIŞEU DE SUS, Str. Libertăţii 19, sf. sec. XIX
 567,MM-II-m-A-04801,"Biserica ""Bunavestire”",oraş VIŞEU DE SUS,Str. Păcii 2,1842
 568,MM-II-m-B-04802,"Casa parohială a bisericii ""Bunavestire”",oraş VIŞEU DE SUS,Str. Păcii 10,1847
-569,MM-II-s-B-04796,Cimitir evreiesc Şcoala generală nr.1,oraş VIŞEU DE SUS,Str. Poduri,sec.XVIII
+569,MM-II-s-B-04796,Cimitir evreiesc,oraş VIŞEU DE SUS,Str. Poduri,sec.XVIII
+570,MM-II-m-B-04803,"Fostul gimnaziu, azi Şcoala generală nr.1",oraş VIŞEU DE SUS,Str. Vladimirescu Tudor 2,sec. XIX
 571,MM-III-m-B-04804,Monumentul actorului Marton Lendvay,municipiul BAIA MARE,Parcul municipal,
 572,MM-III-m-B-04805,Statuia Minerului,municipiul BAIA MARE,Piaţa Revoluţiei,1958
 573,MM-III-m-A-04806,"Grup statuar ""Sfatul bătrânilor”",municipiul BAIA MARE,"Str. Şincai Gheorghe, în faţa Prefecturii",1970
@@ -532,7 +577,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 576,MM-III-m-B-04809,Monument în memoria Eroilor căzuţi în primul şi al doilea război mondial,sat CĂRBUNARI; comuna DUMBRĂVIŢA,"122, în curtea bisericii ortodoxe",1937 - 1984
 577,MM-III-m-A-04810,"Statuia ""Sfântul Ioan Nepomuk""",sat COŞTIUI; comuna RONA DE SUS,În centrul satului,1742
 578,MM-III-m-B-04814,Monumentul revoluţionarei de la 1848- Clara Leovey,municipiul SIGHETU MARMAŢIEI,"Str. Mihaly Ioan de Apşa, lângă biserica reformată",
-579,MM-III-m-B-04815,Monumentul Eroilor căzuţi pentru Unirea tuturor românilor Petru Dulfu,oraş TÂRGU LĂPUŞ ULMENI,În parcul oraşului din faţa Casei de Cultură,1935
+579,MM-III-m-B-04815,Monumentul Eroilor căzuţi pentru Unirea tuturor românilor,oraş TÂRGU LĂPUŞ,În parcul oraşului din faţa Casei de Cultură,1935
+580,MM-III-m-B-04816,Monumentul scriitorului Petru Dulfu,sat TOHAT; oraş ULMENI,În faţa Căminului Cultural,1930
 581,MM-III-m-B-04817,Cruce pentru cinstirea Eroilor din primul şi al doilea război mondial,oraş ULMENI,În centrul satului,1933 - 1946
 582,MM-III-m-B-04818,Obelisc în memoria Eroilor din primul război mondial,sat aparţinător VĂLENII ŞOMCUTEI; oraş ŞOMCUTA MARE,În centrul satului,1925 - 1930
 583,MM-III-m-B-04819,Monument în memoria Eroilor din primul război mondial,sat VIMA MICĂ; comuna VIMA MICĂ,"133, în curtea grădiniţei",1930
@@ -541,7 +587,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 586,MM-IV-m-B-04822,Monument funerar al familiei George Pop de Băseşti,sat BĂSEŞTI; comuna BĂSEŞTI,Cimitir,1923
 587,MM-IV-m-A-04823,Casa George Pop de Băseşti,sat BĂSEŞTI; comuna BĂSEŞTI,113,1878 - 1890
 588,MM-IV-m-A-04824,Troiţă de lemn,sat BERBEŞTI; comuna GIULEŞTI,6,sec. XVIII
-589,MM-IV-m-B-04825,Cruce în memoria Eroilor căzuţi în primul şi al doilea război mondial piatră,sat aparţinător BOZÂNTA MARE; oraș TĂUŢII-MĂGHERĂUŞ ŞIŞEŞTI,În curtea bisericii ortodoxe,1935 - 1980
+589,MM-IV-m-B-04825,Cruce în memoria Eroilor căzuţi în primul şi al doilea război mondial,sat aparţinător BOZÂNTA MARE; oraș TĂUŢII-MĂGHERĂUŞ,În curtea bisericii ortodoxe,1935 - 1980
+590,MM-IV-s-B-04543.04,Cimitirul cu cruci de piatră,sat CETĂŢELE; comuna ŞIŞEŞTI,164,sec. XVIII - XIX
 591,MM-IV-m-B-04826,Capelă în memoria Eroilor căzuţi în primul şi al doilea război mondial,sat FĂUREŞTI; comuna COPALNIC-MĂNĂŞTUR,,1934 - 1982
 592,MM-IV-m-A-04587.03,Troiţă,sat IEUD; comuna IEUD,"236, ""Din vale”",1935
 593,MM-IV-m-B-04827,Troiţa în memoria Eroilor din primul război mondial,sat MIREŞU MARE; comuna MIREŞU MARE,În curtea bisericii ortodoxe din centrul satului,1940
@@ -551,7 +598,8 @@ Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
 597,MM-IV-m-B-04831,Cruce în memoria Eroilor căzuţi în primul război mondial,sat SĂLNIŢA; comuna VIMA MICĂ,"22, în curtea bisericii",1930
 598,MM-IV-s-A-04832,"""Cimitirul Vesel”",sat SĂPÂNŢA; comuna SĂPÂNŢA,Lângă biserica ortodoxă şi cimitirul vechi,1935
 599,MM-IV-m-B-04833,Obeliscul în memoria lui Erdösy Szilveszter Janos,oraş SEINI,"Piaţa Szilveszter Janos, în faţa bisericii reformate",
-600,MM-IV-m-B-04834,Casa Solomon Wiesel,municipiul SIGHETU MARMAŢIEI MARMAŢIEI,Str. Dragoş Vodă 7,sf. sec. XIX
+600,MM-IV-m-B-04834,Casa Solomon Wiesel,municipiul SIGHETU MARMAŢIEI,Str. Dragoş Vodă 7,sf. sec. XIX
+601,MM-IV-m-A-04835,Casa Mihaly de Apşa,municipiul SIGHETU MARMAŢIEI,Str. Mihaly Ioan de Apşa 17,1880
 602,MM-IV-m-B-04836,Monument pentru cinstirea Eroilor din primul război mondial,municipiul SIGHETU MARMAŢIEI,"Str. Rodnei, în cimitirul ortodox",1920
 603,MM-IV-m-B-04837,Monumentul funerar al pictorului Hollosy Simion (Corbul),municipiul SIGHETU MARMAŢIEI,"Str. Rodnei, cimitirul romano catolic",1917
 604,MM-IV-m-B-04838,Casa Ellie Wiesel,municipiul SIGHETU MARMAŢIEI,Str. Vladimirescu Tudor 1,sec. XX
