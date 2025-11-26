@@ -12,6 +12,16 @@ def is_child_row(row: list) -> bool:
     return row and not row[0].strip()
 
 
+def is_header_row(row: list) -> bool:
+    """Check if a row is a header row."""
+    if not row or len(row) < 6:
+        return False
+    # Check if row matches header pattern: 'Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare'
+    header_values = ['Nr. crt.', 'Cod LMI', 'Denumire', 'Localitate', 'Adresă', 'Datare']
+    row_values = [str(cell).strip() if cell else '' for cell in row[:6]]
+    return row_values == header_values
+
+
 def merge_child_into_parent(parent_row: list, child_row: list) -> None:
     """Merge a child row into its parent row with space separators."""
     for col_idx in range(len(child_row)):
@@ -123,13 +133,23 @@ def extract_table(pdf_path: str, column_coords: dict, table_bbox_percent: dict,
                                 break
                 
                 if any(col.strip() for col in row_columns):
-                    result_rows.append([col.strip() for col in row_columns])
+                    row = [col.strip() for col in row_columns]
+                    # Skip header rows immediately
+                    if is_header_row(row):
+                        continue
+                    # Skip rows that start with '(*)'
+                    if row and len(row) > 0 and str(row[0]).strip().startswith('(*)'):
+                        continue
+                    result_rows.append(row)
             
-            # Remove header row (first row on each page)
-            result_rows = result_rows[1:]
+            # Always remove first row on each page as safety measure (should be table header)
+            # This prevents any page header content from being included
+            if result_rows:
+                result_rows = result_rows[1:]
             
             # Handle cross-page row continuation (parent row on previous page, child row on this page)
-            if last_row_from_previous_page is not None and result_rows:
+            # Only merge if last_row_from_previous_page is not a header
+            if last_row_from_previous_page is not None and result_rows and not is_header_row(last_row_from_previous_page):
                 first_row = result_rows[0]
                 if is_child_row(first_row):
                     merge_child_into_parent(last_row_from_previous_page, first_row)
@@ -140,7 +160,8 @@ def extract_table(pdf_path: str, column_coords: dict, table_bbox_percent: dict,
             
             all_rows.extend(merged_rows)
             
-            if merged_rows:
+            # Only set last_row_from_previous_page if it's not a header
+            if merged_rows and not is_header_row(merged_rows[-1]):
                 last_row_from_previous_page = merged_rows[-1]
             else:
                 last_row_from_previous_page = None

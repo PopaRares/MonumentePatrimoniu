@@ -1,0 +1,498 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,GR-I-s-A-14757,"Situl arheologic de la Giurgiu, punct ""Malu Roşu""",municipiul GIURGIU,"""Malu Roşu”, la cca. 1 km NE de Giurgiu",Vama
+3,GR-I-m-A-14757.01,Aşezare,municipiul GIURGIU,"""Malu Roşu”, la cca. 1 km NE de Giurgiu",Vama Paleolitic superior
+4,GR-I-m-A-14757.02,Aşezare,municipiul GIURGIU,"""Malu Roşu”, la cca. 1 km NE de Giurgiu",Vama Paleolitic inferior
+5,GR-I-s-B-14758,"Situl arheologic de la Adunaţii Copăceni, punct ""Dăneasca”",sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,"""Dăneasca”, în partea de N a satului",
+6,GR-I-m-B-14758.01,Aşezare,sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,"""Dăneasca”, în partea de N a satului",Epoca medievală
+7,GR-I-m-B-14758.02,Aşezare,sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,"""Dăneasca”, în partea de N a satului","Latène, Cultura geto- dacică"
+8,GR-I-m-B-14758.03,Aşezare,sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI BĂNEASA,"""Dăneasca”, în partea de N a satului sat","Epoca bronzului, Cultura Glina; Tei, faza IV"
+10,GR-I-s-B-14760,"Situl arheologic de la Bila, punct ""La Fântână""",sat BILA; comuna SCHITU,"""La Fântână"", la cca. 1,5 km SE de",sat
+11,GR-I-m-B-14760.01,Aşezare,sat BILA; comuna SCHITU,"""La Fântână"", la cca. 1,5 km SE de",sat Epoca medievală timpurie
+12,GR-I-m-B-14760.02,Aşezare,sat BILA; comuna SCHITU,"""La Fântână"", la cca. 1,5 km SE de",sat sec. IV p. Chr.
+13,GR-I-m-B-14760.03,Aşezare,sat BILA; comuna SCHITU,"""La Fântână"", la cca. 1,5 km SE de","sat sec. III-II a. Chr., Latène"
+14,GR-I-m-B-14760.04,Aşezare,sat BILA; comuna SCHITU,"""La Fântână"", la cca. 1,5 km SE de","sat Epoca bronzului timpuriu, Cultura Glina"
+15,GR-I-s-B-14761,"Situl arheologic de la Bila, punct ""Grajdurile C.A.P.""",sat BILA; comuna SCHITU,"""Grajdurile CAP"", la cca. 500 m grajdurile fostului CAP",NV de
+16,GR-I-m-B-14761.01,Aşezare,sat BILA; comuna SCHITU,"""Grajdurile CAP"", la cca. 500 m grajdurile fostului CAP","NV de Epoca medievală timpurie, Cultura Dridu"
+17,GR-I-m-B-14761.02,Aşezare,sat BILA; comuna SCHITU,"""Grajdurile CAP"", la cca. 500 m grajdurile fostului CAP",NV de sec. IV p. Chr.
+18,GR-I-s-B-14762,"Situl arheologic de la Bila, punct ""La Cimitir""",sat BILA; comuna SCHITU,"""La Cimitir"", la E de cimitir",
+19,GR-I-m-B-14762.01,Aşezare,sat BILA; comuna SCHITU,"""La Cimitir"", la E de cimitir",Epoca romană
+20, GR-I-m-B-14762.02, Aşezare, sat BILA; comuna SCHITU," ""La Cimitir"", la E de cimitir", Hallstatt
+21,GR-I-s-B-14763,"Situl arheologic de la Braniştea, punct ""Măgura Mare”",sat BRANIŞTEA; comuna OINACU OINACU,"""Măgura Mare”, lângă braţul Comasca, la S de sat, în apropierea cimitirului Comasca, la S de sat, în apropierea", romană
+23,GR-I-m-B-14763.02,Necropolă,sat BRANIŞTEA; comuna OINACU,"""Măgura Mare”, lângă braţul Comasca, la S de sat, în apropierea cimitirului",sec. IV p. Chr.
+24,GR-I-m-B-14763.03,Aşezare,sat BRANIŞTEA; comuna OINACU,"""Măgura Mare”, lângă braţul Comasca, la S de sat, în apropierea cimitirului",Hallstatt
+25,GR-I-m-B-14763.04,Aşezare,sat BRANIŞTEA; comuna OINACU,"""Măgura Mare”, lângă braţul Comasca, la S de sat, în apropierea cimitirului","Epoca bronzului, Cultura Tei, faza III"
+26,GR-I-m-B-14763.05,Aşezare,sat BRANIŞTEA; comuna OINACU,"""Măgura Mare”, lângă braţul Comasca, la S de sat, în apropierea cimitirului","Neolitic, Cultura Boian; Cultura Gumelniţa"
+27,GR-I-s-B-14764,"Aşezarea de tip tell de la Brăniştari, punct ""La Popina”",sat BRĂNIŞTARI; comuna CĂLUGĂRENI,"""La Popina”, la SE de sat","Neolitic, Cultura Boian; Cultura Gumelniţa"
+28,GR-I-s-B-14765,"Situl arheologic de la Brăniştari, punct ""Gropile lui Sulă”",sat BRĂNIŞTARI; comuna CĂLUGĂRENI,"""Gropile lui Sulă”",
+29,GR-I-m-B-14765.01,Aşezare,sat BRĂNIŞTARI; comuna CĂLUGĂRENI,"""Gropile lui Sulă”, la 1 km E de sat",Epoca medievală timpurie
+30,GR-I-m-B-14765.02,Aşezare,sat BRĂNIŞTARI; comuna CĂLUGĂRENI,"""Gropile lui Sulă”, la 1 km E de sat","Neolitic, Cultura Boian; Cultura Gumelniţa"
+31,GR-I-s-B-14766,"Aşezarea de tip tell de la Bucşani, punct ""La pod"" Cartojani, punct ""La",sat BUCŞANI; comuna BUCŞANI ROATA DE JOS,"""La pod"", la marginea satului, în stânga şoselei dinspre Vadu Lat","Neolitic, Cultura Gumelniţa"
+33,GR-I-m-B-14767.01,Aşezare,sat CARTOJANI; comuna ROATA DE JOS,"""La Carieră”, la cca. 1 km N de sat",Latène
+34,GR-I-m-B-14767.02,Aşezare,sat CARTOJANI; comuna ROATA DE JOS,"""La Carieră”, la cca. 1 km N de sat","Epoca bronzului, Cultura Tei, faza III"
+35,GR-I-s-B-14768,Aşezare,sat CARTOJANI; comuna ROATA DE JOS,"""La Troiţă”, în vatra satului","Epoca bronzului, Cultura Glina; Cultura Tei"
+36,GR-I-s-B-14769,Situl arheologic de la Cetăţuia,sat CETĂŢUIA; comuna GĂUJANI,"La ieşirea din sat către Găujani, terasa mijlocie a gârlei Pasărea",pe
+37,GR-I-m-B-14769.01,Aşezare,sat CETĂŢUIA; comuna GĂUJANI,"La ieşirea din sat către Găujani, terasa mijlocie a gârlei Pasărea","pe sec. X-XI, Epoca medievală timpurie"
+38,GR-I-m-B-14769.02,Aşezare,sat CETĂŢUIA; comuna GĂUJANI,"La ieşirea din sat către Găujani, terasa mijlocie a gârlei Pasărea","pe sec. III-IV, Epoca daco- romană"
+39,GR-I-s-B-14770,"Situl arheologic de la Clejani, punct ""La Carieră”",sat CLEJANI; comuna CLEJANI,"""La Carieră”, la 500 m E de sat",
+40, GR-I-m-B-14770.01, Aşezare, sat CLEJANI; comuna CLEJANI," ""La Carieră”, la 500 m E de sat", Hallstatt
+41,GR-I-m-B-14770.02,Aşezare,sat CLEJANI; comuna CLEJANI,"""La Carieră”, la 500 m E de sat","Epoca bronzului timpuriu, Cultura Glina III şi Cultura Tei"
+42,GR-I-s-B-14771,"Situl arheologic de la Comana, punct ""Dealul Morţii”",sat COMANA; comuna COMANA COMANA,"""Dealul Morţii”, la NE de sat, pe Goii Goii","valea timpuriu, Cultura Glina"
+44,GR-I-m-B-14771.02,Aşezare,sat COMANA; comuna COMANA,"""Dealul Morţii”, la NE de sat, pe Goii","valea Neolitic, Cultura Boian; Cultura Gumelniţa"
+45,GR-I-s-B-14772,"Aşezarea de la Comana, punct ""Valea lui Moş Ion”",sat COMANA; comuna COMANA,"""Valea lui Moş Ion”, la V de pădurea Comana","Neolitic, Cultura Boian; Cultura Gumelniţa"
+46,GR-I-s-B-14773,"Situl arheologic de la Comana, punct ""Puţul Popii”",sat COMANA; comuna COMANA,"""Puţul Popii”",
+47,GR-I-m-B-14773.01,Aşezare,sat COMANA; comuna COMANA,"""Puţul Popii”, la 300 m N de sat","Epoca bronzului, Cultura Tei, faza IV"
+48,GR-I-m-B-14773.02,Aşezare,sat COMANA; comuna COMANA,"""Puţul Popii”, la 300 m N de sat","Neolitic, Cultura Boian; Cultura Gumelniţa"
+49,GR-I-s-B-14774,"Aşezarea de la Comana, punct ""Valea Goii”",sat COMANA; comuna COMANA,"Măgura de pe ""Valea Goii”, la N","de sat Neolitic, Cultura Boian; Cultura Gumelniţa"
+50,GR-I-s-B-14775,"Aşezarea de la Crevedia Mică, punct ""Podeţ”",sat CREVEDIA MICĂ; comuna CREVEDIA MARE,"""Podeţ”, la cca. 500 m de intersecţia şoselei spre Bucureşti cu cea spre Găeşti","Latène, Cultura geto- dacică"
+51,GR-I-s-B-14776,"Situl arheologic de la Daia, punct ""Valea Fântânilor""",sat DAIA; comuna DAIA,"La cca. 2 km NV de sat, pe Valea Fântânilor",
+52,GR-I-m-B-14776.01,Aşezare,sat DAIA; comuna DAIA,"La cca. 2 km NV de sat, pe Valea Fântânilor","sec. III - II a. Chr., Latène"
+53,GR-I-m-B-14776.02,Aşezare,sat DAIA; comuna DAIA,"La cca. 2 km NV de sat, pe Valea Fântânilor",Hallstatt
+54,GR-I-s-B-14777,"Situl arheologic de la Daia, punct ""Valea Făgădău""",sat DAIA; comuna DAIA,"""Valea Făgădău"", la cca. 500 m de sat de sat",V faţă migraţiilor
+56,GR-I-m-B-14777.02,Aşezare,sat DAIA; comuna DAIA,"""Valea Făgădău"", la cca. 500 m de sat","V faţă sec. III - II a. Chr., Latène"
+57,GR-I-m-B-14777.03,Aşezare,sat DAIA; comuna DAIA,"""Valea Făgădău"", la cca. 500 m de sat","V faţă Epoca bronzului mijlociu, Cultura Tei, faza IV"
+58,GR-I-s-B-14778,Situl arheologic de la Dărăşti -Vlaşca,sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,"La cca. 700 m E de sat, de o parte alta a şoselei spre Mihăileşti, până malul Argeşului",şi de la
+59,GR-I-m-B-14778.01,Aşezare,sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,"La cca. 700 m E de sat, de o parte alta a şoselei spre Mihăileşti, până malul Argeşului","şi de Epoca medievală la timpurie, Cultura geto- dacică"
+60,GR-I-m-B-14778.02,Aşezare,sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,"La cca. 700 m E de sat, de o parte alta a şoselei spre Mihăileşti, până malul Argeşului","şi de sec. III - II a. Chr., la Latène"
+61,GR-I-m-B-14778.03,Aşezare,sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,"La cca. 700 m E de sat, de o parte alta a şoselei spre Mihăileşti, până malul Argeşului","şi de Neolitic, Cultura Boian; la Cultura Gumelniţa"
+62,GR-I-s-B-14779,Situl arheologic de la Dobreni,sat DOBRENI; comuna VĂRĂŞTI,"În curtea fostului CAP şi pe câmp, vecinătate",în
+63,GR-I-m-B-14779.01,Aşezare,sat DOBRENI; comuna VĂRĂŞTI,"În curtea fostului CAP şi pe câmp, vecinătate","în Neolitic, Cultura Gumelniţa"
+64,GR-I-m-B-14779.02,Aşezare,sat DOBRENI; comuna VĂRĂŞTI,"În curtea fostului CAP şi pe câmp, vecinătate","în Epoca bronzului, Cultura Tei, faza III"
+65,GR-I-s-B-14780,"Aşezare Drăghiceanu punct ""La",sat DOBRENI; comuna VĂRĂŞTI GOGOŞARI,"La marginea de E a satului, pe malul stâng al Sabarului (albia veche) de localitate","Neolitic, Cultura Gumelniţa"
+67,GR-I-m-B-14781.01,Aşezare,sat DRĂGHICEANU; comuna GOGOŞARI,"""La Fundu Drăghiceanu”, movile de localitate",la NV Neolitic timpuriu
+68,GR-I-m-B-14781.02,Aşezare,sat DRĂGHICEANU; comuna GOGOŞARI,"""La Fundu Drăghiceanu”, movile de localitate",la NV Paleolitic final
+69,GR-I-m-B-14781.03,Aşezare,sat DRĂGHICEANU; comuna GOGOŞARI,"""La Fundu Drăghiceanu”, movile de localitate","la NV Paleolitic superior, Cultura Aurignacian"
+70,GR-I-s-B-14782,"Situl arheologic de la Frăteşti, punct ""Dealul Lagărului”",sat FRĂTEŞTI; comuna FRĂTEŞTI,"""Dealul Lagărului”, la NV de sat",
+71,GR-I-m-B-14782.01,Aşezare,sat FRĂTEŞTI; comuna FRĂTEŞTI,"""Dealul Lagărului”, la NV de sat","sec. III - I a. Chr., Latène"
+72,GR-I-m-B-14782.02,Aşezare,sat FRĂTEŞTI; comuna FRĂTEŞTI,"""Dealul Lagărului”, la NV de sat",Hallstatt
+73,GR-I-m-B-14782.03,Aşezare,sat FRĂTEŞTI; comuna FRĂTEŞTI,"""Dealul Lagărului”, la NV de sat","Epoca bronzului, Cultura Tei, faza IV; Cultura Coslogeni"
+74,GR-I-m-B-14782.04,Aşezare,sat FRĂTEŞTI; comuna FRĂTEŞTI,"""Dealul Lagărului”, la NV de sat","Neolitic, Cultura Boian"
+75,GR-I-s-B-14783,Aşezare,sat GĂUJANI; comuna GĂUJANI,"""Valea lui Guţu Gheorghe”, la S","de sat Epoca bronzului, Cultura Tei"
+76,GR-I-s-B-14784,"Situl arheologic de la Găujani, punct ""Pepenişte”",sat GĂUJANI; comuna GĂUJANI GĂUJANI,"""Pepenişte”, la S de sat", Epoca daco-romană
+78,GR-I-m-B-14784.02,Aşezare,sat GĂUJANI; comuna GĂUJANI,"""Pepenişte”, la S de sat",Hallstatt
+79,GR-I-s-B-14785,"Situl arheologic de la Găujani, punct ""La Canalul Mare""",sat GĂUJANI; comuna GĂUJANI,"""La Canalul Mare”, la E de sat",
+80,GR-I-m-B-14785.01,Aşezare,sat GĂUJANI; comuna GĂUJANI,"""La Canalul Mare”, la E de sat","sec. XV, Epoca medievală"
+81,GR-I-m-B-14785.02,Aşezare,sat GĂUJANI; comuna GĂUJANI,"""La Canalul Mare”, la E de sat","sec. X - XI, Epoca medievală timpurie, Cultura Dridu"
+82,GR-I-m-B-14785.03,Aşezare,sat GĂUJANI; comuna GĂUJANI,"""La Canalul Mare”, la E de sat","sec. III - IV p. Chr., Epoca daco-romană"
+83,GR-I-s-B-14786,Aşezare,sat GHIMPAŢI; comuna GHIMPAŢI,La cca. 300 m E de sat,"Neolitic, Cultura Boian"
+84,GR-I-s-B-14787,"Situl arheologic de la Ghizdaru, punct ""Valea Gurbanului""",sat GHIZDARU; comuna STĂNEŞTI,"""Valea Gurbanului”, din spatele până la cca. 2 km V de sat",şcolii
+85,GR-I-m-B-14787.01,Aşezare,sat GHIZDARU; comuna STĂNEŞTI,"""Valea Gurbanului”, din spatele până la cca. 2 km V de sat","şcolii sec. VIII - IX, Epoca medievală timpurie"
+86,GR-I-m-B-14787.02,Aşezare,sat GHIZDARU; comuna STĂNEŞTI,"""Valea Gurbanului”, din spatele până la cca. 2 km V de sat","şcolii sec. III - II a. Chr., Latène"
+87,GR-I-m-B-14787.03,"Aşezare Ghizdaru, punct ""Fundul",sat GHIZDARU; comuna STĂNEŞTI STĂNEŞTI,"""Valea Gurbanului”, din spatele până la cca. 2 km V de sat deal, la 500 m E de calea ferată","şcolii sec. IV, Epoca daco- romană, Cultura Sântana de Mureş- Cerneahov"
+89,GR-I-m-B-14788.01,Aşezare,sat GHIZDARU; comuna STĂNEŞTI,"""Fundul Gurbanului”, pe un bot deal, la 500 m E de calea ferată Giurgiu-Videle","de Epoca medievală timpurie, Cultura Dridu"
+90,GR-I-m-B-14788.02,Aşezare,sat GHIZDARU; comuna STĂNEŞTI,"""Fundul Gurbanului”, pe un bot deal, la 500 m E de calea ferată Giurgiu-Videle",de Hallstatt
+91,GR-I-s-B-14789,"Situl arheologic de la Gogoşari, punct ""Gârla Gogoşari”",sat GOGOŞARI; comuna GOGOŞARI,"""Gârla Gogoşari”, la SV de sat",Epoca medievală
+92,GR-I-m-B-14789.01,Aşezare,sat GOGOŞARI; comuna GOGOŞARI,"""Gârla Gogoşari”, la SV de sat",Epoca medievală
+93, GR-I-m-B-14789.02, Necropolă, sat GOGOŞARI; comuna GOGOŞARI," ""Gârla Gogoşari”, la SV de sat", Epoca medievală
+94,GR-I-s-B-14790,"Situl arheologic de la Gostinu, punct ""Grindul Bunei”",sat GOSTINU; comuna GOSTINU,"""Grindul Bunei”, la V de sat, în zona inundabilă a luncii Dunării",
+95,GR-I-m-B-14790.01,Aşezare,sat GOSTINU; comuna GOSTINU,"""Grindul Bunei”, la V de sat, în zona inundabilă a luncii Dunării",Latène
+96,GR-I-s-B-14790.02,Aşezare,sat GOSTINU; comuna GOSTINU,"""Grindul Bunei”, la V de sat, în zona inundabilă a luncii Dunării",Hallstatt
+97,GR-I-s-B-14791,"Situl arheologic de la Greaca, punct ""Valea Fântânilor”",sat GREACA; comuna GREACA GREACA,"""Valea Fântânilor”, în incinta Staţiunii Viticole, pe o terasă la N de fostul Greaca Viticole, pe o terasă la N de fostul", lac lac medievală timpurie
+99,GR-I-m-B-14791.02,Aşezare,sat GREACA; comuna GREACA,"""Valea Fântânilor”, în incinta Staţiunii Viticole, pe o terasă la N de fostul Greaca","sec. III - II a. Chr., lac Latène"
+100,GR-I-m-B-14791.03,Aşezare,sat GREACA; comuna GREACA,"""Valea Fântânilor”, în incinta Staţiunii Viticole, pe o terasă la N de fostul Greaca","Neolitic, Cultura Boian, lac faza Bolintineanu"
+101,GR-I-s-B-14792,"Situl arheologic de la Greaca, punct ""La Cruţescu”",sat GREACA; comuna GREACA,"""La Cruţescu” şi pe terasa învecinată, la N de fostul lac Greaca",
+102,GR-I-m-B-14792.01,Aşezare,sat GREACA; comuna GREACA,"""La Cruţescu” şi pe terasa învecinată, la N de fostul lac Greaca",Epoca fierului
+103, GR-I-m-B-14792.02, Aşezare, sat GREACA; comuna GREACA," ""La Cruţescu” şi pe terasa învecinată, la N de fostul lac Greaca"," Neolitic, Cultura Gumelniţa"
+104,GR-I-s-B-14793,"Situl arheologic de la Greaca, punct ""La Slom""",sat GREACA; comuna GREACA,"""La Slom”, la cca. 2 km E de sat",
+105,GR-I-m-B-14793.01,Aşezare,sat GREACA; comuna GREACA,"""La Slom”, la cca. 2 km E de sat","sec. VIII - IX p. Chr., Epoca medieval timpurie, Cultura Dridu"
+106,GR-I-m-B-14793.02,Aşezare,sat GREACA; comuna GREACA,"""La Slom”, la cca. 2 km E de sat","sec. III - I a. Chr., Latène"
+107,GR-I-m-B-14793.03,Aşezare,sat GREACA; comuna GREACA,"""La Slom”, la cca. 2 km E de sat",Hallstatt timpuriu şi mijlociu
+108,GR-I-m-B-14793.04,Aşezare,sat GREACA; comuna GREACA,"""La Slom”, la cca. 2 km E de sat","Neolitic, Cultura Boian, faza Giuleşti; Cultura"
+109,GR-I-s-B-14794,Situl arheologic de la Herăşti,sat HERĂŞTI; comuna HERĂŞTI,"""Grădina IAS”",sec. IV
+110,GR-I-m-B-14794.01,Necropolă,sat HERĂŞTI; comuna HERĂŞTI,"""Grădina IAS”, la E de satul Herăşti","sec. IV, Epoca daco- romană"
+111,GR-I-m-B-14794.02,Aşezare,sat HERĂŞTI; comuna HERĂŞTI,"""Grădina IAS”, la E de sat","Neolitic, Cultura Boian; Cultura Gumelniţa"
+112,GR-I-s-B-14795,"Situl arheologic de la Hulubeşti, punct ""La Beci”",sat HULUBEŞTI; comuna CĂLUGĂRENI,"""La Beci”, la NE de sat, pe terasa Neajlovului",
+113,GR-I-m-B-14795.01,Aşezare,sat HULUBEŞTI; comuna CĂLUGĂRENI,"""La Beci”, la NE de sat, pe terasa Neajlovului","Epoca medievală timpurie, Cultura Dridu"
+114,GR-I-m-B-14795.02,Aşezare,sat HULUBEŞTI; comuna CĂLUGĂRENI,"""La Beci”, la NE de sat, pe terasa Neajlovului","Latène, Cultura geto- dacică"
+115,GR-I-m-B-14795.03,Aşezare,sat HULUBEŞTI; comuna CĂLUGĂRENI,"""La Beci”, la NE de sat, pe terasa Neajlovului","Epoca bronzului, Cultura Tei, faza IV"
+116,GR-I-s-B-14796,"Aşezarea de la Isvoarele, punct ""La Fântână”",sat ISVOARELE; comuna ISVOARELE,"""La Fântână”, la NV de sat","Neolitic, Cultura Gumelniţa"
+117,GR-I-s-B-14797,"Necropola de la Izvoru, punct ""La Gropi”",sat IZVORU; comuna GOGOŞARI,"""La Gropi”, la cca. 500 m V de sat, lângă balta Izvoru",sec. IV p. Chr.
+118,GR-I-s-B-14798,"Aşezarea de tip tell de la Izvoru, punct ""Spital”",sat IZVORU; comuna VÂNĂTORII MICI,"""Spital”, lângă biserica veche de pe malul stâng al Neajlovului","lemn, Neolitic, Cultura Gumelniţa"
+119,GR-I-s-B-14799,"Situl arheologic de la Letca Veche, punct ""Ţăţăr""",sat LETCA VECHE; comuna LETCA NOUĂ,"""Ţaţăr”, la cca. 2 km N de sat",Epoca bronzului
+120,GR-I-m-B-14799.01,Aşezare,sat LETCA VECHE; comuna LETCA NOUĂ LETCA NOUĂ,"""Ţaţăr”, la cca. 2 km N de sat","Latène, Cultura geto- dacică timpuriu, Cultura Glina"
+122,GR-I-s-B-14800,"Situl arheologic de la Malu Spart, punct ""Canton""",sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Canton"", în amonte, pe valea Argeşului",
+123,GR-I-m-B-14800.01,Aşezare,sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Canton"", în amonte, pe valea Argeşului",Latène
+124,GR-I-m-B-14800.02,Aşezare,sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Canton"", în amonte, pe valea Argeşului","Neolitic, Cultura Boian"
+125,GR-I-s-B-14801,"Situl arheologic de la Malu Spart, punct ""Suseni""",sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Suseni"", pe terasa înaltă a Argeşului",
+126,GR-I-m-B-14801.01,Aşezare,sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Suseni"", pe terasa înaltă a Argeşului","Epoca medievală timpurie, Cultura Dridu"
+127,GR-I-m-B-14801.02,Aşezare,sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Suseni"", pe terasa înaltă a Argeşului","Latène, Cultura geto- dacică"
+128,GR-I-m-B-14801.03,Aşezare,sat aparţinător MALU SPART; oraş BOLINTIN VALE,"""Suseni"", pe terasa înaltă a Argeşului","Epoca bronzului timpuriu, Cultura Glina"
+129,GR-I-s-B-14802,Aşezare,sat MÂRŞA; comuna MÂRŞA,"""La marginea satului”, în dreapta drumului spre Roata de Jos","Epoca bronzului, Cultura Tei, faza III"
+130,GR-I-s-B-14803,Aşezare,sat MÂRŞA; comuna MÂRŞA,"La ieşirea din sat, în dreapta drumului spre Obedeni şi Goleasca","Epoca medievală timpurie, Cultura Dridu"
+131,GR-I-s-B-14804,Aşezare,sat MIHAI BRAVU; comuna MIHAI BRAVU,"""La Olăreasa” sau ""La Poduri”, la de sat, pe malul bălţii Neajlovului",NE Latène
+132,GR-I-s-B-14805,"Situl arheologic de la Mihăileşti, punct ""Biserica Tufa-Costieni”",oraş MIHĂILEŞTI,"""Biserica Tufa-Costieni”, cartier",Tufa
+133,GR-I-m-B-14805.01,Aşezare,oraş MIHĂILEŞTI,"""Biserica Tufa-Costieni”, cartier","Tufa sec. III - I a. Chr., Latène timpuriu, Cultura Glina"
+135,GR-I-s-B-14806,Situl arheologic de la Mironeşti,sat MIRONEŞTI; comuna GOSTINARI,"La cca. 500 m V de sat, pe malul Argeşului",
+136,GR-I-m-B-14806.01,Aşezare,sat MIRONEŞTI; comuna GOSTINARI,"La cca. 500 m V de sat, pe malul Argeşului","Latène, Cultura geto- dacică"
+137,GR-I-m-B-14806.02,Aşezare,sat MIRONEŞTI; comuna GOSTINARI,"La cca. 500 m V de sat, pe malul Argeşului","Epoca bronzului, Cultura Tei, faza IV"
+138,GR-I-s-B-14807,"Situl arheologic de la Mironeşti, punct ""În vale""",sat MIRONEŞTI; comuna GOSTINARI,"""În vale"", la cca. 1 km E de sat, pe malul Argeşului",
+139,GR-I-m-B-14807.01,Aşezare,sat MIRONEŞTI; comuna GOSTINARI,"""În vale"", la cca. 1 km E de sat, pe malul Argeşului","sec. VIII - IX, Epoca medievală timpurie"
+140,GR-I-m-B-14807.02,Aşezare,sat MIRONEŞTI; comuna GOSTINARI,"""În vale"", la cca. 1 km E de sat, pe malul Argeşului","sec. IV, Epoca romană"
+141,GR-I-s-B-14808,"Situl arheologic de la Mironeşti, punct ""Malu Roşu""",sat MIRONEŞTI; comuna GOSTINARI,"""Malu Roşu”, pe malul drept al Argeşului",
+142, GR-I-m-B-14808.01, Aşezare, sat MIRONEŞTI; comuna GOSTINARI," ""Malu Roşu”, pe malul drept al Argeşului"," Latène, Cultura geto- dacică"
+143,GR-I-m-B-14808.02,Aşezare,sat MIRONEŞTI; comuna GOSTINARI,"""Malu Roşu”, pe malul drept al Argeşului","Epoca bronzului, Cultura Tei"
+144,GR-I-s-B-14809,Aşezare,sat MOGOŞEŞTI; comuna ADUNAŢII COPĂCENI,"La marginea de V a satului, între primele case şi malul Argeşului","Epoca bronzului, Cultura Tei, faza III - IV (de tranziţie)"
+145,GR-I-s-B-14810,Situl arheologic de la Naipu,sat NAIPU; comuna GHIMPAŢI GHIMPAŢI,"La V de sat, lângă Câlniştea",
+147,GR-I-m-B-14810.02,Aşezare,sat NAIPU; comuna GHIMPAŢI,"La V de sat, lângă Câlniştea","Neolitic, Cultura Gumelniţa"
+148,GR-I-s-B-14811,Ruinele Schitului Babele,sat NEAJLOV; comuna CLEJANI,"Pe terasa Neajlovului, lângă biserica ""Adormirea Maicii Domnului""",sec. XV - XVII
+149,GR-I-s-B-14812,"Situl arheologic de la Onceşti, punct ""Valea Diului""",sat ONCEŞTI; comuna STĂNEŞTI,"""Valea Diului”, pe partea stângă pârâului",a
+150,GR-I-m-B-14812.01,Aşezare,sat ONCEŞTI; comuna STĂNEŞTI,"""Valea Diului”, pe partea stângă pârâului",a sec. XIII - XIV
+151,GR-I-m-B-14812.02,Aşezare,sat ONCEŞTI; comuna STĂNEŞTI,"""Valea Diului”, pe partea stângă pârâului",a Latène
+152,GR-I-s-B-14813,"Situl arheologic de la Onceşti, punct ""Valea Balgiului""",sat ONCEŞTI; comuna STĂNEŞTI,"""Valea Balgiului”, pe versantul de",SV
+153,GR-I-m-B-14813.01,Aşezare,sat ONCEŞTI; comuna STĂNEŞTI,"""Valea Balgiului”, pe versantul de","SV Epoca medievală timpurie, Cultura Dridu"
+154, GR-I-m-B-14813.02, Aşezare, sat ONCEŞTI; comuna STĂNEŞTI," ""Valea Balgiului”, pe versantul de"," SV Latène, Cultura geto- dacică"
+155,GR-I-s-B-14814,"Aşezarea de tip tell de la Pietrele, punct ""Gorgana”",sat PIETRELE; comuna BĂNEASA,"""Gorgana”, la S de sat, pe o terasă N de gârla Comasca","la Neolitic, Cultura Boian"
+156,GR-I-s-B-14815,Aşezare,sat PIETRELE; comuna BĂNEASA,La jumătatea distanţei dintre satele Pietrele şi Puieni,"Neolitic, Cultura Gumelniţa"
+157,GR-I-s-A-14816,"Cetatea geto-dacică ""Argedava""",sat aparţinător POPEŞTI; oraş MIHĂILEŞTI oraş MIHĂILEŞTI,"""La Nucet”, la N de sat spre Novaci","Latène, Cultura geto- dacică dacică"
+159,GR-I-s-B-14818,Aşezare,sat PRUNDU; comuna PRUNDU,"""Mădăeşti”, la cca. 1,5 km E de",sat Epoca medievală timpurie
+160,GR-I-s-B-14819,Situl arheologic de la Prundu,sat PRUNDU; comuna PRUNDU,Între sat şi Valea Morii,
+161,GR-I-m-B-14819.01,Aşezare,sat PRUNDU; comuna PRUNDU,Între sat şi Valea Morii,Epoca medievală timpurie
+162,GR-I-m-B-14819.02,Aşezare,sat PRUNDU; comuna PRUNDU,Între sat şi Valea Morii,"sec. III - II a. Chr., Latène"
+163,GR-I-s-B-14820,"Situl arheologic de la Prundu, punct ""Malul Molescului""",sat PRUNDU; comuna PRUNDU,"""Malul Molescului”, la cca. 1 km sat",N de
+164,GR-I-m-B-14820.01,Aşezare,sat PRUNDU; comuna PRUNDU,"""Malul Molescului”, la cca. 1 km sat",N de Epoca medievală timpurie
+165,GR-I-m-B-14820.02,Aşezare,sat PRUNDU; comuna PRUNDU,"""Malul Molescului”, la cca. 1 km sat",N de Latène
+166,GR-I-s-B-14821,"Situl arheologic de la Prundu, punct ""Lacul Greaca""",sat PRUNDU; comuna PRUNDU,"""Lacul Greaca”, la cca. 2,5 km E Prundu, pe malul fostului lac",de
+167,GR-I-m-B-14821.01,Aşezare,sat PRUNDU; comuna PRUNDU,"""Lacul Greaca”, la cca. 2,5 km E Prundu, pe malul fostului lac","de sec. VIII - IX, Epoca medievală timpurie"
+168,GR-I-m-B-14821.02,Aşezare,sat PRUNDU; comuna PRUNDU,"""Lacul Greaca”, la cca. 2,5 km E Prundu, pe malul fostului lac","de sec. IV, Epoca daco- romană"
+169,GR-I-m-B-14821.03,Aşezare,sat PRUNDU; comuna PRUNDU PRUNDU,"""Lacul Greaca”, la cca. 2,5 km E Prundu, pe malul fostului lac","de Neolitic, Cultura Gumelniţa medievală timpurie"
+171,GR-I-s-B-14823,Aşezare,sat PUIENI; comuna PRUNDU,La marginea de S a satului,Epoca medievală timpurie
+172,GR-I-s-B-14824,"Situl arheologic de la Puţu Greci, punct ""Lacul Zboiu”",sat PUŢU GRECI; comuna GREACA,"""Lacul Zboiu”, la S de sat",
+173,GR-I-m-B-14824.01,Aşezare,sat PUŢU GRECI; comuna GREACA,"""Lacul Zboiu”, la S de sat","Epoca medievală timpurie, Cultura Dridu"
+174,GR-I-m-B-14824.02,Aşezare,sat PUŢU GRECI; comuna GREACA,"""Lacul Zboiu”, la S de sat",sec. IV p.Chr.
+175,GR-I-s-B-14825,"Situl arheologic de la Remus, punct ""La seră”",sat REMUS; comuna FRĂTEŞTI,"""La seră”, la cca. 300 m S de sat, şoseaua Giurgiu - Bucureşti",lângă
+176,GR-I-m-B-14825.01,Aşezare dacică,sat REMUS; comuna FRĂTEŞTI,"""La seră”, la cca. 300 m S de sat, şoseaua Giurgiu - Bucureşti","lângă sec. III - I a. Chr., Latène"
+177,GR-I-m-B-14825.02,Aşezare,sat REMUS; comuna FRĂTEŞTI,"""La seră”, la cca. 300 m S de sat, şoseaua Giurgiu - Bucureşti",lângă Epoca bronzului
+178,GR-I-m-B-14825.03,Necropolă,sat REMUS; comuna FRĂTEŞTI,"""La seră”, la cca. 300 m S de sat, şoseaua Giurgiu - Bucureşti","lângă Epoca bronzului, Cultura Zimnicea - Plovdiv"
+179,GR-I-s-B-14826,Aşezare,sat ROATA DE JOS; comuna ROATA DE JOS,La intrarea în sat dinspre Cartojani,"Epoca bronzului, Cultura Tei"
+180,GR-I-s-B-14827,Situl arheologic de la Schitu,sat SCHITU; comuna SCHITU,La marginea de N-NV a satului lângă fostele magazii CAP,
+181,GR-I-m-B-14827.01,Aşezare,sat SCHITU; comuna SCHITU,La marginea de N-NV a satului lângă fostele magazii CAP fostele magazii CAP,"sec. IV, Epoca daco- romană, Cultura Sântana de Mureş - Cerneahov"
+183,GR-I-m-B-14827.03,Aşezare,sat SCHITU; comuna SCHITU,La marginea de N-NV a satului lângă fostele magazii CAP,"Epoca bronzului timpuriu, Cultura Glina"
+184,GR-I-s-B-14828,Situl arheologic de la Schitu,sat SCHITU; comuna SCHITU,"La cca. 1-1,5 km SV de sat",
+185,GR-I-m-B-14828.01,Aşezare,sat SCHITU; comuna SCHITU,"La cca. 1-1,5 km SV de sat","sec. IV p. Chr., Epoca daco-romană, Cultura Sântana de Mureş"
+186,GR-I-m-B-14828.02,Aşezare,sat SCHITU; comuna SCHITU,"La cca. 1-1,5 km SV de sat","Epoca bronzului timpuriu, Cultura Glina"
+187,GR-I-m-B-14828.03,Aşezare,sat SCHITU; comuna SCHITU,"La cca. 1-1,5 km SV de sat","Neolitic, Cultura Boian"
+188,GR-I-s-B-14829,Aşezarea de tip tell de la Schitu,sat SCHITU; comuna SCHITU,"""Măgura lui Boboc”, la cca. 3 km satul Schitu, pe drumul către Naipu","de Neolitic, Cultura Gumelniţa"
+189,GR-I-s-B-14830,"Situl arheologic de la Sfântu Gheorghe, punct ""Valea Cacoviei”",sat SFÂNTU GHEORGHE; comuna BĂNEASA,"""Valea Cacoviei”, la 1,5 km de intrarea în sat dinspre Băneasa",
+190, GR-I-m-B-14830.01, Aşezare, sat SFÂNTU GHEORGHE; comuna BĂNEASA," ""Valea Cacoviei”, la 1,5 km de intrarea în sat dinspre Băneasa"," sec. IX - X, Epoca medievală timpurie"
+191,GR-I-m-B-14830.02,Aşezare,sat SFÂNTU GHEORGHE; comuna BĂNEASA,"""Valea Cacoviei”, la 1,5 km de intrarea în sat dinspre Băneasa",Latène
+192,GR-I-m-B-14830.03,Aşezare,sat SFÂNTU GHEORGHE; comuna BĂNEASA,"""Valea Cacoviei”, la 1,5 km de intrarea în sat dinspre Băneasa",Epoca bronzului
+193,GR-I-s-B-14831,"Aşezare Slobozia, punct ""Râpa",sat SLOBOZIA; comuna SLOBOZIA SLOBOZIA,"""La Cazemată”, la cca. 700 m de centrul satului",Latène
+195,GR-I-m-B-14832.01,Aşezare,sat SLOBOZIA; comuna SLOBOZIA,"""Râpa Bulgarilor”, la 1 km S de sat","sec. VIII - IX, Epoca medievală timpurie"
+196,GR-I-m-B-14832.02,Aşezare,sat SLOBOZIA; comuna SLOBOZIA,"""Râpa Bulgarilor”, la 1 km S de sat",sec. IV p. Chr.
+197,GR-I-m-B-14832.03,Aşezare,sat SLOBOZIA; comuna SLOBOZIA,"""Râpa Bulgarilor”, la 1 km S de sat","sec. III - II a. Chr., Latène"
+198,GR-I-m-B-14832.04,Aşezare,sat SLOBOZIA; comuna SLOBOZIA,"""Râpa Bulgarilor”, la 1 km S de sat","Epoca bronzului, Cultura Basarabi"
+199,GR-I-m-B-14832.05,Aşezare,sat SLOBOZIA; comuna SLOBOZIA,"""Râpa Bulgarilor”, la 1 km S de sat","Neolitic, Cultura Boian; Cultura Gumelniţa"
+200,GR-I-m-B-14832.06,Aşezare,sat SLOBOZIA; comuna SLOBOZIA,"""Râpa Bulgarilor”, la 1 km S de sat","Paleolitic superior, Cultura Aurignacian"
+201,GR-I-s-B-14833,"Aşezarea de tip tell de la Stoeneşti, punct ""Măgura Tangâru”",sat STOENEŞTI; comuna STOENEŞTI,"""Măgura Tangâru”, la 1,5 km N","de sat Neolitic, Cultura Boian, fazele III şi IV; Cultura Gumelniţa fazele I - III"
+202, GR-I-s-B-14834, Aşezarea de tip tell de la Uzunu, sat UZUNU; comuna CĂLUGĂRENI, În vatra satului," Neolitic, Cultura Boian; Cultura Gumelniţa"
+203,GR-I-s-B-14835,"Situl arheologic de la Varlaam, punct ""Terasa Argeşului”",sat VARLAAM; comuna ADUNAŢII COPĂCENI,"""Terasa Argeşului”, la marginea a satului",de NE
+204,GR-I-m-B-14835.01,Aşezare,sat VARLAAM; comuna ADUNAŢII COPĂCENI,"""Terasa Argeşului”, la marginea a satului",de NE sec. II - IV p. Chr.
+205,GR-I-m-B-14835.02,Aşezare,sat VARLAAM; comuna ADUNAŢII COPĂCENI,"""Terasa Argeşului”, la marginea a satului","de NE Epoca bronzului timpuriu, Cultura Glina"
+206,GR-I-s-B-14836,Aşezare,sat VĂRĂŞTI; comuna VĂRĂŞTI,"""Valea lui Gâlcă”, la E de sat",Neolitic
+207,GR-I-s-B-14837,Aşezare,sat VĂRĂŞTI; comuna VĂRĂŞTI,La ieşirea din fostul sat Obedeni Vărăşti,"spre sec. III - I a. Chr., Latène"
+208,GR-I-s-B-14838,"Situl arheologic de la Vărăşti, punct ""Hotarul Cocoanei""",sat VĂRĂŞTI; comuna VĂRĂŞTI,"""Hotarul Cocoanei”, în fostul sat Obedeni",
+209,GR-I-m-B-14838.01,Aşezare,sat VĂRĂŞTI; comuna VĂRĂŞTI,"""Hotarul Cocoanei”, în fostul sat Obedeni","Epoca medievală timpurie, Cultura Dridu"
+210,GR-I-m-B-14838.02,Aşezare,sat VĂRĂŞTI; comuna VĂRĂŞTI,"""Hotarul Cocoanei”, în fostul sat Obedeni",Latène
+211,GR-I-s-B-14839,Situl arheologic de la Vărăşti,sat VĂRĂŞTI; comuna VĂRĂŞTI,"La ieşirea din sat către Dobreni, albia veche a Sabarului",lângă
+212,GR-I-m-B-14839.01,Aşezare,sat VĂRĂŞTI; comuna VĂRĂŞTI,"La ieşirea din sat către Dobreni, albia veche a Sabarului","lângă Latène, Cultura geto- dacică"
+213,GR-I-m-B-14839.02,Aşezare,sat VĂRĂŞTI; comuna VĂRĂŞTI,"La ieşirea din sat către Dobreni, albia veche a Sabarului","lângă Epoca bronzului, Cultura Tei, faza IV"
+214,GR-I-s-B-14840,Aşezare,sat VÂNĂTORII MARI; comuna VÂNĂTORII MICI,"La cca. 500 m de sat, spre Corbeanca","Epoca bronzului timpuriu, Cultura Glina III"
+215,GR-I-s-B-14841,Situl arheologic de la Vedea,sat VEDEA; comuna VEDEA,La cca. 500-700 m V de sat,
+216,GR-I-m-B-14841.01,Aşezare,sat VEDEA; comuna VEDEA,La cca. 500-700 m V de sat,"Epoca medievală timpurie, Cultura Dridu"
+218,GR-I-s-B-14842,"Situl arheologic de la Vlad Ţepeş, punct ""Dealul Oltenilor""",sat VLAD ŢEPEŞ; comuna COMANA,"""Dealul Oltenilor”, la S de sat, pe Gurbanului",valea
+219,GR-I-m-B-14842.01,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Dealul Oltenilor”, la S de sat, pe Gurbanului","valea sec. IX, Epoca medievală timpurie"
+220,GR-I-m-B-14842.02,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Dealul Oltenilor”, la S de sat, pe Gurbanului",valea sec. IV p. Chr.
+221,GR-I-m-B-14842.03,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Dealul Oltenilor”, la S de sat, pe Gurbanului","valea sec. III - I a. Chr., Latène"
+222,GR-I-m-B-14842.04,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Dealul Oltenilor”, la S de sat, pe Gurbanului","valea Neolitic, Cultura Boian; Cultura Gumelniţa"
+223,GR-I-s-B-14843,"Situl arheologic de la Vlad Ţepeş, punct ""Buturugile""",sat VLAD ŢEPEŞ; comuna COMANA,"""Buturugile”, la NV de sat",
+224,GR-I-m-B-14843.01,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Buturugile”, la NV de sat",sec. VIII - IX
+225,GR-I-m-B-14843.02,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Buturugile”, la NV de sat",sec. IV p. Chr.
+226,GR-I-m-B-14843.03,Aşezare,sat VLAD ŢEPEŞ; comuna COMANA,"""Buturugile”, la NV de sat","sec. III - I a. Chr., Latène"
+227,GR-I-s-B-14844,Aşezare,sat ZĂDĂRICIU; comuna VÂNĂTORII MICI,"""La Cazan”, la SV de sat",sec. IV p. Chr.
+228,GR-I-s-B-14845,Aşezare,sat ZĂDĂRICIU; comuna VÂNĂTORII MICI,La marginea de N a satului,sec. IV p. Chr.
+229,GR-II-m-B-14846,Cheiul de piatră,municipiul GIURGIU,Pe canalul Sf. Gheorghe,1876
+231,GR-II-m-B-14849,Casa Dr. A. Vianu,municipiul GIURGIU,Str. Alecsandri Vasile 7,înc. sec. XX
+232,GR-II-m-B-14850,Casa N. N. Condeescu,municipiul GIURGIU,Str. Alecsandri Vasile 15,1899
+233,GR-II-m-B-14851,Casa Dan Barbilian,municipiul GIURGIU,Str. Barbilian Dan 6,1960
+234,GR-II-m-B-14852,"Liceul ""Ion Majorescu”",municipiul GIURGIU,"Str. Barcian Droc Nicolae, prof.",8 1896
+235,GR-II-m-B-14853,Casa,municipiul GIURGIU,Str. Bălănescu Nicolae 24,1909
+236,GR-II-m-B-14854,Casa Elena Marinescu,municipiul GIURGIU,Str. Bălănescu Nicolae 29,1900
+237,GR-II-m-B-14855,Casa Iancu Marinescu,municipiul GIURGIU,Str. Bălănescu Nicolae 37,1901
+238,GR-II-m-B-14856,Casa Ştefan Chiovici,municipiul GIURGIU,Str. Bălănescu Nicolae 54,1870
+239,GR-II-m-B-14858,Casa Ştefănescu,municipiul GIURGIU,"Str. Berthelot Henri M., general",23 1895
+240,GR-II-m-B-14859,Şcoala Ion Zalomit,municipiul GIURGIU,Str. Botev Hristo 2,1868
+241,GR-II-m-B-14860,Casa Alexandru Cartojan,municipiul GIURGIU,Str. Botev Hristo 9,1900
+242,GR-II-m-B-14861,Biserica romano-catolică Procuratură,municipiul GIURGIU,Str. Botev Hristo 12,1885
+244,GR-II-m-B-14863,"Biserica ""Sf. Treime”- Smârda",municipiul GIURGIU,Str. Braniştei 1,1852
+245,GR-II-m-B-14864,"Catedrala episcopală ""Adormirea Maicii Domnului”",municipiul GIURGIU,Bd. Bucureşti 2,1852
+246,GR-II-m-B-14865,"Căminul de Ucenici, azi Primăria",municipiul GIURGIU,Bd. Bucureşti 49-51,1933
+247,GR-II-a-B-14867,Ansamblul comemorativ al eroilor din Primul Război Mondial,municipiul GIURGIU,Bd. Bucureşti 18A-B,1939
+248,GR-II-m-B- 14867.01,"Biserica ""Înălţarea Domnului""-a Eroilor",municipiul GIURGIU,Bd. Bucureşti 18A,1939
+249,GR-II-m-B- 14867.02,Mausoleul Eroilor,municipiul GIURGIU,Bd. Bucureşti 18B,1939
+250,GR-II-m-B-14868,Casa,municipiul GIURGIU,Str. Călugăreni 5,1905
+251, GR-II-m-B-14869, Casa Dr. Caragea, municipiul GIURGIU, Str. Călugăreni 6, 1870
+252,GR-II-m-B-14870,Casa V. Cochinescu,municipiul GIURGIU,Str. Călugăreni 29,1890-1900
+253,GR-II-m-B-14871,Casa,municipiul GIURGIU,Str. Cerbului 15,1910
+254,GR-II-m-B-14872,"Casa Dr. Filip Păunescu, azi Fundaţia BETHEL judeţean",municipiul GIURGIU,Str. Coşbuc George 6,1890
+256,GR-II-m-B-14874,Casa Mateescu,municipiul GIURGIU,Str. Cuza Vodă 15,1890
+257,GR-II-m-B-14857,Sediul administrativ al Fabricii de cărămidă,municipiul GIURGIU,Str. Dâmboviţei 1,1940
+258,GR-II-m-B-14875,Casa Vasile Dorobanţu,municipiul GIURGIU,Str. Dobrogeanu Gherea Constantin,1 1905-1928
+259,GR-II-m-B-14876,"Prefectura, azi Muzeul judeţean",municipiul GIURGIU,Str. Dobrogeanu Gherea Constantin,3 1870-1903
+260,GR-II-m-B-14877,"Tribunalul, azi Prefectura",municipiul GIURGIU,Str. Dobrogeanu Gherea Constantin,5 1935
+261,GR-II-a-B-14878,"Ansamblul urban ""Parcul Alei, cu imobilele limitrofe""",municipiul GIURGIU,"Str. Dobrogeanu Gherea Constantin, perimetrul zonei urmează limitele posterioare ale loturilor imobilelor limitrofe parcului. Delimitare cf. avizat",sec. XIX-XX PUG
+262,GR-II-m-B-14879,Poliţia municipală,municipiul GIURGIU,Str. Doja Gheorghe 1,1930
+263,GR-II-m-A-14880,Fragment din zidul cetăţii turceşti -Tabia,municipiul GIURGIU,"Str. Dunării, în spatele loturilor",sec. XVIII
+264,GR-II-m-B-14881,Fabrica de Bere,municipiul GIURGIU,Str. Dunării 32,1905
+265,GR-II-m-B-14896,"Casa N. Miltiade, azi restaurant",municipiul GIURGIU,Str. Episcopiei 11,1900
+266,GR-II-m-B-14897,"Administraţia Financiară, azi Episcopia Giurgiului ""Modern"", azi",municipiul GIURGIU,Str. Episcopiei 13,1915
+268,GR-II-m-B-14899,"Ateneul ""Nicolae Bălănescu”- faţada de sud cu porticul neoclasic cu trepte de la intrarea principală şi faţada de est cu porticul încorporat al fostei case Bălănescu",municipiul GIURGIU,Str. Episcopiei 21,1940
+269,GR-II-a-B-14882,"Ansamblul urban ""Cartierul Fabricii de Zahăr""",municipiul GIURGIU,"Aleea Fabricii, perimetrul fabricii dotările edilitare şi locuinţele de serviciu, până la str. Păcii, inclusiv. Delimitare cf. PUG avizat",cu 1913
+270,GR-II-m-B-14883,"Casa H. Potamian, azi Ocolul silvic",municipiul GIURGIU,Str. Frumoasei 24,1912
+271,GR-II-a-B-14884,"Ansamblul urban ""Strada Gării""",municipiul GIURGIU,"Str. Gării, ambele fronturi, nr. 1-95, respectiv nr. 2-116, până la limita posterioară a loturilor. Delimitare PUG avizat",sec. XIX-XX cf.
+272,GR-II-a-B-14886,"Ansamblul urban ""Str. Mircea cel Bătrân""",municipiul GIURGIU,"Str. Mircea cel Bătrân, frontul nr. 32, respectiv nr. 17-25 (inclusiv clădirea de colţ cu adresa pe str. Gherea nr. 1) până la limita posterioară a loturilor. Delimitare PUG avizat",16- sec. XIX-XX C.D. cf.
+273,GR-II-m-B-14887,"Biserica ""Buna Vestire”- Grecească muzică",municipiul GIURGIU,Str. Mircea cel Bătrân 16,1864
+275,GR-II-m-B-14889,"Şcoala Comercială, azi Institutul de Proiectări",municipiul GIURGIU,Str. Mircea cel Bătrân 26,1900
+276,GR-II-m-B-14890,"Biserica ""Sf. Nicolae”",municipiul GIURGIU,Str. Mircea cel Bătrân 38,1830
+277,GR-II-m-B-14891,Casa Stelian Vasilescu,municipiul GIURGIU,Str. Parcului 22,1880
+278,GR-II-m-B-14892,Casa Ştefan Burileanu,municipiul GIURGIU,Str. Păcii 3,1913
+279,GR-II-m-B-14894,Podul Bizetz,municipiul GIURGIU,"Şos. Portului, peste canalul Sf. Gheorghe",1905
+280,GR-II-m-B-14893,Căpitănia Portului Giurgiu,municipiul GIURGIU,Şos. Portului 1,1939-1945
+281,GR-II-a-B-14895,Şantierul naval,municipiul GIURGIU,Șos. Portului 2,1910
+282,GR-II-m-B- 14895.01,Atelierele vechi,municipiul GIURGIU,Șos. Portului 2,1910
+283,GR-II-m-B- 14895.02,Administraţia şantierului naval,municipiul GIURGIU,Șos. Portului 2,1910
+284,GR-II-m-B-14900,Casă,municipiul GIURGIU,Str. Sadoveanu Mihail 2,1905
+285,GR-II-m-B-14901,Casa Vârbănescu,municipiul GIURGIU,Str. Sadoveanu Mihail 7,1900
+286,GR-II-m-B-14902,"Casă Ştefan cel Mare""",municipiul GIURGIU,"Str. Sadoveanu Mihail 18 inclusiv Piaţeta Sf. Gheorghe, până",1900 la
+288,GR-II-m-B-14905,"Hotel, ulterior restaurant ""Meteor"", azi locuinţă",municipiul GIURGIU,Str. Ştefan cel Mare 1-3,1912
+289,GR-II-m-B-14907,Casa Hentze,municipiul GIURGIU,Str. Ştefan cel Mare 2,1907
+290,GR-II-m-B-14908,"Percepţia, azi sediu Secţia Căi Navigabile",municipiul GIURGIU,Str. Ştefan cel Mare 4,1928
+291,GR-II-m-B-14909,"Han, azi casa I. Răcăşanu",municipiul GIURGIU,Str. Ştefan cel Mare 5,1905
+292,GR-II-m-B-14910,"Banca Naţională, azi Biblioteca judeţeană",municipiul GIURGIU,Str. Ştefan cel Mare 14,1928
+293,GR-II-m-B-14911,Casă,municipiul GIURGIU,Str. Ştefan cel Mare 19,1890
+294,GR-II-m-B-14912,Casă,municipiul GIURGIU,Str. Ştefan cel Mare 21,1890
+295,GR-II-m-A-14913,Turnul Ceasornicului,municipiul GIURGIU,Piaţa Unirii,1771
+296,GR-II-m-B-14847,Uzina de Apă,municipiul GIURGIU,Str. Uzinei 2,1910
+297,GR-II-m-B-14903,"Biserica ""Sf. Gheorghe”",municipiul GIURGIU,"Str. Vianu Tudor 1, în Piaţa Sf. Gheorghe","1840, ref. 1937, 2004"
+298,GR-II-m-B-14904,Şcoala nr. 1,municipiul GIURGIU,"Str. Vianu Tudor 2, în Piaţa Sf. Gheorghe",1890
+300,GR-II-m-B-14915,Casa Emil Gulian,municipiul GIURGIU,Str. Victoriei 13,1898
+301,GR-II-m-B-14916,Casă,municipiul GIURGIU,Str. Victoriei 18,1905
+302,GR-II-m-B-14920,Conacul Col. Chiriac,sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,În fostul sat Argeş,înc. sec. XX
+303,GR-II-m-B-14918,"Şcoală, azi Poştă",sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,Str. Bisericii 1,sf. sec. XIX
+304,GR-II-m-B-14917,"Biserica ""Adormirea Maicii Domnului”",sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,Str. Bisericii 3,"1875, ref. 1935"
+305,GR-II-m-B-14921,Conacul Marmorosch - Blank,sat ADUNAŢII COPĂCENI; comuna ADUNAŢII COPĂCENI,"Intr. Sf. Ioan 1, în fostul sat Argeş",1897
+306,GR-II-m-B-14922,"Biserica ""Cuvioasa Paraschiva”",sat BĂLANU; comuna STĂNEŞTI,Str. Principală 38,1898-1900
+307,GR-II-m-B-14923,"Biserica ""Adormirea Maicii Domnului”",sat BĂNEASA; comuna BĂNEASA,La cca. 200 m de primărie,1908-1910
+308,GR-II-m-B-14928,"Biserica ""Sf. Nicolae"", ""Sf. Mc. Manuil""",sat BOLINTIN DEAL; comuna BOLINTIN DEAL,Bd. Muncii 14,1886
+309,GR-II-m-B-14924,"Şcoala de fete, ulterior Poşta",sat BOLINTIN DEAL; comuna BOLINTIN DEAL BOLINTIN DEAL,Bd. Muncii 16,sf. sec. XIX
+311,GR-II-m-A-14926,"Conacul Băleanu, ulterior Hubert, azi Spital",sat BOLINTIN DEAL; comuna BOLINTIN DEAL,Bd. Republicii f.n.,înc. sec. XX
+312,GR-II-m-B-14927,"Conacul Hubert, azi Spitalul comunal",sat BOLINTIN DEAL; comuna BOLINTIN DEAL,Bd. Republicii f.n.,înc. sec. XX
+313,GR-II-m-B-14930,"Pretura, azi Primăria",oraş BOLINTIN VALE,"Str. Libertăţii 1, în Piaţa centrală",sf. sec. XIX
+314,GR-II-m-B-14933,Casa Manolache,oraş BOLINTIN VALE,Str. Partizani 2,1910-1920
+315,GR-II-m-B-14935,"Biserica ""Adormirea Maicii Domnului”",oraş BOLINTIN VALE,"Str. Republicii f.n., în Piaţa centrală",1832
+316,GR-II-m-B-14932,Poşta veche,oraş BOLINTIN VALE,"Str. Republicii 2M, în Piaţa centrală",sf. sec. XIX
+317,GR-II-m-B-14929,"Primăria veche, azi Clubul elevilor",oraş BOLINTIN VALE,"Str. Republicii 5, în Piaţa centrală",sf. sec. XIX
+318,GR-II-m-B-14931,Şcoala veche,oraş BOLINTIN VALE,"Str. Republicii 5, în Piaţa centrală",1899
+319,GR-II-m-B-14937,"Biserica ""Adormirea Maicii Domnului”",sat BRANIŞTEA; comuna OINACU,"Str. Bisericii 1, la cca. 600 m de",DJ 507 1886
+320,GR-II-m-B-14936,"Biserica ""Sf. Gheorghe”",sat BRĂNIŞTARI; comuna CĂLUGĂRENI,"În partea de SE a satului, la cca. de DJ 411",300 m sf. sec. XIX
+321, GR-II-m-B-14939, Conacul C. Angelescu, sat BUCŞANI; comuna BUCŞANI, Str. Principală 199, înc. sec. XX
+322,GR-II-m-B-14943,"Casa Stan Cangea, fost Cămin cultural",sat BUCŞANI; comuna BUCŞANI BUCŞANI,Str. Principală 214,1933
+324,GR-II-m-B-14941,Şcoala veche,sat BUCŞANI; comuna BUCŞANI,"Str. Principală 232, lângă biserică primăria veche",şi înc. sec. XX
+325,GR-II-m-B-14938,"Biserica ""Sf. Nicolae”",sat BUCŞANI; comuna BUCŞANI,Str. Principală 234,1836
+326,GR-II-m-B-14942,"Vechea primărie, azi secţie de Poliţie",sat BUCŞANI; comuna BUCŞANI,Str. Principală 236,înc. sec. XX
+327,GR-II-m-B-14945,"Conacul Mihail Kogălniceanu, ulterior Emil Grădişteanu",sat BUDENI; comuna COMANA,Str. Conacului 5,sf. sec. XIX
+328,GR-II-m-B-14944,"Biserica ""Adormirea Maicii Domnului”",sat BUDENI; comuna COMANA,Str. Vârlarului 258,1882
+329,GR-II-m-B-14947,"Biserica ""Sf. Ştefan”",sat BULBUCATA; comuna BULBUCATA,Str. Crainic Nichifor 15,1860
+330,GR-II-m-B-14950,Primărie,sat BULBUCATA; comuna BULBUCATA,Str. Crainic Nichifor 70,1888
+331,GR-II-m-B-14951,"Conacul Voinea, fostă secţie a Institutului Pasteur",sat BULBUCATA; comuna BULBUCATA,Str. Crainic Nichifor 96,1921-1940
+332,GR-II-m-B-14952,Moara cu turbine Voinea,sat BULBUCATA; comuna BULBUCATA,Str. Crainic Nichifor 146,1921-1940
+333,GR-II-m-B-14948,"Şcoala veche, azi muzeul Nichifor Crainic",sat BULBUCATA; comuna BULBUCATA,Str. Spanisteanu Constantin 2,1882
+334,GR-II-m-B-14949,Grădiniţa,sat BULBUCATA; comuna BULBUCATA BULBUCATA,Str. Spanisteanu Constantin 6,1882
+336,GR-II-m-B-15071,"Biserica ""Sf. Gheorghe”",sat CARTOJANI; comuna ROATA DE JOS,Str. Bisericii 51,1852
+337,GR-II-m-B-14955,"Şcoala veche, azi muzeu",sat CĂLUGĂRENI; comuna CĂLUGĂRENI,"Vis a vis de biserica ""Adormirea Domnului”, ""Sf. Nicolae""",Maicii sec. XIX
+338,GR-II-m-B-14953,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Nicolae""",sat CĂLUGĂRENI; comuna CĂLUGĂRENI,,1865
+339,GR-II-m-B-14954,Conacul Varthiadi,sat CĂLUGĂRENI; comuna CĂLUGĂRENI,,sec. XIX
+340,GR-II-m-B-14956,Moara Varthiadi,sat CĂLUGĂRENI; comuna CĂLUGĂRENI,"Pe Neajlov, lângă podul dinspre Hulubeşti",înc. sec. XX
+341,GR-II-m-B-20527,Biserică de lemn,sat CĂLUGĂRENI; comuna CĂLUGĂRENI,În cimitir,sec. XIX
+342,GR-II-m-B-14957,"Fundaţiile bisericii ""Sf. Nicolae”",sat CĂMINEASCA; comuna SCHITU,Str. Ghiocelului 50,"1867, reconstruită 2003"
+343,GR-II-m-B-14958,"Conacul N. Dobrin, azi Centru de recuperare şi reabilitare neuropsihiatrică",sat CĂRPENIŞU; comuna GĂISENI,"Str. Principală 171, la 100 m faţă biserică",de sf. sec. XIX
+344,GR-II-a-B-14959,Mănăstirea Căscioarele,sat CĂSCIOARELE; comuna GĂISENI,Str. Monumentului 29,sec. XVII-XVIII
+345,GR-II-m-B- 14959.01,"Biserica ""Vovidenia""",sat CĂSCIOARELE; comuna GĂISENI,Str. Monumentului 29,1725
+346,GR-II-m-B- 14959.02 14959.03,Turn clopotniţă,sat CĂSCIOARELE; comuna GĂISENI GĂISENI,Str. Monumentului 29,1753 până la fundaţii la mijl.
+348,GR-II-m-B-14960,"Biserica ""Cuvioasa Paraschiva”, ""Sf. Nicolae”",sat CÂMPURELU; comuna COLIBAŞI,Str. Școlii 3,sec. XIX
+349,GR-II-m-B-20197,"Biserica ""Sf. Apostoli Petru şi Pavel”, ""Adormirea Maicii Domnului”",sat CETATEA; comuna FRĂTEŞTI,"Str. Gării f.n., în cartierul Turbatu",1864
+350,GR-II-m-B-15021,Conac,sat CHIRCULEŞTI; comuna IEPUREŞTI,în zona centrală a localității,1864
+351,GR-II-m-B-14961,"Biserica ""Adormirea Maicii Domnului”",sat CHIRIACU; comuna IZVOARELE,Pe DJ 503 A,1902
+352,GR-II-m-B-14963,"Biserica ""Naşterea Maicii Domnului”",sat CLEJANI; comuna CLEJANI,,1850-1902
+353,GR-II-m-B-14962,"Biserica ""Sf. Arhangheli Mihail și Gavril”",sat CLEJANI; comuna CLEJANI,Aleea Bisericii 3,1864
+354,GR-II-m-B-14964,Ruinele Şcolii de Meserii,sat CLEJANI; comuna CLEJANI,"Aleea Bisericii 5, la V de biserica Arhangheli Mihail și Gavril""","""Sf. 1834, ref. 1853"
+355, GR-II-m-B-14965," Hanul maiorului Mişa Anastasievici, azi bibliotecă", sat CLEJANI; comuna CLEJANI, Șos. Principală 64, 1859
+356,GR-II-m-B-14966,"Biserica ""Cuvioasa Paraschiva”",sat COLIBAŞI; comuna COLIBAŞI,Str. Principală 166A,1880
+357,GR-II-a-A-14967,Mănăstirea Comana,sat COMANA; comuna COMANA,Str. Radu Şerban 392,sec. XVI-XVIII
+358,GR-II-m-A- 14967.01 14967.02,"Biserica ""Sf. Nicolae”",sat COMANA; comuna COMANA COMANA,Str. Radu Şerban 392,sec. XVI-XVIII
+360,GR-II-m-A- 14967.03,Chilii,sat COMANA; comuna COMANA,Str. Radu Şerban 392,sec. XVI-XVIII
+361,GR-II-m-A- 14967.04,Turn clopotniţă,sat COMANA; comuna COMANA,Str. Radu Şerban 392,sec. XVI-XVIII
+362,GR-II-m-A- 14967.05,Zid de incintă,sat COMANA; comuna COMANA,Str. Radu Şerban 392,sec. XVI-XVIII
+363,GR-II-m-A- 14967.06,Mausoleul Eroilor căzuţi în primul Război Mondial,sat COMANA; comuna COMANA,Str. Radu Şerban 392,1932
+364,GR-II-m-B-14969,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat COPACIU; comuna GHIMPAŢI,Şos. Letca Veche 14,1876
+365,GR-II-m-B-14997,"Conacul Petraşcu, azi unitate de pompieri",sat COPACIU; comuna GHIMPAŢI,"Şos. Letca Veche 16, în fostul sat Copaciu",1885
+366,GR-II-m-B-14970,"Biserica ""Adormirea Maicii Domnului”",sat COSOBA; comuna COSOBA,Str. Bisericii 22,1899
+367,GR-II-m-B-14971,Conacul Nica Dorobanţu,sat COSOBA; comuna COSOBA,"Str. Principală 428, la ieşirea din localitate spre Ulmi",cca. 1900
+368,GR-II-m-B-14972,"Biserica ""Sf. Ioan Botezătorul”",sat CRÂNGURI; comuna SINGURENI,Șos. Călugăreni 132,1867
+369,GR-II-m-B-14973,"Biserica ""Sf. Împăraţi Constantin şi Elena”",sat CREVEDIA MARE; comuna CREVEDIA MARE,Str. Bisericii 291,"1836, ref. 1924"
+370,GR-II-m-B-14974,Depozitul de tutun,sat CREVEDIA MARE; comuna CREVEDIA MARE,Str. Franței 247,înc. sec. XX
+371,GR-II-m-B-14975,"Biserica ""Sf. Gheorghe” Constantin şi Elena”",sat CREVEDIA MICĂ; comuna CREVEDIA MARE RĂSUCENI,"Str. D.C.193, 139","1844-1845, ref. 1931"
+373,GR-II-m-B-14977,Şcoala veche,sat CUCURUZU; comuna RĂSUCENI,Lângă podul dinspre Giurgiu,1880
+374,GR-II-m-B-14978,"Biserica ""Cuvioasa Paraschiva”",sat DAIA; comuna DAIA,În partea de V a satului,1870
+375,GR-II-m-B-14919,"Biserica ""Cuvioasa Paraschiva”",sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,"Str. Bisericii 15A, în fostul sat Pâslari",1873
+376,GR-II-m-B-14979,"Biserica ""Sf. Nicolae”",sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,"Str. Principală 206, vis a vis de Şcoala Generală",1880
+377,GR-II-m-B-14980,"Conacul Marmorosch- Blank, azi grădiniță",sat DĂRĂŞTI-VLAŞCA; comuna ADUNAŢII COPĂCENI,,înc. sec. XX
+378,GR-II-m-B-14981,"Biserica ""Sf. Nicolae”",sat DIMITRIE CANTEMIR; comuna IZVOARELE,,1879
+379,GR-II-a-A-14982,Curtea lui Radu şi Constantin Şerban,sat DOBRENI; comuna VĂRĂŞTI,"Str. Castelului f.n., str. Constantin Șerban Cîrnu 1",1646
+380,GR-II-m-A- 14982.01,Ruinele caselor lui Radu şi Constantin Şerban,sat DOBRENI; comuna VĂRĂŞTI,Str. Castelului f.n.,1640
+381,GR-II-m-A- 14982.02,"Biserica ""Adormirea Maicii Domnului”",sat DOBRENI; comuna VĂRĂŞTI,Str. Constantin Șerban Cîrnu 1,1646
+382,GR-II-m-B-14983,Conacul Mihail Kogălniceanu (ulterior Danil Danielopol),sat DOBRENI; comuna VĂRĂŞTI DRĂGĂNESCU; oraş,"Str. Kalinderu Mihai 21, spre localitatea Câmpurelu",1900
+384,GR-II-m-B-14985,"Biserica ""Sf. Nicolae”",sat FLOREŞTI; comuna FLOREŞTI-STOENEŞTI,Str. Mihai Viteazul 77,1679-1715
+385,GR-II-m-B-14986,Conacul Djuvara,sat FLOREŞTI; comuna FLOREŞTI-STOENEŞTI,Str. Mihai Viteazul 98-100-102,sec. XIX
+386,GR-II-m-B-14987,"Biserica ""Sf. Nicolae”",sat FRASINU; comuna BĂNEASA,DN 41,1858
+387,GR-II-m-B-14991,Ruinele bisericii din Silişte- Frăteşti,sat FRĂTEŞTI; comuna FRĂTEŞTI,La 3 km N de sat,ante 1791
+388,GR-II-m-B-14989,"Casa Marin Popescu, azi muzeu sătesc",sat FRĂTEŞTI; comuna FRĂTEŞTI,Str. Dăii f.n.,1840
+389,GR-II-m-B-14990,Casa Marin Slăvuică,sat FRĂTEŞTI; comuna FRĂTEŞTI,Str. Şcolii f.n.,1850
+390,GR-II-m-B-14988,"Biserica ""Sf. Ecaterina”",sat FRĂTEŞTI; comuna FRĂTEŞTI,Str. Ulmului f.n.,1880
+391,GR-II-a-A-14992,Fostul schit Strâmbul,sat GĂISENI; comuna GĂISENI,Str. Bisericii 1,sec. XVI-XVII
+392,GR-II-m-A- 14992.01,"Biserica ""Sf. Nicolae”",sat GĂISENI; comuna GĂISENI,Str. Bisericii 1,"1515, transf. sec. XVII XVIII"
+393,GR-II-m-A- 14992.02,Ruinele clădirilor monahale,sat GĂISENI; comuna GĂISENI,Str. Bisericii 1,sec. XVI-XVII
+394,GR-II-m-B-14993,"Biserica ""Adormirea Maicii Domnului”",sat GĂUJANI; comuna GĂUJANI,"Pe DN 5, lângă Primărie",1856
+395,GR-II-m-B-14998,"Biserica ""Sf. Nicolae”",sat GHIMPAŢI; comuna GHIMPAŢI GHIMPAŢI,"Aleea Bisericii 7, în fostul sat Sălcioara",1868
+397,GR-II-m-B-14994,"Biserica ""Sf. Nicolae”",sat GHIMPAŢI; comuna GHIMPAŢI,Str. Sfatului 10,1866
+398,GR-II-m-B-14996,Şcoala veche,sat GHIMPAŢI; comuna GHIMPAŢI,Str. Unirii 32,1885
+399,GR-II-m-B-14999,"Biserica ""Sf. Gheorghe”",sat GHIZDARU; comuna STĂNEŞTI,Str. Principală 72,1875
+400,GR-II-m-B-15000,"Biserica ""Sf. Treime”",sat GOGOŞARI; comuna GOGOŞARI,În partea de V a localității,"1894, ref. 1932"
+401,GR-II-m-B-15001,"Biserica ""Naşterea Maicii Domnului”",sat GOLEASCA; comuna BUCŞANI,"Str. Bisericii 79, în apropierea conacului, şcolii şi primăriei",1816
+402,GR-II-m-B-15002,Conacul Pascale Iagăr,sat GOLEASCA; comuna BUCŞANI,"Str. Principală 67, vis a vis de şcoală primărie",şi înc. sec. XX
+403,GR-II-m-B-15003,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat GORNENI; comuna IEPUREŞTI,"Str. Bisericii 7, la cca. 250m de DN spre Băneşti","6, 1825"
+404,GR-II-m-B-15005,"Biserica ""Cuvioasa Paraschiva”",sat GOSTINARI; comuna GOSTINARI,Str. Bisericii 17,1857
+405,GR-II-a-A-15004,Ansamblul conacului Ştefan Bellu,sat GOSTINARI; comuna GOSTINARI,Str. Mănăstirii f.n.,"sec. XVIII, ref. 1818"
+406,GR-II-m-A- 15004.01,Ruine conac,sat GOSTINARI; comuna GOSTINARI,Str. Mănăstirii f.n.,"sec. XVIII, ref. 1818"
+407,GR-II-m-A- 15004.02,"Biserica ""Sf. Nicolae”",sat GOSTINARI; comuna GOSTINARI,Str. Mănăstirii f.n.,"sec. XVIII, ref. 1818"
+408,GR-II-m-A- 15004.03 15004.04,Turn clopotniţă,sat GOSTINARI; comuna GOSTINARI GOSTINARI,Str. Mănăstirii f.n.,"sec. XVIII, ref. 1818"
+410,GR-II-m-B-15006,Conacul Oteteleşeanu,sat GRĂDINARI; comuna GRĂDINARI,Lângă podul peste Argeş,1900-1916
+411,GR-II-m-A-15007,"Biserica ""Adormirea Maicii Domnului”",sat GRĂDIŞTEA; comuna COMANA,"Str. Principală 483, la ieşirea din spre Mogoşeşti, pe ""Coasta bisericii”",sat 1657
+412,GR-II-m-B-15008,"Conacul Grădişteanu, azi unitate S.R.I.",sat GRĂDIŞTEA; comuna COMANA,"Str. Principală 482, lângă biserica ""Adormirea Maicii Domnului”",înc. sec. XX
+413,GR-II-m-B-15010,Biserica din cimitir,sat GREACA; comuna GREACA,"Str. Cimitirului 21, în partea de localităţii",N a 1888
+414,GR-II-m-B-15011,"Conacul Gorski, azi Staţiune viniviticolă",sat GREACA; comuna GREACA,"Str. Gorski 15, în partea de S a localităţii",1900-1916
+415,GR-II-m-B-15012,"Şcoala veche, azi grădiniţă",sat GREACA; comuna GREACA,"Str. Principală 121, la 200 m de Primărie",1887
+416,GR-II-m-B-15009,"Biserica ""Sf. 40 de Mucenici”",sat GREACA; comuna GREACA,"Str. Valea Bisericii 1, la intersecţia DN41 cu DC",1907
+417,GR-II-m-B-15015,Conacul Stolojan,sat HERĂŞTI; comuna HERĂŞTI,"DJ 401A, lângă podul peste Argeş",1900
+418,GR-II-a-A-15013,Curtea familiei Năsturel Herescu,sat HERĂŞTI; comuna HERĂŞTI,Str. Obrenovici Milos 32,"sec. XVII, ref. 1833"
+419,GR-II-m-A- 15013.01,Casa familiei Năsturel Herescu,sat HERĂŞTI; comuna HERĂŞTI,Str. Obrenovici Milos 32,"1640-1642, ref. 1833"
+420,GR-II-m-A- 15013.02,"Biserica ""Sf. Treime”, ""Sf. Arhangheli Mihail şi Gavril”",sat HERĂŞTI; comuna HERĂŞTI,Str. Obrenovici Milos 34,"1644, ref. 1833"
+421,GR-II-a-B-15014 15014.01,Curtea Stolojan,sat HERĂŞTI; comuna HERĂŞTI HERĂŞTI,"Str. Obrenovici Milos 32, în colţul al Curţii Năsturel Herescu al Curţii Năsturel Herescu",SV sec. XIX
+423,GR-II-m-B- 15014.02,Anexe,sat HERĂŞTI; comuna HERĂŞTI,"Str. Obrenovici Milos 32, în colţul al Curţii Năsturel Herescu",SV sec. XIX
+424,GR-II-m-B-15016,"Biserica ""Sf. Gheorghe”",sat HOBAIA; comuna OGREZENI,"Str. Principală 206, în partea de localităţii",SV a 1830
+425,GR-II-m-B-15017,"Biserica ""Sf. Nicolae”",sat HODIVOAIA; comuna PUTINEIU,"În partea de sud-vest a localităţii, cca. 400 m de DJ 504",la 1880
+426,GR-II-m-B-15018,"Biserica ""Sf. Voievozi” (""Sf. Arhangheli Mihail şi Gavril"")",sat HULUBEŞTI; comuna CĂLUGĂRENI,În partea de V a localităţii,1840-1842
+427,GR-II-m-B-15019,Ruine beci,sat HULUBEŞTI; comuna CĂLUGĂRENI,"""La Beci”, la NE de sat, pe terasa Neajlovului",sec. XVIII-XIX
+428,GR-II-m-B-15020,"Biserica ""Sf. Nicolae”",sat IEPUREŞTI; comuna IEPUREŞTI,"Str. Eminescu Mihai 563, lângă Primărie","1790, ref. 1827"
+429,GR-II-m-B-15022,"Biserica ""Cuvioasa Paraschiva”",sat IZVOARELE; comuna IZVOARELE,Pe DJ 503 A,1890
+430,GR-II-m-B-15024,"Biserica ""Sf. Treime”",sat IZVORU; comuna VÂNĂTORII MICI,"Pe DN 61, la 200 m de spital",1882
+431,GR-II-m-B-15025,"Conac, azi Spital de pneumoftiziologie",sat IZVORU; comuna VÂNĂTORII MICI,"Pe DN 61, la 1 km de intrarea dinspre Giurgiu",sec. XIX
+432,GR-II-m-B-15023,"Biserica ""Sf. Nicolae”",sat IZVORU; comuna GOGOŞARI,Str. Şcolii f.n.,1886
+433,GR-II-m-B-15026,"Biserica ""Sf. Nicolae”, ""Sf. 40 de Mucenici” ARCUDA",sat JOIŢA; comuna JOIŢA,Str. Bisericii (DJ 602) 29,1859
+435,GR-II-m-B-15028,"Biserica ""Sf. Constantin şi Elena”- a Mitropolitului Nifon",sat LETCA NOUĂ; comuna LETCA NOUĂ,Lângă primărie,1860
+436,GR-II-m-B-15029,"Biserica ""Sf. Constantin şi Elena”",sat LETCA VECHE; comuna LETCA NOUĂ,"Pe DJ 601 D, în partea de E a localităţii",1880
+437,GR-II-m-B-15030,"Biserica ""Sf. Ioan Botezătorul”, ""Sf. 40 de Mucenici”",sat MALU; comuna MALU,La 50 m de DN 5,1844
+438,GR-II-m-B-15031,"Biserica ""Adormirea Maicii Domnului”, ""Sf. Martiri Brâncoveni”",sat aparţinător MALU SPART; oraş BOLINTIN VALE,244C,1841-1843
+439,GR-II-m-B-15033,"Conacul N. Cioflec, ulterior Oscar Han",sat MÂRŞA; comuna MÂRŞA,Str. Principală 112,1850
+440,GR-II-m-B-15034,Conacul Dr. Lazarovici,sat MÂRŞA; comuna MÂRŞA,"Str. Principală 180, spre satul Ciupagea",sec. XIX
+441,GR-II-m-B-15032,"Biserica ""Sf. Nicolae”",sat MÂRŞA; comuna MÂRŞA,Str. Principală 197,1890
+442,GR-II-m-B-15035,"Biserica ""Cuvioasa Paraschiva”",sat MIHAI BRAVU; comuna MIHAI BRAVU,Str. Principală,1884
+443,GR-II-m-B-15037,Conacul Călinescu,oraş MIHĂILEŞTI,"Str. Călinescu Petre, ing. 8",înc. sec. XX
+444,GR-II-m-A-15036,"Biserica ""Sf. Voievozi"" (""Sf. Arhangheli Mihail şi Gavril"")",oraş MIHĂILEŞTI STOENEŞTI,"Str. Vişinilor 8, în fostul sat Tufa- Costieni localităţii",1714
+446,GR-II-a-A-15040,Ruinele curţii lui Radu Şerban,sat MIRONEŞTI; comuna GOSTINARI,"Str. Principală, la 50 m de biserică, malul Argeşului",pe înc. sec. XVII
+447,GR-II-m-A-15039,"Biserica ""Sf. Nicolae”",sat MIRONEŞTI; comuna GOSTINARI,Str. Principală f.n.,1668
+448,GR-II-m-B-15041,"Biserica ""Sf. Constantin şi Elena”",sat MOGOŞEŞTI; comuna ADUNAŢII COPĂCENI,Str. Duzilor 42,1823-1825
+449,GR-II-m-B-15042,Spital,sat MOGOŞEŞTI; comuna ADUNAŢII COPĂCENI,"Str. Victoriei 31, pe DN 5A",înc. sec. XX
+450,GR-II-m-B-15044,"Biserica ""Sf. Gheorghe”",sat NAIPU; comuna GHIMPAŢI,Str. Mereni 19,1931
+451,GR-II-m-B-15043,Casă,sat NAIPU; comuna GHIMPAŢI,Str. Pachide Costache 6,1925-1930
+452,GR-II-m-B-15045,"Biserica ""Adormirea Maicii Domnului” - a fostului schit Babele",sat NEAJLOVU; comuna CLEJANI,"Str. Meșteșugarilor 1, în partea a localităţii, pe terasa Neajlovului","de NV 1799, ref. 1868"
+453,GR-II-m-A-15046,"Biserica ""Adormirea Maicii Domnului”",sat aparţinător NOVACI; oraş MIHĂILEŞTI,"Pe DS 522, în partea de NV a localităţii",sec. XVIII
+454,GR-II-m-B-15048,Casa Maria Călin,sat aparţinător NOVACI; oraş MIHĂILEŞTI,201,1920
+455,GR-II-m-B-15049,Casa Marin Matei,sat aparţinător NOVACI; oraş MIHĂILEŞTI,525,1927
+456,GR-II-m-B-15047,Casa Maria State,sat aparţinător NOVACI; oraş MIHĂILEŞTI,565,1931
+457,GR-II-m-B-15050,"Biserica ""Adormirea Maicii Domnului” Domnului” şi ""Sf. Mc.",sat OBEDENI; comuna BUCŞANI OGREZENI,Str. Principală 19 satului,1839 1969-1972
+459,GR-II-m-B-15052,"Biserica ""Adormirea Maicii Domnului”",sat OINACU; comuna OINACU,"DC 94 69, la 100 m de Primărie",1844-1846
+460,GR-II-m-B-15053,"Biserica ""Sf. Voievozi” (""Sf. Arhangheli Mihail şi Gavril"")",sat ONCEŞTI; comuna STĂNEŞTI,Str. Bisericii 10,1907-1912
+461,GR-II-m-B-15055,Casa Nicolae Marin,sat PALANCA; comuna FLOREŞTI-STOENEŞTI,"Str. Biserica Veche 9-11, lângă Biserica „Sfinţii Voievozi”",înc. sec. XX
+462,GR-II-m-B-15054,"Biserica ""Sf. Voievozi”",sat PALANCA; comuna FLOREŞTI-STOENEŞTI,Str. Biserica Veche 15,1800-1801
+463,GR-II-m-B-15056,"Casa Mavrache, azi complex sericicol",sat PALANCA; comuna FLOREŞTI-STOENEŞTI,Str. Eftimiu 18,sec. XIX
+464,GR-II-m-B-15057,"Biserica ""Adormirea Maicii Domnului”",sat PĂDURENI; comuna BUTURUGENI,Str. Bisericii 36,1827
+465,GR-II-m-B-15058,"Biserica ""Sf. Nicolae”",sat PETRU RAREŞ; comuna IZVOARELE,"Pe DC, la 50 m de şcoală","1885, ref. 1938"
+466, GR-II-m-B-15059," Biserica ""Adormirea Maicii Domnului”", sat PIETRELE; comuna BĂNEASA, La ieşirea din sat spre Puieni, 1865
+467,GR-II-m-B-15060,"Biserica ""Cuvioasa Paraschiva”",sat PIETRIŞU; comuna GĂUJANI,"În centru, la 10 m de DN 5",1882
+468,GR-II-m-B-15061,"Biserica ""Sf. M. Ierarh Nicolae”",sat POENARI; comuna ULMI,În centrul localității,1813
+469,GR-II-m-A-15063,"Biserica ""Sf. Treime”",sat aparţinător POPEŞTI; oraş MIHĂILEŞTI oraş MIHĂILEŞTI,"""La Nucet”, în partea de N a satului",1688-1689
+471,GR-II-m-B-15065,"Biserica ""Sf. M. Mc. Dimitrie”",sat PUIENI; comuna PRUNDU,"Str. Principală f.n., ""Dealul Neamţului”, în partea de NE a localităţii",1859
+472,GR-II-m-B-15066,"Biserica ""Sf. Ioan Botezătorul”",sat PUTINEIU; comuna PUTINEIU,În partea de SV a localităţii,"1835, ref. 1879"
+473,GR-II-m-B-15067,"Biserica ""Sf. Nicolae”",sat RĂLEŞTI; comuna GOGOŞARI,"Pe DC 120, zona centrală",1922
+474,GR-II-m-B-15068,"Biserica ""Adormirea Maicii Domnului”",sat RĂSUCENI; comuna RĂSUCENI,În fostul sat Răsucenii de Jos,1883
+475,GR-II-m-B-15069,"Biserica ""Sf. Nicolae”",sat RĂSUCENI; comuna RĂSUCENI,În fostul sat Răsucenii de Sus,1876
+476,GR-II-m-B-15070,"Conacul Ion Barbu Arion, fostă Primărie",sat RĂSUCENI; comuna RĂSUCENI,"Pe DJ 503 A, lângă Poliţie",1900
+477,GR-II-m-A-15073,"Biserica ""Adormirea Maicii Domnului”-Sadina, a fostului schit Roata",sat ROATA DE JOS; comuna ROATA DE JOS,"Str. Petrolistului 5, în fostul sat Cătunu",Roata 1668
+478, GR-II-m-B-15072," Biserica ""Sf. Nicolae”-Zgaia", sat ROATA DE JOS; comuna ROATA DE JOS, Str. Principală 19, 1912
+479,GR-II-m-B-15075,Şcoala veche,sat SCHITU; comuna SCHITU,"Șos. Giurgiului 68, lângă fostul Cămin cultural",1900
+480,GR-II-m-B-15074,"Biserica ""Sf. Ioan Botezătorul”",sat SCHITU; comuna SCHITU,"Fundătura Nalbei 8, lângă DN 5B",1857
+481,GR-II-m-B-15080,"Conac, azi sediu Societate Agricolă Elena”",sat SINGURENI; comuna SINGURENI SINGURENI,"Str. Agricultorilor 899, la ieşirea Adunaţii Copăceni Nicu Cantacuzino",spre 1850
+483,GR-II-m-B-15077,Conacul Nicu Cantacuzino,sat SINGURENI; comuna SINGURENI,"Str. Bisericii 1163, pe DJ 411, spre Iepureşti",1840-1866
+484,GR-II-m-B-15078,Conacul Mociorniţa,sat SINGURENI; comuna SINGURENI,"Str. Palatului 929, pe DJ 411, spre Iepureşti, pe malul râului Neajlov",1920-1930
+485,GR-II-m-B-15079,Spital,sat SINGURENI; comuna SINGURENI,"Str. Spitalului 644, pe DJ 411, la din localitate către Crânguri",ieşirea 1910
+486,GR-II-m-B-15081,"Biserica ""Sf. Gheorghe”",sat SLOBOZIA; comuna SLOBOZIA,Pe DN 5,1864
+487,GR-II-m-B-15083,"Biserica ""Sf. Nicolae”- parohia II",sat STĂNEŞTI; comuna STĂNEŞTI,"Str. Principală 68, pe DC 117, lângă şcoală",1863
+488,GR-II-m-B-15082,"Biserica ""Naşterea Maicii Domnului”-parohia I",sat STĂNEŞTI; comuna STĂNEŞTI,"Str. Scurtă 5, pe DC 117, lângă dispensar",1862
+489,GR-II-m-B-15084,"Biserica ""Sf. Constantin şi Elena”",sat STEJARU; comuna SINGURENI,"Str. Trandafirului 1420, în partea a localităţii",de V prima jum. a sec. XVIII
+490,GR-II-m-A-15086,"Biserica ""Buna Vestire”- Drugăneşti",sat STOENEŞTI; comuna FLOREŞTI-STOENEŞTI,Str. Drugănescu Gavril 12,1723
+491,GR-II-m-B-15087,"Biserica ""Sf. Cuvioasa Paraschiva”, ""Sf. Nicolae""",sat STOENEŞTI; comuna STOENEŞTI,"Str. Principală 74, pe DJ 603",1838
+492,GR-II-m-A-15085,Conacul Drugănescu (ulterior Târnoveanu- Ştirbei),sat STOENEŞTI; comuna FLOREŞTI-STOENEŞTI,Str. Punții 2,"1731-1735, ref. 1940- 1941"
+493,GR-II-m-B-15088,"Biserica ""Sf. Treime”",sat TÂNTAVA; comuna GRĂDINARI,Pe DJ 401 A,1877
+494,GR-II-m-B-15089,"Biserica de lemn ""Sf. Ecaterina"" sediu I.A.S.",sat TOMULEŞTI; comuna TOPORU TOPORU,"Str. Bisericii 342bis, în fostul sat Trestenicu",1840
+496,GR-II-m-B-15062,Conacul Butculescu (ulterior Drăgănescu şi Poenărescu),sat ULMI; comuna ULMI,,1900
+497,GR-II-m-B-15093,Conacul Iova Ghiuresici,sat VADU LAT; comuna BUCŞANI,Str. Principală 79,sec. XIX
+498,GR-II-m-B-15091,Spital,sat VADU LAT; comuna BUCŞANI,Str. Principală 82,1897
+499,GR-II-m-B-15092,Conacul Radu Iliescu,sat VADU LAT; comuna BUCŞANI,Str. Principală 90,1900
+500,GR-II-m-B-15094,"Biserica ""Sf. Voievozi” (""Sf. Arhangheli Mihail şi Gavril”)",sat VALEA BUJORULUI; comuna IZVOARELE,Pe DJ 505,1850
+501,GR-II-m-B-15097,Primăria veche,sat VALEA DRAGULUI; comuna VALEA DRAGULUI,"La cca. 200m de biserică, lângă şcoală",1900
+502,GR-II-m-B-15095,"Biserica ""Sf. M. Mc. Dimitrie”",sat VALEA DRAGULUI; comuna VALEA DRAGULUI,,1880
+503, GR-II-m-B-15096," Şcoala veche, azi grădiniţă", sat VALEA DRAGULUI; comuna VALEA DRAGULUI, La cca. 500m de biserică, 1900
+504,GR-II-m-B-15098,"Biserica ""Sf. Voievozi Mihail şi Gavril”",sat VALEA PLOPILOR; comuna GHIMPAŢI,Str. Castelului 1,1820
+505,GR-II-m-B-15099,"Biserica ""Sf. Nicolae, Grigore şi Visarion”, ""Adormirea Maicii Domnului”",sat VĂRĂŞTI; comuna VĂRĂŞTI comuna VÂNĂTORII MICI,"Str. Principală 373, în fostul sat Vărăştii de Sus (cartier Obedeni)",1817
+507,GR-II-m-B-15102,"Conacul Apostol Arsache, azi Primăria",sat VEDEA; comuna VEDEA,"Str. Arsache 130, lângă școala generală şi poliţie",sec. XIX
+508,GR-II-m-B-15101,"Biserica ""Sf. Pantelimon”",sat VEDEA; comuna VEDEA,Str. Arsache 254,1845
+509,GR-III-m-B-15103,Bustul lui Mihai Eminescu,municipiul GIURGIU,Parcul Alei,1938
+510,GR-III-a-B-15104,Aleea Eroilor (1877-1878) - 23 de busturi şi placa comemorativă,municipiul GIURGIU,Parcul Alei,1977
+511,GR-III-m-B-15105,Bustul lui Aristide Paulopoulo,municipiul GIURGIU,"Str. Berthelot Henri M., general, cu str. Parcului",colţ 1920
+512,GR-III-m-B-15106,Bustul lui Nicolae Iorga,municipiul GIURGIU,"Bd. Bucureşti, colţ cu str. Barcian Nicolae, prof.",Droc 1995
+513,GR-III-m-B-15107,Statuia lui Vlad Ţepeş,municipiul GIURGIU,"Bd. Bucureşti, colţ cu str. Independenţei",1976
+514,GR-III-m-B-15108,"Statuia ""Triumf""",municipiul GIURGIU,"Bd. Bucureşti, colţ cu şos. Prieteniei",mijl. sec. XX
+515,GR-III-m-A-15109,"Statuia ""Diana""",municipiul GIURGIU,Piaţa Gării,sec. XIX
+516,GR-III-m-A-15110,"Statuia ""Apollo Belvedere""",municipiul GIURGIU,"Str. Parcului, colţ cu str. Călugăreni",sec. XIX
+517,GR-III-m-A-15111,Bustul lui Dimitrie Bolintineanu,oraş BOLINTIN VALE,"Str. Republicii, în curtea bisericii",mijl. sec. XX
+518,GR-III-m-A-15112,Basoreliefuri din bronz pe podul de pe Neajlov,sat CĂLUGĂRENI; comuna CĂLUGĂRENI,"Pe podul de peste Neajlov, azi la Muzeul judeţean ""Teoharie",mijl. sec. XX
+519,GR-III-m-B-15113,Obeliscul comemorativ al lui Mihai Viteazul,sat CRUCEA DE PIATRĂ; comuna CĂLUGĂRENI,DN 5,1901
+520,GR-IV-m-B-15115,Cavoul familiei Băleanu,sat BOLINTIN DEAL; comuna BOLINTIN DEAL,"Bd. Muncii 14, în curtea bisericii",
+521,GR-IV-a-B-15116,Cimitir cu cruci de piatră,sat CĂLUGĂRENI; comuna CĂLUGĂRENI,În curtea bisericii de lemn,sec. XVIII-XIX
+522,GR-IV-a-B-14963,Monumente funerare ale unor familii de sârbi,sat CLEJANI; comuna CLEJANI,"Aleea Bisericii 3, în curtea bisericii Arhanghel Mihail”","""Sf. sec. XIX"
+523,GR-IV-m-B-15117,Cripta maiorului Mişa Anastasievici,sat CLEJANI; comuna CLEJANI,"În pronaosul bisericii ""Sf. Arhanghel Mihail""",1885
+524,GR-IV-m-A-15119,Crucea lui Mihai Viteazul,sat CRUCEA DE PIATRĂ; comuna CĂLUGĂRENI,"5, La cca. 1 km E faţă de DN 5",1912-1913
+525,GR-IV-m-B-15118,Crucea Grânarilor,sat CRUCEA DE PIATRĂ; comuna CĂLUGĂRENI,Lângă biserică,1878
+526,GR-IV-a-A-15120,Ansamblul comemorativ,sat CRUCEA DE PIATRĂ; comuna CĂLUGĂRENI,"Pe DN 5, vis-a-vis de biserică","1682, capela cca. 1845"
+527,GR-IV-m-A- 15120.01,Crucea lui Şerban Cantacuzino,sat CRUCEA DE PIATRĂ; comuna CĂLUGĂRENI,"Pe DN 5, vis-a-vis de biserică",1682
+528,GR-IV-m-A- 15120.02,Capela,sat CRUCEA DE PIATRĂ; comuna CĂLUGĂRENI,"Pe DN 5, vis-a-vis de biserică",1845
+529,GR-IV-a-B-15127,"Cimitirul vechi, cu cruci de piatră",sat CUCURUZU; comuna RĂSUCENI,"""La Ostrov”",sec. XVIII-XIX
+530,GR-IV-a-B-15114,Cimitir cu cruci de piatră,sat DĂRĂȘTI-VLAȘCA; comuna ADUNAŢII COPĂCENI GREACA,"Str. Bisericii 15A, în fostul sat Pâslari ""Sf. 40 de Mucenici""",a doua jum. a sec. XIX
+532,GR-IV-m-A-15122,Monumentul funerar al familiei Năsturel Herescu,sat HERĂŞTI; comuna HERĂŞTI,"Str. Obrenovici Milos 34, în pridvorul bisericii ""Sf. Treime”, ""Sf. Arhangheli Mihail şi Gavril”, strămutat de la biserica ""Sf. Vineri"" din Bucureşti","sec. XIX, strămutat 1987"
+533,GR-IV-m-B-15123,Monumentul funerar al lui Milan Obrenovici,sat HERĂŞTI; comuna HERĂŞTI,"Str. Obrenovici Milos 34, în curtea bisericii ""Sf. Treime”, ""Sf. Arhangheli Mihail şi Gavril”",1814
+534,GR-IV-m-A-15124,Cruce de piatră,sat MIRONEŞTI; comuna GOSTINARI,În curtea bisericii,sec. XVII
+535,GR-IV-a-B-15125,Cruci de piatră,sat MOGOŞEŞTI; comuna ADUNAŢII COPĂCENI,"Str. Duzilor 42, în curtea bisericii Constantin şi Elena”","""Sf. sec. XVIII-XIX"
+536,GR-IV-m-A-15126,"Crucea ""de la Haltă"" - limita raialei Giurgiu",sat ONCEŞTI; comuna STĂNEŞTI,Lângă halta CFR,sec. XVII
+537,GR-IV-a-B-15128,Cimitir cu cruci de piatră,sat SCHITU; comuna SCHITU,Fundătura Nalbei 8,sec. XIX
+538,GR-IV-m-B- 15128.01,Monumentele funerare ale familiei Pangal,sat SCHITU; comuna SCHITU,Fundătura Nalbei 8,sec. XIX
+539,GR-IV-m-B- 15128.02,Cruci de piatră,sat SCHITU; comuna SCHITU,"Fundătura Nalbei 8, în curtea bisericii ""Sf. Ioan Botezătorul”",sec. XIX
+540,GR-IV-m-B-15129,Monumentul funerar State Tomulescu,sat TOMULEŞTI; comuna TOPORU,În cimitirul vechi,1863

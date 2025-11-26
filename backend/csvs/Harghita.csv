@@ -1,0 +1,684 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,HR-I-s-B-12642,Cetatea Harom (Jigodin II),municipiul MIERCUREA CIUC,"""Harom”, cartier Jigodin",
+3,HR-I-m-A-12642.01,Cetate,municipiul MIERCUREA CIUC,"""Harom”, cartier Jigodin",sec. XII - XIII
+4,HR-I-m-A-12642.02,Cetate,municipiul MIERCUREA CIUC,"""Harom”, cartier Jigodin","sec. III a. Chr. - I. p. Chr., Latène, Cultura geto - dacică"
+5,HR-I-s-A-12643,Cetatea Kisvár (Jigodin III),municipiul MIERCUREA CIUC,"""Kisvártető"" (Piscul Cetăţii Mici), cartier Jigodin",
+6,HR-I-m-A-12643.01,Locuire,municipiul MIERCUREA CIUC,"""Kisvártető"" (Piscul Cetăţii Mici), cartier Jigodin",Epoca medievală timpurie
+7,HR-I-m-A-12643.02,Locuire,municipiul MIERCUREA CIUC,"""Kisvártető"" (Piscul Cetăţii Mici), cartier Jigodin","sec. III p. Chr., Epoca romană"
+8,HR-I-m-A-12643.03,Fortificaţie de lemn (palisadă),municipiul MIERCUREA CIUC,"""Kisvártető"" (Piscul Cetăţii Mici), cartier Jigodin","sec. II a. Chr.- I p. Chr., Latène, Cultura geto - dacică"
+9,HR-I-m-A-12643.04,Descoperire Mare,municipiul MIERCUREA CIUC CIUC,"""Kisvártető"" (Piscul Cetăţii Mici), cartier Jigodin Şumuleu Mare – Cetatea de","Epoca bronzului mijlociu, Cultura Wietenberg Sare),"
+11,HR-I-m-B-12644.01,Turn,municipiul MIERCUREA CIUC,"""Nagysomlyó – Sóvár"" (Mt. Şumuleu Mare – Cetatea de cartier Şumuleu","sec. XVII, Epoca Sare), medievală"
+12,HR-I-m-B-12644.02,Cetate (Cetatea de Sare),municipiul MIERCUREA CIUC,"""Nagysomlyó – Sóvár"" (Mt. Şumuleu Mare – Cetatea de cartier Şumuleu","Preistorie Sare),"
+13,HR-I-s-B-12645,Situl arheologic Aluniş – Kisvár,sat ALUNIŞ; comuna MUGENI,"""Kisvár” (Cetăţuia), dealul Leş, malul drept al Târnavei Mari, intrarea în defileul dintre Dejuţiu Porumbenii Mari",pe Epoca bronzului la şi
+14,HR-I-s-B-12646,Situl arheologic Aluniş – Vágás,sat ALUNIŞ; comuna MUGENI,"""Vágás” (Tăietura), la mijlocul pantei Dealului Leş",Epoca bronzului
+15,HR-I-s-B-12648,Castellum pe limesul Daciei romane,sat BĂDENI; comuna MĂRTINIŞ,,"sec. II - III p. Chr., Epoca romană"
+16,HR-I-s-B-12649,Cetatea „Bágyi vár”,sat BĂDENI; comuna MĂRTINIŞ,"""Vártető” (Dealul Cetăţii), cetatea Bagy",
+17,HR-I-m-B-12649.01,Cetate,sat BĂDENI; comuna MĂRTINIŞ,"""Vártető” (Dealul Cetăţii), cetatea Bagy","sec. XVII, Epoca medievală"
+18,HR-I-m-B-12649.02,Locuire,sat BĂDENI; comuna MĂRTINIŞ,"""Vártető” (Dealul Cetăţii), cetatea Bagy","Epoca bronzului, Cultura Wietenberg"
+19,HR-I-m-B-12649.03,Locuire şi fortificaţie,sat BĂDENI; comuna MĂRTINIŞ,"""Vártető” (Dealul Cetăţii), cetatea Bagy","sec. I a. Chr - sec. I p. Chr, Epoca dacică"
+20,HR-I-s-B-12650,Burgus roman de la Băile Homorod,localitate BĂILE HOMOROD; oraş VLĂHIŢA,"""Földvár”, promontoriul Terasa Homorodului, la confluenţa dintre","sec. II p. Chr., Epoca romană"
+21,HR-I-s-B-12651,Burgus roman de la Băile Homorod,localitate BĂILE HOMOROD; oraş VLĂHIŢA,"""Földvár”, promontoriu la bifurcaţia Văii Seci, la o distanţă 200 m de fortificaţia de la Pârâul Cetăţii","sec. II p. Chr., Epoca de romană"
+22,HR-I-s-B-12653,Situl arheologic Beteşti - Köleskert,sat BETEŞTI; oraş CRISTURU SECUIESC,"""Köleskert – Egertó (Kereksás)”, vatra satului, pe malul stâng Târnavei Mari, pe ogorul lui Szecsi Domokos şi al vecinilor săi",în al
+23,HR-I-m-B-12653.01,Aşezare,sat BETEŞTI; oraş CRISTURU SECUIESC,"""Köleskert – Egertó (Kereksás)”, vatra satului, pe malul stâng Târnavei Mari, pe ogorul lui Szecsi Domokos şi al vecinilor săi","în sec. VII - VIII, Epoca al migraţiilor"
+24,HR-I-m-B-12653.02,Aşezare,sat BETEŞTI; oraş CRISTURU SECUIESC,"""Köleskert – Egertó (Kereksás)”, vatra satului, pe malul stâng Târnavei Mari, pe ogorul lui Szecsi Domokos şi al vecinilor săi","în sec. I a. Chr, Latène al"
+25,HR-I-m-B-12653.03,Aşezare,sat BETEŞTI; oraş CRISTURU SECUIESC,"""Köleskert – Egertó (Kereksás)”, vatra satului, pe malul stâng Târnavei Mari, pe ogorul lui Szecsi Domokos şi al vecinilor săi","în Epoca bronzului, al Cultura Wietenberg"
+26,HR-I-s-B-12654,Situl arheologic de la Bisericani,sat BISERICANI; comuna LUPENI,"""Baknyatető""",
+27,HR-I-m-B-12654.01,Aşezare,sat BISERICANI; comuna LUPENI,"""Baknyatető""",Hallstatt
+28,HR-I-m-B-12654.02,Aşezare,sat BISERICANI; comuna LUPENI,"""Baknyatető""",Epoca bronzului
+30,HR-I-m-A-12656.01,Cetate,sat CICEU; comuna CICEU,"""Vármező""","sec. XII - XIII, Epoca medievală"
+31,HR-I-m-A-12656.02,Cetate,sat CICEU; comuna CICEU,"""Vármező""","sec. II a. Chr - I p. Chr, Latène"
+32,HR-I-s-B-12709,Situl arheologic Ciucani,sat CIUCANI; comuna SÂNMARTIN,"""Borvízkert”, în zona izvorului apă minerală",de
+33,HR-I-m-B-12709.01,Aşezare,sat CIUCANI; comuna SÂNMARTIN,"""Borvízkert”, în zona izvorului apă minerală","de sec. II a. Chr. - I. p. Chr., Latène"
+34,HR-I-m-B-12709.02,Aşezare,sat CIUCANI; comuna SÂNMARTIN,"""Borvízkert”, în zona izvorului apă minerală",de Hallstatt
+35,HR-I-m-B-12709.03,Aşezare,sat CIUCANI; comuna SÂNMARTIN,"""Borvízkert”, în zona izvorului apă minerală","de Epoca bronzului, Cultura Wietenberg"
+36,HR-I-s-B-12657,Situl arheologic Ciucsângeorgiu - Potovszky- kert,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,"""Potovszky-kert” (Grădina Potovszky) – Parohia romano- catolică",
+37,HR-I-m-B-12657.01,Aşezare,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,"""Potovszky-kert” (Grădina Potovszky) – Parohia romano- catolică",Epoca medievală
+38,HR-I-m-B-12657.02,Aşezare,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,"""Potovszky-kert” (Grădina Potovszky) – Parohia romano- catolică",Hallstatt timpuriu
+39,HR-I-m-B-12657.03,Aşezare,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU comuna CIUCSÂNGEORGIU,"""Potovszky-kert” (Grădina Potovszky) – Parohia romano- catolică Potovszky) – Parohia romano-",Epoca bronzului Cucuteni - Ariuşd
+41,HR-I-m-B-12657.05,Aşezare,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,"""Potovszky-kert” (Grădina Potovszky) – Parohia romano- catolică","Neolitic târziu, Cultura Precucuteni"
+42,HR-I-m-B-12657.06,Aşezare,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,"""Potovszky-kert” (Grădina Potovszky) – Parohia romano- catolică","Neolitic mijlociu, Cultura Ceramicii lineare"
+43,HR-I-s-B-12658,Cetatea Firtos,sat CORUND; comuna CORUND,"""Vártető”",
+44,HR-I-m-B-12658.01,Capela Sf. Ioan Botezătorul,sat CORUND; comuna CORUND,"""Vártető”","sec. XVIII, Epoca modernă"
+45,HR-I-m-B-12658.02,Cetatea Firtos,sat CORUND; comuna CORUND,"""Vártető”","sec. XV, Epoca medievală"
+46,HR-I-m-B-12658.03,Capelă,sat CORUND; comuna CORUND,"""Vártető”","sec. XIII, Epoca medievală"
+47,HR-I-s-B-12659,Situl arheologic Cozmeni - Kőházkert,sat COZMENI; comuna COZMENI,"""Kőházkert"", str. Nemes, în spatele casei cu nr. 104",
+48,HR-I-m-B-12659.01,Curia familiei Becz,sat COZMENI; comuna COZMENI,"""Kőházkert"", str. Nemes, în spatele casei cu nr. 104","sec. XV - XVI, Epoca medievală"
+49,HR-I-m-B-12659.02,Aşezare,sat COZMENI; comuna COZMENI,"""Kőházkert"", str. Nemes, în spatele casei cu nr. 104","sec. I a. Chr. - I p. Chr., Latène, Cultura geto - dacică"
+50,HR-I-s-B-12660,Situl arheologic de la Crăciunel,sat CRĂCIUNEL; comuna OCLAND OCLAND,"""Belmező"", la marginea intravilanului intravilanului", Epoca romană
+52,HR-I-m-B-12660.02,Aşezare,sat CRĂCIUNEL; comuna OCLAND,"""Belmező"", la marginea intravilanului",Epoca bronzului
+53,HR-I-s-B-12661,Situl arheologic Cristuru Secuiesc - Felső-lok,oraş CRISTURU SECUIESC,"""Felső-lok"", pe terasa pârâului Gagy din apropierea oraşului",
+54,HR-I-m-B-12661.01,Aşezare,oraş CRISTURU SECUIESC,"""Felső-lok"", pe terasa pârâului Gagy din apropierea oraşului","sec. IV - V p. Chr., Epoca post-romană"
+55,HR-I-m-B-12661.02,Descoperire,oraş CRISTURU SECUIESC,"""Felső-lok"", pe terasa pârâului Gagy din apropierea oraşului","sec. II - III p. Chr., Epoca romană"
+56,HR-I-s-B-12662,Situl arheologic Cristuru Secuiesc – Fenyő-alja,oraş CRISTURU SECUIESC,"""Fenyő-alja”",
+57,HR-I-m-B-12662.01,Aşezare,oraş CRISTURU SECUIESC,"""Fenyő-alja”","sec. VII - VIII, Epoca migraţiilor"
+58,HR-I-m-B-12662.02,Aşezare,oraş CRISTURU SECUIESC,"""Fenyő-alja”","Latène, Cultura geto - dacică"
+59,HR-I-m-B-12662.03,Aşezare,oraş CRISTURU SECUIESC,"""Fenyő-alja”",Epoca bronzului târziu
+60,HR-I-m-B-12662.04,Aşezare,oraş CRISTURU SECUIESC,"""Fenyő-alja”","Eneolitic, Cultura Ariuşd - Cucuteni, Cultura Bodrogkeresztúr"
+61,HR-I-m-B-12662.05,Aşezare,oraş CRISTURU SECUIESC,"""Fenyő-alja”","Neolitic, Cultura Vinča"
+62,HR-I-s-B-12663,Situl arheologic Cristuru Secuiesc - Melegvölgy,oraş CRISTURU SECUIESC,"""Melegvölgy” (Szénamező, Várpataka), valea pârâului Cetăţii, la marginea oraşului Várpataka), valea pârâului Cetăţii,", migraţiilor
+64,HR-I-m-B-12663.02,Aşezare,oraş CRISTURU SECUIESC,"""Melegvölgy” (Szénamező, Várpataka), valea pârâului Cetăţii, la marginea oraşului","sec. I a. Chr - I p. Chr, Latène"
+65,HR-I-m-B-12663.03,Aşezare,oraş CRISTURU SECUIESC,"""Melegvölgy” (Szénamező, Várpataka), valea pârâului Cetăţii, la marginea oraşului","Epoca bronzului, Cultura Wietenberg"
+66,HR-I-s-B-12664,Aşezarea fortificată Dealu Mákvára,- sat DEALU; comuna,"DEALU ""Mákvára"" (Cetatea Macului), km NE de sat","la 4 Epoca bronzului, Cultura Wietenberg"
+67,HR-I-s-B-12665,Situl arheologic Dejuţiu - Kerekhely,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)",
+68,HR-I-m-B-12665.01,Aşezare,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)","sec. XII - XIII, Epoca medievală timpurie"
+69,HR-I-m-B-12665.02,Aşezare,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)","sec. VI - VII, Epoca migraţiilor"
+70,HR-I-m-B-12665.03,Aşezare,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)","sec. III - IV, Epoca post-romană"
+71,HR-I-m-B-12665.04,Aşezare,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)","sec. I a. Chr. - I p. Chr., Latène"
+72,HR-I-m-B-12665.05,Aşezare,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)",Epoca bronzului
+73,HR-I-m-B-12665.06,Aşezare,sat DEJUŢIU; comuna MUGENI,"""Kerekhely” (Locul rotund)",Cultura Coţofeni
+74,HR-I-m-B-12665.07,Aşezare Szénásföld-eleje (Ló-temető),sat DEJUŢIU; comuna MUGENI SECUIENI,"""Kerekhely” (Locul rotund) o vale laterală în hotarul comunei","Eneolitic, Cultura Ariuşd - Cucuteni"
+76,HR-I-m-B-12666.01,Aşezare,sat ELISENI; comuna SECUIENI,"""Ló temető”, cimitirul lui Lod, o vale laterală în hotarul comunei","într- sec. VII - XII, Epoca migraţiilor şi epoca medievală timpurie"
+77,HR-I-m-B-12666.02,Aşezare,sat ELISENI; comuna SECUIENI,"""Ló temető”, cimitirul lui Lod, o vale laterală în hotarul comunei","într- Latène, Cultura geto - dacică"
+78,HR-I-m-B-12666.03,Aşezare,sat ELISENI; comuna SECUIENI,"""Ló temető”, cimitirul lui Lod, o vale laterală în hotarul comunei","într- Epoca bronzului, Cultura Wietenberg, Cultura Noua"
+79,HR-I-m-B-12666.04,Aşezare,sat ELISENI; comuna SECUIENI,"""Ló temető”, cimitirul lui Lod, o vale laterală în hotarul comunei",într- Eneolitic
+80,HR-I-m-B-12666.05,Aşezare,sat ELISENI; comuna SECUIENI,"""Ló temető”, cimitirul lui Lod, o vale laterală în hotarul comunei","într- Neolitic, Cultura Vinča"
+81,HR-I-s-B-12667,Situl arheologic Firtuşu - Péterhegyese,sat FIRTUŞ; comuna,"LUPENI ""Péterhegyese” - ""Felső-tető”, dealul Firtos",
+82,HR-I-m-B-12667.01,Capelă,sat FIRTUŞ; comuna,"LUPENI ""Péterhegyese”, dealul Firtos",Epoca medievală
+83, HR-I-m-B-12667.02, Aşezare, sat FIRTUŞ; comuna," LUPENI ""Felső-tető”, dealul Firtos"," Latène, Cultura geto - dacică"
+84,HR-I-m-B-12667.03,Turn de pază,sat FIRTUŞ; comuna,"LUPENI ""Péterhegyese”, dealul Firtos",Epoca romană
+85,HR-I-s-B-12668,Cetatea Bothvár,municipiul GHEORGHENI,"""Vároldal”",
+86,HR-I-m-B-12668.01,Cetate,municipiul GHEORGHENI,"""Vároldal”","sec. XV - XVII, Epoca medievală"
+88,HR-I-s-B-12826,Ruinele Oficiului de vamă,municipiul GHEORGHENI,Pricske-Kőházak,
+89,HR-I-m-B-12826.01,Fortificaţie (Fortalitium),municipiul GHEORGHENI,Pricske,1700
+90,HR-I-m-B-12826.02,Oficiul de vamă (Contumatz),municipiul GHEORGHENI,Pricske-Kőházak,sf. sec. XVI - înc. sec. XIX
+91,HR-I-s-B-12669,Tumulii de la Ghipeş,sat GHIPEŞ; comuna MĂRTINIŞ,"""Hegyes”, la cca. 1,7 Km V-NV localitate, în pădure",de Preistorie
+92,HR-I-s-B-12670,Castrul roman şi aşezarea romană de la Inlăceni,sat INLĂCENI; comuna,"ATID ""Vár” - „Várkert” - „Palota kertje”",Epoca romană
+93,HR-I-m-B-12670.01,Aşezare civilă,sat INLĂCENI; comuna,"ATID ""Várkert” (Grădina Cetăţii), cetate (Vár), la E de sat, la poalele dealului Firtus",Epoca romană
+94,HR-I-m-B-12670.02,Castru,sat INLĂCENI; comuna,"ATID ""Vár” (Cetate), la E de sat, la poalele dealului Firtus",Epoca romană
+95,HR-I-m-B-12670.03,Termele castrului,sat INLĂCENI; comuna,"ATID ""Palota kertje"" (Grădina palatului), la E de sat, la poalele dealului Firtus",Epoca romană
+96,HR-I-s-B-12671,Situl arheologic Lăzarea - Szármány,sat LĂZAREA; comuna LĂZAREA,"""Szármány”, la V de Castelul",Lázár
+97,HR-I-m-B-12671.01,Aşezare,sat LĂZAREA; comuna LĂZAREA,"""Szármány”, la V de Castelul",Lázár Epoca medievală târzie
+98,HR-I-m-B-12671.02,Aşezare,sat LĂZAREA; comuna LĂZAREA LĂZAREA,"""Szármány”, la V de Castelul","Lázár Epoca medievală timpurie romană, Cultura"
+100,HR-I-m-B-12671.04,Aşezare,sat LĂZAREA; comuna LĂZAREA,"""Szármány”, la V de Castelul",Lázár Epoca bronzului
+101,HR-I-s-B-12672,Situl arheologic Leliceni – Kőhegy,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat",la SV
+102,HR-I-m-B-12672.01,Aşezare,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat","la SV sec. XIII - XIV, Epoca medievală"
+103,HR-I-m-B-12672.02,Aşezare fortificată,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat","la SV sec. I a. Chr - I p. Chr, Latène"
+104,HR-I-m-B-12672.03,Aşezare,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat",la SV Hallstatt
+105,HR-I-m-B-12672.04,Aşezare,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat","la SV Epoca bronzului, Cultura Wietenberg"
+106,HR-I-m-B-12672.05,Aşezare,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat","la SV Epoca bronzului timpuriu, Cultura Jigodin"
+107,HR-I-m-B-12672.06,Aşezare,sat LELICENI; comuna LELICENI,"""Kőhegy"" (Muntele de piatră), de sat",la SV Cultura Coţofeni
+108,HR-I-s-B-12673,Situl arheologic Leliceni - Bánátus,sat LELICENI; comuna LELICENI,"""Bánátus"" - „Kovácskert”",
+109,HR-I-m-B-12673.01,Aşezare,sat LELICENI; comuna LELICENI LELICENI,"""Bánátus"" - „Kovácskert”",Epoca medievală târzie şi epoca modernă medievală timpurie
+111,HR-I-m-B-12673.03,Aşezare,sat LELICENI; comuna LELICENI,"""Bánátus"" - „Kovácskert”","sec. IV, Cultura Sântana de Mureş - Cerneahov"
+112,HR-I-m-B-12673.04,Aşezare,sat LELICENI; comuna LELICENI,"""Bánátus"" - „Kovácskert”",Latène
+113,HR-I-m-B-12673.05,Aşezare,sat LELICENI; comuna LELICENI,"""Bánátus"" - „Kovácskert”",Hallstatt
+114,HR-I-m-B-12673.06,Aşezare,sat LELICENI; comuna LELICENI,"""Bánátus"" - „Kovácskert”",Epoca bronzului
+115,HR-I-s-B-12674,Situl arheologic Leliceni - Tilalmas,sat LELICENI; comuna LELICENI,"""Tilalmas tető"" (Locul Interzis), SV de sat",la Cultura Coţofeni
+116,HR-I-s-B-12675,Situl arheologic Lutiţa – Kétárok-köze,sat LUTIŢA; comuna MUGENI,"""Kétárok köze"", la marginea intravilanului",
+117,HR-I-m-B-12675.01,Aşezare,sat LUTIŢA; comuna MUGENI,"""Kétárok köze"", la marginea intravilanului","sec. IV p. Chr., Epoca post - romană, Cultura Sântana de Mureş - Cerneahov"
+118,HR-I-m-B-12675.02,Aşezare,sat LUTIŢA; comuna MUGENI,"""Kétárok köze"", la marginea intravilanului",Epoca bronzului
+119,HR-I-s-B-12676,Aşezare civilă romană de la Mărtiniş,sat MĂRTINIŞ; comuna MĂRTINIŞ,În intravilan,Epoca romană
+120,HR-I-s-B-12677,Situl arheologic Medişoru Mare – Borsóföld (Szénakert),sat MEDIŞORU MARE; comuna ŞIMONEŞTI,"""Borsóföld"" (Pămîntul de mazăre), la extremitatea de S a satului",
+121,HR-I-m-B-12677.01,Aşezare,sat MEDIŞORU MARE; comuna ŞIMONEŞTI comuna ŞIMONEŞTI,"""Borsóföld"" (Pămîntul de mazăre), la extremitatea de S a satului la extremitatea de S a satului","sec. VI - VII, Epoca migraţiilor Latène"
+123,HR-I-m-B-12677.03,Aşezare,sat MEDIŞORU MARE; comuna ŞIMONEŞTI,"""Borsóföld"" (Pămîntul de mazăre), la extremitatea de S a satului","sec. III - II a. Chr., Latène"
+124,HR-I-s-B-12678,Situl arheologic Medişoru Mare – Kerek-kert,sat MEDIŞORU MARE; comuna ŞIMONEŞTI,"""Kerek-kert” (Grădina rotundă), 1 km de sat",la
+125,HR-I-m-B-12678.01,Aşezare,sat MEDIŞORU MARE; comuna ŞIMONEŞTI,"""Kerek-kert” (Grădina rotundă), 1 km de sat","la sec. XI - XVII, Epoca medievală"
+126,HR-I-m-B-12678.02,Aşezare,sat MEDIŞORU MARE; comuna ŞIMONEŞTI,"""Kerek-kert” (Grădina rotundă), 1 km de sat",la Preistorie
+127,HR-I-s-B-12679,Situl arheologic Mereşti – Pipások dombja,sat MEREŞTI; comuna MEREŞTI,"""Pipások dombja” (Dâmbul Pipaşilor), la 734 m deal, la intrarea în Cheile Vîrghişului",
+128,HR-I-m-B-12679.01,Aşezare,sat MEREŞTI; comuna MEREŞTI,"""Pipások dombja” (Dâmbul Pipaşilor), la 734 m deal, la intrarea în Cheile Vîrghişului","sec. XII - XIII, Epoca medievală timpurie"
+129,HR-I-m-B-12679.02,Aşezare,sat MEREŞTI; comuna MEREŞTI,"""Pipások dombja” (Dâmbul Pipaşilor), la 734 m deal, la intrarea în Cheile Vîrghişului","sec. VII - VIII, Epoca migraţiilor"
+130,HR-I-m-B-12679.03,Aşezare fortificată,sat MEREŞTI; comuna MEREŞTI,"""Pipások dombja” (Dâmbul Pipaşilor), la 734 m deal, la intrarea în Cheile Vîrghişului","sec. II a. Chr - I p. Chr, Latène, Cultura geto - dacică"
+131,HR-I-m-B-12679.04,Aşezare fortificată,sat MEREŞTI; comuna MEREŞTI,"""Pipások dombja” (Dâmbul Pipaşilor), la 734 m deal, la intrarea în Cheile Vîrghişului",Hallstatt
+132,HR-I-m-B-12679.05,Aşezare,sat MEREŞTI; comuna MEREŞTI,"""Pipások dombja” (Dâmbul Pipaşilor), la 734 m deal, la intrarea","Epoca bronzului, Cultura Wietenberg"
+133,HR-I-s-B-12680,Fortificaţia cu val de pământ Mereşti - Várhegy,sat MEREŞTI; comuna MEREŞTI,"şi sat LUETA, comuna LUETA, „Várhegy”",Preistorie
+134,HR-I-s-B-12681,Stitul arheologic Mihăileni Kerekparlag,- sat MIHĂILENI; comuna MIHĂILENI,"""Kerekparlag”","sec. I a. Chr. - I p. Chr., Latène, Cultura geto - dacică"
+135,HR-I-s-B-12682,Aşezarea medievală Mihăileni - Cibrefalva,sat MIHĂILENI; comuna MIHĂILENI,"""Cibre”","sec. XV - XVII, Epoca medievală"
+136,HR-I-s-B-12683,Situl arheologic Mugeni – Pagyvan,sat MUGENI; comuna MUGENI,"""Pagyvan”, terasă pe malul Târnavei Mari, aproape de confluenţa cu pârâul Béta",
+137,HR-I-m-B-12683.01,Aşezare,sat MUGENI; comuna MUGENI,"""Pagyvan”, terasă pe malul Tîrnavei Mari, aproape de confluenţa pârâul Béta","Neolitic, Cultura cu Coţofeni"
+138,HR-I-m-B-12683.02,Aşezare,sat MUGENI; comuna MUGENI,"""Pagyvan”, terasă pe malul Tîrnavei Mari, aproape de confluenţa pârâul Béta","Eneolitic, Cultura cu Tiszapolgár - Bodrogkeresztúr"
+139,HR-I-m-B-12683.03,Aşezare,sat MUGENI; comuna MUGENI,"„Pagyvan”, terasă pe malul Tîrnavei Mari, aproape de confluenţa pârâul Béta","Eneolitic, Cultura cu Ariuşd - Cucuteni"
+140,HR-I-s-B-12684,Situl arheologic Mugeni – Ibortöve,sat MUGENI; comuna MUGENI,"""Ibortöve”",
+141,HR-I-m-B-12684.01,Așezare,sat MUGENI; comuna MUGENI,"""Ibortöve”",Epoca daco - romană
+142,HR-I-m-B-12684.02,Villa rustica Telekkútja,sat MUGENI; comuna MUGENI MUGENI,"""Ibortöve” panta nordică a muntelui",Epoca romană
+144,HR-I-s-B-12686,Situl arheologic Mugeni - Vízlok,sat MUGENI; comuna MUGENI,"""Vízlok”",
+145,HR-I-m-B-12686.01,Aşezare,sat MUGENI; comuna MUGENI,"""Vízlok”","sec. XI - XII, Epoca medievală timpurie"
+146,HR-I-m-B-12686.02,Aşezare,sat MUGENI; comuna MUGENI,"""Vízlok”","sec. VII, Epoca migraţiilor"
+147,HR-I-m-B-12686.03,Aşezare,sat MUGENI; comuna MUGENI,"""Vízlok”","Epoca post - romană, Cultura Sântana de Mureş - Cerneahov"
+148,HR-I-m-B-12686.04,Aşezare,sat MUGENI; comuna MUGENI,"""Vízlok”",Hallstatt
+149,HR-I-m-B-12686.05,Aşezare,sat MUGENI; comuna MUGENI,"""Vízlok”","Epoca bronzului mijlociu, Cultura Wietenberg"
+150,HR-I-m-B-12686.06,Aşezare,sat MUGENI; comuna MUGENI,"""Vízlok”","Eneolitic, Cultura Ariuşd - Cucuteni"
+151, HR-I-s-B-12687, Situl arheologic Nicoleni – Csűrös -Som-áj, sat NICOLENI şi sat ŞIMONEŞTI; comuna ŞIMONEŞTI," ""Csűrös” - ""Som-áj”, la marginea intravilanului",
+152,HR-I-m-B-12687.01,Aşezare,sat NICOLENI şi sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Csűrös” - ""Som-áj”, la marginea intravilanului","Epoca bronzului târziu, Cultura Noua"
+153,HR-I-m-B-12687.02,Aşezare,sat NICOLENI şi sat ŞIMONEŞTI; comuna ŞIMONEŞTI ŞIMONEŞTI; comuna,"""Csűrös” - ""Som-áj”, la marginea intravilanului intravilanului","Epoca bronzului mijlociu, Cultura Wietenberg Coţofeni"
+155,HR-I-s-B-12688,Tumulii de la Ocland,sat OCLAND; comuna OCLAND,"""Kövesbérc – Cseretető”",Epoca bronzului timpuriu
+156,HR-I-s-B-12689,Situl arheologic Ocland – Hagymás vára,sat OCLAND; comuna OCLAND,"""Hagymás vára”",
+157,HR-I-m-B-12689.01,Burgus,sat OCLAND; comuna OCLAND,"""Hagymás vára”",Epoca romană
+158,HR-I-m-B-12689.02,Locuire,sat OCLAND; comuna OCLAND,"""Hagymás vára”","sec. III - II a. Chr., Latène"
+159,HR-I-m-B-12689.03,Turn de pază,sat OCLAND; comuna OCLAND,"""Hagymás vára”",Epoca romană
+160,HR-I-m-B-12690,Cetatea Kustaly,sat OCLAND; comuna OCLAND,"""Kustaly vára” (Cetatea Kustaly), partea de E a satului","în sec. XII - XIII, Epoca medievală timpurie"
+161,HR-I-s-B-12691,Turnul de pază roman de la Ocna de Sus,sat OCNA DE SUS; comuna PRAID,"""Kodáros”, la 1,5 - 2 km de marginea de NE a satului",Epoca romană
+162,HR-I-s-B-12692,Situl arheologic de la Odorheiu Secuiesc,municipiul ODORHEIU SECUIESC,Pe teritoriul municipiului Odorheiu Secuiesc,"sec. I - III p. Chr., Epoca romană"
+163,HR-I-m-B-12692.01,Aşezare,municipiul ODORHEIU SECUIESC,"Pe teritoriul municipiului Odorheiu Secuiesc, între fostul târg de animale şi Cetatea medievală","sec. I - III p. Chr., Epoca romană"
+164,HR-I-m-B-12692.02,Castru,municipiul ODORHEIU SECUIESC,Pe teritoriul municipiului Odorheiu Secuiesc,"sec. I - III p. Chr., Epoca romană"
+165,HR-I-m-B-12692.03,Termele castrului,municipiul ODORHEIU SECUIESC SECUIESC,"Pe locul fostului „Barompiac” Târg de vite) - în intravilan, între străzile Târgului şi Uzinei ""Budvár”, pe un promontoriu","(trad. sec. I - III p. Chr., Epoca romană"
+167,HR-I-m-A-12693.01,Cetate,municipiul ODORHEIU SECUIESC,"şi sat HOGHIA, comuna FELICENI, ""Budvár”, pe un promontoriu izolat, la 2 km SV de centrul oraşului","sec. XII - XIII, Epoca medievală timpurie"
+168,HR-I-m-A-12693.02,Cetate,municipiul ODORHEIU SECUIESC,"şi sat HOGHIA, comuna FELICENI, ""Budvár”, pe un promontoriu izolat, la 2 km SV de centrul oraşului","sec. I a. Chr. - I p. Chr., Latène, Cultura geto - dacică"
+169,HR-I-m-A-12693.03,Aşezare,municipiul ODORHEIU SECUIESC,"şi sat HOGHIA, comuna FELICENI, ""Budvár”, pe un promontoriu izolat, la 2 km SV de centrul oraşului",Hallstatt
+170,HR-I-m-A-12693.04,Aşezare,municipiul ODORHEIU SECUIESC,"şi sat HOGHIA, comuna FELICENI, ""Budvár”, pe un promontoriu izolat, la 2 km SV de centrul oraşului","Epoca bronzului mijlociu, Cultura Wietenberg"
+171,HR-I-m-A-12693.05,Aşezare,municipiul ODORHEIU SECUIESC,"şi sat HOGHIA, comuna FELICENI, ""Budvár”, pe un promontoriu izolat, la 2 km SV de centrul oraşului","Neolitic, Cultura Coţofeni"
+172,HR-I-m-A-12693.06,Aşezare Orăşeni,municipiul ODORHEIU SECUIESC MĂRTINIŞ,"şi sat HOGHIA, comuna FELICENI, ""Budvár”, pe un promontoriu izolat, la 2 km SV de centrul oraşului intravilanului","Eneolitic, Cultura Ariuşd - Cucuteni"
+174,HR-I-s-B-12695,Situl arheologic Oţeni - Mihályfalva,sat OŢENI; comuna FELICIENI,"""Mihályfalvi-rét”, terasă joasă Târnavei Mari, între acest râu platoul Bonta",a şi
+175,HR-I-m-B-12695.01,Aşezare,sat OŢENI; comuna FELICIENI,"""Mihályfalvi-rét”, terasă joasă Târnavei Mari, între acest râu platoul Bonta","a sec. VIII, Epoca şi migraţiilor"
+176,HR-I-m-B-12695.02,Aşezare,sat OŢENI; comuna FELICIENI,"""Mihályfalvi-rét”, terasă joasă Târnavei Mari, între acest râu platoul Bonta",a Latène şi
+177,HR-I-m-B-12695.03,Aşezare,sat OŢENI; comuna FELICIENI,"""Mihályfalvi-rét”, terasă joasă Târnavei Mari, între acest râu platoul Bonta",a Hallstatt şi
+178, HR-I-m-B-12695.04, Aşezare, sat OŢENI; comuna FELICIENI," ""Mihályfalvi-rét”, terasă joasă Târnavei Mari, între acest râu platoul Bonta", a Neolitic şi
+179,HR-I-s-B-12696,Situl arheologic Păuleni – Várdomb,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,"""Várdomb” (Dâmbul Cetăţii)",
+180,HR-I-m-B-12696.01,Aşezare,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,"""Várdomb” (Dâmbul Cetăţii)","Epoca bronzului mijlociu, Cultura Wietenberg"
+181,HR-I-m-B-12696.02,Aşezare fortificată,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,"""Várdomb” (Dâmbul Cetăţii)","Epoca bronzului mijlociu, Cultura Costişa - Ciomortan"
+182,HR-I-m-B-12696.03,Aşezare,sat PĂULENI-CIUC; comuna PĂULENI-CIUC PĂULENI-CIUC,"""Várdomb” (Dâmbul Cetăţii)","Neolitic, Cultura Coţofeni Ariuşd - Cucuteni"
+184,HR-I-s-B-12697,Situl arheologic de la Păuleni- Ciuc,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,,Epoca medievală
+185,HR-I-m-B-12697.01,Aşezarea Tordavölgye,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,"Cartier Delniţa, lângă biserica sat, pe locul numit Tordavölgye","din sec. XVII, Epoca medievală"
+186,HR-I-m-B-12697.02,Necropolă,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,"Cartier Delniţa, lângă biserica sat, pe locul numit Tordavölgye","din sec. XIV - XV, Epoca medievală"
+187,HR-I-s-A-12698,Fortificaţia de la Porumbenii Mari - Vár,sat PORUMBENII MARI; comuna PORUMBENI,"""Vár”, la NE de sat, la confluenţa Târnavei Mari cu pârâul Vargyas",
+188,HR-I-m-A-12698.01,Fortificaţie,sat PORUMBENII MARI; comuna PORUMBENI,"""Vár”, la NE de sat, la confluenţa Târnavei Mari cu pârâul Vargyas","sec. XIII - XV, Epoca medievală"
+189,HR-I-m-A-12698.02,Descoperire funerară,sat PORUMBENII MARI; comuna PORUMBENI,"""Vár”, la NE de sat, la confluenţa Târnavei Mari cu pârâul Vargyas","sec. XIII - XV, Epoca medievală"
+190,HR-I-m-A-12698.03,Aşezare fortificată,sat PORUMBENII MARI; comuna PORUMBENI,"""Vár”, la NE de sat, la confluenţa Târnavei Mari cu pârâul Vargyas","sec. I a. Chr - I p. Chr, Latène"
+191,HR-I-s-A-12699,Situl arheologic Porumbenii Mici – Galat (Omlás),sat PORUMBENII MICI; comuna PORUMBENI,"""Galat – Omlás”, (764 m), deasupra satului, pe Valea Târnavei Mari",
+192,HR-I-m-B-12699.01,Aşezare,sat PORUMBENII MICI; comuna PORUMBENI,"""Galat – Omlás”, (764 m), deasupra satului, pe Valea Târnavei Mari","sec. V - VII, Epoca migraţiilor"
+193,HR-I-m-B-12699.02,Aşezare,sat PORUMBENII MICI; comuna PORUMBENI,"""Galat – Omlás”, (764 m), deasupra satului, pe Valea Târnavei Mari",Epoca romană
+194,HR-I-m-B-12699.03,Fortificaţie,sat PORUMBENII MICI; comuna PORUMBENI,"""Galat – Omlás”, (764 m), deasupra satului, pe Valea Târnavei Mari","Epoca bronzului, Cultura Wietenberg"
+195,HR-I-s-B-12700,Cetatea Rapsóné,sat PRAID; comuna,"PRAID ""Rapsóné vára”, în valea Juhodului (Praidului), pe DN 13B, la cca. 3 km (Praidului), pe DN 13B, la cca."," 2,5 - 2,5 - medievală timpurie"
+197,HR-I-m-B-12700.02,Aşezare,sat PRAID; comuna,"PRAID ""Rapsóné vára”, în valea Juhodului (Praidului), pe DN 13B, la cca. 3 km","Latène 2,5 -"
+198,HR-I-s-B-12701,Situl arheologic Racu - Bogát,sat RACU; comuna RACU,"""Bogát”",
+199,HR-I-m-B-12701.01,Capela „Sf. Iacob şi Filip”,sat RACU; comuna RACU,"""Bogát”","sec. XVI - XVIII, Epoca medievală şi modernă"
+200,HR-I-m-B-12701.02,Cetate,sat RACU; comuna RACU,"""Bogát”","sec. II a. Chr. - I p. Chr., Latène"
+201,HR-I-m-B-12701.03,Aşezare,sat RACU; comuna RACU,"""Bogát”",Hallstatt
+202,HR-I-m-B-12701.04,Aşezare,sat RACU; comuna RACU,"""Bogát”","Epoca bronzului, Cultura Wietenberg"
+203,HR-I-s-B-12702,Cetatea Pogányvár,sat RACU; comuna RACU,"""Pogányvár” (Cetatea Păgânilor), NV de sat",la
+204, HR-I-m-B-12702.01, Cetate, sat RACU; comuna RACU," ""Pogányvár” (Cetatea Păgânilor), NV de sat"," la sec. XII - XIII, Epoca medievală timpurie"
+205,HR-I-m-B-12702.02,Cetate,sat RACU; comuna RACU,"""Pogányvár” (Cetatea Păgânilor), NV de sat","la sec. II a. Chr. - sec. I p. Chr., Latène"
+206,HR-I-s-B-12703,Necropola de la Rugăneşti,sat RUGĂNEŞTI; comuna ŞIMONEŞTI,"""În jurul Bisericii Reformate” 100 m)",(cca.
+207,HR-I-m-B-12703.01,Necropolă,sat RUGĂNEŞTI; comuna ŞIMONEŞTI ŞIMONEŞTI,"""În jurul Bisericii Reformate” 100 m) 100 m)","(cca. sec. XII - XIII – sec. XVII - XVIII, Epoca medievală post - romană,"
+209,HR-I-s-B-12704,Aşezarea fortificată de la Satu Mare - Várnyasarka (Máré vára),sat SATU MARE; comuna SATU MARE,"""Várnyasarka”, la N de sat, la terminaţia platoului vulcanic Munţilor Harghita",Hallstatt al
+210,HR-I-s-B-12705,Burgus roman de la Satu Mare,sat SATU MARE; comuna SATU MARE,"""Cekendtető” la km 35","sec. II - III p. Chr., Epoca romană"
+211,HR-I-s-A-12706,Situl arheologic Sâncrăieni Karimósarka,- sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan",
+212,HR-I-m-B-12706.01,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan","sec. XVII - XVIII, Epoca medievală şi modernă"
+213,HR-I-m-A-12706.02,Descoperire,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan","sec. XVI, Epoca medievală"
+214,HR-I-m-A-12706.03,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan","sec. XII - XIII, Epoca medievală timpurie"
+215,HR-I-m-A-12706.04,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan",Epoca migraţiilor
+216,HR-I-m-A-12706.05,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan",Latène
+217,HR-I-m-A-12706.06,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan",Hallstatt
+218,HR-I-m-A-12706.07,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Karimósarka”, în intravilan",Epoca bronzului
+219,HR-I-s-B-12707,Situl arheologic Sâncrăieni Borvízdomb,- sat SÂNCRĂIENI; comuna SÂNCRĂIENI SÂNCRĂIENI,"""Borvízdomb”"," Chr, Latène, Cultura"
+221,HR-I-m-B-12707.02,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Borvízdomb”",Hallstatt
+222,HR-I-m-B-12707.03,Aşezare,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"""Borvízdomb”","Eneolitic, Cultura Cucuteni - Ariuşd"
+223,HR-I-s-B-12708,Situl arheologic Sâncrăieni conacul Andrássy,– sat SÂNCRĂIENI; comuna SÂNCRĂIENI,"Str. Principală 698, ""Kőoldal”, terenul aflat în proprietatea Tamas Bela","pe sec. XVI - înc. sec. lui XVII, Epoca medievală"
+224,HR-I-s-B-12710,Castrul roman de la Sânpaul,sat SÂNPAUL; comuna MĂRTINIŞ,"În intravilan, pe platoul aflat şi vest de pârâu, în zona bisericii unitariene, a şcolii generale şi fostului sediu CAP, la intersecţia Sânpaul-Bădeni şi Sânpaul-Rupea","la sud sec. II - III p. Chr., Epoca romană a DJ"
+225,HR-I-s-B-12711,Situl arheologic de la Sânpaul – Béla bán vára,sat SÂNPAUL; comuna MĂRTINIŞ,"În intravilan, în partea nordică estică a pârâului, de-a-lungul drumului judeţean Odorheiu Secuiesc - Ocland, la intersecţia Sânpaul-Bădeni şi Sânpaul-Rupea",şi DJ
+226,HR-I-m-B-12711.01,Aşezare,sat SÂNPAUL; comuna MĂRTINIŞ,"În intravilan, în partea nordică estică a pârâului, de-a-lungul drumului judeţean Odorheiu Secuiesc - Ocland, între pârâurile Varta şi Homorod",şi Epoca medievală
+227,HR-I-m-B-12711.02,Aşezare civilă,sat SÂNPAUL; comuna MĂRTINIŞ,"În intravilan, în partea nordică estică a pârâului, de-a-lungul drumului judeţean Odorheiu Secuiesc - Ocland, între pârâurile","şi sec. II - III p. Chr., Epoca romană"
+228,HR-I-s-B-12712,Situl arheologic Sânsimion Homokbánya,- sat SÂNSIMION; comuna SÂNSIMION,Homokbánya – Kőházkert – fostele grajduri CAP,
+229,HR-I-m-B-12712.01,Aşezare,sat SÂNSIMION; comuna SÂNSIMION,Homokbánya – Kőházkert – fostele grajduri CAP,"sec. XII - XIII, Epoca medievală timpurie"
+230,HR-I-m-B-12712.02,Aşezare,sat SÂNSIMION; comuna SÂNSIMION,Homokbánya – Kőházkert – fostele grajduri CAP,"sec. VI - VII, Epoca migraţiilor"
+231,HR-I-m-B-12712.03,Aşezare,sat SÂNSIMION; comuna SÂNSIMION,Homokbánya – Kőházkert – fostele grajduri CAP,"sec. IV p. Chr., Epoca post - romană, Cultura Sântana de Mureş - Cerneahov"
+232,HR-I-m-B-12712.04,Aşezare,sat SÂNSIMION; comuna SÂNSIMION,Homokbánya – Kőházkert – fostele grajduri CAP,Latène
+233,HR-I-m-B-12712.05,Aşezare,sat SÂNSIMION; comuna SÂNSIMION,Homokbánya – Kőházkert – fostele grajduri CAP,"Epoca bronzului, Cultura Wietenberg"
+234,HR-I-s-B-12713,Situl arheologic Sântimbru Zöldfák,- sat SÂNTIMBRU; comuna SÂNTIMBRU,"""Zöldfák” (Pomii verzi), la 1 km de centrul satului, pe o terasă Oltului, în direcţia Sîncrăieni",N a
+235,HR-I-m-B-12713.01,Aşezare,sat SÂNTIMBRU; comuna SÂNTIMBRU,"""Zöldfák” (Pomii verzi), la 1 km de centrul satului, pe o terasă Oltului, în direcţia Sîncrăieni","N Latène, Cultura a Dacilor liberi (carpi)"
+236,HR-I-m-B-12713.02,Aşezare,sat SÂNTIMBRU; comuna SÂNTIMBRU,"""Zöldfák” (Pomii verzi), la 1 km de centrul satului, pe o terasă Oltului, în direcţia Sîncrăieni","N sec. III - II a. Chr. - I p. a Chr., Latène"
+237,HR-I-s-A-12714,Cetatea dacică de la Sub Cetate (Zete vára),sat SUB CETATE; comuna ZETEA,"""Déság”, la E de drumul dintre masivul Harghitei şi masivul",
+238,HR-I-m-A-12714.01,Cetate,sat SUB CETATE; comuna ZETEA,"""Déság”, la E de drumul dintre masivul Harghitei şi masivul Gurghiului","Latène, Cultura geto - dacică"
+239,HR-I-m-A-12714.02,Zid de piatră nefasonată,sat SUB CETATE; comuna ZETEA,"""Déság”, la E de drumul dintre masivul Harghitei şi masivul Gurghiului",Latène
+240,HR-I-m-A-12714.03,Val de pământ,sat SUB CETATE; comuna ZETEA,"""Déság”, la E de drumul dintre masivul Harghitei şi masivul Gurghiului",Latène
+241,HR-I-m-A-12714.04,Şanţ de apărare,sat SUB CETATE; comuna ZETEA,"""Déság”, la E de drumul dintre masivul Harghitei şi masivul Gurghiului",Latène
+242,HR-I-s-B-12655,Situl arhelogic Şimoneşti – Várhegy (Kadicsa vára),sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Várhegy”, pe un promontoriu de sat",la E Epoca medievală
+243,HR-I-s-B-12715,Situl arheologic Şimoneşti Csere-alja,- sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Csere-alja” (Panta de stejar), de sat",la V
+244,HR-I-m-B-12715.01,Aşezare,sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Csere-alja” (Panta de stejar), de sat","la V sec. VII - IX, Epoca migraţiilor"
+245,HR-I-m-B-12715.02,Aşezare,sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Csere-alja” (Panta de stejar), de sat","la V sec. II - III, Epoca romană"
+246,HR-I-m-B-12715.03,Aşezare,sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Csere-alja” (Panta de stejar), de sat","la V sec. I a. Chr. - I p. Chr., Latène"
+247,HR-I-m-B-12715.04,Aşezare,sat ŞIMONEŞTI; comuna ŞIMONEŞTI ŞIMONEŞTI,"""Csere-alja” (Panta de stejar), de sat de sat","la V Hallstatt târziu, Cultura Noua"
+249,HR-I-m-B-12715.06,Aşezare,sat ŞIMONEŞTI; comuna ŞIMONEŞTI,"""Csere-alja” (Panta de stejar), de sat","la V Epoca bronzului mijlociu, Cultura Wietenberg"
+250,HR-I-s-B-12716,Ruinele conacului Abaffy,sat TOMEŞTI; comuna TOMEŞTI,"""Fostul sediu SMA” şi împrejurimea (cca. 100 m)","sec. XIV - XVIII, Epoca medievală"
+251,HR-I-s-B-12652,Cetatea Tuşnad - Vártető,sat TUŞNAD; comuna TUŞNAD,"""Vártető"" (Piscul Cetăţii)",
+252,HR-I-m-B-12652.01,Cetate,sat TUŞNAD; comuna TUŞNAD,"""Vártető"" (Piscul Cetăţii)","sec. XII - XIII, Epoca medievală timpurie"
+253,HR-I-m-B-12652.02,Necropolă,sat TUŞNAD; comuna TUŞNAD,"""Vártető"" (Piscul Cetăţii)",Hallstatt
+254,HR-I-m-B-12652.03,Aşezare fortificată,sat TUŞNAD; comuna TUŞNAD,"""Vártető"" (Piscul Cetăţii)",Hallstatt
+255,HR-I-s-B-12717,Ruinele conacului Sándor,sat VĂCĂREŞTI; comuna MIHĂILENI,"""Rét”","sec. XIV - XVII, Epoca medievală"
+256,HR-I-s-B-12718,Villa rustica,sat VĂLENI; comuna FELICENI,"""Pârâul Viilor”, în vecinătatea proprietăţii lui Páll Ferenc","sec. II - III p. Chr., Epoca romană"
+257,HR-I-s-B-12719,Cetatea Tartód,sat VĂRŞAG; comuna VĂRŞAG,"""Tartód vára” (Cetatea Tartód), mamelon izolat la confluenţa dintre Târnava Mare şi Tartod","sec. XIII, Epoca medievală timpurie"
+258,HR-II-a-B-12721,Ansamblu urban,municipiul MIERCUREA CIUC,Str. Márton Áron nr. 2-72 şi str. Petőfi Sándor de la 1-49,"37-T, sf. sec. XIX - înc. sec. şi 2-40 XX"
+259,HR-II-m-B-12723,Poartă secuiască catolice „Sf. Petru şi Pavel”,municipiul MIERCUREA CIUC CIUC,"Str. Băilor, Szecheny",sec. XIX
+261,HR-II-m-A-12724.01,Biserica romano-catolică „Sf. Petru şi Pavel”,municipiul MIERCUREA CIUC,Str. Căianu Ion 53,"sec. XIV, XV, XVII - XIX"
+262,HR-II-m-A-12724.02,Zid de incintă,municipiul MIERCUREA CIUC,Str. Căianu Ion 53,sec. XVII
+263,HR-II-m-B-12725,"Primărie, fostul sediu al Comitatului Ciuc",municipiul MIERCUREA CIUC,Piaţa Cetăţii 1,"1884 - 1888, ext. 1914"
+264,HR-II-a-A-12726,"Cetatea Mikó, azi Muzeul Secuiesc al Ciucului şi Biblioteca Judeţeană",municipiul MIERCUREA CIUC,Piaţa Cetăţii 2,sec. XVII - XVIII
+265,HR-II-m-A-12726.01,Cetatea - complexul de clădiri,municipiul MIERCUREA CIUC,Piaţa Cetăţii 2,"1623, rec. 1714 - 1716"
+266,HR-II-m-A-12726.02,Turn de poartă,municipiul MIERCUREA CIUC,Piaţa Cetăţii 2,sec. XVIII
+267,HR-II-m-A-12726.03,Şanţ de apărare,municipiul MIERCUREA CIUC,Piaţa Cetăţii 2,sec. XVIII
+268,HR-II-m-A-12726.04,Parcul etnografic – Secţia în aer liber,municipiul MIERCUREA CIUC,Piaţa Cetăţii 2,sec. XIX - prima jum. sec. XX
+269,HR-II-m-B-12736,Casa Zakarias,municipiul MIERCUREA CIUC,Str. Gál Sándor 8,1925
+270,HR-II-a-B-12737,"Ansamblul conacului Mikó, azi Fabrica de mobilă ""Mikó""",municipiul MIERCUREA CIUC,Str. Jigodin 47-49,sec. XIX
+271,HR-II-m-B-12737.01,Conacul Mikó,municipiul MIERCUREA CIUC,Str. Jigodin 47-49,sec. XIX
+272,HR-II-m-B-12737.02,"Grânar catolice ""Sf. Treime""",municipiul MIERCUREA CIUC CIUC,Str. Jigodin 47-49,sec. XIX
+274,HR-II-m-A-12738.01,"Biserica romano-catolică ""Sf. Treime""",municipiul MIERCUREA CIUC,Str. Jigodin 52,"sec. XV, ext. sec. XVIII"
+275,HR-II-m-A-12738.02,Zid de incintă,municipiul MIERCUREA CIUC,Str. Jigodin 52,sec. XVII
+276,HR-II-a-B-12735,Ansamblul bisericii romano- catolice „Înălţarea Sfintei Cruci”,municipiul MIERCUREA CIUC,Str. Kossuth Lajos 40,1758
+277,HR-II-m-B-12735.01,Biserica romano-catolică „Înălţarea Sfintei Cruci”,municipiul MIERCUREA CIUC,Str. Kossuth Lajos 40,1758
+278,HR-II-m-B-12735.02,Zid de incintă (fragment),municipiul MIERCUREA CIUC,Str. Kossuth Lajos 40,1758
+279,HR-II-m-B-12740,"Banca Naţională a României, azi Banca Carpatica",municipiul MIERCUREA CIUC,Piaţa Libertăţii 14,cca. 1925
+280,HR-II-m-B-12728,Ansamblu urban - locuinţe magazin la parter,cu municipiul MIERCUREA CIUC,"Str. Márton Áron 2-4, 6",sf. sec. XIX - înc. sec. XX
+281,HR-II-m-B-12729,Casă,municipiul MIERCUREA CIUC,Str. Márton Áron 38,sf. sec. XIX
+282,HR-II-a-B-12730,"Clădirile fostei fabrici de bere, azi birouri S.C. Electrica S.A. VamRom Expediţii SRL",municipiul MIERCUREA şi CIUC,Str. Márton Áron 46,sec. XIX
+283,HR-II-m-B-12730.01,Fostul turn de germinare (corp 6),municipiul MIERCUREA CIUC,Str. Márton Áron 46,sec. XIX
+284,HR-II-m-B-12730.02,"Fostele „pivniţe” de răcire (corp 1, 2 şi 3) coşul de fum (corp 4)",municipiul MIERCUREA CIUC CIUC,Str. Márton Áron 46,sec. XIX
+286,HR-II-m-B-12730.04,Fostul atelier (corp 5),municipiul MIERCUREA CIUC,Str. Márton Áron 46,sec. XIX
+287,HR-II-a-B-12731,"Liceul teoretic „Márton Áron""",municipiul MIERCUREA CIUC,Str. Márton Áron 72,1909 - 1911
+288,HR-II-m-B-12741,Biserica „Sf. Apostoli Petru Pavel”,şi municipiul MIERCUREA CIUC,Str. Sadoveanu Mihail 2,1929 - 1935
+289,HR-II-m-B-12732,Casă (casa Gál),municipiul MIERCUREA CIUC,Str. Szász Endre 1,1911
+290,HR-II-m-B-12733,Casă (casa Csiszér),municipiul MIERCUREA CIUC,Str. Szász Endre 3,1911
+291,HR-II-m-B-12727,"Reşedinţa garnizoanei de grăniceri nr. 1, azi spital ORL şi Fizioterapie",municipiul MIERCUREA CIUC,Str. Szász Endre 5,"1786, cca. 1826"
+292,HR-II-m-B-12734,Tribunalul judeţean,municipiul MIERCUREA CIUC,Str. Szász Endre 6,1904
+293,HR-II-m-B-12742,"Fostul conac Mikes, azi casa Erdély Péter",municipiul MIERCUREA CIUC,Str. Szék 141,1801
+294,HR-II-m-B-12743,"Fostul Sediu al Scaunului Ciuc, azi Spitalul de Boli Infecţioase",municipiul MIERCUREA CIUC,Str. Szék 146,1835 - 1844
+295,HR-II-m-B-12744,Casa Kalot - asociaţia Caritas trei corpuri legate prin galerii acoperite,- municipiul MIERCUREA CIUC,Str. Szék 147,1942 - 1944
+296,HR-II-a-A-12745,"Mănăstirea Franciscană franciscane ""Vizita Mariei la",municipiul MIERCUREA CIUC CIUC,Str. Szék 148,sec. XVIII - XIX
+298,HR-II-m-A-12745.02,Claustru,municipiul MIERCUREA CIUC,Str. Szék 148,sec. XVIII
+299,HR-II-m-A-12745.03,"Capela „Sf. Ioan Botezătorul""",municipiul MIERCUREA CIUC,Str. Szék 148,1767
+300,HR-II-m-B-12746,Fosta şcoală confesională a mănăstirii franciscane,municipiul MIERCUREA CIUC,Str. Szék 152,sec. XVIII - XIX
+301,HR-II-a-A-12720,"Ansamblul ""Drumul Crucii"" (Kalvaria)",municipiul MIERCUREA CIUC,Str. Şumuleul Mic,sec. XV - XX
+302,HR-II-m-A-12720.01,Capela romano-catolică „Sf. Anton”,municipiul MIERCUREA CIUC,Str. Şumuleul Mic 17,"1661, transf. 1773"
+303,HR-II-m-A-12720.02,"Capela romano-catolică „Passio"" (A Patimilor)",municipiul MIERCUREA CIUC,Str. Şumuleul Mic 19,sec. XV - XVII
+304,HR-II-m-A-12720.03,"Capela romano-catolică ""Salvator""",municipiul MIERCUREA CIUC,Str. Şumuleul Mic 19,sec. XV - XVII
+305, HR-II-m-B-12739," Conacul Lázár, azi Grădiniţă de copii şi Cămin Cultural", municipiul MIERCUREA CIUC, Str. Tolpiţa 93, 1829
+306,HR-II-a-B-12747,"Ansamblul conacului Emeric Adorjan, azi casă de odihnă",sat ARMĂŞENI; comuna CIUCSÂNGEORGIU,431,"1797, 1828, ext. 1835, 1869"
+307,HR-II-m-B-12747.01,Conacul de lemn Emeric Adorjan,sat ARMĂŞENI; comuna CIUCSÂNGEORGIU,431,"1797, 1828, ext. 1835, 1869"
+308,HR-II-m-B-12747.02,"Poartă secuiască catolice ""Zămislirea Sf.",sat ARMĂŞENI; comuna CIUCSÂNGEORGIU CIUCSÂNGEORGIU,431,1869
+310,HR-II-m-A-12748.01,"Biserica romano-catolică ""Zămislirea Sf. Fecioare""",sat ARMĂŞENI; comuna CIUCSÂNGEORGIU,460,sec. XV - XIX
+311,HR-II-m-A-12748.02,Zid de incintă,sat ARMĂŞENI; comuna CIUCSÂNGEORGIU,460,sec. XV
+312,HR-II-m-B-12749,"Biserica reformată, cu turnul- clopotniţă",sat ATID; comuna ATID,246,"1678, 1797"
+313,HR-II-m-B-12750,Biserica unitariană,sat AVRĂMEŞTI; comuna AVRĂMEŞTI,46,"sec. XV, 1803 - 1811"
+314,HR-II-m-B-12752,Conacul Biró,sat BETEŞTI; oraş CRISTURU SECUIESC,76,înc. sec. XIX
+315,HR-II-m-A-12753,"Biserica de lemn ""Sf. Nicolae""",sat BILBOR; comuna,BILBOR 125,"1795, 1819"
+316,HR-II-m-B-20312,Biserică de lemn romano- catolică,sat BILBOR; comuna,BILBOR 203,înc. sec. XX
+317,HR-II-m-B-12754,Primărie,sat BILBOR; comuna,BILBOR Str. Principală 120,1936 - 1938
+318,HR-II-m-B-12755,Şcoală,sat BILBOR; comuna,BILBOR Str. Principală 127,1936 - 1938
+319,HR-II-a-A-12756,Ansamblul bisericii romano catolice,- sat BISERICANI; comuna LUPENI,2,sec. XIII - XVIII
+320,HR-II-m-A-12756.01,Biserica romano - catolică,sat BISERICANI; comuna LUPENI,2,sec. XIII - XVIII
+321,HR-II-m-A-12756.02,"Zid de incintă Petru şi Pavel” şi ""Sf. Nicolae""",sat BISERICANI; comuna LUPENI SECUIENI,2 din str. Szobor nr. 74,sec. XVII
+323,HR-II-m-B-12758,Biserica unitariană,sat BODOGAIA; comuna SECUIENI,111,1791 - 1796
+324,HR-II-a-B-12759,"Ansamblul balnear ""7 Izvoare""",oraş BORSEC,"Bd. ""7 Izvoare"" nr. 15-23, vila Casa de Cultură, restaurantul ""Fagul""","71, sf. sec. XIX - înc. sec. XX"
+325,HR-II-m-B-12760,Pavilionul de protecţie al izvorului nr. 3 (Madonna),oraş BORSEC,Bd. 7 Izvoare,înc. sec. XX
+326,HR-II-m-B-12761,Pavilionul de protecţie al izvorului nr. 6 (Lázár),oraş BORSEC,Bd. 7 Izvoare,înc. sec. XX
+327,HR-II-m-B-12762,Pavilionul de protecţie al izvorului nr. 5 (László),oraş BORSEC,Bd. 7 Izvoare,înc. sec. XX
+328,HR-II-m-B-20313,Vila 14,oraş BORSEC,Str. Jókai Mór,1933 - 1935
+329,HR-II-m-B-12764,Ruinele vilei Babám,oraş BORSEC,Str. Jókai Mór 12,
+330,HR-II-m-B-12767,"Vechea uzină electrică, azi depozit al staţiunii balneare",oraş BORSEC,Aleea Primăverii f.n.,cca. 1880
+331,HR-II-m-B-12765,"Vila 49, azi vila nr. 51 - Emil",oraş BORSEC,Aleea Primăverii 7,1936
+332,HR-II-m-B-12766,"Vila 50, azi vila nr. 53 - Doru",oraş BORSEC,Aleea Primăverii 13,1936
+333,HR-II-m-B-12768,Fosta vilă nr. 56 - Barbu,oraş BORSEC,Aleea Rotundă 4,1896
+334,HR-II-m-B-12770,Fosta vilă nr. 60 izvorului nr. 10 (Kossuth),oraş BORSEC,Aleea Stadionului 7,1880
+336,HR-II-m-B-12772,Biserica de lemn „Schimbarea la Faţă”,oraş BORSEC,Str. Uzinei 4,1847
+337,HR-II-m-B-12773,Moară de vânt,sat CĂLUGĂRENI; comuna MĂRTINIŞ,"În spatele casei cu nr. 9, pe dealul numit „Falu Felett”, la cca. 400 de sat",sec. XIX m S
+338,HR-II-m-A-12774.03,Casa parohială romano - catolică,sat CÂRŢA; comuna,CÂRŢA 248,sec. XVIII
+339,HR-II-a-A-12774,"Ansamblul bisericii fortificate romano - catolice „Adormirea Maicii Domnului""",sat CÂRŢA; comuna,CÂRŢA 281,
+340,HR-II-m-A-12774.01,"Biserica romano-catolică „Adormirea Maicii Domnului""",sat CÂRŢA; comuna,CÂRŢA 281,1444 - 1720
+341,HR-II-m-A-12774.02,"Incinta fortificată, cu turnul porţii",sat CÂRŢA; comuna,CÂRŢA 281,sec. XV - XVII
+342,HR-II-a-A-12775,Ansamblul bisericii romano catolice „Sf. Simion şi Iuda”,- sat CETĂŢUIA; comuna SÂNSIMION,3,sec. XIV - XVIII
+343, HR-II-m-A-12775.01, Biserica romano-catolică „Sf. Simion şi Iuda”, sat CETĂŢUIA; comuna SÂNSIMION, 3, sec. XIV - XVIII
+344,HR-II-m-A-12775.02,Zid de incintă,sat CETĂŢUIA; comuna SÂNSIMION,3,sec. XVIII
+345,HR-II-a-B-12776,Ansamblul bisericii romano- catolice „Sf. Anton de Padua”,sat CICEU; comuna CICEU,152-153,sec. XVIII - XX
+346,HR-II-m-B-12776.02,Casa parohială romano- catolică Anton de Padua”,sat CICEU; comuna CICEU,152,sec. XX şi sacristia)
+348,HR-II-m-B-12777,Capela romano- catolică „Sf. Maria Mare”,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,"Pe dealul Posa, la SE de sat, cca. km",2 înc. sec. XVIII
+349,HR-II-a-A-12778,Ansamblul bisericii romano- catolice „Sf. Gheorghe”,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,12,sec. XV - XVIII
+350,HR-II-m-A-12778.01,Biserica romano-catolică „Sf. Gheorghe”,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,12,sec. XV - XVIII
+351,HR-II-m-A-12778.02,Incintă fortificată,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,12,1673
+352,HR-II-a-B-12779,Gospodărie ţărănească,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,68,sec. XIX
+353,HR-II-m-B-12779.01,Casă,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,68,1958
+354,HR-II-m-B-12779.02,Şură,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,68,sec. XIX
+355,HR-II-a-B-12780,Gospodărie ţărănească,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,69,sec. XIX
+356,HR-II-m-B-12780.01,Casă,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,69,sec. XIX
+357,HR-II-m-B-12780.02,Şură,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,69,sec. XIX
+358,HR-II-m-B-12780.03,Poartă,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,69,sec. XIX
+359,HR-II-m-B-12781,Casa de lemn Gál Sándor Regina,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU comuna CIUCSÂNGEORGIU,130,1822
+361,HR-II-m-B-12784,Casa de lemn Albert József,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,257,sec. XIX
+362,HR-II-m-B-12786,Casa natală a pictorului Márton Ferenc şi poarta de lemn,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,394,1891
+363,HR-II-m-B-12787,Biserica „Sf. Gheorghe”,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,530,"sec. XVIII, ref. 1840"
+364,HR-II-a-B-12788,Gospodăria Tamás Irma,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,588,sf. sec. XIX
+365,HR-II-m-B-12788.01,Casă,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,588,sf. sec. XIX
+366,HR-II-m-B-12788.02,Bucătăria de vară,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,588,sf. sec. XIX
+367,HR-II-m-B-12788.03,Şură,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,588,sf. sec. XIX
+368,HR-II-m-B-12790,Poarta casei de lemn Gál Sándor,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,605,1824
+369,HR-II-a-B-12791,Gospodărie ţărănească,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,615,sec. XIX
+370,HR-II-m-B-12791.01,Casă de lemn,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,615,sec. XIX
+371,HR-II-m-B-12791.02,Şură,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU,615,sec. XIX
+372,HR-II-m-B-12792,Casă de lemn şi poartă,sat CIUCSÂNGEORGIU; comuna CIUCSÂNGEORGIU CORUND,616,sec. XIX
+374,HR-II-m-B-12794,"Muzeul sătesc, cu poarta de lemn",sat CORUND; comuna CORUND,98,sec. XIX
+375,HR-II-a-A-12795,Ansamblul bisericii romano- catolice „Sf. Cosma şi Damian”,sat COZMENI; comuna COZMENI,72,sec. XIV - XIX
+376,HR-II-m-A-12795.01,Biserica romano- catolică „Sf. Cosma şi Damian”,sat COZMENI; comuna COZMENI,72,"sec. XIV, sec. XVII, sec. XIX"
+377,HR-II-m-A-12795.02,Zid de incintă,sat COZMENI; comuna COZMENI,72,sec. XVII
+378,HR-II-m-A-12795.03,"Fosta casă parohială, azi sală de cateheză",sat COZMENI; comuna COZMENI,72,1720
+379,HR-II-m-B-12796,Casa de lemn Szöcs Lajos,sat COZMENI; comuna COZMENI,202,1882
+380,HR-II-a-A-12797,Ansamblul bisericii unitariene,sat CRĂCIUNEL; comuna OCLAND,49,sec. XIII - XIX
+381,HR-II-m-A-12797.01,Biserica unitariană,sat CRĂCIUNEL; comuna OCLAND,49,sec. XIII - XIX
+382,HR-II-m-A-12797.02,Zid de incintă,sat CRĂCIUNEL; comuna OCLAND,49,1821
+383,HR-II-m-B-12798,Biserica romano- catolică,sat CRĂCIUNEL; comuna OCLAND,73,sec. XVII
+384,HR-II-a-B-12799,"Ansamblul urban ""Piaţa Libertăţii I"" - clădiri de locuit cu magazine la parter",oraş CRISTURU SECUIESC,"Piaţa Libertăţii, nr. 1-T",sf. sec. XIX - înc. sec. XX
+386,HR-II-m-B-12800,Biserica reformată,oraş CRISTURU SECUIESC,Str. Kriza János 12,"1822 - 1834, 1866"
+387,HR-II-m-B-12801,"Fostul Tribunal, azi spital orăşenesc",oraş CRISTURU SECUIESC,Str. Kriza János 26,înc. sec. XX
+388,HR-II-m-B-12802,Casa Lengyel,oraş CRISTURU SECUIESC,Piaţa Libertăţii 7,sec. XIX
+389,HR-II-m-B-12803,Casa Péter Imre,oraş CRISTURU SECUIESC,Piaţa Libertăţii 21,înc. sec. XIX
+390,HR-II-m-B-12804,"Fostul cazinou, azi Muzeul Molnár István",oraş CRISTURU SECUIESC,Piaţa Libertăţii 45,sec. XX
+391,HR-II-m-A-12805,Biserica romano-catolică,oraş CRISTURU SECUIESC,Piaţa Libertăţii 61,sec. XV - XVIII
+392,HR-II-m-B-12806,"Gimnaziul Superior Unitarian, azi şcoală generală",oraş CRISTURU SECUIESC,Str. Orbán Balázs 16,1876
+393,HR-II-a-B-12807,Ansamblul Conacului Gyárfás,oraş CRISTURU SECUIESC,Str. Petöfi Sándor 34,sec. XVIII - XIX
+394,HR-II-m-B-12807.01,Conacul Gyárfás,oraş CRISTURU SECUIESC,Str. Petöfi Sándor 34,sec. XVIII
+395, HR-II-m-B-12807.02, Parc, oraş CRISTURU SECUIESC, Str. Petöfi Sándor 34," sec. XVIII, sec. XIX"
+396,HR-II-m-B-12808,Prima moară cu aburi,oraş CRISTURU SECUIESC,Str. Timafalvi 24,sec. XX
+397,HR-II-a-A-12809,Ansamblul bisericii reformate,sat CUŞMED; comuna,ATID 85-86,sec. XIII - XVIII
+399,HR-II-m-A-12809.02,Clopotniţă de lemn,sat CUŞMED; comuna,ATID 85-86,1747
+400,HR-II-m-A-12809.03,Zid de incintă,sat CUŞMED; comuna,ATID 85-86,sec. XVIII
+401,HR-II-m-B-12810,Casa olarului Bereczki Zsigmond,sat CUŞMED; comuna,ATID 147,1858
+402,HR-II-a-A-12811,Ansamblul bisericii reformate,sat DAIA; comuna ULIEŞ,12,sec. XIV - XVIII
+403,HR-II-m-A-12811.01,Biserica reformată,sat DAIA; comuna ULIEŞ,12,sec. XIV - XVIII
+404,HR-II-m-A-12811.02,Zid de incintă,sat DAIA; comuna ULIEŞ,12,1779
+405,HR-II-s-A-12812,Situl rural Dârjiu,sat DÂRJIU; comuna,DÂRJIU Sit delimitat cf. avizului de clasare 809/E/1998 al Ministerului Culturii,sec. XV - XX
+406,HR-II-a-A-12813,Ansamblul bisericii unitariene fortificate,sat DÂRJIU; comuna,DÂRJIU Str. Alszeg 164,sec. XV - XVIII
+407,HR-II-m-A-12813.01,Biserica unitariană,sat DÂRJIU; comuna,DÂRJIU Str. Alszeg 164,sec. XV - XVIII
+408, HR-II-m-A-12813.02, Incintă fortificată, sat DÂRJIU; comuna, DÂRJIU Str. Alszeg 164, sec. XV
+409,HR-II-a-A-12814,Ansamblul bisericii romano- catolice „Sf. Ioan Botezătorul”,sat DELNIŢA; comuna PĂULENI-CIUC,206A,sec. XIV - XVIII
+410,HR-II-m-A-12814.01,Biserica romano-catolică „Sf. Ioan Botezătorul”,sat DELNIŢA; comuna PĂULENI-CIUC PĂULENI-CIUC,206A,sec. XIV - XVIII
+412,HR-II-m-B-12815,Măcelaria veche,sat DITRĂU; comuna DITRĂU,Str. Cerbului 7,înc. sec. XX
+413,HR-II-a-B-12816,Ansamblul bisericii romano- catolice „Sf. Ecaterina”,sat DITRĂU; comuna DITRĂU,Str. Libertăţii 27,1750 - 1800
+414,HR-II-m-B-12816.01,Biserica romano - catolică Ecaterina”,„Sf. sat DITRĂU; comuna DITRĂU,Str. Libertăţii 27,1747
+415,HR-II-m-B-12816.02,"Zid de incintă, cu ediculul porţii",sat DITRĂU; comuna DITRĂU,Str. Libertăţii 27,"1760, 1771"
+416,HR-II-a-A-12817,Ansamblul bisericii reformate,sat FELICIENI; comuna FELICIENI,19,sec. XIII - XIX
+417,HR-II-m-A-12817.01,Biserica reformată,sat FELICIENI; comuna FELICIENI,19,sec. XIII - XIX
+418,HR-II-m-A-12817.02,Zid de incintă,sat FELICIENI; comuna FELICIENI,19,1670
+419,HR-II-m-B-12820,Biserică unitariană şi reformată,localitate FILIAŞI; oraş CRISTURU SECUIESC,Str. Filiaşi 59,1801 - 1803
+420,HR-II-a-A-12822,Ansamblul bisericii reformate,sat FORŢENI; comuna FELICIENI,6,sec. XIV - XIX
+421,HR-II-m-A-12822.01,Biserica reformată,sat FORŢENI; comuna FELICIENI,6,sec. XIV - XIX
+422,HR-II-m-A-12822.02,Zid de incintă,sat FORŢENI; comuna FELICIENI,6,sec. XIV - XIX
+423,HR-II-m-B-12823,Clopotniţa de lemn a bisericii romano-catolice Maicii Domnului”,sat FRUMOASA; comuna FRUMOASA GĂLĂUŢAŞ,"Str. Bisericii, lângă casa cu nr.",109 sec. XIX Topliţa în Gălăuţaş în
+425,HR-II-a-B-12825,"Ansamblul urban ""Piaţa Libertăţii II"" - clădiri de locuit cu magazine la parter",municipiul GHEORGHENI,Piaţa Libertăţii de la nr. 1-30 Márton Áron de la 1-7,şi str. sf. sec. XIX - înc. sec. XX
+426,HR-II-m-B-12828,Clădirea primei Cooperative de Credit,municipiul GHEORGHENI,Str. Băii 5,înc. sec. XIX
+427,HR-II-m-B-12829,Clopotniţa de lemn a bisericii romano-catolice,municipiul GHEORGHENI,Str. Békény (Belchiei) 70,sec. XIX
+428,HR-II-m-B-12830,"Moară de apă, fosta moară Tinka",municipiul GHEORGHENI,Str. Békény (Belchiei) 77,1868
+429,HR-II-a-A-12838,"Ansamblul bisericii armeano- catolice ""Naşterea Maicii Domnului""",municipiul GHEORGHENI,Str. Biserica Armeană 1,sec. XVII - XVIII
+430,HR-II-m-A-12838.01,"Biserica armeano - catolică ""Naşterea Maicii Domnului""",municipiul GHEORGHENI,Str. Biserica Armeană 1,sec. XVII - XVIII
+431,HR-II-m-A-12838.02,Capelă,municipiul GHEORGHENI,Str. Biserica Armeană 1,1650
+432,HR-II-m-A-12838.03,Zid de incintă,municipiul GHEORGHENI,Str. Biserica Armeană 1,1748
+433,HR-II-m-B-12827,Clopotniţa de lemn a bisericii romano-catolice,municipiul GHEORGHENI,Str. Clopotniţei 2,sec. XIX
+434,HR-II-m-B-12831,Biserica „Sf. Gheorghe”,municipiul GHEORGHENI,Str. Cristea Miron 10,1929 - 1937
+435,HR-II-m-B-12832,"Conacul ""Benedek""",municipiul GHEORGHENI,Str. Gábor Áron 18,1840
+437,HR-II-m-B-12834,Liceul Salamon Ernö,municipiul GHEORGHENI,Bd. Lacul Roşu 3-5,1911 - 1915
+438,HR-II-m-B-12835,Casa Czaran,municipiul GHEORGHENI,Str. Márton Áron 7,sec. XVII - XVIII
+439,HR-II-a-A-12836,Ansamblul bisericii romano- catolice „Sf. Nicolae”,municipiul GHEORGHENI,Str. Márton Áron 9-11,sec. XV - XVIII
+440,HR-II-m-A-12836.01,Biserica romano-catolică „Sf. Nicolae”,municipiul GHEORGHENI,Str. Márton Áron 9-11,sec. XV - XVIII
+441,HR-II-m-A-12836.02,Zid de incintă,municipiul GHEORGHENI,Str. Márton Áron 9-11,1756
+442,HR-II-m-A-12836.03,Casa parohială veche,municipiul GHEORGHENI,Str. Márton Áron 9-11,1758
+443,HR-II-a-B-12837,"Ansamblul urban ""Str. Márton Áron""",municipiul GHEORGHENI,"Str. Márton Áron 10, 12, 14",sec. XVIII - XIX
+444,HR-II-m-B-12839,Casa parohială armeano- catolică,municipiul GHEORGHENI,Piaţa Petöfi Sándor 4,sec. XIX
+445,HR-II-m-B-12840,"Muzeul orăşenesc ""Tarisznyas Marton"" (fosta casă Vertan)",municipiul GHEORGHENI,Str. Rákoczi Ferenc 1,1770 - 1787
+446,HR-II-m-B-12842,Casă de piatră (fosta casă Benedek Iulianna),sat GHIPEŞ; comuna MĂRTINIŞ,22,sec. XVIII
+447,HR-II-a-B-12843,Gospodărie ţărănească,sat HODOŞA; comuna SĂRMAŞ,1542,înc. sec. XX
+448,HR-II-m-B-12843.01,Casă,sat HODOŞA; comuna SĂRMAŞ SĂRMAŞ,1542,înc. sec. XX
+450,HR-II-m-B-12843.03,Celar,sat HODOŞA; comuna SĂRMAŞ,1542,înc. sec. XX
+451,HR-II-m-B-12843.04,Şură,sat HODOŞA; comuna SĂRMAŞ,1542,înc. sec. XX
+452,HR-II-m-B-12844,Biserica reformată,sat IGHIU; comuna ULIEŞ,Lângă nr. 56,"1784, 1792"
+453,HR-II-m-B-12845,Casa Váncsa M. Éva,sat IMPER; comuna DE JOS,PLĂIEŞII 116,1901
+454,HR-II-m-B-12846,Conacul Balázsi,sat IMPER; comuna DE JOS,PLĂIEŞII 288,1833
+455,HR-II-a-B-12847,Gospodărie ţărănească,sat INEU; comuna CÂRŢA,Str. Oltmejéke 222,1874
+456,HR-II-m-B-12847.01,Casă,sat INEU; comuna CÂRŢA,Str. Oltmejéke 222,1874
+457,HR-II-m-B-12847.02,Bucătărie de vară,sat INEU; comuna CÂRŢA,Str. Oltmejéke 222,1874
+458,HR-II-m-B-12847.03,Grajd,sat INEU; comuna CÂRŢA,Str. Oltmejéke 222,1874
+459,HR-II-a-A-12848,Ansamblul bisericii unitariene,sat INLĂCENI; comuna,ATID 80,sec. XV - XIX
+460,HR-II-m-A-12848.01,Biserica unitariană,sat INLĂCENI; comuna,ATID 80,"sec. XV - XIX, turn 1688"
+461,HR-II-m-A-12848.02,Zid de incintă catolice,sat INLĂCENI; comuna,ATID 80,1753
+463,HR-II-m-B-12849.01,Biserica romano- catolică,sat JOSENI; comuna,JOSENI 633,sec. XIII - XVIII
+464,HR-II-m-B-12849.02,Casa parohială,sat JOSENI; comuna,JOSENI 633,1878
+465,HR-II-m-A-12851,Capela romano-catolică,sat LĂZAREA; comuna LĂZAREA,Pe dealul Szármány,sec. XVI
+466,HR-II-a-A-12852,Ansamblul bisericii romano- catolice,sat LĂZAREA; comuna LĂZAREA,548,sec. XIII - XVIII
+467,HR-II-m-A-12852.01,"Biserica romano - catolică Tuturor Sfinţilor""","""A sat LĂZAREA; comuna LĂZAREA",548,"1235, sec. XV - XVIII"
+468,HR-II-m-A-12852.02,Zid de incintă,sat LĂZAREA; comuna LĂZAREA,548,sec. XVII - XVIII
+469,HR-II-a-A-12853,Mănăstirea Franciscană,sat LĂZAREA; comuna LĂZAREA,549,sec. XVI - XVIII
+470,HR-II-m-A-12853.01,"Biserica mănăstirii franciscane, cu capela şi cripta",sat LĂZAREA; comuna LĂZAREA,549,"1558, sec. XVI - XVII"
+471,HR-II-m-A-12853.02,Claustrul mănăstirii franciscane,sat LĂZAREA; comuna LĂZAREA,549,"1558, ref. sec. XVIII"
+472,HR-II-a-A-12854,Ansamblul castelului Lázár,sat LĂZAREA; comuna LĂZAREA,709,sec. XVI - XVIII
+473,HR-II-m-A-12854.01,Corpul porţii (casa veche),sat LĂZAREA; comuna LĂZAREA,709,"1532, sec. XVIII"
+474,HR-II-m-A-12854.02,Sala cavalerilor (sala dietei),sat LĂZAREA; comuna LĂZAREA LĂZAREA,709,"1532, sec. XVIII"
+476,HR-II-m-A-12854.04,Bastionul sud - vestic,sat LĂZAREA; comuna LĂZAREA,709,"1532, sec. XVIII"
+477,HR-II-m-A-12854.05,Bastionul sud - estic,sat LĂZAREA; comuna LĂZAREA,709,"1532, sec. XVIII"
+478,HR-II-m-A-12854.06,Bastionul nord - vestic,sat LĂZAREA; comuna LĂZAREA,709,"1532, sec. XVIII"
+479,HR-II-m-A-12854.07,Bastionul nord - estic,sat LĂZAREA; comuna LĂZAREA,709,"1532, sec. XVIII"
+480,HR-II-m-A-12854.08,Temniţa,sat LĂZAREA; comuna LĂZAREA,709,"1532, sec. XVIII"
+481,HR-II-m-A-12854.09,Zid de incintă şi ruinele fostelor clădiri din interiorul incintei,sat LĂZAREA; comuna LĂZAREA,709,1631 - 1632
+482,HR-II-m-B-12855,"Biserica romano - catolică ""Ziua Domnului""",sat LĂZĂREŞTI; comuna COZMENI,252,1883
+483,HR-II-m-B-12856,Biserica „Sf. Nicolae”,sat LĂZĂREŞTI; comuna COZMENI,253,sec. XVIII
+484,HR-II-a-A-12857,"Ansamblul bisericii romano catolice ""Sf. Duh""",- sat LELICENI; comuna LELICENI,37,sec. XV - XIX
+485,HR-II-m-A-12857.01,Biserica romano - catolică Duh”,„Sf. sat LELICENI; comuna LELICENI,37,sec. XV - XIX
+486,HR-II-m-A-12857.02,Zid de incintă,sat LELICENI; comuna LELICENI,37,sec. XVII
+487,HR-II-m-B-12859,"Fântână de sare, acoperită",sat LUETA; comuna,LUETA Lângă nr. 481,1866 piese originare
+489,HR-II-m-B-12860,Casa Ladó,sat LUETA; comuna,LUETA 995,mijl. sec. XIX
+490,HR-II-m-B-12861,Moară de apă,sat LUNCA DE JOS; comuna LUNCA DE JOS,Str. Principală 605,sec. XIX
+491,HR-II-m-B-12862,Casă de lemn cu cuptor în pridvor,sat LUPENI; comuna,LUPENI Str. Pap 513,sec. XIX
+492,HR-II-a-A-12863,Ansamblul bisericii reformate,sat LUTIŢA; comuna MUGENI,307,sec. XV - XVIII
+493,HR-II-m-A-12863.01,Biserica reformată,sat LUTIŢA; comuna MUGENI,307,sec. XV - XVIII
+494,HR-II-m-A-12863.02,Zid de incintă cu turn de poartă,sat LUTIŢA; comuna MUGENI,307,"1628, 1729"
+495,HR-II-m-B-12864,Moară de apă,sat MĂDĂRAŞ; comuna MĂDĂRAŞ,629,înc. sec. XIX
+496,HR-II-a-B-12865,Ansamblul bisericii unitariene,sat MĂRTINIŞ; comuna MĂRTINIŞ,33,sec. XV - XIX
+497,HR-II-m-B-12865.01,Biserica unitariană,sat MĂRTINIŞ; comuna MĂRTINIŞ,33,1889
+498,HR-II-m-B-12865.02,Ruinele incintei fortificate turnul de poartă,şi sat MĂRTINIŞ; comuna MĂRTINIŞ,33,sec. XV
+499,HR-II-m-B-12866,"Casa Kerekes Julcsa, cu poarta",sat MĂRTINIŞ; comuna MĂRTINIŞ,135,sf. sec. XIX
+500,HR-II-m-A-12867,Conacul Ugron,sat MĂRTINIŞ; comuna MĂRTINIŞ MĂRTINIŞ,181,1790
+502,HR-II-m-B-12868.01,Casă,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 108,1892
+503,HR-II-m-B-12868.02,Bucătărie,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 108,sec. XIX
+504,HR-II-m-B-12868.03,Şură,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 108,1892
+505,HR-II-m-B-12868.04,Poartă de piatră,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 108,sec. XIX
+506,HR-II-a-B-12869,Gospodăria Blága Andrásné,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 139,sec. XIX
+507,HR-II-m-B-12869.01,Casa,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 139,sec. XIX
+508,HR-II-m-B-12869.02,Poartă de piatră,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 139,sec. XIX
+509,HR-II-a-B-12870,Gospodăria Bató Vilmos,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 140,sec. XIX
+510,HR-II-m-B-12870.01,Casă,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 140,sec. XIX
+511,HR-II-m-B-12870.02,Poartă de piatră,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 140,sec. XIX
+512,HR-II-a-B-12871,Gospodăria Dombi Vilma,sat MĂRTINIŞ; comuna MĂRTINIŞ,Str. Superioară 191,sec. XIX
+513,HR-II-m-B-12871.01,Casă,sat MĂRTINIŞ; comuna MĂRTINIŞ MĂRTINIŞ,Str. Superioară 191,sec. XIX
+515,HR-II-a-B-12872,Ansamblul bisericii reformate,sat MĂTIŞENI; comuna MUGENI,3,sec. XV - XVIII
+516,HR-II-m-B-12872.01,Biserica reformată,sat MĂTIŞENI; comuna MUGENI,3,sec. XV - XVIII
+517,HR-II-m-B-12872.02,Zid de incintă,sat MĂTIŞENI; comuna MUGENI,3,sec. XV - XVIII
+518,HR-II-m-B-12873,Biserica unitariană,sat MEDIŞORU MARE; comuna ŞIMONEŞTI,44-45,sec. XV - XIX
+519,HR-II-m-B-12874,Biserica unitariană,sat MEREŞTI; comuna MEREŞTI,Str. Principală 553,1789 - 1793
+520,HR-II-m-B-12876,Moară de apă,sat MIHĂILENI; comuna MIHĂILENI,44,înc. sec. XIX
+521,HR-II-a-A-12875,Ansamblul bisericii romano- catolice „Sf. Mihail”,sat MIHĂILENI; comuna MIHĂILENI,184A,sec. XV - XIX
+522,HR-II-m-A-12875.01,Biserica romano- catolică „Sf. Mihail”,sat MIHĂILENI; comuna MIHĂILENI,184A,sec. XV - XIX
+523,HR-II-m-A-12875.02,Zid de incintă,sat MIHĂILENI; comuna MIHĂILENI,184A,sec. XVII
+524,HR-II-m-B-12877,Conacul Bialis,sat MIHĂILENI; comuna MIHĂILENI,254A,înc. sec. XIX
+525,HR-II-m-B-12878,"Fostă cârciumă, azi casa de lemn (Balogh Anna)",sat MIHĂILENI; comuna MIHĂILENI,315,1889
+526,HR-II-a-A-12880,"Ansamblul bisericii romano- catolice ""A Tuturor Sfinţilor"" Tuturor Sfinţilor""",sat MISENTEA; comuna LELICENI LELICENI,178,sec. XIII - XIX
+528,HR-II-m-A-12880.02,Zid de incintă,sat MISENTEA; comuna LELICENI,178,"1247, sec. XV - XIX"
+529,HR-II-a-A-12881,Ansamblul bisericii reformate,sat MUGENI; comuna MUGENI,232,sec. XIII - XIX
+530,HR-II-m-A-12881.01,Biserica reformată,sat MUGENI; comuna MUGENI,232,sec. XIII - XIX
+531,HR-II-m-A-12881.02,Zid de incintă,sat MUGENI; comuna MUGENI,232,sec. XIII - XIX
+532,HR-II-a-B-12882,Ansamblul bisericii reformate,sat MUJNA; comuna DÂRJIU,54,sec. XV - înc. sec. XIX
+533,HR-II-m-B-12882.01,Biserica reformată,sat MUJNA; comuna DÂRJIU,54,sec. XV - înc. sec. XIX
+534,HR-II-m-B-12882.02,Turn-clopotniţă,sat MUJNA; comuna DÂRJIU,54,sec. XV - înc. sec. XIX
+535,HR-II-m-B-12882.03,Zid de incintă (fragmente),sat MUJNA; comuna DÂRJIU,54,sec. XV - înc. sec. XIX
+536,HR-II-a-A-12883,"Ansamblul bisericii romano- catolice ""Sf. Nicolae""",sat NICOLEŞTI; comuna FRUMOASA,96,sec. XV - XIX
+537,HR-II-m-A-12883.01,"Biserica romano - catolică Nicolae""","""Sf. sat NICOLEŞTI; comuna FRUMOASA",96,sec. XV - XIX
+538,HR-II-m-A-12883.02,Zid de incintă,sat NICOLEŞTI; comuna FRUMOASA,96,sec. XVII
+539,HR-II-m-A-12883.03,Casa parohială veche,sat NICOLEŞTI; comuna FRUMOASA OCLAND,96,1824
+541,HR-II-m-B-12884.01,Biserica unitariană,sat OCLAND; comuna OCLAND,58,sec. XIII - XX
+542,HR-II-m-B-12884.02,Zid de incintă cu turnul de poartă,sat OCLAND; comuna OCLAND,58,"1654 (turn), 1750 (zid)"
+543,HR-II-m-B-12885,"Casa de lemn (Fábián Vince), cu cuptor de ceramică smălţuită",sat OCNA DE SUS; comuna PRAID,144,înc. sec. XIX
+544,HR-II-a-A-12886,Ansamblul bisericii reformate,sat OCNA DE SUS; comuna PRAID,261-262,sec. XIV - XIX
+545,HR-II-m-A-12886.01,Biserica reformată,sat OCNA DE SUS; comuna PRAID,261-262,sec. XIV - XIX
+546,HR-II-m-A-12886.02,Zid de incintă,sat OCNA DE SUS; comuna PRAID,261-262,1780
+547,HR-II-m-B-12887,Cetatea Budvar,municipiul ODORHEIU SECUIESC,"La ieşirea sudică din oraş, pe numit „Buda Vár”, la cca. 2 km vest",dealul sec. X - XI spre
+548, HR-II-a-B-12888," Ansamblul urban ""Str. Bethlen Gábor""", municipiul ODORHEIU SECUIESC, Str. Bethlen Gábor de la nr. 1-16, sf. sec. XIX - înc. sec. XX
+549,HR-II-a-B-12889,"Ansamblul urban ""Str. Cetăţii"" - case de breslaş cu atelier prăvălie la parter",municipiul ODORHEIU şi SECUIESC,Str. Cetăţii nr. 1-6,sec. XIX
+550,HR-II-a-B-12890,"Ansamblul urban ""Str. Kossuth Lajos"" - strada comercială",municipiul ODORHEIU SECUIESC SECUIESC,Str. Kossuth Lajos Piaţa Libertăţii,sec. XVIII - XX
+552,HR-II-a-B-12892,"Ansamblul urban ""Str. Tompa László""",municipiul ODORHEIU SECUIESC,Str.Tompa László,sec. XIX
+553,HR-II-m-B-12897,"Fostul Gimnaziu catolic, azi Liceul teoretic ""Tamási Áron""",municipiul ODORHEIU SECUIESC,Str. Baróti Szabó Dávid 32,1912
+554,HR-II-a-A-12898,Ansamblul bisericii romano- catolice „Sf. Nicolae”,municipiul ODORHEIU SECUIESC,Str. Baróti Szabó Dávid 34-36,sec. XVII - XVIII
+555,HR-II-m-A-12898.01,Biserica romano - catolică,municipiul ODORHEIU SECUIESC,Str. Baróti Szabó Dávid 34-36,sec. XVII - XVIII
+556,HR-II-m-A-12898.02,Casa parohială,municipiul ODORHEIU SECUIESC,Str. Baróti Szabó Dávid 34-36,sec. XVII - XVIII
+557,HR-II-a-A-12893,"Ansamblul capelei romano- catolice ""Inima lui Iisus""",municipiul ODORHEIU SECUIESC,Str. Bazinului 2,sec. XIII - XVI
+558,HR-II-m-A-12893.01,"Capela romano-catolică ""Inima lui Iisus""",municipiul ODORHEIU SECUIESC,Str. Bazinului 2,sec. XIII - XVI
+559,HR-II-m-A-12893.02,Zid de incintă,municipiul ODORHEIU SECUIESC,Str. Bazinului 2,sec. XIII - XVI
+560,HR-II-m-B-12894,Casă (Szabó István),municipiul ODORHEIU SECUIESC,Str. Bethlen Gabor 16,1837
+561,HR-II-m-B-12895,Biserica unitariană,municipiul ODORHEIU SECUIESC,Str. Bethlen Gabor 50,1904
+562,HR-II-m-B-12896,Spitalul orăşenesc,municipiul ODORHEIU SECUIESC,Str. Bethlen Gabor 72,1886
+563,HR-II-m-B-12899,"Clădirea primei tipografii, azi unitate comercială azi unitate comercială",municipiul ODORHEIU SECUIESC SECUIESC,Str. Kossuth Lajos 11,sf. sec. XIX
+565,HR-II-m-B-12901,"Atelierul fotografic Kovács, vitrine originare",cu municipiul ODORHEIU SECUIESC,Str. Kossuth Lajos 24,"1873, înc. sec. XX"
+566,HR-II-m-B-12902,"Şcoala de aplicaţie a liceului ""Benedek Elek"", fosta grădiniţă Maria Valeria",municipiul ODORHEIU SECUIESC,Piaţa Márton Áron 1,"înc. sec. XVIII, transf. sec. XIX, 1910 - 1912"
+567,HR-II-m-B-12904,Liceul reformat „Baczkamadarasi Kis Gergely”,municipiul ODORHEIU SECUIESC,Piaţa Márton Áron 1-2,"sf. sec. XIX, 1910 - 1912"
+568,HR-II-m-B-12905,"Şcoala Normală ""Benedek Elek"", corp A",municipiul ODORHEIU SECUIESC,Piaţa Márton Áron 2,1910 - 1912
+569,HR-II-m-B-12906,"Şcoala Normală ""Benedek Elek"", corp C",municipiul ODORHEIU SECUIESC,Piaţa Márton Áron 3,1870
+570,HR-II-m-B-12903,Biserica reformată,municipiul ODORHEIU SECUIESC,Piaţa Márton Áron 11,1781
+571,HR-II-m-B-12907,Vila Nyirö,municipiul ODORHEIU SECUIESC,Str. Nyirö Jozsef 5,înc. sec. XX
+572,HR-II-m-B-12908,Casă,municipiul ODORHEIU SECUIESC,Str. Orbán Balázs 132,sec. XIX
+573,HR-II-m-B-12909,Conacul Ugron,municipiul ODORHEIU SECUIESC,Str. Orbán Balázs 154,1858
+574,HR-II-m-B-12910,"Fostul Sediu al comitatului Odorhei, azi primărie",municipiul ODORHEIU SECUIESC,Piaţa Primăriei 5,1896
+575,HR-II-m-B-12911,Casă,municipiul ODORHEIU SECUIESC,Piaţa Primăriei 12,sec. XIX
+576,HR-II-m-B-12912,"Casă de meşteşugar, cu prăvălie şi atelier prăvălie la parter (Urogdi",municipiul ODORHEIU SECUIESC SECUIESC,Str. Szent Imre 25,sec. XVIII
+578,HR-II-m-B-12914,Casă cu prăvălie şi atelier,municipiul ODORHEIU SECUIESC,Str. Szent Imre 39,sec. XIX
+579,HR-II-m-B-12915,"Casă de meşteşugar, cu prăvălie la parter",municipiul ODORHEIU SECUIESC,Str. Szent Imre 41,sec. XIX
+580,HR-II-a-B-12916,"Fosta Mănăstire franciscană, azi mănăstire a Ordinului Clariselor",municipiul ODORHEIU SECUIESC,Str. Tamási Áron 2,1713 - 1779
+581,HR-II-m-B-12916.01,"Biserica ""Sf.Apostoli Petru Pavel"" a fostei mănăstiri franciscane",şi municipiul ODORHEIU SECUIESC,Str. Tamási Áron 2,1779
+582,HR-II-m-B-12916.02,Claustru,municipiul ODORHEIU SECUIESC,Str. Tamási Áron 2,1713
+583,HR-II-m-A-12917,"Şcoală agricolă, azi Grupul şcolar ""Eotvos Jozsef""",municipiul ODORHEIU SECUIESC,Str. Tompa László 12,1892
+584,HR-II-m-A-12918,Ruinele cetăţii Székely Támadt,municipiul ODORHEIU SECUIESC,Str. Tompa László 12,1562
+585,HR-II-m-B-12919,"Staţie de electrificare, azi birouri",municipiul ODORHEIU SECUIESC,Str. Uzinei 9,1904
+586,HR-II-m-B-12920,Biserica unitariană,sat ORĂŞENI; comuna MĂRTINIŞ,144A,1783 - 1785
+587,HR-II-a-B-12921,Ansamblul bisericii reformate,sat PĂLTINIŞ; comuna LUPENI,16,1795
+588,HR-II-m-B-12921.01,Biserica reformată,sat PĂLTINIŞ; comuna LUPENI LUPENI,16,1795
+590,HR-II-m-B-12922,Poartă secuiască,sat PĂULENI-CIUC; comuna PĂULENI-CIUC,60,1875
+591,HR-II-a-B-12923,Ansamblul bisericii unitariene,sat PETRENI; comuna MĂRTINIŞ,81,sec. XIV - XVIII
+592,HR-II-m-B-12923.01,Biserica unitariană,sat PETRENI; comuna MĂRTINIŞ,81,sec. XIV - XVIII
+593,HR-II-m-B-12923.02,"Incinta fortificată (fragmente), cu turn - clopotniţă",sat PETRENI; comuna MĂRTINIŞ,81,"1526 (turn), sec. XVIII"
+594,HR-II-a-A-12926,"Ansamblul bisericii romano catolice ""Christos Rege""",- sat PLĂIEŞII DE JOS; comuna PLĂIEŞII DE,1 JOS,sec. XIV - XX
+595,HR-II-m-A-12926.01,"Biserica romano - catolică ""Christos Rege"", cu cripta",sat PLĂIEŞII DE JOS; comuna PLĂIEŞII DE,1 JOS,sec. XIV - XX
+596,HR-II-m-A-12926.02,Zid de incintă,sat PLĂIEŞII DE JOS; comuna PLĂIEŞII DE,1 JOS,sec. XVIII
+597,HR-II-m-B-12927,Casă de lemn,sat PLĂIEŞII DE JOS; comuna PLĂIEŞII DE,92 JOS,sec. XIX
+598,HR-II-m-B-12928,Poartă de lemn,sat PLĂIEŞII DE JOS; comuna PLĂIEŞII DE,327 JOS,1886
+599,HR-II-a-A-12929,Ansamblul bisericii reformate,sat PORUMBENII MARI; comuna PORUMBENI,202-203,sec. XIII - XIX
+600,HR-II-m-A-12929.01,Biserica reformată,sat PORUMBENII MARI; comuna PORUMBENI,202-203,sec. XIII - XIX
+601,HR-II-m-A-12929.02,Zid de incintă parohială greco - catolică,sat PORUMBENII MARI; comuna PORUMBENI comuna PORUMBENI,202-203,sec. XVII
+603,HR-II-a-A-12931,Ansamblul bisericii „Sf. Nicolae”,sat PORUMBENII MARI; comuna PORUMBENI,412,1787
+604,HR-II-m-A-12931.01,Biserica „Sf. Nicolae”,sat PORUMBENII MARI; comuna PORUMBENI,412,1787
+605,HR-II-m-A-12931.02,Zid de incintă,sat PORUMBENII MARI; comuna PORUMBENI,412,1787
+606,HR-II-m-B-12932,Clopotniţă de lemn a bisericii romano-catolice,sat POTIOND; comuna CIUCSÂNGEORGIU,"La capătul nordic al satului, pe dâmbul Haranglab",sec. XIX
+607,HR-II-a-B-12934,Ansamblul bisericii reformate,sat PRAID; comuna,PRAID 1036,sec. XVIII - XX
+608,HR-II-m-B-12934.01,Biserica reformată,sat PRAID; comuna,PRAID 1036,1790
+609,HR-II-m-B-12934.02,Poartă de lemn,sat PRAID; comuna,PRAID 1036,1944
+610,HR-II-m-B-12935,"Fosta cancelarie a minei de sare, azi dispensar medical",sat PRAID; comuna,PRAID Str. Republicii 382,înc. sec. XIX
+611,HR-II-m-B-12936,Capela romano - catolică „Sf. Filip şi Iacob”,sat RACU; comuna RACU,"Pe dealul Bogáth, la cca. 2 km sat","V de sec. XVI - XVIII, 1725"
+612,HR-II-m-B-12937,"Conacul Cserei, cu poarta de piatră",sat RACU; comuna RACU,141,"1667, transformat 1935"
+613, HR-II-a-A-12938," Ansamblul bisericii romano catolice ""Sf. Maria Mică""", - sat RACU; comuna RACU, 168A, sec. XIV - XIX
+614,HR-II-m-A-12938.01,"Biserica catolică ""Sf. Maria Mică""",sat RACU; comuna RACU,168A,sec. XIV - XVIII
+616,HR-II-m-B-12939,Moară de apă şi piuă,sat REMETEA; comuna REMETEA,"Pe pârâul ""Eszenyõ"", în cartierul Ciutacu, la cca. 7 km de sat",1875
+617,HR-II-m-B-12940,Joagăr,sat REMETEA; comuna REMETEA,"605, pe pârâul ""Eszenyõ""",sec. XIX
+618,HR-II-m-B-12941,Casa de lemn Nemes Ferenc,sat RUGĂNEŞTI; comuna ȘIMONEŞTI,129,sec. XIX
+619,HR-II-a-A-12942,Ansamblul bisericii reformate,sat RUGĂNEŞTI; comuna ȘIMONEŞTI,175,sec. XIII - XIX
+620,HR-II-m-A-12942.01,Biserica reformată,sat RUGĂNEŞTI; comuna ȘIMONEŞTI,175,sec. XIII - XV
+621,HR-II-m-A-12942.02,Zid de incintă,sat RUGĂNEŞTI; comuna ȘIMONEŞTI,175,sec. XIX
+622,HR-II-m-B-12943,"Casă, fostul Muzeu Sătesc",sat RUGĂNEŞTI; comuna ȘIMONEŞTI,"178A, 179",sec. XVIII
+623,HR-II-m-B-12945,Poartă de lemn,sat SATU MARE; comuna SATU MARE,129,1903
+624,HR-II-m-B-12946,Poartă de lemn,sat SATU MARE; comuna SATU MARE,158A,1896
+625,HR-II-m-B-12947,Poartă de lemn,sat SATU MARE; comuna SATU MARE,193,1875
+626,HR-II-m-B-12948,Poartă de lemn,sat SATU MARE; comuna SATU MARE,210,1914
+627,HR-II-m-B-12949,Poartă de lemn,sat SATU MARE; comuna SATU MARE SATU MARE,398,1896
+629,HR-II-m-B-12951,Poartă de lemn,sat SATU MARE; comuna SATU MARE,400,1879
+630,HR-II-m-B-12952,Poartă de lemn,sat SATU MARE; comuna SATU MARE,401,1906
+631,HR-II-m-B-12953,Poartă de lemn,sat SATU MARE; comuna SATU MARE,402,1903
+632,HR-II-m-B-12954,Poartă de lemn,sat SATU MARE; comuna SATU MARE,423,1896
+633,HR-II-a-B-12944,Porţi secuieşti,sat SATU MARE; comuna SATU MARE,"Str. Principală, de la nr. 187 – 245 şi de la nr. 398 – la 444",la sec. XIX
+634,HR-II-a-B-12955,Ansamblul bisericii reformate,sat SATU MIC; comuna LUPENI,31,sec. XVII - XVIII
+635,HR-II-m-B-12955.01,Biserica reformată,sat SATU MIC; comuna LUPENI,31,1620
+636,HR-II-m-B-12955.02,Clopotniţa de lemn a bisericii reformate,sat SATU MIC; comuna LUPENI,31,sec. XVIII
+637,HR-II-m-B-12956,Biserica reformată,sat SATU NOU; comuna SICULENI,,1801
+638,HR-II-a-B-12957,Ansamblul bisericii unitariene,sat SATU NOU; comuna OCLAND,49,sf. sec. XVIII - înc. sec. XIX
+639,HR-II-m-B-12957.01,Biserica unitariană,sat SATU NOU; comuna OCLAND,49,1798 - 1801
+640,HR-II-m-B-12957.02,Zid de incintă „Sf. Arhangheli”,sat SATU NOU; comuna OCLAND,49,1827
+642,HR-II-a-A-12959,Ansamblul capelei romano catolice „Ziua Domnului”,- sat SÂNCRĂIENI; comuna SÂNCRĂIENI,515,sec. XV - XVIII
+643,HR-II-m-A-12959.01,Capela romano-catolică „Ziua Domnului”,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,515,sec. XV - XVIII
+644,HR-II-m-A-12959.02,Zid de incintă,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,515,sec. XV - XVIII
+645,HR-II-a-A-12960,Ansamblul bisericii romano- catolice „Sf. Ştefan”,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,572,sec. XIV - XIX
+646,HR-II-m-A-12960.01,Biserica romano - catolică Ştefan”,„Sf. sat SÂNCRĂIENI; comuna SÂNCRĂIENI,572,sec. XIV - XVIII
+647,HR-II-m-A-12960.02,Zid de incintă,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,572,sec. XVII
+648,HR-II-m-A-12960.03,Casă parohială,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,572,mijl. sec. XIX
+649,HR-II-m-A-12960.04,Cruce de piatră,sat SÂNCRĂIENI; comuna SÂNCRĂIENI,572,1746
+650,HR-II-m-B-12961,Poartă de lemn,sat SÂNDOMINIC; comuna SÂNDOMINIC,Str. Alszeg 1700,1868
+651,HR-II-m-B-12962,Biserica de lemn „Sf. Arhangheli”,sat SÂNDOMINIC; comuna SÂNDOMINIC,Str. Temetõ 1267/A,"1787, înc. sec. XIX"
+652,HR-II-a-A-12963,Ansamblul bisericii romano catolice „Sf. Dominic”,- sat SÂNDOMINIC; comuna SÂNDOMINIC,Str. Templom 1647,sec. XIII - XIX
+653,HR-II-m-A-12963.01,Biserica romano - catolică Dominic”,„Sf. sat SÂNDOMINIC; comuna SÂNDOMINIC SÂNDOMINIC,Str. Templom 1647,sec. XIII - XIX
+655,HR-II-a-B-12964,Ansamblul bisericii romano catolice „Sf. Martin”,- sat SÂNMARTIN; comuna SÂNMARTIN,33,1750 - 1825
+656,HR-II-m-B-12964.01,Biserica romano - catolică Martin”,„Sf. sat SÂNMARTIN; comuna SÂNMARTIN,33,"1749, 1802 - 1817"
+657,HR-II-m-B-12964.02,Zid de incintă,sat SÂNMARTIN; comuna SÂNMARTIN,33,sec. XIX
+658,HR-II-m-B-12965,Capela romano - catolică,sat SÂNMARTIN; comuna SÂNMARTIN,368-369,"1564, modif. 1743"
+659,HR-II-m-B-12967,Casă de lemn,sat SÂNSIMION; comuna SÂNSIMION,37,sec. XIX
+660,HR-II-m-A-12968,"Conacul Endes Miklos, azi grădiniţă",sat SÂNSIMION; comuna SÂNSIMION,229,înc. sec. XIX
+661,HR-II-m-A-12969,Capela romano-catolică „Sf. Margareta”,sat SÂNTIMBRU; comuna SÂNTIMBRU,"La cca. 1,5 km sud de zona numită ""Alszeg""",sec. XV - XVIII
+662,HR-II-m-B-12970,Casa Henter,sat SÂNTIMBRU; comuna SÂNTIMBRU,zona Pálszeg,sec. XVIII
+663,HR-II-m-B-12971,Moară de apă şi joagăr,sat SÂNTIMBRU; comuna SÂNTIMBRU,276,1878
+664,HR-II-a-A-12972,"Ansamblul bisericii romano- catolice ""Sf. Rege Emeric""",sat SÂNTIMBRU; comuna SÂNTIMBRU,520,sec. XV - XVIII
+665,HR-II-m-A-12972.01,"Biserica romano - catolică Rege Emeric""","""Sf. sat SÂNTIMBRU; comuna SÂNTIMBRU",520,"sec. XVI, 1777"
+666,HR-II-m-A-12972.02,Zid de incintă,sat SÂNTIMBRU; comuna SÂNTIMBRU SÂNTIMBRU,520,sec. XV
+668,HR-II-m-A-12973.01,Conacul Henter,sat SÂNTIMBRU; comuna SÂNTIMBRU,545,sec. XVIII
+669,HR-II-m-A-12973.02,Poartă de piatră,sat SÂNTIMBRU; comuna SÂNTIMBRU,545,sec. XVIII
+670,HR-II-m-B-12974,"Capela romano - catolică, din lemn",localitate SECU; oraş TOPLIŢA,f.n.,sec. XX
+671,HR-II-m-B-12975,Biserica unitariană,sat SECUIENI; comuna SECUIENI,31,1812 - 1816
+672,HR-II-m-B-12976,Casă de lemn (Vasile Puflea),sat SECUIENI; comuna SECUIENI,234,sec. XIX
+673,HR-II-m-B-12879,"Poartă de lemn, sculptată",sat SICULENI; comuna SICULENI,45,sec. XIX
+674,HR-II-m-B-12977,Şcoala generală „Zöld Péter”,sat SICULENI; comuna SICULENI,225,1885
+675,HR-II-m-B-12978,Moară de apă,sat SUB CETATE; comuna ZETEA,178,1854
+676,HR-II-m-B-20314,Grajdul gospodăriei Vasile Cotfas,sat SUBCETATE; comuna SUBCETATE,405,înc. sec. XX
+677,HR-II-m-B-12980,Moară de apă,sat SUSENI; comuna,SUSENI 558,1875
+678,HR-II-m-B-12981,Clopotniţa de lemn a bisericii reformate,sat ŞICLOD; comuna,ATID 242,1784
+679,HR-II-m-B-12982,"Biserica unitariană, cu turnul clopotniţă",- sat ŞIMONEŞTI; comuna ŞIMONEŞTI SĂCEL,246,"1808 - 1811, 1818 (turn)"
+681,HR-II-m-B-12984,Clopotniţa de lemn a bisericii unitariene,sat TĂRCEŞTI; comuna ŞIMONEŞTI,65,1734
+682,HR-II-m-B-12985,Biserica reformată,sat TĂURENI; comuna FELICIENI,103,"1680, ref. 1814 şi 1851"
+683,HR-II-m-B-12986,Casa Sándor,sat TOMEŞTI; comuna TOMEŞTI,737,mijl. sec. XVII
+684,HR-II-m-B-12987,"Ruinele turnului bisericii medievale ""Csonkatorony""",sat TOMEŞTI; comuna TOMEŞTI,"Str. Ambrus, vis-à-vis de nr. 551",sec. XV
+685,HR-II-m-B-12988,Biserica ortodoxă „Sf. Arhangheli”,municipiul TOPLIŢA,Str. Ştefan cel Mare 2,1867
+686,HR-II-m-A-12989,Biserica de lemn a mănăstirii „Sf. Ilie” din Stânceni,municipiul TOPLIŢA,Str. Ştefan cel Mare 68-70,"1847, în 1910 strămutată din Stânceni în Topliţa"
+687,HR-II-m-A-12990,Biserica de lemn a fostei mănăstiri „Pârâul Doamnei” Moglăneşti,municipiul TOPLIŢA -,Str. Verii 19,"1710, modif. sec. XIX"
+688, HR-II-m-B-12993, Capela de lemn „Sf. Petru Pavel”, şi sat TULGHEŞ; comuna TULGHEŞ, În spatele parcelei de pe str. Mare nr. 97, Rezu 1922
+689,HR-II-m-B-12995,Cuptor de var (Apostol Sabin),sat TULGHEŞ; comuna TULGHEŞ,"Str. Valea Frumoasă, vis-à-vis numărul 835 A",de sec. XIX
+690,HR-II-m-B-12991,Moara de apă şi joagărul Olar Gheorghe,sat TULGHEŞ; comuna TULGHEŞ,Str. Putna 50,1875
+691,HR-II-m-A-12992,Biserica de lemn „Sf. Arhangheli”,sat TULGHEŞ; comuna TULGHEŞ TULGHEŞ,Str. Putna 239,1828
+693,HR-II-m-B-20315.01,Casă,sat TULGHEŞ; comuna TULGHEŞ,Rezu Mare 100,înc. sec. XX
+694,HR-II-m-B-20315.02,Şură,sat TULGHEŞ; comuna TULGHEŞ,Rezu Mare 100,înc. sec. XX
+695,HR-II-m-B-20315.03,Şopron,sat TULGHEŞ; comuna TULGHEŞ,Rezu Mare 100,înc. sec. XX
+696,HR-II-m-B-12994,Casă de lemn (Aurel Cruşitu),sat TULGHEŞ; comuna TULGHEŞ,Str. Valea Frumoasă 760,sf. sec. XIX
+697,HR-II-m-B-12996,Biserica unitariană,sat TURDENI; comuna ŞIMONEŞTI,58,1819 - 1823
+698,HR-II-m-B-12998,"Biserica de lemn „Sf. Gheorghe"" şi ""Sf. Nicolae”",sat UILAC; comuna SĂCEL,28,"1784, în 1905 strămutată din Boiu, jud. Mureş în Uilac"
+699,HR-II-m-B-12999,Biserica reformată,sat ULIEŞ; comuna ULIEŞ,109bis,1798
+700,HR-II-m-B-13000,Capela de lemn romano- catolică „Schimbarea la Faţă”,sat VALEA RECE; comuna LUNCA DE JOS,"Lângă casa 1181, pe pârâul Jávárdi, în cimitir",sf. sec. XIX
+701,HR-II-m-B-13001,Capela de lemn romano- catolică „Sf. Anton”,sat VALEA RECE; comuna LUNCA DE JOS,"Pe pârâul Jávárdi, lângă casa",1330 înc. sec. XX
+702,HR-II-a-B-13002,Gospodăria Csillag Péter,sat VALEA RECE; comuna LUNCA DE JOS,1124,sec. XIX
+703,HR-II-m-B-13002.01,Casă de lemn,sat VALEA RECE; comuna LUNCA DE JOS,1124,sec. XIX
+704,HR-II-m-B-13002.02,Moară de apă,sat VALEA RECE; comuna LUNCA DE JOS LUNCA DE JOS,1124,sec. XIX
+706,HR-II-a-B-13003,Gospodăria Focze Istvan,sat VALEA RECE; comuna LUNCA DE JOS,822,înc. sec. XX
+707,HR-II-m-B-13003.01,Casă,sat VALEA RECE; comuna LUNCA DE JOS,822,înc. sec. XX
+708,HR-II-m-B-13003.02,Bucătărie de vară,sat VALEA RECE; comuna LUNCA DE JOS,822,înc. sec. XX
+709,HR-II-m-B-13003.03,Şură,sat VALEA RECE; comuna LUNCA DE JOS,822,înc. sec. XX
+710,HR-II-m-B-13004,Piua pentru cergi (Kicsi Káruly) Tankó Péter,sat VALEA RECE; comuna LUNCA DE JOS,912,înc. sec. XX
+711,HR-II-a-A-13005,Ansamblul bisericii romano- catolice „Sf. Ioan”,sat VALEA STRÂMBĂ; comuna SUSENI,202,sec. XV - XVIII
+712,HR-II-m-A-13005.01,Biserica romano - catolică Ioan”,„Sf. sat VALEA STRÂMBĂ; comuna SUSENI,202,sec. XV - XVIII
+713,HR-II-m-A-13005.02,Zid de incintă,sat VALEA STRÂMBĂ; comuna SUSENI,202,sec. XV - XVIII
+714,HR-II-m-B-13006,Biserica reformată,sat VĂLENI; comuna FELICIENI,50,1804
+715,HR-II-m-B-13007,Biserica „Adormirea Maicii Domnului”,sat VIDACUT; comuna SĂCEL,139,1868
+716,HR-II-m-B-13008,Cuptoarele minei vechi,oraş VLĂHIŢA,"Zona ""Banyatelep""",înc. sec. XX
+717,HR-II-m-B-13009,Forja veche romano - catolice,oraş VLĂHIŢA VOŞLĂBENI,Str. Spitalului 9,cca. 1860
+719,HR-II-m-B-13010,Biserica „Sf. Arhangheli”,sat VOŞLĂBENI; comuna VOŞLĂBENI,100,1864
+720,HR-II-m-B-13011,Joagărul familiei Bencze,sat VOŞLĂBENI; comuna VOŞLĂBENI,205A,1860
+721,HR-II-m-B-13013,Casa şi poarta de lemn Csiki Zsigmond-ne,sat ZETEA; comuna,ZETEA 296,1850
+722,HR-III-m-B-13014,Statuia ostaşului rănit,sat ARMĂŞENI; comuna CIUCSÂNGEORGIU,460,cca. 1940
+723,HR-III-m-B-13015,Statuia „Sf. Ana”,sat CÂRŢA; comuna,"CÂRŢA Vis-à-vis de nr. 248, pe dâmbul care se află biserica romano- catolică",pe sec. XVIII
+724,HR-III-m-B-13016,Monument comemorativ al luptătorilor de la 1848-1849,sat COZMENI; comuna COZMENI,"Pasul ""Nyerges"" - pe drumul naţional DN 11B, între Cozmeni Casinu Nou",1896 şi
+725,HR-III-m-B-13017,Monument comemorativ al eroilor căzuţi în primul război mondial,sat RACU; comuna RACU,168A,1940
+726,HR-IV-m-B-13018,Casa memorială Nagy Imre,municipiul MIERCUREA CIUC,Str. Jigodin 2,sec. XIX
+727,HR-IV-m-A-12745.04,Cruce de piatră,municipiul MIERCUREA CIUC,"Str. Szék 148, lângă biserică",1767
+728,HR-IV-m-A-12775.03,Cimitirul bisericii romano- catolice „Sf. Simion şi Iuda”,sat CETĂŢUIA; comuna SÂNSIMION,3,sec. XVIII - XIX
+729,HR-IV-m-A-12775.04,Cruce de piatră,sat CETĂŢUIA; comuna SÂNSIMION COZMENI,3,1707
+731,HR-IV-m-A-12814.03,Cruce de piatră,sat DELNIŢA; comuna PĂULENI-CIUC,206A,1780
+732,HR-IV-m-B-13021,Monument comemorativ în amintirea luptelor cu tătarii din 1657,sat LĂZAREA; comuna LĂZAREA,"„Dâmbul Tătarilor”, lângă drumul naţional DN 12, la cca. 2 km capătul NV al satului",1908 de
+733,HR-IV-m-A-12853.03,Monumentul funerar al lui Ioannes Kájoni,sat LĂZAREA; comuna LĂZAREA,549,sec. XVII
+734,HR-IV-m-A-12857.03,Cruce de piatră,sat LELICENI; comuna LELICENI,37,1746
+735,HR-IV-m-B-13022,Casa memorială a scriitorului Tamási Áron,sat LUPENI; comuna,LUPENI 237,sec. XIX
+736,HR-IV-m-B-13023,Monumentul lui Tamási Aron,sat LUPENI; comuna,LUPENI 597,
+737,HR-IV-m-B-13024,Monumentul funerar al istoricului Orbán Balázs,municipiul ODORHEIU SECUIESC,Str. Orbán Balázs,1950 - 1975
+738,HR-IV-m-B-13025,Casa memorială Tompa László,municipiul ODORHEIU SECUIESC,Str. Tompa László 14,cca. 1900
+739,HR-IV-m-B-13026,Crucea de piatră în amintirea epidemiei de ciumă de la 1717,sat SÂNTIMBRU; comuna SÂNTIMBRU,La intrarea în cimitir,1717
+740,HR-IV-m-B-13027,Coloana Siculicidium,sat SICULENI; comuna SICULENI,"43, Pe drumul naţional",1899
+741,HR-IV-m-B-13028,Crucea de piatră în amintirea epidemiei de ciumă,sat TUŞNAD; comuna TUŞNAD,"La 100 m SV de sat, pe drumul naţional",1743

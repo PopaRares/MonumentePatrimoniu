@@ -1,0 +1,637 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,CT-I-m-A-02553.01,Bazilica mare,municipiul CONSTANŢA,"Între Bd. Ferdinand şi str. Traian, sub blocul C2","sec. V - VI p. Chr., Epoca romano-bizantină"
+3,CT-I-m-A-02553.02,Bazilica mică,municipiul CONSTANŢA,"Între Bd. Ferdinand şi str. Traian, sub blocul C3","sec. V - VI p. Chr., Epoca romano-bizantină"
+4,CT-I-m-A-02553.03,Bazilica creştină,municipiul CONSTANŢA,În vecinătatea Porţii nr.1 Port,"sec. V - VI p. Chr., Epoca romano-bizantină"
+5,CT-I-m-A-02553.04,Bazilica creştină,municipiul CONSTANŢA,"În zona hotelului IBIS, în perimetrul str. Mircea cel Bătrân, Ecaterina Varga, Negru Vodă, Dragoş Vodă","sec. V - VI p. Chr., Epoca romano-bizantină"
+6,CT-I-m-A-02553.05,Edificiul roman cu mozaic,municipiul CONSTANŢA,"Între Piaţa Ovidiu şi Bd. Termele Romane (fost Marinarilor), faleza de SV a Peninsulei","sec. IV - VI p. Chr., Epoca romano-bizantină"
+7,CT-I-m-A-02553.06,Amfiteatru,municipiul CONSTANŢA,"În zona hotelului IBIS, în perimetrul str. Mircea cel Bătrân, Ecaterina Varga, Negru Vodă, Dragoş Vodă","sec. II - III p. Chr., Epoca romană"
+8,CT-I-m-A-02553.07,Locuirea citadină Tomis,municipiul CONSTANŢA,"Lângă Catedrala ortodoxă ""Sf. Petru şi Pavel"", între str. Arhiepiscopiei, bd. Elisabeta şi str. Revoluţiei din 22","sec. IV a. Chr. - sec. V p. Chr., Epoca greacă, romană şi romano-"
+9,CT-I-m-A-02553.08,Zidul de incintă al cetăţii Tomis,municipiul CONSTANŢA,"Intersecţia str. Mircea cel Bătrân cu Dragoş-Vodă, intersecţia bd. Ferdinand cu str. Răscoala 1907, de-a lungul Bd. Ferdinand până la Teatrul Fantasio, cu prelungirea până la intersecţia Bd. Ferdinand cu str. St. Mihăileanu, şi în continuare până la Poarta 3 Port","sec. III - VI p. Chr., Epoca romană"
+10,CT-I-m-A-02553.09,Locuire,municipiul CONSTANŢA,"Lângă Catedrala ortodoxă ""Sf. Petru şi Pavel"", între str. Arhiepiscopiei, bd. Elisabeta şi str. Revoluţiei din 22 decembrie 1989","Neolitic, Cultura Gumelniţa, faza A II"
+11,CT-I-m-A-02553.10,Apeducte - galerii,municipiul CONSTANŢA,"În subsolul oraşului antic Tomis şi la baza falezelor, cu intrări la Plaja ""Modern"", Portul Tomis, Şcoala 2, Tribunal, Edificiul roman cu mozaic şi Bd. Termele Romane","sec. III p. Chr., Epoca romană"
+12,CT-I-m-A-02553.11,Turn de apărare,municipiul CONSTANŢA,"Bd. Termele Romane (fost Marinarilor), în dreptul Porţii nr. 2 a portului comercial","sec. IV - VI p. Chr., Epoca romano-bizantină"
+13,CT-I-m-A-02553.12,Therme,municipiul CONSTANŢA,"Bd. Termele Romane (fost Marinarilor), la 150 m SE de Edificiul cu mozaic","sec. III - IV p. Chr., Epoca romană"
+14,CT-I-s-A-02554,Aşezare,municipiul CONSTANŢA,La intersecţia Bd.Tomis cu Bd. Aurel Vlaicu şi malul de S al lacului Siutghiol,"sec. IV - VI p. Chr., Epoca romano-bizantină"
+15, CT-I-s-A-02555, Necropola oraşului antic Tomis, municipiul CONSTANŢA," Perimetrul delimitat de str. Iederei, Bd. Aurel Vlaicu de la intersecţia cu bd. 1 Mai, str. Cumpenei, str. Nicolae Filimon, bd. Aurel Vlaicu până la Pescărie - la S de Mamaia, malul mării",
+16,CT-I-m-A-02555.01,Necropolă romană,municipiul CONSTANŢA,"Perimetrul delimitat de str. Iederei, Bd. Aurel Vlaicu de la intersecţia cu bd. 1 Mai, str. Cumpenei, str. Nicolae Filimon, bd. Aurel Vlaicu până la Pescărie - la S de Mamaia, malul mării şi Portul Comercial","sec. I - VI p. Chr., Epoca romană"
+17,CT-I-m-A-02555.02,Necropolă,municipiul CONSTANŢA,"Perimetrul delimitat de str. Iederei, Bd. Aurel Vlaicu de la intersecţia cu bd. 1 Mai, str. Cumpenei, str. Nicolae Filimon, bd. Aurel Vlaicu până la Pescărie - la S de Mamaia, malul mării şi Portul Comercial","sec. IV a. Chr. - sec. I p. Chr., Epoca elenistică"
+18,CT-I-m-A-02555.03,"Cavoul cu Orant ""de la Egreta”",municipiul CONSTANŢA,"Bd. Ferdinand, intersecţia cu str. Traian, în vecinătatea bl. B1, la cca. 20 m E","sec. IV p. Chr., Epoca romană"
+19,CT-I-m-A-02555.04,Mormântul hypogeu paleocreştin,municipiul CONSTANŢA,"Str. Mircea cel Bătrân, la intersecţia cu str. Ştefan cel Mare, la 40 m de faleza de E a peninsulei, lângă Restaurantul Zorile","sec. IV p. Chr., Epoca romană"
+20,CT-I-m-A-02555.05,Criptă paleocreştină,municipiul CONSTANŢA,"Str. Traian 19, în curtea Colegiului Naţional Mihai Eminescu","sec. V - VI p. Chr., Epoca romano-bizantină"
+21,CT-I-s-A-02556,Aşezare,municipiul CONSTANŢA,"La S de intrarea în portul Constanţa SUD, zona Fabrica de Oxigen","sec. I - III p. Chr., Epoca romană"
+22,CT-I-m-A-02557.08,Valul mic de pământ,municipiul CONSTANŢA CONSTANŢA,"Intră în mun. Constanţa în partea de V, prin zona industrială Palas. Traseul se îndreaptă spre mare, în zona Porţii 4 Portului Comercial în zona bd. I.C.Brătianu - zona C.F.,","sec. VI p. Chr., Epoca romano-bizantină a timpurie"
+24,CT-I-m-A-02559.09,Valul de piatră,municipiul CONSTANŢA,"Intră în mun. Constanţa în partea de V, prin Zona industrială Palas. Traseul se îndreaptă spre mare, între Porţile 3 şi ale Portului Comercial","sec. X, Epoca medieval timpurie 4"
+25,CT-I-s-A-02557,Valul mic de pământ,,"Pe o lungime de 61 km, urmând un aliniament care pleacă, din V, de pe malul abrupt al Dunării, la cca.1km NV de satul Cochirleni, de la Cetatea Pătulului, străbate teritoriile administrative Rasova, Peștera, Medgidia, Ciocârlia, Murfatlar, Valu lui Traian, intră în mun. Constanţa în partea de V, prin zona industrială Palas și se îndreaptă spre mare, în zona Porţii 4 a Portului comercial.","sec. VI p. Chr., Epoca romană"
+26,CT-I-s-A-02558,Valul mare de pământ,,"Pe o lungime de 41 km, pornind, în V, de la ""Cetatea Pătulului"" situată pe malul drept al Dunării, la N de satul Cochirleni, străbate teritoriile administrative Rasova, Medgidia, Poarta Albă, Murfatlar, Valu lui Traian, intră în mun. Constanța în V, în, zona bd. I.C.Brătianu - zona C.F. cartier Palas și se îndreaptă spre mare, între Porţile 3 şi 4 ale Portului comercial. aliniament care pleacă, în partea de V,","sec. IX, Epoca medieval timpurie timpurie"
+28,CT-I-s-A-02561,Sit arheologic subacvatic,,Platforma continentală a litoralului românesc al Mării Negre (jud. Constanţa),
+29,CT-I-m-A-02561.01,Vestigii arheologice subacvatice,,Platforma continentală a litoralului românesc al Mării Negre (jud. Constanţa),Epoca medievală
+30,CT-I-m-A-02561.02,Vestigii arheologice subacvatice,,Platforma continentală a litoralului românesc al Mării Negre (jud. Constanţa),Epoca romano-bizantină
+31,CT-I-m-A-02561.03,Vestigii arheologice subacvatice,,Platforma continentală a litoralului românesc al Mării Negre (jud. Constanţa),Epoca romană
+32,CT-I-m-A-02561.04,Vestigii arheologice subacvatice,,Platforma continentală a litoralului românesc al Mării Negre (jud. Constanţa),Epoca elenistică
+33,CT-I-m-A-02561.05,Vestigii arheologice subacvatice, LIMANU,Platforma continentală a litoralului românesc al Mării Negre (jud. Constanţa),"Epoca greacă Chr., Epoca romană"
+35,CT-I-s-A-02563,Tumuli,sat 2 MAI; comuna LIMANU,În perimetrul întregii comune,"sec. IV - III a. Chr., Latène"
+36,CT-I-s-B-02564,Aşezare,sat 23 AUGUST; comuna 23 AUGUST,Pe malul de N al lacului Tatlageac şi malul mării,"sec. II - IV p. Chr., Epoca romană"
+37,CT-I-s-B-02565,"Situl arheologic de la 23 August, punct ""Tatlageac""",sat 23 AUGUST; comuna 23 AUGUST,"La capătul V al lacului Tatlageac, pe ambii versanţi ai văii",
+38,CT-I-m-B-02565.01,Aşezare,sat 23 AUGUST; comuna 23 AUGUST,"La capătul V al lacului Tatlageac, pe ambii versanţi ai văii","sec. VIII - X, Epoca medieval timpurie, Cultura Dridu"
+39,CT-I-m-B-02565.02,Aşezare,sat 23 AUGUST; comuna 23 AUGUST,"La capătul V al lacului Tatlageac, pe ambii versanţi ai văii",Epoca romană
+40,CT-I-s-B-02566,Aşezare,sat 23 AUGUST; comuna 23 AUGUST,Pe o mică peninsulă pe latura de SV a lacului Tatlageac,"sec. III a. Chr. - sec. VI p. Chr., Epoca greco-romană"
+41,CT-I-s-A-02567,Situl arheologic de la Adamclisi,sat ADAMCLISI; comuna ADAMCLISI,,sec. II - VII
+42,CT-I-m-A-02567.01,Cetatea Tropaeum Traiani,sat ADAMCLISI; comuna ADAMCLISI,"La 400 m NV de sat, pe Valea Urluia, la N de DN3 Constanța-Ostrov","sec. II - VII, Epoca romană şi romano-bizantină"
+43,CT-I-m-A-02567.02,Bazilică,sat ADAMCLISI; comuna ADAMCLISI,Pe dealul de la N de cetate,"sec. V - VI p. Chr., Epoca romano-bizantină"
+44,CT-I-m-A-02567.03,Necropolă,sat ADAMCLISI; comuna ADAMCLISI,Pe dealul de la N de cetate,"sec. V - VI p. Chr., Epoca romano-bizantină"
+45,CT-I-m-B-02567.04,Ansamblu de apeducte Tropaeum Traiani,sat ADAMCLISI; comuna ADAMCLISI comuna ADAMCLISI,"Pe coasta de S a dealului ce delimitează satul, spre N, începând de la cişmeaua satului porneşte din DN3 la E de sat","sec. II - III, Epoca romană romană"
+47,CT-I-m-A-02567.06,Altarul roman de la Adamclisi,sat ADAMCLISI; comuna ADAMCLISI,La 200 m E de Monumentul triumfal,"sec. II p. Chr., Epoca romană"
+48,CT-I-m-A-02567.07,Tumul roman,sat ADAMCLISI; comuna ADAMCLISI,La 100 m N de Monumentul triumfal,"sec. II p. Chr., Epoca romană"
+49,CT-I-m-A-02567.08,Termele cetăţii Tropaeum Traiani,sat ADAMCLISI; comuna ADAMCLISI,Între cetate şi DN 3 Constanţa - Ostrov,"sec. I p. Chr., Epoca romană"
+50,CT-I-m-A-02567.09,Locuinţe extramurane,sat ADAMCLISI; comuna ADAMCLISI,Între cetate şi DN 3 Constanţa - Ostrov,"sec. I p. Chr., Epoca romană"
+51,CT-I-s-B-02568,Necropolă,sat ADAMCLISI; comuna ADAMCLISI,La intersecţia DN 3 cu aleea spre Monumentul Triumfal,"sec. V - IV a. Chr., Latène, Cultura dacică"
+52,CT-I-s-B-02569,Aşezare,sat ADAMCLISI; comuna ADAMCLISI,"Pe versantul cuprins între DN 3 şi latura de SV a cetăţii, în marginea de V a satului","sec. VIII - X, Epoca medieval timpurie"
+53,CT-I-m-B-02570,Apeductul de la Şipote,sat ADAMCLISI; comuna ADAMCLISI,La marginea de SV şi S a satului Adamclisi,"sec. IV p. Chr., Epoca romană"
+54,CT-I-s-B-02571,Aşezare,sat ADAMCLISI; comuna ADAMCLISI,Pe dealul de la E de cetate,"sec. VIII - X, Epoca medieval timpurie"
+55,CT-I-s-A-02572,Ansamblu tumuli,sat ADAMCLISI; comuna ADAMCLISI,În perimetrul întregii comune,"sec. IV a. Chr. - sec. III p. Chr., Latène"
+56,CT-I-s-B-02573,Situl arheologic de la Agigea,sat AGIGEA; comuna AGIGEA,La cca. 500 m V de moara de măcinat scoici,
+57,CT-I-m-B-02573.01,Aşezare,sat AGIGEA; comuna AGIGEA,La cca. 500 m V de moara de măcinat scoici,"sec. I a. Chr., Epoca romană"
+58,CT-I-m-B-02573.02,Aşezare,sat AGIGEA; comuna AGIGEA AGIGEA,"La cca. 500 m V de moara de măcinat scoici Neagră, la cca. 500 m SE de Lazu, 200","sec. III - I a. Chr., Epoca elenistică m"
+60,CT-I-s-B-02575,Situl arheologic de la Agigea,sat AGIGEA; comuna AGIGEA,Pe valea actuală a localităţii,
+61,CT-I-m-B-02575.01,Aşezare,sat AGIGEA; comuna AGIGEA,Pe valea actuală a localităţii,Epoca medieval timpurie
+62,CT-I-m-B-02575.02,Aşezare,sat AGIGEA; comuna AGIGEA,Pe valea actuală a localităţii,Epoca romană
+63,CT-I-m-B-02575.03,Aşezare,sat AGIGEA; comuna AGIGEA,Pe valea actuală a localităţii,Latène
+64,CT-I-s-B-02576,Aşezare,sat AGIGEA; comuna AGIGEA,"În N canalului, în zona staţiei de ascultare radio","sec. IX - XI, Epoca medieval timpurie"
+65,CT-I-s-A-02577,"Aşezarea fortificată de la Albeşti, punct ""La Cetate”",sat ALBEŞTI; comuna ALBEŞTI,"""La Cetate”, la 2 km SV de sat","sec. IV - II a. Chr., Epoca elenistică, Cultura Albeşti I"
+66,CT-I-s-B-02578,"Aşezarea fortificată de la Albeşti, punct ""Căscaia”",sat ALBEŞTI; comuna ALBEŞTI,"""Căscaia”, în rezervaţia naturală Hagieni, la 2.5 km SE de sat","sec. IV - II a. Chr., Epoca elenistică"
+67,CT-I-s-A-02579,"Fortificaţia de la ""Dealul Albeşti”",sat ALBEŞTI; comuna ALBEŞTI,"""Dealul Albeşti”, la cca. 2 km V de sat","sec. IV - I a. Chr., Epoca elenistică, Cultura Albeşti II"
+68,CT-I-s-B-02580,Situl arheologic de la Albeşti,sat ALBEŞTI; comuna ALBEŞTI,Pe platoul situat la 500 m S de sat,sec. III a.Chr. - IV p.Chr.
+69,CT-I-m-B-02580.01,Aşezare,sat ALBEŞTI; comuna ALBEŞTI ALBEŞTI,Pe platoul situat la 500 m S de sat,"sec. II - IV p. Chr., Epoca romană Epoca greacă şi romană"
+71,CT-I-s-A-02581,Tumuli,sat ALBEŞTI; comuna ALBEŞTI,În perimetrul întregii comune,"sec. IV - II a. Chr., Latène"
+72,CT-I-s-B-02582,Sanctuar preistoric,sat ALBEŞTI; comuna ALBEŞTI,"La 600 m E de aşezarea Albeşti, pe o suprafaţă de 800 mp",
+73,CT-I-s-B-02583,Aşezare,sat ALBEŞTI; comuna ALBEŞTI,"La intrarea în sat dinspre Mangalia, la NE de DJ 393","sec. IV a. Chr. - sec. II p. Chr., Epoca greacă şi romană"
+74,CT-I-s-B-02584,Fortificaţie,sat ALBEŞTI; comuna ALBEŞTI,La S de cartierul tătăresc,"sec. IV - II a. Chr., Epoca elenistică"
+75,CT-I-s-A-20171,Tumuli,sat ALIMAN; comuna ALIMAN,În perimetrul întregii comune,"sec. I - III p. Chr., Epoca romană"
+76,CT-I-s-B-02588,Aşezare rurală,sat BĂLTĂGEŞTI; comuna CRUCEA,La 2 km V se satul Băltăgești,"sec. II - III p. Chr., Epoca romană"
+77,CT-I-s-B-02589,Necropolă,sat BĂLTĂGEŞTI; comuna CRUCEA,În vatra satului,"sec. IV - III a. Chr., Latène"
+78,CT-I-s-B-02590,Aşezare rurală,oraş BĂNEASA,"Întregul intravilan al orașului Băneasa, cu străzile aferente, principale și secundare, perimetrul localității Băneasa și cartierul Cărpiniș","sec. II - III p. Chr., Epoca romană"
+79,CT-I-s-B-02591,Necropolă,oraş BĂNEASA,"În vatra localităţii, lângă Cișmeaua Mică, pe strada Sudului","sec. IV - III a. Chr., Latène"
+80,CT-I-s-A-02592,Tumuli,oraş BĂNEASA OSTROV,"În perimetrul agricol al orașului Băneasa, zona dealul ”Drahma” - ”La Movilă” satului, pe malul lacului","sec. I - III p. Chr., Epoca romană Cultura geto - dacică"
+82,CT-I-s-B-02594,Necropolă,sat BUGEAC; comuna OSTROV,"""Canara”, la 1.5 km SV de marginea satului, pe malul de N al lacului","sec. VI - V a. Chr., Latène timpuriu, Cultura geto - dacică"
+83,CT-I-s-B-02595,Necropolă,sat BUGEAC; comuna OSTROV,"În NE satului, între DN 3 şi braţul Ostrov, la km 118.8","sec. IV a. Chr., Latène, Cultura geto - dacică"
+84,CT-I-s-A-02596,Tumuli,sat BUGEAC; comuna OSTROV,"De o parte și de alta a DN 3 Constanța- Ostrov, între Bugeac și Ostrov",Epoca antică
+85,CT-I-s-B-02597,Aşezare,sat BUGEAC; comuna OSTROV,"""Ceairul lui Marinciu”, pe malul lacului Bugeac, la 4 km SV de sat","sec. I - III p. Chr., Epoca romană, Cultura dacică"
+86,CT-I-s-B-02598,"Situl arheologic de la Canlia, punct ""Gura Canliei""",sat CANLIA; comuna LIPNIŢA,"""Gura Canliei”, pe ambii versanţi ai promontoriilor dinspre Dunăre ai Dealului Uscat şi Ghivizlicul Mare",
+87,CT-I-m-B-02598.01,Aşezare,sat CANLIA; comuna LIPNIŢA,"""Gura Canliei”, pe ambii versanţi ai promontoriilor dinspre Dunăre ai Dealului Uscat şi Ghivizlicul Mare",Epoca medieval timpurie
+88,CT-I-m-B-02598.02,Aşezare,sat CANLIA; comuna LIPNIŢA,"""Gura Canliei”, pe ambii versanţi ai promontoriilor dinspre Dunăre ai Dealului Uscat şi Ghivizlicul Mare","sec. I - II p. Chr., Epoca romană"
+89,CT-I-m-B-02598.03,Necropolă de înhumaţie şi incineraţie,sat CANLIA; comuna LIPNIŢA,"""Gura Canliei”, pe ambii versanţi ai promontoriilor dinspre Dunăre ai Dealului Uscat şi Ghivizlicul Mare","sec. I - II p. Chr., Epoca romană"
+90,CT-I-m-B-02598.04,Aşezare,sat CANLIA; comuna LIPNIŢA LIPNIŢA,"""Gura Canliei”, pe ambii versanţi ai promontoriilor dinspre Dunăre ai Dealului Uscat şi Ghivizlicul Mare promontoriilor dinspre Dunăre ai","Latène, Cultura geto - dacică"
+92,CT-I-s-B-02599,"Situl arheologic de la Canlia, punct ""Dealul Dervent""",sat CANLIA; comuna LIPNIŢA,"""Dealul Dervent”",
+93,CT-I-m-B-02599.01,Fortificaţie bizantină,sat CANLIA; comuna LIPNIŢA,"""Dealul Dervent”","sec. X - XI, Epoca medieval timpurie"
+94,CT-I-m-B-02599.02,Aşezare,sat CANLIA; comuna LIPNIŢA,"""Dealul Dervent”",Epoca romană
+95,CT-I-m-B-02599.03,Aşezare,sat CANLIA; comuna LIPNIŢA,"""Dealul Dervent”",Epoca fierului
+96,CT-I-m-B-02599.04,Aşezare,sat CANLIA; comuna LIPNIŢA,"""Dealul Dervent”",Epoca bronzului
+97,CT-I-m-B-02599.05,Aşezare,sat CANLIA; comuna LIPNIŢA,"""Dealul Dervent”",Neolitic
+98,CT-I-s-A-02600,"Situl arheologic ""Cetatea Capidava""",sat CAPIDAVA; comuna TOPALU,"La marginea de SV a satului, pe malul Dunării, la S de DJ 223",
+99,CT-I-m-A-02600.01,Cetatea Capidava,sat CAPIDAVA; comuna TOPALU,"La marginea de SV a satului, pe malul Dunării, la S de DJ 223","sec. VIII - XI, Epoca medieval timpurie"
+100,CT-I-m-A-02600.02,Aşezare civilă,sat CAPIDAVA; comuna TOPALU,"La marginea de SV a satului, pe malul Dunării, la S de DJ 223","sec. VIII - XI, Epoca medieval timpurie"
+101,CT-I-m-A-02600.03,Cetatea Capidava,sat CAPIDAVA; comuna TOPALU,"La marginea de SV a satului, pe malul Dunării, la S de DJ 223","sec. II - VII, Epoca romană"
+102,CT-I-m-A-02600.04,Aşezare civilă,sat CAPIDAVA; comuna TOPALU,"La marginea de SV a satului, pe malul Dunării, la S de DJ 223","sec. II - VII, Epoca romană"
+103,CT-I-s-A-02601,"Situl arheologic de la Capidava, punct ""La",sat CAPIDAVA; comuna TOPALU,"""La Grajduri”, la 500 m NE de cetatea Capidava",sec. IV - XI
+104,CT-I-m-A-02601.01,Necropolă plană,sat CAPIDAVA; comuna TOPALU,"""La Grajduri”, la 500 m NE de cetatea Capidava","sec. IV - XI, Epoca medieval timpurie"
+105,CT-I-m-A-02601.02,Necropolă tumulară,sat CAPIDAVA; comuna TOPALU,"""La Grajduri”, la 500 m NE de cetatea Capidava","sec. IV - XI, Epoca medieval timpurie"
+106,CT-I-s-B-02602,"Villa rustica de la Capidava, punct ""Vlah-Canara""",sat CAPIDAVA; comuna TOPALU,"""Vlah - Canara”, la 1,5 km E de cetatea Capidava","sec. II - III p. Chr., Epoca romană"
+107,CT-I-s-A-02603,Necropolă,sat CAPIDAVA; comuna TOPALU,"În partea de SE a cetăţii, peste zona termelor romane","sec. VIII, Epoca medieval timpurie"
+108,CT-I-s-B-02604,Situl arheologic de la Capidava,sat CAPIDAVA; comuna TOPALU,"La V de cetate, în curbura traseului Dunării, sub malul înalt",
+109,CT-I-m-B-02604.01,Aşezare,sat CAPIDAVA; comuna TOPALU,"La V de cetate, în curbura traseului Dunării, sub malul înalt","sec. V - II a. Chr., Latène, Cultura geto - dacică"
+110,CT-I-m-B-02604.02,Aşezare,sat CAPIDAVA; comuna TOPALU,"La V de cetate, în curbura traseului Dunării, sub malul înalt",Hallstatt
+111,CT-I-s-B-02605,Amfiteatru natural cu inscripţii rupestre în limba greacă,sat CASIAN; comuna GRĂDINA,"La 1,5 km SV de sat, pe malul de S al râului Casimcea","sec. II - III p. Chr., Epoca romană"
+112,CT-I-s-B-02606,Aşezare,sat CASIAN; comuna GRĂDINA,"Pe malul stâng al Casimcei, la 600 m SE de podul de cale ferată de la Casian","mil. IV a. Chr., Neolitic"
+113,CT-I-s-B-02607,Aşezare,sat CASIAN; comuna GRĂDINA,"Lângă terasa Casimcei, pe malul de N, la 1 km V-SV de sat","sec. V - IV a. Chr., Hallstatt"
+114,CT-I-s-B-02608,"Locuirea din ""Peştera Casian”",sat CASIAN; comuna GRĂDINA,"""Peştera Casian”, la cca 2,3 km V-SV de sat, pe malul de S al râului Casimcea","sec. IX - XII, Epoca medieval timpurie"
+115,CT-I-s-B-02609,Aşezare,sat CASIAN; comuna GRĂDINA AMZACEA,"Pe malul de N al Casimcei, la 2 km V de satul Casian și 2 km SE de satul Cheia deal","sec. III - I a. Chr., Epoca elenistică romano-bizantină"
+117,CT-I-s-A-02614,Fortificaţie,sat CASTELU; comuna CASTELU,În marginea de SE a satului,"sec. IV - VI p. Chr., Epoca romano-bizantină"
+118,CT-I-s-B-02615,Aşezare rurală,sat CASTELU; comuna CASTELU,La 300 m E de sat,"sec. I - III p. Chr., Epoca romană"
+119,CT-I-s-A-02616,Tumuli,sat CASTELU; comuna CASTELU,În perimetrul întregii comune,Epoca antică
+120,CT-I-s-B-02617,Aşezare,sat CASTELU; comuna CASTELU,"""Coada Malului”, în partea de SE a comunei, pe terasa de N a Văii Carasu","sec. IX - X, Epoca medieval timpurie"
+121,CT-I-s-B-02618,Necropolă,sat CASTELU; comuna CASTELU,În incinta fostului SMA,"sec. IX - X, Epoca medieval timpurie"
+122,CT-I-m-A-02559.01,Valul de piatră,oraş CERNAVODĂ,"Din dreptul insulei Hinog şi a cetăţii Axiopolis, de pe malul drept al Dunării, la 3.25 km S de oraşul Cernavodă","sec. X, Epoca medieval timpurie"
+123,CT-I-s-A-02619,"Situl arheologic de la Cernavodă, punct ""Dealul Sofia”",oraş CERNAVODĂ,"""Dealul Sofia”, începând de la 100 m V de Primăria oraşului până la malul Dunării",
+124, CT-I-m-A-02619.01, Aşezare, oraş CERNAVODĂ," ""Dealul Sofia”, începând de la 100 m V de Primăria oraşului până la malul Dunării"," Perioada de tranziţie la epoca bronzului, Cultura Cernavodă, fazele I, II, III"
+125,CT-I-m-A-02619.02,Aşezare,oraş CERNAVODĂ,"""Dealul Sofia”, începând de la 100 m V de Primăria oraşului până la malul Dunării","Neolitic, Cultura Gumelniţa"
+126,CT-I-s-A-02620,"Situl arheologic de la Cernavodă, ""Cetatea Axiopolis""",oraş CERNAVODĂ,"La 3 km S de Cernavodă, în faţa insulei Hinog, pe malul drept al Dunării Hinog, pe malul drept al Dunării"," Latène, epoca romană şi"
+128,CT-I-m-A-02620.02,Necropola cetăţii Axiopolis,oraş CERNAVODĂ,La 4.5 km de DJ 223 Cernavodă - Cochirleni şi la 70 m V de şosea,"sec. VI - VII, Epoca romano-bizantină"
+129,CT-I-m-A-02620.03,Tumul,oraş CERNAVODĂ,La 4.5 km de DJ 223 Cernavodă - Cochirleni şi la 70 m V de şosea,Epoca antică
+130,CT-I-s-A-02621,Situl arheologic de la Cetatea,sat CETATEA; comuna DOBROMIR,Intravilan,
+131,CT-I-m-A-02621.01,Cetatea Hisarlâc,sat CETATEA; comuna DOBROMIR,Intravilan,"sec. XIII - XIV, Epoca medievală"
+132,CT-I-m-A-02621.02,Aşezare,sat CETATEA; comuna DOBROMIR,"În marginea de NV a localităţii, pe dealul Hisarlâk, la poalele cetăţii","sec. II - VI p. Chr., Epoca romană şi romano- bizantină"
+133,CT-I-s-A-02622,Situl arheologic de la Cheia,sat CHEIA; comuna GRĂDINA,"""La Izvor”, la confluenţa pârâului Ghelengic-mal E cu râul Casimcea-mal S, la 1 km S de sat",
+134,CT-I-m-A-02622.01,Locuire rupestră,sat CHEIA; comuna GRĂDINA,"""La Izvor”, la confluenţa pârâului Ghelengic-mal E cu râul Casimcea-mal S, la 1 km S de sat",Neolitic
+135,CT-I-m-A-02622.02,Locuire rupestră,sat CHEIA; comuna GRĂDINA,"""La Izvor”, la confluenţa pârâului Ghelengic -mal E cu râul Casimcea-mal S, la 1 km S de sat",Paleolitic
+136,CT-I-s-B-02623,Aşezare,sat CHIRNOGENI; comuna CHIRNOGENI CIOBANU,"""Dealul Chirnogeni”, la NE de sat, lângă staţia de pompare","sec. XIII - XI a. Chr., Epoca bronzului târziu, Cultura Coslogeni romană timpurie"
+138,CT-I-s-A-02625,Ansamblu tumuli,sat CIOCÂRLIA; comuna CIOCÂRLIA,În perimetrul comunei,Epoca antică
+139,CT-I-m-A-02557.05,Valul mic de pământ,sat CIOCÂRLIA DE SUS; comuna CIOCÂRLIA,Coboară până la 3 km NE de satul Ciocârlia de Sus,"sec. VI p. Chr., Epoca romană"
+140,CT-I-s-B-02626,Situl arheologic de la Cobadin,sat COBADIN; comuna COBADIN,În perimetrul satului,
+141,CT-I-m-B-02626.01,Aşezare rurală,sat COBADIN; comuna COBADIN,În perimetrul satului,"sec. IV a. Chr - VI p. Chr, Epoca romană"
+142,CT-I-m-B-02626.02,Tumuli,sat COBADIN; comuna COBADIN,În perimetrul satului,Epoca antică
+143,CT-I-m-A-02557.01,Valul mic de pământ,sat COCHIRLENI; comuna RASOVA,"La cca. 1 km NV de satul Cochirleni, pe coama ridicăturii de teren situată imediat la N de ""Cetatea Pătulului"" şi 7km S de gara CFR Cernavodă","sec. VI p. Chr., Epoca romană la"
+144,CT-I-m-A-02558.01,Valul mare de pământ,sat COCHIRLENI; comuna RASOVA,"Pornește spre V de la ”Cetatea Pătulului”, situată pe malul drept al Dunării, și trece pe la N de satul Cochirleni","sec. IX, Epoca medieval timpurie"
+145,CT-I-s-A-02627,"""Cetatea Pătulului”",sat COCHIRLENI; comuna RASOVA,"” Cetatea Pătulului”, pe malul drept al Dunării, la cca. 2 km NV de sat","sec. IV - VI p. Chr., Epoca romano-bizantină"
+146,CT-I-s-B-02628,"Situl arheologic de la Cogealac, punct ""Bent""",sat COGEALAC; comuna COGEALAC,"""Bent”, la 300 m E de sat",
+147,CT-I-m-B-02628.01,Aşezare,sat COGEALAC; comuna COGEALAC comuna COGEALAC,"""Bent”, la 300 m E de sat","sec. I - III p. Chr., Epoca romană Chr., Epoca elenistică"
+149,CT-I-s-B-02629,Aşezare rurală,sat COGEALAC; comuna COGEALAC,"""Via lui Ciurea” la 1 km V de sat","sec. IV p. Chr., Epoca romană"
+150,CT-I-s-A-02630,Tumuli,sat COGEALAC; comuna COGEALAC,În perimetrul întregii comune,Epoca antică
+151,CT-I-s-B-02631,Aşezare,sat COGEALAC; comuna COGEALAC,"Pe traseul între Gura Dobrogei şi Tariverde, de o parte şi de alta a DN 22","sec. I - III p. Chr., Epoca romană"
+152,CT-I-s-B-02632,"Situl arheologic de la Corbu, punct ""Capul Midia""",sat CORBU; comuna CORBU,"""Capul Midia”, la 3.5 km SSE de satul Corbu, zona de SV a peninsulei; suprapusă de pichetul de grăniceri şi o cherhana", de
+153,CT-I-m-B-02632.01,Aşezare,sat CORBU; comuna CORBU,"""Capul Midia”, la 3.5 km SSE de satul Corbu, zona de SV a peninsulei; suprapusă de pichetul de grăniceri şi o cherhana","sec. I - IV p. Chr., Epoca romană de"
+154,CT-I-m-B-02632.02,Aşezare,sat CORBU; comuna CORBU,"""Capul Midia”, la 3.5 km SSE de satul Corbu, zona de SV a peninsulei; suprapusă de pichetul de grăniceri şi o cherhana","sec. V a. Chr. - sec. I p. Chr., Latène, Cultura greco de - getică"
+155,CT-I-m-B-02632.03,Aşezare,sat CORBU; comuna CORBU,"""Capul Midia”, la 3.5 km SSE de satul Corbu, zona de SV a peninsulei; suprapusă de pichetul de grăniceri şi o cherhana","sec. VI - V a. Chr., Hallstatt târziu de"
+156,CT-I-s-A-02633,Ansamblu tumuli,sat CORBU; comuna CORBU,În perimetrul întregii comune,Epoca antică
+157,CT-I-s-B-02634,Necropolă de inhumaţie,sat CORBU; comuna CORBU,În marginea de V a cimitirului,"sec. VI - V a. Chr., Hallstatt târziu, Cultura greco -"
+158,CT-I-s-B-02635,"Situl arheologic de la Corbu de Jos, punct ""Valea Vetrei""",sat CORBU; comuna CORBU,"""Valea Vetrei”, între Corbu de Jos şi Corbu de Sus",
+159,CT-I-m-B-02635.01,Aşezare,sat CORBU; comuna CORBU,"""Valea Vetrei”, între Corbu de Jos şi Corbu de Sus","sec. I - VI p. Chr., Epoca romană"
+160,CT-I-m-B-02635.02,Aşezare,sat CORBU; comuna CORBU,"""Valea Vetrei”, între Corbu de Jos şi Corbu de Sus","sec. IV a. Chr. - sec. I p. Chr., Latène, Cultura greco - getică"
+161,CT-I-s-B-02636,Aşezare rurală,sat CORBU; comuna CORBU,La 1 km NV de sat,"sec. III - IV p. Chr., Epoca romană"
+162,CT-I-m-B-02637,Fortificaţie,sat COROANA; comuna ALBEŞTI,"""Oierie”, în marginea de NE a satului","sec. IV p. Chr., Epoca romană"
+163,CT-I-s-B-20170,Fortificaţie,sat COROANA; comuna ALBEŞTI,Cca. 500 m SV de sat,"sec. IV - I a. Chr., Epoca elenistică, Cultura Albeşti"
+164,CT-I-s-A-02641,Aşezare tip davă,sat COSLUGEA; comuna LIPNIŢA,"""Colţul Pietrei”, pe malul de SE al lacului Oltina","sec. III - I a. Chr., Latène, Cultura geto - dacică"
+165,CT-I-s-B-02638,"Situl arheologic de la Costineşti, punct ""Parthenopolis""",sat COSTINEŞTI; comuna COSTINEŞTI,"La cca. 250 m N de Pescărie, în malul mâncat de ape; la 200-300 m N - obiectivul 2",
+166,CT-I-m-B-02638.01,Aşezare,sat COSTINEŞTI; comuna COSTINEŞTI,"La cca. 250 m N de Pescărie, în malul mâncat de ape; la 200-300 m N - obiectivul 2",Epoca romană
+167,CT-I-m-B-02638.02,Aşezare (Parthenopolis),sat COSTINEŞTI; comuna COSTINEŞTI comuna COSTINEŞTI,"La cca. 250 m N de Pescărie, în malul mâncat de ape; la 200-300 m N - obiectivul 2 mâncat de ape; la 200-300 m N -",sec. IV a. Chr. - sec. VI p. Chr.
+169,CT-I-s-B-02639,Aşezare,sat COSTINEŞTI; comuna COSTINEŞTI,"La 2 km NE de intersecţia şoselei naţionale Constanţa - Mangalia cu drumul spre Costineşti, la 200 m de punctul electric","sec. IV a. Chr., Epoca elenistică, Cultura Albeşti"
+170,CT-I-s-B-02640,Situl arheologic de la Costineşti,sat COSTINEŞTI; comuna COSTINEŞTI,"La N de tabără, pe micul promontoriu între mare şi lac",
+171,CT-I-m-B-02640.01,Aşezare,sat COSTINEŞTI; comuna COSTINEŞTI,"La N de tabără, pe micul promontoriu între mare şi lac",Epoca romană
+172,CT-I-m-B-02640.02,Aşezare,sat COSTINEŞTI; comuna COSTINEŞTI,"La N de tabără, pe micul promontoriu între mare şi lac",Neolitic
+173,CT-I-s-B-02642,Aşezarea rurală de la Credinţa,sat CREDINŢA; comuna CHIRNOGENI,"""Dealul Mocanilor”, la 300 m NE de sat, pe panta de V a dealului Mocanilor","sec. III - IV p. Chr., Epoca romană"
+174,CT-I-s-B-02643,Aşezare rurală,sat CRUCEA; comuna CRUCEA,,"sec. I - III p. Chr., Epoca romană"
+175,CT-I-s-A-02644,Tumuli,sat CRUCEA; comuna CRUCEA,În perimetrul întregii comune,Epoca antică
+176,CT-I-s-B-02645,Situl arheologic de la Cumpăna,sat CUMPĂNA; comuna CUMPĂNA,,
+177,CT-I-m-B-02645.01,Aşezare rurală,sat CUMPĂNA; comuna CUMPĂNA,,"sec. I - IV p. Chr., Epoca romană"
+178,CT-I-m-B-02645.02,Tumuli,sat CUMPĂNA; comuna CUMPĂNA,,Epoca antică
+179,CT-I-s-B-02646,Apeduct Vodă,sat CUZA-VODĂ; comuna CUZA-VODĂ comuna CUZA-VODĂ,În zona de SSV a satului,"sec. I - III p. Chr., Epoca romană"
+181,CT-I-m-B-02647.01,Aşezare,sat CUZA-VODĂ; comuna CUZA-VODĂ,În zona sediului fostului CAP,Epoca romană
+182,CT-I-m-B-02647.02,Aşezare,sat CUZA-VODĂ; comuna CUZA-VODĂ,În zona sediului fostului CAP,Hallstatt
+183,CT-I-s-A-02648,Situl arheologic de la Deleni,sat DELENI; comuna DELENI,În perimetrul agricol al localităţii,"sec. I - III p. Chr., Epoca romană"
+184,CT-I-m-A-02648.01,Cariera de piatră a cetăţii Tropaeum Traiani,sat DELENI; comuna DELENI,În perimetrul agricol al localităţii,"sec. I - III p. Chr., Epoca romană"
+185,CT-I-m-A-02648.02,Ansamblu tumuli,sat DELENI; comuna DELENI,În perimetrul agricol al localităţii,"sec. I - III p. Chr., Epoca romană"
+186,CT-I-m-A-02558.03,Valul mare de pământ,sat DOROBANŢU; comuna NICOLAE BĂLCESCU,Taie cotul dealului Castelu şi coboară apropiere de gara CFR Dorobanţu,"în sec. IX, Epoca medieval timpurie"
+187,CT-I-m-A-02559.04,Valul de piatră,sat DOROBANŢU; comuna NICOLAE BĂLCESCU,Pe lângă gara CFR Dorobanţu,"sec. X, Epoca medieval timpurie"
+188, CT-I-s-B-02649, Situl arheologic de la Dorobanţu, sat DOROBANŢU; comuna NICOLAE BĂLCESCU, În zona gării,
+189,CT-I-m-B-02649.01,Aşezare rurală,sat DOROBANŢU; comuna NICOLAE BĂLCESCU,În zona gării,"sec. I - sec. III, Epoca romană"
+190,CT-I-m-B-02649.02,Aşezare Dulgheru,sat DOROBANŢU; comuna NICOLAE BĂLCESCU comuna SARAIU,În zona gării,"sec. I a. Chr., Latène, Cultura geto - dacică romană"
+192,CT-I-m-A-02650.01,Aşezare rurală,sat DULGHERU; comuna SARAIU,La V de sat şi în partea de NV a satului,"sec. II - III p. Chr., Epoca romană"
+193,CT-I-m-A-02650.02,Ansamblu tumuli,sat DULGHERU; comuna SARAIU,La V de sat şi în partea de NV a satului,Epoca antică
+194,CT-I-s-B-02651,"Complexul religios de la Dumbrăveni, punct ""Canaraua Fetei”",sat DUMBRĂVENI; comuna DUMBRĂVENI,"""Canaraua Fetei”, la 1.5 km SE de sat, lângă Valea Ceairului, între satele Dumbrăveni şi Olteni","sec. X - XI, Epoca medieval timpurie"
+195,CT-I-s-B-02652,Situl arheologic de la Dunărea,sat DUNĂREA; comuna SEIMENI,"Intravilan, zona centru - Est, pe malul Dunării",
+196,CT-I-m-B-02652.01,Aşezare rurală,sat DUNĂREA; comuna SEIMENI,Intravilan,"sec. I - IV p. Chr., Epoca romană"
+197,CT-I-m-B-02652.02,Necropolă,sat DUNĂREA; comuna SEIMENI,Intravilan,sec. IV - III a. Chr.
+198,CT-I-s-A-02653,"Situl arheologic de la Dunăreni, punct ""Bratca”",sat DUNĂRENI; comuna ALIMAN,"""Bratca"", pe malul drept al Dunării, lângă lacul Mârleanu",
+199,CT-I-m-A-02653.01,Aşezare,sat DUNĂRENI; comuna ALIMAN,"""Bratca"", pe malul drept al Dunării, lângă lacul Mârleanu","sec. VI - X, Epoca medieval timpurie"
+200,CT-I-m-A-02653.02,Cetate,sat DUNĂRENI; comuna ALIMAN,"""Bratca"", pe malul drept al Dunării, lângă lacul Mârleanu","sec. II - VI p. Chr., Epoca romană"
+201,CT-I-s-A-02654,"Situl arheologic de la Dunăreni, punct ""Dealul Muzait""",sat DUNĂRENI; comuna ALIMAN,"""Dealul Muzait”, la 5 km NE de satul Dunăreni, și la N de satul Vlahii, pe malul Dunării",
+202,CT-I-m-A-02654.01,Cetatea medieval timpurie,sat DUNĂRENI; comuna ALIMAN comuna ALIMAN,"""Dealul Muzait”, la 5 km NE de satul Dunăreni, și la N de satul Vlahii, pe malul Dunării Dunăreni, și la N de satul Vlahii, pe",Epoca medieval timpurie romană
+204,CT-I-m-A-02654.03,Cetate getică,sat DUNĂRENI; comuna ALIMAN,"""Dealul Muzait”, la 5 km NE de satul Dunăreni, și la N de satul Vlahii, pe malul Dunării","Latène, Cultura geto - dacică"
+205,CT-I-s-A-02655,"Situl arheologic de la Dunăreni, punct ""Gura Zăvalului""",sat DUNĂRENI; comuna ALIMAN,"""Gura Zăvalului”","sec. IV - I a. Chr., Latène"
+206,CT-I-m-A-02655.01,Aşezare,sat DUNĂRENI; comuna ALIMAN,"""Gura Zăvalului”","sec. IV - I a. Chr., Latène, Cultura geto - dacică"
+207,CT-I-m-A-02655.02,Necropolă tumulară,sat DUNĂRENI; comuna ALIMAN,"""Gura Zăvalului”","sec. IV - I a. Chr., Latène, Cultura geto - dacică"
+208,CT-I-s-B-02656,Situl arheologic de la Eforie Sud,localitatea EFORIE SUD; oraş EFORIE,În sudul localităţii,
+209,CT-I-m-B-02656.01,Aşezare,localitatea EFORIE SUD; oraş EFORIE,În sudul localităţii,"sec. II - IV p. Chr., Epoca romană"
+210,CT-I-m-B-02656.02,Aşezare,localitatea EFORIE SUD; oraş EFORIE,În sudul localităţii,"sec. IV - I a. Chr., Latène"
+211,CT-I-s-B-02657,Necropolă,sat FĂUREI; oraş BĂNEASA,"La cca. 200 m N de cimitirul turcesc, Dealul ”Macmara”, zona extravilan","sec. IV - III a. Chr., Latène, Cultura geto - dacică"
+212,CT-I-s-B-02658,Necropolă de incineraţie,sat FÂNTÂNA MARE; comuna INDEPENDENŢA,Pe dealul din marginea de NV a satului,"sec. IV - II a. Chr., Latène, Cultura geto - dacică"
+213,CT-I-s-A-02659,Ansamblu tumuli Fântânele,sat FÂNTÂNA MARE; comuna INDEPENDENŢA comuna FÂNTÂNELE,În perimetrul întregii comune,Epoca antică
+215,CT-I-m-B-02660.01,Aşezare rurală,sat FÂNTÂNELE; comuna FÂNTÂNELE,În afara localităţii,"sec. I - III p. Chr., Epoca romană"
+216,CT-I-m-B-02660.02,Apeducte,sat FÂNTÂNELE; comuna FÂNTÂNELE,În afara localităţii,Epoca romană
+217,CT-I-s-B-02661,Aşezare rurală,sat FLORIILE; comuna ALIMAN,Intravilan şi în partea de SV a satului,"sec. I - VI p. Chr., Epoca romană"
+218,CT-I-s-B-02662,Aşezare,sat GALIŢA; comuna OSTROV,"""La gura Văii Cuiugiuc”, la cca 1 km la de sat","S sec. X, Epoca medievală timpurie"
+219,CT-I-s-B-02663,Aşezare rurală,sat GĂLBIORI; comuna CRUCEA,Intravilan,"sec. I - VI p. Chr., Epoca romană"
+220,CT-I-s-A-02664,Tumuli,sat GĂLBIORI; comuna CRUCEA,La V de sat,Epoca antică
+221,CT-I-s-A-02665,Cetatea Cius,sat GÂRLICIU; comuna GÂRLICIU,"""Hisarlâc”, la 5,5 km SSV de sat, pe un promontoriu pe malul de N al lacului Hisarlâc","sec. IV p. Chr., Epoca romană"
+222,CT-I-s-A-02666,Ansamblu tumuli,sat GÂRLICIU; comuna GÂRLICIU,În perimetrul întregii comune,Epoca antică
+223,CT-I-s-B-02667,Aşezarea de la Gârliţa,sat GÂRLIŢA; comuna OSTROV,"""La gura Văii Babei”, pe malul de S al lacului Bugeac","sec. X - VII a. Chr., Hallstatt"
+224,CT-I-s-B-02668,Situl arheologic de la General Scărişoreanu,sat GENERAL SCĂRIŞOREANU; comuna AMZACEA,"""Movila de cenuşă”, la 3 km NE de sat",
+225,CT-I-m-B-02668.01,Aşezare,sat GENERAL SCĂRIŞOREANU; comuna AMZACEA SCĂRIŞOREANU;,"""Movila de cenuşă”, la 3 km NE de sat","sec. I - III p. Chr., Epoca romană"
+227,CT-I-m-B-02668.03,Tumuli,sat GENERAL SCĂRIŞOREANU; comuna AMZACEA,"""Movila de cenuşă”, la 3 km NE de sat",Epoca antică
+228,CT-I-s-B-02669,"Fortificaţia de la Ghindăreşti, punct ""La Cetate""",sat GHINDĂREŞTI; comuna GHINDĂREŞTI,"""La Cetate"", la NV de sat","sec. I - VI p. Chr., Epoca romană"
+229,CT-I-s-B-02670,Situl arheologic de la Ghindăreşti,sat GHINDĂREŞTI; comuna GHINDĂREŞTI,"""Tunel”, la 2 km S de sat",
+230,CT-I-m-B-02670.01,Aşezare,sat GHINDĂREŞTI; comuna GHINDĂREŞTI,"""Tunel”, la 2 km S de sat","sec. I - VI p. Chr., Epoca romană"
+231,CT-I-m-B-02670.02,Aşezare,sat GHINDĂREŞTI; comuna GHINDĂREŞTI,"""Tunel”, la 2 km S de sat",Hallstatt
+232,CT-I-m-B-02670.03,Aşezare,sat GHINDĂREŞTI; comuna GHINDĂREŞTI,"""Tunel”, la 2 km S de sat",Epoca bronzului
+233,CT-I-m-B-02670.04,Aşezare,sat GHINDĂREŞTI; comuna GHINDĂREŞTI,"""Tunel”, la 2 km S de sat","mil. IV a. Chr., Neolitic"
+234,CT-I-s-B-02671,Aşezare rurală,sat GRĂDINA; comuna GRĂDINA,La 500 m SV de sat,"sec. III - IV p. Chr., Epoca romană"
+235,CT-I-s-A-02672,Situl arheologic de la Grădina,sat GRĂDINA; comuna GRĂDINA,În perimetrul întregii localităţi,
+236,CT-I-m-A-02672.01,Ansamblu tumuli,sat GRĂDINA; comuna GRĂDINA,În perimetrul întregii localităţi,Epoca antică
+237,CT-I-m-A-02672.02,Aşezare Dobrogei,sat GRĂDINA; comuna GRĂDINA comuna COGEALAC,În perimetrul întregii localităţi km SE de sat,Neolitic
+239,CT-I-m-A-02673.01,Locuire rupestră,sat GURA DOBROGEI; comuna COGEALAC,"Pe valea pârâului Gura Dobrogei, la 1.5 km SE de sat",Epoca fierului
+240,CT-I-m-A-02673.02,Locuire rupestră,sat GURA DOBROGEI; comuna COGEALAC,"Pe valea pârâului Gura Dobrogei, la 1.5 km SE de sat",Epoca bronzului
+241,CT-I-m-A-02673.03,Locuire rupestră,sat GURA DOBROGEI; comuna COGEALAC,"Pe valea pârâului Gura Dobrogei, la 1.5 km SE de sat",Neolitic
+242,CT-I-m-A-02673.04,Locuire rupestră,sat GURA DOBROGEI; comuna COGEALAC,"Pe valea pârâului Gura Dobrogei, la 1.5 km SE de sat",Mezolitic
+243,CT-I-m-A-02673.05,Locuire rupestră,sat GURA DOBROGEI; comuna COGEALAC,"Pe valea pârâului Gura Dobrogei, la 1.5 km SE de sat",Paleolitic
+244,CT-I-s-B-02674,Situl arheologic de la Gura Dobrogei,sat GURA DOBROGEI; comuna COGEALAC,La confluenţa pârâului Gura Dobrogei cu râul Casimcea,
+245,CT-I-m-B-02674.01,Aşezare,sat GURA DOBROGEI; comuna COGEALAC,La confluenţa pârâului Gura Dobrogei cu râul Casimcea,"sec. I - III p. Chr., Epoca romană"
+246,CT-I-m-B-02674.02,Aşezare,sat GURA DOBROGEI; comuna COGEALAC,La confluenţa pârâului Gura Dobrogei cu râul Casimcea,"sec. III - I a. Chr., Epoca elenistică, Cultura greco - indigenă"
+247,CT-I-s-B-02675,Situl arheologic de la Haţeg,sat HAŢEG; comuna ADAMCLISI,"În zona canalului de irigaţii, la NV de sat, în apropierea şi pe malurile lacului Baciului, în comunele Adamclisi şi Rasova",
+248,CT-I-m-B-02675.01,Aşezare,sat HAŢEG; comuna ADAMCLISI ADAMCLISI,"În zona canalului de irigaţii, la NV de sat, în apropierea şi pe malurile lacului Baciului, în comunele Adamclisi şi Rasova sat, în apropierea şi pe malurile lacului",Epoca medieval timpurie romană
+250,CT-I-m-B-02675.03,Aşezare,sat HAŢEG; comuna ADAMCLISI,"În zona canalului de irigaţii, la NV de sat, în apropierea şi pe malurile lacului Baciului, în comunele Adamclisi şi Rasova","sec. IV - II a. Chr., Latène, Cultura geto - dacică"
+251,CT-I-s-A-02676,"Situl arheologic ""Cetatea Carsium"" de la Hârşova",oraş HÂRŞOVA,"Malul Dunării - str. Dobrogei până la intersecţia cu str. Gh. Doja - spre V de-a lungul str. Carsium până la intersecţia cu str. Lunei - str. Lunei şi str. Venus spre S, până la malul Dunării, la Crucea monument",
+252,CT-I-m-A-02676.01,Cetatea medievală,oraş HÂRŞOVA,"Malul Dunării - str. Dobrogei până la intersecţia cu str. Gh. Doja - spre V de-a lungul str. Carsium până la intersecţia cu str. Lunei - str. Lunei şi str. Venus spre S, până la malul Dunării, la Crucea monument","sec. X - XIX, Epoca medievală"
+253,CT-I-m-A-02676.02,Cetatea Carsium,oraş HÂRŞOVA,"Malul Dunării - str. Dobrogei până la intersecţia cu str. Gh. Doja - spre V de-a lungul str. Carsium până la intersecţia cu str. Lunei - str. Lunei şi str. Venus spre S, până la malul Dunării, la Crucea monument","sec. I - VI p. Chr., Epoca romană"
+254,CT-I-s-A-02677,Tell Hârşova,oraş HÂRŞOVA,"La marginea de SV a oraşului; de la malul Dunării spre N pe str. Grădinilor, str. Gh. Doja, apoi pe str. Danubiu până la Dunăre","mil. V a. Chr., Neolitic"
+256,CT-I-m-A-02678.01,Necropolă otomană,oraş HÂRŞOVA,"În partea de ENE a oraşului, între şoseaua de centură, Intreprinderea de Sârmă şi Cabluri şi cimitirul turcesc",sec. XV - XIX
+257,CT-I-m-A-02678.02,Necropolă,oraş HÂRŞOVA,"În partea de ENE a oraşului, de la şoseaua de centură şi rampa de gunoi până la str. Gropilor şi str. Cloşca","sec. IV - VI p. Chr., Epoca romano-bizantină"
+258,CT-I-m-A-02678.03,Necropolă plană,oraş HÂRŞOVA,"În partea de ENE a oraşului, de la şoseaua de centură şi rampa de gunoi până la str. Gropilor şi str. Cloşca","sec. II - III p. Chr., Epoca romană"
+259,CT-I-m-A-02678.04,Aşezare,oraş HÂRŞOVA,"În partea de SE și E a oraşului, de la malul Dunării, între Şantierul Naval şi Romcereal, spre N dincolo de DN2A Hârşova - Constanţa",Epoca romană
+260,CT-I-m-A-02678.05,Necropolă tumulară,oraş HÂRŞOVA,"În partea de SE, E și NE a oraşului, de malul Dunării, între Şantierul Naval şi Romcereal, spre N dincolo de DN2A Hârşova - Constanţa şi DN22A Hârşova Tulcea",la Epoca romană -
+261,CT-I-s-B-02679,Fortificaţie de plan poligonal,sat ION CORVIN; comuna ION CORVIN,Între Cuzgun şi Aliman,Epoca romană
+262,CT-I-s-B-02680,Val de pământ,sat ION CORVIN; comuna ION CORVIN,între Cuzgun şi Aliman,
+263,CT-I-s-A-02681,"Situl arheologic ""Cetatea Histria""",sat ISTRIA; comuna ISTRIA,"""La cetate”, la SE de sat, pe malul lacului Sinoe",
+264,CT-I-m-A-02681.01,Cetatea Histria,sat ISTRIA; comuna ISTRIA ISTRIA,"""La cetate”, la SE de sat, pe malul lacului Sinoe lacului Sinoe","sec. VII a. Chr. - sec. VII p. Chr., Epoca greco-romană Chr., Epoca greco-romană"
+266,CT-I-m-A-02681.03,Necropolă tumulară şi plană,sat ISTRIA; comuna ISTRIA,"""La cetate”, la SE de sat, pe malul lacului Sinoe","sec. VII a. Chr. - sec. VII p. Chr., Epoca greco-romană"
+267,CT-I-s-A-02682,"Situl arheologic de la Istria, punct ""Movilele Dese""",sat ISTRIA; comuna ISTRIA,"""Movilele Dese”, la 1.5 km NV de cetate, pe malul lacului Sinoe, pe promontoriu",
+268,CT-I-m-A-02682.01,Necropolă tumulară,sat ISTRIA; comuna ISTRIA,"""Movilele Dese”, la 1.5 km NV de cetate, pe malul lacului Sinoe, pe promontoriu","sec. I - IV p. Chr., Epoca romană"
+269,CT-I-m-A-02682.02,Necropolă tumulară,sat ISTRIA; comuna ISTRIA,"""Movilele Dese”, la 1.5 km NV de cetate, pe malul lacului Sinoe, pe promontoriu","sec. VI a. Chr. - sec. I p. Chr., Epoca greacă"
+270,CT-I-s-B-02683,"Situl arheologic de la Istria, punct ""Bent""",sat ISTRIA; comuna ISTRIA,"""Bent”, în vatra satului Istria",sec. VI - V a. Chr.
+271,CT-I-m-B-02683.01,Aşezare,sat ISTRIA; comuna ISTRIA,"""Bent”, în vatra satului Istria","sec. VI - V a. Chr., Latène"
+272,CT-I-m-B-02683.02,Necropolă,sat ISTRIA; comuna ISTRIA,"""Bent”, în vatra satului Istria","sec. VI - V a. Chr., Latène"
+273,CT-I-s-B-02684,Aşezare rurală,sat ISTRIA; comuna ISTRIA,"În dreptul podului de pe DJ226A către cetatea Histria, între lacurile Nuntași Histria","sec. IV - III a. Chr., Epoca și elenistică"
+274,CT-I-s-B-02685,Aşezare rurală,sat ISTRIA; comuna ISTRIA,"La 1,5 km SE de sat","sec. II - III p. Chr., Epoca romană"
+275,CT-I-s-B-02686,Situl arheologic de la Istria,sat ISTRIA; comuna ISTRIA ISTRIA,"Pe malul lacului Sinoe, la N de valul care delimitează necropola tumulară Histriei care delimitează necropola tumulară", a a romană
+277,CT-I-m-B-02686.02,Aşezare,sat ISTRIA; comuna ISTRIA,"Pe malul lacului Sinoe, la N de valul care delimitează necropola tumulară Histriei","sec. III - I a. Chr.., Epoca a elenistică"
+278,CT-I-m-B-02686.03,Aşezare,sat ISTRIA; comuna ISTRIA,"Pe malul lacului Sinoe, la N de valul care delimitează necropola tumulară Histriei",Neolitic a
+279,CT-I-s-B-02687,Aşezare,sat ISTRIA; comuna ISTRIA,"""Drumul vacilor”, la 600 m S de sat",Neolitic
+280,CT-I-s-B-02688,Situl arheologic de la Ivrinezu Mic,sat IVRINEZU MIC; comuna PEŞTERA,"Pe platoul ce pătrunde în lacul Crachişului, la 1.7 - 1.8 km NNV de sat",
+281,CT-I-m-B-02688.01,Aşezare,sat IVRINEZU MIC; comuna PEŞTERA,"Pe platoul ce pătrunde în lacul Crachişului, la 1.7 - 1.8 km NNV de sat",
+282,CT-I-m-B-02688.02,Fortificaţie,sat IVRINEZU MIC; comuna PEŞTERA,"Pe platoul ce pătrunde în lacul Crachişului, la 1.7 - 1.8 km NNV de sat","sec. VI - V a. Chr., Hallstatt"
+283,CT-I-m-B-02688.03,Val de apărare,sat IVRINEZU MIC; comuna PEŞTERA,"Pe platoul ce pătrunde în lacul Crachişului, la 1.7 - 1.8 km NNV de sat",Hallstatt
+284,CT-I-s-B-02689,Aşezare,sat IVRINEZU MIC; comuna PEŞTERA,La 400-500 m V de fortificaţie,
+285,CT-I-s-A-02690,Situl arheologic de la Ivrinezu Mic,sat IVRINEZU MIC; comuna PEŞTERA,În perimetrul întregii localităţi,
+286,CT-I-m-A-02690.01,Aşezare,sat IVRINEZU MIC; comuna PEŞTERA,În perimetrul întregii localităţi,"sec. IX - XI, Epoca medieval timpurie"
+287,CT-I-m-A-02690.02,Ansamblu tumuli,sat IVRINEZU MIC; comuna PEŞTERA comuna PEŞTERA,În perimetrul întregii localităţi,Epoca antică romană
+289,CT-I-s-A-02691,Situl arheologic de la Izvoarele,sat IZVOARELE; comuna LIPNIŢA,"""Cale-Gherghi”, pe malul Dunării, la 3 km în aval de sat",
+290,CT-I-m-A-02691.01,Fortificaţie medievală,sat IZVOARELE; comuna LIPNIŢA,"""Cale-Gherghi”, pe malul Dunării, la 3 km în aval de sat",Epoca medievală
+291,CT-I-m-A-02691.02,Aşezare,sat IZVOARELE; comuna LIPNIŢA,"""Cale-Gherghi”, pe malul Dunării, la 3 km în aval de sat",Epoca medievală
+292,CT-I-m-A-02691.03,Cetatea Sucidava,sat IZVOARELE; comuna LIPNIŢA,"""Cale-Gherghi”, pe malul Dunării, la 3 km în aval de sat","sec. II - VI p. Chr., Epoca romană"
+293,CT-I-m-A-02691.04,Cetate,sat IZVOARELE; comuna LIPNIŢA,"""Cale-Gherghi”, pe malul Dunării, la 3 km în aval de sat","sec. III - I a. Chr., Latène, Cultura geto - dacică"
+294,CT-I-s-B-02692,Aşezare rurală,sat LAZU; comuna AGIGEA,În vatra satului şi în apropierea cimitirului,"sec. II - VI p. Chr., Epoca romană"
+295,CT-I-s-B-02693,Aşezare,sat LAZU; comuna AGIGEA,"În marginea de NNV a satului, la cca. 300 m de ultimele case şi la cca. 100 m SV de un pâlc de nuci, pe versantul de al văii","sec. IV - VI p. Chr., Epoca romano-bizantină V"
+296, CT-I-s-A-02694, Ansamblu tumuli, sat LIPNIŢA; comuna LIPNIŢA, În perimetrul întregii comune, Epoca antică
+297,CT-I-s-B-02695,Aşezare rurală,sat LUMINIŢA; comuna CORBU,,"sec. II - IV p. Chr., Epoca romană"
+298,CT-I-s-A-02696,"Situl arheologic ""Oraşul antic Callatis""",municipiul MANGALIA,"Între Sanatoriul balnear, Casa de Cultură, str. Constanţei, Geamie şi intrarea în portul comercial",
+299,CT-I-m-A-02696.01,Cetatea romană şi romano- bizantină,municipiul MANGALIA,"Între Sanatoriul balnear, Casa de Cultură, str. Constanţei, Geamie şi","sec. I - VII p. Chr., Epoca romană şi romano-"
+300,CT-I-m-A-02696.02,Morminte hypogee paleocreştine cu inscripţii,municipiul MANGALIA,"Pe DJ391 spre Albeşti, în zona intersecţiei cu str. Vârtejan, în dreptul Fabricii de lapte, staţia de betoane şi biogaz","sec. VI - VII, Epoca romano-bizantină de"
+301,CT-I-m-A-02696.03,Bazilică,municipiul MANGALIA,"La SE de stadion, lângă zidul de incintă (latura de N)","sec. V - VI p. Chr., Epoca romano-bizantină"
+302,CT-I-m-A-02696.04,Clădire,municipiul MANGALIA,În marginea de SE a stadionului,"sec. V - VI p. Chr., Epoca romano-bizantină"
+303,CT-I-m-A-02696.05,Necropolă,municipiul MANGALIA,"În marginea de V a oraşului, între calea ferată, drumul spre Albeşti şi grajdurile CAP Mangalia","sec. IV - VI p. Chr., Epoca romano-bizantină"
+304,CT-I-m-A-02696.06,Zidul de apărare al cetăţii Callatis,municipiul MANGALIA,"La S de oraş, lângă staţia de decantare","sec. VI a. Chr. - V p. Chr., Epoca greco-romană"
+305,CT-I-m-A-02696.07,Necropola tumulară,municipiul MANGALIA,În perimetrul întregului teritoriu administrativ Mangalia,"sec. III - I a. Chr., Epoca elenistică"
+306,CT-I-m-A-02696.08,Colonia greacă Callatis,municipiul MANGALIA,"Între Sanatoriul balnear, Casa de Cultură, str. Constanţei, Geamie şi intrarea în portul comercial","sec. IV - I a. Chr., Epoca greacă"
+307,CT-I-m-A-02696.09,"Mormântul ""cu papirus”",municipiul MANGALIA,"În partea de V a stadionului, lângă Muzeu","sec. IV - I a. Chr., Latène"
+308,CT-I-m-A-02696.10,Necropolă,municipiul MANGALIA,Zona stadionului şi a Sanatoriului TBC,"sec. IV - II a. Chr., Epoca elenistică"
+309,CT-I-m-A-02696.11,Mormântul cu boltă (scitic),municipiul MANGALIA,"Pe malul lacului Mangalia, la V de satul 2 Mai centrală şi piaţa actuală","sec. IV - III a. Chr., Latène romană"
+311,CT-I-m-A-02558.02,Valul mare de pământ,municipiul MEDGIDIA,"Dispare la pct. Gura Ghermelelor, reapărând 13 km la E, la pct. Pietre, apoi traversează mun. Medgidia în lungul str. Poporului","sec. IX, Epoca medieval timpurie"
+312,CT-I-m-A-02559.03,Valul de piatră,municipiul MEDGIDIA,Traversează teritoriul actual al mun. Medgidia în lungul str. Poporului,"sec. X, Epoca medievală timpurie"
+313,CT-I-s-B-02697,Aşezare,municipiul MEDGIDIA,"Între str. Nicolae Bălcescu, Republicii, Poporului şi Decebal","sec. IX - XI, Epoca medieval timpurie"
+314,CT-I-s-B-02698,Necropolă de înhumaţie,municipiul MEDGIDIA,"""Forja Veche”, în curtea Intreprinderii Mecanice de Utilaje Medgidia, str. Independenței, zona de NV municipiului","sec. II - I a. Chr., Latène a"
+315, CT-I-s-B-02699, Aşezare, municipiul MEDGIDIA," Str. Dumbrava Roşie, de o parte și de alta a acesteia"," sec. IX - XI, Epoca medieval timpurie"
+316,CT-I-s-B-02700,Aşezare,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,"""Dealul Mormintelor”, la 1 km SSE de biserica din sat","sec. IV - VI p. Chr., Epoca romano-bizantină"
+317,CT-I-s-A-02701,Ansamblu tumuli,sat MIHAI VITEAZU; comuna MIHAI VITEAZU,în perimetrul întregii comune,Epoca antică
+318,CT-I-m-A-02559.02,Valul de piatră,sat MIRCEA VODĂ; comuna MIRCEA VODĂ,"Prin perimetrul agricol al satului Mircea Vodă, la 1 km S de gara CFR Mircea Vodă","sec. X, Epoca medieval timpurie"
+319,CT-I-s-A-02560,Ansamblu tumuli Mircea Vodă,sat MIRCEA VODĂ comuna MIRCEA,În perimetrul întregii comune,Epoca antică
+321,CT-I-m-B-02702.01,Aşezare,sat MIRCEA VODĂ; comuna MIRCEA VODĂ,În vecinătatea gării Mircea Vodă,"sec. IX - XI, Epoca medieval timpurie"
+322,CT-I-m-B-02702.02,Castru,sat MIRCEA VODĂ; comuna MIRCEA VODĂ,În vecinătatea gării Mircea Vodă,"sec. IV - VI p. Chr., Epoca romano-bizantină"
+323,CT-I-m-B-02702.03,Aşezare,sat MIRCEA VODĂ; comuna MIRCEA VODĂ,În vecinătatea gării Mircea Vodă,"sec. IV - VI p. Chr., Epoca romano-bizantină"
+324,CT-I-s-B-02703,Villa rustica,sat MOŞNENI; comuna 23 AUGUST,La 10 km N de Mangalia şi la 1 km SV fostul IAS Moşneni,"de sec. II - III p. Chr., Epoca romană"
+325, CT-I-m-A-02559.06, Valul de piatră, oraş MURFATLAR," Pe direcția NV-SE, la N de oraşul Murfatlar"," sec. X, Epoca medieval timpurie"
+326,CT-I-s-A-02585,Ansamblul rupestru de la Murfatlar,oraş MURFATLAR,"Str. Muzeului 1, pe versantul de N al ”Dealului Tibișir”, pe malul de SV al canalului Dunăre-Marea Neagră, la S DN3 Constanța-Ostrov","sec. X - XI, Epoca medieval timpurie de"
+327,CT-I-m-A-02585.01,Biserici,oraş MURFATLAR,"Str. Muzeului 1, pe versantul de N al ”Dealului Tibișir”, pe malul de SV al canalului Dunăre-Marea Neagră, la S DN3 Constanța-Ostrov","sec. X - XI, Epoca medieval timpurie de"
+328,CT-I-m-A-02585.02,Morminte,oraş MURFATLAR,"Str. Muzeului 1, pe versantul de N al ”Dealului Tibișir”, pe malul de SV al canalului Dunăre-Marea Neagră, la S DN3 Constanța-Ostrov ”Dealului Tibișir”, pe malul de SV al","sec. X - XI, Epoca medieval timpurie de timpurie"
+330,CT-I-m-A-02585.04,Galerii,oraş MURFATLAR,"Str. Muzeului 1, pe versantul de N al ”Dealului Tibișir”, pe malul de SV al canalului Dunăre-Marea Neagră, la S DN3 Constanța-Ostrov","sec. X - XI, Epoca medieval timpurie de"
+331,CT-I-m-B-02586,Turn de piatră,oraş MURFATLAR,La NE de oraş,
+332,CT-I-s-A-02587,Castrul de apărare a valului,oraş MURFATLAR,,Epoca romană
+333,CT-I-s-B-02704,Aşezare,oraş NĂVODARI,"La S de oraş, aproape de DN86 spre Mamaia","sec. I - III p. Chr., Epoca romană"
+334,CT-I-s-B-02732,Aşezare,oraş NĂVODARI,Insula Ostrov din lacul Taşaul,"mil. IV a. Chr., Eneolitic, Cultura Gumelniţa"
+335,CT-I-s-B-02705,Situl arheologic de la Negru Vodă,oraş NEGRU VODĂ,La marginea de N a localităţii,
+336,CT-I-m-B-02705.01,Aşezare,oraş NEGRU VODĂ,La marginea de N a localităţii,"sec. X, Epoca medieval timpurie"
+337,CT-I-m-B-02705.02,Ansamblu tumuli,oraş NEGRU VODĂ,La marginea de N a localităţii,Epoca antică
+338,CT-I-s-B-02706,Situl arheologic de la Negureni,sat NEGURENI; oraş BĂNEASA,"""Pădurea Negureni"", la cca. 200 m S de DN3, Trupul Valea Cișmelelor",
+339,CT-I-m-B-02706.01,Aşezare,sat NEGURENI; oraş BĂNEASA,"""Pădurea Negureni"", la cca. 200 m S de DN3. Întregul intravilan al satului Negureni, cu străzile aferente, principale și secundare, perimetrul","sec. XI, Epoca medieval timpurie"
+340,CT-I-m-B-02706.02,Aşezare,sat NEGURENI; oraş BĂNEASA,"""Pădurea Negureni"", la cca. 200 m S de DN3. Întregul intravilan al satului Negureni, cu străzile aferente, principale și secundare, perimetrul localității Negureni","sec. VI p. Chr., Epoca romano-bizantină"
+341,CT-I-s-B-02707,Apeduct,sat NEGURENI; oraş BĂNEASA,"La 500 m V de aşezare, Trupul Valea Cișmelelor","sec. III p. Chr., Epoca romană"
+342,CT-I-s-B-02708,Aşezare,sat NICOLAE BĂLCESCU; comuna NICOLAE BĂLCESCU,"La N de sat, pe DJ Nicolae Bălcescu - Medgidia","sec. XIII - XII a. Chr., Epoca bronzului"
+343,CT-I-s-B-02709,Aşezare,sat NISIPARI; comuna CUZA VODĂ,La 4 km N de sat,"sec. I - III p. Chr., Epoca romană"
+344,CT-I-s-B-02710,Aşezare,sat NISTOREŞTI; comuna PANTELIMON,La 200 m N de sat,"sec. I - VI p. Chr., Epoca romană"
+345,CT-I-s-B-02711,Aşezare,sat NISTOREŞTI; comuna PANTELIMON,"La 1,5 km N de sat","sec. III - IV p. Chr., Epoca romană"
+346,CT-I-s-B-02712,Aşezare grecească,sat NUNTAŞI; comuna ISTRIA,La capătul de V al satului,"sec. VI - IV a. Chr., Latène"
+347,CT-I-s-B-02713,Aşezare rurală,sat NUNTAŞI; comuna ISTRIA,La 300 m SV de sat,"sec. II - III p. Chr., Epoca romană"
+348,CT-I-s-B-02714,Aşezare,sat NUNTAŞI; comuna ISTRIA,"Nuntaşi Băi, la 300 m","sec. IV - II a. Chr., Epoca elenistică"
+349,CT-I-s-B-02715,"Situl arheologic de la Nuntaşi, punct Nuntaşi Băi II Nuntaşi, punct Nuntaşi Băi",sat NUNTAŞI; comuna ISTRIA ISTRIA,"La 1 km N de Băile Nuntaşi, cca. 400 m SV de intersecţia DJ226 Năvodari - Mihai Viteazu cu DJ226A spre Histria",sec. I - III p. Chr. romano-bizantină
+351,CT-I-s-B-02717,"Situl arheologic ""Cetatea Altinum"" -Oltina",sat OLTINA; comuna OLTINA,"""Dealul Măciuca”",sec. IV - VI p. Chr.
+352,CT-I-m-B-02717.01,Cetatea Altinum,sat OLTINA; comuna OLTINA,"""Dealul Măciuca”","sec. IV - VI p. Chr., Epoca romano-bizantină"
+353,CT-I-m-B-02717.02,Cuptoare de ars ceramică,sat OLTINA; comuna OLTINA,"""Dealul Măciuca”","sec. IV - VI p. Chr., Epoca romano-bizantină"
+354,CT-I-s-A-02718,Ansamblu tumuli,sat OLTINA; comuna OLTINA,În perimetrul întregii comune,
+355,CT-I-s-A-02719,Situl arheologic Durostorum,sat OSTROV; comuna OSTROV,"""Regie”, în apropierea punctului de trecere peste Dunăre, pe malul drept, în dreptul punctului de trecere a frontierei la Silistra, Bulgaria",
+356,CT-I-m-A-02719.01,Necropolă,sat OSTROV; comuna OSTROV,"""Regie”, în apropierea punctului de trecere peste Dunăre, pe malul drept, în dreptul punctului de trecere a frontierei la Silistra, Bulgaria",Epoca medieval timpurie
+357,CT-I-m-A-02719.02,Canabele castrului Durostorum,sat OSTROV; comuna OSTROV,"""Regie”, în apropierea punctului de trecere peste Dunăre, pe malul drept, în dreptul punctului de trecere a frontierei la Silistra, Bulgaria","sec. II - IV p. Chr., Epoca romană"
+358,CT-I-m-A-02719.03,Necropolă Păcuiul lui Soare,sat OSTROV; comuna OSTROV OSTROV,"""Regie”, în apropierea punctului de trecere peste Dunăre, pe malul drept, în dreptul punctului de trecere a frontierei la Silistra, Bulgaria","sec. II - IV p. Chr., Epoca romană medieval timpurie"
+360,CT-I-s-B-02721,Necropolă,sat OSTROV; comuna OSTROV,În dreptul silozurilor fostului SMA - str. Almalăului 12-16,"sec. IV a. Chr., Hallstatt"
+361,CT-I-s-A-02722,Ansamblu tumuli,sat OSTROV; comuna OSTROV,În perimetrul întregii comune,Epoca antică
+362,CT-I-s-A-02723,Situl arheologic de la Ovidiu,oraş OVIDIU,"Pe malul lacului Siutghiol, în partea de SE a oraşului, la SV de insula Ovidiu",
+363,CT-I-m-A-02723.01,Castru,oraş OVIDIU,"Pe malul lacului Siutghiol, în partea de SE a oraşului, la SV de insula Ovidiu","sec. IV - VI p. Chr., Epoca romană"
+364,CT-I-m-A-02723.02,Aşezare,oraş OVIDIU,"Pe malul lacului Siutghiol, în partea de SE a oraşului, la SV de insula Ovidiu",Epoca romană
+365,CT-I-s-B-02724,Situl arheologic de la Palazu Mare,localitatea PALAZU MARE; municipiul CONSTANŢA,,
+366,CT-I-m-B-02724.01,Aşezare rurală,localitatea PALAZU MARE; municipiul CONSTANŢA,intravilan,"sec. II - IV p. Chr., Epoca romană"
+367, CT-I-m-B-02724.02, Necropolă, localitatea PALAZU MARE; municipiul CONSTANŢA,, Neolitic
+368,CT-I-s-B-02725,Aşezare,sat PALAZU MIC; comuna MIHAIL KOGĂLNICEANU,"""La pământul galben”, la 1 km NV de podul DN22 Constanţa-Tulcea peste Casimcea și 1 km de sat","sec. I - III p. Chr., Epoca romană timpurie"
+369,CT-I-s-A-02726,"Situl arheologic ""Cetatea Ulmetum"" de la Pantelimon",sat PANTELIMON; comuna PANTELIMON comuna PANTELIMON,"În vecinătatea de E a satului, la S de DJ226B DJ226B",sec. II - IV p. Chr. romană
+371,CT-I-m-A-02726.02,Castru de pământ,sat PANTELIMON; comuna PANTELIMON,"În vecinătatea de E a satului, la S de DJ226B","sec. II - IV p. Chr., Epoca romană"
+372,CT-I-m-B-02727,Aşezare rurală,sat PĂDURENI; comuna DOBROMIR,Intravilan,"sec. I - IV p. Chr., Epoca romană"
+373,CT-I-s-B-02728,Aşezare,sat PECINEAGA; comuna PECINEAGA,La cca 3 km E de sat,"sec. II - IV p. Chr., Epoca romană"
+374,CT-I-s-A-02729,Tumuli,sat PECINEAGA; comuna PECINEAGA,La 2-4 km SV de sat,Epoca antică
+375,CT-I-s-B-02730,Aşezare rurală,sat PETROŞANI; comuna DELENI,Intravilan şi la E de sat,"sec. II - IV p. Chr., Epoca romană"
+376,CT-I-s-B-02731,Aşezare,sat PIATRA; comuna MIHAIL KOGĂLNICEANU,"""Răţărie”, pe o peninsulă pe malul de al lacului Tașaul, la cca. 2,5 km SE de sat, la S de DC85 spre Luminița, com. Corbu","N sec. III a. Chr., Epoca elenistică"
+377,CT-I-s-B-02733,Situl arheologic de la Pietreni,sat PIETRENI; comuna DELENI,"La intrarea în sat dinspre Deleni (SV), Sola II C2",
+378, CT-I-m-B-02733.01, Villa rustica, sat PIETRENI; comuna DELENI," La intrarea în sat dinspre Deleni (SV), Sola II C2"," sec. III - IV p. Chr., Epoca romană"
+379,CT-I-m-B-02733.02,Mormânt de înhumaţie,sat PIETRENI; comuna DELENI,"La intrarea în sat dinspre Deleni (SV), Sola II C2","sec. III - IV p. Chr., Epoca romană"
+380,CT-I-s-A-02734,Tumuli,sat PIETRENI; comuna DELENI,În perimetrul întregii localități,Epoca antică
+381,CT-I-s-B-02735,Situl arheologic de la Plopeni,sat PLOPENI; comuna CHIRNOGENI CHIRNOGENI,"La 6 km V de sat Credinţa, între acesta şi satul Plopeni", timpurie
+383,CT-I-m-B-02735.02,Fortificaţie,sat PLOPENI; comuna CHIRNOGENI,"La 6 km V de sat Credinţa, între acesta şi satul Plopeni","sec. IV - VI p. Chr., Epoca romano-bizantină"
+384,CT-I-m-A-02558.06,Fortificaţie din sistemul marelui val de pământ,sat POARTA ALBĂ; comuna POARTA ALBA,"Valul mare de pământ, cu fortificații - apare în NV teritoriului administrativ, E de cariera Lafarge Medgidia, apoi un tronson pe direcția NV-SE, la N de satul Poarta Albă și la S de Penitenciarul Poarta Albă, la N de Canalul Poarta Albă-Midia, Năvodari, la E de satul Poarta Albă, la limita cu teritoriul administrativ al orașului Murfatlar","sec. VI p. Chr., Epoca la medieval timpurie"
+385,CT-I-m-A-02559.05,Valul de piatră,sat POARTA ALBĂ; comuna POARTA ALBĂ,Prin capătul de S al satului Poarta Albă,"sec. X, Epoca medieval timpurie"
+386,CT-I-s-B-02736,Situl arheologic de la Rasova,sat RASOVA; comuna RASOVA,"""Malul Roşu”, la 1,5 km NE de sat, pe malul Dunării, la N de DJ223",
+387,CT-I-m-B-02736.01,Aşezare,sat RASOVA; comuna RASOVA,"""Malul Roşu”, la 1,5 km NE de sat, pe malul Dunării, la N de DJ223","sec. VIII - X, Epoca medieval timpurie"
+388,CT-I-m-B-02736.02,Aşezare,sat RASOVA; comuna RASOVA,"""Malul Roşu”, la 1,5 km NE de sat, pe malul Dunării, la N de DJ223",Epoca romană
+389,CT-I-m-B-02736.03,Aşezare,sat RASOVA; comuna RASOVA,"""Malul Roşu”, la 1,5 km NE de sat, pe malul Dunării, la N de DJ223","sec. VI a. Chr., Hallstatt"
+390,CT-I-s-B-02737,Sistem de castre,sat RASOVA; comuna RASOVA,"La 2,5 km E de sat, deasupra văii Caramancea","sec. II - IV p. Chr., Epoca romană"
+391,CT-I-m-B-02738,"Fortificaţie Rasova, punct ""Pescărie""",sat RASOVA; comuna RASOVA RASOVA,În vatra satului lacului Baciu,"sec. X, Epoca medieval timpurie"
+393,CT-I-m-B-02739.01,Aşezare fortificată,sat RASOVA; comuna RASOVA,"""Pescărie”, la 3 km SV de sat, pe malul lacului Baciu","sec. VIII - X, Epoca medieval timpurie"
+394,CT-I-m-B-02739.02,Aşezare,sat RASOVA; comuna RASOVA,"""Pescărie”, la 3 km SV de sat, pe malul lacului Baciu","sec. II - III p. Chr., Epoca romană"
+395,CT-I-s-A-02740,Tumuli,sat RASOVA; comuna RASOVA,În perimetrul întregii comune,Epoca antică
+396,CT-I-s-B-02741,Grotă cu inscripţii latine,sat RÂMNICU DE JOS; comuna COGEALAC,"""Chirişlic”","sec. I - III p. Chr., Epoca romană"
+397,CT-I-m-A-02557.03,Valul mic de pământ,sat REMUS OPREANU; municipiul MEDGIDIA,"La aprox. 2 km S de satul Remus Opreanu, în zona DJ222 Medgidia- Peștera","sec. VI p. Chr., Epoca romană"
+398,CT-I-m-B-02742,Stânci cu cruci gravate,sat REMUS OPREANU; municipiul MEDGIDIA,La intersecţia Văii Alibei-Ceair cu Valea Carasu,"sec. VIII - IX, Epoca medieval timpurie"
+399,CT-I-s-A-02743,Situl arheologic de la Satu Nou,sat SATU NOU; comuna OLTINA,,
+400,CT-I-m-B-02743.01,Aşezare fortificată,sat SATU NOU; comuna OLTINA,"""La Cetate”, la 3 km N de sat, pe malul Dunării; ""Capul Dealului""","sec. X - XI, Epoca medieval timpurie"
+401,CT-I-m-B-02743.02,Necropolă de incineraţie,sat SATU NOU; comuna OLTINA,"""La armane”","sec. IX - X, Epoca medieval timpurie"
+402,CT-I-m-A-02743.03,"Aşezarea fortificată ""Dava""",sat SATU NOU; comuna OLTINA,"""Valea lui Voicu”, la 3 km N de sat, pe malul Dunării","sec. III - I a. Chr., Latène, Cultura geto - dacică"
+403,CT-I-m-A-02743.04,Fortificaţie de tip ”dava”,sat SATU NOU; comuna OLTINA comuna OLTINA,"""Vadul vacilor”, la 3 km NNV de sat şi 300 m în amonte de ""Valea lui Voicu"", pe malul Dunării la 4 km NV de Oltina","la sec. II a. Chr., Latène, Cultura geto - dacică medieval timpurie"
+405,CT-I-s-B-02744,Aşezare,sat SĂCELE; comuna SĂCELE,La 300 m E de sat,"sec. III - II a. Chr., Epoca elenistică"
+406,CT-I-s-B-02745,Aşezare,sat SĂCELE; comuna SĂCELE,La 300 m SE de sat,"sec. I - III p. Chr., Epoca romană timpurie"
+407,CT-I-s-B-02746,Fortificaţie,sat SEIMENI; comuna SEIMENI,"În partea de N a fermei piscicole Domneasca, spre malul Dunării, la cca. 300 m","sec. IV - VI p. Chr., Epoca romano-bizantină"
+408,CT-I-s-B-02747,Aşezare,sat SEIMENI; comuna SEIMENI,"Între bazinele piscicole ""Domneasca Mare"" şi ""Domneasca Mică"", la N de acestea, la cca. 1,3 km SE de sat","sec. IX - X, Epoca medieval timpurie"
+409,CT-I-s-B-02748,Aşezare fortificată,sat SEIMENII MICI; comuna SEIMENI,"La cca. 1 km S de sat, pe terasa de N a fostului lac Ramadan (fosta parte de V lacului Țibrinu)","sec. IX - XI, Epoca a medieval timpurie"
+410,CT-I-s-A-02749,Tumuli,sat SEIMENII MICI; comuna SEIMENI,În perimetrul întregii localităţi,Epoca antică
+411,CT-I-s-B-02750,Aşezare,sat SIBIOARA; comuna LUMINA,"Pe o peninsulă pe malul de V al lacului Taşaul, în apropierea fermei de animale, la cca 1,5 km NNE de sat","sec. I - IV p. Chr., Epoca romană"
+412,CT-I-s-A-02751,Tumuli,sat SIBIOARA; comuna LUMINA,În perimetrul satului,Epoca antică
+413,CT-I-s-B-02752,Situl arheologic de la Sinoe,sat SINOE; comuna MIHAI VITEAZU,"""Peninsula Sinoe”, la 4,3-5 km E de sat, pe Dealul Cale",
+414,CT-I-m-B-02752.01,Aşezare,sat SINOE; comuna MIHAI VITEAZU MIHAI VITEAZU,"""Peninsula Sinoe”, la 4,3-5 km E de sat, pe Dealul Cale pe Dealul Cale","sec. III - IV p. Chr., Epoca romană Cultura greacă"
+416,CT-I-m-B-02752.03,Val,sat SINOE; comuna MIHAI VITEAZU,"""Peninsula Sinoe”, la 4,3-5 km E de sat, pe Dealul Cale","sec. VI - V a. Chr., Latène, Cultura greacă"
+417,CT-I-s-B-02753,Aşezare,sat STEJARU; comuna SARAIU,"""La piatra”","sec. V - VI p. Chr., Epoca romano-bizantină"
+418,CT-I-s-B-02754,Situl arheologic de la Stejaru,sat STEJARU; comuna SARAIU,Pe versantul sudic al văii Dulgheru,
+419,CT-I-m-B-02754.01,Aşezare,sat STEJARU; comuna SARAIU,Pe versantul sudic al văii Dulgheru,"sec. XIV - XI a. Chr., Epoca bronzului târziu, Cultura Noua"
+420,CT-I-m-B-02754.02,Aşezare,sat STEJARU; comuna SARAIU,Pe versantul sudic al văii Dulgheru,"sec. XV - XII a. Chr., Epoca bronzului târziu, Cultura Coslogeni"
+421,CT-I-s-B-02755,Aşezare,sat STRAJA; comuna CUMPĂNA,La 1 km V de sat,"sec. II - III p. Chr., Epoca romană"
+422,CT-I-s-B-20169,Castru adiacent valului de piatră,sat STRAJA; comuna CUMPĂNA,,"sec. IX - X, Epoca medieval timpurie"
+423, CT-I-s-B-02756, Aşezare fortificată, sat STUPINA; comuna CRUCEA," ""La derea”, în marginea de E a satului"," sec. IX - XII, Epoca medieval timpurie"
+424,CT-I-s-B-02757,Aşezare,sat TARIVERDE; comuna COGEALAC,"La marginea de S a localităţii, pe malul pârâului Yuman-Dere","sec. VI a. Chr. - sec. I p. Chr., Latène, Cultura greco - getică"
+425,CT-I-s-B-02758,Situl arheologic de la Târguşor,sat TÂRGUŞOR; comuna TÂRGUŞOR comuna TÂRGUŞOR,"De-a lungul căii ferate Târguşor- Cogealac, la ENE de Halta CFR Târguşor și pe DC81, VSV de sat Gura Dobrogei Cogealac, la ENE de Halta CFR Târguşor", medievală
+427,CT-I-m-B-02758.02,Necropolă,sat TÂRGUŞOR; comuna TÂRGUŞOR,"De-a lungul căii ferate Târguşor- Cogealac, la ENE de Halta CFR Târguşor și pe DC81, VSV de sat Gura Dobrogei","sec. XVII - XVIII, Epoca medievală"
+428,CT-I-s-B-02759,Aşezare,sat TÂRGUŞOR; comuna TÂRGUŞOR,"""Urs”, la 4 km SE de sat și cca 700 m NV de Ferma de animale","mil. V a. Chr., Neolitic, Cultura Hamangia"
+429,CT-I-s-B-02760,Aşezare,oraş TECHIRGHIOL,"""Dealul Minerva”, în marginea de NE oraşului, pe malul lacului Techirghiol","a mil. V a. Chr., Neolitic, Cultura Hamangia"
+430,CT-I-s-B-02761,Situl arheologic de la Techirghiol,oraş TECHIRGHIOL,"La 1,5 km de fosta carieră Techirghiol",
+431,CT-I-m-B-02761.01,Aşezare,oraş TECHIRGHIOL,"La 1,5 km de fosta carieră Techirghiol","sec. I - VI p. Chr., Epoca romană"
+432,CT-I-m-B-02761.02,Aşezare,oraş TECHIRGHIOL,"La 1,5 km de fosta carieră Techirghiol","mil. IV a. Chr., Epipaleolitic"
+433,CT-I-s-B-02762,"Situl arheologic de la Techirghiol, punct ""Urluchioi""",oraş TECHIRGHIOL,În jurul golfului Urluchioi,
+434,CT-I-m-B-02762.01,Aşezare,oraş TECHIRGHIOL,În jurul golfului Urluchioi,"sec. I - VI p. Chr., Epoca romană"
+435,CT-I-m-B-02762.02,Aşezare,oraş TECHIRGHIOL,În jurul golfului Urluchioi,"mil. IV a. Chr., Neolitic, Cultura Hamangia"
+436,CT-I-s-B-02763,Cetate de pământ,sat TICHILEŞTI; comuna HORIA,În marginea de S a satului,"sec. VI - V a. Chr., Hallstatt"
+437,CT-I-s-B-02764,Cetate,sat TOPALU; comuna TOPALU SĂCELE,"""Stânca”, la cca 5 km N de sat","sec. II - IV p. Chr., Epoca romană elenistică"
+439,CT-I-s-B-02766,Aşezare,sat TRAIAN; comuna SĂCELE,"La 2,5 km E-SE de sat","sec. I - IV p. Chr., Epoca romană"
+440,CT-I-s-B-02767,Aşezare,sat TRAIAN; comuna SĂCELE,"""Valea lui Costea”","sec. X - XI, Epoca migraţiilor"
+441,CT-I-s-A-02768,Tumuli,sat TRAIAN; comuna SĂCELE,În perimetrul satului,Epoca antică
+442,CT-I-s-B-02769,"Situl arheologic ""Stratonis"" - Tuzla",sat TUZLA,"Capul Tuzla, la 50-150 m S de farul Tuzla, pe malul mării, la cca. 2 km E de sat",
+443,CT-I-m-B-02769.01,Aşezarea Stratonis,sat TUZLA,"Capul Tuzla, la 50-150 m S de farul Tuzla, pe malul mării, la cca. 2 km E de sat","sec. V - VI p. Chr., Epoca romano-bizantină"
+444,CT-I-m-B-02769.02,Aşezare,sat TUZLA,"Capul Tuzla, la 50-150 m S de farul Tuzla, pe malul mării, la cca. 2 km E de sat","sec. III a. Chr., Latène"
+445,CT-I-s-B-02770,Aşezare,sat TUZLA,"La 2,5 km V de satul Tuzla şi la cca. 1 km S de Lacul Techirghiol","sec. III - IV p. Chr., Epoca romană"
+446,CT-I-s-B-02771,Aşezare,sat TUZLA,"Între golfurile ""Tuzla Mică"" şi ""Tuzla Mare"", pe malul de S al lacului Techirghiol, la V de peninsula cu turnul TV","sec. II - III p. Chr., Epoca romană"
+447,CT-I-s-B-02772,Situl arheologic de la Tuzla,sat TUZLA,"Pe peninsula aflată la V de golful Tuzla Mare, pe malul de SV al lacului Techirghiol, la cca 4 km V de satul Tuzla Mare, pe malul de SV al lacului",
+449,CT-I-m-B-02772.02,Val,sat TUZLA,"Pe peninsula aflată la V de golful Tuzla Mare, pe malul de SV al lacului Techirghiol, la cca 4 km V de satul Tuzla",Epoca romană
+450,CT-I-m-B-02772.03,Şanţ de apărare,sat TUZLA,"Pe peninsula aflată la V de golful Tuzla Mare, pe malul de SV al lacului Techirghiol, la cca 4 km V de satul Tuzla",Epoca romană
+451,CT-I-m-B-02772.04,Aşezare,sat TUZLA,"Pe peninsula aflată la V de golful Tuzla Mare, pe malul de SV al lacului Techirghiol, la cca 4 km V de satul Tuzla",Preistorie
+452,CT-I-s-B-02773,"Situl arheologic de la Vadu, punct ""Ghiaur - Chioi”",sat VADU; comuna CORBU,"""Ghiaur - Chioi”, la 2 km N de Intreprinderea de Metale Rare, pe promontoriu, la coada de S a lacului Sinoe",
+453,CT-I-m-B-02773.01,Aşezare,sat VADU; comuna CORBU,"""Ghiaur - Chioi”, la 2 km N de Intreprinderea de Metale Rare, pe promontoriu, la coada de S a lacului Sinoe","sec. XVI - XVIII, Epoca medievală"
+454,CT-I-m-B-02773.02,Necropolă,sat VADU; comuna CORBU,"""Ghiaur - Chioi”, la 2 km N de Intreprinderea de Metale Rare, pe promontoriu, la coada de S a lacului Sinoe","sec. XVI - XVIII, Epoca medievală"
+455,CT-I-m-B-02773.03,Aşezare,sat VADU; comuna CORBU CORBU,"""Ghiaur - Chioi”, la 2 km N de Intreprinderea de Metale Rare, pe promontoriu, la coada de S a lacului Sinoe Intreprinderea de Metale Rare, pe","sec. VI - IV a. Chr., Cultura greco - getică"
+457,CT-I-s-B-02774,Cetatea Karaharman,sat VADU; comuna CORBU,În curtea Intreprinderii de Metale Rare,sec. XVII - XIX
+458,CT-I-s-B-02775,Aşezare rurală,sat VADU; comuna CORBU,"""Pepiniera”, la 2 km NV de sat","sec. II - III p. Chr., Epoca romană"
+459,CT-I-s-B-02776,Vicus Celeris,sat VADU; comuna CORBU,"La 1,5 km S de sat","sec. II - IV p. Chr., Epoca romană"
+460,CT-I-s-B-02777,Aşezare,sat VADU; comuna CORBU,"Pe malul insulei Chituc, la 5 km NE de sat","sec. II - IV p. Chr., Epoca romană"
+461,CT-I-s-B-02778,"Situl arheologic de la Vadu, punct ""Bardalia""",sat VADU; comuna CORBU,"""Bardalia”, la 2 km S de sat, la E de pichetul de grăniceri Vadu",
+462,CT-I-m-B-02778.01,Aşezare,sat VADU; comuna CORBU,"""Bardalia”, la 2 km S de sat, la E de pichetul de grăniceri Vadu","sec. IV - VI p. Chr., Epoca romano-bizantină"
+463,CT-I-m-B-02778.02,Aşezare,sat VADU; comuna CORBU,"""Bardalia”, la 2 km S de sat, la E de pichetul de grăniceri Vadu","sec. II - IV p. Chr., Epoca romană"
+464, CT-I-m-A-02557.04, Valul mic de pământ, localitatea VALEA DACILOR; municipiul MEDGIDIA, Prin marginea de SV și S a satului Valea Dacilor," sec. VI p. Chr., Epoca romană"
+465,CT-I-m-A-02557.06,Valul mic de pământ,sat VALU LUI TRAIAN; comuna VALU LUI TRAIAN,"La 2,5 km S de satul Valu lui Traian, pe direcție VSV-ENE, începând din zona podului pe A3 peste Canal Dunăre Marea Neagră","sec. VI p. Chr., Epoca romană"
+466,CT-I-m-A-02557.07,Valul mic de pământ,sat VALU LUI TRAIAN; comuna VALU LUI,Trece pe la aprox. 2.5 km S de gara CFR Valu lui Traian,"sec. VI p. Chr., Epoca romană"
+467,CT-I-m-A-02558.04,Valul mare de pământ,sat VALU LUI TRAIAN; comuna VALU LUI TRAIAN,"La 2 km N de satul Valu lui Traian, pe direcția VNV-ESE","sec. IX, Epoca medieval timpurie"
+468,CT-I-m-A-02559.07,Valul de piatră,sat VALU LUI TRAIAN; comuna VALU LUI TRAIAN,"Intră în sat în zona de NV, străbătând satul pe direcția VNV-ESE","sec. X, Epoca medieval timpurie"
+469,CT-I-m-A-02559.08,Valul de piatră,sat VALU LUI TRAIAN; comuna VALU LUI TRAIAN,"Iese din sat la limita de SSE apoi continuă pe direcția VSV-ENE prin teritoriul administrativ, trecând la cca km S de Gara CF Valu lui Traian","sec. X, Epoca medieval timpurie 2"
+470,CT-I-s-B-02779,Situl arheologic de la Vama Veche,sat VAMA VECHE; comuna LIMANU,La N de sat,
+471,CT-I-m-B-02779.01,Aşezare,sat VAMA VECHE; comuna LIMANU,La N de sat,"sec. I - III p. Chr., Epoca romană"
+472,CT-I-m-B-02779.02,Aşezare,sat VAMA VECHE; comuna LIMANU,La N de sat,"sec. III - I a. Chr., Latène, Cultura greacă"
+473,CT-I-s-A-02780,Situl arheologic de la Vârtop,sat VÂRTOP; comuna ALBEŞTI,La 700 - 800 m NE de sat și la 300 m NE de fostele magazii ale CAP,sec. I - III p. Chr.
+474,CT-I-m-A-02780.01,Necropolă tumulară,sat VÂRTOP; comuna ALBEŞTI,La 700 - 800 m NE de sat și la 300 m NE de fostele magazii ale CAP,"sec. I - III p. Chr., Epoca romană"
+475,CT-I-m-A-02780.02,Mormânt hypogeu,sat VÂRTOP; comuna ALBEŞTI,La 700 - 800 m NE de sat și la 300 m NE de fostele magazii ale CAP,"sec. I - III p. Chr., Epoca romană"
+476,CT-I-s-B-02781,Aşezare,sat ZORILE; comuna ADAMCLISI CONSTANŢA,"""Groapa cu albeala”, la 2 km S de sat","sec. IV - III a. Chr., Latène"
+478,CT-II-m-B-02783,"Fosta Gară maritimă, sediul Companiei Naţionale Administraţia Porturilor Maritime Constanţa",municipiul CONSTANŢA,"Portul Constanţa, dana 11-12",1930 - 1935
+479,CT-II-m-B-02784,"Bursa veche, azi clădire birouri",municipiul CONSTANŢA,"Portul Constanţa, dana 17",1905 - 1910
+480,CT-II-m-B-02785,Uzina Electrică şi sediu Sucursala Energetică Port,municipiul CONSTANŢA,"Portul Constanţa, dana 17",1900 - 1905
+481,CT-II-a-A-02786,Silozurile Anghel Saligny (3),municipiul CONSTANŢA,"Portul Constanţa,danele 17- 18","1904 - 1909, 1912 - 1915"
+482,CT-II-m-B-02787,Cişmea,municipiul CONSTANŢA,"Bd. Tomis colţ cu Bd. Aurel Vlaicu, în incinta R.A.J.A. - Complex ""Cişmea""",1864
+483,CT-II-s-B-02811,"Situl urban ""Zona comercială centrală""",municipiul CONSTANŢA,"Bd. Ferdinand (Faleza-Atelierelor), Cuza Vodă, Ştefan cel Mare, Atelierelor, Duca I. Gh., Jupiter, Mercur, Lazăr Ghe., Mihăileanu Şt., Romulus P., Enescu G., Voronca I.,, Mihai Viteazu, Miron Costin, Lahovary I., Siretului, G-ral Manu, Răscoala 1907, Bd. Tomis, Kogălniceanu M., Mircea cel Bătrân",
+484,CT-II-s-B-02820,Sit urban,municipiul CONSTANŢA,"Bd. Mamaia (front NV - Duca I. Gh. - Răscoala 1907), str. Duca I. Ghe., Mihăileanu Şt., Remus, Romulus, Mihai Viteazu, Lahovary I., G-ral Manu, Bolintineanu D., Sabinelor, Vladimirescu T.,Ţepeş Vodă, Călugăreni, Călăraşi, Castanilor,, Dobrogeanu Gherea, Mr. Murea Gh.,",
+485,CT-II-s-B-02821,Sit urban,municipiul CONSTANŢA,"Bd. Mamaia (front NV - între str. Bucovinei şi str. Raţiu I.), str. Mircea cel Bătrân (între str. Munteniei şi str. Iorga N.) Calomfirescu, Andreescu, Vlaicu Vodă, dr. Sadoveanu, Adam Ion, Moldovei, Bucovinei, Maramureş, Romană,, Chiliei, Munteniei, Vasile Lupu, Alexandru cel Bun, Dumbrava Roşie, Bogdan Vodă, Iorga N., Bălcescu N., Vulcan Petru, Crişanei",
+486,CT-II-s-B-02832,"Situl urban ""Zona peninsulară Constanţa""",municipiul CONSTANŢA,"Faleza Cazino, Poarta 1, Faleza Port Tomis, Faleza plaja Modern, bd. Ferdinand până la str. Atelierelor, str. Traian, bd. Termele Romane (fost Marinarilor)",
+487,CT-II-a-B-02832.02,"Situl urban ""Zona peninsulară Constanţa""",municipiul CONSTANŢA,"Str. Ovidiu, Titulescu, Arhiepiscopiei, Mr. Şonţu, Revoluţiei 1989",
+488, CT-II-a-B-02832.03," Situl urban ""Zona peninsulară Constanţa"" peninsulară Constanţa""", municipiul CONSTANŢA CONSTANŢA," Bd. Tomis (Piata Ovidiu-Ferdinand), Mircea cel Bătrân (Piaţa Ovidiu- Ferdinand), Marc Aureliu, Orientului, Petru Rareş, Cantemir, Rosetti C.A., Sulmona, Doinei,, Callatis, Ţurcanu V. Poştei, Vântului, Zambaccian K., Karatzali A., Alecsandri V., Negru Vodă, Dragoş Vodă, Plevnei, Varga Ecaterina, Kogălniceanu M.(până la Bd.Ferdinand) Basarab, 9 Mai, Dianei, Crângului, Aleea",
+490,CT-II-s-B-02842,Sit urban,municipiul CONSTANŢA,"Str. Ştefan cel Mare, Saligny A., Griviţa, Brătescu C., Sarmizegetusa, Dacia, Decebal, Bolintineanu D., Sabinelor, Abdulachim K., Vladimirescu T., Avram Iancu, Atelierelor, Olteniei, Duca I. Gh., Jupiter, Mercur, Lazăr Gh., Mihăileanu Şt., Romulus P., Enescu G., Voronca I., Mihai Viteazul, Miron Costin, Lahovary I., Siretului, G-ral Manu, Răscoala 1907, Bd. Tomis, Kogălniceanu M., Mircea cel Bătrân, Smârdan, Bănescu I., Puşkin, Pârvan V., Eminescu M., Eroilor, Bd. Mamaia (nr. 2-52)",
+491,CT-II-a-B-02832.01,"Situl urban ""Zona peninsulară Constanţa""",municipiul CONSTANŢA,"Str. Opreanu Remus, Bd. Elisabeta, Dr Cantacuzino, Georgescu Cristea, Dr. Reiner, Brâncoveanu C., Horia, Eminescu M., Luntrei",
+492,CT-II-m-B-02788,Casă,municipiul CONSTANŢA,Str. Alecsandri Vasile 10,1920 - 1925
+493,CT-II-m-B-02789,Oficiu ROMTELECOM,municipiul CONSTANŢA,Str. Alecsandri Vasile 12,1930 - 1940
+494,CT-II-m-B-02790,"""Casa funcţiei"" - M.A.N.",municipiul CONSTANŢA,Str. Arhiepiscopiei 5,înc. sec. XX
+495,CT-II-m-B-02791,"Bancă, azi Sediul B. R. D. - Société Générale Tomisului",municipiul CONSTANŢA CONSTANŢA,Str. Arhiepiscopiei 9,1920 - 1930
+497,CT-II-m-A-02793,"Catedrala ortodoxă ""Sf. Apostoli Petru şi Pavel”",municipiul CONSTANŢA,Str. Arhiepiscopiei 25,1884 - 1885
+498,CT-II-m-A-02794,Biserica armenească ”Sf. Maria”,municipiul CONSTANŢA,Str. Callatis 1,1880
+499,CT-II-m-B-02795,Casă,municipiul CONSTANŢA,Str. Callatis 6,1920
+500,CT-II-m-A-02796,Moscheea Carol I,municipiul CONSTANŢA,Str. Crângului 1,1910 - 1912
+501,CT-II-a-B-02797,Ansamblu de două case,municipiul CONSTANŢA,"Str. Cuza Vodă 30, 32",1906
+502,CT-II-m-B-02797.01,Casă,municipiul CONSTANŢA,Str. Cuza Vodă 30,1906
+503,CT-II-m-B-02797.02,Casă,municipiul CONSTANŢA,Str. Cuza Vodă 32,1906
+504,CT-II-m-A-02798,"""Casa cu lei"", fosta casă Emirzian",municipiul CONSTANŢA,Str. Dianei 1,1898 - 1902
+505,CT-II-m-B-02799,Casă,municipiul CONSTANŢA,Str. Dragoş Vodă 8,înc. sec. XX
+506,CT-II-m-A-02800,"Farul ""Genovez""",municipiul CONSTANŢA,"Bd. Elisabeta, intersecţia cu str. Opreanu Remus",1860 - 1861
+507,CT-II-m-B-02802,Casă,municipiul CONSTANŢA,Bd. Elisabeta 3,1902
+508,CT-II-m-A-02801,Cazino,municipiul CONSTANŢA CONSTANŢA,Bd. Elisabeta 4,1910
+510,CT-II-m-A-02804,"Casa Cănănău, azi Consulat Chinez",municipiul CONSTANŢA,Bd. Elisabeta 7,1913 - 1926
+511,CT-II-m-B-02805,"Casa Zottu, azi Sediu ING BARING",municipiul CONSTANŢA,Bd. Elisabeta 9,1904
+512,CT-II-m-B-02806,Casă,municipiul CONSTANŢA,Bd. Elisabeta 15,înc. sec. XX
+513,CT-II-m-A-02807,"Casa Șomănescu, azi Sediu COSENA S.A.",municipiul CONSTANŢA,Bd. Elisabeta 17,1903
+514,CT-II-m-B-02808,"Casa N. Pilescu, azi reşedinţa arhiepiscopală",municipiul CONSTANŢA,Bd. Elisabeta 21,1903
+515,CT-II-a-B-02809,Ansamblu de două case,municipiul CONSTANŢA,Str. Enescu George 6-8,înc. sec. XX
+516,CT-II-m-B-02809.01,Casă,municipiul CONSTANŢA,Str. Enescu George 6,înc. sec. XX
+517,CT-II-m-B-02809.02,Casă,municipiul CONSTANŢA,Str. Enescu George 8,înc. sec. XX
+518,CT-II-m-B-02810,Geamie,municipiul CONSTANŢA,Str. Farului 22A sector Cartier Anadolchioi,1870
+519,CT-II-m-B-02812,Casă,municipiul CONSTANŢA,Bd. Ferdinand 16,înc. sec. XX
+520,CT-II-m-B-02835,"Biserica ""Sf. Gheorghe”",municipiul CONSTANŢA,Str. Iorga Nicolae 12,1905 - 1911
+521,CT-II-m-A-02813,Casă pentru copii şi tineret,municipiul CONSTANŢA CONSTANŢA,Str. Karatzali Aristide 7,1890
+523,CT-II-m-B-02815,"Casa avocat Traian Bellu, azi Hotel",municipiul CONSTANŢA,Str. Kogălniceanu Mihail 15,1930
+524,CT-II-m-B-02816,"Vila Constantinidi, azi birouri Inspectoratul Şcolar Judeţean",municipiul CONSTANŢA,Str. Kogălniceanu Mihail 22,1905
+525,CT-II-m-B-02817,Casă,municipiul CONSTANŢA,Str. Lahovary Ion 2,1905
+526,CT-II-m-A-02818,"Biserica ""Adormirea Maicii Domnului”",municipiul CONSTANŢA,Str. Lahovary Ion 18,1905 - 1911
+527,CT-II-m-B-02822,Casă,municipiul CONSTANŢA,Str. Marc Aureliu 10,1913
+528,CT-II-m-B-02823,"Biserica ""Sf. Împăraţi Constantin şi Elena”",municipiul CONSTANŢA,Str. Mihăileanu Ştefan 66,1934 - 1937
+529,CT-II-m-B-02824,Casă,municipiul CONSTANŢA,Str. Mircea cel Bătrân 5,înc. sec. XX
+530, CT-II-m-A-02825, Casă, municipiul CONSTANŢA, Str. Mircea cel Bătrân 30, 1897
+531,CT-II-m-A-02826,"Biserica ""Schimbarea la faţă"", fosta biserică greacă ""Metamorphosis”",municipiul CONSTANŢA,Str. Mircea cel Bătrân 36,"1868, modif. 1947"
+532,CT-II-m-B-02827,Casă,municipiul CONSTANŢA,Str. Negru Vodă 8,înc. sec. XX
+533,CT-II-m-A-02828,"Sediul Comandamentului Marinei Militare, fost Hotel",municipiul CONSTANŢA CONSTANŢA,Str. Opreanu Remus 13,1879 - 1882
+535,CT-II-m-B-02830,Casă,municipiul CONSTANŢA,Piaţa Ovidiu 6,1890
+536,CT-II-m-A-02831,"Muzeul de Istorie Naţională şi Arheologie Constanţa, fostul Palat Comunal",municipiul CONSTANŢA,Piaţa Ovidiu 12,1913 - 1921
+537,CT-II-m-A-02833,Internatul Colegiului Naţional Pedagogic “Constantin Brătescu”’,municipiul CONSTANŢA,"Str. Răscoala din 1907, 44-46",1910 - 1914
+538,CT-II-m-B-02834,"Fost hotel, azi Banca Naţională Filiala Constanţa",municipiul CONSTANŢA,"Str. Revoluţiei din 22 decembrie 1989, 1",1913
+539,CT-II-m-B-02836,Casa Teodorou Rousou,municipiul CONSTANŢA,Str. Rosetti C.A. 6,1887
+540,CT-II-m-A-02837,"""Casa de piatră"", fosta Casa Alleon",municipiul CONSTANŢA,Str. Rosetti C.A. 7,1882 - 1884
+541,CT-II-m-B-02838,Casă,municipiul CONSTANŢA,Str. Siretului 4,sf. sec. XIX
+542, CT-II-m-B-02839, Casă, municipiul CONSTANŢA, Str. Sulmona 10, 1890
+543,CT-II-m-B-02840,Grădiniţa nr. 16,municipiul CONSTANŢA,Str. Sulmona 19,sf. sec. XIX
+544,CT-II-m-A-02841,"Biserica ""Sf. Nicolae"", fostă bulgară",municipiul CONSTANŢA,Str. Şonţu Maior 7,1890
+545,CT-II-m-B-02843,Hanul Balcan,municipiul CONSTANŢA CONSTANŢA,Str. Ştefan cel Mare 84,înc. sec. XX
+547,CT-II-m-B-02844,Fost hotel,municipiul CONSTANŢA,Str. Titulescu Nicolae 7,1909
+548,CT-II-m-B-02845,"Hotel ""Intim""",municipiul CONSTANŢA,Str. Titulescu Nicolae 9,1906 - 1909
+549,CT-II-m-A-02846,"Biserica catolică ""Sf. Anton""",municipiul CONSTANŢA,Str. Titulescu Nicolae 11,1937 - 1938
+550,CT-II-m-B-02847,Casă,municipiul CONSTANŢA,Str. Titulescu Nicolae 12,1926
+551,CT-II-m-B-02848,Casă,municipiul CONSTANŢA,Str. Titulescu Nicolae 17,sf. sec. XIX
+552,CT-II-m-B-02849,Casa Manicatide,municipiul CONSTANŢA,Str. Titulescu Nicolae 36,1899
+553,CT-II-m-A-02850,"Muzeul de Artă Populară, fosta Poşta veche",municipiul CONSTANŢA,Bd. Tomis 32,1896
+554,CT-II-m-A-02851,Geamia Hunchiar,municipiul CONSTANŢA,Bd. Tomis 41,1862
+555,CT-II-m-A-02852,"Muzeul de Artă - clădirea veche, fosta şcoală",municipiul CONSTANŢA,Bd. Tomis 82,1893
+556,CT-II-m-B-02853,Casă,municipiul CONSTANŢA,Bd. Tomis 86,1911
+557,CT-II-m-B-21100,Casa ”Ion Bănescu”,municipiul CONSTANȚA,Bd. Tomis 110,
+558,CT-II-m-B-02854,Casă Eminescu”,municipiul CONSTANŢA CONSTANŢA,Str. Traian 17,sf. sec. XIX
+560,CT-II-m-A-02856,"Cercul Militar Constanţa, fosta Prefectură",municipiul CONSTANŢA,Str. Traian 29,1903 - 1904
+561,CT-II-m-A-02857,"Tribunalul Constanţa, fosta Reşedinţă regală",municipiul CONSTANŢA,Str. Traian 31,1904 - 1906
+562,CT-II-m-A-02858,Tribunalul Constanţa,municipiul CONSTANŢA,Str. Traian 33,1908 - 1912
+563,CT-II-m-A-02859,"Muzeul Marinei Române, fosta Şcoala de Marină",municipiul CONSTANŢA,Str. Traian 53,1908 - 1909
+564,CT-II-m-B-02860,Casa Zafirios Kyryakos,municipiul CONSTANŢA,Str. Varga Ecaterina 21,1894
+565,CT-II-m-B-02861,Casă,municipiul CONSTANŢA,Str. Varga Ecaterina 23,1884
+566,CT-II-m-B-02862,Vilă,municipiul CONSTANŢA,Stradela Vântului 6,1912
+567,CT-II-m-A-02863,Vila Mihail C. Sutzu,municipiul CONSTANŢA,Str. Zambaccian Krikor 1,1899
+568,CT-II-m-B-02864,Geamia,sat AMZACEA; comuna AMZACEA,"Str. Geamiei, la 500 m S de D.N 38",1850 - 1858
+569,CT-II-m-B-02882,Mănăstirea Dervent,sat CANLIA; comuna LIPNIŢA,"Extravilan, la V de satul Canlia, pe frontul nordic al DN 3 Constanţa- Ostrov, în zona satului Galiţa din comuna Ostrov",1936 - 1942
+570,CT-II-m-A-02872,"Podul Carol I cu statuile ""Dorobanţii""",oraş CERNAVODĂ,"Pod peste Dunăre, lângă gara C.F.R. Cernavodă Bălcescu N., Asachi Gh., Canalului,",1890 - 1895
+572,CT-II-m-A-02873,"Biserica ""Sf. Împăraţi Constantin şi Elena""",oraş CERNAVODĂ,Str. Canalului,1882 - 1895
+573,CT-II-m-A-02874,Geamie,oraş CERNAVODĂ,Str. Crişan 4,1756
+574,CT-II-m-B-02876,Casă,oraş CERNAVODĂ,Str. Dacia 5,1907
+575,CT-II-m-B-02877,Casă cu spaţii comerciale,oraş CERNAVODĂ,Str. Dacia 24,sf. sec. XIX – înc. sec. XX
+576,CT-II-m-B-02878,Casă,oraş CERNAVODĂ,Str. Dumbravei 15,înc. sec. XX
+577,CT-II-m-B-02879,Fosta şcoală,oraş CERNAVODĂ,Str. Mircea cel Batrân 7,sf. sec. XIX - înc. sec. XX
+578,CT-II-m-A-02880,"Hotel ""Belona""",localitatea EFORIE NORD; oraş EFORIE,Str. Vladimirescu Tudor 12,dec. IV sec. XX
+579,CT-II-m-B-02881,Geamie,sat FÂNTÂNA MARE; comuna INDEPENDENŢA,,sec. XIX
+580,CT-II-m-B-02883,"Biserica ""Sf. Nicolae”",sat GÂRLICIU; comuna GÂRLICIU,,1865 - 1902
+581,CT-II-s-B-02884,Sit urban,oraş HÂRŞOVA,"Str. Ardealului, 23 August, Eternităţii, prel. Cuza Al. I., malul Dunării",
+582,CT-II-a-B-02889,Ansamblul Vasile Cotovu,oraş HÂRŞOVA,Str. 9 Mai 2,1902
+584,CT-II-m-B-02889.02,Locuinţa directorului,oraş HÂRŞOVA,Str. 9 Mai 2,1902
+585,CT-II-m-B-02885,Casa Dutzu Pappuc,oraş HÂRŞOVA,Str. Crinului 16,înc. sec. XIX
+586,CT-II-m-B-02886,Casă,oraş HÂRŞOVA,Str. Ovidiu 8,sf. sec. XIX
+587,CT-II-m-B-02887,Casă,oraş HÂRŞOVA,Str. Ovidiu 10,sf. sec. XIX - înc. sec. XX
+588,CT-II-m-B-02888,Casă,oraş HÂRŞOVA,Str. Ovidiu 11,sf. sec. XIX - înc. sec. XX
+589,CT-II-m-B-02890,Casă,oraş HÂRŞOVA,Str. Vadului 1,sf. sec. XIX
+590,CT-II-m-B-02891,Casă cu prăvălie,oraş HÂRŞOVA,Str. Vadului 4,1923
+591,CT-II-m-A-02892,Geamie,oraş HÂRŞOVA,Str. Vadului 8,1812
+592,CT-II-m-A-20919,"Biserica ""Sfânta Treime - Sfântul Nicolae""",sat ISTRIA; comuna ISTRIA,Str. Bisericii 1,1860
+593,CT-II-m-A-02893,Biserica “Sf. Mare Mucenic Dimitrie”,sat IZVOARELE; comuna LIPNIŢA,,a doua jum.a sec. XIX
+594,CT-II-s-B-02894,Sit rural,sat IZVOARELE; comuna LIPNIŢA,,
+595,CT-II-m-B-02895,"Cişmea din piatră ""Castel""",sat LIPNIŢA; comuna LIPNIŢA municipiul,În centrul satului,1902
+597,CT-II-a-B-21001,Ansamblul Cazinoul Mamaia,localitatea MAMAIA; municipiul CONSTANȚA,În centrul staţiunii,1934 - 1935
+598,CT-II-m-B-21001.01,"Pavilion central, restaurant",localitatea MAMAIA; municipiul CONSTANȚA,În centrul staţiunii,1934
+599,CT-II-m-B-21001.02,Corpuri laterale cu cabine,localitatea MAMAIA; municipiul CONSTANȚA,"În centrul staţiunii, de o parte și de alta a Pavilionului central",1934
+600,CT-II-m-B-21001.03,Pod cu bar maritim,localitatea MAMAIA; municipiul CONSTANȚA,"În centrul staţiunii, în axul Pavilionului central, pe țărmul mării",1935
+601,CT-II-s-B-02899,Sit urban,municipiul MANGALIA,"Str. Frumoasei, Pârvan V., Mărăşeşti, Alecsandri V., Eminescu M., 1 Decembrie 1918, Mihai Viteazul, Delfinului, str. Mircea cel Bătrân, str. Izvor",
+602,CT-II-m-A-02897,Casa Mehmet Hagi Ismail,municipiul MANGALIA,Str. Delfinului 12,sf. sec. XVIII
+603,CT-II-m-B-02898,Casa Şerban,municipiul MANGALIA,Str. Delfinului 16,sf. sec. XIX
+604,CT-II-m-B-02900,"Biserica ""Sf. Gheorghe”",municipiul MANGALIA,Str. Mihai Viteazul 7,1914 - 1929
+605,CT-II-a-A-02901,"Ansamblul geamiei ""Esmahan Sultan""",municipiul MANGALIA,Str. Oituz 1,1590
+607,CT-II-m-B-02902,"Şcoală, corpul vechi",municipiul MANGALIA,Str. Oituz 2,înc. sec. XX
+608,CT-II-s-B-02909,Sit urban,municipiul MEDGIDIA,"Str. Poporului, Griviţei, Rahova, Impăratul Traian, Tineretului, Ovidiu, Bălcescu Nicolae, Republicii, Decebal, Kemal Agi Amet, Olteniei",
+609,CT-II-m-A-02904,Geamie,municipiul MEDGIDIA,Str. Decebal 10,1857 - 1865
+610,CT-II-m-B-02905,Casă,municipiul MEDGIDIA,Str. Decebal 12,înc. sec. XX
+611,CT-II-m-B-02903,Casă,municipiul MEDGIDIA,Str. Decebal 13,înc. sec. XX
+612,CT-II-m-B-02906,Casă,municipiul MEDGIDIA,Str. Decebal 37,sf. sec. XIX
+613, CT-II-m-B-02907, Casa Murad G. Ali, municipiul MEDGIDIA," Str. Kemal, Agi Amet 24", 1906
+614,CT-II-m-B-02908,Fosta baie turcească,municipiul MEDGIDIA,Str. Poporului 36A,sf. sec. XIX
+615,CT-II-m-B-02910,Seminar musulman,municipiul MEDGIDIA,Str. Poporului 36A,sf. sec. XIX
+616,CT-II-m-B-02911,Casă,municipiul MEDGIDIA,Str. Republicii 36B,înc. sec. XX
+617,CT-II-m-B-02912,Casă,municipiul MEDGIDIA,Str. Republicii 56,înc. sec. XX
+619,CT-II-m-B-02865.02,Turn de apă,oraş MURFATLAR,Calea București 1J,înc. sec. XX
+620,CT-II-m-B-02865.01,Gara Murfatlar,oraş MURFATLAR,Calea București 3,înc. sec. XX
+621,CT-II-m-A-02866,"Biserica ""Naşterea Maicii Domnului”",oraş MURFATLAR,Str. Credinţei 9,1903 - 1906
+622,CT-II-m-B-02867,Casă,oraş MURFATLAR,Intrarea Fântâniţei 3,înc. sec. XX
+623,CT-II-m-B-02868,Casă,oraş MURFATLAR,Intrarea Fântâniţei 9,sf. sec. XIX
+624,CT-II-m-B-02869,Casa Stamatopoulos,oraş MURFATLAR,Intrarea Fântâniţei 9A,1899
+625,CT-II-m-B-20160,Casă,oraş MURFATLAR,Str. Fântâniţei f.n.,înc. sec. XX
+626,CT-II-m-B-02871,Casa Omer Bechir Bey,oraş MURFATLAR,Str. Matei Corvin 2,sf. sec. XIX
+627,CT-II-m-A-02870,"Conacul Kogălniceanu, azi Grădiniţă",oraş MURFATLAR,Aleea Mărgăritarelor 16,sf. sec. XIX - înc. sec. XX
+628, CT-II-m-B-02913," Biserica ""Sf. Nicolae”", sat NISTOREŞTI; comuna PANTELIMON,, 1896
+629,CT-II-m-B-02914,Cişmea din piatră,sat OLTINA; comuna OLTINA,"La 9 km SV de Dunăre, la km 3,45",mijl. sec. XIX
+630,CT-II-m-A-02915,"Biserica ""Înălţarea Domnului” ""Adormirea Maicii",sat SATU NOU; comuna OLTINA,,1863
+632,CT-II-m-B-02917,"Biserica ""Sf. Gheorghe”",sat TICHILEŞTI; comuna HORIA,,1892 - 1895
+633,CT-II-m-B-02918,Cişmea din piatră,sat VALEA ŢAPULUI; oraş BĂNEASA,"În fosta vatră a satului desființat, actual extravilan",sf. sec. XIX
+634,CT-II-m-B-02919,"Biserica ""Sf. Voievozi”",sat VULTURU; comuna VULTURU,Str. Preot Anton Popescu 8,1888
+635,CT-III-m-B-02920,Statuia lui Mihai Eminescu,municipiul CONSTANŢA,"Faleza Cazino, în zona ”Farului Genovez”",1932
+636,CT-III-m-B-02922,"Grupul statuar ""Pescarii""",municipiul CONSTANŢA,Faleza Cazinoîn zona bd. Elisabeta colţ cu str. Constantin Brâncoveanu,1959
+637,CT-III-m-B-02923,"Arta monumentală ""Marea şi navigaţia""",municipiul CONSTANŢA,Parapetul digului Portului “Tomis”,1965
+638,CT-III-m-B-02950,Basorelief,municipiul CONSTANŢA,În custodie la S.C.EDIL URBAN,1963
+639, CT-III-m-A-02924, Statuia lui Anghel Saligny, municipiul CONSTANŢA," Bd. Elisabeta, colţ cu str.Ovidiu, deasupra Porţii nr. 1 Port Constanta", 1957
+640,CT-III-m-B-02921,"Statuia ""Arcaşul""",municipiul CONSTANŢA,"Bd. Elisabeta 1, colţ cu str. Arhiepiscopiei, în fața Muzeului ”Ion Jalea”",1961
+641,CT-III-m-B-02925,"Basorelief ""Oameni cu tauri""",municipiul CONSTANŢA CONSTANŢA,"Bd. Elisabeta 1, colț cu Str. Arhiepiscopiei, în fața Muzeului “Ion Jalea” Răscoala 1907, lângă zidul de incintă",1964 al
+643,CT-III-m-B-02927,Bustul lui Grigore Antipa,municipiul CONSTANŢA,"Bd. Mamaia 300, Institutul Naţional de Cercetare - Dezvoltare Marină „Grigore Antipa”",1958
+644,CT-III-m-A-02928,Statuia lui Ovidiu,municipiul CONSTANŢA,Piaţa Ovidiu,1887
+645,CT-III-m-B-02929,"Statuia ""Odihnă""",municipiul CONSTANŢA,"Str. Soveja 17, Clubul elevilor",
+646,CT-III-m-B-02930,"Statuia ""Selena""",municipiul CONSTANŢA,"Str. Soveja 17, Clubul elevilor",1967
+647,CT-III-m-B-02931,"Grup statuar ""Faun şi nimfă""",municipiul CONSTANŢA,"Bd. Tomis, în parcul Teatrului Național de Operă și Balet “Oleg Danovski” Constanța",1963
+648,CT-III-m-B-02949,"Statuia ""Tinereţe""",municipiul CONSTANŢA,"Bd. Tomis, în parcul Teatrului Național de Operă și Balet “Oleg Danovski” Constanța",1962
+649,CT-III-m-B-02953,"Statuia ""Extaz""",municipiul CONSTANŢA,"Bd. Tomis, în parcul Teatrului Național de Operă și Balet “Oleg Danovski” Constanța",1962
+650,CT-III-m-A-02932,Bustul lui Ion Bănescu,municipiul CONSTANŢA,"Bd. Tomis 51, parcul Primăriei",1910
+651,CT-III-m-B-02933,"Statuia ""Copilul cu broasca""",municipiul CONSTANŢA,"Bd. Tomis 82, lângă intrarea la Muzeul de Artă Constanţa",1962
+652,CT-III-m-B-02934,"2 Basoreliefuri ""Tineri Sportivi"" discul""",municipiul CONSTANŢA CONSTANŢA,"Bd. Tomis 102-104, Pe fațada de SE a Sălii Sporturilor Constanța",1960
+654,CT-III-m-B-02937,"Statuia ""Fata cu floarea""",localitatea EFORIE NORD; oraş EFORIE,"Bd. Vladimirescu Tudor, lângă restaurantul “Neon”",1964
+655,CT-III-m-B-02938,"Statuia ""Rod""",localitatea EFORIE NORD; oraş EFORIE,"Bd. Vladimirescu Tudor, lângă hotel ""Belona""",1964
+656,CT-III-m-B-02939,"Artă monumentală ""Decor dobrogean""",localitatea EFORIE SUD; oraş EFORIE,Lângă Cantina nr. 1,1962
+657,CT-III-m-B-02940,"Fresca ""Marea""",localitatea EFORIE SUD; oraş EFORIE,Lângă Cantina nr. 1,1962
+658,CT-III-m-B-02941,Bustul lui Ioan Cotovu,oraş HÂRŞOVA,"Str. Șoseaua Constanței 26, În curtea Liceul “Ioan Cotovu”",1934
+659,CT-III-m-B-02942,"Statuia ""Pe valuri""",localitatea MAMAIA; municipiul CONSTANŢA,"Hotel “IAKI”, curtea interioară",1963
+660,CT-III-m-B-02943,"Arta monumentala ""Artele""",localitatea MAMAIA; municipiul CONSTANŢA,Restaurantul hotelului “Central”,1962
+661, CT-III-m-B-02944," Statuia ""Fată la mare""", localitatea MAMAIA; municipiul CONSTANŢA," Hotel “Central”, spaţiu verde spre Promenada", 1961
+662,CT-III-m-B-02945,"Statuia ""Sirena şi delfinul""",localitatea MAMAIA; municipiul CONSTANŢA,Hotel “Doina” Bazin spre Promenadă,1961
+663,CT-III-m-B-02946,"Statuia ""În soare""",localitatea MAMAIA; municipiul CONSTANŢA municipiul,"Hotel “Dacia Sud”, pe terasa acoperită a restaurantului hotelului în spaţiul verde spre Promenada",1962
+665,CT-III-m-B-02948,"Statuia ""Răsăritul""",localitatea MAMAIA; municipiul CONSTANŢA,"Hotel “Pelican”, spaţiu verde spre Promenadă",1961
+666,CT-III-m-B-02951,"Grup statuar ""Maternitatea""",localitatea MAMAIA; municipiul CONSTANŢA,"Hotel “Select”, teren spațiu verde din spatele hotelului, spre plajă în spaţiul verde spre Promenadă",1956
+667,CT-III-m-B-02952,"Statuia ""Nufărul""",localitatea MAMAIA; municipiul CONSTANŢA,"Hotel “Sulina”, în centrul bazinului din spatele hotelului în bazinul spre Promenadă",1962
+668,CT-III-m-B-02954,"Statuia ""Jucătoare de tenis""",localitatea MAMAIA; municipiul CONSTANŢA,"Hotel ”Tomis”, pe spațiul verde din spatele hotelului, spre plajă în spaţiul verde spre Promenadă",1961
+669,CT-III-m-B-20163,"Statuie ""Fata cu căprioara""",localitatea MAMAIA; municipiul CONSTANŢA,Cinema “Albatros”,1964
+670,CT-III-m-B-20164,"Statuia ""Fecioara cu mărul""",localitatea MAMAIA; municipiul CONSTANŢA,Hotel “Cazino”,1943
+671,CT-III-m-B-20165,"Grup statuar ""Nou născut""",localitatea MAMAIA; municipiul CONSTANŢA,Hotel “Rex”,1958
+672,CT-III-m-B-20166,Bustul lui Ovidiu,localitatea MAMAIA; municipiul CONSTANŢA municipiul,Hotel “Ovidiu”,1958
+674,CT-III-m-A-02955,"Statuia ""Femeie cu harpă""",municipiul MEDGIDIA,Piaţeta Decebal,1933
+675,CT-III-m-B-02956,Basorelief,sat MIHAIL KOGĂLNICEANU; comuna MIHAIL KOGĂLNICEANU,,1957
+676,CT-III-m-B-02936,"Basorelief ""Vinificatia""",oraş MURFATLAR,"Str. Calea București 2, Staţiunea Experimentală",1965
+677,CT-III-m-B-02957,"Statuie ""Fata şezând""",localitatea NEPTUN; municipiul MANGALIA,Hotel “Traian”,1945
+678,CT-IV-m-B-02958,"Monumentul ""Eroii Hârşovei morţi pentru patrie în războiul pentru întregirea neamului 1916 - 1919”",oraş HÂRŞOVA,"Str. Vadului, în scuarul din centrul vechi",1924
+679,CT-IV-a-A-20990,Peșterile ”Sf. Apostol Andrei”,sat ION CORVIN; comuna ION CORVIN,Mănăstirea ”Sf. Apostol Andrei”,
+680,CT-IV-m-A- 20990.01,Peștera mare Sf. Apostol Andrei,sat ION CORVIN; comuna ION CORVIN,Mănăstirea ”Sf. Apostol Andrei”,"sec. I p. Chr., 1943"
+681,CT-IV-m-A- 20990.02,Peștera mică Sf. Apostol Andrei,sat ION CORVIN; comuna ION CORVIN,Mănăstirea ”Sf. Apostol Andrei”,"sec. I p. Chr., 1943"
+682,CT-IV-m-B-20991,Izvorul lui Mihai Eminescu,sat ION CORVIN; comuna ION CORVIN comuna LIPNIŢA,Mănăstirea ”Sf. Apostol Andrei” fortificaţiei romano-bizantine Sucidava,"sec. I p. Chr., 1920"
+684,CT-IV-m-A- 02901.02,Cimitir musulman,municipiul MANGALIA,"Str. Oituz 1, în curtea geamiei Esmahan Sultan",sec. XVII
+685,CT-IV-a-B-20989,Cimitirul internațional de onoare ”Mircea cel Bătrân”,sat MIRCEA VODĂ; comuna MIRCEA VODĂ,Str. Gării 2,1926-1930
+686,CT-IV-m-B-02960,Obelisc în memoria eroilor din primul război mondial,sat SILIŞTEA; comuna SILIŞTEA,În centrul satului,1924
+687,CT-IV-m-B-02961,Obelisc în memoria eroilor din primul război mondial,sat TÂRGUŞOR; comuna TÂRGUŞOR,În centrul satului,1929
+688,CT-IV-m-B-02962,Monumentul eroilor din primul război mondial 1916- 1918,oraş TECHIRGHIOL,"Scuarul din centru, pe faleză",1926 - 1929
+689,CT-IV-m-B-02963,Monumentul eroilor din primul război mondial 1916- 1918,sat TOPALU; comuna TOPALU,În centrul satului,1921
+690,CT-IV-m-B-02964,Crucile eroilor din primul război mondial,sat ŢEPEŞ VODĂ; comuna SILIŞTEA,În curtea bisericii,1917 - 1919
+691,CT-IV-m-B-02965,Obelisc în memoria eroilor din primul război mondial,sat ŢEPEŞ VODĂ; comuna SILIŞTEA,În curtea şcolii,1923
+692,CT-IV-m-B-02966,Obelisc în memoria eroilor din primul război mondial,sat VĂLENI; comuna DOBROMIR,În faţa şcolii,1925
+693,CT-IV-m-B-02967,Obelisc în memoria eroilor din primul război mondial,sat VIROAGA; comuna CERCHEZU,În curtea bisericii,1936
+694,CT-IV-m-B-02968,Obelisc în memoria eroilor din primul război mondial,sat VULTURU; comuna VULTURU,"Str. Eroilor, în centrul satului",1929

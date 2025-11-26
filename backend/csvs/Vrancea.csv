@@ -1,0 +1,396 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,VN-I-s-B-06340,"Aşezarea de la Adjud, punct „Moviliţa”",oraş ADJUD,"""Moviliţa”, zona de N-V a oraşului, în dreapta drumului spre Urecheşti","Epoca bronzului, Cultura Monteoru, faza Ic 3"
+3,VN-I-s-B-06341,"Aşezarea de la Adjud, punct „Lutărie”",oraş ADJUD,"""Lutărie”, fostul sat Adjudu Vechi, actual cartier al oraşului, la E","Epoca bronzului, Cultura Monteoru, faza Ic 3"
+4,VN-I-s-B-06342,"Aşezarea medievală de la Adjud, punct „Lutărie”",oraş ADJUD,"""Lutărie”, fostul sat Adjudu Vechi, actual cartier al oraşului, la S","sec. XVII, Epoca medievală"
+5,VN-I-s-B-06343,"Situl arheologic de la Adjud, punct „Islaz”",oraş ADJUD,"""Islaz”, fostul sat Adjudu Vechi, actual cartier al oraşului, la 1,5 km S de fosta vatră a satului",
+6,VN-I-s-B-06344,Situl arheologic de la Adjud,oraş ADJUD,Str. Cuza Alexandru Ioan,Epoca bronzului
+7,VN-I-m-B-06344.01,Aşezare,oraş ADJUD,Str. Cuza Alexandru Ioan,Epoca medievală
+8,VN-I-m-B-06344.02,Aşezare,oraş ADJUD,Str. Cuza Alexandru Ioan,"Epoca bronzului, Cultura Monteoru, faza II b"
+9,VN-I-m-B-06344.03,Aşezare,oraş ADJUD,Str. Cuza Alexandru Ioan,"Epoca bronzului, Cultura Monteoru, faza II a"
+10,VN-I-s-B-06345,Aşezare Andreiaşu,oraş ADJUD JOS; comuna,"Str. Islaz, pe direcţia şoselei spre Copăceşti","Epoca bronzului, Cultura Monteoru"
+12,VN-I-m-B-06346.01,Aşezare,sat ANDREIAŞU DE JOS; comuna ANDREIAŞU,La 500 m SV de sat,"Epoca bronzului, Cultura Monteoru"
+13,VN-I-m-B-06346.02,Aşezare,sat ANDREIAŞU DE JOS; comuna ANDREIAŞU,La 500 m SV de sat,"Eneolitic, Cultura Cucuteni"
+14,VN-I-s-A-06347,Situl arheologic de la Angheleşti,sat ANGHELEŞTI; comuna RUGINEŞTI,"”Cetăţuia”, la N de sat",
+15,VN-I-m-A-06347.01,Aşezare,sat ANGHELEŞTI; comuna RUGINEŞTI,"”Cetăţuia”, la N de sat",Epoca bronzului
+16,VN-I-m-A-06347.02,Aşezare fortificată,sat ANGHELEŞTI; comuna RUGINEŞTI,"”Cetăţuia”, la N de sat",Eneolitic
+17,VN-I-s-B-06348,Situl arheologic de la Băleşti,sat BĂLEŞTI; comuna BĂLEŞTI,"La SE de sat, punct ""Movila”",
+18,VN-I-m-B-06348.01,Aşezare,sat BĂLEŞTI; comuna BĂLEŞTI,"La SE de sat, punct ""Movila”","Hallstatt, Cultura Basarabi"
+19,VN-I-m-B-06348.02,Aşezare,sat BĂLEŞTI; comuna BĂLEŞTI,"La SE de sat, punct ""Movila”",Epoca bronzului
+20,VN-I-s-B-06349,"Aşezarea de la Bătineşti, punct ""Igeşti""",sat BĂTINEŞTI; comuna ŢIFEŞTI,"""Igeşti”, la intrare în satul Igeşti","sec. XIV - XVIII, Epoca medievală"
+21,VN-I-s-B-06350,Cimitir,sat BĂTINEŞTI; comuna ŢIFEŞTI,"""Magazin sătesc”","sec. XIV - XVIII, Epoca medievală"
+22,VN-I-s-A-06351,Necropolă tumulară de incineraţie,sat BÂRSEŞTI; comuna BÂRSEŞTI,"""Lacul Dumbrăvii”, la 2 km S-E de sat","sec. VI - V a. Chr., Hallstatt târziu, Cultura Ferigile -"
+23,VN-I-s-B-06352,"Aşezarea de la Bârseşti, punct „Gogoi”",sat BÂRSEŞTI; comuna BÂRSEŞTI,"""Gogoi”, la 1 km de sat","Neolitic timpuriu, Cultura Starcevo - Criş"
+24,VN-I-s-B-06353,"Aşezarea de la Bârseşti, punct „Podul Vâlcelei”",sat BÂRSEŞTI; comuna BÂRSEŞTI,"""Podul Vâlcelei”, la 200 m V de sat","sec. II - III p. Chr., Cultura carpică"
+25,VN-I-s-B-06354,"Aşezarea de la Bârseşti, punct „Varniţa”",sat BÂRSEŞTI; comuna BÂRSEŞTI,"""Varniţa”, la 600-700 m spre sud","sec. II - III p. Chr., Latène, Cultura carpică"
+26,VN-I-s-B-06355,Situl arheologic de la Beciu,sat BECIU; comuna VÂRTEŞCOIU,"Zona de NE a satului, în dreapta râului Milcov",
+27,VN-I-m-B-06355.01,Aşezare,sat BECIU; comuna VÂRTEŞCOIU,"Zona de NE a satului, în dreapta râului Milcov","Epoca bronzului, Cultura Monteoru, fazele Ic 4, Ic 3, II"
+28,VN-I-m-B-06355.02,Aşezare,sat BECIU; comuna VÂRTEŞCOIU,"Zona de NE a satului, în dreapta râului Milcov","Eneolitic, Cultura Cucuteni"
+29,VN-I-s-B-06356,Aşezare,sat BICHEŞTI; comuna BOGHEŞTI,"""Dealul Pietroasa”, la V de sat","Eneolitic, Cultura Cucuteni"
+30,VN-I-s-B-06357,Necropolă tumulară,sat BOLOTEŞTI; comuna BOLOTEŞTI,"Pe terasa superioară a râului Putna, de o parte şi de alta a şoşelei Focşani-Vidra, km. 13","Epoca bronzului timpuriu, Cultura de stepă nord-vest pontică"
+31,VN-I-s-B-06358,Situl arheologic de la Bonteşti,sat BONTEŞTI; comuna CÂRLIGELE,"""La Fântâni”, pe malul stâng al râului Mera",
+32,VN-I-m-B-06358.01,Aşezare,sat BONTEŞTI; comuna CÂRLIGELE,"""La Fântâni”, pe malul stâng al râului Mera","sec. II - III p. Chr., Latène, Cultura carpică"
+33,VN-I-m-B-06358.02,Aşezare,sat BONTEŞTI; comuna CÂRLIGELE,"""La Fântâni”, pe malul stâng al râului Mera","Eneolitic, Cultura Cucuteni"
+34,VN-I-s-B-06359,"Aşezarea de la Bordeşti, punct ""Gh. Asanache""",sat BORDEŞTI; comuna BORDEŞTI comuna BORDEŞTI,"""Gh. Asanache”, în vatra satului, lângă Primărie sat","Eneolitic, Cultura Cucuteni Monteoru"
+36,VN-I-s-B-06361,"Aşezarea de la Căiata, punct „Movila Mică”",sat CĂIATA; comuna SIHLEA,"""Movila Mică”","Eneolitic, Cultura Cucuteni"
+37,VN-I-s-B-06362,"Situl arheologic de la Căiata, punct „Movila Mare”",sat CĂIATA; comuna SIHLEA,"La S de sat, punct ""Movila Mare”",
+38,VN-I-m-B-06362.01,Aşezare,sat CĂIATA; comuna SIHLEA,"La S de sat, punct ""Movila Mare”","sec. XVI, Epoca medievală"
+39,VN-I-m-B-06362.02,Aşezare fortificată,sat CĂIATA; comuna SIHLEA,"La S de sat, punct ""Movila Mare”",Hallstatt
+40,VN-I-s-A-06363,"Aşezarea de la Cândeşti, punct ""Coasta Rublei”",sat CÂNDEŞTI; comuna DUMBRĂVENI,"""Coasta Rublei”, la intrarea în sat dinspre SV, în dreptul şoselei","Neolitic timpuriu, Cultura Starcevo - Criş"
+41,VN-I-s-A-06364,"Aşezarea de la Cândeşti, punct „Curături”",sat CÂNDEŞTI; comuna DUMBRĂVENI,"""Curături”, la S de sat, în stânga şoselei Cândeşti-Bordeşti","Eneolitic, Cultura Boian, faza Giuleşti"
+42,VN-I-s-A-06365,Aşezarea de la Cândeşti,sat CÂNDEŞTI; comuna DUMBRĂVENI,"În vatra satului, în dreapta şoselei Dumbrăveni-Bordeşti, la 1 km de şosea","Eneolitic, Cultura Cucuteni, faza A"
+43,VN-I-s-A-06366,"Situl arheologic de la Cândeşti, punct „Cetăţuia”",sat CÂNDEŞTI; comuna DUMBRĂVENI,"""Cetăţuia” pe coasta Nacului, la V de sat",
+44,VN-I-m-A-06366.01,Aşezare,sat CÂNDEŞTI; comuna DUMBRĂVENI,"""Cetăţuia” pe coasta Nacului, la V de sat","sec. II a. Chr. - sec. I p. Chr., Latène, Cultura geto - dacică"
+45,VN-I-m-A-06366.02,Fortificaţie,sat CÂNDEŞTI; comuna,"""Cetăţuia” pe coasta Nacului, la V de sat","Epoca bronzului, Cultura Monteoru"
+46,VN-I-s-A-06367,"Situl arheologic de la Cândeşti, punct „Corbu”",sat CÂNDEŞTI; comuna DUMBRĂVENI,"la N de vatra satului, pe terasa superioară dreaptă a pârâului Recea, în zona ""Corbu”","Epoca bronzului, Cultura Monteoru"
+47,VN-I-m-A-06367.01,Aşezare,sat CÂNDEŞTI; comuna DUMBRĂVENI,"la N de vatra satului, pe terasa superioară dreaptă a pârâului Recea, în zona ""Corbu”","Epoca bronzului, Cultura Monteoru"
+48,VN-I-m-A-06367.02,Necropolă,sat CÂNDEŞTI; comuna DUMBRĂVENI,"la N de vatra satului, pe terasa superioară dreaptă a pârâului Recea, în zona ""Corbu”","Epoca bronzului, Cultura Monteoru"
+49,VN-I-s-A-06368,Situl arheologic de la Coroteni,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru",
+50,VN-I-m-A-06368.01,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru",Epoca medievală
+51,VN-I-m-A-06368.02,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru",Epoca medievală timpurie
+52,VN-I-m-A-06368.03,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru",Hallstatt
+53,VN-I-m-A-06368.04,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru","Epoca bronzului târziu, Cultura Noua"
+54,VN-I-m-A-06368.05,Aşezare,sat COROTENI; comuna SLOBOZIA,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru","Epoca bronzului, Cultura Monteoru, fazele Ic 4, II a, II"
+55,VN-I-m-A-06368.06,Necropolă,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru","Epoca bronzului, Cultura Monteoru, fazele Ic 4, II a, II"
+56,VN-I-m-A-06368.07,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"Fostul sediu al C.A.P., în spate, de-a lungul râului Vărzaru","Eneolitic, Cultura Boian"
+57,VN-I-s-B-06369,"Situl arheologic de la Coroteni, punct „Cetăţuia”",sat COROTENI; comuna SLOBOZIA BRADULUI,"""Cetăţuia”, la NV de sat",
+58,VN-I-m-B-06369.01,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"""Cetăţuia”, la NV de sat","Epoca bronzului, Cultura Monteoru"
+59,VN-I-m-B-06369.02,Aşezare,sat COROTENI; comuna SLOBOZIA BRADULUI,"""Cetăţuia”, la NV de sat","Eneolitic, Cultura Boian"
+60,VN-I-s-B-06370,"Aşezarea de la Domneşti, punct „Cetăţuia”",sat DOMNEŞTI; comuna PUFEŞTI,"""Cetăţuia”, pe malul Siretului","Eneolitic, Cultura Cucuteni, faza A"
+61,VN-I-s-B-06371,"Aşezarea de la Domneşti, punct „la Brazi”",sat DOMNEŞTI; comuna PUFEŞTI,"""La Brazi”, la 7 km de şoseaua Focşani-Adjud-Lunca Domneşti","Eneolitic, Cultura Cucuteni"
+62,VN-I-s-B-06372,"Situl arheologic de la Dragosloveni, punct „Plainos”",sat DRAGOSLOVENI; comuna DUMBRĂVENI,"""Plainos”, la extremitatea sudică a satului, pe malul drept al râului Râmna",
+63,VN-I-m-B-06372.01,Aşezare,sat DRAGOSLOVENI; comuna DUMBRĂVENI comuna,"""Plainos”, la extremitatea sudică a satului, pe malul drept al râului Râmna satului, pe malul drept al râului","Epoca bronzului, Cultura Monteoru faza A"
+65,VN-I-s-B-06392,Situl arheologic de la Soveja,sat DRAGOSLOVENI; comuna SOVEJA,"La SE de sat, lângă albia râului Şuşiţa",
+66,VN-I-m-B-06392.01,Aşezare,sat DRAGOSLOVENI; comuna SOVEJA,"La SE de sat, lângă albia râului Şuşiţa","Latène, Cultura geto - dacică"
+67,VN-I-m-B-06392.02,Aşezare,sat DRAGOSLOVENI; comuna SOVEJA,"La SE de sat, lângă albia râului Şuşiţa",Epoca bronzului
+68,VN-I-m-B-06392.03,Aşezare,sat DRAGOSLOVENI; comuna SOVEJA,"La SE de sat, lângă albia râului Şuşiţa","Eneolitic, Cultura Cucuteni, faza A"
+69,VN-I-s-B-06373,"Situl arheologic de la Dumbrăveni, punct „Movila Mare”",sat DUMBRĂVENI; comuna DUMBRĂVENI,"punct ""Movila Mare”, reper amplasamentul iniţial al Statuii lui Suvorov, aflat pe terasa superioară dreaptă a râului Râmna",
+70,VN-I-m-B-06373.01,Aşezare,sat DUMBRĂVENI; comuna DUMBRĂVENI,"punct ""Movila Mare”, reper amplasamentul iniţial al Statuii lui Suvorov, aflat pe terasa superioară dreaptă a râului Râmna","Epoca bronzului, Cultura Monteoru"
+71,VN-I-m-B-06373.02,Aşezare,sat DUMBRĂVENI; comuna DUMBRĂVENI,"punct ""Movila Mare”, reper amplasamentul iniţial al Statuii lui Suvorov, aflat pe terasa superioară dreaptă a râului Râmna","Eneolitic, Cultura Cucuteni"
+72,VN-I-s-B-06374,Situl arheologic de la Faraoanele,sat FARAOANELE; comuna VÂRTEŞCOIU,"La SV de sat, între pârâul satului şi ""Valea Oalelor”",
+73,VN-I-m-B-06374.01,Aşezare,sat FARAOANELE; comuna VÂRTEŞCOIU comuna VÂRTEŞCOIU,"La SV de sat, între pârâul satului şi ""Valea Oalelor” ""Valea Oalelor”","Epoca bronzului timpuriu, Cultura Horodiştea - Folteşti faza A"
+75,VN-I-s-B-06375,"Aşezarea de la Faraoanele, punct „Curături”",sat FARAOANELE; comuna VÂRTEŞCOIU,"""Curături”, la 1 km S de sat","Eneolitic, Cultura Cucuteni"
+76,VN-I-s-B-06376,"Situl arheologic de la Fitioneşti, punct „Măriuţa Petre”",sat FITIONEŞTI; comuna FITIONEŞTI,"""Măriuţa Petre”, la 2 km de sat, pe malul drept al pârâului Zăbrăuţi",
+77,VN-I-m-B-06376.01,Aşezare,sat FITIONEŞTI; comuna FITIONEŞTI,"""Măriuţa Petre”, la 2 km de sat, pe malul drept al pârâului Zăbrăuţi","Epoca bronzului târziu, Cultura Noua"
+78,VN-I-m-B-06376.02,Aşezare,sat FITIONEŞTI; comuna FITIONEŞTI,"""Măriuţa Petre”, la 2 km de sat, pe malul drept al pârâului Zăbrăuţi","Epoca bronzului, Cultura Monteoru"
+79,VN-I-m-B-06376.03,Aşezare,sat FITIONEŞTI; comuna FITIONEŞTI,"""Măriuţa Petre”, la 2 km de sat, pe malul drept al pârâului Zăbrăuţi","Eneolitic, Cultura Cucuteni, fazele A, B"
+80,VN-I-s-B-06377,Situl arheologic de la Gugeşti,sat GUGEŞTI; comuna GUGEŞTI,"la E de sat, pe malul drept al Râmnei, în punctul ""La Cruce""",
+81,VN-I-m-B-06377.01,Aşezare,sat GUGEŞTI; comuna GUGEŞTI,"la E de sat, pe malul drept al Râmnei, în punctul ""La Cruce""","sec. X, Epoca medievală timpurie"
+82,VN-I-m-B-06377.02,Aşezare,sat GUGEŞTI; comuna GUGEŞTI,"la E de sat, pe malul drept al Râmnei, în punctul ""La Cruce""","sec. IV p. Chr., Epoca romană"
+83,VN-I-m-B-06377.03,Aşezare,sat GUGEŞTI; comuna GUGEŞTI,"la E de sat, pe malul drept al Râmnei, în punctul ""La Cruce""","Epoca bronzului, Cultura Monteoru"
+84,VN-I-s-B-06378,Situl arheologic de la Iugani,sat IUGANI; comuna BOGHEŞTI,"Pe malul stâng al pârâului Pereşchiv, la 3 km E de sat","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana Mureş-Cerneahov"
+85,VN-I-m-B-06378.01,Aşezare,sat IUGANI; comuna BOGHEŞTI BOGHEŞTI,"Pe malul stâng al pârâului Pereşchiv, la 3 km E de sat la 3 km E de sat","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana Mureş - Cerneahov migraţiilor, Cultura Sântana"
+87,VN-I-s-B-06379,"Situl arheologic de la Lespezi, punct „Dealul Bisericii”",sat LESPEZI; comuna HOMOCEA,"""Dealul Bisericii”, la N de Biserica ""Naşterea Maicii Domnului”",
+88,VN-I-m-B-06379.01,Aşezare,sat LESPEZI; comuna HOMOCEA,"""Dealul Bisericii”, la N de Biserica ""Naşterea Maicii Domnului”","sec. VIII - IX, Epoca medievală timpurie"
+89,VN-I-m-B-06379.02,Aşezare,sat LESPEZI; comuna HOMOCEA,"""Dealul Bisericii”, la N de Biserica ""Naşterea Maicii Domnului”","Eneolitic, Cultura Cucuteni, faza A"
+90,VN-I-s-A-06380,"Situl arheologic de la Mănăstioara, punct „Cetăţuia”",sat MĂNĂSTIOARA; comuna FITIONEŞTI,"""Cetăţuia”, la 800 m SV de sat",Eneolitic
+91,VN-I-m-A-06380.01,Aşezare,sat MĂNĂSTIOARA; comuna FITIONEŞTI,"""Cetăţuia”, la 800 m SV de sat","Eneolitic, Cultura Cucuteni"
+92,VN-I-m-A-06380.02,Aşezare,sat MĂNĂSTIOARA; comuna FITIONEŞTI,"""Cetăţuia”, la 800 m SV de sat","Eneolitic, Cultura Gumelniţa, faza A1"
+93,VN-I-s-B-06381,Situl arheologic de la Mărtineşti,sat MĂRTINEŞTI; comuna TĂTĂRANU,"""Staţia de filtrare a apei”, la S de sat",
+94,VN-I-m-B-06381.01,Aşezare,sat MĂRTINEŞTI; comuna TĂTĂRANU,"""Staţia de filtrare a apei”, la S de sat","sec. X, Epoca medievală timpurie"
+95,VN-I-m-B-06381.02,Aşezare,sat MĂRTINEŞTI; comuna TĂTĂRANU,"""Staţia de filtrare a apei”, la S de sat","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana Mureş - Cerneahov"
+96,VN-I-m-B-06381.03,"Necropolă Muncelu, punct „Cetăţuie”",sat MĂRTINEŞTI; comuna TĂTĂRANU comuna STRĂOANE,"""Staţia de filtrare a apei”, la S de sat","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana Mureş - Cerneahov"
+98,VN-I-m-B-06382.01,Aşezare,sat MUNCELU; comuna STRĂOANE,"""Cetăţuie”, la NE de sat","Epoca bronzului, Cultura Monteoru"
+99,VN-I-m-B-06382.02,Aşezare,sat MUNCELU; comuna STRĂOANE,"""Cetăţuie”, la NE de sat","Eneolitic, Cultura Cucuteni, faza B"
+100,VN-I-s-B-06383,"Situl arheologic de la Muncelu, punct „Fântâna din Vale""",sat MUNCELU; comuna STRĂOANE,"""Fântâna din Vale”, la E de sat, pe malul drept al pârâului Zăbrăuţi","Neolitic timpuriu, Cultura Starcevo - Criş"
+101,VN-I-s-B-06384,"Situl arheologic de la Năneşti, punct „Gorgan”",sat NĂNEŞTI; comuna NĂNEŞTI,"""Gorgan”, la 1 km N de sat, pe malul drept al râului Siret, la 2 km de confluenţa lui cu râul Putna",
+102,VN-I-m-B-06384.01,Aşezare,sat NĂNEŞTI; comuna NĂNEŞTI,"""Gorgan”, la 1 km N de sat, pe malul drept al râului Siret, la 2 km de confluenţa lui cu râul Putna",Epoca medievală
+103,VN-I-m-B-06384.02,Aşezare,sat NĂNEŞTI; comuna NĂNEŞTI,"""Gorgan”, la 1 km N de sat, pe malul drept al râului Siret, la 2 km de confluenţa lui cu râul Putna",Epoca medievală timpurie
+104, VN-I-m-B-06384.03, Aşezare, sat NĂNEŞTI; comuna NĂNEŞTI," ""Gorgan”, la 1 km N de sat, pe malul drept al râului Siret, la 2 km de confluenţa lui cu râul Putna", Hallstatt
+105,VN-I-m-B-06384.04,Aşezare,sat NĂNEŞTI; comuna NĂNEŞTI,"""Gorgan”, la 1 km N de sat, pe malul drept al râului Siret, la 2 km de confluenţa lui cu râul Putna","Eneolitic, Cultura Cucuteni, fazele A, B"
+106,VN-I-s-B-06385,Situl arheologic de la Negrileşti,sat NEGRILEŞTI; comuna NEGRILEŞTI comuna NEGRILEŞTI,"""Pe Creastă”, pe stânga şoselei Negrileşti-Bârseşti, la 1 km de sat Negrileşti-Bârseşti, la 1 km de sat", Monteoru
+108,VN-I-m-B-06385.02,Aşezare,sat NEGRILEŞTI; comuna NEGRILEŞTI,"""Pe Creastă”, pe stânga şoselei Negrileşti-Bârseşti, la 1 km de sat","Neolitic, Cultura Boian, faza Giuleşti"
+109,VN-I-s-B-06386,"Situl arheologic de la Odobeşti, punctele „Cetăţuia” şi „Antoniu”",oraş ODOBEŞTI,"""Cetăţuia” şi ""Antoniu”, pe malul stâng al râului Milcov, la NV de oraş",
+110,VN-I-m-B-06386.01,Necropolă,oraş ODOBEŞTI,"""Cetăţuia” şi ""Antoniu”, pe malul stâng al râului Milcov, la NV de oraş","sec. XIII - XVI, Epoca medievală"
+111,VN-I-m-B-06386.02,Necropolă,oraş ODOBEŞTI,"""Cetăţuia” şi ""Antoniu”, pe malul stâng al râului Milcov, la NV de oraş",Hallstatt
+112,VN-I-m-B-06386.03,Aşezare fortificată,oraş ODOBEŞTI,"""Cetăţuia” şi ""Antoniu”, pe malul stâng al râului Milcov, la NV de oraş","Epoca bronzului, Cultura Monteoru"
+113,VN-I-m-B-06386.04,Necropolă,oraş ODOBEŞTI,"""Cetăţuia” şi ""Antoniu”, pe malul stâng al râului Milcov, la NV de oraş","Epoca bronzului, Cultura Monteoru"
+114,VN-I-s-B-06387,Situl arheologic de la Oreavu,sat OREAVU; comuna GUGEŞTI,"""La Cuptor”, la S de sat, pe malul stâng al pârâului Oreavu, la circa 500 m E de podul C.F.R.",
+115,VN-I-m-B-06387.01,Aşezare,sat OREAVU; comuna GUGEŞTI,"""La Cuptor”, la S de sat, pe malul stâng al pârâului Oreavu, la circa 500 m E de podul C.F.R.","Neolitic, Cultura Boian"
+116,VN-I-m-B-06387.02,Aşezare,sat OREAVU; comuna GUGEŞTI,"""La Cuptor”, la S de sat, pe malul stâng al pârâului Oreavu, la circa 500 m E de podul C.F.R.","Neolitic, Cultura ceramicii liniare"
+117,VN-I-s-B-06388,"Situl arheologic de la Palanca, punct „Titila-Câţa”",sat PALANCA; comuna URECHEŞTI URECHEŞTI,"""Titila Câţa”, la V de sat",
+119,VN-I-m-B-06388.02,Aşezare,sat PALANCA; comuna URECHEŞTI,"""Titila Câţa”, la V de sat",Epoca bronzului
+120,VN-I-m-B-06388.03,Aşezare,sat PALANCA; comuna URECHEŞTI,"""Titila Câţa”, la V de sat","Eneolitic, Cultura Cucuteni, faza A"
+121,VN-I-s-B-06389,Situl arheologic de la Pădureni,sat aparţinător PĂDURENI; oraş MĂRĂŞEŞTI,"În dreptul şoselei naţionale Focşani- Adjud, la km 209",
+122,VN-I-m-B-06389.01,Aşezare,sat aparţinător PĂDURENI; oraş MĂRĂŞEŞTI,"În dreptul şoselei naţionale Focşani- Adjud, la km 209","Latène, Cultura carpică"
+123,VN-I-m-B-06389.02,Aşezare,sat aparţinător PĂDURENI; oraş MĂRĂŞEŞTI,"În dreptul şoselei naţionale Focşani- Adjud, la km 209",Hallstatt
+124,VN-I-m-B-06389.03,Aşezare,sat aparţinător PĂDURENI; oraş MĂRĂŞEŞTI,"În dreptul şoselei naţionale Focşani- Adjud, la km 209","Epoca bronzului, Cultura Monteoru"
+125, VN-I-m-B-06389.04, Necropolă, sat aparţinător PĂDURENI; oraş MĂRĂŞEŞTI," În dreptul şoselei naţionale Focşani- Adjud, la km 209"," Epoca bronzului, Cultura Monteoru"
+126,VN-I-s-B-06390,Aşezare,sat PĂDURENI; comuna JARIŞTEA,"""Piţigoi”, în vatra satului, spre NV","Latène III, Cultura geto - dacică"
+127,VN-I-s-B-06391,Aşezare,sat PIETROASA; comuna BOLOTEŞTI,"""Dealul Înalt”, la SV de sat","Eneolitic, Cultura Cucuteni"
+128,VN-I-s-B-06393,Aşezare,sat TICHIRIŞ; comuna VIDRA BÂRSEŞTI,"În vatra satului, pe terasa râului Putna",Paleolitic superior faza AB
+130,VN-I-s-A-06395,Aşezare,sat VĂLENI; comuna RUGINEŞTI,"""Gorgan”, pe terasa superioară dreaptă a râului Trotuş","Eneolitic, Cultura Cucuteni"
+131,VN-I-s-A-06396,"Situl arheologic de la Văleni, punct „Popa Cloşcă”",sat VĂLENI; comuna RUGINEŞTI,"""Popa Cloşcă”, la 700-800 m NV de punct ""Gorgan”, pe terasa superioară dreaptă a râului Trotuş",
+132,VN-I-m-A-06396.01,Aşezare,sat VĂLENI; comuna RUGINEŞTI,"""Popa Cloşcă”, la 700-800 m NV de punct ""Gorgan”, pe terasa superioară dreaptă a râului Trotuş","Epoca bronzului, Cultura Monteoru"
+133,VN-I-m-A-06396.02,Aşezare,sat VĂLENI; comuna RUGINEŞTI,"""Popa Cloşcă”, la 700-800 m NV de punct ""Gorgan”, pe terasa superioară dreaptă a râului Trotuş","Eneolitic, Cultura Cucuteni"
+134,VN-I-s-A-06397,"Situl arheologic de la Văleni, punct „Atanasiu”",sat VĂLENI; comuna RUGINEŞTI,"""Atanasiu”, la 600 m S de punct ""Popa Cloşcă”",
+135,VN-I-m-A-06397.01,Aşezare,sat VĂLENI; comuna RUGINEŞTI,"""Atanasiu”, la 600 m S de punct ""Popa Cloşcă”","Epoca bronzului, Cultura Monteoru"
+136,VN-I-m-A-06397.02,Aşezare,sat VĂLENI; comuna RUGINEŞTI,"""Atanasiu”, la 600 m S de punct ""Popa Cloşcă”","Eneolitic, Cultura Cucuteni"
+137,VN-I-s-B-06398,"Situl arheologic de la Vârteşcoiu, punct „Cariera de argilă”",sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Cariera de argilă”, pe malul drept al râului Milcov",
+138,VN-I-m-B-06398.01,Aşezare,sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Cariera de argilă”, pe malul drept al râului Milcov","sec. XII - XIII, Epoca medievală"
+139,VN-I-m-B-06398.02,Necropolă,sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU comuna VÂRTEŞCOIU,"""Cariera de argilă”, pe malul drept al râului Milcov râului Milcov","sec. XII - XIII, Epoca medievală Monteoru, fazele Ic 4, I c 2,"
+141,VN-I-m-B-06398.04,Necropolă,sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Cariera de argilă”, pe malul drept al râului Milcov","Epoca bronzului, Cultura Monteoru"
+142,VN-I-s-B-06399,"Situl arheologic de la Vârteşcoiu, punct „Dealul Titila”",sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Dealul Titila”, pe malul drept al râului Milcov",
+143,VN-I-m-B-06399.01,Aşezare,sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Dealul Titila”, pe malul drept al râului Milcov","sec. IV p. Chr., Epoca migraţiilor, Cultura Sântana Mureş - Cerneahov"
+144,VN-I-m-B-06399.02,Aşezare,sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Dealul Titila”, pe malul drept al râului Milcov","sec. II - III p. Chr., Cultura carpică"
+145,VN-I-m-B-06399.03,Necropolă,sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,"""Dealul Titila”, pe malul drept al râului Milcov","sec. II - III p. Chr., Cultura carpică"
+146,VN-II-m-B-06405,Casă de rugăciune,municipiul FOCŞANI,Str. Argeş 42,sec. XIX
+147,VN-II-m-B-06400,Casă,municipiul FOCŞANI,Str. Avântului 11,1928
+148,VN-II-m-B-06401,Casă,municipiul FOCŞANI,Str. Bălcescu Nicolae 22,sf. sec. XIX
+149,VN-II-m-A-06402,Biserica „Naşterea Maicii Domnului” - Săpunaru,municipiul FOCŞANI,Str. Bărnuţiu Simion 1,1783
+150,VN-II-m-B-06403,Casa Zaharia,municipiul FOCŞANI,Str. Bărnuţiu Simion 13,sec. XIX
+151,VN-II-m-B-06404,Colegiul Unirea - corp A şi corp B Casa Directorului,municipiul FOCŞANI,Str. Bolliac Cezar 15,mijl. sec. XIX
+153,VN-II-m-B-06407,Casa colonel Albu,municipiul FOCŞANI,Str. Cernei 22,1894
+154,VN-II-m-B-06408,Casă,municipiul FOCŞANI,Str. Cernei 27-29,înc. sec. XX
+155,VN-II-m-B-06409,Casă,municipiul FOCŞANI,Str. Cernei 35,înc. sec. XX
+156,VN-II-m-B-06410,Casa Huianu,municipiul FOCŞANI,Str. Comisia Centrală 11,1914
+157,VN-II-m-A-06411,Biserica „Sf. Nicolae” - Vechi,municipiul FOCŞANI,Str. Coteşti 1,1713 - 1716
+158,VN-II-m-B-06412,Şcoala comercială,municipiul FOCŞANI,Str. Coteşti 17,înc. sec. XX
+159,VN-II-m-B-06413,Biserica armenească „Sf. Gheorghe”,municipiul FOCŞANI,Str. Coteşti 22,1789
+160,VN-II-m-B-06414,Casa Gr. Giurgea,municipiul FOCŞANI,Str. Coteşti 25,1904
+161,VN-II-m-B-06415,Casa Macridescu,municipiul FOCŞANI,Str. Cuza Vodă 4,1892
+162,VN-II-m-B-06416,Casa Macridescu,municipiul FOCŞANI,Str. Cuza Vodă 6,sf. sec. XIX
+163,VN-II-m-A-06417,Tribunalul judeţean,municipiul FOCŞANI,Str. Cuza Vodă 8,1909
+164,VN-II-m-B-06418,Casa Gorciu Vama Veche,municipiul FOCŞANI,Str. Cuza Vodă 18,sf. sec. XIX
+166,VN-II-m-B-06420,Casa Tatovici,municipiul FOCŞANI,Str. Cuza Vodă 35,sf. sec. XIX
+167,VN-II-m-B-06421,Casa Leon Cracalia,municipiul FOCŞANI,Str. Cuza Vodă 41,sec. XIX
+168,VN-II-m-B-06422,Casa Stănescu,municipiul FOCŞANI,Str. Cuza Vodă 43,1893
+169,VN-II-m-B-06423,Şcoala Rarincescu,municipiul FOCŞANI,Str. Cuza Vodă 46,1838 - 1845
+170,VN-II-m-B-06424,Liceul „Alexandru Ioan Cuza” corp A,municipiul FOCŞANI,Str. Cuza Vodă 47,1930 - 1931
+171,VN-II-m-B-06425,Casă,municipiul FOCŞANI,Str. Cuza Vodă 49,înc. sec. XX
+172,VN-II-m-B-06426,Casa Apostoleanu,municipiul FOCŞANI,Str. Cuza Vodă 50,1873
+173,VN-II-m-B-06427,Biserica „Sf. Dumitru”,municipiul FOCŞANI,Str. Eroilor 4,1696 - 1700
+174,VN-II-m-B-06428,"Biserica „Intrarea Maicii Domnului în Biserică”, „Ovidenia”",municipiul FOCŞANI,Str. Făgăraş 3,sf. sec. XVIII
+175,VN-II-m-B-06429,Biserica „Sf. Voievozi”,municipiul FOCŞANI,Str. Garofiţei 7,1744 - 1746
+176,VN-II-m-B-06430,Casa Alaci (fost pension),municipiul FOCŞANI,Bd. Gării 1,sec. XIX
+177,VN-II-m-B-06431,Casa Ştefănescu,municipiul FOCŞANI,Bd. Gării 5,1930
+179,VN-II-m-B-06433,Casa Damian,municipiul FOCŞANI,Bd. Gării 8,1904
+180,VN-II-m-B-06434,Casa Longinescu,municipiul FOCŞANI,Bd. Gării 10,sec. XVIII
+181,VN-II-m-B-06435,Casa Cristoff Garabet (Tănăsescu),municipiul FOCŞANI,Bd. Gării 12,1880
+182,VN-II-m-B-06436,Casa Cristache Solomon,municipiul FOCŞANI,Bd. Gării 22,înc. sec. XX
+183,VN-II-m-B-06437,Biserica „Sf. Nicolae”,municipiul FOCŞANI,Str. Ghioceilor 9,sf. sec. XVIII
+184,VN-II-m-B-06438,Casă,municipiul FOCŞANI,Str. Greva de la Griviţa 24,înc. sec. XX
+185,VN-II-a-B-06439,Ansamblul bisericii „Sf. Gheorghe” - Nord,municipiul FOCŞANI,Bd. Independenţei 20,sec. XIX
+186,VN-II-m-B- 06439.01,Biserica „Sf. Gheorghe” - Nord,municipiul FOCŞANI,Bd. Independenţei 20,1819
+187,VN-II-m-B- 06439.02,Clopotniţă,municipiul FOCŞANI,Bd. Independenţei 20,1839
+188,VN-II-m-B-06440,"Biserica „Sf. Apostoli"" de la Ocol",municipiul FOCŞANI,Bd. Independenţei 46,1850
+189,VN-II-m-B-06442,Casa Gheorghe Botez,municipiul FOCŞANI,Str. Ipătescu Ana 12,sec. XIX
+190, VN-II-m-A-06443, Banca Naţională, municipiul FOCŞANI, Str. Kogălniceanu Mihail 1, 1926
+192,VN-II-m-B-06445,Fosta Cameră de comerţ,municipiul FOCŞANI,Str. Kogălniceanu Mihail 12,sec. XIX
+193,VN-II-m-B-06446,Casa dr. Blum,municipiul FOCŞANI,Str. Kogălniceanu Mihail 13,sf. sec. XIX
+194,VN-II-a-A-06447,"Ansamblul bisericii „Proorocul Samuil”, fosta mănăstire ""Roman""",municipiul FOCŞANI,Str. Mare a Unirii 28,1756 - 1789
+195,VN-II-m-A- 06447.01,Biserica „Proorocul Samuil”,municipiul FOCŞANI,Str. Mare a Unirii 28,1756
+196,VN-II-m-A- 06447.02,Zid de incintă,municipiul FOCŞANI,Str. Mare a Unirii 28,1789
+197,VN-II-a-B-06449,Ansamblul bisericii „Sf. Voievozi” - Stamatineşti,municipiul FOCŞANI,Str. Moldova 5,sec. XVIII
+198,VN-II-m-B- 06449.01,Biserica „Sf. Voievozi” - Stamatineşti,municipiul FOCŞANI,Str. Moldova 5,1789 - 1798
+199,VN-II-m-B- 06449.02,Zid de incintă,municipiul FOCŞANI,Str. Moldova 5,sec. XVIII
+200,VN-II-m-B-06450,Casă,municipiul FOCŞANI,"Str. Muntenescu, aviator 30",sf. sec. XIX
+201,VN-II-m-B-06451,Casa I. Brătilă,municipiul FOCŞANI,Str. Oituz 62,1901
+202,VN-II-m-B-06452,Biserica „Intrarea Maicii Domnului în Biserică”,municipiul FOCŞANI,Str. Ovidenia 11,1687
+203,VN-II-m-B-06453,Biserica „Adormirea Maicii Domnului” - Donie,municipiul FOCŞANI,Str. Pastia Gheorghe Maior 6,1708 - 1712
+205,VN-II-m-B-06455,Casa baron Capri,municipiul FOCŞANI,Bd. Republicii 8,sf. sec. XIX
+206,VN-II-m-B-06456,Şcolile Armeneşti,municipiul FOCŞANI,Str. Republicii 3A-3B,sf. sec. XVIII
+207,VN-II-m-B-06457,Casa Ferhat,municipiul FOCŞANI,Str. Republicii 9,sec. XIX
+208,VN-II-m-B-06463,Casa dr. Boiu,municipiul FOCŞANI,Str. Republicii 11,sf. sec. XIX
+209,VN-II-m-B-06458,Casa Honig Moritz - Georgescu,municipiul FOCŞANI,Str. Republicii 12,1895
+210,VN-II-m-B-06459,Casă,municipiul FOCŞANI,Str. Republicii 14,sec. XIX
+211,VN-II-m-B-06460,Casă,municipiul FOCŞANI,Str. Republicii 16,înc. sec. XX
+212,VN-II-m-A-06461,Clădirea Prefecturii,municipiul FOCŞANI,Str. Republicii 71,1913 - 1926
+213,VN-II-m-A-06462,Teatru „Maior Gh. Pastia”,municipiul FOCŞANI,Str. Republicii 73,1909 - 1913
+214,VN-II-m-B-06464,Biserica „Adormirea Maicii Domnului”,municipiul FOCŞANI,Str. Rodnei 3,1760 - 1770
+215,VN-II-m-B-06465,Tăbăcăria Tăchiţă Nistor,municipiul FOCŞANI,Str. Rodnei 12,1896
+216,VN-II-m-B-06466,Casă,municipiul FOCŞANI,Str. Sava Maior 4B,sec. XIX
+218,VN-II-m-B-06468,Casa colonel Patriciu,municipiul FOCŞANI,Str. Sava Maior 17,sf. sec. XIX
+219,VN-II-m-B-06469,Casa Puşcă,municipiul FOCŞANI,Str. Şonţu Maior 25,
+220,VN-II-m-B-06470,Casa Tomescu (Schmoll),municipiul FOCŞANI,Str. Ştefan cel Mare 18,sec. XIX
+221,VN-II-m-B-06471,Casa Brăileanu,municipiul FOCŞANI,Str. Ştefan cel Mare 21,1889
+222,VN-II-m-B-06472,Casa Chiriţescu,municipiul FOCŞANI,Str. Ştefan cel Mare 27,sec. XIX
+223,VN-II-m-B-06473,Casa Eliade Holban,municipiul FOCŞANI,Str. Ştefan cel Mare 35,1928
+224,VN-II-m-B-06474,Casă,municipiul FOCŞANI,Str. Ştefan cel Mare 37,înc. sec. XX
+225,VN-II-m-B-06477,Casa Giurgea,municipiul FOCŞANI,Str. Tăbăcari 3,înc. sec. XX
+226,VN-II-m-B-06478,Casă,municipiul FOCŞANI,Str. Tăbăcari 9,sec. XIX
+227,VN-II-m-B-06476,Pivnița casei Nistor,municipiul FOCŞANI,Str. Tăbăcari 40,sec. XIX
+228, VN-II-m-B-06479, Biserica „Sf. Spiridon”, municipiul FOCŞANI, Str. Tăbăcari 41, 1820 - 1826
+229,VN-II-m-B-06480,Casă,municipiul FOCŞANI,Str. Tătulescu 15,înc. sec. XX
+231,VN-II-m-B-06482,Casa dr. Saideman,municipiul FOCŞANI,Str. Titulescu Nicolae 1,sec. XIX
+232,VN-II-m-B-06483,Casă,municipiul FOCŞANI,Str. Titulescu Nicolae 6,înc. sec. XX
+233,VN-II-m-B-06484,Casă,municipiul FOCŞANI,Str. Titulescu Nicolae 12,sf. sec. XIX
+234,VN-II-a-A-06485,Ansamblul bisericii „Sf. Împăraţi Constantin şi Elena”,municipiul FOCŞANI,Bd. Unirii 22,
+235,VN-II-m-A- 06485.01,Biserica „Sf. Împăraţi Constantin şi Elena”,municipiul FOCŞANI,Bd. Unirii 22,1815
+236,VN-II-m-A- 06485.02,Zid de incintă,municipiul FOCŞANI,Bd. Unirii 22,sec. XVIII
+237,VN-II-m-B-06486,Biserica „Adormirea Maicii Domnului” - Precista,municipiul FOCŞANI,Bd. Unirii 42,1709 - 1716
+238,VN-II-a-B-06487,"Ansamblul ""Piaţa Unirii""",municipiul FOCŞANI,Piaţa Unirii,
+239,VN-II-m-B-06488,Ateneul Popular,municipiul FOCŞANI,Piaţa Unirii 3,1927
+240,VN-II-m-A-06489,"Biserica ""Naşterea Sf. Ioan Botezătorul""",municipiul FOCŞANI,Piaţa Unirii 5,1660 -1664
+241,VN-II-m-B-06490,Biserica „Sf. Gheorghe” - Sud,municipiul FOCŞANI,"Str. Vâlcele 17, în incinta Cimitirului Sudic",sec. XVIII
+242,VN-II-m-B-06492,Vila Cicinetta,municipiul FOCŞANI,Str. Zamfirescu Duiliu 6,înc. sec. XX
+244,VN-II-m-B-06493,Primăria,oraş ADJUD,Str. Alecsandri Vasile 7,înc.sec. XX
+245,VN-II-m-B-06495,Biserica de lemn „Sf. Nicolae”,sat ANGHELEŞTI; comuna RUGINEŞTI,"În centrul satului, şosea E 85",1757-1758
+246,VN-II-m-B-06498,Biserica „Sf. Voievozi”,sat BONTEŞTI; comuna CÂRLIGELE,La intersecţia drumului comunal Cârligele-Dălhăuţi,sf. sec. XVII - înc. sec. XVIII
+247,VN-II-m-A-06499,Biserica „Adormirea Maicii Domnului”,sat BORDEŞTI; comuna BORDEŞTI,"Spre sud, la intrarea în sat",1698 - 1699
+248,VN-II-m-B-06500,Biserica de lemn „Cuvioasa Paraschiva” - Tei,sat CÂMPURI; comuna CÂMPURI,"DJ Panciu - Soveja, la intrarea în sat",1663
+249,VN-II-m-B-06501,Biserica „Naşterea Maicii Domnului” a fostului Schit Recea,sat CÂNDEŞTI; comuna DUMBRĂVENI,Str. Mănăstirea Recea 4,1802 - 1804
+250,VN-II-m-B-06502,Biserica Sf. Arhangheli Mihail şi Gavril,sat CHIOJDENI; comuna CHIOJDENI,,sec. XVIII
+251,VN-II-m-A-06503,Biserica de lemn „Sf. Ioan Botezătorul”,sat CHIŢCANI; comuna MOVILIŢA,"În centrul satului, pe DJ Panciu - Adjud",sec. XVII
+252,VN-II-a-A-06504,Mănăstirea Coteşti,sat COTEŞTI; comuna COTEŞTI,"Incintă mănăstire Coteşti, la N de sat",1720
+253,VN-II-m-A- 06504.01,Biserica „Sf. Treime”,sat COTEŞTI; comuna COTEŞTI,"Incintă mănăstire Coteşti, la N de sat",1720
+254,VN-II-m-A- 06504.02,Turn clopotniţă,sat COTEŞTI; comuna COTEŞTI,"Incintă mănăstire Coteşti, la N de sat",1720
+255,VN-II-m-B-06506,Biserica „Sf. Ioan Botezătorul”,sat COZA; comuna TULNICI comuna CÂRLIGELE,"Pe malul drept al râului Coza, la 1 km de DN Focşani - Greşu - Braşov pe doi pinteni de deal",1873
+257,VN-II-m-B- 20832.01,"Biserica de lemn ""Sf. Arhangheli”",sat DĂLHĂUŢI; comuna CÂRLIGELE,"La 1 km N de sat pe drum forestier, pe doi pinteni de deal",1810
+258,VN-II-m-B- 20832.02,"Biserica ""Izvorul Tămăduirii”",sat DĂLHĂUŢI; comuna CÂRLIGELE,"La 1 km N de sat pe drum forestier, pe doi pinteni de deal",1828
+259,VN-II-m-B- 20832.03,"Biserica ""Sf. Împăraţi”",sat DĂLHĂUŢI; comuna CÂRLIGELE,"La 1 km N de sat pe drum forestier, pe doi pinteni de deal",1840 - 1850
+260,VN-II-m-A-06508,Biserica „Adormirea Maicii Domnului”,sat DOMNEŞTI; comuna PUFEŞTI,"La N de sat, 1 km dreapta din E 85 Focşani-Adjud",1661 - 1667
+261,VN-II-a-A-06509,Fosta mănăstire Soveja,sat DRAGOSLOVENI; comuna SOVEJA,La intrarea în staţiunea Soveja,1645
+262,VN-II-m-A- 06509.01,Biserica „Naşterea Domnului”,sat DRAGOSLOVENI; comuna SOVEJA,La intrarea în staţiunea Soveja,1645
+263,VN-II-m-A- 06509.02,Turn clopotniţă,sat DRAGOSLOVENI; comuna SOVEJA,La intrarea în staţiunea Soveja,1645
+264,VN-II-m-A- 06509.03,Fragmente zid incintă,sat DRAGOSLOVENI; comuna SOVEJA,La intrarea în staţiunea Soveja,1645
+265,VN-II-m-B-06510,Biserica „Sf. Voievozi”,sat FLOREŞTI; comuna CÂMPINEANCA,"Pe DJ Focşani - Câmpineanca prin Vâlcele, la intrarea în sat",sec. XVII
+266,VN-II-m-B-06511,Biserica de lemn „Sf. Voievozi”,sat GUGEŞTI; comuna GUGEŞTI,Str. Unirii 116,1879
+267,VN-II-m-B-06512,Zidul lui Donie,sat HÂNGULEŞTI; comuna VULTURU,"La ieşirea de V a satului, pct. ""Sonda”",1800
+268,VN-II-m-B-21099,"Biserica de lemn ”Sfânta Treime”, Schitul Buluc „Adormirea Maicii",comuna JARIȘTEA comuna CORBIŢA,,
+270,VN-II-m-A- 06513.01,Biserica de lemn „Adormirea Maicii Domnului”,sat LĂRGĂŞENI; comuna CORBIŢA,La intersecţia DJ Adjud-Podu Turcului-Lărgăşeni,1760
+271,VN-II-m-A- 06513.02,Turn clopotniţă,sat LĂRGĂŞENI; comuna CORBIŢA,La intersecţia DJ Adjud-Podu Turcului-Lărgăşeni,1760
+272,VN-II-m-B-06514,Biserica de lemn „Adormirea Maicii Domnului”,sat LEPŞA; comuna TULNICI,"În incinta Mănăstirii Lepşa, la 1 km de şoseaua Tulnici - Ojdula",1930 - 1936
+273,VN-II-m-B-06515,Biserica „Naşterea Maicii Domnului”,sat LESPEZI; comuna HOMOCEA,"În centrul satului, pe stânga DJ Adjud-Tecuci",1809
+274,VN-II-m-B-06516,Biserica „Sf. Nicolae”,sat MALURI; comuna VULTURU,"În centrul satului, pe DC Vulturu- Mălureni",1819
+275,VN-II-m-A-06517,Biserica de lemn „Adormirea Maicii Domnului”,sat MĂNĂSTIOARA; comuna FITIONEŞTI,"Drum comunal, la 500 m de şoseaua Mănăstioara - Fitioneşti",sec. XVIII
+276, VN-II-m-B-06518, Gara Mărăşeşti, oraş MĂRĂŞEŞTI, Str. Doinei 1, mijl.sec. XIX
+277,VN-II-a-A-06519,Fosta mănăstire Mera,sat MERA; comuna MERA,"Pe dealul Merei, drum comunal, la 1 km de DJ Focşani-Andreiaşu",1685
+278,VN-II-m-A- 06519.01,Biserica „Sf. Împăraţi”,sat MERA; comuna MERA,"Pe dealul Merei, drum comunal, la 1 km de DJ Focşani-Andreiaşu",1685
+279,VN-II-m-A- 06519.02 06519.03,Clădiri anexe,sat MERA; comuna MERA MERA,"Pe dealul Merei, drum comunal, la 1 km de DJ Focşani-Andreiaşu km de DJ Focşani-Andreiaşu",1685
+281,VN-II-m-A- 06519.04,Zid de incintă,sat MERA; comuna MERA,"Pe dealul Merei, drum comunal, la 1 km de DJ Focşani-Andreiaşu",1685
+282,VN-II-m-B-06520,Biserica „Sf. Ecaterina”,sat MILCOVUL; comuna MILCOVUL,În centrul satului pe DJ Focşani- Milcovul,mijl.sec. XIX
+283,VN-II-m-B-06521,Biserica „Sf. Voievozi”,sat MIRCEŞTII VECHI; comuna VÂNĂTORI,"Pe malul râului Putna, DJ Focşani- Doaga",sec. XVIII
+284,VN-II-m-B-06522,Biserica de lemn „Intrarea în Biserică”,sat NĂNEŞTI; comuna TĂNĂSOAIA,"În centrul satului, DN Focşani-Brăila",1776
+285,VN-II-m-B-06523,Biserica „Cuvioasa Paraschiva”,sat NĂRUJA; comuna NĂRUJA,"În centrul satului, pe DJ Vidra-Nereju",1788
+286,VN-II-m-B-06524,Biserica de lemn „Sf. Nicolae”,sat NISTOREŞTI; comuna NISTOREŞTI,"În centrul satului, pe DC Năruja- Herăstrău",sec. XVIII
+287,VN-II-m-B-06505,Biserica de lemn „Adormirea Maicii Domnului”,sat ODOBASCA; comuna COTEŞTI,În incinta cimitirului Coteşti,sec. XVII
+288,VN-II-m-A-06525,Beciul domnesc,oraş ODOBEŞTI,Str. Beciul Domnesc 8,sec. XVI
+289,VN-II-m-B-06530,Gara Odobeşti,oraş ODOBEŞTI,Str. Caporal Diea 15,1893
+290,VN-II-m-A-20956,Biserica „Sf. Apostoli Petru şi Pavel” - Cazaclii,oraş ODOBEŞTI,Str. Cazaclii 37,1777
+291,VN-II-m-B-06527,Şcoală cu două corpuri,oraş ODOBEŞTI,Str. Dobrogeanu Gherea Constantin 1,sf. sec. XIX
+292,VN-II-m-B-06529,Beciurile Bahamat,oraş ODOBEŞTI,Str. Fundătura Cetăţuia 5 fostei ferme IAS,sec. XIX
+294,VN-II-m-B-06532,Casa Apostu,oraş ODOBEŞTI,Str. Libertăţii 51,1901
+295,VN-II-m-B-06533,Primăria Odobeşti,oraş ODOBEŞTI,Str. Libertăţii 113,1900
+296,VN-II-m-B-06534,Casa dr. Georgescu,oraş ODOBEŞTI,Str. Libertăţii 124,sf. sec. XIX
+297,VN-II-m-B-06535,Casa Cureţeanu,oraş ODOBEŞTI,Str. Smârdan 87,sf. sec. XIX
+298,VN-II-a-A-06537,Ansamblul bisericii „Sfânta Cruce”,oraş ODOBEŞTI,Str. Ştefan cel Mare 38,sec. XVIII
+299,VN-II-m-A- 06537.01,Biserica „Sfânta Cruce”,oraş ODOBEŞTI,Str. Ştefan cel Mare 38,sec. XVIII
+300,VN-II-m-A- 06537.02,Turn clopotniţă,oraş ODOBEŞTI,Str. Ştefan cel Mare 38,sec. XVIII
+301,VN-II-m-A- 06537.03,Zid de incintă,oraş ODOBEŞTI,Str. Ştefan cel Mare 38,sec. XVIII
+302,VN-II-m-B-06536,Casa Pogorevici,oraş ODOBEŞTI,Str. Ştefan cel Mare 59A,înc.sec. XX
+303,VN-II-m-B-06539,Casa Vianu,oraş ODOBEŞTI,Str. Ştefan cel Mare 65,înc.sec. XX
+304,VN-II-m-A-06540,Biserica „Naşterea Maicii Domnului”,oraş ODOBEŞTI,Str. Vladimirescu Tudor 5,1732
+305, VN-II-m-B-06541, Biserica „Ovidenia”, oraş ODOBEŞTI URECHEŞTI, Str. Vlahuţă Alexandru 3 Urecheşti-Vărzăreşti," 1670-1680, rep. 1820"
+307,VN-II-m-B- 06542.01,Biserica „Sf. Gheorghe”,sat PALANCA; comuna URECHEŞTI,"Drum forestier, 3 km către Urecheşti-Vărzăreşti",1644
+308,VN-II-m-B- 06542.02,Biserica „Adormirea Maicii Domnului”,sat PALANCA; comuna URECHEŞTI,"Drum forestier, 3 km către Urecheşti-Vărzăreşti",1644
+309,VN-II-m-B-06543,Beciul Vlădoianu,oraş PANCIU,"În marginea de S a oraşului, pe drumul spre Schitul Brazi",sec. XIX
+310,VN-II-m-B-06544,Beciul Marin Ştefan,oraş PANCIU,"În N de oraş, pe drumul spre Moviliţa",sec. XIX
+311,VN-II-m-A-06545,Beciul Domnesc,oraş PANCIU,"Pe Valea Cerbului, la 5 km de oraşul Panciu",sec. XVIII
+312,VN-II-m-B-06546,Paraclisul schitului Brazi,oraş PANCIU,"La S de oraş, pe partea dreaptă a pârâului Hăulita",sec. XVIII
+313,VN-II-m-B-06547,Casa Nicolae Milea,oraş PANCIU,Str. Cuza Vodă 15,înc. sec. XX
+314,VN-II-m-B-06548,Gard de fier (casa Gâtză),oraş PANCIU,Str. Nicolae Titulescu,sec. XIX - XX
+315,VN-II-m-B-06549,Casa Sergiu Seferovici,oraş PANCIU,Str. Porumbescu Ciprian 22,1936
+316,VN-II-m-B-06550,Biserica de lemn „Sf. Nicolae”,sat PĂULEŞTI; comuna PĂULEŞTI,"La N de sat, în fostul cimitir",1791
+317,VN-II-s-B-06551,Crângul Petreşti - Rezervaţie de arhitectură şi tehnică populară,sat PETREŞTI; comuna VÂNĂTORI,Pe DJ Focşani - Petreşti - Vânători,1977
+318,VN-II-m-B-06553,Biserica „Sf. Apostoli Petru şi Pavel” a mănăstirii,sat PLOSCUŢENI; comuna PLOSCUŢENI,"În coasta dealului Nicoreşti, pe DJ Adjud-Tecuci",1882 - 1891
+319,VN-II-m-A-06554,Biserica de lemn „Sf. Nicolae”,sat PRISACA; comuna VALEA SĂRII,"La ieşirea din sat, DJ Vidra-Nereju",sec. XVIII
+320,VN-II-m-B-06555,Biserica de lemn „Sf. Voievozi”,sat RĂCOASA; comuna RĂCOASA,"La N de sat, la 500 m, pe şoseaua spre Mărăşeşti",1807
+321,VN-II-m-A-06556,Biserica de lemn „Cuvioasa Paraschiva”,sat RUGINEŞTI; comuna RUGINEŞTI,"La intrarea în sat, pe partea dreaptă a şoselei E 85",sec. XVII
+322,VN-II-m-B-06557,Biserica „Naşterea Sf. Ioan Botezătorul” a schitului Rogozu,sat SLOBOZIA BRADULUI; comuna SLOBOZIA BRADULUI,"Pct. ""Rogozu”, la 3 km pe DC Slobozia Bradului-Rogozu, în Poiana Rusului",înc.sec. XIX
+323,VN-II-m-B-06558,Biserica „Sf. Nicolae”,sat SLOBOZIA BRADULUI; comuna SLOBOZIA BRADULUI,"La N de sat, lângă fostul IAS",1808
+324,VN-II-m-A-06559,Biserica de lemn „Sf. Nicolae”,sat desfiinţat STRĂOANE DE SUS; comuna STRĂOANE,"În centrul satului, la 500 m de centrul judeţean Panciu Soveja, în incinta cimitirului",sec. XVII
+325,VN-II-m-B-06560,Casa Sclavone cu anexe,sat ŢIFEŞTI; comuna ŢIFEŞTI,"În centrul satului, punct ""Oleşeşti”",1860
+326,VN-II-m-B-06561,Casa Duţă,sat ŢIFEŞTI; comuna ŢIFEŞTI,"24, ""Sârbi”",sf. sec. XIX
+327,VN-II-a-A-06562,Schitul Valea Neagră,sat VALEA NEAGRĂ; comuna NISTOREŞTI,"Schit Valea Neagră, la 1,5 km spre Herăstrău",1755 - 1757
+328,VN-II-m-A- 06562.01,Biserica „Adormirea Maicii Domnului”,sat VALEA NEAGRĂ; comuna NISTOREŞTI,"Schit Valea Neagră, la 1,5 km spre Herăstrău",1755 - 1757
+329,VN-II-m-A- 06562.02,Turn clopotniţă Paraschiva”,sat VALEA NEAGRĂ; comuna NISTOREŞTI comuna VALEA SĂRII,"Schit Valea Neagră, la 1,5 km spre Herăstrău Vidra - Tulnici",1755 - 1757
+331,VN-II-m-B-06552,Biserica de lemn „Sf. Voievozi”,sat VETREŞTI; comuna NISTOREŞTI,"La ieşirea din sat, pe drumul Năruja- Herăstrău",sec. XVIII
+332,VN-II-m-B-06565,Şcoală,sat VIDRA; comuna VIDRA,La intrarea în sat,sf. sec. XIX
+333,VN-II-m-B-06566,Spitalul comunal,sat VIDRA; comuna VIDRA,"La intrarea în sat, pe drumul către Burca",sf. sec. XIX
+334,VN-II-m-B-06567,Casa Cincu,sat VITĂNEŞTI; comuna ŢIFEŞTI,"La intrarea în sat, în faţa morii, pe DC Sârbi-Clipiceşti",sec. XIX
+335,VN-II-m-B-06568,Moară de apă,sat VITĂNEŞTI; comuna ŢIFEŞTI,"În marginea satului, pe DC Sârbi- Clipiceşti",1615
+336,VN-II-a-A-06569,Fosta mănăstire Vizantea,sat VIZANTEA; comuna VIZANTEA,"Pe DJ Câmpuri-Vidra, în incinta fostei mănăstiri Vizantea",sec. XVII
+337,VN-II-m-A- 06569.01,Biserica nouă „Sf. Cruce”,sat VIZANTEA; comuna VIZANTEA,"Pe DJ Câmpuri-Vidra, în incinta fostei mănăstiri Vizantea",1850 - 1854
+338,VN-II-m-A- 06569.02,Turn clopotniţă,sat VIZANTEA; comuna VIZANTEA,"Pe DJ Câmpuri-Vidra, în incinta fostei mănăstiri Vizantea",sec. XVII
+339,VN-II-m-A- 06569.03,Zid de incintă,sat VIZANTEA; comuna VIZANTEA,"Pe DJ Câmpuri-Vidra, în incinta fostei mănăstiri Vizantea",sec. XVII
+340,VN-II-m-B-06570,Biserica „Adormirea Maicii Domnului”,sat VOETIN; comuna SIHLEA,"În centrul satului, pe DJ Focşani-Rm.- Sărat",1808
+341,VN-II-m-A-06571,Biserica de lemn „Sf. Nicolae”,sat VRÂNCIOAIA; comuna VRÂNCIOAIA,"În centrul satului, pe DC Năruja- Muncei",1783
+342,VN-III-m-B-06572,Placă comemorativă Societatea Studenţilor Putneni Regimentului 10 Dorobanţi,municipiul FOCŞANI,"Str. Bolliac Cezar 15, în incinta Liceului Unirea",1921
+344,VN-III-m-B-06574,Monumentul Eroilor Regimentului 11 Artilerie,municipiul FOCŞANI,"Bd. Bucureşti, în incinta MOPAF S.A. Vrancea",1927
+345,VN-III-m-B-06577,Statuia Independenţei,municipiul FOCŞANI,"Bd. Cantemir Dimitrie 15, în faţa Tribunalului",1916
+346,VN-III-m-B-06575,Bustul lui Nicolae Filipescu,municipiul FOCŞANI,Str. Cuza Vodă 35,1928
+347,VN-III-m-B-06576,Bustul lui Gh.Rarincescu,municipiul FOCŞANI,Str. Cuza Vodă 46,1911
+348,VN-III-m-B-06578,Bustul lui Petre Liciu,municipiul FOCŞANI,"Str. Republicii 77, Parcul Teatrului",1913
+349,VN-III-m-B-06579,Monumentul Unirii,municipiul FOCŞANI,Piaţa Unirii,1974
+350,VN-III-m-B-06580,Placă comemorativă (1916- 1918),oraş ADJUD,Str. Libertăţii 15,1921
+351,VN-III-m-B-06581,Monumentul comemorativ Ştefan cel Mare,sat BÂRSEŞTI; comuna BÂRSEŞTI,"""Dumbrava”",1904
+352,VN-III-m-B-06582,Statuia generalissimului Alexandr Suvorov,sat DUMBRĂVENI; comuna DUMBRĂVENI,"Str. Zamfirescu Duiliu 95, La intersecţia E85 cu DJ Dumbrăveni - Vintileasca",înc. sec. XX
+353,VN-III-m-B-06583,Bustul lui Alexandru Ioan Cuza,oraş MĂRĂŞEŞTI,"Str. Republicii, Parcul Al. I. Cuza",1908
+354,VN-III-m-B-06584,Monumentul Eroilor Regimentului 10 Dorobanţi,oraş MĂRĂŞEŞTI,"Str. Republicii 74, în curtea Liceului Mărăşeşti",1909
+355,VN-III-m-B-06585,Bustul generalului Alexandru Averescu,sat MĂRĂŞTI; comuna RĂCOASA componentă TIŞIŢA;,În incinta Mausoleului,1928
+357,VN-III-m-B-06587,Monumentul frăţiei de arme româno-franceze (1916 - 1919),sat VARNIŢA; comuna RĂCOASA,În incinta şcolii generale,1930
+358,VN-III-m-B-06588,Monumentul Eroilor vrânceni din primul război mondial (1916-1919),sat VIDRA; comuna VIDRA,"La intrarea în comună, DJ Focşani- Vidra",1936
+359,VN-IV-s-B-06589,Cimitir evreiesc,municipiul FOCŞANI,DJ Focşani-Petreşti,sec. XIX
+360,VN-IV-s-B-06590,Cimitir evreiesc,municipiul FOCŞANI,Str. Bălcescu Nicolae 18,sec. XIX
+361,VN-IV-m-B-06591,Casa lui Anghel Saligny,municipiul FOCŞANI,Str. Bărnuţiu Simion 9,sf. sec. XIX
+362,VN-IV-m-B-06592,Mausoleul Eroilor (1916 - 1919),municipiul FOCŞANI,Bd. Bucureşti,1926
+363,VN-IV-m-B-06595,Basorelief,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1939
+364,VN-IV-m-B-06596,Basorelief Gh. C. Longinescu,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1934
+365,VN-IV-m-B-06597,Basorelief Zamfir I. Gheorghiu,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1900
+366,VN-IV-m-B-06598,Basorelief maior Lazăr Nicolescu - Voitineanu,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1905
+367,VN-IV-m-B-06599,Basorelief Elena Cardaş,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1903
+369,VN-IV-m-B-06602,Bustul inspectorului de artilerie Mihai Pastia,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",sf. sec. XIX
+370,VN-IV-m-B-06603,Basorelief Zoe şi Dumitru Bengescu,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1915
+371,VN-IV-m-B-06604,Basorelief general Raşcu,municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",înc. sec. XX
+372,VN-IV-s-B-06605,Cimitirul Eroilor români (1916 - 1919),municipiul FOCŞANI,"Str. Mărăşeşti 70, Cimitirul Nordic",1901
+373,VN-IV-s-B-06606,"Cimitirul ostaşilor români, ruşi, germani, austrieci şi unguri (1916 - 1919)",municipiul FOCŞANI,"Str. Răsăritului 37, Cimitirul Mina - Bahne",1931 - 1932
+374,VN-IV-m-B-06594,Bornă de hotar,municipiul FOCŞANI,Piața Unirii,1931
+375,VN-IV-m-B-06607,Bustul dr. N. Eliean,municipiul FOCŞANI,"Str. Vâlcele 17, Cimitirul Sudic",1918
+376,VN-IV-m-B-06608,Bustul Mariei Georgescu,municipiul FOCŞANI,"Str. Vâlcele 17, Cimitirul Sudic",1921
+377,VN-IV-m-B-06609,Cavoul Perieţeanu,municipiul FOCŞANI,"Str. Vâlcele 17, Cimitirul Sudic",sec. XIX
+378,VN-IV-m-B-06610,Cavoul Simionescu- Râmniceanu,municipiul FOCŞANI,"Str. Vâlcele 17, Cimitirul Sudic",1899
+379,VN-IV-m-B-06611,Monumentul Eroilor români şi ruşi (1916 - 1918),oraş ADJUD,"Str. Republicii 2, în cimitirul oraşului",sec. XX
+380,VN-IV-m-B-06612,Monumentul Eroilor (1877 1878 şi 1916 - 1919) 1878 şi 1916 - 1919),- sat BĂLEŞTI; comuna BĂLEŞTI BÂRSEŞTI,"În centrul satului, în faţa dispensarului",sec. XX
+382,VN-IV-s-A-06653,Cimitirul ostaşilor germani (1916 - 1919),"sat BĂTINEȘTI, comuna ȚIFEȘTI","""Frunzoaia”, pe DJ Focşani-Panciu",1924
+383,VN-IV-s-A-06614,Cimitirul ostaşilor români şi germani (1916-1919),sat BORDEŞTI; comuna BORDEŞTI,DJ Focşani-Bordeşti,1930 - 1932
+384,VN-IV-m-B-06615,Monumentul Eroilor (1916 1918),- sat CÂMPINEANCA; comuna CÂMPINEANCA,"în centrul satului, pe DJ Focşani - Odobeşti, lângă grădiniţa de copii",1927
+385,VN-IV-m-B-06616,Troiţa Eroilor (1916 - 1918),sat CÂRLIGELE; comuna CÂRLIGELE,"La intrarea în sat, punctul ""Răspântie""",1933
+386,VN-IV-m-B-06617,Monumentul Eroilor (1916 1918),- sat DOMNEŞTI; comuna PUFEŞTI,Lângă Biserica Domnească,1928
+387,VN-IV-m-A-06619,Mausoleul Eroilor (1916 - 1919),sat DRAGOSLOVENI; comuna SOVEJA,La intrarea în staţiunea Soveja,1929
+388,VN-IV-s-B-06620,Cimitirul ostaşilor germani (1916 - 1919),sat DRAGOSLOVENI; comuna SOVEJA,"În staţiunea Soveja, la limita incintei Mănăstirii Soveja",înc. sec. XX
+389,VN-IV-m-B-06618,Casa lui Alexandru Vlahuţă,sat DRAGOSLOVENI; comuna DUMBRĂVENI,Str. Vlahuță Alexandru 3,sec. XIX
+390,VN-IV-m-B-06621,Monumentul Eroilor (1877 1878),- sat DUMITREŞTI; comuna DUMITREŞTI,la intersecţia DJ Focşani - Dumitreşti şi Rm. Sărat - Dumitreşti,1909
+391, VN-IV-m-B-06622, Monumentul Eroilor (1916 1918), - sat FLOREŞTI; comuna CÂMPINEANCA, În faţa primăriei, 1927
+392,VN-IV-m-B-06623,Monumentul Eroilor (1916 1918),- sat GUGEŞTI; comuna GUGEŞTI comuna CÂMPURI,"Str. Unirii, în faţa bisericii Soveja",1930
+394,VN-IV-m-B-06625,Troiţa Eroilor (1916 - 1918),sat HĂULIŞCA; comuna PĂULEŞTI,În incinta bisericii,1937
+395,VN-IV-m-B-06626,Monumentul Eroilor (1916 1918),- sat JITIA; comuna JITIA,"""Jitia de Sus”",1934
+396,VN-IV-m-B-06627,Monumentul Eroilor (1916 1918),- sat JORĂŞTI; comuna VÂNĂTORI,În incinta bisericii,1921
+397,VN-IV-m-B-06628,Monumentul Eroilor (1916 1918),- sat LESPEZI; comuna HOMOCEA,"Str. Artera Principală, DC Homocea - Lespezi",1932
+398,VN-IV-m-B-06629,Monumentul Eroilor (1877 1878),- sat MĂICĂNEŞTI; comuna MĂICĂNEŞTI,În faţa primăriei,1912
+399,VN-IV-m-B-06630,Bustul subl. Gabriel Pruncu,oraş MĂRĂŞEŞTI,"Str. Doina, în spatele gării",1927
+400,VN-IV-m-A-06631,Mausoleul Eroilor (1916 - 1919),oraş MĂRĂŞEŞTI,Şos. Naţională 223,1923 - 1938
+401,VN-IV-m-A-06632,Mausoleul Eroilor (1916 - 1919),sat MĂRĂŞTI; comuna RĂCOASA,Câmpul Istoric Mărăşti,1928
+402,VN-IV-m-B-06633,Monumentul Eroilor (1916 1918),- sat NEREJU; comuna NEREJU,În incinta bisericii,1940
+403,VN-IV-m-B-06634,Monumentul Eroilor (1916 1918),- sat OBREJIŢA; comuna OBREJIŢA,"Str. Bisericii 562, În incinta bisericii Sf. Dumitru",1938
+404,VN-IV-m-B-06636,Monumentul Eroilor (1916 1918),- oraş ODOBEŞTI,Parcul Civic,1921
+405,VN-IV-m-B-06635,Monumentul Eroilor (1916 1918),- oraş ODOBEŞTI,Str. Libertății 340,1934
+407,VN-IV-m-B-06638,Monumentul Eroilor Regimentului 10 Putna căzuţi în 1913,oraş ODOBEŞTI,Str. Ştefan cel Mare 44,1914
+408,VN-IV-s-B-06639,Cimitir evreiesc,oraş PANCIU,"La ieşirea din oraş, spre E, către satul Haret",sec. XIX
+409,VN-IV-m-B-06640,Monumentul Eroilor (1916 1918),- oraş PANCIU,Str. Titulescu Nicolae,1928
+410,VN-IV-m-B-06641,Monumentul Eroilor (1877 1878),- sat PĂULEŞTI; comuna PĂULEŞTI,Incinta cimitirului bisericii Sfânta Maria,1927
+411,VN-IV-m-B-06642,Monumentul Eroilor (1877 1878),- sat PĂUNEŞTI; comuna PĂUNEŞTI,La V de biserică,1909
+412,VN-IV-m-B-06643,Bustul N. Ifrim,sat PLOSCUŢENI; comuna PLOSCUŢENI,În incinta schitului Sihastru,1920
+413,VN-IV-m-B-06644,Troiţa Eroilor (1916 - 1919),sat POIENIŢA; comuna DUMITREŞTI,DC Poieniţa-Lăstuni,1936
+414,VN-IV-m-B-06645,Monumentul Eroilor (1916 1918),- sat POPEŞTI; comuna POPEŞTI,În incinta bisericii,1938
+415,VN-IV-m-B-06646,Troiţa Eroilor (1877 - 1878 şi 1916 - 1918),sat PRISACA; comuna VALEA SĂRII,În incinta bisericii,1941
+416,VN-IV-m-B-06647,Monumentul Eroilor Regimentului 2 Grăniceri (1877 - 1878),sat RĂCOASA; comuna RĂCOASA,În incinta Căminului Cultural,1916
+417,VN-IV-m-B-06648,Monumentul Eroilor (1916 1919) 1878 şi 1916 - 1919),- sat RĂDĂCINEŞTI; comuna CORBIŢA comuna RĂSTOACA,"În centrul satului, pe DN 11A",1926
+419,VN-IV-m-B-06650,Monumentul Eroilor (1877 1878 şi 1916 - 1919),- sat RUGINEŞTI; comuna RUGINEŞTI,În incinta Grădiniţei de copii,1936
+420,VN-IV-a-B-20944,Ansamblul memorial şi de arhitectură Sihleanu- Grădişteanu-Ghica,sat SIHLEA; comuna SIHLEA,,sec. XIX
+421,VN-IV-m-B- 20944.02,Biserica Sfinţii Împăraţi Constantin şi Elena,sat SIHLEA; comuna SIHLEA,Str. Sihleanu Alexandru 22,1860 - 1866
+422,VN-IV-m-B- 20944.03,Bustul poetului Alexandru Sihleanu,sat SIHLEA; comuna SIHLEA,Str. Sihleanu Alexandru 22,1914
+423,VN-IV-m-B- 20944.01,Castelul Sihleanu- Grădişteanu-Ghica,sat SIHLEA; comuna SIHLEA,Str. Sihleanu Alexandru 33,1830
+424,VN-IV-m-B-06651,Monumentul Eroilor (1877 1878),- sat SURAIA; comuna SURAIA,"În centrul satului, la 1 km în partea de N a drumului comunal",1909
+425,VN-IV-m-B-06652,Monumentul Eroilor (1916 1919),- sat TĂNĂSOAIA; comuna TĂNĂSOAIA,În faţa Primăriei,1929
+426,VN-IV-m-B-06654,Monumentul Eroilor (1877 1878),- sat VÂRTEŞCOIU; comuna VÂRTEŞCOIU,În incinta şcolii,1909
+427,VN-IV-m-B-06655,Monumentul Eroilor (1916 1919),- sat VOETIN; comuna SIHLEA,În curtea şcolii generale,1937

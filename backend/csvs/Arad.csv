@@ -1,0 +1,385 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,AR-I-s-B-00424,"Situl arheologic de la Arad, punct ""La Carieră""",municipiul ARAD,"""La Carieră”",
+3,AR-I-m-B-00424.01,Necropolă,municipiul ARAD,"""La Carieră”","sec. III - II a. Chr., Latène"
+4,AR-I-m-B-00424.02,Aşezare,municipiul ARAD,"""La Carieră”",Epoca bronzului
+5,AR-I-m-B-00424.03,Aşezare,municipiul ARAD,"""La Carieră”",sec. III - II a. Chr.
+6,AR-I-s-B-00425,Aşezarea daco-romană de la Arad,municipiul ARAD,Pe terenul Complexului de sere,sec. III - V p. Chr.
+7,AR-I-s-B-00426,"Cetatea medievală de la Beliu, punct ""La Movilă""",comuna BELIU,"""La Movilă”, la 3 km SV de localitate, între şoseaua Beliu - Bocsig şi Valea Beliului",Epoca medievală timpurie
+8,AR-I-m-B-00426.01,Cetate de pământ,comuna BELIU,"""La Movilă”, la 3 km SV de localitate, între şoseaua Beliu - Bocsig şi Valea Beliului",Epoca medievală timpurie
+9,AR-I-m-B-00426.02,Movilă cu şanţ de apărare Berindia,comuna BELIU BUTENI,"""La Movilă”, la 3 km SV de localitate, între şoseaua Beliu - Bocsig şi Valea Beliului satul Livada",Epoca medievală timpurie
+11,AR-I-m-A-00427.01,Aşezare,sat BERINDIA; comuna BUTENI,"""La Cetate”, dealul Şindrioara, la S de satul Livada",sec. II - IV p. Chr.
+12,AR-I-m-A-00427.02,Aşezare fortificată,sat BERINDIA; comuna BUTENI,"""La Cetate”, dealul Şindrioara, la S de satul Livada","sec. III a. Chr. - I p. Chr., Latène, Cultura geto - dacică"
+13,AR-I-s-A-00428,Situl arheologic de la Bulci,sat BULCI; comuna BATA,"""La Cetate”, la 500 m N de cimitir şi m V de malul Mureşului",10
+14,AR-I-m-A-00428.01,Ruinele abaţiei benedictine,sat BULCI; comuna BATA,"""La Cetate”, la 500 m N de cimitir şi m V de malul Mureşului",10 sec. XIII - XVI
+15,AR-I-m-A-00428.02,Cetate,sat BULCI; comuna BATA,"""La Cetate”, la 500 m N de cimitir şi m V de malul Mureşului",10 Epoca medievală timpurie
+16,AR-I-m-A-00428.03,Castru,sat BULCI; comuna BATA,"""La Cetate”, la 500 m N de cimitir şi m V de malul Mureşului","10 sec. II - IV p. Chr., Epoca romană"
+17,AR-I-s-B-00429,Zidurile Mănăstirii Eperyes,sat CHELMAC; comuna CONOP,La 500 m NE de sat şi la 300 m S de Mureş,sec. XIV - XV
+18,AR-I-s-B-00430,Situl arheologic de la Chişineu-Criş,oraş CHIŞINEU-CRIŞ,La 2 km V,
+19,AR-I-m-B-00430.01,Aşezare,oraş CHIŞINEU-CRIŞ,La 2 km V,sec. X - XI
+20,AR-I-m-B-00430.02,Aşezare,oraş CHIŞINEU-CRIŞ,La 2 km V,sec. III - V p. Chr.
+21,AR-I-s-B-00431,Aşezare dacică Cladova,sat CICIR; comuna VLADIMIRESCU PĂULIŞ,"""La Gropi”","sec. II - III p. Chr., Latène, Cultura geto - dacică"
+23,AR-I-m-A-00432.01,Aşezare,sat CLADOVA; comuna PĂULIŞ,"""Dealul Carierei”",sec. XIV - XVI
+24,AR-I-m-A-00432.02,Biserică,sat CLADOVA; comuna PĂULIŞ,"""Dealul Carierei”",sec. XIV - XVI
+25,AR-I-m-A-00432.03,Fortificaţie de pământ,sat CLADOVA; comuna PĂULIŞ,"""Dealul Carierei”",sec. XII - XIII
+26,AR-I-m-A-00432.04,Aşezare fortificată,sat CLADOVA; comuna PĂULIŞ,"""Dealul Carierei”","sec. II - I a. Chr., Latène, Cultura geto - dacică"
+27,AR-I-m-A-00432.05,Aşezare,sat CLADOVA; comuna PĂULIŞ,"""Dealul Carierei”",Paleolitic
+28,AR-I-s-B-00433,Situl arheologic de la Conop,sat CONOP; comuna CONOP,"""Dealul Hotărel” şi ""La Cotărci”",
+29,AR-I-m-B-00433.01,Aşezare,sat CONOP; comuna CONOP,"""Dealul Hotărel” şi ""La Cotărci”",sec. XI - XII
+30,AR-I-m-B-00433.02,Aşezare,sat CONOP; comuna CONOP,"""Dealul Hotărel” şi ""La Cotărci”",Paleolitic
+31,AR-I-s-B-00434,Situl arheologic de la Covăsinţ,sat COVĂSINŢ; comuna COVĂSINŢ,La 350 m E de sat,
+32,AR-I-m-B-00434.01,Aşezare,sat COVĂSINŢ; comuna COVĂSINŢ,"""Tornea""",Epoca medievală
+33,AR-I-m-B-00434.02,Cetatea Hindec,sat COVĂSINŢ; comuna COVĂSINŢ,La 350 m E de sat,Epoca medievală
+34,AR-I-s-A-00435,Cetatea şi aşezarea medievală de la Covăsinţ,sat COVĂSINŢ; comuna COVĂSINŢ COVĂSINŢ,"""Tornea”",
+36,AR-I-m-A-00435.02,Așezare,sat COVĂSINŢ; comuna COVĂSINŢ,"""Tornea”",sec. XIII - XIV
+37,AR-I-s-B-00436,Aşezare,sat CRUCENI; comuna SAGU,"""Movilă Teşită” (Stockbrunnen)",Hallstatt
+38,AR-I-s-A-00437,Situl arheologic de la Felnac,sat FELNAC; comuna FELNAC,"""Complexul porcine”",
+39,AR-I-m-A-00437.01,Aşezare,sat FELNAC; comuna FELNAC,"""Complexul porcine”",sec. X - XII
+40,AR-I-m-A-00437.02,Aşezare,sat FELNAC; comuna FELNAC,"""Complexul porcine”",sec. III - V p. Chr.
+41,AR-I-m-A-00437.03,Aşezare,sat FELNAC; comuna FELNAC,"""Complexul porcine”",Epoca bronzului
+42,AR-I-s-B-00438,Situl arheologic de la Frumuşeni,sat FRUMUŞENI; comuna FRUMUŞENI,"""Dosul caprei”",
+43,AR-I-m-B-00438.01,Aşezare,sat FRUMUŞENI; comuna FRUMUŞENI,"""Dosul caprei”",Hallstatt
+44,AR-I-m-B-00438.02,Fortificaţie,sat FRUMUŞENI; comuna FRUMUȘENI,"""Dosul caprei”",Hallstatt
+45,AR-I-m-B-00438.03,Aşezare,sat FRUMUŞENI; comuna FRUMUŞENI,"""Dosul caprei”",Epoca bronzului
+46,AR-I-s-A-00439,Aşezare,sat FRUMUŞENI; comuna FRUMUŞENI,"La 300 m E de localitate, pe bot de deal",sec. XI - XII
+47,AR-I-m-A-21088,Mănăstirea Bizere,comuna FRUMUŞENI comuna HĂLMAGIU,"""Fântâna Turcului"", în extravilanul comunei",sec. XII-XVI
+49,AR-I-s-B-00441,Ruinele cetăţii Hălmagiu,sat HĂLMAGIU; comuna HĂLMAGIU,În curtea şcolii,sec. XVI - XVIII
+50,AR-I-s-B-00442,Aşezare,oraş LIPOVA,"""La Hodaie”","Neolitic, Cultura Tisa"
+51,AR-I-s-B-00443,Situl arheologic de la Macea,sat MACEA; comuna MACEA,"În apropierea fostului sălaş ""Topila”",
+52,AR-I-m-B-00443.01,Aşezare,sat MACEA; comuna MACEA,"În apropierea fostului sălaş ""Topila”",Epoca bronzului
+53,AR-I-m-B-00443.02,Aşezare,sat MACEA; comuna MACEA,"În apropierea fostului sălaş ""Topila”","Neolitic, Cultura Tisa"
+54,AR-I-s-A-00444,"Complexul de peşteri de la ""Hoanca Coului"", ""Izoi""",sat MONEASA; comuna MONEASA,"Complexul de peşteri ""Hoanca Coului”, ""Izoi”",
+55,AR-I-m-A-00444.01,Aşezări,sat MONEASA; comuna MONEASA,"Complexul de peşteri ""Hoanca Coului”, ""Izoi”",Neolitic
+56,AR-I-m-A-00444.02,Aşezări,sat MONEASA; comuna MONEASA,"Complexul de peşteri ""Hoanca Coului”, ""Izoi”",Paleolitic
+57,AR-I-s-B-00445,Situl arheologic de la Munar,sat MUNAR; comuna SECUSIGIU,"""Viile Bezdin”",
+58,AR-I-m-B-00445.01,Aşezare,sat MUNAR; comuna SECUSIGIU,"""Viile Bezdin”",Hallstatt
+59,AR-I-m-B-00445.02,Fortificaţie,sat MUNAR; comuna SECUSIGIU,"""Viile Bezdin”",Hallstatt
+60,AR-I-m-B-00445.03,Aşezare Păuliş,sat MUNAR; comuna SECUSIGIU PĂULIŞ,"""Viile Bezdin” zona cuprinsă între sediile poliţiei şi",Epoca bronzului
+62,AR-I-m-B-00446.01,Aşezare,sat PĂULIŞ; comuna PĂULIŞ,"Pe platoul de deal din N localităţii, în zona cuprinsă între sediile poliţiei şi fostului IAS Baratca",Hallstatt
+63,AR-I-m-B-00446.02,Aşezare,sat PĂULIŞ; comuna PĂULIŞ,"Pe platoul de deal din N localităţii, în zona cuprinsă între sediile poliţiei şi fostului IAS Baratca",Epoca bronzului
+64,AR-I-s-A-00447,Situl arheologic de la Pâncota,oraş PÂNCOTA,"""Cetatea Turcească”",
+65,AR-I-m-A-00447.01,Abaţie,oraş PÂNCOTA,"""Cetatea Turcească”","sec. XIII, Epoca medievală timpurie"
+66,AR-I-m-A-00447.02,Cetate,oraş PÂNCOTA,"""Cetatea Turcească”",Epoca medievală
+67,AR-I-m-A-00447.03,Aşezare,oraş PÂNCOTA,"""Cetatea Turcească”",Epoca bronzului
+68,AR-I-s-A-00448,"Situl arheologic de la Pecica, punct ""Şanţul Mare”",oraş PECICA,"""Şanţul Mare”",
+69,AR-I-m-A-00448.01,Necropolă,oraş PECICA,"""Şanţul Mare”","sec. XI - XII, Epoca medievală timpurie"
+70,AR-I-m-A-00448.02,Aşezare fortificată,oraş PECICA,"""Şanţul Mare”","Latène, Cultura geto - dacică"
+71,AR-I-m-A-00448.03,"Aşezare fortificată Pecica, punct ""Şanţul Mic”",oraş PECICA,"""Şanţul Mare”",Epoca bronzului
+73,AR-I-m-B-00449.01,Aşezare,oraş PECICA,"""Şanţul Mic”",sec. XIV - XV
+74,AR-I-m-B-00449.02,Aşezare,oraş PECICA,"""Şanţul Mic”",Hallstatt
+75,AR-I-s-A-00450,Situl arheologic de la Săvârşin,sat SĂVÂRŞIN; comuna SĂVÂRŞIN,"""Dealul Cetăţuia”",
+76,AR-I-m-A-00450.01,Aşezare,sat SĂVÂRŞIN; comuna SĂVÂRŞIN,"""Dealul Cetăţuia”","sec. IV a. Chr. - sec. II p. Chr., Latène, Cultura geto - dacică"
+77,AR-I-m-A-00450.02,Fortificaţie,sat SĂVÂRŞIN; comuna SĂVÂRŞIN,"""Dealul Cetăţuia”","sec. IV a. Chr. - sec. II p. Chr., Latène, Cultura geto - dacică"
+78,AR-I-m-A-00450.03,Aşezare,sat SĂVÂRŞIN; comuna SĂVÂRŞIN,"""Dealul Cetăţuia”",Epoca bronzului
+79,AR-I-s-A-00451,Valuri,sat SÂMBĂTENI; comuna PĂULIŞ,"""La Iarcuri”","sec. III - V p. Chr., Epoca daco-romană"
+80,AR-I-s-B-00452,Situl arheologic de la Sânpetru German,sat SÂNPETRU GERMAN; comuna SECUSIGIU,"""Fântâna vacilor”",
+81,AR-I-m-B-00452.01,Aşezare,sat SÂNPETRU GERMAN; comuna SECUSIGIU,"""Fântâna vacilor”","Neolitic, Cultura Bodrogkeresztur"
+82,AR-I-m-B-00452.02,Necropolă,sat SÂNPETRU GERMAN; comuna SECUSIGIU,"""Fântâna vacilor”","Neolitic, Cultura Bodrogkeresztur"
+84,AR-I-s-A-00454,"Situl arheologic de la Sântana, punct ""Cetatea Veche”",oraş SÂNTANA,"""Cetatea Veche”",
+85,AR-I-m-A-00454.01,Aşezare,oraş SÂNTANA,"""Cetatea Veche”",Epoca medievală timpurie
+86,AR-I-m-A-00454.02,Aşezare,oraş SÂNTANA,"""Cetatea Veche”",Hallstatt
+87,AR-I-m-A-00454.03,Fortificaţie,oraş SÂNTANA,"""Cetatea Veche”",Hallstatt
+88,AR-I-s-A-00455,Aşezarea şi necropola daco-romană de la Sântana,oraş SÂNTANA,"La 1 km E de gară, în dreptul bifurcaţiei liniilor ferate Arad - Oradea şi Arad - Brad, în livadă","sec. II - III p. Chr., Epoca daco-romană"
+89,AR-I-m-A-00455.01,Aşezare,oraş SÂNTANA,"La 1 km E de gară, în dreptul bifurcaţiei liniilor ferate Arad - Oradea şi Arad - Brad, în livadă","sec. II - III p. Chr., Epoca daco-romană"
+90,AR-I-m-A-00455.02,Necropolă,oraş SÂNTANA,"La 1 km E de gară, în dreptul bifurcaţiei liniilor ferate Arad - Oradea şi Arad - Brad, în livadă","sec. II - III p. Chr., Epoca daco-romană"
+91,AR-I-s-B-00456,Situl arheologic de la Socodor,sat SOCODOR; comuna SOCODOR,"""Găvăjdia”",
+92,AR-I-m-B-00456.01,Necropolă,sat SOCODOR; comuna SOCODOR,"""Găvăjdia”","sec. V - VI, Epoca migraţiilor"
+93,AR-I-m-B-00456.02,Aşezare Şeitin,sat SOCODOR; comuna SOCODOR ŞEITIN,"""Găvăjdia”","Epoca bronzului, Cultura Otomani daco-romană"
+95,AR-I-m-B-00457.01,Aşezare,sat ŞEITIN; comuna ŞEITIN,"""La Imaş”","sec. III - V p. Chr., Epoca daco-romană"
+96,AR-I-m-B-00457.02,Morminte,sat ŞEITIN; comuna ŞEITIN,"""La Imaş”","sec.III - IV p. Chr., Epoca daco-romană"
+97,AR-I-s-B-00458,Situl arheologic de la Şiclău,sat ŞICLĂU; comuna GRĂNICERI,"""La Gropoaie”",
+98,AR-I-m-B-00458.01,Necropolă,sat ŞICLĂU; comuna GRĂNICERI,"""La Gropoaie”","prima jum. a sec. X, Epoca medievală timpurie"
+99,AR-I-m-B-00458.02,Aşezare,sat ŞICLĂU; comuna GRĂNICERI,"""La Gropoaie”",Hallstatt
+100,AR-I-m-B-00458.03,Aşezare,sat ŞICLĂU; comuna GRĂNICERI,"""La Gropoaie”",Neolitic
+101,AR-I-s-B-00459,Situl arheologic de la Şimand,sat ŞIMAND; comuna ŞIMAND,"""Grozdoaia”",
+102,AR-I-m-B-00459.01,Necropolă,sat ŞIMAND; comuna ŞIMAND,"""Grozdoaia”","sec. V - VI, Epoca migraţiilor"
+103,AR-I-m-B-00459.02,Aşezare,sat ŞIMAND; comuna ŞIMAND,"""Grozdoaia”","sec. II - III p. Chr., Epoca daco-romană"
+104,AR-I-m-B-00459.03,Necropolă,sat ŞIMAND; comuna ŞIMAND,"""Grozdoaia”","sec. II - III p. Chr., Epoca daco-romană"
+105,AR-I-s-B-00460,Ruine de bazilică,sat ŞIRIA; comuna ŞIRIA,"Intravilan, la cca. 250 m E de biserica ortodoxă",sec. XIII - XV
+106,AR-I-s-A-00461,Cetatea medievală Tauţ,sat TAUŢ; comuna TAUŢ TAUŢ,,Epoca medievală
+108,AR-I-m-B-00462.01,Movilă,sat TAUŢ; comuna TAUŢ,"""La Cetate”","sec. XIII - XV, Epoca medievală"
+109,AR-I-m-B-00462.02,Val de apărare,sat TAUŢ; comuna TAUŢ,"""La Cetate”","sec. XIII - XV, Epoca medievală"
+110,AR-I-s-B-00463,Situl arheologic de la Troaş,sat TROAŞ; comuna SĂVÂRŞIN,"""Dâmbul Tătarilor” şi ""Gomile”",
+111,AR-I-m-B-00463.01,Aşezare,sat TROAŞ; comuna SĂVÂRŞIN,"""Dâmbul Tătarilor” şi ""Gomile”",Epoca bronzului
+112,AR-I-m-B-00463.02,Cetate de pământ,sat TROAŞ; comuna SĂVÂRŞIN,"""Dâmbul Tătarilor” şi ""Gomile”",Epoca bronzului
+113,AR-I-s-A-00464,Situl arheologic de la Vărădia de Mureş,sat VĂRĂDIA DE MUREŞ; comuna VĂRĂDIA DE MUREŞ,"""La Cetate”",
+114,AR-I-m-A-00464.01,Biserică,sat VĂRĂDIA DE MUREŞ; comuna VĂRĂDIA DE MUREŞ,"""La Cetate”","sec. XIII - XV, Epoca medievală"
+115,AR-I-m-A-00464.02,Cetate,sat VĂRĂDIA DE MUREŞ; comuna VĂRĂDIA DE MUREŞ,"""La Cetate”",Epoca medievală
+116,AR-I-m-A-00464.03,Aşezare fortificată,sat VĂRĂDIA DE MUREŞ; comuna VĂRĂDIA DE MUREŞ,"""La Cetate”","Latène, Cultura geto - dacică"
+117,AR-I-s-A-00465,Tell neolitic Vărşand,sat VĂRŞAND; comuna PILU PILU,"""Movila Viezurişte”","Neolitic, Cultura Tisa"
+119,AR-I-m-A-00466.01,Necropolă,sat VĂRŞAND; comuna PILU,"""Între vii”","sec.VIII - XI, Epoca medievală timpurie"
+120,AR-I-m-A-00466.02,Necropolă,sat VĂRŞAND; comuna PILU,"""Între vii”","sec. VI - VII, Epoca migraţiilor"
+121,AR-I-m-A-00466.03,Aşezare,sat VĂRŞAND; comuna PILU,"""Între vii”","Epoca bronzului, Cultura Otomani"
+122,AR-I-s-B-00467,"Situl arheologic de la Vladimirescu, punct ""La Movile” (""Ot Holom”)",sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Movile” (""Ot Holom”)",
+123,AR-I-m-B-00467.01,Aşezare,sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Movile” (""Ot Holom”)",sec. XI - XII
+124,AR-I-m-B-00467.02,Morminte tumulare,sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Movile” (""Ot Holom”)",sec. IX - XI
+125,AR-I-m-B-00467.03,Aşezare,sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Movile” (""Ot Holom”)",sec. V - VI
+126,AR-I-s-A-00468,"Situl arheologic de la Vladimirescu, punct ""La Cetate” (""Die Schantzen”)",sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Cetate” (""Die Schantzen”)",
+127,AR-I-m-A-00468.01,Necropolă,sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Cetate” (""Die Schantzen”)","sec. XI - XII, Epoca medievală timpurie"
+128,AR-I-m-A-00468.02,Cetate de pământ,sat VLADIMIRESCU; comuna VLADIMIRESCU,"""La Cetate” (""Die Schantzen”)","sec. IX - XI, Epoca medievală timpurie"
+129,AR-I-m-A-00468.03,"Aşezare Vladimirescu, punct ""La",sat VLADIMIRESCU; comuna VLADIMIRESCU comuna VLADIMIRESCU,"""La Cetate” (""Die Schantzen”)","sec. VIII - IX, Epoca medievală timpurie"
+131,AR-I-m-A-00469.01,Ruine de bazilică romanică,sat VLADIMIRESCU; comuna VLADIMIRESCU,Str. Piața Bisericii f.n.,sec. XIII - XV
+132,AR-I-m-A-00469.02,Incintă medievală,sat VLADIMIRESCU; comuna VLADIMIRESCU,Str. Piața Bisericii f.n.,Epoca medievală
+133,AR-I-s-B-00470,Situl arheologic de la Zăbrani,sat ZĂBRANI; comuna ZĂBRANI,"""Dealul Viilor”, la 300 m NV de localitate",
+134,AR-I-m-B-00470.01,Aşezare,sat ZĂBRANI; comuna ZĂBRANI,"""Dealul Viilor”, la 300 m NV de localitate","Latène, Cultura geto - dacică"
+135,AR-I-m-B-00470.02,Aşezare,sat ZĂBRANI; comuna ZĂBRANI,"""Dealul Viilor”, la 300 m NV de localitate",Paleolitic
+136,AR-I-s-B-00471,Situl arheologic de la Zădăreni,sat ZĂDĂRENI; comuna ZĂDĂRENI,"""Cartierul Nou”",
+137,AR-I-m-B-00471.01,Necropolă,sat ZĂDĂRENI; comuna ZĂDĂRENI,"""Cartierul Nou”","sec. II - III p. Chr., Epoca romană, Cultura daco - sarmatică"
+138,AR-I-m-B-00471.02,Aşezare,sat ZĂDĂRENI; comuna ZĂDĂRENI,"""Cartierul Nou”",Hallstatt
+139,AR-I-s-B-00472,Necropola romană de la Zădăreni,sat ZĂDĂRENI; comuna ZĂDĂRENI,"La cca. 200 m V de sat, la N de şoseaua Zădăreni - Bodrog, în vecinătatea unor noi construcţii","sec. II - III p. Chr., Epoca romană, Cultura daco - sarmatică"
+140,AR-I-s-B-00473,Situl arheologic de la Zerindu Mic,sat ZERINDU MIC; comuna MIŞCA,La 500 m V de sat,
+141,AR-I-m-B-00473.01,Aşezare,sat ZERINDU MIC; comuna MIŞCA comuna MIŞCA,La 500 m V de sat,Hallstatt
+143,AR-I-s-B-00474,Necropola medievală de la Zimandu Nou,sat ZIMANDU NOU; comuna ZIMANDU NOU,"""Cariera de nisip”","sec. X - XII, Epoca medievală timpurie"
+144,AR-II-a-A-00475,Ansamblul cetăţii Aradului,municipiul ARAD,Cartier Subcetate,1763 - 1800
+145,AR-II-m-A-00475.01,Cetatea Aradului,municipiul ARAD,Cartier Subcetate,1763 - 1783
+146,AR-II-m-A-00475.02,"Şant de apărare, cu val de pământ în exterior",municipiul ARAD,Cartier Subcetate,1763 - 1783
+147,AR-II-m-A-00475.03,Biserica franciscană,municipiul ARAD,În înteriorul Cetăţii Aradului; Cartier Subcetate,1750 - 1800
+148,AR-II-m-B-00476,Podul Traian,municipiul ARAD,"Peste râul Mureş, leagă oraşul de Cartierul Aradu Nou",1906
+149,AR-II-a-B-00477,Ansamblul urban Arad,municipiul ARAD,"De la culeea N a podului Traian spre pe malul N al râului Mureş până la Str. Putnei, Str. Remus, Str. Alexici Nicola inclusiv Piaţa Sârbească ), Str. Kogălniceanu M., Str. Ceaikovski P. I. prelungirea ei peste Str. Vârful cu Dor Str. Transilvaniei spre NE, Str. Eminescu Mihai, Str. Episcopiei, Str. Caragiale Str. Sibii Dorel, Str. Cotruş Aron, Str. Balint Simion, Str. Coşbuc G. Spre NV, traversarea spre N la marginea incintei Spitalului Municipal, Str. Ghiba Birta Elena spre E, Bd. Doinaş Augustin, Str. Mureşanu Andrei, spre N de-a lungul spre E Str. Brătianu I. C., până la malul","V, ( cu şi I. L.,"
+150,AR-II-m-B-00478,"Fosta Academie Teologică (Noua Preparandie Română), azi Academia Teologică a Universităţii ""Aurel Vlaicu"" şi Seminarul Teologic Liceal",municipiul ARAD,"Str. Academia Teologică 11-13, str. Sava Tekelia 14",1885
+151,AR-II-m-B-00479,Casă,municipiul ARAD,Str. Alecsandri Vasile 13,1910 - 1920
+152,AR-II-m-B-00480,"Hotelul ""Stadt Wien”, azi ruine pivniţă",municipiul ARAD,Str. Alexandrescu Grigore 6,sf. sec. XVIII - înc. sec. XIX
+153,AR-II-m-B-00481,Casă,municipiul ARAD,Str. Alexandrescu Grigore 16,sf. sec. XVIII
+154,AR-II-m-B-00482,"Biserica de lemn ""Cuvioasa Paraschiva""",municipiul ARAD,"Str. Andrenyi Karoly 2-4, (în incinta Spitalului clinic județean de urgență)",1725
+155,AR-II-m-B-00582,Clinica de pediatrie,municipiul ARAD,Str. Andrenyi Karoly 2-4,cca. 1905
+156,AR-II-m-B-00566,"Casa fostei vămi, azi spaţii comerciale",municipiul ARAD,Calea Banatului 2,înc. sec. XX
+158,AR-II-m-B-00484,"""Casa gotică""",municipiul ARAD,Str. Bălcescu Nicolae 6,1800 - 1850
+159,AR-II-m-B-00485,"Colegiul Naţional ""Moise Nicoară”",municipiul ARAD,Piaţa Bibici Margareta 1,1869 - 1873
+160,AR-II-m-B-00486,Casă,municipiul ARAD,"Str. Blaga Lucian 7, str. Eminescu Mihai 6",1907
+161,AR-II-m-B-00487,"Şcoala normală de fete, azi Liceul Pedagogic ""Dimitrie Ţichindeal""",municipiul ARAD,Str. Blaga Lucian 9,1909
+162,AR-II-m-B-00488,"Gimnaziul de băieţi ""Iosif Vulcan”, azi Grupul şcolar de industrie alimentară",municipiul ARAD,Str. Blaga Lucian 15,1887
+163,AR-II-m-B-00489,"Casă, azi parohie evanghelică şi locuinţă",municipiul ARAD,Str. Blajului 2,cca. 1900
+164,AR-II-m-B-00490,Palatul Suciu,municipiul ARAD,Str. Blajului 3,1906 - 1907
+165,AR-II-m-B-00491,"Catedrala ""Sf. Ioan Botezatorul""",municipiul ARAD,Piaţa Catedralei 15,1862 - 1865
+166,AR-II-m-B-00492,"Turnul de apă, azi restaurant şi galerie de artă",municipiul ARAD,Str. Ceaikovski P. I. 9A,1896
+167,AR-II-m-B-00493,Casă,municipiul ARAD,Str. Chendi Ilarie 1-3,1897
+168,AR-II-m-B-00494,Casă (cu farmacie) nr. 2,municipiul ARAD,Str. Ciceo-Pop Ştefan 16,cca. 1908
+170,AR-II-m-B-00496,Casă,municipiul ARAD,"Bd. Decebal 14, str. Georgescu, aviator 8",1912
+171,AR-II-m-B-00497,Casă,municipiul ARAD,Bd. Decebal 37,1910
+172,AR-II-m-B-00498,Vechiul Cazinou,municipiul ARAD,"Bd. Dragalina Ion, general 27, între Parcul Copiilor şi Hotel ""Parc""",1872
+173,AR-II-m-B-00499,"Sala de festivităţi a Şcolii de Arte şi Meserii, azi în cadrul Grupului Şcolar Industrial ""Aurel Vlaicu""",municipiul ARAD,"Bd. Dragalina Ion, general 30",1911
+174,AR-II-a-A-00500,"Mănăstirea ""Sf. Simeon Stâlpnicul""-Gai",municipiul ARAD,"Str. Dunării 170, Cartier Gai",1745 - 1765 - sec. XX
+175,AR-II-m-A-00500.01,Biserica,municipiul ARAD,"Str. Dunării 170, Cartier Gai",1760 - 1762
+176,AR-II-m-A-00500.02,"Fosta reşedinţă de vară episcopală, azi Colecţia de icoane şi carte veche",municipiul ARAD,"Str. Dunării 170, Cartier Gai",1765
+177,AR-II-m-A-00500.03,Corpul vechi al chiliilor,municipiul ARAD,"Str. Dunării 170, Cartier Gai",1765
+178,AR-II-m-B-00500.04,Corpul nou al chiliilor şi anexele gospodăreşti,municipiul ARAD,"Str. Dunării 170, Cartier Gai",sec. XX
+179,AR-II-m-B-00500.05,"Biserica de lemn ""Sf. Apostoli Petru şi Pavel""",municipiul ARAD,"Str. Dunării 170, Cartier Gai, în incinta Mănăstirii ""Sf. Simeon Stâlpnicul""-Gai",1745 - 1754
+180,AR-II-m-B-00501,Casă,municipiul ARAD,"Str. Eminescu Mihai 6, str. Blaga Lucian 7",1897
+182,AR-II-m-B-00503,Clădirea Diecezanei,municipiul ARAD,Str. Eminescu Mihai 18,cca. 1908
+183,AR-II-m-B-00504,Casă,municipiul ARAD,Str. Eminescu Mihai 36,1906
+184,AR-II-m-B-00505,"Palatul ""Tribunei"", azi locuinţe",municipiul ARAD,Str. Eminescu Mihai 37,1909
+185,AR-II-m-B-00506,"Gimnaziul Român de Fete, azi secţie a Spitalului Clinic Municipal",municipiul ARAD,Str. Eminescu Mihai 44,1912
+186,AR-II-m-B-00507,"Palatul Cultural Arad, azi Filarmonica de Stat şi Muzeul Judeţean",municipiul ARAD,Piaţa Enescu George 1,1911 - 1913
+187,AR-II-m-B-00508,Casă,municipiul ARAD,Str. Episcopiei 3,înc. sec. XX
+188,AR-II-m-B-00509,Casă,municipiul ARAD,Str. Episcopiei 9,1906
+189,AR-II-m-B-00510,Casă,municipiul ARAD,Str. Episcopiei 18,1908
+190, AR-II-m-B-00511, Casă, municipiul ARAD, Str. Episcopiei 46, 1910
+191,AR-II-m-B-00512,"Biserica de lemn ""Sf. Gheorghe""",municipiul ARAD,"Str. Episcopiei 60-62, (în parcul reşedinţei Episcopiei Ortodoxe)",1848
+192,AR-II-m-B-00513,Casă,municipiul ARAD,Str. Gavra Alexandru 6,cca. 1900
+194,AR-II-m-B-00515,Casă,municipiul ARAD,"Str. Georgescu, aviator 11",1883
+195,AR-II-m-B-00516,Casă,municipiul ARAD,"Str. Georgescu, aviator 11A-13",1913
+196,AR-II-m-B-00517,Casă,municipiul ARAD,Str. Ghiba Birta Elena 16,1907
+197,AR-II-m-B-00518,Casă,municipiul ARAD,Str. Ghiba Birta Elena 18,1910
+198,AR-II-m-B-00519,Casă,municipiul ARAD,Str. Ghiba Birta Elena 20,1910
+199,AR-II-m-B-00520,Casă,municipiul ARAD,Str. Goga Octavian 2,1912
+200,AR-II-m-B-00521,Casă,municipiul ARAD,Str. Goga Octavian 3,1897
+201,AR-II-m-B-00522,"Palatul Bohuş, azi locuinţe şi spaţii comerciale",municipiul ARAD,Str. Goldiş Vasile 1-3,1910
+202,AR-II-m-B-00523,Casă,municipiul ARAD,Str. Grigorescu Nicolae 7,1925 - 1930
+203,AR-II-m-B-00524,"Sediul fostei Societăţi bancare ""Victoria"", azi locuinţe şi birouri",municipiul ARAD,Str. Horia 2,1850 - 1900
+204,AR-II-m-B-00525,"Palatul Szantay, azi locuinţe şi spaţii comerciale Casa de Cultură a",municipiul ARAD,"Str. Horia 3-5, str. Episcopiei 2",cca. 1911
+206,AR-II-m-B-00527,Teatrul Vechi,municipiul ARAD,Str. Lazăr Gheorghe 3,1817
+207,AR-II-m-B-00528,Casă,municipiul ARAD,"Str. Meţianu 2, Piaţa Iancu Avram 20",1912
+208,AR-II-m-B-00529,"Spitalul Clinic Municipal Arad, cu turnul",municipiul ARAD,"Piaţa Mihai Viteazul 7-8, str. Ghiba Birta Elena 1-3",1815; turn 1833
+209,AR-II-m-B-00530,Casă,municipiul ARAD,Piaţa Mihai Viteazul 10,cca. 1905
+210,AR-II-m-B-00531,Casă,municipiul ARAD,Piaţa Mihai Viteazul 15,cca. 1902
+211,AR-II-m-B-00532,Palatul Justiţiei,municipiul ARAD,"Str. Milea Vasile, general 2",1892
+212,AR-II-m-B-00533,"Palatul Kovács, azi locuinţe",municipiul ARAD,"Str. Milea Vasile, general 19, str. Grigorescu Nicolae 8",cca. 1900
+213,AR-II-m-B-00534,Casă,municipiul ARAD,Str. Popa de Teiuș Gheorghe 8,1911
+214,AR-II-m-B-00535,Casă,municipiul ARAD,Str. Popa de Teiuș Gheorghe 9,cca. 1902
+215,AR-II-m-B-00536,Casă,municipiul ARAD,Str. Preparandiei 2,sf. sec. XVIII
+216,AR-II-m-B-00537,"Preparandia Română, azi locuințe",municipiul ARAD,Str. Preparandiei 13,1812
+217,AR-II-m-B-00538,Casă (cu farmacie la parter),municipiul ARAD,"Bd. Revoluţiei 23, Calea Maniu Iuliu",2 1850 - 1900
+219,AR-II-m-B-00540,Casă,municipiul ARAD,"Bd. Revoluţiei 33, str. Davilla Carol 1A",cca. 1913
+220,AR-II-m-B-00541,Casă,municipiul ARAD,Bd. Revoluţiei 40,cca. 1909
+221,AR-II-m-B-00542,Casă,municipiul ARAD,Bd. Revoluţiei 42,cca. 1912
+222,AR-II-m-B-00543,Biserica evanghelică luterană,municipiul ARAD,Bd. Revoluţiei 61,1906
+223,AR-II-m-B-00544,"Palatul Andrenyi, azi Palatul Copiilor",municipiul ARAD,Bd. Revoluţiei 69,cca. 1880 - 1890
+224,AR-II-m-B-00545,Palatul Băncii Naţionale,municipiul ARAD,Bd. Revoluţiei 72,1905 - 1906
+225,AR-II-m-B-00546,"Palatul Cenad, azi locuinţe şi birouri",municipiul ARAD,"Bd. Revoluţiei 73, Bd. Milea Vasile, general 1",sf. sec. XIX
+226,AR-II-m-B-00547,Casă,municipiul ARAD,Bd. Revoluţiei 74,sec. XIX
+227,AR-II-m-B-00548,Palatul Administrativ (Primăria),municipiul ARAD,Bd. Revoluţiei 75,1874 - 1876
+228,AR-II-m-B-00549,Palatul Administraţiei Financiare (Trezoreria),municipiul ARAD,"Bd. Revoluţiei 77, Bd. Decebal 2",1850 - 1900
+229,AR-II-m-B-00550,"Palatul Neumann, azi locuinţe şi spaţii comerciale",municipiul ARAD,"Bd. Revoluţiei 78, str. Horia 1",sf. sec. XIX
+230,AR-II-m-B-00551,"Fosta Prefectură, azi Direcţia Generală a Judeţului Arad",municipiul ARAD,Bd. Revoluţiei 79,sec. XIX
+231,AR-II-m-B-00552,"Fosta Prefectură, azi redacţia publicaţiilor ""Adevărul"" şi ""Observator"" şi Rectoratul Universităţii ""Aurel Vlaicu""",municipiul ARAD,Bd. Revoluţiei 81,sec. XIX
+232,AR-II-m-B-00553,Casă,municipiul ARAD,Bd. Revoluţiei 90,cca. 1900
+233,AR-II-m-B-00554,Casă,municipiul ARAD,Bd. Revoluţiei 92,cca. 1900
+234,AR-II-m-B-00555,"Casă, azi sediu al Universităţii de Vest ""Vasile Goldiş""",municipiul ARAD,Bd. Revoluţiei 94,sf. sec. XIX
+235,AR-II-m-B-00556,"Palatul Herman Gyula, azi locuinţe şi spaţii comerciale",municipiul ARAD,Bd. Revoluţiei 96,1850 - 1900
+236,AR-II-m-B-00557,Biserica romano - catolică,municipiul ARAD,Bd. Revoluţiei 96A,1902 - 1904
+237,AR-II-m-B-00558,"Hotelul ""Ardealul""",municipiul ARAD,Bd. Revoluţiei 98,1841
+238,AR-II-m-B-00559,Casă,municipiul ARAD,Bd. Revoluţiei 99,cca. 1900
+239,AR-II-m-B-00560,"Fosta Bancă de Credit, azi locuinţe şi spaţii comerciale Slavici""",municipiul ARAD,Bd. Revoluţiei 100,înc. sec. XIX
+241,AR-II-m-B-00562,"Biserica sârbească ""Sf. Petru şi Pavel""",municipiul ARAD,Piaţa Sârbească 1,"1698 - 1702, modif. 1790"
+242,AR-II-m-B-00563,"Palatul sârbesc, azi locuinţe",municipiul ARAD,Piaţa Sârbească 7-8,cca. 1900
+243,AR-II-m-B-00564,"Hanul ""A. B. C. - ul de Aur”, azi locuinţe",municipiul ARAD,Str. Sinagogei 2,1820
+244,AR-II-m-B-00565,Casă,municipiul ARAD,"Str. Teodoroiu Ecaterina 1, Piaţa Catedralei 11",1850 - 1875
+245,AR-II-m-B-00567,Casa Beller,municipiul ARAD,Calea Timişorii 18,1800 - 1850
+246,AR-II-m-B-00568,"Castelul Nopcea, azi Grupul Şcolar Forestier Arad",municipiul ARAD,Calea Timişorii 29-31,1800 - 1850
+247,AR-II-m-B-00569,"Fosta fabrică de bere, azi spaţii comerciale şi birouri",municipiul ARAD,Calea Timişorii 30-32,"1782, instalaţii (parţial) din 1827"
+248,AR-II-m-B-00570,Casa parohială a bisericii romano-catolice Aradu Nou,municipiul ARAD,Calea Timişorii 33,înc. sec. XVIII
+249,AR-II-m-B-00571,Biserica romano-catolică Aradu Nou,municipiul ARAD,Calea Timişorii 33,1812 - 1821
+250, AR-II-m-B-00572," Casa ""Cu Lacăt şi Trunchi”", municipiul ARAD, Str. Tribunul Dobra 7, 1815
+251,AR-II-m-A-00573,Sinagoga neologă (de rit mozaic) locuinţe,municipiul ARAD,Str. Tribunul Dobra 10,1827 - 1834
+253,AR-II-m-B-00575,Antrepozit,municipiul ARAD,"Str. Unirii 5, str. Georgescu aviator 2-6",sf. sec. XIX
+254,AR-II-m-B-00576,Antrepozit,municipiul ARAD,"Str. Unirii 7, str. Georgescu aviator 2-6",sf. sec. XIX
+255,AR-II-m-B-00577,Casă,municipiul ARAD,Str. Unirii 11,cca. 1900
+256,AR-II-m-B-00578,Casă,municipiul ARAD,Str. Unirii 12,cca. 1900
+257,AR-II-m-B-00579,Casă,municipiul ARAD,Str. Unirii 13,cca. 1900
+258,AR-II-m-B-00580,Casă,municipiul ARAD,Str. Unirii 14,cca. 1900
+259,AR-II-m-B-00581,Casă,municipiul ARAD,Str. Unirii 17,1890
+260,AR-II-m-B-00583,Casă,municipiul ARAD,Str. Vladimirescu Tudor 3,cca. 1910
+261,AR-II-m-B-00584,Casă,municipiul ARAD,Str. Vladimirescu Tudor 17-19,1913
+262,AR-II-m-B-00585,"Fostă clădire administrativă a Fabricii ""Astra""",municipiul ARAD,Calea Vlaicu Aurel 43,1900 - 1910
+263,AR-II-m-B-00586,"Fosta Fabrică de spirt şi drojdie ""Fraţii Neumann”",municipiul ARAD,Calea Vlaicu Aurel 274-276,1880 - 1890
+264,AR-II-m-B-00587,Cetatea Agrişu Mare (ruine),sat AGRIŞU MARE; comuna TÂRNOVA comuna HĂŞMAŞ,"Dealul Cioaca, la 500 m V de sat",sec. XV
+266,AR-II-m-B-00589,"Biserica de lemn ""Pogorârea Duhului Sfânt""",sat BODEŞTI; comuna HĂLMAGIU,48,1750 - 1760
+267,AR-II-a-A-00590,"Mănăstirea ""Adormirea Maicii Domnului"" Hodoş- Bodrog",sat BODROGU NOU; comuna ZĂDĂRENI,"La 1,5 km de sat",înc. sec. XV - înc. sec. XX
+268,AR-II-m-A-00590.01,"Biserica ""Intrarea în Biserică a Maicii Domnului""",sat BODROGU NOU; comuna ZĂDĂRENI,"La 1,5 km de sat","înc. sec. XV, renovată 1766"
+269,AR-II-m-B-00590.02,Chilii vechi,sat BODROGU NOU; comuna ZĂDĂRENI,"La 1,5 km de sat",sec. XVIII - XIX
+270,AR-II-m-B-00590.03,Chilii noi,sat BODROGU NOU; comuna ZĂDĂRENI,"La 1,5 km de sat",1905
+271,AR-II-m-A-00590.04,Turn-clopotniţă,sat BODROGU NOU; comuna ZĂDĂRENI,,sec. XVI
+272,AR-II-m-A-00591,"Biserica de lemn ""Sf. Mucenic Dimitrie""",sat BUCEAVA-ŞOIMUŞ; comuna BRAZII,"71B, în cimitir",sec. XVIII
+273,AR-II-m-A-00592,"Biserica de lemn ""Înălţarea Domnului""",sat BUDEŞTI; comuna PLEŞCUŢA,17,1772; pictură 1860
+274,AR-II-a-B-00593,Ansamblul castelului Mocioni,sat BULCI; comuna BATA,"La marginea localităţii, la cca. 400 m râul Mureş",de 1850 - 1900
+275,AR-II-m-B-00593.01,"Castelul Mocioni, azi sanatoriu TBC",sat BULCI; comuna BATA,"La marginea localităţii, la cca. 400 m râul Mureş",de 1850 - 1900
+276,AR-II-m-B-00593.02,Parc Teleki,sat BULCI; comuna BATA BIRCHIŞ,"La marginea localităţii, la cca. 400 m râul Mureş",de 1850 - 1900
+278,AR-II-m-A-00594.01,Castelul Teleki,sat CĂPÂLNAŞ; comuna BIRCHIŞ,245,1850 - 1900
+279,AR-II-m-A-00594.02,Parc,sat CĂPÂLNAŞ; comuna BIRCHIŞ,245,1850 - 1900
+280,AR-II-m-B-00595,"Biserica de lemn ""Buna Vestire""",sat CIUNTEŞTI; comuna CRAIVA,65,1725
+281,AR-II-m-B-00596,"Conacul Ştefan Cicio-Pop, azi şcoală generală",sat CONOP; comuna CONOP,1,sf. sec. XVIII
+282,AR-II-m-A-00597,"Biserica de lemn ""Naşterea Maicii Domnului""",sat CORBEŞTI; comuna PETRIŞ,"126, în cimitir",cca. 1800
+283,AR-II-m-A-00598,Turn de biserică,sat COVĂSÂNŢ; comuna COVĂSÂNŢ,42A,sec. XIV
+284,AR-II-m-B-00599,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil""",sat CRISTEŞTI; comuna HĂLMAGIU,18,1860
+285,AR-II-m-A-00600,Cetatea Dezna (ruine),sat DEZNA; comuna DEZNA,"Pe deal aflat pe malul drept al râului Moneasa, la extremitatea de NE a satului",sec. XIII - XVII
+286,AR-II-a-B-00601,"Ansamblul bisericii ""Pogorârea Duhului Sfânt""",sat DEZNA; comuna DEZNA,Str. Iancu Avram 62,sec. XVII - XIX
+287,AR-II-m-B-00601.01,"Biserica ""Pogorârea Duhului Sfânt""",sat DEZNA; comuna DEZNA,Str. Iancu Avram 62,sec. XVII
+288,AR-II-m-B-00601.02,Troiţă,sat DEZNA; comuna DEZNA DEZNA,Str. Iancu Avram 62,1827
+290,AR-II-a-B-00602,Ansamblul castelului Kövér-Appel,sat FÂNTÂNELE; comuna FÂNTÂNELE,116,1800 - 1850
+291,AR-II-m-B-00602.01,Castelul Kövér-Appel,sat FÂNTÂNELE; comuna FÂNTÂNELE,116,1800 - 1850
+292,AR-II-m-B-00602.02,Parc,sat FÂNTÂNELE; comuna FÂNTÂNELE,116,1800 - 1850
+293,AR-II-m-B-00603,"Biserica romano-catolică ""Îngerul Păzitor""",sat FÂNTÂNELE; comuna FÂNTÂNELE,128-129,1780
+294,AR-II-m-B-00604,"Biserica ""Adormirea Maicii Domnului""",sat GALŞA; comuna ŞIRIA,112,"1746 - 1749, adăugiri 1894"
+295,AR-II-m-B-00605,"Biserica ""Sf. Mucenic Dimitrie""",sat GHIOROC; comuna GHIOROC,19,1793
+296,AR-II-m-B-00606,"Biserica de lemn ""Înălţarea Domnului""",sat GROŞI; comuna VÂRFURILE,"52, în cimitir",1907
+297,AR-II-m-A-00607,"Biserica de lemn ""Întâmpinarea Domnului""",sat GROŞII NOI; comuna BÂRZAVA,"150, în cimitir",1807
+298,AR-II-m-B-00610,"Hanul ""Birtul Mare” (fostă staţie de poştalion)",sat HĂLMAGIU; comuna HĂLMAGIU,Str. Iancu Avram 25,sf. sec. XVIII
+299,AR-II-m-A-00608,"Biserica Voievodală ""Adormirea Maicii Domnului""",sat HĂLMAGIU; comuna HĂLMAGIU,Str. Iancu Avram 31,"cca. 1440, transf. sec. XVIII"
+300,AR-II-m-B-00609,"Biserica ""Naşterea Născătoarei de Dumnezeu"" (calvină)",sat HĂLMAGIU; comuna HĂLMAGIU comuna ZERIND,Str. Iancu Avram 33A,"1760 celei inţiale, sec. XV)"
+302,AR-II-a-B-00612,Ansamblul urban Ineu,oraş INEU,"Zona centrului, inclusiv cetatea: la N, Str. Slavici Ioan (de la intersescţia cu Calea Traian până la cetate inclusiv); S, Calea Republicii, între nr. 56 şi 68; E, pe malul opus al Crişului Alb, zona delimitată de cele două biserici şi cele două clădiri (P+1) din sec. XIX (aflate o parte şi de alta a Căii Republicii, la intersecţia cu DN dinspre Arad)", la la de
+303,AR-II-a-A-00613,Cetatea Ineului,oraş INEU,Calea Traian 2,mijl. sec. XVII
+304,AR-II-m-B-00614,"Biserica de lemn ""Sf. Mucenic Gheorghe”",sat IONEŞTI; comuna HĂLMAGIU,59,1730
+305,AR-II-m-A-00615,"Biserica de lemn ""Intrarea Maicii Domnului în Biserică”",sat JULIŢA; comuna VĂRĂDIA DE MUREŞ,55,1787
+306,AR-II-a-A-00618,Cetatea Şoimoş (ruine),oraş LIPOVA,"Cartier Şoimoş; dealul ""Cioaca Tăutului”, la 2 km NE de Lipova",sec. XIII - XV
+307,AR-II-a-B-00619,Ansamblul urban Lipova,oraş LIPOVA,"Zona cuprinsă de-a lungul Str. Bălcescu Nicolae, între nr. 1-31 şi 2-28 (cu Primăria, Bazarul ""Sub Dughene"", Biserica ""Adormirea Maicii Domnului"")",sec. XVII (bazarul) - înc. sec. XX
+308,AR-II-a-A-00620,"Ansamblul bisericii ""Adormirea Maicii Domnului” şcoală generală",oraş LIPOVA,"Str. 9 Mai 1, 2",sec. XIV - înc. sec. XIX
+310,AR-II-m-A-00620.01,"Biserica ""Adormirea Maicii Domnului”",oraş LIPOVA,Str. 9 Mai 2,"1388, 1797, 1928; pictura cca. 1500 şi sec. XVIII"
+311,AR-II-m-B-00621,"Casa Mişici-Bocu, azi Muzeul orăşenesc",oraş LIPOVA,Str. Bălcescu Nicolae 21,"1800 - 1850, transf. 1930"
+312,AR-II-a-A-00616,"Mănăstirea ""Sf. Maria”- Radna",oraş LIPOVA,"Str. Iancu Avram 1, Cartier Radna, pe ""Dealul Popilor”","constr. în etape între 1722 - 1828, 1911"
+313,AR-II-m-A-00616.01,"Biserica romano-catolică ""Sf. Maria""",oraş LIPOVA,"Str. Iancu Avram 1, Cartier Radna, pe ""Dealul Popilor”",1756 - 1782
+314,AR-II-m-B-00616.02,Corpul de SE,oraş LIPOVA,"Str. Iancu Avram 1, Cartier Radna, pe ""Dealul Popilor”",1823 - 1828
+315,AR-II-m-A-00616.03,Corpul de SV,oraş LIPOVA,"Str. Iancu Avram 1, Cartier Radna, pe ""Dealul Popilor”",1722 - 1747
+316,AR-II-m-A-00616.04,Corpul de NV,oraş LIPOVA,"Str. Iancu Avram 1, Cartier Radna, pe ""Dealul Popilor”",1722 - 1747
+317,AR-II-m-A-00623,"Bazarul ""Sub dughene” (Bazarul Turcesc), azi locuinţe şi spaţii comerciale",oraş LIPOVA,Piaţa Libertăţii 6,sec. XVII
+318,AR-II-m-B-00622,Pivniţele fostei mănăstiri minorite,oraş LIPOVA,Str. Matei Corvin 30,sec. XVI
+319,AR-II-m-B-00617,"Biserica ""Bunavestire""",oraş LIPOVA,"Str. Şoimoş 316, pe partea dreaptă a DN 7 Arad-Deva",1792
+320,AR-II-m-A-00624,"Biserica de lemn ""Sf. Mucenic Gheorghe”",sat LUNCŞOARA; comuna HĂLMĂGEL,"La marginea satului, pe un dâmb deasupra cimitirului","1740, mutată pe actualul amplasament"
+321,AR-II-m-B-00625,"Biserica de lemn ""Sf. Arhangheli” - Vişdoci",sat LUNCŞOARA; comuna HĂLMĂGEL,"147, lângă cimitir",sec. XVIII
+322,AR-II-a-A-00626,"Ansamblul castelului Cernovici-Macea, azi sediu al Universităţii de Vest ""Vasile Goldiş""",sat MACEA; comuna MACEA,791-792,sec. XIX
+323,AR-II-m-A-00626.01,Castelul Cernovici,sat MACEA; comuna MACEA,"791, în centrul localităţii","1800 - 1850 - aripa stângă, cu două turnuri; 1850 -1900 - aripa dreaptă"
+324,AR-II-m-B-00626.02,Clădiri anexe,sat MACEA; comuna MACEA,"791, în centrul localităţii",1850 - 1900
+325,AR-II-m-A-00626.04,Bazin de înot,sat MACEA; comuna MACEA,"791, în centrul localităţii",1851 - 1900
+326,AR-II-m-A-00626.03,Grădină cu sere,sat MACEA; comuna MACEA,"792, în centrul localităţii",1851 - 1900
+327, AR-II-m-A-00626.05, Parc (rezervaţie dendrologică), sat MACEA; comuna MACEA," 792, în centrul localităţii", 1850 - 1900
+328,AR-II-m-B-00627,"Biserica de lemn ""Sf. Mucenic Gheorghe”",sat MĂDRIGEŞTI; comuna BRAZII,19,1804
+329,AR-II-m-B-00628,"Biserica ""Adormirea Maicii Domnului”",sat MÂSCA; comuna ŞIRIA,261,"1723, modif. 1879, 1906, 1932"
+330,AR-II-m-B-00629,"Exploatarea minieră ""Zidurile de la Tău” (ruine) Solymosy, azi spital de",sat MILOVA; comuna CONOP MOCREA; oraş INEU,"La N de localitate, pe malul râului Miloviţa",1800
+332,AR-II-m-B-00630.01,Castelul Solymosy,sat aparţinător MOCREA; oraş INEU,1A,1834
+333,AR-II-m-B-00630.02,Parc,sat aparţinător MOCREA; oraş INEU,1A,mijl. sec. XIX
+334,AR-II-m-B-00631,Cuptorul de topit fier (ruine),sat MONEASA; comuna MONEASA,La 500 m E de podul peste pârâul Moneasa,mijl. sec. XIX
+335,AR-II-a-A-00632,Mănăstirea sârbească Bezdin,sat MUNAR; comuna SECUSIGIU,"229, la 5 km NE de sat",sec. XVIII - înc. sec. XIX
+336,AR-II-m-A-00632.01,"Biserica ""Adormirea Maicii Domnului""",sat MUNAR; comuna SECUSIGIU,"229, la 5 km NE de sat",sec. XVIII
+337,AR-II-m-A-00632.02,Incintă cu chilii,sat MUNAR; comuna SECUSIGIU,"229, la 5 km NE de sat",1750 - 1800
+338,AR-II-a-B-00633,Ansamblul urban Nădlac,oraş NĂDLAC,"Zona din jurul Bisericii evanghelice slovace, inclusiv fronturile adiacente, anume - la S: şcoala slovacă; la V: şcoala generală; la N: de la Biserica romano- catolică până la clădirea liceului; la E: construcţiile situate la intersecţia cu", şi DN
+339,AR-II-a-B-00634,"Ansamblul bisericii ""Sf. Ierarh Nicolae”",oraş NĂDLAC,Str. Lucaciu Vasile 12,sec. XIX
+340,AR-II-m-B-00634.01,"Biserica ""Sf. Ierarh Nicolae”",oraş NĂDLAC,Str. Lucaciu Vasile 12,1822 - 1829
+341,AR-II-m-B-00634.02,Incintă cu gard de fier forjat evanghelică,oraş NĂDLAC,Str. Lucaciu Vasile 12,1882 1895
+343,AR-II-a-A-00636,Ansamblul bisericii romano-catolice,sat NEUDORF; comuna ZĂBRANI,În centrul localităţii,1771 - 1841
+344,AR-II-m-A-00636.01,Biserica romano - catolică,sat NEUDORF; comuna ZĂBRANI,În centrul localităţii,1771; cavou din 1809
+345,AR-II-a-B-00637,Ansamblul castelului Konopi,sat ODVOŞ; comuna CONOP,1,1650 - 1700 - sec. XIX
+346,AR-II-m-B-00637.01,Castelul Konopi,sat ODVOŞ; comuna CONOP,1,"1650 - 1700, transf. după 1800"
+347,AR-II-m-B-00637.02,Parc,sat ODVOŞ; comuna CONOP,1,sec. XIX
+348,AR-II-a-B-00638,Ansamblul urban Pâncota,oraş PÂNCOTA,"Zona cuprinsă între Hanul (vechi) de poştă şi castelul Schulkovschy, de-a lungul Str. Vladimirescu Tudor",sec. XVIII (hanul) - înc. sec. XX
+349,AR-II-m-A-00639,"Palatul Schulkovschy, azi sediul Consiliului Local al orașului",oraş PÂNCOTA,Str. Vladimirescu Tudor 68,1825 - 1850
+350,AR-II-m-B-00640,"Hanul de poştă, azi birouri și spații comerciale",oraş PÂNCOTA,Str. Vladimirescu Tudor 69,sec. XVIII
+351,AR-II-a-B-00641,Ansamblul urban Pecica,oraş PECICA,Zona din jurul Bisericii romano-catolice şi fronturile înconjurătoare,1850 - 1900
+352,AR-II-a-A-00642,Ansamblul castelului Salbek,sat PETRIŞ; comuna PETRIŞ,83,1800 - 1850
+353,AR-II-m-A-00642.01,Castelul Salbek,sat PETRIŞ; comuna PETRIŞ PETRIŞ,83,1800 - 1850
+355,AR-II-m-A-00643,"Biserica de lemn ""Naşterea Maicii Domnului”",sat POIANA; comuna VÂRFURILE,"50, în cimitir",1751
+356,AR-II-m-B-00644,"Biserica de lemn ""Sf. Mucenic Dimitrie”",sat ROŞIA NOUĂ; comuna PETRIŞ,97,1809
+357,AR-II-m-B-00645,"Biserica romano-catolică ""Sf. Petru şi Pavel”",sat SÂNPETRU GERMAN; comuna SECUSIGIU,"f.n., în centrul satului",1774
+358,AR-II-m-B-00646,"Clădirea ""Convict""-ului, azi azil",oraş SÂNTANA,Str. Muncii 58,1750
+359,AR-II-m-B-00647,Urbarialhaus (Casa urbarială),oraş SÂNTANA,Str. Muncii 60,1749
+360,AR-II-m-B-00648,"Casa Waldstein, azi Biblioteca Orăşenească",oraş SEBIŞ,Str. Parcul Libertăţii 1,1814
+361,AR-II-m-A-00649,Podul Turcesc,sat SELEUŞ; comuna SELEUŞ,"Peste râul Cigherului, spre N, pe DN Arad-Brad",sec. XVII
+362,AR-II-m-B-20178,"Biserica ""Buna Vestire”",sat SOCODOR; comuna SOCODOR,332,1768
+363,AR-II-a-A-00650,Cetatea Şiria (ruine),sat ŞIRIA; comuna ŞIRIA,"La 2 km E de localitate, pe dealul ce domină drumul spre releul TV",sec. XIII - XVIII
+364,AR-II-m-A-00651,"Castelul Bohuş, azi Muzeul memorial Ioan Slavici",sat ŞIRIA; comuna ŞIRIA,Str. Regimentul 85 Infanterie 162,1838
+365,AR-II-m-B-00652,"Biserica ""Sf. Arhangheli Mihail si Gavril” Purgly",sat ŞIRIA; comuna ŞIRIA ŞOFRONEA,Str. Rusu-Şirianu Ion 167,"1700 - 1750, turn 1769"
+367,AR-II-m-B-00653.01,Castelul Purgly,sat ŞOFRONEA; comuna ŞOFRONEA,La 2 km V de localitate,1889
+368,AR-II-m-B-00653.02,Parc,sat ŞOFRONEA; comuna ŞOFRONEA,La 2 km V de localitate,1889
+369,AR-II-m-B-00653.03,Anexe gospodăreşti,sat ŞOFRONEA; comuna ŞOFRONEA,La 2 km V de localitate,sf. sec. XIX
+370,AR-II-m-A-00654,"Biserica de lemn ""Sf. Apostoli Petru şi Pavel”",sat TISA; comuna HĂLMAGIU,"34, în cimitirul vechi",1770
+371,AR-II-m-A-00655,"Biserica de lemn ""Sf. Trei Ierarhi”",sat TROAŞ; comuna SĂVÂRŞIN,100,1782
+372,AR-II-m-A-00656,"Biserica de lemn ""Sf. Arhangheli Mihail şi Gavriil”",sat ŢĂRMURE; comuna HĂLMAGIU,62,1780
+373,AR-II-m-B-00657,Biserica reformată (presbiteriană),sat VÂNĂTORI; comuna MIŞCA,"f.n., în centrul satului","sec. XIII, modificări ulterioare, turn 1768"
+374,AR-II-m-B-00658,"Biserica de lemn ""Sf. Cosma şi Damian”",sat VIDRA; comuna VÂRFURILE,125,1784
+375,AR-II-m-B-00659,Biserica romano-catolică,sat VINGA; comuna VINGA,87,1892
+376,AR-II-a-A-00660,Ansamblul rural Zăbrani,sat ZĂBRANI; comuna ZĂBRANI,"Fronturile de o parte şi de alta ale DN 62, porţiunea dintre cele două biserici",sec. XIX
+377,AR-II-m-B-00661,"Cuptorul de topit fier ""Jumelt"" (ruine)",sat ZIMBRU; comuna GURAHONŢ,"Pe valea Răului, la 3 km de sat, lângă cabana forestieră",mijl. sec. XIX
+378,AR-III-m-B-00662,Crucea martirilor (închinată preoţilor martiri 1918 - primăvara 1919),municipiul ARAD,Parcul Mihai Eminescu,1936
+379,AR-III-m-B-00663,"Monumentul celor 13 generali, executaţi în anul 1849",municipiul ARAD,"Piaţa 13 Martiri, Cartier Subcetate",1881
+380,AR-III-m-B-00664,Bustul profesorului Theodor Ceontea,municipiul ARAD,"Str. Academia Teologică 11-13, Str. Tekelia Sava 14, în curtea Seminarului teologic liceal",1912
+381,AR-III-a-B-21095,"Ansamblul Parcul ""Reconcilierii româno- maghiare""",municipiul ARAD,Str. Calvin Ioan,
+382,AR-III-m-B-21095.01,"Parcul ""Reconcilierii româno-maghiare""",municipiul ARAD,Str. Calvin Ioan,
+383,AR-III-m-B-21095.02,Statuia Libertății,municipiul ARAD,Str. Calvin Ioan,1890
+384,AR-III-m-B-00665,Bustul lui George Coşbuc,municipiul ARAD,"Piaţa Enescu George, în faţa Palatului Cultural",1929
+385,AR-III-m-B-00666,Bustul lui Petru Pipoş,municipiul ARAD,"Piaţa Enescu George, în faţa Palatului Cultural",1937
+386,AR-III-m-B-00667,Bustul lui Gh. Popa de Teiuş,municipiul ARAD,"Piaţa Enescu George, în faţa Palatului Cultural",1938
+387,AR-III-m-B-00668,Bustul lui Ioan Rusu- Şirianu,municipiul ARAD,"Piaţa Enescu George, în faţa Palatului Cultural",1938
+388,AR-III-m-B-00669,Bustul lui Mircea V. Stănescu,municipiul ARAD,"Piaţa Enescu George, în faţa Palatului Cultural",1938
+389,AR-III-m-B-00670,Bustul lui A. D. Xenopol Nepomuk,municipiul ARAD,"Piaţa Enescu George, în faţa Palatului Cultural Desseanu",1929 actualul amplasament)
+391,AR-III-m-B-00672,Statuia Sfântului Florian,municipiul ARAD,Str. Guttenbrunn Adam 135,1869
+392,AR-III-m-B-00673,Monumentul lui Avram Iancu,sat HĂLMAGIU; comuna HĂLMAGIU,"Str. Vălicuţei f.n., în parcul din centrul localităţii",1974
+393,AR-III-m-B-00674,Monumentul Eroilor neamului,sat HĂLMAGIU; comuna HĂLMAGIU,"Str. Vălicuţei f.n., în centrul localităţii",1933
+394,AR-III-m-A-00675,Monumentul Eroilor de la Păuliş,sat PĂULIŞ; comuna PĂULIŞ,"Pe câmpia din faţa localităţii, lângă DN Arad-Deva",1974
+395,AR-III-m-B-00676,Statuia Sfântului Petru,sat SÂNPETRU GERMAN; comuna SECUSIGIU,"f.n., în piaţa centrală, de lângă biserica catolică",1816
+396,AR-III-m-B-00677,Bustul lui Mihai Eminescu,sat ŞIRIA; comuna ŞIRIA,În faţa Muzeului memorial Ioan Slavici,cca. 1960
+397,AR-III-m-B-00678,Bustul lui Ioan Slavici,sat ŞIRIA; comuna ŞIRIA,În faţa Muzeului memorial Ioan Slavici,1967
+398,AR-III-m-B-00679,Statuia baronesei Antonia Bohuş,sat ŞIRIA; comuna ŞIRIA,În faţa Muzeului memorial Ioan Slavici,1910
+399,AR-III-m-B-00680,Bustul lui Ioan Rusu- Şirianu,sat ŞIRIA; comuna ŞIRIA,În faţa Muzeului memorial Ioan Slavici,1912
+400,AR-IV-m-B-00681,Mormântul Elenei Ghiba Birta,municipiul ARAD,Cimitirul Eternitatea,1904
+401,AR-IV-m-B-00682,Mormântul lui Vasile Goldiş şi Elenei Goldiş,municipiul ARAD,Cimitirul Eternitatea,al doilea sfert al sec. XX
+402,AR-IV-m-B-00683,Mormântul lui Ioan şi Coriolan Petranu Popovici Desseanu,municipiul ARAD,Cimitirul Eternitatea,a doua jum. a sec. XX
+404,AR-IV-m-B-00685,Bustul rabinului Chorin Aron,municipiul ARAD,"Cimitirul evreiesc, Cartier Grădiște",1846; amplasat în 1851
+405,AR-IV-m-B-00686,"Fostul sediu al Asociaţiei Generale a Muncitorilor, azi locuinţe şi sedii comerciale",municipiul ARAD,"Piaţa Catedralei 1, Str. Bariţiu G. 37",1850 - 1900
+406,AR-IV-m-B-00687,"Casa Ştefan Cicio-Pop (sediul Consiliului Naţional Român Central), azi locuinţă",municipiul ARAD,Str. Cicio-Pop Ştefan 3,înc. sec. XX
+407,AR-IV-m-B-00688,"Casa Vasile Goldiş (ulterior sediul ziarului ""Românul"")",municipiul ARAD,Str. Goldiş Vasile 6,1910
+408,AR-IV-m-B-00689,"Fostul sediu al ""Căminului Muncitorului"", azi cabinete şi laboratoare medicale",municipiul ARAD,Str. Paris 2,1913
+409,AR-IV-m-B-00690,Casa Toth Arpad,municipiul ARAD,"Str. Raţiu Ioan, doctor 23","mijl. sec. XIX, modif. înc. sec. XX"
+410,AR-IV-m-B-00691,"Fostul sediu al Comandamentului Gărzilor Naţionale Române (noiembrie- decembrie 1918), azi spital",municipiul ARAD,"Str. Vladimirescu Tudor 1, Piaţa Mihai Viteazul 11-12",înc. sec. XX
+411,AR-IV-m-B-00692,Casa Sava Tekelya,sat CUVIN; comuna GHIOROC comuna HĂLMAGIU,Str. Principală 14 Băneştilor”,1810
+413,AR-IV-m-B-00694,Troiţa lui Ioan Buteanu,sat IOSAŞ; comuna GURAHONŢ,"La intrare în sat, după trecerea podului peste râul Crişul Alb",1934
+414,AR-IV-m-B-00695,Piatră de hotar,sat MUNAR; comuna SECUSIGIU,"""La Cetate"", în apropierea Mănăstirii Sârbe Bezdin, peste râul Mureş",1741
+415,AR-IV-m-B-00696,Piatră de hotar,sat MUNAR; comuna SECUSIGIU,În incinta Mănăstirii sârbe Bezdin,1746
+416,AR-IV-m-B-00636.02,Troiţă,sat NEUDORF; comuna ZĂBRANI,"În centrul localităţii; lângă biserica romano-catolică, pe latura de N",1841
+417,AR-IV-m-B-00698,Mormântul compozitorului Emil Monţia,sat ŞIRIA; comuna ŞIRIA,Cimitirul Bisericii ortodoxe,cca. 1965

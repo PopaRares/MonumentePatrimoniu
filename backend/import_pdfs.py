@@ -2,6 +2,7 @@
 """Import all PDFs into the database."""
 
 import sys
+import csv
 from pathlib import Path
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -11,6 +12,10 @@ from models import Monument, Base
 from read_pdf import extract_table
 from pdf_config import COLUMN_COORDS, TABLE_BBOX_PERCENT, OTHER_PAGES_TOP
 from env import DATABASE_URL_LOCAL
+
+# ANSI color codes
+RED = '\033[91m'
+RESET = '\033[0m'
 
 
 def get_county_from_filename(filename: str) -> str:
@@ -56,13 +61,33 @@ def import_pdf(pdf_path: Path, db_session, county: str):
         print(f"  No rows extracted")
         return 0, 0
     
+    # Export to CSV
+    script_dir = Path(__file__).parent
+    csvs_dir = script_dir / "csvs"
+    csvs_dir.mkdir(exist_ok=True)
+    
+    csv_filename = pdf_path.stem + ".csv"
+    csv_path = csvs_dir / csv_filename
+    
+    with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        # Write header
+        writer.writerow(['Nr. crt.', 'Cod LMI', 'Denumire', 'Localitate', 'Adresă', 'Datare'])
+        # Write rows
+        for row in rows:
+            writer.writerow(row)
+    
+    print(f"  Exported {len(rows)} rows to {csv_path.name}")
+    
     imported = 0
     errors = 0
+    error_rows = []
     
     for row in rows:
         monument = map_row_to_monument(row, county)
         if not monument:
             errors += 1
+            error_rows.append(row)
             continue
         
         try:
@@ -85,14 +110,22 @@ def import_pdf(pdf_path: Path, db_session, county: str):
                     imported += 1
                 else:
                     errors += 1
+                    error_rows.append(row)
             except Exception as e:
                 db_session.rollback()
                 errors += 1
+                error_rows.append(row)
         except Exception as e:
             db_session.rollback()
             errors += 1
+            error_rows.append(row)
     
     print(f"  Imported: {imported}, Errors: {errors}")
+    if error_rows:
+        print(f"{RED}  Error rows:{RESET}")
+        for error_row in error_rows:
+            row_str = ' '.join(str(cell) for cell in error_row)
+            print(f"{RED}    {row_str}{RESET}")
     return imported, errors
 
 

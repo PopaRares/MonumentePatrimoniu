@@ -1,0 +1,903 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,BV-I-s-B-11257,"Situl arheologic de la Braşov, punct Cartier Noua",municipiul BRAŞOV Cartier,"Noua, intravilan",
+3,BV-I-m-B-11257.01,Aşezare,municipiul BRAŞOV Cartier,"Noua, intravilan",Hallstatt timpuriu
+4,BV-I-m-B-11257.02,Aşezare,municipiul BRAŞOV Cartier,"Noua, intravilan","Epoca bronzului târziu, Cultura Noua"
+5,BV-I-s-B-11258,"Situl arheologic de la Braşov, punct ""Dealul Sprenghi""","municipiul BRAŞOV ""Dealul ""Biserica","Sprenghi”, ""Stadionul Municipal”, Sf. Bartolomeu”",
+6,BV-I-m-B-11258.01,Fortificație medievală,"municipiul BRAŞOV ""Dealul ""Biserica piatră,","Sprenghi”, ""Stadionul Municipal”, Sf. Bartolomeu”, cariera de intravilan","sec. XIII - XIV, Epoca medievală"
+7,BV-I-m-B-11258.02 BV-I-m-B-11258.03,Aşezare romană Aşezare dacică,"municipiul BRAŞOV ""Dealul ""Biserica piatră, municipiul BRAŞOV ""Dealul","Sprenghi”, ""Stadionul Municipal”, Sf. Bartolomeu”, cariera de intravilan Sprenghi”, ""Stadionul Municipal”,","sec. II - III p. Chr., Epoca romană Latène"
+9,BV-I-m-B-11258.04,Aşezare,"municipiul BRAŞOV ""Dealul ""Biserica piatră,","Sprenghi”, ""Stadionul Municipal”, Sf. Bartolomeu”, cariera de intravilan",Epoca bronzului
+10,BV-I-s-B-11259,"Situl arheologic de la Braşov, punct ""Dealul Tâmpa""","municipiul BRAŞOV ""Dealul",Tâmpa”,
+11,BV-I-m-B-11259.01,Ruinele Cetăţii Brassovia,"municipiul BRAŞOV ""Dealul",Tâmpa”,"sec. XIII, Epoca medievală timpurie"
+12,BV-I-m-B-11259.02,Aşezare,"municipiul BRAŞOV ""Dealul",Tâmpa”,Latène
+13,BV-I-m-B-11259.03,Aşezare fortificată,"municipiul BRAŞOV ""Dealul",Tâmpa”,Hallstatt
+14,BV-I-s-B-11261,Situl arheologic de la Bod,"sat BOD; comuna ""Dealul BOD","Popilor” (""Gorganul de la pod”)",
+15,BV-I-m-B-11261.01,Aşezare,"sat BOD; comuna ""Dealul BOD cca. Oltului,","Popilor” (""Gorganul de la pod”), 1 km E de sat, pe malul stâng al pe o movilă aluvionară",la Epoca medievală timpurie
+16,BV-I-m-B-11261.02,Aşezare,"sat BOD; comuna ""Dealul BOD cca. Oltului,","Popilor” (""Gorganul de la pod”), 1 km E de sat, pe malul stâng al pe o movilă aluvionară",la Epoca romană
+17,BV-I-m-B-11261.03 BV-I-m-B-11261.04,Aşezare Aşezare,"sat BOD; comuna ""Dealul BOD cca. Oltului, sat BOD; comuna ""Dealul","Popilor” (""Gorganul de la pod”), 1 km E de sat, pe malul stâng al pe o movilă aluvionară Popilor” (""Gorganul de la pod”),",la Hallstatt la Latène
+19,BV-I-m-B-11261.05,Aşezare,"sat BOD; comuna ""Dealul BOD cca. Oltului,","Popilor” (""Gorganul de la pod”), 1 km E de sat, pe malul stâng al pe o movilă aluvionară",la Epoca bronzului
+20,BV-I-m-B-11261.06,Aşezare,"sat BOD; comuna ""Dealul BOD cca. Oltului,","Popilor” (""Gorganul de la pod”), 1 km E de sat, pe malul stâng al pe o movilă aluvionară",la Neolitic
+21,BV-I-s-A-11262,"Situl arheologic de la Breaza, punct ""La Cetate""","sat BREAZA; comuna ""Cetate” LISA","(""La Turn”)",
+22,BV-I-m-A-11262.01,Cetatea Negru Vodă,"sat BREAZA; comuna ""Cetate” LISA Breaza, Pojorâţii","(""La Turn”), la 5 km S de satul pe un platou de la confluenţa Văii cu Valea Brescioarei",Epoca medievală timpurie
+23,BV-I-m-A-11262.02,Fortificaţie dacică,"sat BREAZA; comuna ""Cetate” LISA Breaza, Pojorâţii","(""La Turn”), la 5 km S de satul pe un platou de la confluenţa Văii cu Valea Brescioarei","sec. I a. Chr. - I p. Chr., Latène"
+24,BV-I-s-B-11263,Situl arheologic de la Calbor,"sat CALBOR; comuna ""Piscul BECLEAN",Cremenişului”,
+25,BV-I-m-B-11263.01,Aşezare,"sat CALBOR; comuna ""Piscul BECLEAN",Cremenişului”,Latène
+26,BV-I-m-B-11263.02,Aşezare,"sat CALBOR; comuna ""Piscul BECLEAN",Cremenişului”,Neolitic
+27,BV-I-s-B-11264 BV-I-s-B-11265,Necropolă tumulară romană Situl arheologic de la,"sat CALBOR; comuna ""Făgetul BECLEAN sat sat CAŢA; comuna ""La","Calborului”, la cca. 3 km NV de Fermă”","sec. II p. Chr., Epoca romană"
+29,BV-I-m-B-11265.01,Aşezare romană,"sat CAŢA; comuna ""La CAŢA stânga","Fermă”, extravilan, pe o terasă în pârâului Homorodul Mare","sec. II - III p. Chr., Epoca romană"
+30,BV-I-m-B-11265.02,Aşezare hallstattiană,"sat CAŢA; comuna ""La CAŢA stânga","Fermă”, extravilan, pe o terasă în pârâului Homorodul Mare","sec. XI - IX a. Chr., Hallstatt"
+31,BV-I-s-A-11266,"Situl arheologic de la Cincşor, punct ""Grădişte""","sat CINCŞOR; ""Grădişte”, comuna VOILA drept","la 6 km E de sat, pe malul al Oltului",
+32,BV-I-m-A-11266.01,Castrul roman de la Cincşor,"sat CINCŞOR; ""Grădişte”, comuna VOILA drept","la 6 km E de sat, pe malul al Oltului","sec. II - III p. Chr., Epoca romană"
+33,BV-I-m-A-11266.02,Aşezare romană,"sat CINCŞOR; ""Grădişte”, comuna VOILA drept","la 6 km E de sat, pe malul al Oltului","sec. II - III p. Chr., Epoca romană"
+34,BV-I-m-A-11266.03,Aşezare dacică,"sat CINCŞOR; ""Grădişte”, comuna VOILA drept","la 6 km E de sat, pe malul al Oltului",Latène
+35,BV-I-m-A-11266.04,Aşezare hallstattiană,"sat CINCŞOR; ""Grădişte”, comuna VOILA drept","la 6 km E de sat, pe malul al Oltului",Hallstatt
+36,BV-I-s-A-11267,Situl arheologic de la Codlea,"oraş CODLEA ""Măgura",Codlei”,
+37,BV-I-m-A-11267.01,Fortificaţia medievală,"oraş CODLEA ""Măgura de","Codlei”, pe primul mamelon, la măgură, spre satul Holbav","V sec. X - XIII, Epoca medievală"
+38,BV-I-m-A-11267.02,Aşezare dacică fortificată,"oraş CODLEA ""Măgura de","Codlei”, pe primul mamelon, la măgură, spre satul Holbav","V sec. I a. Chr. - I p. Chr., Latène"
+39,BV-I-s-B-11268 BV-I-m-B-11268.01,Situl arheologic de la Comăna de Jos Aşezare,"sat COMĂNA DE JOS; ""Gruiul comuna COMĂNA în sat COMĂNA DE JOS; ""Gruiul","Văcarului”, pe o movilă aluvionară, lunca inundabilă a Oltului Văcarului”, pe o movilă aluvionară,"," sec. VIII - IX, Epoca"
+41,BV-I-m-B-11268.02,Fortificaţie,"sat COMĂNA DE JOS; ""Gruiul comuna COMĂNA în","Văcarului”, pe o movilă aluvionară, lunca inundabilă a Oltului","sec. XI - XIII, Epoca medievală timpurie"
+42,BV-I-m-B-11268.03,Aşezare,"sat COMĂNA DE JOS; ""Gruiul comuna COMĂNA în","Văcarului”, pe o movilă aluvionară, lunca inundabilă a Oltului",Hallstatt A - B
+43,BV-I-m-B-11268.04,Aşezare,"sat COMĂNA DE JOS; ""Gruiul comuna COMĂNA în","Văcarului”, pe o movilă aluvionară, lunca inundabilă a Oltului","sec. II a. Chr. - I p. Chr., Latène"
+44,BV-I-m-B-11268.05,Aşezare,"sat COMĂNA DE JOS; ""Gruiul comuna COMĂNA în","Văcarului”, pe o movilă aluvionară, lunca inundabilă a Oltului",Epoca bronzului mijlociu
+45,BV-I-s-B-11269,"Situl arheologic de la Cristian, punct ""Dealul Bachel""","sat CRISTIAN; ""Dealul comuna CRISTIAN",Bachel”,
+46,BV-I-m-B-11269.01,Aşezare,"sat CRISTIAN; ""Dealul comuna CRISTIAN de","Bachel”, extravilan, la cca. 4 km sat, spre Braşov","E sec. III - IV p. Chr., Epoca migraţiilor, Cultura Sântana de Mureş - Cerneahov"
+47,BV-I-m-B-11269.02,Aşezare,"sat CRISTIAN; ""Dealul comuna CRISTIAN de","Bachel”, extravilan, la cca. 4 km sat, spre Braşov",E Epoca bronzului
+48,BV-I-m-B-11269.03,Aşezare,"sat CRISTIAN; ""Dealul comuna CRISTIAN de","Bachel”, extravilan, la cca. 4 km sat, spre Braşov",E Hallstatt
+49,BV-I-m-B-11269.04,Aşezare,"sat CRISTIAN; ""Dealul comuna CRISTIAN de","Bachel”, extravilan, la cca. 4 km sat, spre Braşov",E Latène
+50,BV-I-s-B-11270 BV-I-m-B-11270.01,Situl arheologic de la Cristian Aşezare,sat CRISTIAN; Str. comuna CRISTIAN sat CRISTIAN; Str.,"Gării Gării, intravilan", Epoca romană
+52,BV-I-m-B-11270.02,Aşezare,sat CRISTIAN; Str. comuna CRISTIAN,"Gării, intravilan",Latène
+53,BV-I-s-B-11271,Situl arheologic de la Criţ,sat CRIŢ; comuna ”Biserica BUNEŞTI,"evanghelică""",sec. II - III p. Chr.
+54,BV-I-s-A-11273,"Situl arheologic de la Crizbav, punct ""La Cetate""","sat CRIZBAV; ""La comuna HĂLCHIU",Cetate”,
+55,BV-I-m-A-11273.01,Ruinele cetăţii Heldenburg,"sat CRIZBAV; ""La comuna HĂLCHIU km","Cetate”, la cota de 1104 m, la cca. 5 N de sat","sec. XII - XIII, Epoca medievală"
+56,BV-I-m-A-11273.02,Aşezare hallstattiană,"sat CRIZBAV; ""La comuna HĂLCHIU km","Cetate”, la cota de 1104 m, la cca. 5 N de sat","sec. XI - IX a. Chr., Hallstatt"
+57,BV-I-m-A-11273.03,Fortificaţie dacică,"sat CRIZBAV; ""La comuna HĂLCHIU km","Cetate”, la cota de 1104 m, la cca. 5 N de sat","sec. V a. Chr. - I p. Chr., Latène"
+58,BV-I-s-B-11274,"Situl arheologic de la Cuciulata, punct ""Pleşiţa Pietroasă""","sat CUCIULATA; ""Pleşita comuna HOGHIZ",Pietroasă”,
+59,BV-I-m-B-11274.01,Aşezare,"sat CUCIULATA; ""Pleşita comuna HOGHIZ Comana dacică Hotarului","Pietroasă”, la 2,5 km E-NE de satul de Jos şi la 4 km de aşezarea de la ""Stogul lui Coţofan”, pe pârâul",Epoca bronzului
+60,BV-I-m-B-11274.02 BV-I-s-B-11275,Aşezare Situl arheologic de la,"sat CUCIULATA; ""Pleşita comuna HOGHIZ Comana dacică Hotarului sat CUCIULATA; ""Stogul","Pietroasă”, la 2,5 km E-NE de satul de Jos şi la 4 km de aşezarea de la ""Stogul lui Coţofan”, pe pârâul lui Coţofan”","sec. III a. Chr. - I p. Chr., Latène"
+62,BV-I-m-B-11275.01,Aşezare,"sat CUCIULATA; ""Stogul comuna HOGHIZ satului Bârculnicu înălţime)","lui Coţofan”, la marginea de SE a Cuciulata, la confluenţa pârâului cu pârâul Lupşa (536 m","sec. I a. Chr. - I p. Chr., Latène"
+63,BV-I-m-B-11275.02,Fortificaţie,"sat CUCIULATA; ""Stogul comuna HOGHIZ satului Bârculnicu înălţime)","lui Coţofan”, la marginea de SE a Cuciulata, la confluenţa pârâului cu pârâul Lupşa (536 m",sec. I a. Chr - I p. Chr
+64,BV-I-s-A-11276,Castellum roman,"sat DRUMUL ""La CARULUI; comuna 39+600 MOECIU valea","Cetate” (""Grădişte”), în dreptul km pe DN Braşov - Câmpulung, pe Cetăţii","sec. II - III p. Chr., Epoca romană"
+65,BV-I-s-A-11277,"Situl arheologic de la Feldioara, punct ""Cetăţeaua""","sat FELDIOARA; ""Cetăţeaua” comuna UCEA",,
+66,BV-I-m-A-11277.01,Aşezare civilă romană,"sat FELDIOARA; ""Cetăţeaua”, comuna UCEA drept","la 300 m S de sat, pe malul al Oltului","sec. II - III p. Chr., Epoca romană"
+67,BV-I-m-A-11277.02,Castrul roman,"sat FELDIOARA; ""Cetăţeaua”, comuna UCEA drept","la 300 m S de sat, pe malul al Oltului","sec. II - III p. Chr., Epoca romană"
+68,BV-I-m-A-11277.03,Burgus roman (Goldburg),"sat FELDIOARA; ""Cetăţeaua”, comuna UCEA drept","la 300 m S de sat, pe malul al Oltului","sec. II - III p. Chr., Epoca romană"
+69,BV-I-s-B-11278 BV-I-m-B-11278.01,Situl arheologic de la Hălmeag Aşezare romană,sat HĂLMEAG; Valea comuna ŞERCAIA sat HĂLMEAG; Valea,"Felmerului (Valea Mâţii) Felmerului (Valea Mâţii), în stânga"," sec. II - III p. Chr., Epoca"
+71,BV-I-m-B-11278.02,Aşezare dacică,sat HĂLMEAG; Valea comuna ŞERCAIA pârâului,"Felmerului (Valea Mâţii), în stânga",Latène
+72,BV-I-m-B-11278.03,Aşezare,sat HĂLMEAG; Valea comuna ŞERCAIA pârâului,"Felmerului (Valea Mâţii), în stânga","Neolitic, Cultura Petreşti"
+73,BV-I-s-B-11279,Situl arheologic de la Hărman,sat HĂRMAN; Dealul comuna HĂRMAN,Lempeş,
+74,BV-I-m-B-11279.01,Fortificaţie medievală timpurie,sat HĂRMAN; Dealul comuna HĂRMAN,Lempeş,"sec. XI - XII, Epoca medievală timpurie"
+75,BV-I-m-B-11279.02,Aşezare dacică,sat HĂRMAN; Dealul comuna HĂRMAN,Lempeş,"sec. III a. Chr. - I p. Chr., Latène"
+76,BV-I-m-B-11279.03,Aşezare,sat HĂRMAN; Dealul comuna HĂRMAN,Lempeş,Hallstatt
+77,BV-I-m-B-11279.04,Aşezare,sat HĂRMAN; Dealul comuna HĂRMAN,Lempeş,Epoca bronzului
+78,BV-I-m-B-11279.05,Aşezare,sat HĂRMAN; Dealul comuna HĂRMAN,Lempeş,Neolitic
+79,BV-I-s-A-11280,"Situl arheologic de la Hoghiz, punct ""La Cetate""","sat HOGHIZ; comuna ""La HOGHIZ",Cetate”,
+80,BV-I-m-A-11280.01,Aşezare romană,"sat HOGHIZ; comuna ""La HOGHIZ stâng","Cetate”, la 1 km V de sat, pe malul al Oltului","sec. II - III p. Chr., Epoca romană"
+81,BV-I-m-A-11280.02 BV-I-m-A-11280.03,Castru roman Aşezare dacică,"sat HOGHIZ; comuna ""La HOGHIZ stâng sat HOGHIZ; comuna ""La","Cetate”, la 1 km V de sat, pe malul al Oltului Cetate”, la 1 km V de sat, pe malul","sec. II - III p. Chr., Epoca romană sec. II a. Chr. - I p. Chr.,"
+83,BV-I-s-B-11281,Situl arheologic de la Jibert,"sat JIBERT; comuna ""Pe JIBERT","deal”, ""Am Berg” (""Pe Faţă”)",
+84,BV-I-m-B-11281.01,Aşezare romană,"sat JIBERT; comuna ""Pe JIBERT marginea","deal”, ""Am Berg” (""Pe Faţă”), intravilanului","sec. II - III p. Chr., Epoca romană"
+85,BV-I-m-B-11281.02,Aşezare dacică,"sat JIBERT; comuna ""Pe JIBERT marginea","deal”, ""Am Berg” (""Pe Faţă”), intravilanului","sec. I a. Chr. - I p. Chr., Latène"
+86,BV-I-s-A-11260,Situl arheologic de la Ormeniş,"sat ORMENIŞ; ""Tipia comuna ORMENIŞ",Ormenişului”,
+87,BV-I-m-A-11260.01,Aşezare dacică fortificată,"sat ORMENIŞ; ""Tipia comuna ORMENIŞ direcţia","Ormenişului”, la cca. 7 km de sat, N-NV, pe malul stâng al Oltului","pe sec. IV a. Chr. - I p. Chr., Latène, Cultura geto - dacică"
+88,BV-I-m-A-11260.02,Sanctuare dacice,"sat ORMENIŞ; ""Tipia comuna ORMENIŞ direcţia","Ormenişului”, la cca. 7 km de sat, N-NV, pe malul stâng al Oltului",pe Latène
+89,BV-I-m-A-11260.03,Fortificaţie hallstattiană,"sat ORMENIŞ; ""Tipia comuna ORMENIŞ direcţia","Ormenişului”, la cca. 7 km de sat, N-NV, pe malul stâng al Oltului","pe sec. XI - V a. Chr., Latène"
+90,BV-I-s-A-11282,Situl arheologic de la Racoş,"sat RACOŞ; comuna ""Dealul RACOŞ","Vărăriei” (""Dealul Cornului”)",
+91,BV-I-m-A-11282.01,Fortificaţie hallstattiană,"sat RACOŞ; comuna ""Dealul RACOŞ km","Vărăriei” (""Dealul Cornului”), la 1 S-SV de sat",Hallstatt
+92,BV-I-m-A-11282.02,Fortificaţie dacică,"sat RACOŞ; comuna ""Dealul RACOŞ km","Vărăriei” (""Dealul Cornului”), la 1 S-SV de sat","sec. I a. Chr. - I p. Chr., Latène"
+93,BV-I-s-A-11283 BV-I-s-A-11284,Castrul roman Cumidava Situl arheologic de la,"oraş RÂŞNOV ""Grădiştea”, cca. C.F.R., oraş RÂŞNOV ""Dealul","""La Cetate” (""Erdenburg”), 3 km N-NV de oraş, vis-a-vis de Gara cca. 450 m în dreapta râului Bârsa Cetăţii” (""Grădina Cetăţii”)","la sec. II - III p. Chr., Epoca romană"
+95,BV-I-m-A-11284.01,Fortificaţie medievală,"oraş RÂŞNOV ""Dealul","Cetăţii” (""Grădina Cetăţii”)",Epoca medievală
+96,BV-I-m-A-11284.02,Fortificaţie dacică,"oraş RÂŞNOV ""Dealul","Cetăţii” (""Grădina Cetăţii”)","sec. III a. Chr. - I p. Chr., Latène"
+97,BV-I-s-B-11285,Situl arheologic de la Roadeş,"sat ROADEŞ; ""Dealul comuna BUNEŞTI","Cetăţii” (""Burgberg”)",
+98,BV-I-m-B-11285.01,Fortificaţie hallstattiană,"sat ROADEŞ; ""Dealul comuna BUNEŞTI sat, Roadeş","Cetăţii” (""Burgberg”), la 1 km N de în extravilanul satelor Archita, Beia şi",Hallstatt
+99,BV-I-m-B-11285.02,Fortificaţie,"sat ROADEŞ; ""Dealul comuna BUNEŞTI sat, Roadeş","Cetăţii” (""Burgberg”), la 1 km N de în extravilanul satelor Archita, Beia şi","sec. II a. Chr. - sec. I p. Chr., Latène"
+100,BV-I-s-B-11286,Situl arheologic de la Rotbav,"sat ROTBAV; ""Căldăruşe” comuna FELDIOARA",,
+101,BV-I-m-B-11286.01,Aşezare,"sat ROTBAV; ""Căldăruşe”, comuna FELDIOARA",pe terasa Oltului,"sec. VIII - IX, Epoca medievală timpurie"
+102,BV-I-m-B-11286.02,Aşezare,"sat ROTBAV; ""Căldăruşe”, comuna FELDIOARA",pe terasa Oltului,"sec. III - IV p. Chr., Epoca migraţiilor"
+103,BV-I-m-B-11286.03,Aşezare dacică,"sat ROTBAV; ""Căldăruşe”, comuna FELDIOARA",pe terasa Oltului,"sec. IV a. Chr. - I p. Chr., Latène"
+104,BV-I-m-B-11286.04,Aşezare hallstattiană,"sat ROTBAV; ""Căldăruşe”, comuna FELDIOARA",pe terasa Oltului,Hallstatt
+105,BV-I-s-B-11287 BV-I-s-B-11288,Aşezare Aşezare,"sat ROTBAV; ""Părăuţ”, comuna FELDIOARA sat ROTBAV; ""Unghiul","pe terasa Oltului gardului”, pe terasa Oltului",Epoca bronzului Epoca bronzului
+107,BV-I-s-B-11289,Situl arheologic de la Rupea,oraş RUPEA Pădurea Florilor”,"lui Grigore (""Grigoriwald”); ""Valea (""Blumenthal”)",
+108,BV-I-m-B-11289.01,Aşezare romană,oraş RUPEA Pădurea Florilor”,"lui Grigore (""Grigoriwald”); ""Valea (""Blumenthal”), lângă localitate","sec. II - III p. Chr., Epoca romană"
+109,BV-I-m-B-11289.02,Saline romane,oraş RUPEA Pădurea Florilor”,"lui Grigore (""Grigoriwald”); ""Valea (""Blumenthal”), lângă localitate",
+110,BV-I-s-B-11290,Aşezare dacică,"sat ŞINCA VECHE; ""Dealul comuna ŞINCA km","Pleşu” (""Dealul Bălăneştilor”), la S de sat, pe valea pârâului Creţu","1 sec. IV a. Chr. - I p. Chr., Latène"
+111,BV-I-s-A-11291,Fortificaţie dacică,"sat TELIU; comuna ""Dealul TELIU sat","Cetăţii” (""Cetatea”), la 1 km NV de","sec. I a. Chr. - I p. Chr., Latène"
+112,BV-I-s-B-11292,Aşezare,"sat TICUŞU VECHI; ""Livadă”, comuna TICUŞ Valea","deal pe malul drept al Oltului, pe Ticuşului","sec. III - IV p. Chr., Epoca migraţiilor, Cultura Sântana de Mureş - Cerneahov"
+113,BV-I-s-A-11293,Situl arheologic de la Ungra,sat UNGRA; comuna UNGRA,,
+114,BV-I-m-A-11293.01,Fortificaţie medievală,sat UNGRA; comuna pe UNGRA,malul Oltului,"sec. XI - XIII, Epoca medievală"
+115,BV-I-m-A-11293.02,Aşezare romană,sat UNGRA; comuna pe UNGRA,malul Oltului,"sec. II - III p. Chr., Epoca romană"
+116,BV-I-m-A-11293.03,Aşezare dacică,sat UNGRA; comuna pe UNGRA,malul Oltului,"sec. II a. Chr. - I p. Chr., Latène"
+117,BV-I-m-A-11293.04 BV-II-a-A-11294,Aşezare Ansamblul fortificaţiilor,sat UNGRA; comuna pe UNGRA municipiul BRAŞOV Aleea,"malul Oltului Brediceanu Tiberiu, str. Şirul",Epoca bronzului sec. XIV-XVII
+119,BV-II-m-A-11294.01,"Latura sud-vestică: Bastionul Ţesătorilor - azi secţie a Muzeului Judeţean, Poarta Schei, Poarta Ecaterina, Bastionul Fierarilor - azi sediu al Arhivelor Naţionale, curtine (cea interioară parţial înglobată în construcţii), Zwingerul Croitorilor","municipiul BRAŞOV Aleea Ţesătorilor, fragmente), Schei), Beethowen Zwingerul nr.15","şi Str. Coşbuc George (Bastionul dubla incintă fortificată - str. Poarta Schei, (Poarta str. Richter Paul (curtine), str. Şirul (Poarta Ecaterina, curtine, Croitorilor), str. Gh. Bariţiu (curtine) şi 34 (Bastionul Fierarilor).",sec. XIV-XVII
+120,BV-II-m-A-11294.02,"Latura nord-vestică: Bastionul Măcelarilor, Turnul Studenţilor, Turnul Mănuşarilor, Bastionul Graft,Turnul Procuratorilor, Turnul Tipografilor, curtine, Zwingerul Măcelarilor, Zwingerul Mănuşarilor, Zwingerul Procuratorilor, canalul Graft, arc de sprijin","municipiul BRAŞOV Str. Măcelarilor), Studenţilor), (Turnul Bisericii Sfatului Mureşenilor Mureşenilor Bariţiu str. interioare zwingere).","Bariţiu George 32 (Bastionul Str. Bariţiu George 24 (Turnul Str. Bariţiu George 12, Mănuşarilor, azi turn clopotniţă Sf. Treime-Grecească), Piaţa 23/24 (Bastionul Graft), str. 1 (Turnul Procuratorilor), str. 9 (Turnul Tipografilor); str. George 2-32, Piaţa Sfatului 19-27, Mureşenilor nr.1-25 (curtine - cele parţial înglobate în construcţii,",sec. XIV-XVII al
+121,BV-II-m-A-11294.03,"Latura nord-estică: Bastionul Tăbăcarilor Roşii, fragmente subterane de fortificaţii",municipiul BRAŞOV Bd. (curtină 85,"Eroilor 27, str. Republicii 53-55 şi val), str. Politehnicii 3-Castelului (curtină), str. Castelului 148 (Bastionul",sec. XIV-XVII
+122,BV-II-m-A-11294.04,"Latura sud-estică: Bastionul Postăvarilor, Turn SE 1, Bastionul Funarilor, Turnul Pulberăriei, Turn SE 2, Turn SE 3, Turnul rotund, Turn SE 4, curtine, şanţ, zidul de sud-est al Curţii Vitelor, fundaţii ale zidului de sud-vest","municipiul BRAŞOV Str. str. str. Castelului Castelului reconstruit Castelului fundaţii), fundaţii), apărare originare), Postăvarilor, Vitelor, exterior şanţ","Castelului 146 (Bastionul Postăvarilor), Julius Romer 4 (Bastionul Funarilor), Castelului 136 (Turn de apărare SE 1), 76 (Turnul Pulberăriei), str. 52 (Turn de apărare SE 2, pe fundaţii originare), str. 40 (Turn de apărare SE 3, str. Castelului 32 (Turnul rotund, str. Castelului 10 (Turn de SE 4, reconstruit pe fundaţii în dreptul bastionului zidul de sud-est al Curţii str. Castelului 2-148 (curtine), la spre aleea Brediceanu Tiberiu -",sec. XIV-XVII
+123,BV-II-m-A-11294.05,"Elemente de fortificare exterioară: Turnul Negru, Turnul Alb",municipiul BRAŞOV Dealul Bastionului Bastionului,"Romurilor (Turnul Negru - în faţa Fierarilor, Turnul Alb - în faţa Graft)",sec. XIV-XVII
+124,BV-II-s-A-11295,Centrul istoric - Cetatea Braşovului,"municipiul BRAŞOV Delimitare: Dobrogeanu versantul Şirul Brediceanu, Tâmpa","NE - Bd. Eroilor, str. Gherea; NV - canalul Graft şi sudic al dealului Romurilor; SV Beethoven şi Aleea Tiberiu versantul nordic al dealului",sec. XIV-XX -
+125,BV-II-s-B-11296,"Ansamblul urban ""Şcheii Braşovului""","municipiul BRAŞOV Delimitare: Brediceanu dealului Brâncoveanu,","NE - Şirul Beethoven, Aleea Tiberiu; NV - versantul sudic Warthe; S şi SV - versantul nordic Nisipului de Jos, Nisipului",sec. XIV-XX al de
+126,BV-II-a-B-11297,"Ansamblul urban ""Blumăna-Dealul Cetăţii""","municipiul BRAŞOV Delimitare: Negoiu, Grădinarilor, Grozăvescu str. SV Traian, str. Eminescu","Bd. Eroilor, str. Pictor Pop, str. str. Matei Basarab, str. str. Maniu Iuliu, str. Traian, str. Cantacuzino, dr., Cuza Al. I., str. Sitei, Str. Universităţii; - Dealul Morii, Str. Bisericii Române, str. str. Cantacuzino, dr., str. Cuza Al. Felix, dr., str. Dealul de Jos, str. Mihai, str. Iorga Nicolae","sec. XVIII-XX I.,"
+127,BV-II-a-B-11298,"Ansamblul urban ""Braşovul Vechi""","municipiul BRAŞOV Delimitare: Mihai, Române, Mihai Andreescu,","Bd. Eroilor, str. Eminescu str. Dealul de Jos, str. Bisericii str. Avram Iancu, str. Morii, str. Viteazul, str. Stadionului, str. Pictor str. Carierei",sec. XVIII-XX
+128,BV-II-a-B-11668,"Ansamblul ""Dârste""","municipiul BRAŞOV Delimitare: Ioan, Bere;","S - dealul Pleaşa, str. Meşotă dr., str. Bârsan Andrei, Fabrica de N - str. Gării",
+129,BV-II-m-B-11300,Casă,municipiul BRAŞOV Bd.,15 Noiembrie 15,sec. XVIII
+130,BV-II-a-A-11530,Ansamblul bisericii evanghelice din Obere Vorstadt,municipiul BRAŞOV Str.,"Baiulescu 2, str. Prundului 3",sec. XVIII
+131,BV-II-m-A-11530.02 BV-II-m-B-11301,"Fosta casă parohială, azi sediu al F. D. G. R. Casa Benkner",municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Baiulescu 2 Bariţiu Gh. 1-1A,sec. XVIII sec. XVI - XIX
+133,BV-II-m-B-11302,Casa Ridely,municipiul BRAŞOV Str.,Bariţiu Gh. 2,sec. XVI - XVIII
+134,BV-II-m-B-11303,Casă,municipiul BRAŞOV Str.,Bariţiu Gh. 3,sec. XVI - XIX
+135,BV-II-m-B-11304,Casă,municipiul BRAŞOV Str.,Bariţiu Gh. 4,sec. XVI - XIX
+136,BV-II-m-B-11305,Casa Valentinus Hirscher,municipiul BRAŞOV Str.,Bariţiu Gh. 6,sec. XVI - XIX
+137,BV-II-m-B-11306,Casă,municipiul BRAŞOV Str.,Bariţiu Gh. 7,sec. XVI - XIX
+138,BV-II-a-A-11307,"Ansamblul bisericii ""Sf. Treime”-Grecească",municipiul BRAŞOV Str.,Bariţiu Gh. 12,sec. XVIII - XIX
+139,BV-II-m-A-11307.01,"Biserica ""Sf. Treime”- Grecească",municipiul BRAŞOV Str.,Bariţiu Gh. 12,1786
+140,BV-II-m-B-11866,Casa Sextil Puşcariu,municipiul BRAŞOV Str.,Bariţiu Gh. 12,sec. XIX
+141,BV-II-m-B-11308,Casă,municipiul BRAŞOV Str.,Bariţiu Gh. 24,sec. XVI - XVIII
+142,BV-II-m-B-11309,Casă,municipiul BRAŞOV Str.,Bariţiu Gh. 26,sec. XVI - XVIII
+143,BV-II-m-B-11310 BV-II-m-B-11311,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Bălcescu Nicolae 2- 4 Bălcescu Nicolae 3,sec. XVIII - XIX sec. XVIII
+145,BV-II-m-B-11312,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 5,cca. 1800
+146,BV-II-m-B-11313,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 6,cca. 1800
+147,BV-II-m-B-11314,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 9,cca. 1800
+148,BV-II-m-B-11315,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 10,sec. XVIII
+149,BV-II-m-B-11316,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 14,"sec. XVI - XIX, 1798"
+150,BV-II-m-B-11317,Casa Friedrich Czell,municipiul BRAŞOV Str.,Bălcescu Nicolae 15,înc. sec. XIX
+151,BV-II-m-A-11318,Hanul Roşu,municipiul BRAŞOV Str.,Bălcescu Nicolae 16,"1689, sec. XIX"
+152,BV-II-m-B-11319,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 19,sec. XVIII
+153,BV-II-m-B-11320,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 21,"sec. XVIII, 1829"
+154,BV-II-m-B-11321,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 22,sec. XVIII
+155,BV-II-m-B-11322 BV-II-m-B-11323,Casa Demeter Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Bălcescu Nicolae 23 Bălcescu Nicolae 24,sec. XIX sec. XVIII
+157,BV-II-m-B-11324,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 32,prima jum. a sec. XIX
+158,BV-II-m-B-11325,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 36,prima jum. a sec. XIX
+159,BV-II-m-B-11326,Casa Johannes Honterus,municipiul BRAŞOV Str.,Bălcescu Nicolae 40,sec. XV - XIX
+160,BV-II-m-B-11327,Casa Friedrich Wolf,municipiul BRAŞOV Str.,Bălcescu Nicolae 42,sec. XVIII
+161,BV-II-m-B-11328,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 50,sec. XVIII
+162,BV-II-m-B-11329,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 51,sec. XVIII
+163,BV-II-m-B-11330,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 53,sec. XVIII
+164,BV-II-m-B-11331,Cazarma Neagră,municipiul BRAŞOV Str.,Bălcescu Nicolae 56,"1796, 1871 - 1873"
+165,BV-II-m-B-11332,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 61,"1818, 1910"
+166,BV-II-m-B-11333,Casă,municipiul BRAŞOV Str.,Bălcescu Nicolae 63,cca. 1800
+167,BV-II-m-B-11334 BV-II-m-B-11335,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Bălcescu Nicolae 65 Benkner Hans 2,sec. XVII sec. XVIII - XIX
+169,BV-II-a-A-11336,"Ansamblul bisericii ""Adormirea Maicii Domnului”",municipiul BRAŞOV Str.,Bisericii Române 47,sec. XVIII - XIX
+170,BV-II-m-A-11336.01,"Biserica ""Adormirea Maicii Domnului”",municipiul BRAŞOV Str.,Bisericii Române 47,1783
+171,BV-II-m-B-11337,Casă,municipiul BRAŞOV Str.,Bisericii Sf. Nicolae 11,1787
+172,BV-II-m-B-11338,Casă,municipiul BRAŞOV Str.,Bisericii Sf. Nicolae 18,1782
+173,BV-II-m-B-11369,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 8,sec. XIX
+174,BV-II-m-A-11370,"Casă, cu fosta capelă grecească",municipiul BRAŞOV Str.,Brâncoveanu Constantin 10,"1690, 1798"
+175,BV-II-m-A-11371,Casa Bălaşa Brâncoveanu,municipiul BRAŞOV Str.,Brâncoveanu Constantin 12,1793
+176,BV-II-m-B-11372,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 21,cca. 1800
+177,BV-II-m-A-11373,"Fosta reşedinţa de vară a familiei Brukenthal, azi locuinţă",municipiul BRAŞOV Str.,Brâncoveanu Constantin 23,"sec. XVIII, 1850"
+178,BV-II-m-B-11374,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 26,sec. XVIII
+179,BV-II-m-A-11375 BV-II-m-B-11376,Casa Brâncoveanu - Manolache Lambrino Casă şi poartă de lemn,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Brâncoveanu Constantin 32 Brâncoveanu Constantin 35,1769 - 1770 sec. XVIII
+181,BV-II-m-B-11377,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 36,sec. XVIII
+182,BV-II-m-A-11378,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 38,1731
+183,BV-II-m-B-11379,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 39,sec. XVIII
+184,BV-II-m-B-11380,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 40,1731
+185,BV-II-m-B-11381,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 42,sec. XVIII
+186,BV-II-m-B-11382,Conacul familiei Brâncoveanu - Prinzhaus,municipiul BRAŞOV Str.,Brâncoveanu Constantin 46,"sec. XVII, ref. 1800"
+187,BV-II-m-B-11383,Casă,municipiul BRAŞOV Str.,Brâncoveanu Constantin 48,sec. XVIII
+188,BV-II-m-B-11384,Casa familiei Brâncoveanu,municipiul BRAŞOV Str.,Brâncoveanu Constantin 51,sec. XVIII
+189,BV-II-a-A-11339,"Ansamblul bisericii ""Sf. Treime”- Dârste",municipiul BRAŞOV Calea,Bucureşti 255,sec. XVIII
+190,BV-II-m-A-11339.01,"Biserica ""Sf. Treime”- Dârste",municipiul BRAŞOV Calea,Bucureşti 255,1783
+191,BV-II-m-A-11339.02 BV-II-m-B-11596,"Zid de incintă Hanul ""La Soarele de",municipiul BRAŞOV Calea municipiul BRAŞOV Str.,"Bucureşti 255 Buzoianu, colonel 1",sec. XVIII 1834
+193,BV-II-a-B-11340,"Ansamblul bisericii evanghelice ""Blumăna”",municipiul BRAŞOV Str.,"Cantacuzino Ion, doctor 2-4",sec. XVIII - XIX
+194,BV-II-m-B-11340.01,Biserica evanghelică,municipiul BRAŞOV Str.,"Cantacuzino Ion, doctor 2",1777
+195,BV-II-m-B-11340.04,Poartă,municipiul BRAŞOV Str.,"Cantacuzino Ion, doctor 2-4",sec. XIX
+196,BV-II-m-B-11340.02,Casa parohială evanghelică,municipiul BRAŞOV Str.,"Cantacuzino Ion, doctor 4",sec. XVIII - XIX
+197,BV-II-m-B-11341,Casă,municipiul BRAŞOV Str.,Castelului 5,sec. XIX
+198,BV-II-m-B-11342,Casă,municipiul BRAŞOV Str.,Castelului 6,cca.1800
+199,BV-II-m-B-11343,Casă,municipiul BRAŞOV Str.,Castelului 9,cca. 1800
+200,BV-II-m-B-11344,Casă,municipiul BRAŞOV Str.,Castelului 10,sf. sec. XIX
+201,BV-II-m-B-11345,Casă,municipiul BRAŞOV Str.,Castelului 12,sec. XVIII
+202,BV-II-m-B-11346,Casă,municipiul BRAŞOV Str.,Castelului 14,1786
+203, BV-II-m-B-11347 BV-II-m-B-11348, Casă Casă, municipiul BRAŞOV Str. municipiul BRAŞOV Str., Castelului 20 Castelului 22, sec. XVIII - XIX sf. sec. XIX
+205,BV-II-m-B-11349,Casă,municipiul BRAŞOV Str.,Castelului 30,înc. sec. XIX
+206,BV-II-m-B-11350,Casă,municipiul BRAŞOV Str.,Castelului 31,sec. XVIII
+207,BV-II-m-B-11351,Casă,municipiul BRAŞOV Str.,Castelului 34,"1742, 1832, 1871"
+208,BV-II-m-A-11352,Casă,municipiul BRAŞOV Str.,Castelului 42,1581
+209,BV-II-m-B-11353,Casă,municipiul BRAŞOV Str.,Castelului 53,sec. XVIII
+210,BV-II-m-B-11354,Casă,municipiul BRAŞOV Str.,Castelului 54,cca. 1800
+211,BV-II-m-B-11355,Poartă de lemn,municipiul BRAŞOV Str.,Castelului 55,sec. XIX
+212,BV-II-m-B-11356,Casă,municipiul BRAŞOV Str.,Castelului 59,sec. XVIII
+213,BV-II-m-B-11357,Casă,municipiul BRAŞOV Str.,Castelului 68,sec. XVIII
+214,BV-II-m-B-11358,Casă,municipiul BRAŞOV Str.,Castelului 72,1801
+215,BV-II-m-B-11359 BV-II-m-B-11360,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Castelului 120 Castelului 126,cca. 1800 înc. sec. XIX
+217,BV-II-m-B-11361,Casă,municipiul BRAŞOV Str.,Cerbului 14,1786
+218,BV-II-m-B-11362,Casă,municipiul BRAŞOV Str.,Cerbului 18,sec. XVIII
+219,BV-II-m-B-11363,Casă,municipiul BRAŞOV Str.,Cerbului 20,sec. XVIII
+220,BV-II-m-B-11364,Casă,municipiul BRAŞOV Str.,Cerbului 22,sec. XVI - XIX
+221,BV-II-m-B-11365,Casa Daniel Ridely,municipiul BRAŞOV Str.,Cerbului 23,sec. XVIII
+222,BV-II-m-A-11366,Casă,municipiul BRAŞOV Str.,Cerbului 24,1771
+223,BV-II-m-B-11367,Casă,municipiul BRAŞOV Str.,Cerbului 30,cca. 1800
+224,BV-II-m-A-11368,"Casa cu icoană, corpurile A şi B",municipiul BRAŞOV Str.,Cerbului 34,1713
+225,BV-II-m-B-11385,Casă,municipiul BRAŞOV Str.,Coresi Diaconul 2,sec. XVI - XVIII
+226,BV-II-m-B-11386,Casă,municipiul BRAŞOV Str.,Coresi Diaconul 4,sec. XVII - XIX
+227,BV-II-m-B-11387 BV-II-m-B-11388,Casă Poartă de lemn,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Coresi Diaconul 6 Costiţei 13,sec. XVIII - XIX sec. XVIII
+229,BV-II-m-B-21054,"Clădirea ""Olimpia""",municipiul BRAŞOV Str.,Coșbuc George 2,1894
+230,BV-II-a-A-11389,Ansamblul palatului Ştirbei,municipiul BRAŞOV Str.,Crişan 5,înc. sec. XX
+231,BV-II-m-A-11389.01,Palatul Ştirbei,municipiul BRAŞOV Str.,Crişan 5,înc. sec. XX
+232,BV-II-m-A-11389.02,Parc dendrologic,municipiul BRAŞOV Str.,Crişan 5,înc. sec. XX
+233,BV-II-m-B-11390,Casă,municipiul BRAŞOV Str.,De Mijloc 2,sec. XVIII
+234,BV-II-m-A-11391,Casă,municipiul BRAŞOV Str.,De Mijloc 28,1805
+235,BV-II-m-B-11392,Casă,municipiul BRAŞOV Str.,De Mijloc 47,1681
+236,BV-II-a-A-11393,Cetăţuia,municipiul BRAŞOV Str.,Dealul Cetăţii,sec. XVI - XVII
+237,BV-II-m-A-11393.01,Incinta bastionară,municipiul BRAŞOV Str.,Dealul Cetăţii,sec. XVII
+238,BV-II-m-A-11393.02,Castelul,municipiul BRAŞOV Str.,Dealul Cetăţii,sec. XVI
+239,BV-II-m-A-11394 BV-II-m-B-11395,"Biserica evanghelică ""Sf. Martin” Casa parohială",municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Dealul de Jos 12 Dealul de Jos 12,"sec. XIV, 1795 - 1796 sec. XVIII"
+241,BV-II-m-B-11396,Casă,municipiul BRAŞOV Str.,Dinicu Grigoraş 1,sec. XVIII
+242,BV-II-m-B-11397,Casă,municipiul BRAŞOV Piaţa,Enescu 2,1779
+243,BV-II-m-B-11398,Casă,municipiul BRAŞOV Piaţa,Enescu 6,sf. sec. XIX
+244,BV-II-m-B-11399,Casă,municipiul BRAŞOV Piaţa,Enescu 7,1769
+245,BV-II-m-A-11400,Fost atelier de tâmplărie şi depozit de marfă,municipiul BRAŞOV Piaţa,Enescu 11 bis,sec. XVII - XVIII
+246,BV-II-m-B-11401,Casă,municipiul BRAŞOV Piaţa,Enescu 12,sec. XVIII
+247,BV-II-m-B-11299,Capela fostului cimitir catolic,municipiul BRAŞOV Bd.,Eroilor 2,1821
+248,BV-II-m-A-11402,"Fosta Prefectură, azi Rectoratul Universităţii",municipiul BRAŞOV Bd.,Eroilor 29,1881 - 1885
+249,BV-II-m-B-11403,"Vila Baiulescu, azi secţie a Bibliotecii Judeţene",municipiul BRAŞOV Bd.,Eroilor 33,1888 - 1889
+250,BV-II-m-B-11404,"Fosta Cameră de Comerţ, azi Biblioteca Judeţeană ""George",municipiul BRAŞOV Bd.,Eroilor 35,1928 - 1930
+251,BV-II-m-A-11405,Casă,municipiul BRAŞOV Str.,Gött Johann 3,1654
+252,BV-II-m-B-11406,Casă,municipiul BRAŞOV Str.,Gött Johann 5,sec. XVII
+253,BV-II-m-B-11407,Casa de editură Ciurcu,municipiul BRAŞOV Str.,Hirscher Apollonia 3,sec. XVI - XVIII
+254,BV-II-m-B-11408,Casă,municipiul BRAŞOV Str.,Hirscher Apollonia 4,sec. XVI - XVIII
+255,BV-II-m-B-11409,Casă,municipiul BRAŞOV Str.,Hirscher Apollonia 6,"sec. XVII, sec. XIX"
+256,BV-II-m-B-11410,"Sală de spectacole, cafenea, restaurant - Reduta, azi Centrul Cultural ""Reduta""",municipiul BRAŞOV Str.,Hirscher Apollonia 8,1893
+257,BV-II-m-B-11411,Casă,municipiul BRAŞOV Str.,Hirscher Apollonia 9,sec. XVI - XVIII
+258,BV-II-a-A-11412,Ansamblul Biserica Neagră,municipiul BRAŞOV Curtea,Honterus Johannes f.n.,sec. XII - XIX
+259,BV-II-m-A-11412.01,"Biserica evanghelică zisă ""Biserica Neagră""",municipiul BRAŞOV Curtea,Honterus Johannes f.n.,"1383 - 1477, sec. XVI, sec. XVIII"
+260,BV-II-m-A-11412.02 BV-II-m-A-11413,"Fostul cimitir parohial, azi Curtea Johannes Honterus Fosta şcoală de băieţi,",municipiul BRAŞOV Curtea municipiul BRAŞOV Curtea,Honterus Johannes f.n. Honterus Johannes 1,sec. XII - XIX 1822 - 1823
+262,BV-II-m-A-11414,"Casa parohială evanghelică a parohiei ""Biserica Neagră""",municipiul BRAŞOV Curtea,Honterus Johannes 2,"1388, 1776"
+263,BV-II-m-A-11415,"Fostul gimnaziu evanghelic, azi corpul B al Liceului ""Johannes Honterus""",municipiul BRAŞOV Curtea,Honterus Johannes 3,"1541, ref. 1743 - 1748, 1834 - 1835"
+264,BV-II-m-B-11416,Casă,municipiul BRAŞOV Curtea,Honterus Johannes 4,1780
+265,BV-II-m-A-11417,"Fosta casă a predicatorilor, azi corpul C al Liceului ""Johannes Honterus""",municipiul BRAŞOV Curtea,Honterus Johannes 5,"1786 - 1793, 1855"
+266,BV-II-m-B-11418,"Fosta casă a Rectorului, azi locuinţă",municipiul BRAŞOV Curtea,Honterus Johannes 6,1772
+267,BV-II-m-B-11419,"Fosta casă a Rectorului, azi locuinţă",municipiul BRAŞOV Curtea,Honterus Johannes 7,1772
+268,BV-II-m-B-11420,"Fosta casă a Rectorului, azi locuinţă",municipiul BRAŞOV Curtea,Honterus Johannes 8,1772
+269,BV-II-m-B-11421,Casa paraclisierului,municipiul BRAŞOV Curtea,Honterus Johannes 9,sec. XVI - XIX
+270,BV-II-m-B-11422 BV-II-m-B-11423,Palatul Poştelor Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Iorga Nicolae 1 Lacea Constantin 26,1907 1787
+272,BV-II-m-A-11424,Casa cu icoană,municipiul BRAŞOV Str.,Lacea Constantin 32,1773
+273,BV-II-m-B-11425,Casă,municipiul BRAŞOV Str.,Lacea Constantin 39,sec. XVIII
+274,BV-II-m-B-11426,"Hanul ""La Vulturul de Aur”, azi Şcoala Populară de Arte",municipiul BRAŞOV Str.,Lungă 1,sec. XVIII - XIX
+275,BV-II-a-B-11427,Ansamblul cimitirului evanghelic Braşovul Vechi,municipiul BRAŞOV Str.,Lungă 2,sec. XVIII - XIX
+276,BV-II-m-B-11427.02,Capelă,municipiul BRAŞOV Str.,Lungă 2,sec. XVIII
+277,BV-II-m-B-11427.03,Zid de incintă,municipiul BRAŞOV Str.,Lungă 2,sec. XVIII
+278,BV-II-m-B-11427.04,Casa îngrijitorului,municipiul BRAŞOV Str.,Lungă 2,sec. XVIII
+279,BV-II-m-B-11428,Casă,municipiul BRAŞOV Str.,Lungă 15,sec. XVIII
+280,BV-II-m-B-11429,Casă,municipiul BRAŞOV Str.,Lungă 17,sec. XVIII
+281,BV-II-m-B-11430,Casă,municipiul BRAŞOV Str.,Lungă 23,cca. 1800
+282,BV-II-m-B-11431 BV-II-m-B-11432,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Lungă 24 Lungă 26,sec. XVIII 1777
+284,BV-II-m-B-11433,Casă,municipiul BRAŞOV Str.,Lungă 31,sec. XVIII
+285,BV-II-m-B-11434,Casă,municipiul BRAŞOV Str.,Lungă 32,sf. sec. XIX
+286,BV-II-m-B-11435,Casă,municipiul BRAŞOV Str.,Lungă 33,cca. 1800
+287,BV-II-m-B-11436,Casă,municipiul BRAŞOV Str.,Lungă 58,1795
+288,BV-II-m-B-11437,Casă,municipiul BRAŞOV Str.,Lungă 69,sf. sec. XIX
+289,BV-II-m-B-11438,Casă,municipiul BRAŞOV Str.,Lungă 70,sec. XIX
+290,BV-II-m-B-11439,Casă,municipiul BRAŞOV Str.,Lungă 82,sf. sec. XIX
+291,BV-II-m-B-11440,Casă,municipiul BRAŞOV Str.,Lungă 86,sec. XVIII
+292,BV-II-m-B-11441,Casa Michael Hann,municipiul BRAŞOV Str.,Lungă 87,sec. XIX
+293,BV-II-m-B-11442,Casă,municipiul BRAŞOV Str.,Lungă 93,sec. XIX
+294,BV-II-m-B-11443 BV-II-m-B-11444,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Lungă 96 Lungă 97-99,1788 sec. XVIII - XIX
+296,BV-II-m-B-11445,Casă,municipiul BRAŞOV Str.,Lungă 102,sec. XIX
+297,BV-II-m-B-11446,Casă,municipiul BRAŞOV Str.,Lungă 113,înc. sec. XIX
+298,BV-II-m-B-11447,Casă,municipiul BRAŞOV Str.,Lungă 115,sec. XVIII
+299,BV-II-m-B-11448,Casă,municipiul BRAŞOV Str.,Lungă 116,sec. XVIII
+300,BV-II-m-B-11449,Casă,municipiul BRAŞOV Str.,Lungă 120,sec. XIX
+301,BV-II-m-B-11450,Casă,municipiul BRAŞOV Str.,Lungă 121,sec. XIX
+302,BV-II-m-B-11451,Casă,municipiul BRAŞOV Str.,Lungă 134-136,înc. sec. XIX
+303,BV-II-m-B-11452,Casă,municipiul BRAŞOV Str.,Lungă 139,înc. sec. XIX
+304,BV-II-m-B-11453,Casă,municipiul BRAŞOV Str.,Lungă 147,sec. XVIII - XIX
+305,BV-II-m-B-11454,Casă,municipiul BRAŞOV Str.,Lungă 150,sec. XVIII - XIX
+306,BV-II-m-B-11455 BV-II-m-B-11456,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Lungă 158 Lungă 167,sec. XIX 1848
+308,BV-II-m-B-11457,Casă,municipiul BRAŞOV Str.,Lungă 175,sec. XIX
+309,BV-II-m-B-11458,Casă,municipiul BRAŞOV Str.,Lungă 180,1785
+310,BV-II-m-B-11459,Casă,municipiul BRAŞOV Str.,Lungă 202,sec. XVIII
+311,BV-II-m-B-11460,Casă,municipiul BRAŞOV Str.,Lungă 242,sec. XVIII
+312,BV-II-a-A-11461,"Ansamblul bisericii evanghelice ""Sf. Bartolomeu""",municipiul BRAŞOV Str.,Lungă 251,sec. XIII - XIX
+313,BV-II-m-A-11461.01,"Biserica evanghelică ""Sf. Bartolomeu”",municipiul BRAŞOV Str.,Lungă 251,sec. XIII - XIX
+314,BV-II-m-A-11461.03,Zid de incintă cu poartă,municipiul BRAŞOV Str.,Lungă 251,sec. XIII - XIX
+315,BV-II-m-A-11461.04,Casă parohială,municipiul BRAŞOV Str.,Lungă 251,1905
+316,BV-II-m-B-11462,Biserica evanghelică maghiară Blumăna,municipiul BRAŞOV Str.,Maniu Iuliu 2,1787
+317,BV-II-m-B-11463,Casă,municipiul BRAŞOV Str.,Maniu Iuliu 3,sec. XVIII
+318, BV-II-m-B-11464 BV-II-m-B-11465, Casă Moara veche de, municipiul BRAŞOV Str. municipiul BRAŞOV Str., Maniu Iuliu 20 Matei Basarab 23, sec. XVIII sec. XVIII
+320,BV-II-m-B-11466,Casă,municipiul BRAŞOV Str.,"Moşoiu Traian, general 2",sec. XVIII
+321,BV-II-m-A-11467,Casa Schobeln,municipiul BRAŞOV Str.,Mureşenilor 9,"1550, sec. XVIII"
+322,BV-II-m-B-11468,Casa Lazar,municipiul BRAŞOV Str.,Mureşenilor 15,sec. XVI - XIX
+323,BV-II-m-B-11469,Casa parohială a bisericii romano- catolice,municipiul BRAŞOV Str.,Mureşenilor 19,sec. XVI - XIX
+324,BV-II-m-A-11470,"Biserica romano- catolică ""Sf. Petru şi Pavel”",municipiul BRAŞOV Str.,Mureşenilor 21,1776 - 1782
+325,BV-II-m-B-11471,Casă,municipiul BRAŞOV Str.,Mureşenilor 23,sec. XVI - XIX
+326,BV-II-m-B-11472,Casă,municipiul BRAŞOV Str.,Mureşenilor 25,sec. XIX
+327,BV-II-m-B-11473,"Cercul Ofiţerilor, azi Cercul Militar",municipiul BRAŞOV Str.,Mureşenilor 29,1936 - 1946
+328,BV-II-m-B-11474,Casă,municipiul BRAŞOV Str.,Neajlov 7,sec. XVIII
+329,BV-II-m-B-11475,Casă,municipiul BRAŞOV Str.,Pajiştei 5,1887
+330,BV-II-m-B-11476 BV-II-m-B-11477,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Pajiştei 17 Pajiştei 62,sec. XVIII sec. XVIII
+332,BV-II-m-B-11478,Casă,municipiul BRAŞOV Str.,Pajiştei 66,sec. XVIII
+333,BV-II-m-B-11479,Casa Grid,municipiul BRAŞOV Str.,Pe Tocile 2,1773
+334,BV-II-m-B-20270,Casă,municipiul BRAŞOV Str.,Pe Tocile 15,1837
+335,BV-II-m-B-20271,Poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 20,sec. XVIII
+336,BV-II-m-B-11480,Casă şi poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 26,sec. XVIII
+337,BV-II-m-B-11481,Casă şi poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 33,sec. XVIII
+338,BV-II-m-B-20272,Poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 34,sec. XVIII
+339,BV-II-m-B-11482,Casă şi poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 73,înc. sec. XIX
+340,BV-II-m-B-11483,Poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 83,sec. XVIII
+341,BV-II-m-B-11484,Casă,municipiul BRAŞOV Str.,Pe Tocile 110,sec. XVIII
+342,BV-II-m-B-11485 BV-II-m-B-20274,Casă şi poartă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Pe Tocile 116 Pe Tocile 158,sec. XVIII sec. XVIII
+344,BV-II-m-B-11486,Casă şi poartă de lemn,municipiul BRAŞOV Str.,Pe Tocile 164,sec. XVIII
+345,BV-II-a-B-11487,Poartă de lemn,municipiul BRAŞOV Str.,Piatra Mare 59,sec. XVIII
+346,BV-II-m-B-20275,Casă,municipiul BRAŞOV Str.,Piatra Mare 61,sec. XVIII
+347,BV-II-m-B-11488,Casă,municipiul BRAŞOV Str.,Poarta Schei 2,sec. XIX
+348,BV-II-m-B-11489,Casă,municipiul BRAŞOV Str.,Poarta Schei 3,sec. XIX
+349,BV-II-m-B-11490,Casă,municipiul BRAŞOV Str.,Poarta Schei 4,sec. XIX
+350,BV-II-m-B-11491,Casă,municipiul BRAŞOV Str.,Poarta Schei 5,sec. XVI - XIX
+351,BV-II-m-B-11492,Casă,municipiul BRAŞOV Str.,Poarta Schei 6,sec. XVIII
+352,BV-II-m-B-11493,Casă,municipiul BRAŞOV Str.,Poarta Schei 7,sec. XVIII
+353,BV-II-m-B-11494,Casă,municipiul BRAŞOV Str.,Poarta Schei 8,sec. XIX
+354,BV-II-m-B-11495 BV-II-m-B-11496,Casa Gottlieb Fleischer Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Poarta Schei 9 Poarta Schei 10,"sec. XVI, ref. 1880 sec. XIX"
+356,BV-II-m-A-11497,Casă,municipiul BRAŞOV Str.,Poarta Schei 11,1718
+357,BV-II-m-B-11498,Casă,municipiul BRAŞOV Str.,Poarta Schei 12,sec. XVI - XIX
+358,BV-II-m-B-11499,Casă,municipiul BRAŞOV Str.,Poarta Schei 13,cca. 1700
+359,BV-II-m-A-11500,"Orfelinatul Tartler, azi grădiniţă",municipiul BRAŞOV Str.,Poarta Schei 14,"1806, 1875"
+360,BV-II-m-B-11501,Casă,municipiul BRAŞOV Str.,Poarta Schei 15,"sec. XVI, sec. XVIII, sec. XIX"
+361,BV-II-m-B-11502,Casă,municipiul BRAŞOV Str.,Poarta Schei 16,sec. XIX
+362,BV-II-m-A-11503,Casă,municipiul BRAŞOV Str.,Poarta Schei 17,"cca. 1700, sec. XIX"
+363,BV-II-m-B-11504,Casă,municipiul BRAŞOV Str.,Poarta Schei 18,sec. XIX
+364,BV-II-m-B-11505,Casă,municipiul BRAŞOV Str.,Poarta Schei 19,sec. XIX
+365,BV-II-m-B-11506,Casă,municipiul BRAŞOV Str.,Poarta Schei 20,1830
+366,BV-II-m-B-11507 BV-II-m-B-11508,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Poarta Schei 21 Poarta Schei 22,sec. XVI - XVIII sec. XIX
+368,BV-II-m-B-11509,Casă,municipiul BRAŞOV Str.,Poarta Schei 23,sec. XIX
+369,BV-II-m-B-11510,Casă,municipiul BRAŞOV Str.,Poarta Schei 24,sec. XIX
+370,BV-II-m-B-11511,Casă,municipiul BRAŞOV Str.,Poarta Schei 25,sec. XVIII - XIX
+371,BV-II-m-B-11512,Casă,municipiul BRAŞOV Str.,Poarta Schei 26,sec. XIX
+372,BV-II-m-B-11513,"Casă, azi birouri ale Comunităţii evreieşti",municipiul BRAŞOV Str.,Poarta Schei 27,sec. XIX
+373,BV-II-m-B-11514,Casă,municipiul BRAŞOV Str.,Poarta Schei 28,sec. XVIII
+374,BV-II-m-B-11515,Sinagoga neologă,municipiul BRAŞOV Str.,Poarta Schei 29,sec. XIX
+375,BV-II-m-B-11516,"Casă, azi birouri",municipiul BRAŞOV Str.,Poarta Schei 31,sec. XIX
+376,BV-II-m-B-11517,Casă,municipiul BRAŞOV Str.,Poarta Schei 33,cca. 1700
+377,BV-II-m-A-11518,Casă,municipiul BRAŞOV Str.,Poarta Schei 35,cca. 1700
+378,BV-II-m-B-11519 BV-II-m-B-11520,Casă Fosta şcoală de,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Poarta Schei 37 Poarta Schei 39,1783 1852
+380,BV-II-m-B-11521,Casă,municipiul BRAŞOV Str.,Podul lui Grid 6,sec. XVIII
+381,BV-II-m-B-11522,Casă,municipiul BRAŞOV Str.,Postăvarului 10,sec. XVIII
+382,BV-II-m-B-11523,Casă,municipiul BRAŞOV Str.,Postăvarului 22,sec. XVIII
+383,BV-II-m-B-11524,Casă,municipiul BRAŞOV Str.,Postăvarului 24,cca. 1800
+384,BV-II-m-B-11525,Casă,municipiul BRAŞOV Str.,Postăvarului 31,sec. XVIII
+385,BV-II-m-B-11526,Casă,municipiul BRAŞOV Str.,Postăvarului 36,sec. XVII
+386,BV-II-m-B-11527,Casă,municipiul BRAŞOV Str.,Postăvarului 37,sec. XVIII - XIX
+387,BV-II-m-B-11528,Casă,municipiul BRAŞOV Str.,Postăvarului 42,sec. XVIII - XX
+388,BV-II-m-B-11529,Casă,municipiul BRAŞOV Str.,Postăvarului 66,sec. XVIII - XX
+389,BV-II-m-A-11530.01,Biserica evanghelică din Obere Vorstadt,municipiul BRAŞOV Str.,Prundului 3,1790 - 1793
+390, BV-II-m-B-11531 BV-II-m-B-11532, Casă Casă, municipiul BRAŞOV Str. municipiul BRAŞOV Str., Prundului 19 Prundului 25, sec. XVII sec. XVIII
+392,BV-II-m-B-11533,Casa Nicolae Teclu,municipiul BRAŞOV Str.,Prundului 41,sec. XVIII
+393,BV-II-m-B-11534,Casa Nicolae Ciurcu,municipiul BRAŞOV Str.,Prundului 57,sec. XVIII
+394,BV-II-m-B-11535,Casă,municipiul BRAŞOV Str.,Republicii 1,sec. XIX
+395,BV-II-m-B-11536,Locuinţă şi spaţiu comercial,municipiul BRAŞOV Str.,Republicii 2,"1583, 1787, sec. XIX"
+396,BV-II-m-B-11537,Casă,municipiul BRAŞOV Str.,Republicii 4,sec. XVI - XVII
+397,BV-II-m-B-11538,Casă,municipiul BRAŞOV Str.,Republicii 8,sec. XVIII - XIX
+398,BV-II-m-B-11539,Casă,municipiul BRAŞOV Str.,Republicii 15,sec. XVIII - XIX
+399,BV-II-m-A-11540,Casa Jekelius,municipiul BRAŞOV Str.,Republicii 17,sec. XVI
+400,BV-II-m-B-11541,Casă,municipiul BRAŞOV Str.,Republicii 18,sec. XVIII
+401,BV-II-m-B-11542,Casă,municipiul BRAŞOV Str.,Republicii 22,"sec. XVI, 1799, 1837"
+402,BV-II-m-B-11543 BV-II-m-B-11544,Casă Casă,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Republicii 29-31 Republicii 33,sec. XVIII sec. XVIII - XIX
+404,BV-II-m-B-11545,Casă,municipiul BRAŞOV Str.,Republicii 35,cca. 1800
+405,BV-II-m-B-11546,Casa Teutsch,municipiul BRAŞOV Str.,Republicii 38,sec. XVIII
+406,BV-II-m-B-11547,Casă,municipiul BRAŞOV Str.,Republicii 48,"sec. XVIII (locuinţa), sec. XIX (vitrina)"
+407,BV-II-m-B-11548,Casă,municipiul BRAŞOV Str.,Richter Paul 2,sec. XVIII
+408,BV-II-m-B-11549,Casă,municipiul BRAŞOV Str.,Richter Paul 9,sec. XVIII
+409,BV-II-m-B-11550,Casă,municipiul BRAŞOV Str.,Richter Paul 11,sec. XVIII
+410,BV-II-m-B-11551,Casă,municipiul BRAŞOV Str.,Roth Stefan Ludwig 3,sec. XVIII - XIX
+411,BV-II-m-B-11552,Casă,municipiul BRAŞOV Str.,Sadoveanu Mihail 18,sec. XVIII
+412,BV-II-m-B-11553,Casă,municipiul BRAŞOV Str.,"Saftu Vasile, dr. 3-5",1753
+413,BV-II-m-A-11554,"""Casa cu sfinţi""",municipiul BRAŞOV Str.,"Saftu Vasile, dr. 15","1766, 1799"
+414,BV-II-m-B-11555 BV-II-m-B-11556,Casă şi poartă Casă (corp A),municipiul BRAŞOV Str. municipiul BRAŞOV Str.,"Saftu Vasile, dr. 27 Saftu Vasile, dr. 42",1800 - 1850 1845
+416,BV-II-a-B-11557,"Ansamblul bisericii ""Sf. Treime""-Pe Tocile",municipiul BRAŞOV Str.,"Saftu Vasile, dr. 57",sec. XIX - XX
+417,BV-II-m-B-11557.01,"Biserica ""Sf. Treime""- Pe Tocile",municipiul BRAŞOV Str.,"Saftu Vasile, dr. 57",1824 - 1825
+418,BV-II-m-B-11557.02,Azil de bătrâni,municipiul BRAŞOV Str.,"Saftu Vasile, dr. 57",sec. XIX
+419,BV-II-m-B-11558,"Casa parohială a bisericii ""Sf. Treime”- Pe Tocile",municipiul BRAŞOV Str.,"Saftu Vasile, dr. 59","1781, sec. XIX"
+420,BV-II-m-B-20276,Casă,municipiul BRAŞOV Str.,"Saftu Vasile, dr. 77",sec. XVIII
+421,BV-II-a-A-11559,Mănăstirea franciscană,municipiul BRAŞOV Str.,Sf. Ioan 7,"1506, 1724"
+422,BV-II-m-A-11559.01,"Biserica ""Sf. Ioan” a mănăstirii franciscane",municipiul BRAŞOV Str.,Sf. Ioan 7,"1506, 1724"
+423,BV-II-m-A-11559.02,Claustru,municipiul BRAŞOV Str.,Sf. Ioan 7,"1506, 1724"
+424,BV-II-m-B-11560,Casa Albrichsfeld - Kamner,municipiul BRAŞOV Piaţa,Sfatului 1,"1587, sec. XIX, sec. XX"
+425,BV-II-m-B-11561,Casa Vasady,municipiul BRAŞOV Piaţa,Sfatului 2,sec. XVI - XX
+426,BV-II-a-B-11562 BV-II-m-B-11562.01,"Ansamblul bisericii ""Adormirea Maicii Domnului” Biserica ""Adormirea",municipiul BRAŞOV Piaţa municipiul BRAŞOV Piaţa,Sfatului 3 Sfatului 3,sf. sec. XIX sf. sec. XIX
+428,BV-II-m-B-11562.02,Casa parohială,municipiul BRAŞOV Piaţa,Sfatului 3,"sf. sec. XIX, cu pivniţe sf. sec. XVIII"
+429,BV-II-m-B-11563,Casa Czeides,municipiul BRAŞOV Piaţa,Sfatului 4,sec. XVI - XVIII
+430,BV-II-m-B-11564,Casa Wallbaum,municipiul BRAŞOV Piaţa,Sfatului 5,sec. XVI - XVIII
+431,BV-II-m-B-11565,Casa Fabritius,municipiul BRAŞOV Piaţa,Sfatului 6,sec. XVI - XIX
+432,BV-II-m-B-11566,Casa Mandl,municipiul BRAŞOV Piaţa,Sfatului 7,sec. XIX
+433,BV-II-m-B-11567,Casă,municipiul BRAŞOV Piaţa,Sfatului 8,sec. XVI - XIX
+434,BV-II-m-B-11568,Casa din curte,municipiul BRAŞOV Piaţa,Sfatului 10,sec. XVIII
+435,BV-II-m-A-11569,Casă,municipiul BRAŞOV Piaţa,Sfatului 11,sec. XVII - XVIII
+436,BV-II-m-B-11570,Casă,municipiul BRAŞOV Piaţa,Sfatului 12,sec. XVII - XIX
+437,BV-II-m-B-11571,"Fosta farmacie ""La Harap”",municipiul BRAŞOV Piaţa,Sfatului 13,sec. XVII - XIX
+438,BV-II-m-A-11572 BV-II-m-A-11573,"Fostul birt ""Gaura Dulce”, azi restaurant Casa Negustorilor",municipiul BRAŞOV Piaţa Johann municipiul BRAŞOV Piaţa,"Sfatului 14, cu intrarea din str. Gött Sfatului 14","sec. XVII 1544 - 1545, sec. XVIII"
+440,BV-II-m-A-11574,Casele Closius - Hiemesch - Giesel,municipiul BRAŞOV Piaţa,Sfatului 15-16,"1566, sec. XVI, 1720, c. 1800, 1836"
+441,BV-II-m-B-11575,"Casa Cziegler, pe locul primei farmacii a oraşului",municipiul BRAŞOV Piaţa,Sfatului 17,"1512, 1781, 1829"
+442,BV-II-m-B-11576,Casa Filstich - Plecker,municipiul BRAŞOV Piaţa,Sfatului 18,sec. XVI - XVIII
+443,BV-II-m-B-11577,Casa Stefanovitsch,municipiul BRAŞOV Piaţa,Sfatului 19,sec. XIX
+444,BV-II-m-B-11578,Casă,municipiul BRAŞOV Piaţa,Sfatului 21,sec. XV - XX
+445,BV-II-m-B-11579,Casă,municipiul BRAŞOV Piaţa,Sfatului 22,sec. XVI - XVIII
+446,BV-II-m-B-11580,Palatul Safrano,municipiul BRAŞOV Piaţa,Sfatului 23,sec. XIX
+447,BV-II-m-B-11581,Casă,municipiul BRAŞOV Piaţa,Sfatului 24,sec. XVIII - XIX
+448,BV-II-m-A-11582,Casa Mureşenilor,municipiul BRAŞOV Piaţa,Sfatului 25,sec. XV - XIX
+449,BV-II-m-B-20906,Palatul Czell,municipiul BRAŞOV Piaţa,Sfatului 26,1903
+450, BV-II-m-B-11583 BV-II-m-B-11584, Casa Seuler Casă, municipiul BRAŞOV Piaţa municipiul BRAŞOV Piaţa, Sfatului 27 Sfatului 28, sec. XVI - XVIII sec. XVI - XIX
+452,BV-II-m-B-11585,Casă,municipiul BRAŞOV Piaţa,Sfatului 29,sec. XVI - XIX
+453,BV-II-m-A-11586,"Casa Sfatului, azi muzeu",municipiul BRAŞOV Piaţa,Sfatului 30,"1420, 1770"
+454,BV-II-m-A-11587,Liceul ”Andrei Şaguna”,municipiul BRAŞOV Str.,"Şaguna Andrei, mitropolit 1",1851
+455,BV-II-m-B-11588,Şcoala Popazu,municipiul BRAŞOV Str.,"Şaguna Andrei, mitropolit 2",sec. XVIII
+456,BV-II-m-B-20277,Casă,municipiul BRAŞOV Str.,Ţibleş 8,sec. XVIII
+457,BV-II-a-A-11589,"Ansamblul bisericii ""Sf. Nicolae” din Şcheii Braşovului",municipiul BRAŞOV Piaţa,Unirii 2,sec. XV - XVIII
+458,BV-II-m-A-11589.01,"Biserica ""Sf. Nicolae” cu paraclisele (Bunavestire şi Înălţarea Domnului)",municipiul BRAŞOV Piaţa,Unirii 2,"sec. XV, 1512 - 1515, 1583 - 1585, 1651, 1740"
+459,BV-II-m-A-11589.02,"Fosta şcoală românească, azi muzeu",municipiul BRAŞOV Piaţa,Unirii 2,"1495, 1597, 1760 - 1761"
+460,BV-II-m-A-11589.03,Chilii,municipiul BRAŞOV Piaţa,Unirii 2,"1495, 1597, 1760 - 1761"
+461,BV-II-m-A-11589.04,Zid de incintă,municipiul BRAŞOV Piaţa,Unirii 2,sec. XVIII
+462,BV-II-m-B-11590 BV-II-m-A-11591,Casa Barac Casa Ciurculeţ,municipiul BRAŞOV Piaţa municipiul BRAŞOV Piaţa,Unirii 3 Unirii 4,sec. XVIII 1699
+464,BV-II-m-B-11592,Casă,municipiul BRAŞOV Piaţa,Unirii 12,"sec. XVIII, 1857"
+465,BV-II-m-B-11593,Casă,municipiul BRAŞOV Str.,Vrancei 3,1733
+466,BV-II-m-B-11594,Casă,municipiul BRAŞOV Str.,Weiss Michael 10,1796
+467,BV-II-m-A-11595,"Fosta Bancă Naţională Săsească, azi birouri",municipiul BRAŞOV Str.,Weiss Michael 22,1908
+468,BV-II-a-B-11597,"Ansamblul rural ""Str. Mare""",sat APAŢA; comuna Str. APAŢA,Mare - ambele laturi ale străzii,sec. XVIII - XIX
+469,BV-II-a-B-11598,Ansamblul bisericii evanghelice,sat APAŢA; comuna Str. APAŢA,Mare 380,sec. XVIII - XIX
+470,BV-II-m-B-11598.01,Biserica evanghelică,sat APAŢA; comuna Str. APAŢA,Mare 380,sec. XVIII
+471,BV-II-m-B-11598.02,Turn-clopotniţă,sat APAŢA; comuna Str. APAŢA,Mare 380,sec. XIX
+472,BV-II-m-B-11598.03,Casa parohială evanghelică,sat APAŢA; comuna Str. APAŢA,Mare 380,1806
+473,BV-II-m-B-11599,Casă,sat APAŢA; comuna Str. APAŢA,Nouă 91,sec. XIX
+474,BV-II-m-B-11600 BV-II-m-B-11601,Casă Casă,sat APAŢA; comuna Str. APAŢA sat APAŢA; comuna Str.,Pădurii 410 Pădurii 423,sec. XIX sec. XIX
+476,BV-II-m-B-11602,Turn de cetate,sat APAŢA; comuna Str. APAŢA localitate,"Principală, ""La Cetate”, la ieşirea din spre Ormeniş",sec. XIV
+477,BV-II-a-B-11603,Ansamblul bisericii evanghelice fortificate,sat BĂRCUT; comuna 243 ŞOARŞ,,sec. XV - XIX
+478,BV-II-m-B-11603.01,Biserica evanghelică,sat BĂRCUT; comuna 243 ŞOARŞ,,"sec. XV (turn), 1845 - 1846 (navă)"
+479,BV-II-m-B-11603.02,Incintă fortificată,sat BĂRCUT; comuna 243 ŞOARŞ,,sec. XV - XIX
+480,BV-II-a-B-11604,"Ansamblul bisericii ""Adormirea Maicii Domnului”",sat BECLEAN; 176-A comuna BECLEAN,,sec. XVIII - XIX
+481,BV-II-m-B-11604.01,"Biserica ""Adormirea Maicii Domnului”",sat BECLEAN; 176-A comuna BECLEAN,,1804
+482,BV-II-a-A-11605,Ansamblul bisericii evanghelice fortificate,sat BEIA; comuna 140 CAŢA,,sec. XVI - XIX
+483,BV-II-m-A-11605.01,Biserica evanghelică fortificată,sat BEIA; comuna 140 CAŢA,,"sec. XV - XVI, sec. XVII - XIX"
+484,BV-II-m-A-11605.02,"Fragmente ale incintei fortificate, cu turnul poligonal şi cel sud- estic",sat BEIA; comuna 140 CAŢA,,sec. XVI - XVII
+485,BV-II-a-B-11606 BV-II-m-B-11606.01,"Ansamblul bisericii ""Sf. Nicolae” Biserica ""Sf. Nicolae”",sat BOD; comuna Str. BOD sat BOD; comuna Str.,"Şaguna Andrei, mitropolit 384 Şaguna Andrei, mitropolit 384",sec. XVIII - XIX 1776
+487,BV-II-a-B-11607,Ansamblul bisericii evanghelice fortificate,sat BOD; comuna Str. BOD,Vladimirescu Tudor 137,sec. XIII - XIX
+488,BV-II-m-B-11607.01,Biserica evanghelică,sat BOD; comuna Str. BOD,Vladimirescu Tudor 137,"sec. XIII (turn), 1806 (navă)"
+489,BV-II-m-B-11607.02,Fragmente ale incintei fortificate,sat BOD; comuna Str. BOD,Vladimirescu Tudor 137,sec. XV
+490,BV-II-a-B-11608,"Ansamblul rural ""Str. Principală""",sat BOGATA Str. OLTEANĂ; comuna HOGHIZ,"Principală, ambele laturi",sec. XVIII - XIX
+491,BV-II-m-B-11609,"Biserica ""Adormirea Maicii Domnului”",sat BRAN; comuna 273 BRAN,,1820 - 1836
+492,BV-II-a-A-11610,Ansamblul castelului Bran,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",sec. XIV - XX
+493,BV-II-m-A-11610.01,Castelul Bran,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",1377 - 1382
+494,BV-II-m-A-11610.02,Casa de ceai,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",înc. sec. XX
+495,BV-II-m-A-11610.03,Fântâna,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",1377 - 1382
+496,BV-II-m-A-11610.04 BV-II-m-A-11610.05,"Incinta fortificată, donjonul, turnul de poartă, turnul pulberăriei Parc",sat BRAN; comuna Str. BRAN sat BRAN; comuna Str.,"Moşoiu Traian, general 495-498 Moşoiu Traian, general 495-498",1377 - 1382 înc. sec. XX
+498,BV-II-m-B-11611,Casa Principesei Ileana,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",1944 - 1949
+499,BV-II-a-B-11612,Ansamblul vămii Branului,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",sec. XVI - XX
+500,BV-II-m-B-11612.01,Vama Branului,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",sec. XVIII
+501,BV-II-m-B-11612.02,Incinta medievală (fragmente),sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",sec. XVI - XVII
+502,BV-II-m-B-11612.03,Capela Inima Reginei Maria,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",1947
+503,BV-II-a-A-11614,Parcul etnografic Bran,sat BRAN; comuna Str. BRAN,"Moşoiu Traian, general 495-498",1950 - 1975
+504,BV-II-m-B-20908,Muzeu etnografic sătesc,sat BREAZA; comuna 131 LISA,,sec. XIX
+505,BV-II-a-A-11615,Ansamblul castelului Beldy Ladislau,sat BUDILA; comuna 260 BUDILA,,sec. XVIII - XIX
+506,BV-II-m-A-11615.01,"Castelul Beldy Ladislau, azi primărie",sat BUDILA; comuna 260 BUDILA,,1892
+507,BV-II-m-A-11615.02,Capelă,sat BUDILA; comuna 260 BUDILA,,1762
+508,BV-II-m-A-11615.03 BV-II-m-A-11615.04,Parc Poartă,sat BUDILA; comuna 260 BUDILA sat BUDILA; comuna 260,,sec. XIX sec. XIX
+510,BV-II-a-A-11617,"Ansamblul castelelor Mikes şi Nemes, azi gospodărie anexă S.C. Aro Palace",sat BUDILA; comuna 592 BUDILA,,sec. XVIII - XIX
+511,BV-II-m-A-11617.01,Castelul Mikes,sat BUDILA; comuna 592 BUDILA,,sec. XIX
+512,BV-II-m-A-11617.02,Castelul Nemes,sat BUDILA; comuna 592 BUDILA,,sec. XVIII
+513,BV-II-m-A-11617.03,Grânar,sat BUDILA; comuna 592 BUDILA,,sec. XVIII
+514,BV-II-m-A-11617.04,Remiza pentru trăsuri,sat BUDILA; comuna 592 BUDILA,,sec. XVIII
+515,BV-II-m-A-11617.05,Parc,sat BUDILA; comuna 592 BUDILA,,sec. XIX
+516,BV-II-a-A-11616,Ansamblul castelului Beldy Pál,sat BUDILA; comuna 594 BUDILA,,sec. XVIII - XIX
+517,BV-II-m-A-11616.01,"Castelul Beldy Pál, azi depozit al S.C. Aro Palace",sat BUDILA; comuna 594 BUDILA,,1731
+518,BV-II-m-A-11616.02,Parc dendrologic,sat BUDILA; comuna 594 BUDILA,,sec. XIX
+519,BV-II-m-A-11616.03 BV-II-m-B-11618,"Pavilionul Porţii Biserica ""Sf. Nicolae”",sat BUDILA; comuna 594 BUDILA sat BUDILA; comuna Str., Seacă 296,sec. XVIII 1734
+521,BV-II-a-B-11619,"Ansamblul rural ""Str. Principală""",sat BUNEŞTI; Str. comuna BUNEŞTI Primărie Evanghelice.,"Principală, ambele laturi, de la până la intersecţia cu str. Bisericii",sec. XVIII - XIX
+522,BV-II-a-A-11620,Ansamblul bisericii evanghelice fortificate,sat BUNEŞTI; Str. comuna BUNEŞTI,Principală 138,sec. XIV - XIX
+523,BV-II-m-A-11620.01,Biserica evanghelică fortificată,sat BUNEŞTI; Str. comuna BUNEŞTI,Principală 138,"sec. XIV - XV, 1519, 1548, 1804, 1847"
+524,BV-II-m-A-11620.02,"Incinta fortificată, cu 4 turnuri şi turn al porţii, zwinger",sat BUNEŞTI; Str. comuna BUNEŞTI,Principală 138,sec. XVI - XVII
+525,BV-II-m-B-11621,"Biserica ""Sf. Nicolae”",sat CALBOR; comuna 11 BECLEAN,,1802
+526,BV-II-m-A-11622,"Biserica ""Sf. Arhangheli”",sat CALBOR; comuna 88 BECLEAN,,1732
+527,BV-II-a-A-11623,"Ansamblul rural ""Piaţa Centrală""",sat CAŢA; comuna Construcţiile CAŢA pieţei,de pe cele patru laturi ale,sec. XIII - XIX
+528,BV-II-a-B-11624,Ansamblu rural,sat CAŢA; comuna nr. CAŢA,"190-223, 261-273",sec. XVIII
+529,BV-II-m-B-11625,Casa Michael Lienert,sat CAŢA; comuna 95 CAŢA,,1808
+530,BV-II-m-A-11626,Casa Günther Thomes,sat CAŢA; comuna 266 CAŢA,,1833
+531,BV-II-m-A-11627 BV-II-a-A-11628,Casa Georg Mathie Ansamblul bisericii,sat CAŢA; comuna Str. CAŢA sat CAŢA; comuna Str.,Bisericii 265 Principală 37,1872 - 1883 sec. XIII - XIX
+533,BV-II-m-A-11628.01,Biserica evanghelică,sat CAŢA; comuna Str. CAŢA,Principală 37,sec. XIII - XIX
+534,BV-II-m-A-11628.02,"Dublă incintă fortificată, cu patru turnuri",sat CAŢA; comuna Str. CAŢA,Principală 37,sec. XV - XVII
+535,BV-II-m-A-11628.03,"Fosta şcoală confesională evanghelică, azi şcoală generală",sat CAŢA; comuna Str. CAŢA,Principală 37,1884
+536,BV-II-m-B-11629,Casa parohială evanghelică,sat CAŢA; comuna Str. CAŢA,Principală 37,sec. XVIII
+537,BV-II-m-B-11630,Casa Hones - Marcus,sat CAŢA; comuna Str. CAŢA,Principală 142,1824
+538,BV-II-m-A-11631,"Biserica ""Sf. Treime”",sat CAŢA; comuna Str. CAŢA,Principală 193,sec. XVIII
+539,BV-II-m-B-11632,Fosta şcoală românească,sat CAŢA; comuna Str. CAŢA,Românilor 170- A,1936
+540,BV-II-m-A-11633,"Biserica ""Adormirea Maicii Domnului”",sat CHEIA; comuna 27 MOIECIU,,1813
+541,BV-II-a-A-11634,Ansamblul bisericii evanghelice fortificate,sat CINCŞOR; 103 comuna VOILA,,sec. XIII - XIX
+542,BV-II-m-A-11634.01 BV-II-m-A-11634.02,"Biserica evanghelică fortificată Incintă fortificată, cu",sat CINCŞOR; 103 comuna VOILA sat CINCŞOR; 103,,"sec. XIII, sec. XV - XIX sec. XV - XVI"
+544,BV-II-m-B-11636,Casa Ştefan Untch,sat CINCU; comuna 224 CINCU,,sec. XIX
+545,BV-II-m-B-11637,Şcoala Latină,sat CINCU; comuna 251 CINCU,,sec. XVIII
+546,BV-II-m-B-11638,Fosta primărie,sat CINCU; comuna 353 CINCU,,sec. XVIII
+547,BV-II-a-A-11639,Ansamblul bisericii evanghelice fortificate,sat CINCU; comuna 528 CINCU,,sec. XIII - XIX
+548,BV-II-m-A-11639.01,Biserica evanghelică,sat CINCU; comuna 528 CINCU,,"sec. XIII,1522, 1694, 1754 1755, 1815"
+549,BV-II-m-A-11639.02,Incintă fortificată - fragmente incintă interioară şi bastion (vechea Primărie),sat CINCU; comuna 528 CINCU,,sec. XIV - XVII
+550,BV-II-m-A-11639.03,"Incintă fortificată - fragmente incintă exterioară, încăpere pentru provizii",sat CINCU; comuna 528 CINCU,,sec. XVI - XVII
+551,BV-II-a-B-11640 BV-II-m-B-11640.01,Ansamblul bisericii reformate fortificate Biserica reformată,sat COBOR; comuna 100 TICUŞ sat COBOR; comuna 100,,sec. XV - XIX sec. XV - XIX
+553,BV-II-m-B-11640.02,Incintă fortificată cu două turnuri,sat COBOR; comuna 100 TICUŞ,,sec. XVI - XVII
+554,BV-II-a-B-11641,"Ansamblul urban ""Centrul istoric""","oraş CODLEA Str. Lungă, str. Tudor, laturi","Iancu Avram, str. Constituţiei, str. str. Horia, str. Măgurii, str. Laterală, Nouă, str. Scheilor, str. Vladimirescu str. Cetăţii, casele de pe ambele ale străzilor",sec. XVIII - XIX
+555,BV-II-m-B-11642,Casa Iacob Moise,oraş CODLEA Str.,Kogălniceanu Mihail 4,1857
+556,BV-II-a-A-11643,Ansamblul bisericii evanghelice fortificate,oraş CODLEA Str.,Lungă 113,sec. XIII - XIX
+557,BV-II-m-A-11643.01,Biserica evanghelică,oraş CODLEA Str.,Lungă 113,"sec. XIII, sec. XV, 1702"
+558,BV-II-m-A-11643.02,Încăperi pentru provizii,oraş CODLEA Str.,Lungă 113,"sec. XV, 1807"
+559,BV-II-m-A-11643.03,"Incintă fortificată, cu turnuri de apărare",oraş CODLEA Str.,Lungă 113,sec. XV - XIX
+560,BV-II-m-B-11644,Fosta Primărie,oraş CODLEA Str.,Lungă 113,1829
+561,BV-II-m-B-11645,Casă,oraş CODLEA Str.,Măgurii 3,1647
+562,BV-II-m-B-11646 BV-II-m-B-11647,Casă Casă,oraş CODLEA Str. oraş CODLEA Str.,Măgurii 7 Nouă 6,sec. XVIII 1769
+564,BV-II-m-B-11648,"Biserica ""Sf. Nicolae”",sat COMĂNA DE JOS; 1 comuna COMĂNA,,sec. XVIII
+565,BV-II-m-B-11649,"Biserica ""Cuvioasa Paraschiva”",sat COMĂNA DE JOS; 315 comuna COMĂNA,,sec. XVII
+566,BV-II-m-B-11650,"Biserica ""Adormirea Maicii Domnului”",sat COMĂNA DE 118 SUS; comuna COMĂNA,,sec. XVIII
+567,BV-II-a-A-11651,"Ansamblul bisericii ""Buna Vestire”",sat COPĂCEL; 65 comuna HÂRSENI,,sec. XVIII
+568,BV-II-m-A-11651.01,"Biserica ""Buna Vestire”",sat COPĂCEL; 65 comuna HÂRSENI,,1727 - 1797
+569,BV-II-m-A-11651.02,Zid de incintă,sat COPĂCEL; 65 comuna HÂRSENI,,sec. XVIII
+570,BV-II-a-A-11652,Ansamblul bisericii evanghelice fortificate,sat CRISTIAN; Str. comuna CRISTIAN,Libertăţii 8,sec. XIII - XIX
+571,BV-II-m-A-11652.01,Biserica evanghelică,sat CRISTIAN; Str. comuna CRISTIAN,Libertăţii 8,"a doua jum. a sec. XIV, 1839 - 1841"
+572,BV-II-m-A-11652.02,"Dublă incintă fortificată, cu turnuri şi barbacană",sat CRISTIAN; Str. comuna CRISTIAN,Libertăţii 8,sec. XV - XVII
+573,BV-II-m-B-11653 BV-II-m-B-11654,"Fosta şcoală confesională evanghelică, azi şcoală generală Casa Georg Baltres",sat CRISTIAN; Str. comuna CRISTIAN sat CRISTIAN; Str.,Libertăţii 12 Morii 17,1877 - 1879 1811
+575,BV-II-m-B-11655,Casă,sat CRISTIAN; Str. comuna CRISTIAN,Morii 41,sec. XVIII
+576,BV-II-a-B-11656,"Ansamblul bisericii ""Adormirea Maicii Domnului”",sat CRISTIAN; Str. comuna CRISTIAN,Popovici Stoica 17,sec. XVIII
+577,BV-II-m-B-11656.01,"Biserica ""Adormirea Maicii Domnului”",sat CRISTIAN; Str. comuna CRISTIAN,Popovici Stoica 17,1795
+578,BV-II-m-B-11657,Casa Simon Schmidts,sat CRISTIAN; Str. comuna CRISTIAN,Republicii 62,sec. XVIII
+579,BV-II-m-B-11658,Casa Kurt Boltres,sat CRISTIAN; Str. comuna CRISTIAN,Republicii 77,sec. XVIII
+580,BV-II-m-B-11659,"Sala comunală evanghelică, azi căminul cultural",sat CRISTIAN; Str. comuna CRISTIAN,Republicii 103,1927
+581,BV-II-a-B-11660,"Ansamblul rural ""Str. Principală""",sat CRIŢ; comuna Str. BUNEŞTI între,"Principală, ambele laturi ale străzii, nr. 15 şi 188.",sec. XVIII - XIX
+582,BV-II-a-A-11661,Ansamblul bisericii evanghelice fortificate,sat CRIŢ; comuna 25 BUNEŞTI,,sec. XV - XIX
+583,BV-II-m-A-11661.01,Biserica evanghelică,sat CRIŢ; comuna 25 BUNEŞTI,,1810 - 1813
+584,BV-II-m-A-11661.02,Fântână,sat CRIŢ; comuna 25 BUNEŞTI,,1753
+585,BV-II-m-A-11661.03,"Incintă fortificată, cu cinci turnuri, trei sud - două)",sat CRIŢ; comuna 25 BUNEŞTI,,sec. XVI - XVII
+586,BV-II-m-A-11662,Cetatea Heldenburg,sat CRIZBAV; La comuna HĂLCHIU punctul,"cca. 5 km de sat, la cota 1104, în ""La Cetate""",sec. XIII
+587,BV-II-a-B-11663,"Ansamblul rural ""Str. Principală""",sat CUCIULATA; Str. comuna HOGHIZ ortodoxe,"Principală, zona din jurul bisericii",sec. XVIII - XIX
+588,BV-II-m-B-11664,"Biserica de lemn ""Cuvioasa Paraschiva”",sat CUCIULATA; 369 comuna HOGHIZ,,1700 - 1752
+589,BV-II-m-A-11665,"Biserica ""Cuvioasa Paraschiva”",sat CUCIULATA; 463 comuna HOGHIZ,,1784 - 1791
+590,BV-II-a-B-11666,Ansamblul bisericii evanghelice fortificate,sat DACIA; comuna 332 JIBERT,,sec. XIII - XIX
+591,BV-II-m-B-11666.01,Biserica evanghelică fortificată,sat DACIA; comuna 332 JIBERT,,sec. XIII - XIX
+592,BV-II-m-B-11666.02,"Incintă fortificată, cu bastion şi trei turnuri",sat DACIA; comuna 332 JIBERT,,sec. XVI - XVII
+593,BV-II-m-B-11667,Post de grăniceri,sat DĂLGHIU; 555 comuna VAMA BUZĂULUI,,sec. XVIII
+594,BV-II-m-B-11669,Biserica ortodoxă veche (din cimitir),sat DRĂUŞENI; comuna CAŢA,,1795 - 1798
+595,BV-II-m-B-11670,Fântână cu lanţ,sat DRĂUŞENI; În comuna CAŢA,dreptul casei nr. 16,sec. XIX
+596,BV-II-m-B-11671 BV-II-a-A-11672,Casă Ansamblul bisericii,sat DRĂUŞENI; 54 comuna CAŢA sat DRĂUŞENI; Str., Principală 142,sec. XVII sec. XIII - XVII
+598,BV-II-m-A-11672.01,Biserica evanghelică fortificată,sat DRĂUŞENI; Str. comuna CAŢA,Principală 142,sec. XIII - XVI
+599,BV-II-m-A-11672.02,"Incintă fortificată, cu cinci turnuri şi acces fortificat",sat DRĂUŞENI; Str. comuna CAŢA,Principală 142,sec. XV - XVII
+600,BV-II-m-B-11673,Moara veche,sat DUMBRĂVIŢA; Str. comuna DUMBRĂVIŢA,Gării 959,1887
+601,BV-II-a-B-11674,"Ansamblul urban ""Zona de nord a oraşului""","municipiul FĂGĂRAŞ Delimitare: Titu, Viteazul;",S - Bd. Unirii; V - str. Perţea str. Pălărierilor; N - Piaţa Mihai E - str. Doamna Stanca,sec. XVIII - înc. sec. XX
+602,BV-II-a-B-11675,"Ansamblul urban ""Zona Morii""","municipiul FĂGĂRAŞ Delimitare: str. George, str. Generală Reformate.","N - Bd. Unirii; E - str. Pe Vale, Câmpului, str. Morii; S - str. Coşbuc până la intersecţia cu str. Parcului, Râului; V - str. Şcolii până la Şcoala şi limita parcului Bisericii",sec. XVIII - înc. sec. XIX
+603,BV-II-a-B-11676,Mănăstirea franciscană,municipiul FĂGĂRAŞ Str.,Alecsandri Vasile 1,1721
+604,BV-II-m-B-11676.01,Biserică,municipiul FĂGĂRAŞ Str.,Alecsandri Vasile 1,1721
+605,BV-II-m-B-11676.02 BV-II-m-B-11677,Claustru Casă,municipiul FĂGĂRAŞ Str. municipiul FĂGĂRAŞ Str.,Alecsandri Vasile 1 Bălcescu Nicolae 29,1721 1920 - 1940
+607,BV-II-m-B-11678,Casă,municipiul FĂGĂRAŞ Str.,Bălcescu Nicolae 47,1920
+608,BV-II-m-B-11679,Casă,municipiul FĂGĂRAŞ Str.,Bălcescu Nicolae 49,sec. XVIII
+609,BV-II-m-B-11680,Casă,municipiul FĂGĂRAŞ Str.,Bălcescu Nicolae 51,sec. XVIII
+610,BV-II-m-B-11681,Casă,municipiul FĂGĂRAŞ Str.,Bălcescu Nicolae 53,sec. XVIII
+611,BV-II-m-B-11682,"Biserica ""Sf. Treime”",municipiul FĂGĂRAŞ Str.,Codru-Drăguşanu Ion 7,1783 - 1791
+612,BV-II-m-B-11683,Casă,municipiul FĂGĂRAŞ Str.,Doamna Stanca 24,înc. sec. XX
+613,BV-II-m-B-11684,"Fosta Prefectură, azi Poliţie",municipiul FĂGĂRAŞ Str.,Doamna Stanca 30,sec. XIX
+614,BV-II-m-B-11685,Casă,municipiul FĂGĂRAŞ Str.,Doamna Stanca 44,sec. XIX
+615,BV-II-m-B-11686,Banca Naţională - filiala Făgăraş,municipiul FĂGĂRAŞ Str.,Eminescu Mihai 14,sec. XIX
+616,BV-II-a-A-11687,Cetatea Făgăraş,municipiul FĂGĂRAŞ Piaţa,Mihai Viteazul,sec. XIV - XVIII
+617,BV-II-m-A-11687.01 BV-II-m-A-11687.02,Castelul cu turnurile de colţ - incinta interioară Incinta bastionară,municipiul FĂGĂRAŞ Piaţa municipiul FĂGĂRAŞ Piaţa,Mihai Viteazul Mihai Viteazul,sec. XIV - XVIII sec. XIV - XVIII
+619,BV-II-m-A-11687.03,Şanţ cu apă,municipiul FĂGĂRAŞ Piaţa,Mihai Viteazul,sec. XIV - XVIII
+620,BV-II-m-B-11688,"Casa dr. Giurcă, azi Casa Căsătoriilor",municipiul FĂGĂRAŞ Piaţa,Mihai Viteazul 2,înc. sec. XX
+621,BV-II-m-B-11689,Baia comunală,municipiul FĂGĂRAŞ Piaţa,Mihai Viteazul 39,înc. sec. XX
+622,BV-II-m-B-11690,"Şcoala Normală, azi Cercul Militar",municipiul FĂGĂRAŞ Str.,Tăbăcari 13,sec. XIX
+623,BV-II-m-A-11691,Biserica reformată,municipiul FĂGĂRAŞ Bd.,Unirii 17,1712 - 1715
+624,BV-II-m-A-11692,"Biserica ""Sf. Nicolae”- Brâncoveanu",municipiul FĂGĂRAŞ Str.,Vladimirescu Tudor 16,1697 - 1698
+625,BV-II-m-A-11693,Casa Inocenţiu Micu Klein,municipiul FĂGĂRAŞ Str.,Vladimirescu Tudor 35,1727
+626,BV-II-a-A-11694,Ansamblul bisericii evanghelice,sat FELDIOARA; Str. comuna FELDIOARA,Goga Octavian,sec. XIII - XIX
+627,BV-II-m-A-11694.01,Biserica evanghelică,sat FELDIOARA; Str. comuna FELDIOARA,Goga Octavian,"sec. XIII, sec. XV, sec. XVIII"
+628,BV-II-m-A-11694.02,Zid incintă,sat FELDIOARA; Str. comuna FELDIOARA,Goga Octavian,sec. XIX
+629,BV-II-a-A-11695 BV-II-m-A-11696,"Cetatea Feldioarei Biserica ""Sf. Ioan",sat FELDIOARA; Str. comuna FELDIOARA sat FELDIOARA; Str.,Goga Octavian Iorga Nicolae 15,sec. XIII - XV 1788
+631,BV-II-a-B-11697,Ansamblul bisericii evanghelice fortificate,sat FELMER; comuna Str. ŞOARŞ,Principală 205,sec. XIII - XVIII
+632,BV-II-m-B-11697.01,Biserica evanghelică fortificată,sat FELMER; comuna Str. ŞOARŞ,Principală 205,sec. XIII - XVIII
+633,BV-II-m-B-11697.02,Incintă fortificată cu două turnuri,sat FELMER; comuna Str. ŞOARŞ,Principală 205,sec. XV - XVIII
+634,BV-II-a-A-11698,Ansamblul bisericii evanghelice fortificate,sat FIŞER; comuna 108 RUPEA,,sec. XV - XIX
+635,BV-II-m-A-11698.01,Biserica evanghelică,sat FIŞER; comuna 108 RUPEA,,"sec. XV, sec. XVI, 1894"
+636,BV-II-m-A-11698.02,"Incintă fortificată, cu două turnuri şi zwinger",sat FIŞER; comuna 108 RUPEA,,sec. XV - XVI
+637,BV-II-m-B-11699,"Biserica ""Adormirea Maicii Domnului”",sat FUNDATA; 178 comuna FUNDATA,,1843
+638,BV-II-m-B-11700,Casă,sat GHIMBAV; 85 comuna GHIMBAV,,sec. XVIII
+639,BV-II-m-B-11701,"Biserica ""Sf. Treime”",sat GHIMBAV; Str. comuna GHIMBAV,Iancu Avram 316,1780
+640,BV-II-a-A-11702,Ansamblul bisericii evanghelice fortificate,sat GHIMBAV; Str. comuna GHIMBAV,Morii 170,sec. XIII - XIX
+641,BV-II-m-A-11702.01 BV-II-m-A-11702.02,Biserica evanghelică Incintă fortificată cu,sat GHIMBAV; Str. comuna GHIMBAV sat GHIMBAV; Str.,Morii 170 Morii 170,"sec. XIII - XV, 1870 sec. XV - XVI"
+643,BV-II-m-B-11704,Casă,sat GHIMBAV; Str. comuna GHIMBAV,Pieţii 75,sec. XVIII
+644,BV-II-m-B-11703,Casă,sat GHIMBAV; Str. comuna GHIMBAV,Şcolii 259,1789
+645,BV-II-m-B-11705,Biserica reformată,sat GRÂNARI; În comuna JIBERT,cimitirul reformat,sec. XVII
+646,BV-II-m-A-11706,"Biserica de lemn ""Cuvioasa Paraschiva”",sat GRÂNARI; Str. comuna JIBERT,"Şcolii, În cimitirul ortodox vechi",sec. XVIII
+647,BV-II-a-B-11707,"Ansamblul bisericii ""Sf. Arhangheli”",sat HĂLCHIU; Str. comuna HĂLCHIU,Bisericii 248,sec. XVIII - XIX
+648,BV-II-m-B-11707.01,"Biserica ""Sf. Arhangheli”",sat HĂLCHIU; Str. comuna HĂLCHIU,Bisericii 248,1791
+649,BV-II-m-B-11707.02,Zid de incintă,sat HĂLCHIU; Str. comuna HĂLCHIU,Bisericii 248,sec. XIX
+650,BV-II-m-B-11708,Primărie,sat HĂLCHIU; Str. comuna HĂLCHIU,Feldioarei 1,1848
+651,BV-II-m-B-11709,Biserica evanghelică,sat HĂLCHIU; Str. comuna HĂLCHIU,Feldioarei 470,1807
+652,BV-II-m-B-11710,Casa Michael Roth,sat HĂLCHIU; Str. comuna HĂLCHIU,Laterală 569,1781
+653,BV-II-m-B-11711 BV-II-m-B-11712,"Casa Victor Colţea, cu poarta de lemn Casa Peter Depner",sat HĂLCHIU; Str. comuna HĂLCHIU sat HĂLCHIU; Str.,Laterală 571 Morii 124,1773 sec. XVIII
+655,BV-II-a-A-11713,Ansamblul bisericii reformate,sat HĂLMEAG; 252 comuna ŞERCAIA,,sec. XIII - XV
+656,BV-II-m-A-11713.01,Biserica reformată,sat HĂLMEAG; 252 comuna ŞERCAIA,,sec. XIII - XV
+657,BV-II-m-A-11713.02,Turn-clopotniţă şi fragmente ale zidului de incintă,sat HĂLMEAG; 252 comuna ŞERCAIA,,sec. XIII - XV
+658,BV-II-m-A-11714,Casă,sat HĂRMAN; Str. comuna HĂRMAN,Dorobanţi 81,1769
+659,BV-II-a-A-11715,Ansamblul bisericii evanghelice fortificate,sat HĂRMAN; Str. comuna HĂRMAN,Pieţii 2,sec. XIII - XVIII
+660,BV-II-m-A-11715.01,Biserica evanghelică,sat HĂRMAN; Str. comuna HĂRMAN,Pieţii 2,sec. XIII - XVIII
+661,BV-II-m-A-11715.02,Capelă,sat HĂRMAN; Str. comuna HĂRMAN,Pieţii 2,sec. XIII - XVI
+662,BV-II-m-A-11715.03,"Incinta fortificată, cu turnuri, acces fortificat, şi încăperi pentru provizii, anexe",sat HĂRMAN; Str. comuna HĂRMAN,Pieţii 2,sec. XIII - XVI
+663,BV-II-m-A-11715.04,Şanţul fortificaţiei,sat HĂRMAN; Str. comuna HĂRMAN,Pieţii 2,sec. XVI
+664,BV-II-m-B-11716 BV-II-a-B-11717,"Castelul Kalnoky, azi locuinţă Ansamblul castelului",sat HOGHIZ; comuna 75 HOGHIZ sat HOGHIZ; comuna 75,,"sec. XIII, sec. XVI sec. XVI - XIX"
+666,BV-II-m-B-11717.01,"Castelul Haller, azi şcoală",sat HOGHIZ; comuna 75 HOGHIZ,,sec. XVI - XIX
+667,BV-II-m-B-11717.02,Parc,sat HOGHIZ; comuna 75 HOGHIZ,,sec. XIX
+668,BV-II-m-B-11718,Castelul Guthman - Valenta,sat HOGHIZ; comuna 160 HOGHIZ,,"1553, sec. XVIII"
+669,BV-II-a-B-11719,Ansamblul bisericii reformate,sat HOGHIZ; comuna 267 HOGHIZ,,1749
+670,BV-II-m-B-11719.01,Biserica reformată,sat HOGHIZ; comuna 267 HOGHIZ,,1749
+671,BV-II-m-B-11719.02,Turn-clopotniţă,sat HOGHIZ; comuna 267 HOGHIZ,,1749
+672,BV-II-m-B-11720,Casă,sat HOMOROD; 285 comuna HOMOROD,,sec. XVIII
+673,BV-II-m-B-11721,Casă,sat HOMOROD; 286 comuna HOMOROD,,sec. XVIII
+674,BV-II-a-A-11722,Ansamblul bisericii evanghelice fortificate,sat HOMOROD; 403 comuna HOMOROD,,sec. XIII - XVIII
+675,BV-II-m-A-11722.01,Biserica evanghelică fortificată,sat HOMOROD; 403 comuna HOMOROD,,"sec. XIII - XV, 1784"
+676,BV-II-m-A-11722.02 BV-II-a-A-11723,"Dublă incintă (cea interioară fortificată, cu trei turnuri) Ansamblul bisericii",sat HOMOROD; 403 comuna HOMOROD sat IONEŞTI; comuna 50,,"sec. XV - XVI, 1657 sec. XIV - XVI"
+678,BV-II-m-A-11723.01,Biserica unitariană,sat IONEŞTI; comuna 50 CAŢA,,"sec. XIV, 1522"
+679,BV-II-m-A-11723.02,Zid de incintă,sat IONEŞTI; comuna 50 CAŢA,,sec. XVI
+680,BV-II-a-A-11724,Cetatea Jimborului,sat JIMBOR; comuna La HOMOROD,"nord-vest de sat, pe dealul Jimbor",sec. XIII
+681,BV-II-m-B-11725,Biserica evanghelică,sat JIMBOR; comuna 1 HOMOROD,,1781
+682,BV-II-m-B-11726,Casa Zolya (Molnar),sat JIMBOR; comuna 250 HOMOROD,,sec. XVIII
+683,BV-II-a-A-11727,Ansamblul bisericii evanghelice fortificate,sat MĂIERUŞ; 88 comuna MĂIERUŞ,,sec. XV - XIX
+684,BV-II-m-A-11727.01,Biserica evanghelică,sat MĂIERUŞ; 88 comuna MĂIERUŞ,,"sec. XV, 1791 - 1793"
+685,BV-II-m-A-11727.02,Incintă fortificată,sat MĂIERUŞ; 88 comuna MĂIERUŞ,,sec. XV
+686,BV-II-m-B-11728,Casă,sat MĂIERUŞ; 145 comuna MĂIERUŞ,,sec. XVIII
+687,BV-II-m-B-11729,"Biserica ""Adormirea Maicii Domnului”",sat MĂIERUŞ; Str. comuna MĂIERUŞ,Gării,sec. XVIII
+688,BV-II-m-B-11730 BV-II-m-B-11731,"Biserica ""Sf. Nicolae” Biserica ""Înălţarea",sat MĂRGINENI; Str. comuna HÂRSENI sat MÂNDRA; 253,Principală 153,1791 1779
+690,BV-II-a-B-11732,Ansamblul bisericii evanghelice fortificate,sat MERCHEAŞA; 339 comuna HOMOROD,,sec. XIII - XIX
+691,BV-II-m-B-11732.01,Biserica evanghelică,sat MERCHEAŞA; 339 comuna HOMOROD,,"sec. XIII - XVIII, 1848 - 1858"
+692,BV-II-m-B-11732.02,"Incintă fortificată, turn, anexe",sat MERCHEAŞA; 339 comuna HOMOROD,,sec. XVI - XVII
+693,BV-II-a-B-11733,"Ansamblul rural ""Str. Principală""",sat MEŞENDORF; Str. comuna BUNEŞTI,"Principală, ambele laturi ale străzii",sec. XVII - XIX
+694,BV-II-a-A-11734,Ansamblul bisericii evanghelice fortificate,sat MEŞENDORF; 61 comuna BUNEŞTI,,sec. XIV - XVI
+695,BV-II-m-A-11734.01,Biserica evanghelică,sat MEŞENDORF; 61 comuna BUNEŞTI,,sec. XIV - XVI
+696,BV-II-m-A-11734.02,"Incintă fortificată, cu două turnuri, zwinger",sat MEŞENDORF; 61 comuna BUNEŞTI,,"cca. 1495, ref. sec. XVI"
+697,BV-II-m-B-11735,"Biserica ""Sf. Nicolae”",sat MOIECIU DE JOS; 200 comuna MOIECIU,,1761
+698,BV-II-m-B-11736,Gospodăria Bucur Bangălă,"sat MOIECIU DE SUS; 175, comuna MOIECIU",Valea Băngăleasa,sec. XIX
+699,BV-II-m-B-11737,"Biserica ""Adormirea Maicii Domnului”, din cimitir","sat OHABA; comuna 18, ŞINCA",în cimitir,1769 - 1773
+700,BV-II-m-B-11738 BV-II-m-A-11739,"Absida bisericii ""Sf. Nicolae” din cimitir Biserica ""Sf.",sat OLTEŢ; comuna 21 VIŞTEA sat PERŞANI; 3,,1772 1704
+702,BV-II-m-B-11740,Casă,sat PERŞANI; 163 comuna ŞINCA,,sec. XIX
+703,BV-II-a-A-11741,Gospodărie cu ocol,sat PERŞANI; 272 comuna ŞINCA,,sec. XIX
+704,BV-II-a-A-11742,"Ansamblul bisericii ""Naşterea Sf. Ioan Botezătorul”",sat POIANA 20 MĂRULUI; comuna POIANA MĂRULUI,,sec. XVIII - XIX
+705,BV-II-m-A-11742.01,"Biserica ""Naşterea Sf. Ioan Botezătorul”",sat POIANA 20 MĂRULUI; comuna POIANA MĂRULUI,,1707 - 1777
+706,BV-II-m-A-11742.02,Casă parohială,sat POIANA 20 MĂRULUI; comuna POIANA MĂRULUI,,1892
+707,BV-II-a-B-11743,Mănăstirea Predeal,oraş PREDEAL Str.,Mănăstirii 12,sec. XIX
+708,BV-II-m-B-11743.01,"Biserica ""Naşterea Maicii Domnului""",oraş PREDEAL Str.,Mănăstirii 12,1835
+709,BV-II-m-B-11743.02,"Biserica ""Sf. Nicolae”",oraş PREDEAL Str.,Mănăstirii 12,1819
+710, BV-II-m-B-11743.03, Chilii, oraş PREDEAL Str., Mănăstirii 12, sec. XIX
+711,BV-II-m-B-11743.04 BV-II-m-B-11743.05,Casă parohială Turn - clopotniţă,oraş PREDEAL Str. oraş PREDEAL Str.,Mănăstirii 12 Mănăstirii 12,sec. XIX sec. XIX
+713,BV-II-s-A-11744,Situl rural Prejmer,sat PREJMER; Sit comuna PREJMER 807/E/1998,delimitat cf. avizului de clasare al Ministerului Culturii,sec. XIII - XIX
+714,BV-II-m-B-11751,Casă,sat PREJMER; Str. comuna PREJMER,Braşovului 56,"1830, 1929"
+715,BV-II-m-B-11752,Casă,sat PREJMER; Str. comuna PREJMER,Braşovului 57,sec. XVIII - înc. sec. XIX
+716,BV-II-m-B-11749,Casă,sat PREJMER; Str. comuna PREJMER,Cenuşii 105,sec. XIX
+717,BV-II-a-A-11745,Ansamblul bisericii evanghelice fortificate,sat PREJMER; Str. comuna PREJMER,Mare 2,sec. XIII - XIX
+718,BV-II-m-A-11745.01,Biserica evanghelică,sat PREJMER; Str. comuna PREJMER,Mare 2,înc. sec. XIII - sec. XVI
+719,BV-II-m-A-11745.02,"Incintă interioară, cu patru turnuri, acces fortificat şi camere pentru provizii",sat PREJMER; Str. comuna PREJMER,Mare 2,sec. XV - XVI
+720,BV-II-m-A-11745.03,Incintă exterioară,sat PREJMER; Str. comuna PREJMER,Mare 2,sec. XVI
+721,BV-II-m-A-11745.04,"Barbacană (curtea primăriei), cu camere de provizii, anexe",sat PREJMER; Str. comuna PREJMER,Mare 2,sec. XVI - XVII
+722,BV-II-m-A-11745.05 BV-II-m-A-11745.06,"Zwinger (curtea brutarilor), anexe Galerie cu arcade",sat PREJMER; Str. comuna PREJMER sat PREJMER; Str.,Mare 2 Mare 2,sec. XVIII 1856
+724,BV-II-m-A-11746,"Şcoala confesională evanghelică (trei corpuri în incintă comună), azi şcoală generală",sat PREJMER; Str. comuna PREJMER,Mare 8-10,1846 - 1848
+725,BV-II-m-B-11747,Casă,sat PREJMER; Str. comuna PREJMER,Mare 586,sec. XVIII
+726,BV-II-m-A-11750,"Biserica ""Sf. Apostoli Petru şi Pavel”",sat PREJMER; Str. comuna PREJMER,Pajiştei 1043,1791
+727,BV-II-m-A-11748,Casă,sat PREJMER; Str. comuna PREJMER,Pompierilor 13,"1777, ref. înc. sec. XX"
+728,BV-II-a-B-11753,Ansamblul bisericii reformate,sat RACOŞ; comuna Str. RACOŞ,Elisabeta 435,sec. XIX
+729,BV-II-m-B-11753.01,Biserica reformată,sat RACOŞ; comuna Str. RACOŞ,Elisabeta 435,1825 - 1831
+730,BV-II-m-B-11753.02,Zid de incintă,sat RACOŞ; comuna Str. RACOŞ,Elisabeta 435,sec. XIX
+731,BV-II-a-A-11754,Ansamblul castelului Sükösd-Bethlen,sat RACOŞ; comuna Str. RACOŞ,Principală 137,sec. XVI - XVIII
+732,BV-II-m-A-11754.01,Castelul Sükösd- Bethlen,sat RACOŞ; comuna Str. RACOŞ,Principală 137,1624 - 1700
+733,BV-II-m-A-11754.03 BV-II-a-A-11755,Incintă bastionară Cetatea Râşnovului,sat RACOŞ; comuna Str. RACOŞ oraş RÂŞNOV La,"Principală 137 sud de localitate, pe Dealul Cetăţii",sec. XVI - XVII sec. XIV - XVIII
+735,BV-II-m-A-11755.01,"Dubla incintă de vest, cu turnuri, barbacane, zwinger, casa paznicului, încăperi pentru provizii şi capelă (păstrate fragmentar), fântână",oraş RÂŞNOV La,"sud de localitate, pe Dealul Cetăţii",sec. XIV - XVIII
+736,BV-II-m-A-11755.02,"Incinta de est, cu turn de poartă şi capelă (păstrată fragmentar)",oraş RÂŞNOV La,"sud de localitate, pe Dealul Cetăţii",sec. XIV - XVIII
+737,BV-II-a-B-11756,"Ansamblul ""Str. Ion Luca Caragiale""",oraş RÂŞNOV Str. şi,"Caragiale Ion Luca, între str. Izvorului str. Cloşca, ambele laturi ale străzii.",sec. XVIII - XIX
+738,BV-II-a-B-11757,"Ansamblul ""Str. Cetăţii şi str. Romulus Cristoloveanu""",oraş RÂŞNOV Str. ambele,"Cetăţii, str. Romulus Cristoloveanu, laturi ale străzilor",sec. XVIII - XIX
+739,BV-II-a-B-11758,"Ansamblul ""Str. Florilor""",oraş RÂŞNOV Str. str.,"Florilor, între str. Armata Română şi Mihai Viteazul, ambele laturi ale străzii",sec. XVIII - XIX
+740,BV-II-a-B-11759,"Ansamblul ""Pe Dobrice""",oraş RÂŞNOV Str. laturi,"Horea, str. Cloşca, str. Crişan, ambele ale străzilor",sec. XVIII - XIX
+741,BV-II-a-B-11760,"Ansamblul ""Piaţa Unirii""",oraş RÂŞNOV Piaţa,"Unirii, nr.1-22",sec. XVIII - XIX
+742,BV-II-a-B-11761 BV-II-a-B-20902,"Ansamblul ""Str. Ion Creangă"" Ansamblul ""Str.",oraş RÂŞNOV Str. oraş RÂŞNOV Str.,"Creangă Ion, ambele laturi ale străzii Republicii, ambele laturi ale străzii",sec. XVIII - XIX sec. XVIII - XIX
+744,BV-II-m-A-11762,"Biserica ""Sf. Nicolae”",oraş RÂŞNOV Str.,Cristoloveanu Romulus 14,"1384, ref. sec. XVIII - XIX"
+745,BV-II-a-A-11763,Ansamblul bisericii evanghelice,oraş RÂŞNOV Str.,Republicii 1,sec. XIII - XVIII
+746,BV-II-m-A-11763.01,"Biserica evanghelică ""Sf. Matthias”",oraş RÂŞNOV Str.,Republicii 1,sec. XIII - XVIII
+747,BV-II-m-A-11763.02,Zid de incintă,oraş RÂŞNOV Str.,Republicii 1,sec. XIII - XVIII
+748,BV-II-m-A-11764,"Biserica ""Cuvioasa Paraschiva” de Sus",sat RÂUŞOR; 125 comuna MÂNDRA,,1698
+749,BV-II-m-B-11765,"Biserica ""Cuvioasa Paraschiva” de Jos",sat RÂUŞOR; 134 comuna MÂNDRA,,1782 - 1793
+750,BV-II-a-A-11766,Ansamblul bisericii evanghelice fortificate,sat ROADEŞ; 3 comuna BUNEŞTI,,sec. XIV - XVII
+751,BV-II-m-A-11766.01,Biserica evanghelică fortificată,sat ROADEŞ; 3 comuna BUNEŞTI,,sec. XIV - XVI
+752,BV-II-m-A-11766.02,"Incintă fortificată, cu drum de apărare, trei turnuri, acces fortificat şi zwingere",sat ROADEŞ; 3 comuna BUNEŞTI,,sec. XV - XVII
+753,BV-II-a-A-11767,Ansamblul bisericii evanghelice fortificate,sat RODBAV; 115 comuna ŞOARŞ,,sec. XIII - XIX
+754,BV-II-m-A-11767.01 BV-II-m-A-11767.02,"Biserica evanghelică Incintă fortificată,",sat RODBAV; 115 comuna ŞOARŞ sat RODBAV; 115,,sec. XIII - XIX sec. XV - XVIII
+756,BV-II-a-A-11768,Ansamblul bisericii evanghelice fortificate,sat ROTBAV; Str. comuna FELDIOARA,Progresului 82,sec. XIII - XVIII
+757,BV-II-m-A-11768.01,Biserica evanghelică,sat ROTBAV; Str. comuna FELDIOARA,Progresului 82,sec. XIII - XVIII
+758,BV-II-m-A-11768.02,Incintă fortificată,sat ROTBAV; Str. comuna FELDIOARA,Progresului 82,sec. XV - XVI
+759,BV-II-a-A-11769,Cetatea Rupea (Cetatea Cohalmului),oraş RUPEA La,"vest de localitate, pe Dealul Cohalmului",sec. XIV - XVII
+760,BV-II-m-A-11769.01,"Incinta superioară, cu capelă şi încăperi pentru provizii (păstrate parţial)",oraş RUPEA La,"vest de localitate, pe Dealul Cohalmului",sec. XIV - XVII
+761,BV-II-m-A-11769.02,"Incinta mediană, cu turnuri şi încăperi pentru provizii",oraş RUPEA La,"vest de localitate, pe Dealul Cohalmului",sec. XIV - XVII
+762,BV-II-m-A-11769.03,"Incinta inferioară, cu turnuri, turn de poartă, fântână, anexe",oraş RUPEA La,"vest de localitate, pe Dealul Cohalmului",sec. XIV - XVIII
+763,BV-II-a-B-11770,"Ansamblul ""Str. Cetăţii""","oraş RUPEA Str. Blocuri,","Cetăţii, între Cimitirul Evanghelic şi ambele laturi ale străzii",sec. XVIII - XIX
+764,BV-II-a-B-11771,"Ansamblul ""Str. Republicii""",oraş RUPEA Str.,"Republicii, ambele laturi ale străzii",sec. XVIII - XIX
+765,BV-II-m-B-11772 BV-II-m-B-11773,Casă Casă,oraş RUPEA Str. oraş RUPEA Str.,Republicii 104 Republicii 117,"sec. XVII, 1870 1860"
+767,BV-II-a-A-11774,Ansamblul bisericii evanghelice,oraş RUPEA Str.,Republicii 147,sec. XV - XVIII
+768,BV-II-m-A-11774.01,Biserica evanghelică,oraş RUPEA Str.,Republicii 147,sec. XV - XVIII
+769,BV-II-m-A-11774.02,Zid de incintă cu turn- clopotniţă,oraş RUPEA Str.,Republicii 147,sec. XVIII
+770,BV-II-m-B-11775,"Biserica de lemn ""Sf. Dumitru”",sat SATU NOU; Str. comuna HĂLCHIU,Crizbavului 111,1889
+771,BV-II-a-B-11776,Ansamblul bisericii evanghelice,sat SATU NOU; Str. comuna HĂLCHIU,Principală 200,sec. XIV - XVIII
+772,BV-II-m-B-11776.01,Biserica evanghelică,sat SATU NOU; Str. comuna HĂLCHIU,Principală 200,sec. XIV - XVIII
+773,BV-II-m-B-11776.02,Zid de incintă,sat SATU NOU; Str. comuna HĂLCHIU,Principală 200,sec. XVIII
+774,BV-II-a-A-11777,"Ansamblul ""Mocănime""",municipiul SĂCELE Bd. str. şi,"General Moroianu, de la intersecţia cu Unirii până la intersecţia cu str. Cetinii str. Dragalina Ioan General",sec. XIX - XX
+775,BV-II-a-B-11778,"Ansamblul ""Str. Prof. Victor Jinga""",municipiul SĂCELE Str. străzii,"Jinga Victor Prof., ambele laturi ale",sec. XVIII - XX
+776,BV-II-a-B-11779,"Ansamblul ""Str. Bisericii Române""",municipiul SĂCELE Str. străzii,"Bisericii Române, ambele laturi ale",sec. XVIII - XX
+777,BV-II-a-A-11780 BV-II-m-A-11780.01,"Ansamblul bisericii ""Sf. Nicolae”-Cernatu Biserica ""Sf. Nicolae”-",municipiul SĂCELE Str. municipiul SĂCELE Str.,Bisericii Române Bisericii Române,sec. XVIII 1781 - 1783
+779,BV-II-m-A-11780.02,Zid de incintă cu turn- clopotniţă,municipiul SĂCELE Str.,Bisericii Române,sec. XVIII
+780,BV-II-m-B-11781,Casă,municipiul SĂCELE Bd.,Braşovului 76,1848
+781,BV-II-m-B-11782,Casă,municipiul SĂCELE Str.,Coşbuc George 8,sec. XIX
+782,BV-II-m-B-11783,"Biserica ""Sf. Nicolae”- Baciu"" cu poartă şi zid de incintă",municipiul SĂCELE Str.,Cuza Alexandru Ioan 56,"1808 - 1809 (biserica), 1823 (poarta)"
+783,BV-II-m-B-11784,Poartă de lemn,municipiul SĂCELE Str.,Dragalina Ioan General 27,1815
+784,BV-II-a-B-11786,"Ansamblul ""Str. Dragalina""",municipiul SĂCELE Str.,Dragalina Ioan General 52-66,sec. XIX
+785,BV-II-m-B-20278,Casă,municipiul SĂCELE Str.,Dragalina Ioan General 66,sec. XIX
+786,BV-II-m-B-11788,Casă,municipiul SĂCELE Str.,Horea 1,1900
+787,BV-II-m-B-11790,Casă,municipiul SĂCELE Str.,Horea 18,1856
+788,BV-II-m-A-11791,Casa Poenaru,municipiul SĂCELE Str.,Horea 34,"1818, 1830"
+789,BV-II-a-B-11792 BV-II-m-B-11792.01,"Ansamblul bisericii ""Sf. Arhangheli”-Satulung Biserica ""Sf.",municipiul SĂCELE Str. municipiul SĂCELE Str.,"Jinga Victor, prof. Jinga Victor, prof.",sec. XVIII - XIX 1794 - 1799
+791,BV-II-m-B-11792.02,Şcoala veche,municipiul SĂCELE Str.,"Jinga Victor, prof.",sf. sec. XVIII - sec. XIX
+792,BV-II-m-B-11792.03,Zid de incintă,municipiul SĂCELE Str.,"Jinga Victor, prof.",sec. XIX
+793,BV-II-m-B-11794,Casă şi poartă de lemn,municipiul SĂCELE Str.,"Jinga Victor, prof. 4",1882
+794,BV-II-m-B-11795,Casă,municipiul SĂCELE Str.,"Jinga Victor, prof. 14",1846
+795,BV-II-a-B-11796,"Ansamblul bisericii ""Sf. Adormire a Maicii Domnului”",municipiul SĂCELE Str.,Minea Ilie 227-232,sec. XVIII - XIX
+796,BV-II-m-A-11796.01,"Biserica ""Sf. Adormire a Maicii Domnului”- Turcheş",municipiul SĂCELE Str.,Minea Ilie 227-232,1781 - 1783
+797,BV-II-m-B-11796.02,Şcoală veche,municipiul SĂCELE Str.,Minea Ilie 227-232,1822 - 1837
+798,BV-II-m-B-11796.04,Zid de incintă cu turn de poartă,municipiul SĂCELE Str.,Minea Ilie 227-232,1822 - 1837
+799,BV-II-m-B-11797,Casă şi poartă,municipiul SĂCELE Str.,Mocanilor 66,1864
+800,BV-II-m-B-11798,Casă,municipiul SĂCELE Str.,Mocanilor 73,1810
+801,BV-II-m-B-20280 BV-II-m-B-11799,Casă Casă,municipiul SĂCELE Str. municipiul SĂCELE Str.,Mocanilor 75 Mocanilor 81,1830 1843
+803,BV-II-m-B-11800,Casă,municipiul SĂCELE Str.,Mocanilor 85,1856
+804,BV-II-a-B-11806,"Ansamblul bisericii ""Adormirea Maicii Domnului”-Satulung",municipiul SĂCELE Bd.,"Moroianu, general",sec. XIX - XX
+805,BV-II-m-B-11806.01,"Biserica ""Adormirea Maicii Domnului”- Satulung",municipiul SĂCELE Bd.,"Moroianu, general",1812 - 1819
+806,BV-II-m-B-11806.03,Zid de incintă,municipiul SĂCELE Bd.,"Moroianu, general",sec. XIX
+807,BV-II-m-B-11801,Casă,municipiul SĂCELE Bd.,"Moroianu, general 303",1844
+808,BV-II-m-B-11802,Casă,municipiul SĂCELE Bd.,"Moroianu, general 304",1876
+809,BV-II-m-B-20281,Casă,municipiul SĂCELE Bd.,"Moroianu, general 318",1838
+810,BV-II-m-B-20283,Poartă de lemn,municipiul SĂCELE Bd.,"Moroianu, general 374",1806
+811,BV-II-m-B-20284,Poartă de lemn,municipiul SĂCELE Bd.,"Moroianu, general 376",sec. XIX
+812,BV-II-m-B-11803,Casă,municipiul SĂCELE Bd.,"Moroianu, general 379",sec. XIX
+813,BV-II-m-B-11804 BV-II-m-B-20907,Casă Casa Belloiu,municipiul SĂCELE Bd. municipiul SĂCELE Str.,"Moroianu, general 382 Narciselor 31","1895 1838, 1893"
+815,BV-II-m-B-20285,Casă,municipiul SĂCELE Str.,Plevnei 1,sec. XIX
+816,BV-II-m-B-11807,Casă,municipiul SĂCELE Str.,Unirii 5,1860 - 1880
+817,BV-II-m-B-11808,Casă şi poartă,municipiul SĂCELE Str.,Unirii 26,1907
+818,BV-II-m-B-20286,Poartă de lemn,municipiul SĂCELE Str.,Unirii 48,1929
+819,BV-II-m-B-11809,"Biserica ""Sf. Nicolae”",sat SĂSCIORI; 59 comuna RECEA,,sec. XVII
+820,BV-II-a-A-11810,"Ansamblul castelului Brukenthal, azi Direcţia Silvică Braşov - Herghelia Sâmbăta",sat SÂMBĂTA DE 45 JOS; comuna VOILA,,sec. XVIII - XIX
+821,BV-II-m-A-11810.01,Castelul Brukenthal,sat SÂMBĂTA DE 45 JOS; comuna VOILA,,1750
+822,BV-II-m-A-11810.02,Anexe,sat SÂMBĂTA DE 45 JOS; comuna VOILA,,sec. XVIII - XIX
+823,BV-II-m-A-11810.03,Parc,sat SÂMBĂTA DE 45 JOS; comuna VOILA,,sec. XVIII - XIX
+824,BV-II-m-A-11810.04,Poartă,sat SÂMBĂTA DE 45 JOS; comuna VOILA,,sec. XVIII
+825,BV-II-m-A-11811 BV-II-a-A-11812,"Biserica ""Adormirea Maicii Domnului” Mănăstirea",sat SÂMBĂTA DE 76 JOS; comuna VOILA sat SÂMBĂTA DE 10,,1802 sec. XVIII - XX
+827,BV-II-m-A-11812.01,"Biserica ""Adormirea Maicii Domnului” a mănăstirii Brâncoveanu",sat SÂMBĂTA DE 10 SUS; comuna SÂMBĂTA DE SUS,,"1701, 1928 - 1940"
+828,BV-II-m-A-11812.02,Anexe,sat SÂMBĂTA DE 10 SUS; comuna SÂMBĂTA DE SUS,,sec. XVIII - XX
+829,BV-II-m-A-11812.03,Parc,sat SÂMBĂTA DE 10 SUS; comuna SÂMBĂTA DE SUS,,sec. XVIII - XIX
+830,BV-II-m-A-11813,"Biserica ""Adormirea Maicii Domnului” - Răsăriteană",sat SÂMBĂTA DE 26 SUS; comuna SÂMBĂTA DE SUS,,1786
+831,BV-II-m-A-11814,"Biserica ""Sf. Teodor Tiron” - Apuseană",sat SÂMBĂTA DE 483 SUS; comuna SÂMBĂTA DE SUS,,1657
+832,BV-II-a-A-11815,Ansamblul castelului Brâncoveanu,sat SÂMBĂTA DE 615 SUS; comuna SÂMBĂTA DE SUS,,sec. XVIII - XIX
+833,BV-II-m-A-11815.01,Castelul Brâncoveanu,sat SÂMBĂTA DE 615 SUS; comuna SÂMBĂTA DE SUS,,sec. XVIII - XIX
+834,BV-II-m-A-11815.02 BV-II-m-A-11816,"Poartă de piatră Biserica ""Sf. Nicolae”",sat SÂMBĂTA DE 615 SUS; comuna SÂMBĂTA DE SUS sat SÂNPETRU; Str., Bisericii Române 556,sec. XVIII - XIX 1781
+836,BV-II-a-A-11817,Ansamblul bisericii evanghelice fortificate,sat SÂNPETRU; Str. comuna SÂNPETRU,Republicii 641,sec. XIII - XIX
+837,BV-II-m-A-11817.01,Biserica evanghelică,sat SÂNPETRU; Str. comuna SÂNPETRU,Republicii 641,"1795 - 1797, 1817 - 1820"
+838,BV-II-m-A-11817.02,Capela Corpus Christi,sat SÂNPETRU; Str. comuna SÂNPETRU,Republicii 641,sec. XIII - XV
+839,BV-II-m-A-11817.03,"Incintă fortificată interioară, cu turnuri, fosta locuinţă fortificată de pe latura sudică, încăperi pentru provizii",sat SÂNPETRU; Str. comuna SÂNPETRU,Republicii 641,sec. XV - XVII
+840,BV-II-m-A-11817.04,"Incintă fortificată exterioară, cu turnuri, zwinger",sat SÂNPETRU; Str. comuna SÂNPETRU,Republicii 641,sec. XV - XVII
+841, BV-II-a-A-11818, Ansamblul bisericii evanghelice fortificate, sat SELIŞTAT; 74 comuna ŞOARŞ,, sec. XIV - XIX
+842,BV-II-m-A-11818.01,Biserica evanghelică fortificată,sat SELIŞTAT; 74 comuna ŞOARŞ,,"sec. XIV - XV, 1848"
+843,BV-II-m-A-11818.02,Incintă fortificată (fragmente) şi încăperi pentru provizii,sat SELIŞTAT; 74 comuna ŞOARŞ,,sec. XV - XVI
+844,BV-II-m-B-11819 BV-II-a-B-11820,"Biserica veche ""Cuvioasa Paraschiva” Ansamblul casei",sat SOHODOL; 49 comuna BRAN sat ŞERCAIA; Str., Oltului 32-33,sec. XVIII sec. XVII - XIX
+846,BV-II-m-B-11820.01,Casa parohială evanghelică,sat ŞERCAIA; Str. comuna ŞERCAIA,Oltului 32-33,1839 - 1840
+847,BV-II-m-B-11820.02,Turn-clopotniţă,sat ŞERCAIA; Str. comuna ŞERCAIA,Oltului 32-33,"1691, 1819"
+848,BV-II-m-B-11821,Biserica evanghelică,sat ŞERCAIA; Str. comuna ŞERCAIA,Oltului 32-33,1868 - 1875
+849,BV-II-m-B-11822,"Biserica ""Cuvioasa Paraschiva”",sat ŞERCĂIŢA; 272 comuna ŞINCA,,1798
+850,BV-II-m-B-11823,"Biserica ""Sf. Nicolae”",sat ŞIMON; comuna 119 BRAN,,sec. XIX
+851,BV-II-a-A-11824,"Ansamblul bisericii ""Cuvioasa Paraschiva”",sat ŞIMON; comuna 340 BRAN,,sec. XVIII - XIX
+852,BV-II-m-A-11824.01,"Biserica ""Cuvioasa Paraschiva”",sat ŞIMON; comuna 340 BRAN,,1792
+853,BV-II-m-A-11825,"Biserica de lemn ""Din Deal”",sat ŞINCA NOUĂ; 385 comuna POIANA MĂRULUI,,1761
+854,BV-II-m-A-11826,Mănăstirea rupestră,sat ŞINCA VECHE; Pe comuna ŞINCA,"Dealul Pleşu, zona Creţu",sec. XVIII
+855,BV-II-a-A-11827,Ansamblul bisericii evanghelice fortificate,sat ŞOARŞ; comuna 282 ŞOARŞ,,sec. XV - XIX
+856,BV-II-m-A-11827.01 BV-II-m-A-11827.02,Biserica evanghelică fortificată Incintă fortificată,sat ŞOARŞ; comuna 282 ŞOARŞ sat ŞOARŞ; comuna 282,,"sec. XV - XVI, 1806 sec. XV - XVI"
+858,BV-II-m-B-11828,Casa parohială evanghelică,sat ŞOARŞ; comuna 283 ŞOARŞ,,"1828, 1920 - 1930"
+859,BV-II-m-A-11829,"Biserica ""Adormirea Maicii Domnului”",sat ŞONA; comuna 229 MÂNDRA,,1706
+860,BV-II-m-A-11830,"Biserica ""Sf. Dumitru”",sat TELIU; comuna Str. TELIU,Vladimirescu Tudor 412,sec. XVIII
+861,BV-II-a-B-11831,"Ansamblul rural ""Str. Principală""",sat TICUŞU VECHI; Str. comuna TICUŞ,"Principală, ambele laturi ale străzii",sec. XVIII - XX
+862,BV-II-a-B-11832,Ansamblul bisericii evanghelice fortificate,sat TICUŞU VECHI; Str. comuna TICUŞ,Principală 232,sec. XV - XIX
+863,BV-II-m-B-11832.01,Biserica evanghelică,sat TICUŞU VECHI; Str. comuna TICUŞ,Principală 232,"sec. XV - XIX, 1804 - 1806, 1823 -1827"
+864,BV-II-m-B-11832.02,Incintă fortificată cu turnuri,sat TICUŞU VECHI; Str. comuna TICUŞ,Principală 232,"sec. XVI, 1803"
+865,BV-II-a-A-11833,Ansamblul bisericii evanghelice fortificate,sat TOARCLA; 126 comuna CINCU,,sec. XIII - XVII
+866,BV-II-m-A-11833.01,Biserica evanghelică,sat TOARCLA; 126 comuna CINCU,,sec. XIII - XVII
+867,BV-II-m-A-11833.02,Incintă fortificată (fragmente),sat TOARCLA; 126 comuna CINCU,,sec. XVI - XVII
+868,BV-II-m-B-11834 BV-II-m-B-11835,"Biserica ""Intrarea în Biserică a Maicii Domnului” Şcoala veche",localitatea TOHANU Str. NOU; oraş ZĂRNEŞTI localitatea TOHANU Str.,Bisericii 1 Bisericii 8,"1779, sec. XIX 1784"
+870,BV-II-a-B-11836,Ansamblul bisericii evanghelice fortificate,sat UNGRA; comuna 44 UNGRA,,sec. XIII - XIX
+871,BV-II-m-B-11836.01,Biserica evanghelică,sat UNGRA; comuna 44 UNGRA,,sec. XIII - XIX
+872,BV-II-m-B-11836.02,Incintă fortificată cu trei turnuri şi anexe,sat UNGRA; comuna 44 UNGRA,,sec. XVI
+873,BV-II-m-B-11837,"Biserica ""Sf. Treime”",sat UNGRA; comuna Str. UNGRA,Principală 7,sec. XVIII
+874,BV-II-m-A-11838,"Biserica ""Adormirea Maicii Domnului”",sat VENEŢIA DE JOS; 323 comuna PĂRĂU,,1790 - 1818
+875,BV-II-m-B-11839,Fosta primărie,sat VENEŢIA DE JOS; 426 comuna PĂRĂU,,sec. XIX
+876,BV-II-m-B-11840,"Biserica ""Cuvioasa Paraschiva”",sat VENEŢIA DE SUS; 202 comuna PĂRĂU,,"1778, 1830"
+877,BV-II-s-A-11841,Situl rural Viscri,sat VISCRI; comuna Sit BUNEŞTI 808/E/1998,delimitat cf. avizului de clasare al Ministerului Culturii,sec. XVI - XIX
+878,BV-II-m-A-11842,Casă,sat VISCRI; comuna 10 BUNEŞTI,,sec. XVII
+879,BV-II-a-A-11843,Ansamblul bisericii evanghelice fortificate,sat VISCRI; comuna 52 BUNEŞTI,,sec. XIII - XX
+880,BV-II-m-A-11843.01 BV-II-m-A-11843.02,Biserica evanghelică fortificată Incintă fortificată,sat VISCRI; comuna 52 BUNEŞTI sat VISCRI; comuna 52,,sec. XIII - XVI sec. XIII - XVII
+882,BV-II-m-A-11843.03,Incintă exterioară,sat VISCRI; comuna 52 BUNEŞTI,,sec. XVII
+883,BV-II-m-A-11843.05,Ring de dans,sat VISCRI; comuna 52 BUNEŞTI,,sec. XIX - XX
+884,BV-II-m-B-11844,Hanul vechi,sat VIŞTEA DE JOS; 96 comuna VIŞTEA,,1827
+885,BV-II-m-A-11845,"Biserica ""Sf. Arhangheli Mihail şi Gavril”",sat VIŞTEA DE JOS; 138 comuna VIŞTEA,,"1487, sec. XX"
+886,BV-II-m-B-11846,"Biserica ""Buna Vestire”",sat VIŞTEA DE SUS; 249 comuna VIŞTEA,,1848
+887,BV-II-m-A-11847,"Biserica ""Adormirea Maicii Domnului”",sat VOIVODENI; 46 comuna VOILA,,sec. XIII - XX
+888,BV-II-a-A-11848,"Ansamblul bisericii ""Sf. Nicolae”",sat VOIVODENI; 221 comuna VOILA,,sec. XVIII
+889,BV-II-m-A-11848.01,"Biserica ""Sf. Nicolae”",sat VOIVODENI; 221 comuna VOILA,,1767
+890,BV-II-m-A-11848.02,Zid de incintă (fragmente),sat VOIVODENI; 221 comuna VOILA,,sec. XVIII
+891,BV-II-a-A-11849 BV-II-m-A-11849.01,Ansamblul bisericii evanghelice fortificate Biserica evanghelică,sat VULCAN; Str. comuna VULCAN sat VULCAN; Str.,Principală 1 Principală 1,"sec. XIII - XVIII sec. XIII - XVI, 1665, 1793 -"
+893,BV-II-m-A-11849.02,"Incintă fortificată, cu turnuri, încăperi pentru provizii, anexe",sat VULCAN; Str. comuna VULCAN,Principală 1,sec. XV - XVIII
+894,BV-II-m-B-20943,Fosta Şcoală Germană,sat VULCAN; Str. comuna VULCAN,Principală 80,sec. XIX
+895,BV-II-a-B-11850,Centrul istoric,oraş ZĂRNEŞTI N Eminescu str.,"- str. Meţianu Ioan, Mitropolit; E - str. Mihai; S - str. Şenchea Ioan; V Baiulescu Bartolomeu, mitropolit",sec. XVIII - XIX -
+896,BV-II-a-A-11851,"Ansamblul bisericii ""Sf. Nicolae”",oraş ZĂRNEŞTI Str.,Spârchez Tiberiu 1,sec. XVI - XIX
+897,BV-II-m-A-11851.01,"Biserica ""Sf. Nicolae”",oraş ZĂRNEŞTI Str.,Spârchez Tiberiu 1,sec. XIX
+898,BV-II-m-A-11851.02,Paraclis,oraş ZĂRNEŞTI Str.,Spârchez Tiberiu 1,sec. XVI - XIX
+899,BV-II-m-A-11852,"Biserica ""Naşterea Maicii Domnului”",oraş ZĂRNEŞTI Str.,Tei 15,sec. XVIII
+900,BV-II-m-B-11853,"Biserica ""Sf. Treime”",sat ZIZIN; comuna Str. TĂRLUNGENI,Horea 17,sec. XVIII
+901,BV-II-m-B-11854,Casă,sat ZIZIN; comuna Str. TĂRLUNGENI,Vladimirescu Tudor 478,sec. XIX
+902,BV-III-m-B-11855,Bustul lui Şt. O. Iosif,municipiul BRAŞOV Parcul,Central,sec. XX
+903,BV-III-m-B-11856 BV-III-m-B-11857,Fântână arteziană (replică) Statuia lui Johannes,municipiul BRAŞOV În municipiul BRAŞOV Curtea,"faţa Casei Armatei Honterus Johannes f.n., Lângă","sec. XIX, replică 2007 1898"
+905,BV-III-m-B-11858,Bustul generalului Traian Moşoiu,sat BRAN; comuna Parcul BRAN,Central,1927
+906,BV-III-m-B-11859,Bustul lui Badea Cârţan,municipiul FĂGĂRAŞ În,faţa Casei de Cultură,sec. XX
+907,BV-III-m-B-11860,Bustul Doamnei Stanca,municipiul FĂGĂRAŞ În,faţa laturii de SE a cetăţii,sec. XX
+908,BV-III-m-B-11861,Monumentul poetului Mihai Săulescu,"oraş PREDEAL D.N.1,",la ieşirea spre Timiş,1924
+909,BV-III-m-B-11862,Monumentul Eroilor Ceferişti,oraş PREDEAL Parcul,Central,sec. XX
+910,BV-IV-m-B-11863,Troiţa Junilor Bătrâni sau Crucea din Varişte,municipiul BRAŞOV Str. Varişte,"Învăţătorilor, la intersecţia cu str.",1810
+911,BV-IV-m-B-11864,Cruce de piatră,municipiul BRAŞOV La Vasile,intersecţia str. Pajiştei cu str. Dr. Saftu,sec. XVIII
+912,BV-IV-m-B-11865,Troiţa Junilor Roşiori,municipiul BRAŞOV Pe Poiana,"dealul Warthe, lângă drumul spre Braşov",sec. XIX
+913,BV-IV-m-B-11888,Mormântul lui Virgil Oniţiu (1864-1915),municipiul BRAŞOV Str. „Cuvioasa,"Baiulescu Gh. 16, în cimitirul Bisericii Paraschiva”-Groaveri",1915
+914,BV-IV-m-B-11889,Mormântul lui Andrei Mureşianu (1816-1863),municipiul BRAŞOV Str. „Cuvioasa,"Baiulescu Gh. 16, în cimitirul Bisericii Paraschiva”-Groaveri",1863
+915,BV-IV-m-A-11307.02 BV-IV-m-B-11867,"Cimitirul bisericii ""Sf. Treime”-Grecească Crucea din Cutun",municipiul BRAŞOV Str. municipiul BRAŞOV Str.,"Bariţiu Gh. 12 Bariţiu Gh. 12, în cimitirul bisericii ""Sf.",sec. XVIII - XIX 1292
+917,BV-IV-m-B-11868,Casa Ştefan Demeter,municipiul BRAŞOV Str.,Bariţiu Gh. 28,sf. sec. XVIII
+918,BV-IV-m-B-11869,Casa Cincinat Pavelescu,municipiul BRAŞOV Str.,Bălcescu Nicolae 26,sec. XVIII - XIX
+919,BV-IV-m-B-11870,Casa Adolf Meschendörfer,municipiul BRAŞOV Şirul,Beethoven 1,sec. XVIII
+920,BV-IV-m-B-11872,Casa Dumitru Orghidan,municipiul BRAŞOV Str.,"Birt Ilie, căpitan 11",sec. XIX
+921,BV-IV-m-B-11871,Casa căpitanului Ilie Birt,municipiul BRAŞOV Str.,"Birt Ilie, căpitan 34, Pe Tocile 19A","sec. XVIII, modificări 2008"
+922,BV-IV-m-A-11873,Troiţa căpitanului Ilie Birt,municipiul BRAŞOV Str.,"Birt Ilie, căpitan 34","1748, reparată 1901"
+923,BV-IV-m-A-11336.02,"Cimitirul bisericii ""Adormirea Maicii Domnului”",municipiul BRAŞOV Str.,Bisericii Române 47,sec. XVIII - XIX
+924,BV-IV-m-B-11340.03,"Cripta bisericii evanghelice ""Blumăna""",municipiul BRAŞOV Str. bisericii,"Cantacuzino Ion, doctor 2, În cimitirul evanghelice ""Blumăna""",sec. XIX
+925,BV-IV-m-B-11340.05,"Cimitirul bisericii evanghelice ""Blumăna""",municipiul BRAŞOV Str.,"Cantacuzino Ion, doctor 2",sec. XVIII - XIX
+926,BV-IV-m-B-11874,Casa Andrei Mureşianu şi Constantin Secăreanu,municipiul BRAŞOV Str.,Castelului 38,sec. XIX
+927,BV-IV-m-B-11875 BV-IV-m-B-11876,Casa negustorului Radu Pascu Casa Lang,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Castelului 41 Castelului 57,sec. XIX sec. XVIII
+929,BV-IV-m-B-11877,Hanul Maria D. Orghidan,municipiul BRAŞOV Str.,Castelului 91,sf. sec. XVIII
+930,BV-IV-m-B-11878,"""Crucea Muşicoiului”",municipiul BRAŞOV Str.,"Curcanilor, pe Dealul Goriţa",1671
+931,BV-IV-m-B-11879,Cruce,municipiul BRAŞOV Str.,Curcanilor 20,1781
+932,BV-IV-m-B-11880,Crucea de la Hiroadă,municipiul BRAŞOV Str.,Curcanilor 29,"1761, 1861"
+933,BV-IV-m-B-11881,Crucea de la Ştim (Crucea din Grui),municipiul BRAŞOV Str.,Curcanilor 36,1871
+934,BV-IV-m-B-11882,Casa pictorului Gustav Kollar,municipiul BRAŞOV Str.,Dealul Spirii 26,sec. XX
+935,BV-IV-m-B-11883,Casa Adolf şi Harald Meschendörfer,municipiul BRAŞOV Str.,Demetrescu Traian 13,sec. XX
+936,BV-IV-m-B-11884,Casa Ciurcu,municipiul BRAŞOV Str.,Hirscher Apollonia 1,sec. XIX
+937,BV-IV-m-B-11885,Casa David Iordache,municipiul BRAŞOV Str.,Hirscher Apollonia 14,sec. XIX
+938,BV-IV-m-B-11886,Casa Bucur Pop,municipiul BRAŞOV Str.,Hirscher Apollonia 18,sf. sec. XVIII
+939,BV-IV-m-B-11887 BV-IV-m-B-11890,Casa Radu Olteanu Casa Constantin Lacea,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Iorga Nicolae 4 Lacea Constantin 6,sec. XX sec. XVIII
+941,BV-IV-m-B-11891,Casa Lucian Blaga,municipiul BRAŞOV Str.,Lacea Constantin 10,sec. XIX
+942,BV-IV-m-B-11427.01,"Cimitirul evanghelic ""Braşovul Vechi""",municipiul BRAŞOV Str.,Lungă 2,sec. XVIII
+943,BV-IV-m-B-11892,"Fostul hotel ""Bucureşti"" - loc memorial Alexandru Ioan Cuza",municipiul BRAŞOV Str.,Lungă 5,1866
+944,BV-IV-m-B-11893,Casa artistului plastic Irina Lukasz,municipiul BRAŞOV Str.,Lungă 10,sec. XX
+945,BV-IV-m-B-11894,Casa artistului plastic Mattis Teutsch,municipiul BRAŞOV Str.,Lungă 143,sec. XX
+946,BV-IV-m-A-11461.02,"Cimitirul bisericii evanghelice ""Sf. Bartolomeu""",municipiul BRAŞOV Str.,Lungă 251,sec. XIII - XIX
+947,BV-IV-m-B-11895,Casa pictorului Ştefan Mironescu,municipiul BRAŞOV Str.,Mironescu Ştefan 6,sec. XX
+948,BV-IV-m-B-11896,Crucea de pe Cacova,municipiul BRAŞOV Str.,"Moşoiu Traian, general 22",sec. XVIII
+949,BV-IV-m-B-11897,Cruce de piatră,municipiul BRAŞOV Str.,"Moşoiu Traian, general 46",1887
+950,BV-IV-m-B-11898,Casa Karl Hübner,municipiul BRAŞOV Str.,Olteniei 1,sec. XX
+951,BV-IV-m-B-11899 BV-IV-m-B-11900,Troiţă cu cruce de piatră Casa Şt. O. Iosif,municipiul BRAŞOV Str. municipiul BRAŞOV Str.,Pajiştei 61 Prundului 4,1887 sec. XIX
+953,BV-IV-m-B-11901,Casa George Bariţiu,municipiul BRAŞOV Str.,Republicii 43,sec. XIX
+954,BV-IV-m-B-11557.03,"Cimitirul bisericii ""Sf. Treime""- Pe Tocile",municipiul BRAŞOV Str.,"Saftu Vasile, dr. 57",sec. XIX - XX
+955,BV-IV-m-B-11557.04,Mausoleul Eroilor din 1918,municipiul BRAŞOV Str.,"Saftu Vasile, dr. 57",1920 - 1940
+956,BV-IV-m-B-11902,Casa Gheorghe Nica,municipiul BRAŞOV Str.,Sf. Ioan 11,sec. XX
+957,BV-IV-m-A-11903,Troiţa Căpitanului Ilie Birt,municipiul BRAŞOV Piaţa,Unirii,1762
+958,BV-IV-m-B-11904,Cruce de piatră,municipiul BRAŞOV Str.,"Varişte f.n., Coasta Prundului",1713
+959,BV-IV-m-B-11905,"Hanul ""La îngerul auriu”",municipiul BRAŞOV Str.,Weiss Michael 23,sec. XIX
+960,BV-IV-m-B-11906,Cruce de piatră,sat BECLEAN; În comuna BECLEAN,"centrul satului, în faţa Primăriei-nr.196",sec. XVIII
+961,BV-IV-m-B-11604.02,Cruce de piatră,"sat BECLEAN; 176-A, comuna BECLEAN Maicii","în curtea bisericii ""Adormirea Domnului""",sec. XVIII
+962,BV-IV-m-B-11606.02,Cruce de piatră,sat BOD; comuna Str. BOD biserica,"Şaguna Andrei, mitropolit 384, lângă ""Sf. Nicolae""",1874
+963,BV-IV-m-B-11907 BV-IV-m-B-11908,Casa Ion Ursu Casa Ion Popescu,sat CAŢA; comuna 153 CAŢA sat CAŢA; comuna 212,,sec. XX sec. XX
+965,BV-IV-m-B-11909,Şcoala românească,sat CINCU; comuna 17 CINCU,,sec. XVIII
+966,BV-IV-m-B-11910,Casa Valeriu Branişte,sat CINCU; comuna 252 CINCU,,sec. XX
+967,BV-IV-m-B-11911,Casa pictorului Aurel Bordenache,oraş CODLEA Str.,Bălcescu Nicolae 45B,sec. XX
+968,BV-IV-m-B-11912,Casina Română,oraş CODLEA Str.,Constituţiei 48,1800
+969,BV-IV-m-B-11913,Şcoala germană,oraş CODLEA Str.,Măgurii 4,1772
+970,BV-IV-m-B-11914,Casa pictorului Eduard Morres,oraş CODLEA Str.,Măgurii 13,sec. XIX
+971,BV-IV-m-B-11915,Casa scriitorului popular Michael Königes,oraş CODLEA Str.,Măgurii 20,sec. XIX
+972,BV-IV-m-B-11656.02,"Cimitirul bisericii ""Adormirea Maicii Domnului”",sat CRISTIAN; Str. comuna CRISTIAN,Popovici Stoica 17,
+973,BV-IV-m-B-11916,Casa Aron Pumnul,sat CUCIULATA; 113 comuna HOGHIZ,,sec. XIX
+974,BV-IV-m-B-11917,Casa Şt. O. Iosif,sat DRĂUŞENI; 241 comuna CAŢA,,sec. XIX
+975,BV-IV-m-B-11918,Cruce de piatră,sat DUMBRĂVIŢA; În comuna,faţa dispensarului veterinar,sec. XVIII - XIX
+976,BV-IV-m-A-11919,Monumentul studenţilor saşi căzuţi în luptă în 1612,sat FELDIOARA; La comuna FELDIOARA,marginea SV a satului,1913
+977,BV-IV-m-A-11742.03,"Cruce de piatră, în curtea bisericii ""Naşterea Sf. Ioan Botezătorul”",sat POIANA 20 MĂRULUI; comuna POIANA MĂRULUI,,1700
+978,BV-IV-m-B-11920,Casa Nicolae Filipescu,oraş RUPEA Str.,Republicii 105,sec. XVIII
+979,BV-IV-m-B-11921,Troiţă,municipiul SĂCELE Bd. str.,"Moroianu General, la intersecţia cu Tărlungeni",sec. XVIII
+980,BV-IV-m-B-11922,Troiţa cu crucea de piatră pictată,municipiul SĂCELE Str. George,"Jinga Victor Prof., colţ cu str. Coşbuc",sec. XIX
+981,BV-IV-m-B-11923,Casa Magheru Darie,municipiul SĂCELE Str.,Magheru Darie 39,sec. XIX
+982,BV-IV-m-B-11796.03,Cruce de piatră,"municipiul SĂCELE Str. ""Sf.","Minea Ilie 227-232, În curtea bisericii Adormire a Maicii Domnului”",1900
+983,BV-IV-m-B-11806.02,Troiţă de lemn,"municipiul SĂCELE Bd. ""Adormirea","Moroianu, General, în curtea bisericii Maicii Domnului”- Satulung",1918
+984, BV-IV-m-B-11924, Casa Zaharia Bârsan, sat SÂNPETRU; Str. comuna SÂNPETRU, Republicii 614, sec. XX
+985,BV-IV-m-A-11824.02 BV-IV-m-A-11843.04,Cruci Cimitir evanghelic,sat ŞIMON; comuna 340 BRAN sat VISCRI; comuna 52,,sec. XVIII - XIX sec. XVIII - XX

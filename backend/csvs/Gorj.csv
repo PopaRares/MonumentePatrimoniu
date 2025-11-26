@@ -1,0 +1,463 @@
+Nr. crt.,Cod LMI,Denumire,Localitate,Adresă,Datare
+2,GJ-I-s-B-09116,Aşezarea medievală de la Târgu Jiu,municipiul TÂRGU JIU,"Str. Ursați f.n., ""Câmpul lui Pătru” - Polata",sec. XIV - XVI
+3,GJ-I-s-B-09117,Aşezarea dacică de la Albeni,sat ALBENI; comuna ALBENI,"""La morminţi”",Epoca dacică
+4,GJ-I-s-B-09118,Aşezare,sat ALBENI; comuna ALBENI,"""La Biserică”",sec. XVI
+5,GJ-I-s-B-09119,Situl arheologic de la Alimpeşti,sat ALIMPEŞTI; comuna ALIMPEŞTI,"""Măgura”",Epoca dacică
+6,GJ-I-m-A-09119.01,Aşezare,sat ALIMPEŞTI; comuna ALIMPEŞTI,"""Măgura”",Epoca dacică
+7,GJ-I-s-A-09120,"Situl arheologic de la ""Peştera Muierilor""",sat BAIA DE FIER; comuna BAIA DE FIER,"""Peştera Muierilor”",
+8,GJ-I-m-A-09120.01,Aşezare,sat BAIA DE FIER; comuna BAIA DE FIER,"""Peştera Muierilor”",Paleolitic mijlociu
+9,GJ-I-m-A-09120.02,Aşezare,sat BAIA DE FIER; comuna BAIA DE FIER,"""Peştera Muierilor”",Epoca bronzului
+10,GJ-I-s-B-09121,Aşezarea neolitică de la Baia de Fier,sat BAIA DE FIER; comuna BAIA DE FIER BENGEŞTI-CIOCADIA,"""Peştera Pârcălabului”",Neolitic
+12,GJ-I-s-B-09123,Aşezarea de la Bâlteni,sat BÂLTENI; comuna BÂLTENI,"""La Cimitir”","sec. V, Epoca migraţiilor"
+13,GJ-I-s-B-09124,Casele Bengescu,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,"""Podul Gilortului”",sec. XVI - XVII
+14,GJ-I-s-A-09125,Aşezarea paleolitică de la Boroşteni,sat BOROŞTENI; comuna PEŞTIŞANI,"""Peştera Cioarei”",Paleolitic superior
+15,GJ-I-s-A-09126,Castrul şi aşezarea civilă de la Bumbeşti - Jiu,oraş BUMBEŞTI-JIU,"""Gară""",sec. II - III p. Chr.
+16,GJ-I-m-A-09126.01,Castru de piatră,oraş BUMBEŞTI-JIU,"""Gară""",sec. II - III p. Chr.
+17,GJ-I-m-A-09126.02,Aşezare civilă,oraş BUMBEŞTI-JIU,"""Gară""","sec. II - III p. Chr., Epoca romană"
+18,GJ-I-s-B-09127,Situl arheologic de la Bumbeşti - Jiu,oraş BUMBEŞTI-JIU,"""Vârtop”","sec. II p. Chr., Epoca romană"
+19,GJ-I-m-B-09127.01,Aşezare civilă,oraş BUMBEŞTI-JIU,"""Vârtop”","sec. II p. Chr., Epoca romană"
+20,GJ-I-m-B-09127.02,Castru de pământ,oraş BUMBEŞTI-JIU,"""Vârtop”",sec. II p. Chr.
+21,GJ-I-m-B-09127.03,Val de pământ,oraş BUMBEŞTI-JIU,"""Vârtop”","sec. II p. Chr., Epoca romană"
+22,GJ-I-s-B-09128,"Ruinele mănăstirii ""Sf. Treime” - Vişina",oraş BUMBEŞTI-JIU,"""La Vişina”","sec. XIV - XV, Epoca romană"
+23,GJ-I-s-B-09129,Castrul roman de la Bumbeşti-Jiu,oraş BUMBEŞTI-JIU,"""La şcoala Pleşa”","sec. II p. Chr., Epoca romană romană"
+25,GJ-I-m-B-09129.02,Val de pământ,oraş BUMBEŞTI-JIU,"""La şcoala Pleşa”","sec. II p. Chr., Epoca romană"
+26,GJ-I-s-B-09130,"Situl arheologic de la Călugăreni, punct ""La morminţi""",sat CĂLUGĂRENI; comuna PADEŞ,"""La morminţi""",
+27,GJ-I-m-B-09130.01,Aşezare,sat CĂLUGĂRENI; comuna PADEŞ,"""La morminţi""",sec. XVI
+28,GJ-I-m-B-09130.02,Aşezare,sat CĂLUGĂRENI; comuna PADEŞ,"""La morminţi""",Hallstatt
+29,GJ-I-m-B-09130.03,Aşezare,sat CĂLUGĂRENI; comuna PADEŞ,"""La morminţi""","Epoca bronzului timpuriu, Cultura Glina"
+30,GJ-I-s-B-09131,Aşezarea medievală de la Frăţeşti,sat FRĂTEŞTI; comuna LELEŞTI,"""Pârâul Şuşiţa”",sec. XIV
+31,GJ-I-s-B-09132,Aşezarea romană de la Glodeni,sat GLODENI; comuna BĂLĂNEŞTI,"""La Biserică”",sec. II - III p. Chr.
+32,GJ-I-s-B-09133,Situl arheologic de la Gornăcel,sat GORNĂCEL; comuna SCHELA,"""La Biserică”",
+33,GJ-I-m-B-09133.01,Aşezare,sat GORNĂCEL; comuna SCHELA,"""La Biserică”","Neolitic, Cultura Vinèa"
+34,GJ-I-m-B-09133.02,Aşezare,sat GORNĂCEL; comuna SCHELA,"""La Biserică”",Epoca bronzului
+35,GJ-I-s-B-09134,Aşezarea romană de la Hăieşti,sat HĂIEŞTI; comuna SĂCELU,"""Jidovi”",sec. II - III p. Chr.
+36,GJ-I-s-B-09136,Aşezare fortificată dacică fortificată,sat PĂIŞANI; comuna STOINA comuna POLOVRAGI,"""La Cetate”","sec. IV - I a. Chr., Latène Cultura geto - dacică"
+38,GJ-I-s-B-09138,"Situl arheologic de la Runcu, punct ""La Bulboc”, ""Cracul Răchiţele”, ""Peştera Popii”",sat RUNCU; comuna RUNCU,"""La Bulboc”, ""Cracul Răchiţele”, ""Peştera Popii”",
+39,GJ-I-m-B-09138.01,Aşezare,sat RUNCU; comuna RUNCU,"""La Bulboc”, ""Cracul Răchiţele”, ""Peştera Popii”","Epoca bronzului timpuriu, Cultura Coţofeni"
+40,GJ-I-m-B-09138.02,Aşezare,sat RUNCU; comuna RUNCU,"""La Bulboc”, ""Cracul Răchiţele”, ""Peştera Popii”",Paleolitic
+41,GJ-I-s-B-09139,"Situl arheologic de la Runcu, punct ""La Cruce”",sat RUNCU; comuna RUNCU,"""La Cruce”",
+42,GJ-I-m-B-09139.01,Aşezare,sat RUNCU; comuna RUNCU,"""La Cruce”",Latène
+43,GJ-I-m-B-09139.02,Aşezare,sat RUNCU; comuna RUNCU,"""La Cruce”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
+44,GJ-I-s-B-09140,Aşezarea medievală de la Runcu,sat RUNCU; comuna RUNCU,"""La morminţi"", în vatra satului",sec. XV - XVI
+45,GJ-I-s-B-09141,Aşezarea şi necropola romană de la Săcelu,sat SĂCELU; comuna SĂCELU,"""Turtiţa”, ""Grui”",Epoca romană
+46,GJ-I-m-B-09141.01,Aşezare,sat SĂCELU; comuna SĂCELU,"""Turtiţa”, ""Grui”",sec. II - III p. Chr.
+47,GJ-I-m-B-09141.02,Necropolă,sat SĂCELU; comuna SĂCELU SĂCELU,"""Turtiţa”, ""Grui”",sec. II - III p. Chr.
+49,GJ-I-s-B-09142,Situl arheologic de la Sărdăneşti,sat SĂRDĂNEŞTI; comuna PLOPŞORU,"""În cimitir”",
+50,GJ-I-m-B-09142.01,Necropolă,sat SĂRDĂNEŞTI; comuna PLOPŞORU,"""În cimitir”",sec. XVII
+51,GJ-I-s-B-09143,Situl arheologic de la Socu,sat SOCU; comuna BĂRBĂTEŞTI,"""Cioaca Boii” şi ""Dealul lui Istrate”",
+52,GJ-I-m-B-09143.01,Aşezare,sat SOCU; comuna BĂRBĂTEŞTI,"""Cioaca Boii” şi ""Dealul lui Istrate”",Epoca dacică
+53,GJ-I-m-B-09143.02,Aşezare,sat SOCU; comuna BĂRBĂTEŞTI,"""Cioaca Boii” şi ""Dealul lui Istrate”","sec. II a. Chr. - sec. I p. Chr., Latène"
+54,GJ-I-m-B-09143.03,Aşezarea de epoca bronzului de la Socu,sat SOCU; comuna BĂRBĂTEŞTI,"""Cioaca Boii” şi ""Dealul lui Istrate”",Epoca bronzului timpuriu
+55,GJ-I-m-B-09143.04,Aşezare,sat SOCU; comuna BĂRBĂTEŞTI,"""Cioaca Boii” şi ""Dealul lui Istrate”","Perioada de tranziţie la epoca bronzului, Cultura Coţofeni"
+56,GJ-I-s-B-09144,Situl arheologic de la Spahii,sat SPAHII; comuna TURBUREA,"""Dealul Spahiilor”",
+57,GJ-I-m-B-09144.01,Aşezare,sat SPAHII; comuna TURBUREA,"""Dealul Spahiilor”","sec. III a. Chr., Latène"
+58,GJ-I-m-B-09144.02,Necropolă dacică,sat SPAHII; comuna TURBUREA,"""Dealul Spahiilor”","sec. III a. Chr., Latène"
+59,GJ-I-s-B-09145,Situl arheologic de la Şiacu,sat ŞIACU; comuna SLIVILEŞTI,"""Dealul Bungeteanu”",
+60,GJ-I-m-B-09145.01,Fortificaţie,sat ŞIACU; comuna SLIVILEŞTI SLIVILEŞTI,"""Dealul Bungeteanu”","sec. VII - VI a. Chr. epoca bronzului, Cultura"
+62,GJ-I-s-B-09146,Fortificaţia dacică de la Şomăneşti,sat ŞOMĂNEŞTI; comuna TELEŞTI,"""Cioca cu bani”","sec. I a. Chr., Latène"
+63,GJ-I-s-B-09147,Aşezarea neolitică de la Şura,sat ŞURA; comuna SLIVILEŞTI,"""Valea Caselor”","Neolitic, Cultura Vinca"
+64,GJ-I-s-B-09148,"Situl arheologic de la Târgu - Cărbuneşti, punct ""Geminele""",oraş TÂRGU CĂRBUNEŞTI,"""Geminele”",
+65,GJ-I-m-B-09148.01,Aşezare,oraş TÂRGU CĂRBUNEŞTI,"""Geminele”",Epoca bronzului
+66,GJ-I-m-B-09148.02,Aşezare,oraş TÂRGU CĂRBUNEŞTI,"""Geminele”","Neolitic, Cultura Sălcuţa"
+67,GJ-I-s-A-09149,Situl arheologic de la Teleşti,sat TELEŞTI; comuna TELEŞTI,"""Curături”",
+68,GJ-I-m-A-09149.01,Necropolă,sat TELEŞTI; comuna TELEŞTI,"""Curături”",Hallstatt târziu
+69,GJ-I-m-A-09149.02,Așezare,sat TELEŞTI; comuna TELEŞTI,"""Curături”","sec. VI - V a. Chr., Hallstatt"
+70,GJ-I-s-A-09150,Necropola Hallstatt de la Teleşti,sat TELEŞTI; comuna TELEŞTI,"""Livezile mari”","sec. VI - V a. Chr., Hallstatt târziu"
+71,GJ-I-s-B-09151,Situl arheologic de la Toiaga,sat TOIAGA; comuna STOINA,"""Curături”",
+72, GJ-I-m-B-09151.01, Aşezare, sat TOIAGA; comuna STOINA STOINA," ""Curături”"," sec. IV - I a. Chr., Latène"
+74,GJ-I-s-B-09152,Aşezarea de epoca bronzului de la Topeşti,sat TOPEŞTI; comuna TISMANA,"""Cetate”",Epoca bronzului
+75,GJ-I-s-B-09153,Aşezarea dacică fortificată de la Ţicleni,sat ŢICLENI; comuna ŢICLENI,"""La Cetate”","Latène, Cultura geto - dacică"
+76,GJ-I-s-B-09154,Ruinele bisericii mănăstirii de la Valea Mănăstirii,sat VALEA MĂNĂSTIRII; comuna CĂTUNELE,"""În cimitir”",sec. XIV
+77,GJ-I-s-B-09155,Situl arheologic de la Valea Perilor,sat VALEA PERILOR; comuna CĂTUNELE,"""Chivadarul”",sec. II - III p. Chr.
+78,GJ-I-s-B-09155.01,Castru de pământ,sat VALEA PERILOR; comuna CĂTUNELE,"""Chivadarul”",sec. II - III p. Chr.
+79,GJ-I-s-B-09155.02,Aşezare,sat VALEA PERILOR; comuna CĂTUNELE,"""Chivadarul”",sec. II - III p. Chr.
+80,GJ-I-s-B-09156,Aşezarea de la Valea Poienii,sat VALEA POIENII; comuna SĂMĂRINEŞTI,"""La Măgura”",sec. V - VII
+81,GJ-I-s-B-09157,Aşezarea de la Văgiuleşti,sat VĂGIULEŞTI; comuna VĂGIULEŞTI,"""Valea Casei”",sec. V - VI
+82,GJ-I-s-B-09158,Situl arheologic de la Vidin,sat VIDIN; comuna JUPÂNEŞTI,"""Surliţa” şi ""Boia”",
+83,GJ-I-m-B-09158.01,Aşezare,sat VIDIN; comuna JUPÂNEŞTI,"""Surliţa” şi ""Boia”",sec. XVIII
+84,GJ-I-m-B-09158.02,Aşezare,sat VIDIN; comuna JUPÂNEŞTI,"""Surliţa” şi ""Boia”",Epoca dacică
+85,GJ-I-m-B-09158.03,Aşezare bronzului de la Vierşani,sat VIDIN; comuna JUPÂNEŞTI JUPÂNEŞTI,"""Surliţa” şi ""Boia”",Epoca bronzului Verbicioara
+87,GJ-I-s-B-09160,Aşezarea de epoca bronzului de la Vierşani II,sat VIERŞANI; comuna JUPÂNEŞTI,"""Piscul cerului”","sec. II - I a. Chr., Latène"
+88,GJ-II-m-B-09179,Şcoala Normală,municipiul TÂRGU JIU,Str. 1 Decembrie 1918 106,1924
+89,GJ-II-m-B-09165,"Biserica ""Sf. Nicolae”, ""Sf. Andrei”",municipiul TÂRGU JIU,Str. 11 Iunie 1848 50,1810
+90,GJ-II-m-B-09166,Casa protopopului Andrei Schevofilax,municipiul TÂRGU JIU,Str. 16 Februarie 9,sec. XVIII
+91,GJ-II-m-B-09163,Podul Vechi,municipiul TÂRGU JIU,"Bd. Brâncuşi Constantin 12, Grădina publică",1894
+92,GJ-II-m-B-09167,Casă,municipiul TÂRGU JIU,Bd. Brâncuşi Constantin 15,1933
+93,GJ-II-m-B-09168,Cămin de Ucenici al Cooperaţiei Meşteşugăreşti,municipiul TÂRGU JIU,Bd. Brâncuşi Constantin 19,1933
+94,GJ-II-m-B-09287,"Biserica ""Sf. Nicolae”",municipiul TÂRGU JIU,Str. Cuza Alexandru Ioan 23,1768
+95,GJ-II-a-A-09185,Ansamblul curţii lui Cornea Brăiloiu,municipiul TÂRGU JIU,Str. Dumbrava 35,sec. XVIII
+96, GJ-II-m-A-09185.01, Casa lui Cornea Brăiloiu, municipiul TÂRGU JIU, Str. Dumbrava 35, 1699
+97,GJ-II-m-A-09185.03,Zid de incintă,municipiul TÂRGU JIU,Str. Dumbrava 35,sec. XVIII - XIX
+99,GJ-II-m-B-09172,Casa Vintilă,municipiul TÂRGU JIU,Calea Eroilor 5,1928
+100,GJ-II-m-B-20124,Casă,municipiul TÂRGU JIU,Calea Eroilor 20,înc. sec. XX
+101,GJ-II-m-B-09173,Casă,municipiul TÂRGU JIU,Calea Eroilor 23,1929
+102,GJ-II-m-B-09171,"Biserica ""Sf. Apostoli”",municipiul TÂRGU JIU,Calea Eroilor 44A,1937
+103,GJ-II-m-B-09174,Casa Opriş,municipiul TÂRGU JIU,Calea Eroilor 49,1930
+104,GJ-II-m-B-09175,Casă,municipiul TÂRGU JIU,Calea Eroilor 92,1928
+105,GJ-II-m-B-09176,Casa Ion Carabatescu,municipiul TÂRGU JIU,Str. Geneva 4,înc. sec. XX
+106,GJ-II-m-B-09177,Prefectura Veche,municipiul TÂRGU JIU,Str. Geneva 8,1875
+107,GJ-II-m-B-09178,Casa Gherghe,municipiul TÂRGU JIU,Str. Geneva 13A,1930 - 1935
+108,GJ-II-m-B-09180,Casa şetrarului Chiriţă Corbeanu,municipiul TÂRGU JIU,Str. Parâng 1,sec. XVIII
+109,GJ-II-m-B-09181,Casa Iunian Grigore,municipiul TÂRGU JIU,Bd. Republicii 1,1940
+110, GJ-II-m-B-09182, Casele Doppelreiter, municipiul TÂRGU JIU, Bd. Republicii 10, 1932
+112,GJ-II-m-B-09184,Casa Vasile Moangă,municipiul TÂRGU JIU,Str. Siretului 30,sec. XVIII
+113,GJ-II-m-B-09162,"Biserica ""Naşterea Maicii Domnului”",municipiul TÂRGU JIU,"Aleea Teodoroiu Ecaterina 13, Cartier Șișeşti",1839
+114,GJ-II-m-A-09185.02,"Biserica ""Adormirea Maicii Domnului”",municipiul TÂRGU JIU,Bd. Teodoroiu Ecaterina 365,"1694, ref. 1911"
+115,GJ-II-a-B-09186,Ansamblu urban,municipiul TÂRGU JIU,"Str. Traian, Vladimirescu T., Unirii, Griviţa, Calea ferată, Calea Eroilor",
+116,GJ-II-m-B-09187,"Colegiul Naţional ""Tudor Vladimirescu”",municipiul TÂRGU JIU,Str. Unirii 13,1896 - 1898
+117,GJ-II-m-B-09188,Casa Catană,municipiul TÂRGU JIU,Str. Unirii 37,1930 - 1935
+118,GJ-II-m-A-09189,"Biserica ""Sf. Voievozi”",municipiul TÂRGU JIU,Piaţa Victoriei,1748 - 1764
+119,GJ-II-m-B-09190,Casa Barbu Gănescu,municipiul TÂRGU JIU,Piaţa Victoriei 2,sec. XVIII
+120,GJ-II-m-A-09191,Prefectura Judeţului Gorj,municipiul TÂRGU JIU,Piaţa Victoriei 4,1898
+121,GJ-II-m-B-09192,"Palatul Finanţelor, azi Universitatea C. Brâncuşi",municipiul TÂRGU JIU,Str. Victoriei 24,1900
+122,GJ-II-m-B-09193,Casă,municipiul TÂRGU JIU,Str. Victoriei 126,1909
+123,GJ-II-m-B-09194,Casa Niculescu,municipiul TÂRGU JIU,Str. Victoriei 132,1907
+125,GJ-II-m-B-09196,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 14,1850
+126,GJ-II-m-B-20125,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 16,1864
+127,GJ-II-m-B-09197,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 18,1934
+128,GJ-II-m-B-21126,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 20,1912
+129,GJ-II-m-B-09198,Casa Găvănescu,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 25,1934
+130,GJ-II-m-B-09199,Casa Miloşescu,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 27,1910
+131,GJ-II-m-B-09200,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 29,1893
+132,GJ-II-m-B-09201,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 31,1893
+133,GJ-II-m-B-09202,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 33,1926
+134,GJ-II-m-B-09204,Casa Dimitrie Măldărescu,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 36,sec. XVIII
+135,GJ-II-m-B-09203,Casă,municipiul TÂRGU JIU,Str. Vladimirescu Tudor 37,1912
+136, GJ-II-m-B-09205," Ruinele bisericii ""Sf. Nicolae” Îngeri”", sat ALBENI; comuna ALBENI ALIMPEŞTI,, ante 1730
+138,GJ-II-m-B-09207,"Biserica de lemn ""Cuvioasa Paraschiva”",sat ANINIŞU DIN VALE; comuna CRASNA,,1800
+139,GJ-II-m-B-09208,Casa de lemn Elisaveta Raşoveanu,sat ARCANI; comuna ARCANI,,înc. sec. XIX
+140,GJ-II-m-B-09209,"Biserica de lemn ""Sf. Ioan Botezătorul”",sat ARTANU; comuna NEGOMIR,,1825
+141,GJ-II-a-B-09210,"Ansamblul bisericii ""Toţi Sfinţii”",sat BAIA DE FIER; comuna BAIA DE FIER,,1750
+142,GJ-II-m-B-09210.01,"Biserica ""Toţi Sfinţii""",sat BAIA DE FIER; comuna BAIA DE FIER,,1750
+143,GJ-II-m-B-09210.02,Zid de incintă,sat BAIA DE FIER; comuna BAIA DE FIER,,1750
+144,GJ-II-m-B-09211,Gospodăria Pătru Flondor,sat BAIA DE FIER; comuna BAIA DE FIER,,
+145,GJ-II-m-B-09212,Casa Mihuţescu,sat BAIA DE FIER; comuna BAIA DE FIER,,înc. sec. XX
+146,GJ-II-m-B-09214,Casa Gică Popescu,sat BĂLĂNEŞTI; comuna BĂLĂNEŞTI,,sec. XIX
+147,GJ-II-m-B-09215,Casa Barbici,sat BĂLĂNEŞTI; comuna BĂLĂNEŞTI,,înc. sec. XIX
+148,GJ-II-m-A-09216,"Biserica de lemn ""Sf. Voievozi”",sat BĂLĂNEŞTI; comuna BĂLĂNEŞTI,Cătun Toropi,1680
+149,GJ-II-m-B-09217,"Ruinele bisericii ""Sf. Grigore Teologul” Cochină",sat BĂLĂNEŞTI; comuna BĂLĂNEŞTI BĂLĂNEŞTI,Cătun Viezuri,1841
+151,GJ-II-m-B-09219,"Biserica de lemn ""Sf. Gheorghe”",sat BĂLCEŞTI; comuna BOLBOŞI,,1755 - 1757
+152,GJ-II-m-B-09223,Casa Sârbu,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,26,sf. sec. XIX
+153,GJ-II-a-B-09233,Ansamblul şcolii din Bălceşti,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,111,înc. sec. XX
+154,GJ-II-m-B-09233.01,Şcoală,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,111,înc. sec. XX
+155,GJ-II-m-B-09233.02,Casă,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,111,înc. sec. XX
+156,GJ-II-m-B-09233.03,Fântână,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,111,înc. sec. XX
+157,GJ-II-m-B-09222,Gospodăria C. Avramescu,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,149,1936
+158,GJ-II-m-B-09220,"Biserica ""Sf. Ilie”",sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,224,1732
+159,GJ-II-m-B-09234,"Gospodăria Ion Danciu (casa mare, fântâna, casa din spatele curţii, anexe)",sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,"315, Cătun Pereşti",1930
+160,GJ-II-m-B-09221,"Biserica de lemn ""Intrarea în Biserică a Maicii Domnului”",sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,"430, Cătun Pereşti",1790
+161,GJ-II-m-B-09225,Casa Costică Bărbătescu,sat BĂRBĂTEŞTI; comuna BĂRBĂTEŞTI comuna BĂRBĂTEŞTI,,1848 - 1850
+163,GJ-II-m-B-09226,"Biserica de lemn ""Sf. Pantelimon""",sat BĂZĂVANI; comuna SAMARINEŞTI,,sec. XIX
+164,GJ-II-m-B-09227,"Biserica ""Sf. Vasile"" şi ""Sf. Împăraţi”",sat BÂLTENI; comuna BÂLTENI,,1826
+165,GJ-II-m-B-09228,Casa Dincă Schileru,sat BÂLTENI; comuna BÂLTENI,,înc. sec. XX
+166,GJ-II-m-B-09229,"Şcoala ""Dincă Schileru”",sat BÂLTENI; comuna BÂLTENI,,înc. sec. XX
+167,GJ-II-m-B-20129,"Biserica de lemn ""Sf. Nicolae”",sat BÂRCACIU; comuna MUŞETEŞTI,,1713
+168,GJ-II-m-B-09230,"Biserica de lemn ""Sf. Gheorghe”",sat BÂRZEIU DE GILORT; comuna ALBENI,,1800
+169,GJ-II-m-B-20130,Casă,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,,1932
+170,GJ-II-m-B-09235,Casa Vartolomei Văruţ,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,4,1933
+171,GJ-II-m-B-09236,Casa David Colibăşanu,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,16,înc. sec. XX
+172,GJ-II-m-B-09237,Casă,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,26,înc. sec. XX
+173,GJ-II-m-B-09238,Cooperativa de Credit,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,80,înc. sec. XX
+174,GJ-II-m-B-09232,Casa Elena Giurcă,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA BENGEŞTI-CIOCADIA,109,1933
+176,GJ-II-m-B-09240,Vila Doichin N. Georgescu,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,119,înc. sec. XIX
+177,GJ-II-m-B-09241,Casa Şt. N. Geană,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,140,1908
+178,GJ-II-m-B-20131,Casă,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,213,înc. sec. XX
+179,GJ-II-m-B-09242,Casă,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,477,înc. sec. XX
+180,GJ-II-a-B-09231,"Ansamblul bisericii ""Sf. Voievozi”",sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,637,sec. XVIII
+181,GJ-II-m-B-09231.01,"Biserica ""Sf. Voievozi""",sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,637,sec. XVIII
+182,GJ-II-m-B-09231.02,Zid de incintă,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,637,sec. XVIII
+183,GJ-II-m-B-09243,"Biserica de lemn ""Intrarea în Biserică a Maicii Domnului”",sat aparţinător BERCEŞTI; oraş NOVACI,Cătun Măgura,1834
+184,GJ-II-m-B-20132,"Biserica de lemn ""Sf. Nicolae”",sat BIBEŞTI; comuna SĂULEŞTI,,1799
+185,GJ-II-m-B-09244,"Biserica de lemn ""Sf. Ioan Botezătorul”",sat BOBU; comuna SCOARŢA,Cătun Bobaia,ante 1816
+186,GJ-II-m-B-09245,"Biserica de lemn ""Naşterea Maicii Domnului” ""Bunavestire”",sat BOBU; comuna SCOARŢA SAMARINEŞTI,Cătun Gorgania,ante 1860
+188,GJ-II-m-B-09246,"Biserica de lemn ""Sf. Dumitru”",sat BOIA; comuna JUPÂNEŞTI,,"sec. XVIII, ref. 1816"
+189,GJ-II-m-B-09247,"Biserica ""Sf. Nicolae”",sat BRĂDICENI; comuna PEŞTIŞANI,Cătun Mămăroi,1739
+190,GJ-II-m-B-09248,"Biserica ""Sf. Nicolae”, ""Sf. Voievozi”",sat BRĂNEŞTI; comuna BRĂNEŞTI,,1854 - 1859
+191,GJ-II-m-B-09249,"Biserica de lemn ""Sf. Voievozi”",sat BRĂTUIA; comuna DĂNEŞTI,,sec. XIX
+192,GJ-II-m-B-09250,"Biserica ""Sf. Trei Ierarhi”",sat BUDIENI; comuna SCOARŢA,,1832
+193,GJ-II-m-B-09251,Casa Coliţă,sat BUDIENI; comuna SCOARŢA,,sf. sec. XVIII
+194,GJ-II-m-B-09252,"Biserica de lemn ""Sf. Nicolae”",oraş BUMBEŞTI JIU,Cătun Sârbeşti,1760
+195,GJ-II-m-B-09253,"Biserica ""Sf. Nicolae”",oraş BUMBEŞTI-JIU,Cartier Lăzăreşti,"1763, ref. sec. XX"
+196,GJ-II-m-B-09254,"Biserica ""Intrarea în Biserică” a mănăstirii Lainici",oraş BUMBEŞTI-JIU,cartier Lainici,1812 - 1827
+197,GJ-II-m-B-09255,"Biserica ""Schimbarea la Faţă”",oraş BUMBEŞTI-JIU,Cartier Tetila,1835
+198,GJ-II-a-A-09256,Muzeul arhitecturii populare gorjeneşti,oraş BUMBEŞTI-JIU,Cartier Curţişoara,
+199,GJ-II-m-A-09256.01,Cula Cornoiu Botezătorul”,oraş BUMBEŞTI-JIU,Cartier Curţişoara,sec. XVIII
+201,GJ-II-m-B-09257,"Ruinele bisericii ""Adormirea Maicii Domnului”, ""Sf. Dumitru”",sat BUMBEŞTI-PIŢIC; comuna BUMBEŞTI- PIŢIC,,sec. XIX
+202,GJ-II-m-B-09258,"Biserica de lemn ""Cuvioasa Paraschiva”",sat BUMBEŞTI-PIŢIC; comuna BUMBEŞTI- PIŢIC,Cătun Lupeşti,"1640, ref. 1833"
+203,GJ-II-m-B-09259,Han,sat BUMBEŞTI-PIŢIC; comuna BUMBEŞTI- PIŢIC,La piatra kilometrică 122,înc. sec. XX
+204,GJ-II-m-B-09260,Casa Pozneria Pantelie,sat BUMBEŞTI-PIŢIC; comuna BUMBEŞTI- PIŢIC,145,înc. sec. XIX
+205,GJ-II-m-B-09261,"Biserica de lemn ""Sf. Îngeri”",sat BUZEŞTI; comuna CRASNA,,1833
+206,GJ-II-m-B-09262,Casa Manciu,sat CAPU DEALULUI; comuna BRĂNEŞTI,114,înc. sec. XX
+207,GJ-II-m-B-09263,"Biserica ""Sf. Apostoli”",sat CARTIU; comuna TURCINEŞTI,,"1817, modif. 1904 -1908"
+208,GJ-II-m-A-09264,Casa Cartianu,sat CARTIU; comuna TURCINEŞTI,,sf. sec. XVIII
+209,GJ-II-m-B-09265,"Biserica de lemn ""Sf. Gheorghe”, ""Intrarea în Biserică”",sat CĂLUGĂREASA; comuna PRIGORIA comuna PRIGORIA,Cătun Ţoţoi,1775
+211,GJ-II-a-B-09268,"Ansamblul bisericii de lemn ""Intrarea în Biserică”",sat CĂRPINIŞ; comuna CRASNA,,1738
+212,GJ-II-m-B-09268.01,"Biserica de lemn ""Intrarea în Biserică”",sat CĂRPINIŞ; comuna CRASNA,,1738
+213,GJ-II-m-B-09268.02,Zid de incintă,sat CĂRPINIŞ; comuna CRASNA,,sec. XIX
+214,GJ-II-m-B-09269,"Biserica ""Naşterea Maicii Domnului”",sat CĂTUNELE; comuna CĂTUNELE,,1827
+215,GJ-II-m-B-09271,"Biserica de lemn ""Sf. Voievozi”",sat CÂRBEŞTI; comuna DRĂGUŢEŞTI,Cătun Văleni,1780
+216,GJ-II-m-B-09272,"Biserica de lemn ""Cuvioasa Paraschiva”",sat CÂRLIGEI; comuna BUMBEŞTI-PIŢIC,,1816
+217,GJ-II-m-B-09273,"Biserica de lemn ""Sf. Arhangheli”",sat CEAURU; comuna BĂLEŞTI,cătun Arhonţi,1672
+218,GJ-II-m-B-09274,"Biserica ""Sf. Împăraţi”",sat CEPLEA; comuna PLOPŞORU,,1836
+219,GJ-II-m-B-09275,Casa Cepleanu,sat CEPLEA; comuna PLOPŞORU,,1822 - 1823
+220,GJ-II-m-B-20134,"Biserica de lemn ""Sf. Ioan Botezătorul”",sat CERNĂDIA; comuna BAIA DE FIER,,1731
+221,GJ-II-a-B-09276,"Ansamblul bisericii ""Sf. Ioan Botezătorul”",sat CIOCADIA; comuna BENGEŞTI-CIOCADIA,27,
+222,GJ-II-m-B-09276.01,"Biserica ""Sf. Ioan Botezătorul”",sat CIOCADIA; comuna BENGEŞTI-CIOCADIA BENGEŞTI-CIOCADIA,27,1808
+224,GJ-II-m-B-09277,"Biserica de lemn ""Pogorârea Sf. Duh”, ""Sf. Nicolae”",sat CIOCADIA; comuna BENGEŞTI-CIOCADIA,88,1763
+225,GJ-II-m-B-09278,"Biserica ""Sf. Împăraţi”",sat CIORARI; comuna STOINA,,1824
+226,GJ-II-m-B-09279,"Biserica de lemn ""Cuvioasa Paraschiva”",sat CIUPERCENI; comuna CIUPERCENI,cătun Văianu,1736 - 1737
+227,GJ-II-m-B-09280,"Biserica ""Sf. Nicolae”",sat CLEŞNEŞTI; comuna GLOGOVA,,1864
+228,GJ-II-m-B-09281,"Biserica de lemn ""Înălţarea Domnului”",sat CLOŞANI; comuna PADEŞ,,1790
+229,GJ-II-m-B-09282,"Biserica de lemn ""Sf. Nicolae”",sat COLIBAŞI; comuna SCOARŢA,În cimitir,1781
+230,GJ-II-m-B-09283,"Biserica de lemn ""Buna Vestire”, ""Izvorul Tămăduirii”",sat COPĂCIOASA; comuna SCOARŢA,,"1719, ref. 1797 şi 1870"
+231,GJ-II-m-B-20135,Casa Petre Dobran,sat COPĂCIOASA; comuna SCOARŢA,,1910
+232,GJ-II-m-B-09284,Casa Ioana I. Popescu,sat COPĂCIOASA; comuna SCOARŢA,7,înc. sec. XX
+233,GJ-II-m-B-09285,"Biserica de lemn ""Sf. Dumitru”, ""Adormirea Maicii Domnului”",sat CORNEŞTI; comuna BĂLEŞTI,,1846
+234,GJ-II-m-B-20136,"Biserica de lemn ""Sf. Nicolae”",sat CORNETU; comuna CĂPRENI VĂGIULEŞTI,,1829 - 1830
+236,GJ-II-m-B-09286.01,"Biserica ""Naşterea Maicii Domnului” a fostului schit Covrigi",sat COVRIGI; comuna VĂGIULEŞTI,,1809
+237,GJ-II-m-B-09286.02,Ruine chilii,sat COVRIGI; comuna VĂGIULEŞTI,,1809
+238,GJ-II-a-A-09288,Ansamblul schitului Crasna,sat CRASNA; comuna CRASNA,Fostul sat Crasna-Ungureni,1636
+239,GJ-II-m-A-09288.01,"Biserica ""Sf. Nicolae”",sat CRASNA; comuna CRASNA,fostul sat Crasna - Ungureni,1636
+240,GJ-II-m-A-09288.02,Chilii,sat CRASNA; comuna CRASNA,fostul sat Crasna - Ungureni,sec. XVII
+241,GJ-II-m-A-09288.03,Turn clopotniţă,sat CRASNA; comuna CRASNA,fostul sat Crasna - Ungureni,sec. XVII
+242,GJ-II-m-A-09288.04,Zid de incintă,sat CRASNA; comuna CRASNA,fostul sat Crasna - Ungureni,sec. XVII
+243,GJ-II-m-B-09289,"Biserica de lemn ""Intrarea în Biserică”",sat CRASNA DIN DEAL; comuna CRASNA,,1795
+244,GJ-II-m-B-09290,Casa de lemn Dumitru Danciu,sat CRASNA DIN DEAL; comuna CRASNA,,sec. XVIII
+245,GJ-II-m-B-09291,"Biserica de lemn ""Adormirea Maicii Domnului”",sat CRASNA DIN VALE; comuna CRASNA,,sec. XVIII
+246, GJ-II-m-B-09292," Biserica de lemn ""Izvorul Tămăduirii” ""Adormirea Maicii", sat CRASNA UNGURENI; comuna CRASNA STĂNEŞTI,, 1768
+248,GJ-II-m-B-09294,"Biserica ""Sf. Nicolae”",sat CURSARU; comuna PLOPŞORU,,1820
+249,GJ-II-m-B-20137,"Biserica de lemn ""Sf. Trei Ierarhi”",sat DEALU VIILOR; comuna CĂTUNELE,,sec. XIX
+250,GJ-II-m-B-09295,Pivniţă de deal,sat DOBRIŢA; comuna RUNCU,,sec. XIX
+251,GJ-II-m-B-09296,"Biserica ""Sf. Arhangheli”",sat DOSENI; comuna ALBENI,,1825
+252,GJ-II-m-B-09169,Casă,"localitate componentă DRĂGOENI, municipiul TÂRGU JIU",Str. Drăgoeni 74,înc. sec. XX
+253,GJ-II-m-B-09170,Casă,"localitate componentă DRĂGOENI, municipiul TÂRGU JIU",Str. Drăgoeni 172,înc. sec. XX
+254,GJ-II-m-B-20123,Casă,"localitate componentă DRĂGOENI, municipiul TÂRGU JIU",Str. Drăgoeni 414,înc. sec. XX
+255,GJ-II-m-B-09297,"Biserica de lemn ""Cuvioasa Paraschiva”",sat DRĂGOIEŞTI; comuna CRASNA,În cimitir,1760
+256,GJ-II-m-B-09298,"Biserica de lemn ""Adormirea Maicii Domnului”",sat DUMBRĂVENI; comuna CRASNA,,1768
+257,GJ-II-m-B-09299,"Biserica de lemn ""Sf. Gheorghe” Ioan Botezătorul”",sat DUMBRĂVENI; comuna CRASNA comuna FĂRCĂŞEŞTI,În cimitir,1824
+259,GJ-II-m-B-20138,"Biserica de lemn ""Sf. Nicolae”",sat FĂRCĂŞEŞTI; comuna FĂRCĂŞEŞTI,,1847
+260,GJ-II-m-B-09302,"Biserica ""Sf. Împăraţi”",sat FRASIN; comuna VLADIMIR,,1817
+261,GJ-II-m-B-09303,"Biserica de lemn ""Adormirea Maicii Domnului”",sat FRĂTEŞTI; comuna LELEŞTI,,1825
+262,GJ-II-m-B-09301,"Biserica de lemn ""Sf. Gheorghe”",sat FRÂNCEŞTI; comuna PEŞTIŞANI,Cătun Boacşa,1823
+263,GJ-II-m-B-09304,"Biserica de lemn ""Sf. Gheorghe”",sat GLODENI; comuna BĂLĂNEŞTI,Cătun Cioreşti,1772
+264,GJ-II-m-A-09305,"Biserica de lemn ""Cuvioasa Paraschiva”",sat GLODENI; comuna BĂLĂNEŞTI,Cătun Bâşneci,"1728, ref. 1791-1792"
+265,GJ-II-m-B-20139,Pivniţă de deal,sat GLODENI; comuna BĂLĂNEŞTI,,sec. XIX
+266,GJ-II-a-A-09306,Ansamblul Glogoveanu,sat GLOGOVA; comuna GLOGOVA,,sec. XVII - XVIII
+267,GJ-II-m-A-09306.01,Casa Glogoveanu,sat GLOGOVA; comuna GLOGOVA,,sec. XVII - XVIII
+268,GJ-II-m-A-09306.02,"Biserica ""Sf. Nicolae”",sat GLOGOVA; comuna GLOGOVA,,1730
+269,GJ-II-m-A-09306.03,Zid de incintă,sat GLOGOVA; comuna GLOGOVA,,sec. XVIII
+270,GJ-II-m-B-09307,"Biserica de lemn ""Naşterea Maicii",sat GORNOVIŢA; comuna TISMANA,,"1764, ref. 1939 - 1945"
+271,GJ-II-m-B-09308,"Biserica ""Sf. Arhangheli”",sat GROŞEREA; comuna ANINOASA,,1808
+272,GJ-II-m-A-09309,Cula Crăsnaru,sat GROŞEREA; comuna ANINOASA,,sec. XVIII
+273,GJ-II-m-B-09310,"Biserica de lemn ""Cuvioasa Paraschiva”",sat GURENI; comuna PEŞTIŞANI,,1812
+274,GJ-II-m-B-09311,"Biserica de lemn ""Sf. Voievozi”",sat HIRIŞEŞTI; comuna NOVACI,,1758
+275,GJ-II-m-B-09312,"Biserica de lemn ""Intrarea în Biserică”",sat HOBIŢA; comuna PEŞTIŞANI,,1822
+276,GJ-II-m-B-09313,"Biserica ""Sf. Gheorghe”",sat HORĂŞTI; comuna MOTRU,,1878 - 1886
+277,GJ-II-m-B-09314,"Biserica de lemn ""Adormirea Maicii Domnului”",sat HOREZU; comuna TURCINEŞTI,,1814
+278,GJ-II-m-B-09315,"Biserica ""Sf. Dumitru”",sat HUREZANI; comuna HUREZANI,,1842
+279,GJ-II-m-B-09316,"Biserica ""Sf. Voievozi”",sat IONEŞTI; comuna IONEŞTI,,ante 1836
+280,GJ-II-m-B-20140,Ruine de biserică,sat IZVOARELE; comuna PLOPŞORU,,înc. sec. XIX
+281,GJ-II-m-B-09317,Cula I.C. Davani,sat LARGA; comuna SAMARINEŞTI,,prima jum. a sec. XIX
+282,GJ-II-m-B-09318,"Biserica ""Sf. Ilie"" ""Duminica Tomii”",sat LARGA; comuna SAMARINEŞTI SCOARŢA,,1826
+284,GJ-II-m-B-09320,"Biserica de lemn ""Sf. Ioan Gură de Aur”",sat LELEŞTI; comuna LELEŞTI,cătun Ursăţei,1791
+285,GJ-II-m-B-09321,"Biserica de lemn ""Sf. Nicolae”",sat LELEŞTI; comuna LELEŞTI,,1773
+286,GJ-II-m-B-09322,"Biserica de lemn ""Intrarea în Biserică a Maicii Domnului”",sat LICURICI; comuna LICURICI,,1776 - 1777
+287,GJ-II-m-B-09323,"Biserica de lemn ""Sf. Gheorghe”",sat LINTEA; comuna SCOARŢA,,1798
+288,GJ-II-m-B-09324,"Biserica de lemn ""Sf. Nicolae”",sat LUNCA; comuna VLADIMIR,,1830
+289,GJ-II-m-B-09325,"Biserica ""Sf. Nicolae”, ""Sf. Gheorghe”",sat LUPOAIA; comuna CĂTUNELE,cătun Lupoiţa,1805
+290,GJ-II-m-B-09326,"Biserica ""Sf. Nicolae”",sat MĂIAG; comuna CRUŞEŢ,cartier Valea Boului,1818
+291,GJ-II-m-B-09327,"Biserica de lemn ""Sf. Nicolae”",sat MĂTĂSARI; comuna MĂTĂSARI,,1897
+292,GJ-II-m-B-09328,"Biserica de lemn ""Intrarea în Biserică”",sat MĂZĂROI; comuna STĂNEŞTI,,1834
+293,GJ-II-m-B-09329,"Biserica ""Sf. Nicolae”",sat MICULEŞTI; comuna SLIVILEŞTI,,1872
+294,GJ-II-m-B-09330,"Biserica de lemn ""Cuvioasa Paraschiva”, ""Intrarea în Biserică” lemn ""Sf. Ioan",sat MIROSLOVENI; comuna ALBENI,,1812
+296,GJ-II-m-B-09331.01,"Biserica de lemn ""Sf. Ioan Botezătorul”",municipiul MOTRU,cartier Ploştina,1840 - 1850
+297,GJ-II-m-B-09331.02,Clopotniţa,municipiul MOTRU,cartier Ploştina,1840 - 1850
+298,GJ-II-m-B-09332,"Biserica de lemn ""Sf. Voievozi”",municipiul MOTRU,cartier Leurda,1839
+299,GJ-II-m-B-09333,"Biserica ""Adormirea Maicii Domnului”",municipiul MOTRU,cartier Lupoiţa,1768 - 1797
+300,GJ-II-m-B-20141,"Biserica de lemn ""Sf. Nicolae”",sat MURGILEŞTI; comuna VAGIULEŞTI,,1768
+301,GJ-II-m-B-09334,"Biserica de lemn ""Sf. Îngeri”",sat MUŞETEŞTI; comuna MUŞETEŞTI,"""În cimitir”",1751
+302,GJ-II-m-B-09335,"Biserica ""Naşterea Maicii Domnului”",sat NEGOIEŞTI; comuna PRIGORIA,,1730
+303,GJ-II-m-B-09336,"Biserica de lemn ""Sf. Nicolae”",sat NEGOMIR; comuna NEGOMIR,cătun Curtişoara,1813
+304,GJ-II-m-B-09337,"Biserica de lemn ""Sf. Voievozi”",sat NISTOREŞTI; comuna ALIMPEŞTI,cătun Petecei,1750
+305,GJ-II-m-B-09338,"Biserica de lemn ""Sf. Voievozi”",oraş NOVACI,cartier Vlădoi,sec. XVIII
+306,GJ-II-m-B-09339,"Biserica "" Sf. Atanasie şi Chiril”",sat PADEŞ; comuna PADEŞ,,1883
+307,GJ-II-m-B-09340,Casa Constantin Nacu,sat PADEŞ; comuna PADEŞ STOINA,,sec. XIX
+309,GJ-II-m-B-09342,"Biserica de lemn ""Sf. Voievozi”",sat PÂRÂU VIU; comuna BERLEŞTI,Cătun Glăveni,1778
+310,GJ-II-m-B-09343,"Biserica ""Sf. Nicolae”",sat PEŞTEANA DE JOS; comuna FĂRCĂŞEŞTI,Valea cu apă,1804
+311,GJ-II-m-B-09344,Şcoală,sat PEŞTEANA JIU; comuna BÂLTENI,,înc. sec. XX
+312,GJ-II-m-B-09345,"Biserica de lemn ""Cuvioasa Paraschiva”",sat PEŞTIŞANI; comuna PEŞTIŞANI,Cătun Suseni,"1735, modif. 1856"
+313,GJ-II-m-B-09346,"Biserica de lemn ""Schimbarea la Faţă”",sat PIEPTANI; comuna CÂLNIC,,1810 - 1815
+314,GJ-II-m-B-09347,"Biserica de lemn ""Sf. Treime”",sat PISTEŞTII DIN DEAL; comuna SCOARŢA,,1700
+315,GJ-II-m-B-09348,Casa Tenu,sat PISTEŞTII DIN DEAL; comuna SCOARŢA,,sec. XIX
+316,GJ-II-m-B-09349,Casa Gore Sgarbură,sat PISTEŞTII DIN VALE; comuna BĂLĂNEŞTI,Cătun Pişteştii din Vale,sec. XIX
+317,GJ-II-m-B-09350,"Biserica de lemn ""Sf. Gheorghe”",sat PISTEŞTII DIN VALE; comuna BĂLĂNEŞTI,,1857
+318,GJ-II-m-B-09352,Moară,sat PLOPŞORU; comuna PLOPŞORU,,înc. sec. XX
+319,GJ-II-m-B-09368,"Biserica de lemn ""Sf. Voievozi”",sat PLOPŞORU; comuna PLOPŞORU,,1874
+320,GJ-II-m-B-09353,Casă Andrei”,sat PLOPŞORU; comuna PLOPŞORU TISMANA,60,înc. sec. XIX
+322,GJ-II-m-B-09355,"Biserica de lemn ""Intrarea în Biserică”",sat POIENARI; comuna BUMBEŞTI-PIŢIC,Cătun Măgura,1834
+323,GJ-II-m-B-20142,"Biserica de lemn ""Naşterea Maicii Domnului”",sat POJARU; comuna BUSTUCHIN,,1825
+324,GJ-II-a-A-09356,Mănăstirea Polovragi,sat POLOVRAGI; comuna POLOVRAGI,,sec. XVI - XVIII
+325,GJ-II-m-A-09356.01,"Biserica ""Adormirea Maicii Domnului”",sat POLOVRAGI; comuna POLOVRAGI,,1648
+326,GJ-II-m-A-09356.02,"Bolniţa ""Sf. Nicolae”",sat POLOVRAGI; comuna POLOVRAGI,,1732
+327,GJ-II-m-A-09356.03,Stăreţie,sat POLOVRAGI; comuna POLOVRAGI,,sec. XVII - XVIII
+328,GJ-II-m-A-09356.04,Turn clopotniţă,sat POLOVRAGI; comuna POLOVRAGI,,1648
+329,GJ-II-m-B-09357,"Biserica de lemn ""Sf. Nicolae”",sat POLOVRAGI; comuna POLOVRAGI,,1806
+330,GJ-II-m-B-09358,"Biserica ""Sf. Nicolae”, ""Sf. Dumitru ""şi ""Sf. Împăraţi”",sat PRIGORIA; comuna PRIGORIA,,1836
+331,GJ-II-m-B-09359,Casa de lemn Maria Stoican,sat PRIPORU; comuna CIUPERCENI,,sec. XIX
+332, GJ-II-m-B-09360," Biserica de lemn ""Adormirea Maicii Domnului”"," sat RASOVA; comuna BĂLEŞTI ROMANEȘTI, municipiul"," ""La Iovan""", 1834
+334,GJ-II-m-B-09361,"Biserica de lemn ""Sf. Voievozi”, ""Cuvioasa Paraschiva""",sat ROŞIA DE AMARADIA; comuna ROŞIA DE AMARADIA,,"1782, ref. 1900"
+335,GJ-II-m-B-09362,"Biserica de lemn ""Sf. Ioan Botezătorul”",oraş ROVINARI,,1796
+336,GJ-II-m-B-09363,"Biserica de lemn ""Sf. Gheorghe”",sat RUGI; comuna TURCINEŞTI,,"1691, ref. 1833"
+337,GJ-II-m-B-09364,"Biserica de lemn ""Sf. Ioan Botezătorul”",sat RUNCUREL; comuna MĂTĂSARI,,1836
+338,GJ-II-m-B-09365,Casa - culă Eftimie Nicolaescu,sat RUNCUREL; comuna MĂTĂSARI,,sec. XIX
+339,GJ-II-m-B-09366,Casa Moangă - Pleşoianu,sat SĂCELU; comuna SĂCELU,,sec. XVIII
+340,GJ-II-m-B-09367,"Biserica de lemn ""Sf. Împăraţi”",sat SĂCELU; comuna SĂCELU,,"sec. XIX, ref. sec. XX"
+341,GJ-II-m-B-09369,"Biserica de lemn ""Sf. Gheorghe”",sat SÂMBOTIN; comuna SCHELA,,1794
+342,GJ-II-m-A-09370,"Biserica de lemn ""Sf. Dumitru”",sat SCHELA; comuna SCHELA,Cartier Vlădoi,1781
+343,GJ-II-m-B-09371,Casa Dobran,sat SCOARŢA; comuna SCOARŢA,,1905
+344, GJ-II-m-B-09372, Casa Leon Sucea, sat SCOARŢA; comuna SCOARŢA SCOARŢA,, înc. sec. XX
+346,GJ-II-m-B-09374,"Biserica de lemn ""Sf. Dimitrie şi Sf. Ioan Botezătorul”",sat SCORUŞU; comuna BORĂSCU,,
+347,GJ-II-m-B-09375,"Biserica ""Sf. Voievozi”",sat SECIURILE; comuna ROŞIA DE AMARADIA,,"1729, modif. în sec. XX"
+348,GJ-II-m-B-09376,"Biserica ""Adormirea Maicii Domnului”",sat SLĂVUŢA; comuna CRUŞEŢ,În cimitir,1813
+349,GJ-II-m-A-09377,"Biserica de lemn ""Intrarea în Biserică”",sat SLĂVUŢA; comuna CRUŞEŢ,În cimitir,1684
+350,GJ-II-m-B-09378,"Biserica de lemn ""Sf. Nicolae”",sat SLIVILEŞTI; comuna SLIVILEŞTI,,1880
+351,GJ-II-m-B-09379,Casa de lemn Florian,sat SOCU; comuna BĂRBĂTEŞTI,,sec. XVIII
+352,GJ-II-m-B-09380,Casa de lemn Ion Munteanu,sat SOCU; comuna BĂRBĂTEŞTI,,sec. XIX
+353,GJ-II-m-B-09381,Casa de lemn Aurel Buşe,sat SOCU; comuna BĂRBĂTEŞTI,,sec. XIX
+354,GJ-II-m-B-09382,"Biserica de lemn ""Sf. Arhangheli”",sat SOHODOL; comuna BAIA DE FIER,,1809
+355,GJ-II-m-B-09383,"Biserica de lemn ""Sf. Îngeri”",sat STĂNCEŞTI; comuna MUŞETEŞTI,,sec. XIX
+356,GJ-II-m-B-09384,"Biserica de lemn ""Sf. Voievozi”",sat STĂNCEŞTI LARGA; comuna MUŞETEŞTI,,1730
+357,GJ-II-m-B-09385,"Biserica ""Duminica Tuturor Sfinţilor” ""Adormirea Maicii",sat STĂNEŞTI; comuna STĂNEŞTI CĂTUNELE,,1732
+359,GJ-II-m-B-09387,"Biserica ""Sf. Împăraţi”",sat STEJARI; comuna STEJARI,,sec. XVIII
+360,GJ-II-m-B-09388,"Biserica de lemn ""Sf. Voievozi”, ""Adormirea Maicii Domnului”",sat STOLOJANI; comuna BĂLEŞTI,,1818
+361,GJ-II-a-B-09389,Mănăstirea Strâmba,sat STRÂMBA JIU; comuna TURCENI,,sec. XVI - XVIII
+362,GJ-II-m-B-09389.01,"Biserica ""Sf. Treime”",sat STRÂMBA JIU; comuna TURCENI,,1518 - 1620
+363,GJ-II-m-B-09389.02,Stăreţie,sat STRÂMBA JIU; comuna TURCENI,,sec. XVII
+364,GJ-II-m-B-09389.03,Zid de incintă,sat STRÂMBA JIU; comuna TURCENI,,sec. XVII
+365,GJ-II-m-B-09390,"Biserica ""Sf. Vasile”",sat STRÂMBA VULCAN; comuna CIUPERCENI,,1824
+366,GJ-II-m-B-09391,Casa de lemn Brădiceanu,sat STROIEŞTI; comuna ARCANI,,sec. XIX
+367,GJ-II-m-A-09392,Cula Cioabă - Chintescu,sat ŞIACU; comuna SLIVILEŞTI,,"1762, 1818 - 1825"
+368,GJ-II-m-B-09393,"Biserica de lemn ""Sf. Nicolae”",sat ŞTIUCANI; comuna SLIVILEŞTI,,1877
+369, GJ-II-a-B-09394," Ansamblul bisericii de lemn ""Sf. Nicolae”", sat ŞURA; comuna SLIVILEŞTI SLIVILEŞTI,, 1805
+371,GJ-II-m-B-09394.02,"Biserica de lemn ""Sf. Nicolae”",sat ŞURA; comuna SLIVILEŞTI,,1805
+372,GJ-II-m-B-09396,"Biserica de lemn ""Adormirea Maicii Domnului”",oraş TÂRGU CĂRBUNEŞTI,Cartier Tupşa,1832
+373,GJ-II-m-B-09397,"Biserica de lemn ""Cuvioasa Paraschiva”",oraş TÂRGU CĂRBUNEŞTI,Cartier Duţeşti,1698
+374,GJ-II-m-B-09398,"Biserica ""Sf. Ioan, Sf. Nicolae şi Sf. Gheorghe”",oraş TÂRGU CĂRBUNEŞTI,Cartier Cojani,1824 - 1825
+375,GJ-II-m-B-09399,"Biserica de lemn ""Sf. Împăraţi”",oraş TÂRGU CĂRBUNEŞTI,Cartier Curteana,1812
+376,GJ-II-m-B-09400,"Biserica de lemn ""Naşterea Maicii Domnului”",oraş TÂRGU CĂRBUNEŞTI,,1746
+377,GJ-II-m-B-09402,"Biserica de lemn ""Înălţarea Domnului”",oraş TÂRGU CĂRBUNEŞTI,Cartier Comăneşti - Pojogeni,1796
+378,GJ-II-m-B-09404,"Biserica de lemn ""Sf. Nicolae”",oraş TÂRGU CĂRBUNEŞTI,Cartier Ştefăneşti,1836
+379,GJ-II-a-B-09406,Ansamblu urban,oraş TÂRGU CĂRBUNEŞTI,"Str. Eroilor 1, 5, 6, 7, 8, 10, 14, 16, 22",
+380,GJ-II-a-B-09407,Ansamblu urban,oraş TÂRGU CĂRBUNEŞTI,"Str. Gilort 1, 3, 5",
+381,GJ-II-m-B-09405,"Mănăstirea ""Sf. Ioan Botezătorul” Voievozi”",oraş TÂRGU CĂRBUNEŞTI CĂRBUNEŞTI,Mitropolit Nestor Vornicescu 6,1780
+383,GJ-II-a-B-09408,Ansamblu urban,oraş TÂRGU CĂRBUNEŞTI,"Str. Trandafirilor 60, 62,63,67,69,71,73,75,77,79,81,83,85,87, 88,89,90,91,92,97,101,103,105,108,110, 112,116,119,120,121,122,125,127,129,1 31,134,136,140",
+384,GJ-II-a-B-09409,Ansamblul schitului Logreşti,sat TÂRGU LOGREŞTI; comuna LOGREŞTI,,1718
+385,GJ-II-m-B-09409.01,"Biserica ""Sf. Ioachim şi Ana”",sat TÂRGU LOGREŞTI; comuna LOGREŞTI,,1718
+386,GJ-II-m-B-09409.02,Chilii,sat TÂRGU LOGREŞTI; comuna LOGREŞTI,,ante 1718
+387,GJ-II-m-B-09410,"Biserica ""Sf. Nicolae”",sat TELEŞTI; comuna TELEŞTI,,1747
+388,GJ-II-m-B-09412,"Biserica ""Buna Vestire”",sat TISMANA; comuna TISMANA,,"1720, ref. sec. XX"
+389,GJ-II-a-A-09413,Mănăstirea Tismana,sat TISMANA; comuna TISMANA,,"1377 - 1378, cu adăugiri ulterioare"
+390,GJ-II-m-A-09413.01,"Biserica ""Adormirea Maicii Domnului”",sat TISMANA; comuna TISMANA,,1377 - 1378
+391,GJ-II-m-A-09413.02,"Paraclisul ""Sf. Ilie”",sat TISMANA; comuna TISMANA,,"1650, ref. 1782"
+392,GJ-II-m-A-09413.03,Turn clopotniţă,sat TISMANA; comuna TISMANA,,"sec. XVII, ref. sec. XIX"
+393,GJ-II-m-A-09413.04,Stăreţie,sat TISMANA; comuna TISMANA TISMANA,,"sec. XVII, ref. sec. XIX"
+395,GJ-II-m-A-09413.06,Incintă cu turnuri de colţ,sat TISMANA; comuna TISMANA,,"1646 - 1651, ref. sec. XIX"
+396,GJ-II-a-A-09414,Ansamblu schitului Cioclovina de Jos,sat TISMANA; comuna TISMANA,,1715
+397,GJ-II-m-A-09414.01,"Biserica ""Sf. Voievozi”",sat TISMANA; comuna TISMANA,,1715
+398,GJ-II-m-A-09414.02,Stăreţie,sat TISMANA; comuna TISMANA,,1912
+399,GJ-II-m-A-09414.03,Chilii,sat TISMANA; comuna TISMANA,,
+400,GJ-II-m-B-20269,"Ruinele bisericii ""Sf. Ilie” a schitului Cioclovina de Sus",sat TISMANA; comuna TISMANA,,1714
+401,GJ-II-m-B-09415,"Biserica ""Sf. Nicolae”",sat TOTEA; comuna LICURICI,,"1735, 1825"
+402,GJ-II-m-B-09416,"Biserica ""Sf. Împăraţi”",sat TRESTIOARA; comuna DRĂGOTEŞTI,,1855
+403,GJ-II-m-B-20144,Conacul Vasile Brătianu,sat TROCANI; comuna DĂNEŞTI,,sec. XIX
+404,GJ-II-m-B-09417,"Biserica de lemn ""Sf. Nicolae”",sat TURBUREA; comuna TURBUREA,,"1774, ref. 1846"
+405,GJ-II-m-B-09418,"Tâmpla bisericii ""Sf. Treime”",sat TURBUREA; comuna TURBUREA,,1840 - 1896
+406,GJ-II-m-B-09419,"Biserica de lemn ""Sf. Ioan Botezătorul” Păunescu",localitate componentă TURCENI; oraș TURCENI,,1730
+408,GJ-II-m-B-21062.01,Casa,oraș TURCENI,Str. Sf. Ilie 40,1934
+409,GJ-II-m-B-21062.02,Anexa (pivniţă şi garaj),oraș TURCENI,Str. Sf. Ilie 40,1934
+410,GJ-II-m-B-09420,Casa Manta,sat TURCINEŞTI; comuna TURCINEŞTI,,sec. XIX
+411,GJ-II-m-B-09421,"Biserica ""Sf. Voievozi” a fostei mănăstiri Țânţăreni",sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,"1583, 1800, cu adăugiri sec. XX"
+412,GJ-II-m-B-09422,Casa Ion Cosma,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,1923
+413,GJ-II-m-B-09423,Casa Dănciulescu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,1923
+414,GJ-II-m-B-09424,Casa Alexandru,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,1892
+415,GJ-II-m-B-09425,Casa Gheorghe Preda,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,1920 - 1925
+416,GJ-II-m-B-09426,Casa Constantin Mihăilescu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,1924
+417,GJ-II-m-B-09427,Casa Constantin Cosma,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,,1920 - 1925
+418,GJ-II-m-B-09428,"Poarta de intrare în ""Târgul de vite” comercial",sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI comuna ŢÂNŢĂRENI,,1920
+420,GJ-II-m-B-09430,Casa D. Geantă,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,525,1920
+421,GJ-II-m-B-09431,Casa Ion Drăcea,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,526,1920
+422,GJ-II-m-B-09432,Casa Ion Vasilescu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,527,1920
+423,GJ-II-m-B-09433,Casa Bogdan Naum,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,528,1913
+424,GJ-II-m-B-09434,Casă Ion Geantă,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,529,1913
+425,GJ-II-m-B-09435,Casa Adrian Sârbu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,531,1927
+426,GJ-II-m-B-09436,Casa Titi Sârbu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,531,1920
+427,GJ-II-m-B-09437,Casa Ilie Antonie,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,533,1920
+428,GJ-II-m-B-09438,Casa Dumitru Boiangiu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,563,1920
+429,GJ-II-m-B-09439,Casa Ion Hera,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,565,1926
+430,GJ-II-m-B-09440,Casa Manolescu,sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI,568,1920
+431,GJ-II-m-B-09441,"Casa Mutulescu Pârvulescu, Iancu",sat ŢÂNŢĂRENI; comuna ŢÂNŢĂRENI comuna ŢÂNŢĂRENI,569,1920
+433,GJ-II-m-B-09443,"Biserica ""Sf. Nicolae”, ""Sf. Ion”",sat URDARI; comuna URDARI,,1816
+434,GJ-II-m-B-09444,Casa de lemn Dinică Cruceru,sat URECHEŞTI; comuna DRĂGUŢEŞTI,,sec. XIX
+435,GJ-II-m-B-09445,Casa de lemn Constantin Popescu,sat URECHEŞTI; comuna DRĂGUŢEŞTI,,1825
+436,GJ-II-m-B-09446,Casa de lemn Ion Chilianu,sat URECHEŞTI; comuna DRĂGUŢEŞTI,,sec. XIX
+437,GJ-II-m-B-09447,"Biserica de lemn ""Adormirea Maicii Domnului”",sat VAIDEI; comuna STĂNEŞTI,,1827
+438,GJ-II-m-B-09448,"Biserica de lemn ""Intrarea în Biserică”",sat VALEA CU APĂ; comuna FĂRCĂŞEŞTI,,"1705, ref. din temelie 1948-1950"
+439,GJ-II-m-B-09449,"Biserica de lemn ""Sf. Gheorghe”, ""Sf. Dumitru”",sat VALEA MĂNĂSTIRII; comuna CĂTUNELE,,1821
+440,GJ-II-m-B-09450,"Ruinele bisericii ""Sf. Gheorghe”",sat VALEA POIENII; comuna SAMARINEŞTI,,1823
+441,GJ-II-m-B-09451,"Biserica de lemn ""Naşterea Maicii Domnului”",sat VALEA POJARULUI; comuna BUSTUCHIN,,1737
+442,GJ-II-m-B-09452,"Casa Tătărescu, azi Sediul Primăriei Plopşoru Andrei”, ""Sf. Dumitru”",sat VĂLENI; comuna PLOPŞORU JUPÂNEŞTI,,înc. sec. XIX
+444,GJ-II-m-B-09454,Casa Dumitru Popescu,sat VIERŞANI; comuna JUPÂNEŞTI,,sec. XIX
+445,GJ-II-m-B-09455,"Biserica ""Cuvioasa Paraschiva”",sat VLADIMIR; comuna VLADIMIR,,1822 - 1827
+446,GJ-II-m-B-09456,Casa Gârbea,sat VLADIMIR; comuna VLADIMIR,,sec. XVIII
+447,GJ-II-m-B-09457,"Biserica de lemn ""Sf. Voievozi”",sat VOITEŞTII DIN DEAL; comuna BĂLĂNEŞTI,cătun Taşcăi,1795
+448,GJ-II-m-B-09458,"Biserica de lemn ""Sf. Gheorghe”",sat VOITEŞTII DIN DEAL; comuna BĂLĂNEŞTI,cătun Podini,1818
+449,GJ-II-m-B-09459,"Biserica de lemn ""Sf. Gheorghe”",sat VOITEŞTII DIN VALE; comuna BĂLĂNEŞTI,cătun Brădet Vale,1832
+450,GJ-II-m-B-09460,"Biserica ""Sf. Dumitru”",sat ZĂICOIU; comuna DĂNCIULEŞTI,,1837
+451,GJ-II-m-B-09461,"Biserica ""Sf. Gheorghe”, ""Sf. Nicolae”",sat ZORLEŞTI; comuna PRIGORIA,,1774 - 1775
+452,GJ-III-m-B-09464,Fântâna Sâmboteanu,municipiul TÂRGU JIU,Str. Aleea Fântânii 12,"sec. XVIII, ref. în 1902"
+453,GJ-III-s-B-09463,Grădina Publică (care adăposteşte operele lui Brâncuşi),municipiul TÂRGU JIU,Bd. Brâncuşi Constantin 12,
+454,GJ-III-m-A- 09465.02,Poarta sărutului,municipiul TÂRGU JIU,"Bd. Brâncuși Constantin 12, în Grădina Publică",1937 - 1938
+455,GJ-III-m-A- 09465.03 09465.04,Masa tăcerii cu 12 scaune rotunde,municipiul TÂRGU JIU,"Bd. Brâncuși Constantin 12, în Grădina Publică Publică",1937 - 1938
+457,GJ-III-m-A- 09465.05,30 scaune pătrate,municipiul TÂRGU JIU,"Bd. Brâncuși Constantin 12, în Grădina Publică",1937 - 1938
+458,GJ-III-a-A-09465,"Ansamblul monumental ""Calea Eroilor"" realizat de Constantin Brâncuşi",municipiul TÂRGU JIU,Calea Eroilor - între Grădina Publică şi Parcul Coloanei fără sfârşit,1937 - 1938
+459,GJ-III-m-B-09466,Bustul istoricului Alexandru Ştefulescu,municipiul TÂRGU JIU,Calea Eroilor 32,1940
+460,GJ-III-s-B-09164,Parcul Coloanei fără sfârşit,municipiul TÂRGU JIU,"Calea Eroilor 94, delimitat de străzile: Craiovei, Vladimirescu Tudor, Calea Bucureşti",sec. XX
+461,GJ-III-m-A- 09465.01,Coloana fără sfârşit,municipiul TÂRGU JIU,"Calea Eroilor 94, Parcul Coloanei fără sfârşit",1937 - 1938
+462,GJ-III-m-B-09467,Monumentul Generalului Gh. Magheru,municipiul TÂRGU JIU,"Str. Magheru Gheorghe, general 8",1972
+463,GJ-III-m-B-09468,Ceasul solar polonez,municipiul TÂRGU JIU,"Str. Preda Marin f. n., în curtea Unității militare",1940
+464,GJ-III-m-B-09462,Monumentul lui Tudor Vladimirescu,municipiul TÂRGU JIU,"Bd. Republicii 2A, în Parcul Tudor Vladimirescu",1898
+465,GJ-III-m-B-09471,Statuia lui Constantin Brâncuşi,municipiul TÂRGU JIU,"Str. Traian 5, în faţa Casei de cultură a sindicatelor",1978
+466,GJ-III-m-B-09469,Mausoleul eroinei Ecaterina Teodoroiu aranjate de Constantin,municipiul TÂRGU JIU,Piaţa Victoriei,1933
+468,GJ-III-m-A- 09465.06,Masa rotundă,municipiul TÂRGU JIU,"Str. Victoriei 2, în curtea casei Slugerului Barbu Gănescu",
+469,GJ-III-m-B-09472,Fântână,sat BĂCEŞTI; comuna STEJARI,,sec. XlX
+470,GJ-III-m-B-09473,Monumentul lui Constantin Ivănuş,sat BUZEŞTI; comuna CRASNA,,1975
+471,GJ-III-m-B-09474,Fântâna,sat CÂRBEŞTI; comuna DRĂGUŢEŞTI,,înc. sec. XX
+472,GJ-III-m-B-09475,Fântâna,sat FRUNZA; comuna LOGREŞTI,,înc. sec. XX
+473,GJ-III-m-B-09476,Monumentul lui Mihai Viteazul,sat SCHELA; comuna SCHELA,"""Poiana lui Mihai”",1932
+474,GJ-III-m-B-09477,Monumentul Eroilor căzuţi în primul război mondial,oraş TÂRGU CĂRBUNEŞTI,Cartier Pojogeni,1926
+475,GJ-III-m-B-09478,Bustul lui Tudor Vladimirescu,sat VLADIMIR; comuna VLADIMIR,,1971
+476,GJ-IV-m-B-09479,Casa memorială Iosif Keber,municipiul TÂRGU JIU,"Str. 11 Iunie 1848, 67",1935 - 1940
+477,GJ-IV-m-B-09480,Cruce de piatră,municipiul TÂRGU JIU,Str. 23 August 49A,1779
+478, GJ-IV-m-B-09482, Bustul doctorului D. Culcer tipografului N.D., municipiul TÂRGU JIU," Str. Narciselor 2, Cimitirul Ortodox", 1920
+480,GJ-IV-m-B-09484,Mormântul lui Grigore Iunian,municipiul TÂRGU JIU,"Str. Narciselor 2, Cimitirul Ortodox",
+481,GJ-IV-m-B-09485,Mormintele refugiaţilor polonezi,municipiul TÂRGU JIU,"Str. Narciselor 4, Cimitirul catolic",1940 - 1945
+482,GJ-IV-m-B-09481,Bustul generalului Ion Culcer,municipiul TÂRGU JIU,"Str. Narciselor 34, Cimitirul Eroilor",1920
+483,GJ-IV-m-B-09486,Casa memorială Ecaterina Teodoroiu,municipiul TÂRGU JIU,Bd. Teodoroiu Ecaterina 270,sec. XIX
+484,GJ-IV-m-B-09487,Crucea de piatră a lui Popa Ilie,sat BĂLCEŞTI; comuna BENGEŞTI-CIOCADIA,,1800
+485,GJ-IV-m-B-09488,Cruce de piatră,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,,1831
+486,GJ-IV-m-B-09489,Cruce de piatră,sat BENGEŞTI; comuna BENGEŞTI-CIOCADIA,,1800
+487,GJ-IV-m-B-09490,Cruce de piatră,sat BUCŞANA; comuna PRIGORIA,,sec. XlX
+488,GJ-IV-m-B- 09491.01,Troiţă de lemn,sat CÂLNIC; comuna CÂLNIC,,1916 - 1919
+489,GJ-IV-m-B- 09491.02,Cruce de piatră,sat CÂLNIC; comuna CÂLNIC,,1916 - 1919
+490,GJ-IV-m-B-09493,"Casa ""Constantin Brâncuşi""",sat HOBIŢA; comuna PEŞTIŞANI,,sec. XIX
+491,GJ-IV-m-B-09494,"Casa - Muzeu ""Constantin Brâncuşi"" ""Proclamaţiei de la",sat HOBIŢA; comuna PEŞTIŞANI PADEŞ,,sec. XIX
+493,GJ-IV-m-B-09496,Cruce de piatră,sat PEREŞTI; comuna BENGEŞTI-CIOCADIA,,sec. XlX
+494,GJ-IV-m-B-09497,"Portretele ctitorilor din pronaosul bisericii ""Pogorârea Sfântului Duh”",sat PIŞTEŞTII DIN DEAL; comuna SCOARŢA,În cimitir,sec. XlX
+495,GJ-IV-m-B-09498,Cruce de piatră,sat POIANA; comuna TURBUREA,,sec. XVII
+496,GJ-IV-m-B-09499,Crucea lui Ursache,sat POLOVRAGI; comuna POLOVRAGI,,1800
+497,GJ-IV-m-B-09500,Troiţa de lemn,sat RASOVIŢA; comuna LELEŞTI,,sec. XX
+498,GJ-IV-m-B-09501,Monumentul Eroilor căzuţi în primul război mondial,sat SĂULEŞTI; comuna SĂULEŞTI,,sec. XX
+499,GJ-IV-m-B-09502,Cruce de piatră,sat SOCU; comuna BĂRBĂTEŞTI,,1821
+500,GJ-IV-m-B-09503,Cruce de piatră,sat SPAHII; comuna TURBUREA,,sec. XVII
+501,GJ-IV-m-B-09504,Cruce de piatră,sat ULMET; comuna STOINA,,1782
+502,GJ-IV-m-B-09505,Casa memorială Tudor Vladimirescu Popescu Voiteşti,sat VLADIMIR; comuna VLADIMIR comuna BĂLĂNEŞTI,,sec. XVIII
